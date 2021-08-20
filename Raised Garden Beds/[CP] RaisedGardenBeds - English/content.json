@@ -10,29 +10,29 @@
 					"item.name": "Garden Bed",
 					"item.name.variant": "{0} Garden Bed",
 
-					"item.description": "Allows for planting seasonal crops on unsuitable ground. Can only be placed outdoors.",
-					"item.description.indoors": "Allows for planting seasonal crops on unsuitable ground.",
-					"item.description.default": "Dummy object, not spawnable with CJB Item Spawner. Type 'rgb.give' or 'rgb.giveall' into the SMAPI console to get some!",
+					"item.description": "(กระบะปลูกผัก) ให้คุณสามารถปลูกผัก ผลไม้ตามฤดูกาลได้ แบบไม่ต้องมีพื้นดิน ใช้วางกลางจ้างเท่านั้น",
+					"item.description.indoors": "(กระบะปลูกผัก) ให้คุณสามารถปลูกผัก ผลไม้ตามฤดูกาลได้ แบบไม่ต้องมีพื้นดิน",
+					"item.description.default": "เป็นวัตถุแบบหลอกๆ ไม่สามารถเสกด้วย CJB Item Spawner ถ้าอย่าได้ ให้พิมพิ์ คำว่า rgb.give หรือ rgb.giveall ใส่ SMAPI console!",
 
 					"menu.title.new": "New blueprints",
 
-					"config.raisedbedsmaybreakwithage.name": "Garden beds break with age",
-					"config.raisedbedsmaybreakwithage.description": "Garden beds will deteriorate at the start of each new season if enabled.\nThe lifespan of each variety of bed differs,\nwith more expensive varieties lasting longer!\n\nMulti-season crops growing in garden beds will survive if their bed is broken,\nbut they won't keep growing until it's repaired!\nRepair a garden bed by placing another of the same variety in its place,\nor destroy it to regain some of the resources used to build it.",
-					"config.canbeplacedingreenhouse.name": "Can be placed in greenhouse",
+					"config.raisedbedsmaybreakwithage.name": "กระบะปลูกผัก จะผุพังไปตามกาลเวลา",
+					"config.raisedbedsmaybreakwithage.description": "กระบะปลูกผักผุพังเมื่อเริ่มฤดูใหม่ ถ้าเปิดการใช้งานนี้ไว้\nอายุการใช้งานของกระบะปลูกผักจะต่างกันไปตามชนิดของมัน\nกระบะปลูกผักที่มีราคาแพง ก็จะมีอายุการใช้งานที่นานกว่า!\n\nสำหรับผัก ที่สามารถเติบโตข้ามฤดูได้ จะไม่ตายถึงแม้ว่ากระบะปลูกผัก จะพังไปแล้วก็ตาม\nแต่ว่ามันจะไม่เติบโตต่อไป จนกว่ากระบะจะถูกซ่อมแซม!\nการซ่อมแซมกระบะปลูกผัก สามารถทำได้โดย เอากระบะปลูกผักชนิดเดียวกันอันใหม่ วางลงไปแทนที่อันเดิม\nหรือทำลายมันทิ้ง เพื่อนำวัสดุที่ใช้สร้างกลับคืนมา",
+					"config.canbeplacedingreenhouse.name": "สามารถวางในเรือนกระจกได้",
 					"config.canbeplacedingreenhouse.description": "",
-					"config.canbeplacedinfarmhouse.name": "Can be placed in farmhouse",
+					"config.canbeplacedinfarmhouse.name": "สามารถวางในบ้านได้",
 					"config.canbeplacedinfarmhouse.description": "",
-					"config.canbeplacedinbuildings.name": "Can be placed in farm buildings",
+					"config.canbeplacedinbuildings.name": "สามารถวางไว้ ในสิ่งปลูกสร้างภายในฟาร์มได้",
 					"config.canbeplacedinbuildings.description": "",
-					"config.recipesalwaysavailable.name": "Recipes always available",
-					"config.recipesalwaysavailable.description": "All varieties will be available all the time.\nIf disabled, Robin will give you basic recipes starting in Summer,\nand you'll learn more recipes through playing!",
-					"config.sprinklersenabled.name": "Sprinklers enabled",
-					"config.sprinklersenabled.description": "Garden beds will be watered by sprinklers.",
+					"config.recipesalwaysavailable.name": "แสดงสูตรการสร้างไว้ตลอด",
+					"config.recipesalwaysavailable.description": "สูตรการสร้างกระบะทุกชนิด จะแสดงให้เห็นตลอดเวลา\nหากปิดการตั้งค่านี้ โรบินจะให้แค่ สูตรการแบบพื้นฐานในฤดูร้อน,\nและคุณจะต้องเรียนรู้ การสร้างแบบอื่นๆ ในระหว่างการเล่นเกม!",
+					"config.sprinklersenabled.name": "เปิดการใช้งานสปริงเกอร์",
+					"config.sprinklersenabled.description": "สามารถใช้สปริงเกอร์รดน้ำในกระบะปลูกผักได้",
 
-					"event.0.dialogue.1": "Hi @! You look like you've settled in well to the old farm.#$b#I can see it's growing on you... or at least on your boots!$h#$b#If you're looking to grow a little extra, or just to keep things tidy, these blueprints might help you out.",
-					"event.0.dialogue.2": "Learned how to craft 'Garden Beds'",
-					"event.0.dialogue.3": "They're the plans for some farm-grade raised beds. There's a few styles here, in case you'd like to pick your favourite.#$b#I haven't got the time for gardening myself, but I still like to give back to the town gardens one way or another.",
-					"event.0.dialogue.4": "Well, if you're ever short on wood for these, you know where to buy it!$h"
+					"event.0.dialogue.1": "ไง @! ดูเหมือนว่าเธอจะไปได้สวย กับฟาร์มเก่านี้แล้วสินะ#$b#ฉันเห็นพวกพืชผัก เติบโตด้วยเพราะเธอ... หรืออย่างน้อย ก็ไอ้ที่อยู่ บนรองเท้าของเธอน่ะนะ!$h#$b#ถ้าเธออยากจะหา ที่ปลูกอะไรเพิ่มอีกซักหน่อย หรือมีความคิดว่า อยากจะจัดระเบียบพวกมันละก็ พิมพ์เขียวนี่น่าจะช่วยเธอได้นะ",
+					"event.0.dialogue.2": "คุณได้เรียนรู้วิธีการประดิษฐ์ 'กระบะปลูกผัก'",
+					"event.0.dialogue.3": "อันนี้เป็นแบบที่ใช้กันในฟาร์ม ก็มีอยู่หลายรูปทรงอยู่ เผื่อว่าเธอ จะได้เลือกแบบที่ชอบ#$b#ฉันไม่มีเวลาที่จะปลูกผัก ทำสวนเอง แต่ฉันก็อยากจะหาทางช่วยสวนต่างๆ ในเมือง ไม่ทางใดก็ทางนึง",
+					"event.0.dialogue.4": "แล้วก็ ถ้าเธอมีไม้ไม่พอ ที่จะใช้สร้างมันละก็ คงไม่ต้องบอกนะ ไว้จะไปซื้อไม้เพิ่มได้ที่ไหน!$h"
 				}
 			}
 		},
@@ -43,17 +43,17 @@
 			"Fields": {
 				"en": {
 					"blueberry.RaisedGardenBeds.RGB": {
-						"Wood": "Wood",
-						"Stone": "Stone",
-						"Brick": "Brick",
-						"Hardwood": "Hardwood",
-						"Old": "Old",
-						"Gold": "Gold",
-						"Void": "Void",
-						"Wild": "Wild",
+						"Wood": "ไม้",
+						"Stone": "หิน",
+						"Brick": "อิฐ",
+						"Hardwood": "ไม้เนื้อแข็ง",
+						"Old": "เก่า",
+						"Gold": "ทองคำ",
+						"Void": "ทมิฬ",
+						"Wild": "ดุดัน",
 						"Dungeon": "Dungeon",
-						"Candy": "Candy",
-						"Beach": "Beach",
+						"Candy": "ลูกกวาด",
+						"Beach": "ชายหาด",
 						"Crypt": "Crypt"
 					}
 				}
