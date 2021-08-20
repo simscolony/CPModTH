@@ -11,7 +11,7 @@
                 "Sun8": "หากเธอพบเจอไม้แปลกๆ ที่น่าสนใจ เอามาให้กับฉันได้นะ#$e#มันคงวิเศษมากถ้าเธอมอบให้ฉัน",
                 "event_sculpt3": null,
                 "NPC.cs.3980": "เอ่อ... คือว่า... เธออยากอยู่ด้วยกันแบบ {{RelationshipLabel}} มั้ย?#$b#มีบทกวีบทหนึ่งที่เล่าเกี่ยวกับศิลปินผู้สันโดษ... ฉันชอบนะ! แต่ชีวิตที่มีคุณน่าจะเติมเต็มฉันได้มากกว่า$h#$b#ที่หุบเขาแห่งนี้ เรามีพิธีทำพันธสัญญาที่เหมือนกับพิธีแต่งงาน ฉันจะจัดการทุกอย่างเอง เราจะทำพิธีด้วยกันในอีก 3 วัน ตกลงมั้ย?$n",
-                "NPC.cs.3962": "แน่นอนสิ! ฉันอยากจะเป็นเพื่อนสนิทกับเธอ$h#$e#ฉันอาจทำที่ระลึกเพื่อที่จะได้รำลึกถึงช่วงเวลานี้ด้วยงานศิลปะ และตกแต่งด้วยกลีบดอกไม้แห้งจากช่อดอกไม้...",
+                "NPC.cs.3962": "ฉันอยากจะเป็นเพื่อนซี้กับเธอแน่นอนอยู่แล้ว!$h#$e#ฉันอาจทำที่ระลึกด้วยกลีบดอกไม้แห้งจากช่อดอกไม้ จะได้รำลึกถึงช่วงเวลานี้ด้วยงานศิลปะ...",
                 "NPC.cs.3963": "เธออยากให้เราทำความรู้จักกันมากกว่านี้ก่อนงั้นเหรอ? ฉันนึกว่าเรารู้สึกแบบเดียวกันซะอีก#$e#สัญญานะว่าเธอจะทนฉันได้ แม้ว่าทักษะการเข้าสังคมของฉันจะขึ้นสนิมเล็กน้อย$h",
                 "NPC.cs.3985": "ฉันได้ยินมาว่าเธอได้ให้ของขวัญกับใครบางคน ในวันนี้#$e#เธอเป็นเพื่อนที่ใจดีมาก!$h",
                 "NPC.cs.4425": "ชีวิตฉันเปลี่ยนไปอย่างสิ้นเชิง ตั้งแต่ที่พวกเราได้เป็น {{RelationshipLabel}} ...$s",
@@ -38,7 +38,7 @@
             "Target": "Characters/Dialogue/Leah",
             "Entries":
             {
-                "NPC.cs.4001": "I found that fruit growing wild! Can you believe it?$h#$b#I wanted you to have it to show how much I appreciate you.$l#$b#I'm sure you remember that when we met, it hadn't been very long since I left everything I knew to pursue a dream I wasn't sure would work out.$u#$b#My life was in this precarious, transitional state... I guess it was the same for you, back then.$u#$b#Add to that putting my art out into the world, exposing something so personal to others' interpretation and judgment... $s#$b#Of course, it all turned out well. But your support through that time meant a lot to me. *You* mean a lot to me.#$b#What I really want to say is... I love you, @. My life is richer for sharing it with you.$l",
+                "NPC.cs.4001": "เชื่อมั้ยว่าฉันเจอผลไม้กำลังงอกขึ้นมาในป่าด้วยล่ะ!$h#$b#ฉันอยากให้เธอรับมันไว้ เพื่อแสดงให้เห็นว่าฉันรู้สึกขอบคุณเธอมากแค่ไหน$l#$b#ฉันจำตอนที่เราเจอกันครั้งแรกได้แม่นเลยล่ะ มันไม่นานเท่าไหร่ตั้งแต่ที่ฉันทิ้งทุกสิ่งทุกอย่างเพื่อไล่ตามความฝัน ซึ่งฉันก็ไม่แน่ใจว่าจะผ่านไปอย่างราบรื่นรึเปล่า$u#$b#ชีวิตฉันไม่มั่นคงหรือจะเรียกว่าช่วงหัวเลี้ยงหัวต่อก็ได้... ฉันเดาว่ามันเหมือนกับเธอในตอนนั้น$u#$b#ยิ่งไปกว่านั้น การนำงานศิลปะของฉันออกไปสู่สายตาชาวโลก เผยให้เห็นถึงบุคลิกภาพบางอย่างจากการตีความและคำวิพากษ์วิจารณ์ของคนอื่นๆ... $s#$b#แน่นอนว่าทุกอย่างกลับกลายเป็นไปในทางที่ดี แต่ที่สำคัญเลยก็คือเธอ เธอคอยสนับสนุนและอยู่เคียงข้างในช่วงเวลานั้นมันมีความหมายกับฉันมาก *เธอ* มีความหมายกับฉันมาก#$b#แต่ที่ฉันอยากบอกจริงๆก็คือ.. ชีวิตฉันสมบูรณ์เพียบพร้อมมากขึ้นเมื่อมีเธอร่วมทุกข์ร่วมสุข ฉันรักเธอนะ @ $l",
             },
             "When":
             {
@@ -50,7 +50,7 @@
             "Target": "Characters/Dialogue/Leah",
             "Entries":
             {
-                "NPC.cs.4001": "I found that fruit growing wild! Can you believe it?$h#$b#I wanted you to have it to show how much I appreciate you.#$b#I'm sure you remember that when we met, it hadn't been very long since I left everything I knew to pursue a dream I wasn't sure would work out.$u#$b#My life was in this precarious, transitional state... I guess it was the same for you, back then.$u#$b#Add to that putting my art out into the world, exposing something so personal to others' interpretation and judgment... $s#$b#Of course, it all turned out well. But your support through that time meant a lot to me. *You* mean a lot to me.#$b#What I really want to say is... I love you, @. My life is richer for sharing it with you.",
+                "NPC.cs.4001": "เชื่อมั้ยว่าฉันเจอผลไม้กำลังงอกขึ้นมาในป่าด้วยล่ะ!$h#$b#ฉันอยากให้เธอรับมันไว้ เพื่อแสดงให้เห็นว่าฉันรู้สึกขอบคุณเธอมากแค่ไหน#$b#ฉันจำตอนที่เราเจอกันครั้งแรกได้แม่นเลยล่ะ มันไม่นานเท่าไหร่ตั้งแต่ที่ฉันทิ้งทุกสิ่งทุกอย่างเพื่อไล่ตามความฝัน ซึ่งฉันก็ไม่แน่ใจว่าจะผ่านไปอย่างราบรื่นรึเปล่า$u#$b#ชีวิตฉันไม่มั่นคงหรือจะเรียกว่าช่วงหัวเลี้ยงหัวต่อก็ได้... ฉันเดาว่ามันเหมือนกับเธอในตอนนั้น$u#$b#ยิ่งไปกว่านั้น การนำงานศิลปะของฉันออกไปสู่สายตาชาวโลก เผยให้เห็นถึงบุคลิกภาพบางอย่างจากการตีความและคำวิพากษ์วิจารณ์ของคนอื่นๆ... $s#$b#แน่นอนว่าทุกอย่างกลับกลายเป็นไปในทางที่ดี แต่ที่สำคัญเลยก็คือเธอ เธอคอยสนับสนุนและอยู่เคียงข้างในช่วงเวลานั้นมันมีความหมายกับฉันมาก *เธอ* มีความหมายกับฉันมาก#$b#แต่ที่ฉันอยากบอกจริงๆก็คือ.. ชีวิตฉันสมบูรณ์เพียบพร้อมมากขึ้นเมื่อมีเธอร่วมทุกข์ร่วมสุข ฉันรักเธอนะ @ ",
             },
             "When":
             {
