@@ -460,7 +460,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Hey @- Whoa! What happened? Did one of the machines blow up in your face?$9#$b#A... volcano? Well, that explains the soot all over your face and clothes. You're not hurt, right?$8#$b#Only minor burns, huh? I'll wrap them up in a second. I'm so glad it's not worse.#$b#By the way, next time you go there... any chance you could bring me back a few soil samples?$4\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นเร็ว!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เธอบาดเจ็บตรงไหนมั้ย? ฉันเห็นเธอนอนสลบอยู่ ก็เลยกลัวว่าจะเป็นอะไรมั้ย\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"ควรจะระวังตัวเอง ให้มากกว่านี้หน่อยนะ เวลาเวลาที่จะไปรอบ ๆ ภูเขาไฟ#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Hey @- Whoa! What happened? Did one of the machines blow up in your face?$9#$b#A... volcano? Well, that explains the soot all over your face and clothes. You're not hurt, right?$8#$b#Only minor burns, huh? I'll wrap them up in a second. I'm so glad it's not worse.#$b#By the way, next time you go there... any chance you could bring me back a few soil samples?$4\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -475,10 +475,10 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Maru",
 		"Entries": {
-			"marriage_sit": "Do you think Penny will ever find someone to share her life with?#$b#I wonder if she'll settle down with Sam.$h",
-			"marriage_r": "You look sharp today!",
-			"marriage_r2": "I'm a farmer's {{SocialMenuLabel}}, a part-time nurse, and a scientist.#$b#If I could only choose one of those for the rest of my life... Well, I don't have to!$h", 
-			"marriage_p": "I hope Penny finds a partner someday. I know she wants a family.",
+			"marriage_sit": "เธอคิดว่าเพนนีจะได้ พบกับใครสักคนที่พร้อมจะรัก และใช้ชีวิตไปด้วยกันมั้ย?#$b#ฉันคิดว่ามีโอกาส จะเป็นแซมแน่เลย$h",
+			"marriage_r": "วันนี้เธอดูดีมาก ๆ เลยล่ะจ้ะ!",
+			"marriage_r2": "ฉันคือชาวนา {{SocialMenuLabel}} ที่มีงานเสริมเป็นพยาบาล และนักวิทยาศาสตร์#$b#ถ้าฉันจะต้องเลือกทำ อย่างใดอย่างนึงเหรอ... อยู่แล้ว ขอไม่เลือกดีกว่า$h", 
+			"marriage_p": "ฉันอยากให้เพนนี ได้เจอกับใครสักคนจังเลย ใครที่จะมาทำให้คำว่า 'ครอบครัว' ของเธอสมบูรณ์แบบ",
    	    },
 		"When": {
                		"HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
