@@ -1,9 +1,9 @@
 // This Mod For Thai language Transalation and release some bug from FroggyWizard LFL original Version.
 // For Thai User Who has language barrier or the one who want to enjoy Mods with Thai native language.
 // Again, Very thanks to FroggyWizard and  sivolobwho.
-
+// Some code need to be change for make compatible with SVE
 {
-	"Format": "1.10.0",
+"Format": "1.19.0",
 	
 	"ConfigSchema": {
 		"Date Clint": {
@@ -477,7 +477,8 @@
 				"wizard_sleep": "51/51/51"  
 				},				
 			"When": {
-				"Date Wizard": "true"
+				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			}
 		},		
 		{
@@ -521,10 +522,24 @@
 			"Target": "Maps/ClubZuzu",
 			"FromFile": "assets/Maps/ClubZuzu.tbin",
 		},
+//add compat map ForestEvent Marnie with SVE
 		{
 			"Action": "Load",
 			"Target": "Maps/forestEvent",
-			"FromFile": "assets/Maps/forestEvent.tbin",
+			"FromFile": "assets/Maps/forestEvent.tbin",  
+			"When": {
+				"Date Marnie": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+			},			
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/forestEvent",
+			"FromFile": "assets/Maps/forestEvent sve.tbin",
+			"When": {
+				"Date Marnie": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
+			},
 		},
 		{
 			"Action": "Load",
@@ -566,12 +581,27 @@
 				"Date Pam": "true",
 			},
 		},
+//add compat map SandyHouse with SVE use SVE map
 		{
 			"Action": "Load",
 			"Target": "Maps/SandyHouse",
 			"FromFile": "assets/Maps/SandyHouse.tbin",
 			"When": {
 				"Date Sandy": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+			},
+		},
+		{	
+			"Action": "EditMap",
+			"Target": "Maps/SandyHouse",
+			"FromFile": "assets/Maps/SandyHouse LFL.tbin",
+			"ToArea": { "X": 0, "Y": 0,"Width": 40, "Height": 10 },
+			"MapProperties": {
+				"Doors": "30 7 1 120"
+         },
+			"When": {
+				"Date Sandy": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
 			},
 		},
 		{
@@ -618,6 +648,7 @@
             "FromFile": "assets/Data/Events/Blacksmith.xnb",
 			"When": {
 				"Date Clint": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
@@ -666,6 +697,7 @@
             "FromFile": "assets/Characters/schedules/Sandy.json",
 			"When": {
 				"Date Sandy": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
@@ -682,6 +714,7 @@
             "FromFile": "assets/Characters/schedules/Wizard.json",
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
@@ -958,6 +991,7 @@
 			},
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
@@ -1043,6 +1077,7 @@
 			},
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
@@ -1067,6 +1102,21 @@
 			},
 			"When": {
 				"Date Clint": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Events/Blacksmith",
+			"Entries": {
+					    "282815601/D Clint/f Clint 2000/t 900 1700": "continue/7 13/farmer 5 18 0 Clint 3 13 2 Emily 5 15 0/skippable/move Emily 0 -2 3/speak Emily \"ä§̘Ð ¤ƅ¹·! ĉ¹à¨Í¼ǥ¡à͈§æ щº¹à¢Òħ¹ʱÍ¹˴ÇÂ˕Ð#$b#Ť´˗Ò¹ÒÂ¨ÐàŻ´ġ¹ ã̋ĉ¹ä˴ՁÂ? ĉ¹ҥ¹à˵¹¨ÐµÒÂá̅Ç ч¨Ðړ˗Òġ¹ƱÍÐäÃˢÒ§ã¹!$h\"/faceDirection Clint 1/speak Clint \"â̍ à˝Í... ä˴áˉ¹Í¹ àÍƁѕ ä˴ÍԒá̅Ç\"/move Clint 0 -1 1/move Clint 5 0 2/faceDirection Emily 1/move Clint 0 1 1/move Clint 3 0 1/pause 1000/speak Clint \"ġ¹ǴÍÍÐ¤ÇÒÁÒƳ¹ˉÐ\"/move Emily 5 0 1/speak Emily \"̇ÒÇ! ÊÇÂÁÒ¡àÅÂ!\"/faceDirection Clint 2/speak Clint \"˝Ò ãʺá̅Ç!... ġ¹ʁÊÇÂÍԒáËÅÐ...$s\"/pause 100/speak Emily \"ĉ¹ŵ´¹ÒÂàˇÒäË˓àËÃÍ? 25G?$h\"/speak Clint \"à˝Í... äˑ˵Í§Ť´ÁÒ¡àҳÍ§Թ¹ËÃÍ¡ µ¡Å§ՁÂ? ¼ÁäˑŤ´àŧ¹$4\"/speak Emily \"¨ƃ§àËÃÍ?! â̍ ¤ƅ¹·! ¹ÒÂàʛ¹àҮÍ¹чƤчɊ´ чڌËŭ§¤¹Ǚ§¨ÐƱä˴àÅÂ!$h\"/faceDirection Clint 1/speak Clint \"̍Í... ÁÐ-äˑ äˑ¢¹Ò´Թ¹ËÃÍ¡ Í˒Òɮ´ǖ§ġ¹àÅÂ$8#$b#ŇÒä˴ȷ¡Í˒Ò§áËÅÐàҮÍ... àҮÍ¹$s\"/speak Emily \"à̂! ĉ¹˵Í§àÍÒä»ã̋àÎƵΒɤá̅Ç à¸Í˵Í§»صÁÁÒ¡áˉ!$h#$b#ä̇à¨Íā¹¹Ð ¤ƅ¹·! Ǵ¹׉áÇÐÁÒàђÂÁч«Òɵ¹ ˴ÇÂ¹Ð!\"/faceDirection Clint 2/move Emily -5 0 2/move Emily 0 4 2/speak Emily \"â̍! @! Ƥã¨чä˴à¨Í¹Ð!$h#$b#ÁÒàђÂÁ¤ƅ¹·àËÃÍ?\"/speak Clint \"â̍... Ëħ´Ƥ @$s\"/faceDirection Emily 0/move Clint -3 0 0/move Clint 0 -1 3/move Clint -5 0 2/move Clint 0 1 2/pause 100/faceDirection Emily 2/speak Emily \"ĉ¹ä»ÅÐ¹Ð ä̇à¨Íà¸ÍÊÍ§¤¹ãËˑ¹Ð!$h\"/move farmer 1 0 3/move Emily 0 2 2/warp Emily -100 -100/pause 100/speak Clint \"à˝Í... â·ÉƧ¹ÐàҳÍ§Թ¹ @$s\"/move farmer 0 -3 0/move farmer -3 0 0/speak Clint \"$q -1 null#ã̋ʺÇÂÍÐäÃՁÂ?$s#$r -1 0 event_blacksmith1#ĉ¹Ʊ¼ǥ¡ÁÒ#$r -1 0 event_blacksmith2#ĉ¹ÁÒĭ¾à¡Ã´à¤ҳÍ§ȑÍ#$r -1 0 event_blacksmith3#ĉ¹ÁÒËÒȤ³ˉÐ\"/pause 100/speak Clint \"â·ÉƧ¹Ðчã̋ÃÍ ÅÐ-áÅÐ àҳÍ§ʱÍ¹Ë˹ÒԹ¹˴ÇÂ àҳÍ§àÍƁѕˉÐ\"/faceDirection Clint 1/speak Clint \"ġ¹ÂÒ¡ч¨Ð»ůàÊ¸àҮÍ¹ˉÐ ړՁÂ?$s\"/question fork1 \"#ÍÒËÐ#àƺÂã¨˴ÇÂ¹Ð\"/fork sadClint/faceDirection Clint 2/speak Clint \"˗Òá˅... ¡ĥºàˢÒàҳÍ§à¶ÍÐ$s\"/friendship Clint -100/end",
+						"sadClint": "pause 300/speak Clint \"Í˒ÒàƺÂã¨àÅÂ @... äˑƱÍÐäÃ˵Í§àʫ¹ã¨ËÃÍ¡#$b#¼ÁʁáʴàҮÍ¹ŚÒËģºà¸ÍˉÐ à¸Íäˑä˴Ť´ÍÐäÃàš¹àÅÂ ¡˗ÒԹ¹$s\"/faceDirection Clint 1/pause 100/speak Clint \"$q -1 null#¼Áړ˗Ò ¼Á˵Í§ŇÒã¨ÂÍÁģºġ¹ á˅... ġ¹ʁÂÒ¡ˉÐ$s#$r -1 0 event_sadclint1#ĉ¹ÍԒµÃ§׉¹Ð ˶ÒȤ³˵Í§¡ÒÃ#$r -1 0 event_sadclint2#ĉ¹àˢÒã¨¤ÇÒÁړǪ¡Թ¹¹Ð\"/pause 100/speak Clint \"¼ÁƤã¨чȤ³ÍԒµÃ§׉¹Ð @ ƽ¡Í˒Ò§ ƱàҮÍ¹Í˒Ò§Ȥ³ ã¤Ã¨Ð˵Í§¡ÒÃÊÒÇā¹?$h#$b#à˝Í ĉ¹ËÁÒÂǖ§...$8\"/end dialogue Clint \"...ʺÒ§ġ¹à¶ÍÐ ι¹ġ¹зàʷÒªÐġ´$8\"",
+						"282815603/D Clint/e 282815602/f Clint 2500/t 900 1700": "continue/7 13/farmer 5 19 0 Clint 3 13 2/skippable/move farmer 0 -4 3/move farmer -2 0 0/speak Clint \"ÍÐ-̍Í @ Ȥ³ÁÒщ$4\"/move Clint 0 -1 1/move Clint 5 0 2/move Clint 0 3 1/move Clint 4 0 1/pause 1000/move farmer 6 0 1/pause 1000/speak Clint \"¼Á à˝Í... ¼ÁºÍ¡Ȥ³˗Ò¼Ð-¼Á ƱÍÐäÃ¨Ðã̋ãʺՁÂ?$8\"/faceDirection Clint 3/speak Clint \"ʁ ˝Ò... ¨ƃ§æ á̅Ç¼ÁƱ¢Í§¨Ðã̋Ȥ³ ÊÍ§Í˒Ò§˴ÇÂā¹ˉÐ\"/move Clint -2 0 3/pause 1500/speak Clint \"@... ¼Ð-¼Á à˝Í... ¼ÁŇÒщÁÒã̋Ȥ³ ÁÐ-ġ¹ǴÍáËÇ¹\"/message \"¤ƅ¹·ã̋áËÇ¹àŧ¹ĭ¹ÊÇÂ§ÒÁáʱȤ³\"/pause 1200/speak Clint \"¼Ð-¼Áړ ˗Òġ¹äˑä˴ÁÒ¡ÁÒÂÍÐäÃ á˅... ¼ÁËħ§¨ƃ§æ ¹Ð ˗ÒȤ³¨ÐªÍºġ¹$4\"/faceDirection Clint 1/pause 500/faceDirection Clint 3/speak Clint \"@ ¼Áړ˗Òġ¹¤§ŇÒã̋ Ȥ³¢¹Ʌ¡áˉàÅÂ á˅...$8#$b#¼Áäˑà¤ÂړǪ¡áºº׉ āºã¤ÃàÅÂ äˑá́á˅āºàÍƁѕ$8#$b#¼-¼-¼Á Ť´˗Ò ¼-¼Á... ģ¡Ȥ³àˢÒá̅Ç @$8\"/pause 500/question fork1 \"#ĉ¹ʁړǪ¡àËȑÍ¹ā¹#ĉ¹àƺÂã¨¹Ð... á˅ĉ¹äˑä˴Ť´áººԹ¹\"/fork rejectClint/pause 300/speak Clint \"¨Ð-¨ƃ§àËÃÍ?! Ȥ³... Ȥ³Ť´āº¼ÁáººàƤÂÇā¹àËÃÍ ?$4#$b#¼Á-ġ¹á»Å¡ˉÐ... àËȑÍ¹˗Ò¼ÁäˑړĕÇ˴ÇÂ՛Ò ˗ÒƱÍÐäÃàš´ע¹... µÐ-á˅á̅Ç... ¼ÁʁÁÒǖ§Ȩ´׉$4\"/faceDirection Clint 2/pause 500/faceDirection Clint 3/speak Clint \"Í-̍Í ˝Ò... ˚Ç¹¢Í§¢ħ­֊¹чÊÍ§...$4\"/showFrame Clint 42/pause 1500/showFrame Clint 12/pause 500/speak Clint \"¼-¼ÁËħ§˗Òι¹ġ¹âÍà¤¹Ð$4\"/pause 300/speak Clint \"Ȥ³à͈§чɊ´àÅÂ @ ¼ÁƤã¨àËȕÍàš¹чä˴à¨ÍȤ³$h\"/pause 1000/end dialogue Clint \"¼ÁƤã¨ÁÒ¡àÅÂчȤ³ Ť´àËȑÍ¹ā¹ щàʛ¹¤ÇÒÁɊ¢чɊ´ ч¼Áà¤ÂړǪ¡àÅÂ$4\"",
+						"rejectClint": "pause 500/speak Clint \"...Í-̍Í ȝÁ$8#$b#¼-¼Á¢Íâ·É¹Ð @ ¼Á... ¼ÁŤ´˗Ò...$8#$b#ʺÒ§ġ¹à¶ÍÐ...$8\"/pause 300/speak Clint \"à˝Í... ȕÁä»˗Ò¼Áɮ´ÍÐäÃ¹Ð... ä˴â»Ã´?$s#$b#Ȥ³... Ȥ³àʁºáËÇ¹ä̇à¶ÍÐ$s\"/move Clint 0 -2 3/move Clint -5 0 0/move Clint 0 -1 3/move Clint -2 0 2/move Clint 0 1 2/pause 500/friendship Clint -500/end dialogue Clint \"ȝÁ... ¢Íâ·É¹Ð @ ¼-¼Á ÍÂÒ¡ÍԒ¤¹àƤÂÇĪ¡Ğ¡...$s\"",
+			},
+			"When": {
+				"Date Clint": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
 			},
 		},
 		{
@@ -1186,6 +1236,18 @@
 			},
 			"When": {
 				"Date Clint": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Events/Custom_AdventurerSummit",
+			"Entries": {	
+						"282815602/D Clint/f Clint 2500/w sunny/t 1600 2300": "nightTime/21 21/farmer 32 32 0 Clint 19 23 1/skippable/pause 1000/move Clint 0 -8 0/move farmer 0 -8 0/move farmer -8 0 3/pause 500/faceDirection Clint 2/pause 1500/showFrame Clint 35/emote Clint 16/jump Clint/showFrame Clint 0/pause 1500/move farmer 0 -4 0/move farmer -2 0 0/pause 1500/speak Clint \"̍ÒÇ! @... ÁÒŇÒÍ-ÍÐäÃá¶Ç׉˕Ð?\"/pause 1500/speak Clint \"ÍÐäÃ¹Ð? ¼-¼ÁàËÃÍ?$s\"/speak Clint \"$q -1 null#àËʥ¡¼-¼ÁËÁ´ µÍ¹ıÒĥ§ŇÒ§Ò¹ˉÐƊ ¼ÁàÅÂ... ¼ÁàÅÂÁÒËÒàОÁчщ#$r -1 0 event_iron1#ĉ¹äˑړ˗ÒȤ³ʁÅ§àËȑÍ§˴ÇÂ#$r -1 0 event_iron2#¨ƃ§àËÃÍ? àʛ¹ä§˺Ò§˕Ð?#$r -1 0 event_iron3#ĉ¹äˑàҚÍËÃÍ¡\"/pause 1000/speak Clint \"ÇÐ-˗Òá˅... ˝Ò...\"/move Clint 0 5 2/speak Clint \"ä̇¼-¼Á à¨ÍȤ³ãËˑ¹Ð @\"/move farmer 0 -1 3/move Clint 0 1 2/move Clint 5 0 2/move farmer 0 -1 2/pause 500/faceDirection Clint 0/pause 500/speak Clint \"à˝Í... @?\"/pause 1000/faceDirection Clint 3/pause 500/faceDirection Clint 0/pause 300/speak Clint \"áÇÐÁÒ̃Ò¹¼Á¾ӣ§׉ËˉÍÂƊ ¼Á à˝Í...$8#$b#¼-¼-¼Á Ʊ¢Í§¨Ðã̋ˉÐ$8\"/move Clint 0 3 2/move Clint 8 0 1/showFrame Clint 43/end",
+			},
+			"When": {
+				"Date Clint": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
 			},
 		},
 		{
@@ -1203,7 +1265,7 @@
 				"Date Linus": "true",
 			},
 		},
-///// Add compatibility with linus treehouse mod
+///// add compatible with linus treehouse		
 		{
 			"Action": "EditData",
 			"Target": "Data/Events/Mountain",
@@ -1217,7 +1279,7 @@
 			},
 			"When": {
 				"Date Linus": "true",
-				"HasMod:Leadenbrain.LinusTreehouse": true
+				"HasMod |contains=Leadenbrain.LinusTreehouse": true
 			},
 		},
 		{
@@ -1244,6 +1306,22 @@
 			},
 			"When": {
 				"Date Sandy": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
+			},
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/Events/SandyHouse",
+			"Entries": {
+						"282815619/D Sandy/f Sandy 2000/t 1500 2000": "gusviolin/23 6/farmer 8 5 1 Sandy 25 5 0/skippable/pause 1500/playSound dwop/pause 500/playSound dwop/pause 200/move Sandy -3 0 0/pause 200/playSound crafting/pause 500/playSound crafting/pause 200/move Sandy 1 0 0/pause 400/playSound clank/pause 300/playSound clank/pause 1000/move Sandy 1 0 0/playSound dwop/pause 1000/move farmer 5 0 1/move farmer 0 3 2/move farmer 4 0 1/move farmer 0 -3 1/move farmer 3 0 1/faceDirection Sandy 3/emote Sandy 16/pause 300/speak Sandy \"â̍ ÊħÊƤ˨Ò @#$b#¢Íâ·ÉƧ ĉ¹äˑä˴ÍԒˢÒ§Ë˹Ò ħ¹׉ȸÃš¨¢Í§ĉ¹äˑʴÍÂƤˉÐ ʁàÅÂŻ´̃Ò¹äÇËˉÍÂ á̅ÇÁÒËÒÍÐäÃš¹«ÐàÅÂ\"/pause 200/speak Sandy \"Ȥ³äˑä˴˵Í§¡ÒÃÍÐäÃ ãʺǣà»˕Ò?\"/pause 300/question fork1 \"#äˑщ! áʴÁÒËÒà¸ÍàˇÒԹ¹áËÅÐ#¨ƃ§æ á̅Ç ĉ¹ÍÂÒ¡¨Ð؛Í¢Í§ċ¡ËˉÍÂ\"/fork sandyShop/pause 400/speak Sandy \"àͭ à¸Íàʛ¹¤¹қÍĪµΒ¤¹Ëѹ§ äˑãʺǣä§̘Ð#$b#Ƥã¨Ĉ§! ÍԒµÃ§׉ʱÍ¹¹Ð ĉ¹¨Ðáˊ§ã̋$h\"/pause 300/emote farmer 32/move farmer 2 0 2/move farmer 0 2 0/faceDirection Sandy 2/pause 500/emote Sandy 56/pause 500/faceDirection Sandy 0/playSound dwop/pause 500/move Sandy 1 0 0/pause 300/playSound dwop/pause 200/move Sandy -3 0 0/pause 200/playSound crafting/pause 500/playSound crafting/pause 200/move Sandy 1 0 0/pause 400/playSound clank/pause 300/playSound clank/pause 1000/move Sandy 1 0 0/playSound dwop/pause 1000/speak Sandy \"Ȥ³ʁړ @... ĉ¹˗Ò¨ÐŻ´̃Ò¹àʣÇæ ׉áËÅÐ$s\"/pause 500/emote farmer 8/pause 300/speak Sandy \"Ëĥ§æ ÁÒ׉̃Ò¹ 'âÍàÍūÊ¢Í§á«¹ׄ' ˤÒ¢ÒÂäˑʴÍÂƤ ĉ¹ړ˗Òчщġ¹ʁ àʛ¹áºº׉µÅÍ´ι¹áËÅÐ á˅ʺÇ§Ëĥ§æ ÁÒ׉ġ¹á˒Å§¡˗ÒàŴÁƽ¡...$s\"/move Sandy -1 0 0/pause 100/playSound clank/pause 500/speak Sandy \"¨ƃ§æ á̅Çĉ¹ÍÒ¨¨Ð̂ÒÂä»ч àȑÍ§à¾ƅá¡¹\"/pause 500/emote farmer 8/pause 500/speak Sandy \"àÍƁƵºÍ¡˗Ò à¸ÍáÅÐàÎƵΒÊÒÁÒÃ¶ ɤáÅĉ¹ä˴ċ¡Ğ¡Ëѹ§ Í˒Ò§˹ÍÂʁ¨¹¡˗Òĉ¹¨Ð Ʊчё·Ò§àʛ¹¢Í§ĕÇàÍ§ ã¹àȑÍ§Թ¹ˉÐ¹Ð\"/pause 1000/playSound dwop/pause 500/speak Sandy \"Ģ§ä§ʁµÒÁ... ġ¹ʁàʛ¹áʴÍÐäÃчʺÇ§׉ ĉ¹Ť´ÍԒ˕Ð¹Ð Ȥ³äˑ˵Í§àʁºä»Ť´ÁÒ¡ʁä˴$h\"/pause 200/speak Sandy \"ä̇ĉ¹ĕ´Ɗ¹ã¨ä˴¨ƃ§æ á̅Ç ĉ¹¨ÐºÍ¡Ȥ³¹Ð\"/move Sandy 1 0 0/pause 200/playSound crafting/pause 600/playSound dwop/pause 800/faceDirection Sandy 2/emote Sandy 56/speak Sandy \"щ @ ¢ÍºȤ³¹Ðчģºğ§ ĉ¹Ƥã¨¹ÐчȤ³áÇÐÁÒ$h\"/pause 400/emote farmer 32/pause 400/speak Sandy \"á̅Çʁ... ĉ¹ŇÒÍÒËÒÃàʢ¹äË́ä»á̅Ç ϊ§ÁÒš¹˴ÇÂā¹á·¹ÅÐā¹¹Ð?$h\"/pause 400/emote farmer 28/pause 2000/globalFade/viewport -1000 -1000/end warpOut",
+						"sandyShop": "pause 500/speak Sandy \"Ah, sure... let me get this mess cleaned up and I'll meet you up front in a lick.$s\"/pause 1500/friendship Sandy -25/end position 2 7",
+						"282815621/D Sandy/f Sandy 2500/t 2000 2350/n sandyDancing": "50s/4 6/farmer -10 -10 0 Sandy 2 5 2/pause 500/playSound doorClose/warp farmer 4 9/pause 200/emote Sandy 16/pause 400/speak Sandy \"Oh, hey there, @!\"/pause 300/move farmer 0 -2 3/move farmer -2 0 0/pause 500/speak Sandy \"You all ready for our big night out?$h\"/question fork1 \"#Sure am!#Not tonight, sorry.\"/fork notTonight/pause 500/emote Sandy 56/pause 500/speak Sandy \"Great!$h#$b#Let me close up the shop and we'll hop on the bus!$h\"/emote farmer 32/pause 1500/globalFade/viewport -1000 -1000/pause 1000/playSound busDriveOff/pause 1000/changeToTemporaryMap ClubZuzu/viewport -1000 -1000/warp farmer 10 10/faceDirection farmer 1/warp Sandy 11 10/faceDirection Sandy 3/playMusic poppy/viewport 12 9 true/ambientLight 0 0 0/pause 1500/emote Sandy 56/pause 500/speak Sandy \"Isn't this place fun?$h\"/pause 500/emote farmer 28/pause 1000/speak Sandy \"I love this song!$h#$b#@, let's dance!$h\"/pause 1000/globalFade/viewport -1000 -1000/pause 1500/warp farmer 18 6/warp Sandy 17 6/faceDirection farmer 3/faceDirection Sandy 1/viewport 17 7 true/playMusic poppy/pause 1500/emote Sandy 56/pause 500/message \"It's only been half an hour and Sandy has already had several drinks.\"/pause 800/emote Sandy 56/pause 500/speak Sandy \"Back to the dance floor, Mister!$4^Back to the dance floor, Missy!$4#$b#My body just wants to DANCE!$4\"/pause 1000/emote farmer 28/message \"Sandy can barely stand up by herself...\"/pause 1500/speak Sandy \"Well, aren't we going to DANCE?$7\"/pause 1000/question fork1 \"Should we stay?#Take Sandy home#Stay at Club Zuzu\"/fork stayAtClub/pause 1000/globalFade/viewport -1000 -1000/message \"You decide to take her home.\"/pause 500/playSound busDriveOff/pause 500/changeLocation SandyHouse/warp Sandy 32 7/showFrame Sandy 16/positionOffset Sandy 8 0 0/warp farmer 34 7/faceDirection farmer 3/playMusic none/ambientLight 0 0 0/viewport 34 6 true/pause 500/message \"You helped tuck Sandy in to bed.\"/pause 1000/emote Sandy 24/pause 500/message \"You should let her get some sleep.\"/pause 1500/speak Sandy \"Wait... @?$s\"/pause 500/emote farmer 8/pause 1500/speak Sandy \"...Thank you for bringing me home. What would I do without you...?$h\"/pause 1000/emote farmer 28/pause 1500/speak Sandy \"Hey... I love you.$4\"/pause 1000/question fork1 \"#I love you, too.#...You're drunk. Get some rest.\"/fork getRest/pause 1000/emote Sandy 24/pause 1000/message \"It's about time to head home. She'll be fine in the morning.\"/pause 1000/globalFade/viewport -1000 -1000/pause 500/mail morningAfter/end warpOut",
+						"notTonight": "pause 500/speak Sandy \"...Why'd you bother coming all the way out here if you were busy? Did you need to buy something?$s\"/pause 500/friendship Sandy -250/end dialogue Sandy \"What can I help you with...?$s\"",
+						"getRest": "pause 500/emote Sandy 12/pause 300/speak Sandy \"...$s\"/pause 1000/emote Sandy 24/pause 1000/message \"It's about time to head home. She'll be fine in the morning.\"/pause 1000/globalFade/viewport -1000 -1000/pause 500/friendship Sandy -250/end warpOut",
+			},
+			"When": {
+				"Date Sandy": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
 			},
 		},
 		{
@@ -1343,6 +1421,7 @@
 						},
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 				{
@@ -1355,6 +1434,7 @@
 			},
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 				{
@@ -1725,6 +1805,18 @@
 			"Target": "Strings/schedules/Sandy",
 			"FromFile": "assets/Sandy.json",
 		},
+ //SANDY SCHEDULE - after Married
+		{   
+			"Action": "EditData",
+			"Target": "characters/schedules/Sandy",
+			"Entries": {
+				"marriage_Sun": "1000 HaleyHouse 8 16 2 \"Strings\\schedules\\Sandy:marriage_Sun.000\"/1500 Town 46 57 2 \"Strings\\schedules\\Sandy:marriage_Sun.001\"/1700 BusStop -1 23 3"
+			},
+			"When": { 
+				"Date SANDY": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true
+			},
+		},
 		{
 			"Action": "EditData",
 			"Target": "Characters/Dialogue/Willy",
@@ -1798,6 +1890,7 @@
 			},
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
@@ -1806,12 +1899,14 @@
 			"FromFile": "assets/MarriageDialogueWizard.json",
 			"When": {
 				"Date Wizard": "true",
+				"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 		},
 		{
 			"Action": "Load",
 			"Target": "Strings/schedules/Wizard",
 			"FromFile": "assets/Wizard.json",
+			"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
 		},
 		{
 			"Action": "EditData",
