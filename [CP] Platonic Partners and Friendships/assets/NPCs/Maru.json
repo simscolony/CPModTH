@@ -95,10 +95,10 @@
             "Target": "Characters/Dialogue/Demetrius",
             "Entries":
             {
-                "NPC.cs.3965": "I already told you I'm glad you're in Maru's life. I don't need to move in and supervise you.",
-                "NPC.cs.3966": "Don't worry. I'll see plenty of Maru when I come by to collect data from the cave.",
-                "NPC.cs.3967": "I already told you I'm glad you're in Maru's life. I don't need to move in and supervise you.",
-                "NPC.cs.3968": "Don't worry. I see plenty of Maru when I come by to collect data from the cave.",
+                "NPC.cs.3965": "เหมือนว่าผมจะเคย บอกไปแล้วนะ ว่ายินดีที่มีคุณคอยอยู่ข้าง ๆ มารุ ดังนั้นคงไม่ใช่เรื่อง จำเป็นที่จะต้องจับตา ดูคุณทุกก้าวขนาดนั้น",
+                "NPC.cs.3966": "ไม่ต้องเป็นห่วง ผมคงจะได้ไปเจอเธอบ่อย ๆ เวลาจะต้องไปเก็บข้อมูล ที่ถ้ำใกล้ ๆ ฟารม์ของคุณ",
+                "NPC.cs.3967": "เหมือนว่าผมจะเคย บอกไปแล้วนะ ว่ายินดีที่มีคุณคอยอยู่ข้าง ๆ มารุ ดังนั้นคงไม่ใช่เรื่อง จำเป็นที่จะต้องจับตา ดูคุณทุกก้าวขนาดนั้น",
+                "NPC.cs.3968": "ไม่ต้องเป็นห่วง ผมคงจะได้ไปเจอเธอบ่อย ๆ เวลาจะต้องไปเก็บข้อมูล ที่ถ้ำใกล้ ๆ ฟารม์ของคุณ",
             },
             "When":
             {
@@ -110,10 +110,10 @@
             "Target": "Characters/Dialogue/Robin",
             "Entries":
             {
-                "NPC.cs.3965": "If you want me to move in with you and Maru, you'll have to hire me to build my own wing.$h",
-                "NPC.cs.3966": "Ha! I have faith in the quality of my work on your house, I don't need to test it myself.$h",
-                "NPC.cs.3967": "If you want me to move in with you and Maru, you'll have to hire me to build my own wing.$h",
-                "NPC.cs.3968": "Ha! I have faith in the quality of my work on your house, I don't need to test it myself.$h",
+                "NPC.cs.3965": "ถ้าเธออยากจะให้ฉัน ย้ายไปอยู่ด้วยกับมารุ เธอจะต้องให้ฉันไปสร้าง บ้านส่วนตัวของฉันด้วยนะ$h",
+                "NPC.cs.3966": "ฮ่า! ฉันเชื่อมั่นในฝีมืองานสร้าง ของตัวเองอยู่แล้ว ไม่ต้องลองอะไรซ้ำสอง ให้เสียเวลาหรอก$h",
+                "NPC.cs.3967": "ถ้าเธออยากจะให้ฉัน ย้ายไปอยู่ด้วยกับมารุ เธอจะต้องให้ฉันไปสร้าง บ้านส่วนตัวของฉันด้วยนะ$h",
+                "NPC.cs.3968": "ฮ่า! ฉันเชื่อมั่นในฝีมืองานสร้าง ของตัวเองอยู่แล้ว ไม่ต้องลองอะไรซ้ำสอง ให้เสียเวลาหรอก$h",
             },
             "When":
             {
@@ -125,10 +125,10 @@
             "Target": "Characters/Dialogue/Sebastian",
             "Entries":
             {
-                "NPC.cs.3965": "I didn't like living with Maru in the first place. Why would I want to move in with you two now?$a",
-                "NPC.cs.3966": "I'll stay where I am, thanks. Without Maru around to focus on, Mom and Demetrius might actually remember I exist.$u",
-                "NPC.cs.3967": "I think I was unfair to Maru growing up... but I still don't want to move in with you two. It would just bring up old resentments.",
-                "NPC.cs.3968": "I get now that it wasn't Maru's fault, but I've felt more appreciated at home since she moved out. I'd like to stay where I am.",
+                "NPC.cs.3965": "ฉันไม่ได้ชอบอยู่กับมารุ ตั้งแต่แรกอยู่แล้ว ทำไมถึงจะต้องย้ายไปอยู่ กับพวกเธอด้วยล่ะ?$a",
+                "NPC.cs.3966": "ฉันคงจะขออยู่ในที่ที่ อยากจะอยู่ละกัน  ไม่มีมารุอยู่รอบ ๆ แม่กับพ่อคงจะจำ และเห็นว่ายังมีฉันได้มากขึ้น.$u",
+                "NPC.cs.3967": "ฉันคิดว่ามันจะไม่แฟร์ กับตัวมารุด้วย... ขอยืนยันคำเดิมว่า ฉันไม่ย้ายไปแน่นอน มีแต่จะอึดอัดใส่กันซะเปล่า ๆ",
+                "NPC.cs.3968": "ฉันเข้าใจว่ามันไม่ใช่ความผิด ของมารุหรือใครเลย แต่การได้อยู่ในที่ที่ฉัน อยากจะอยู่จริง ๆ คงจะเป็นเรื่องที่ดีกว่า",
             },
             "When":
             {
@@ -140,10 +140,10 @@
             "Target": "Characters/Dialogue/MarriageDialogueMaru",
             "Entries":
             {
-                "Good_4": "For a while there I was considering building a robotic best friend. But you're a lot more fun!$h",
-                "Good_5": "I was just admiring the amulet you gave me... The shell is flawless. This is a very rare specimen!$u",
-                "Neutral_0": "I hope I don't bore you when I go on about my engineering projects.$8",
-                "fall_25": "Winter's just around the corner. We need to double check the heating system, turn off the valves, and check all the insulation in the house.#$e#Don't worry, I'll take care of it all.$h",
+                "Good_4": "มีอยู่ช่วงนึงที่ฉันคิดจะสร้าง เจ้าหุ่นยนต์เพื่อนรัก แต่การได้มาอยู่กับเธอ สนุกยิ่งกว่าอะไรเสียอีก!$h",
+                "Good_5": "ฉันชอบจี้เครื่องราง ที่เธอให้มามาก ๆ เลยล่ะจ้ะ ลองดูเปลือกกับพื้นผิววัสดุ ของมันใกล้ ๆ ดูสิ ไร้ที่ติสุด ๆ ไปเลย!$u",
+                "Neutral_0": "หวังว่าฉันจะไม่ทำให้เธอ เบื่อเข้าสักวันนะ เวลาที่ฉันจะต้องจดจ่อกับ การทำโปรเจคต์ของตัวเอง$8",
+                "fall_25": "หน้าหนาวใกล้เข้ามาแล้ว ต้องเช็คเครื่องทำความร้อน พวกวาลว์และรอบ ๆ บ้านให้เรียบร้อย#$e#ไม่ต้องห่วงจ้ะ เดี๋ยวฉันจัดการเอง$h",
             },
         },
         {
@@ -163,8 +163,8 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Rainy_Night_Maru": "Were you able to accomplish much today, {{Lowercase:{{TermofEndearment}}}}?#$e#I tried to fix up some things around the house... you know, just little stuff.",
-                "spouseRoom_Maru": "#$c .5#I got up early to do a little star-gazing.#$e#I hope you don't mind if I spend some time on my projects today, {{Lowercase:{{TermofEndearment}}}}.",
+                "Rainy_Night_Maru": "วันนี้เป็นยังไงบ้างจ๊ะ {{Lowercase:{{TermofEndearment}}}}?#$e#ฉันกำลังลองเอาของรอบ ๆ ตัวมาซ่อมดูน่ะ แค่พวกของชิ้นเล็กชิ้นน้อย",
+                "spouseRoom_Maru": "#$c .5#วันนี้ตื่นเร็วเพราะจะต้อง มาดูเจ้าดาวตกน่ะจ้ะ#$e#ฉันหวังว่าจะไม่รบกวนเธอ จนมากเกินไปนะ ที่ต้องมาดูฉันทำเรื่องพวกนี้ บ่อย ๆ {{Lowercase:{{TermofEndearment}}}}.",
             },
             "When":
             {
@@ -177,8 +177,8 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Rainy_Night_Maru": "Were you able to accomplish much today, {{TermofEndearment}}?#$e#I tried to fix up some things around the house... you know, just little stuff.",
-                "spouseRoom_Maru": "#$c .5#I got up early to do a little star-gazing.#$e#I hope you don't mind if I spend some time on my projects today, {{TermofEndearment}}.",
+                "Rainy_Night_Maru": "วันนี้เป็นยังไงบ้างจ๊ะ {{TermofEndearment}}?#$e#ฉันกำลังลองเอาของรอบ ๆ ตัวมาซ่อมดูน่ะ แค่พวกของชิ้นเล็กชิ้นน้อย",
+                "spouseRoom_Maru": "#$c .5#วันนี้ตื่นเร็วเพราะจะต้อง มาดูเจ้าดาวตกน่ะจ้ะ#$e#ฉันหวังว่าจะไม่รบกวนเธอ จนมากเกินไปนะ ที่ต้องมาดูฉันทำเรื่องพวกนี้ บ่อย ๆ {{TermofEndearment}}.",
             },
             "When":
             {
@@ -252,7 +252,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Event.cs.1617": "Of course... *whisper* Then can we go home and pick strawberries?$4",
+                "Event.cs.1617": "แน่นอน... *กระซิบ* งั้นเรากลับไปเก็บ สตรอว์เบอร์รี กันต่อดีมั้ยจ๊ะ?$4",
             },
         },
         {
@@ -460,7 +460,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Hey @- Whoa! What happened? Did one of the machines blow up in your face?$9#$b#A... volcano? Well, that explains the soot all over your face and clothes. You're not hurt, right?$8#$b#Only minor burns, huh? I'll wrap them up in a second. I'm so glad it's not worse.#$b#By the way, next time you go there... any chance you could bring me back a few soil samples?$4\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นเร็ว!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เธอบาดเจ็บตรงไหนมั้ย? ฉันเห็นเธอนอนสลบอยู่ ก็เลยกลัวว่าจะเป็นอะไรมั้ย\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"ควรจะระวังตัวเอง ให้มากกว่านี้หน่อยนะ เวลาเวลาที่จะไปรอบ ๆ ภูเขาไฟ#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Hey @- Whoa! What happened? Did one of the machines blow up in your face?$9#$b#A... volcano? Well, that explains the soot all over your face and clothes. You're not hurt, right?$8#$b#Only minor burns, huh? I'll wrap them up in a second. I'm so glad it's not worse.#$b#By the way, next time you go there... any chance you could bring me back a few soil samples?$4\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -475,10 +475,10 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Maru",
 		"Entries": {
-			"marriage_sit": "Do you think Penny will ever find someone to share her life with?#$b#I wonder if she'll settle down with Sam.$h",
-			"marriage_r": "You look sharp today!",
-			"marriage_r2": "I'm a farmer's {{SocialMenuLabel}}, a part-time nurse, and a scientist.#$b#If I could only choose one of those for the rest of my life... Well, I don't have to!$h", 
-			"marriage_p": "I hope Penny finds a partner someday. I know she wants a family.",
+			"marriage_sit": "เธอคิดว่าเพนนีจะได้ พบกับใครสักคนที่พร้อมจะรัก และใช้ชีวิตไปด้วยกันมั้ย?#$b#ฉันคิดว่ามีโอกาส จะเป็นแซมแน่เลย$h",
+			"marriage_r": "วันนี้เธอดูดีมาก ๆ เลยล่ะจ้ะ!",
+			"marriage_r2": "ฉันคือชาวนา {{SocialMenuLabel}} ที่มีงานเสริมเป็นพยาบาล และนักวิทยาศาสตร์#$b#ถ้าฉันจะต้องเลือกทำ อย่างใดอย่างนึงเหรอ... อยู่แล้ว ขอไม่เลือกดีกว่า$h", 
+			"marriage_p": "ฉันอยากให้เพนนี ได้เจอกับใครสักคนจังเลย ใครที่จะมาทำให้คำว่า 'ครอบครัว' ของเธอสมบูรณ์แบบ",
    	    },
 		"When": {
                		"HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
