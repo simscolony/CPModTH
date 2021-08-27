@@ -1936,6 +1936,16 @@
 		},
 		{
 			"Action": "EditData",
+			"Target": "Strings/StringsFromMaps",
+			"Entries": {
+				"SandyShop.1": "มันเป็นตำราทำอาหารที่เขียนโดยเชฟชื่อดัง",
+			},
+			"When": {
+				"Date Sandy": "true",
+			},
+		},
+		{
+			"Action": "EditData",
 			"Target": "Strings/StringsFromCSFiles",
 			"Entries": {
 				"Utility.cs.5371": "@... %spouse... #$b# ในฐานะเทศมนตรี แห่งเมืองเพลิแกน และผู้ถือตราผนึกการสมรส แห่งภูมิภาค ขอประกาศให้ทั้งสอง เป็นสามีภรรยากัน!$h",
