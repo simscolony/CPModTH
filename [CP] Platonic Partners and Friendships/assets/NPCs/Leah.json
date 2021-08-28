@@ -62,13 +62,13 @@
             "Target": "Characters/Dialogue/Leah",
             "Entries":
             {
-                "NPC.cs.4442": "I feel a little nauseated this morning... I think I'm just nervous about the adoption paperwork.$s",
-                "NPC.cs.4446": "I just feel like sleeping. I was up late thinking about our child... $s#$b#I hope the adoption agency gets back to us soon.",
-                "NPC.cs.4443": "I'm tired... could you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I'm so happy we're adopting a child. I can't wait to hang their first finger painting on the fridge.",
-                "NPC.cs.4447": "{{TermofEndearment}}, I'm so happy we're adopting a child. I can't wait to hang their first finger painting on the fridge.",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm looking forward to the adoption. Getting to help mold a young mind... isn't it an inspiring thought?",
-                "NPC.cs.4448": "{{TermofEndearment}}, I'm looking forward to the adoption. Getting to help mold a young mind... isn't it an inspiring thought?",
+                "NPC.cs.4442": "เช้านี้ฉันรู้สึกคลื่นไส้นิดหน่อย... ฉันคงกังวลเรื่องเอกสารการรับเลี้ยงลูกบุญธรรมมากเกินไป$s",
+                "NPC.cs.4446": "ฉันแค่รู้สึกอยากงีบน่ะ เมื่อคืนฉันมัวแต่คิดเกี่ยวกับลูกของเรา... $s#$b#ฉันหวังว่าหน่วยงานที่ดูแลเรื่องการรับเลี้ยงลูกบุญธรรมจะกลับมาหาเราในเร็วๆนี้นะ",
+                "NPC.cs.4443": "ฉันรู้สึกเพลียจัง... เธอทำอาหารเช้ากินเองไปก่อนได้มั้ย?$s",
+                "NPC.cs.4444": "{{TermofEndearment}}, ฉันรู้สึกแฮปปี้มาก ในที่สุดเราก็สามารถรับเลี้ยงลูกบุญธรรมได้แล้ว ฉันแทบรอไม่ไหวแล้วที่จะแขวนภาพนิ้วมือน้อยๆของเจ้าตัวเล็กบนตู้เย็น",
+                "NPC.cs.4447": "{{TermofEndearment}}, ฉันรู้สึกแฮปปี้มาก ในที่สุดเราก็สามารถรับเลี้ยงลูกบุญธรรมได้แล้ว ฉันแทบรอไม่ไหวแล้วที่จะแขวนภาพนิ้วมือน้อยๆของเจ้าตัวเล็กบนตู้เย็น",
+                "NPC.cs.4445": "{{TermofEndearment}}, ฉันรอคอยช่วงเวลานี้มาตลอด การได้ช่วยหล่อหลอมจิตใจที่ยังอ่อนเยาว์... มันไม่ใช่ความคิดที่ช่วยสร้างแรงบันดาลใจงั้นเหรอ?",
+                "NPC.cs.4448": "{{TermofEndearment}}, ฉันรอคอยช่วงเวลานี้มาตลอด การได้ช่วยหล่อหลอมจิตใจที่ยังอ่อนเยาว์... มันไม่ใช่ความคิดที่ช่วยสร้างแรงบันดาลใจงั้นเหรอ?",
             },
             "When":
             {
@@ -80,7 +80,7 @@
             "Target": "Strings/Characters",
             "Entries":
             {
-                "MovieInvite_Spouse_Leah": "Oh, a movie? Sure, sounds fun!$h#$e#I'll meet you at the theater.",
+                "MovieInvite_Spouse_Leah": "โอ้วว หนังงั้นเหรอ? ฟังดูน่าสนุกจัง!$h#$e#แล้วไปดูด้วยกันที่โรงหนังนะ",
             },
         },
         {
@@ -88,7 +88,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Leah": "I think we've both found what we were looking for in this place.#$b#I wouldn't want to be anywhere else, but here with you.$l",
+                "SummitEvent_Dialogue3_Leah": "ฉันคิดว่าเราทั้งคู่ได้พบสิ่งที่เรากำลังตามหาในที่แห่งนี้แล้ว#$b#ฉันไม่ต้องการที่จะอยู่ที่อื่น แต่เป็นที่นี่กับเธอ$l",
             },
             "When":
             {
@@ -100,7 +100,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Leah": "I think we've both found what we were looking for in this place.#$b#I wouldn't want to be anywhere else, but here with you.",
+                "SummitEvent_Dialogue3_Leah": "ฉันคิดว่าเราทั้งคู่ได้พบสิ่งที่เรากำลังตามหาในที่แห่งนี้แล้ว#$b#ฉันไม่ต้องการที่จะอยู่ที่อื่น แต่เป็นที่นี่กับเธอ",
             },
             "When":
             {
