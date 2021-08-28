@@ -122,7 +122,7 @@
             "Target": "Characters/Dialogue/Sebastian",
             "Entries":
             {
-                "Wed2_inlaw_Abigail": "Sam and Abby are probably my only friends in this town.",
+                "Wed2_inlaw_Abigail": "ในเมืองนี้ คงมีแค่แซมกับแอ๊บบี้เท่านั้น ที่เป็นเพื่อนของฉัน",
             },
             "When":
             {
@@ -134,7 +134,7 @@
             "Target": "Characters/Dialogue/Sebastian",
             "Entries":
             {
-                "Wed2_inlaw_Abigail": "Sam and Abby are probably my only friends in this town.#$e#Abby's really... I kind of... $h#$e#Umm... nevermind. Don't tell her I said anything.",
+                "Wed2_inlaw_Abigail": "ในเมืองนี้ คงมีแค่แซมกับแอ๊บบี้เท่านั้น ที่เป็นเพื่อนของฉัน#$e#แอ๊บบี้ก็ดู... ฉันแบบว่า... $h#$e#เอ่อ.. ช่างมันเถอะ เรื่องที่ฉันพูด อย่าเอาไปบอกเธอนะ",
             },
             "When":
             {
@@ -146,8 +146,8 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Sebastian0": "In a couple days I'm going to be living on a farm. I can't believe it.$7#$e#I'm happy, though.$h",
-                "Sebastian1": "When you showed up in town, I never thought I'd be {{RelationshipLabel}} with you some day.$7#$e#Life is strange, huh?$h",
+                "Sebastian0": "อีกไม่กี่วัน ฉันจะได้ไปอยู่ในฟาร์มแล้ว ไม่อยากเชื่อเลย$7#$e#แต่ฉันมีความสุขนะ$h",
+                "Sebastian1": "ตอนเธอโผล่มาในเมืองนี้ ฉันไม่เคยคิดเลยว่า จะได้เป็น {{RelationshipLabel}} กับเธอสักวัน.$7#$e#ชีวิตแปลกดีนะ ว่าไหม$h",
             },
             "When":
             {
@@ -159,7 +159,7 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Sebastian1": "When you showed up in town, I never thought I'd be {{RelationshipLabel}} with you some day.$l#$e#Life is strange, huh?$h",
+                "Sebastian1": "ตอนเธอโผล่มาในเมืองนี้ ฉันไม่เคยคิดเลยว่า จะได้เป็น {{RelationshipLabel}} กับเธอสักวัน.$l#$e#ชีวิตแปลกดีนะ ว่าไหม$h",
             },
             "When":
             {
@@ -171,8 +171,8 @@
             "Target": "Characters/Dialogue/Sebastian",
             "Entries":
             {
-                "NPC.cs.3965": "If I wasn't clear before, that was a yes. I want to live with you.",
-                "NPC.cs.3966": "I already said yes... When you keep asking, it makes me feel pressured.$s",
+                "NPC.cs.3965": "ถ้าก่อนหน้านี้ ฉันยังไม่ชัดเจนพอ ที่บอกว่าตกลงน่ะ ขอพูดใหม่ว่า ฉันอยากใช้ชีวิตอยู่กับเธอ",
+                "NPC.cs.3966": "ก็ตอบตกลงแล้วไง... พอเธอถามมากครั้ง มันก็รู้สึกกดดันนะ$s",
             },
             "When":
             {
@@ -197,10 +197,10 @@
             "Target": "Characters/Dialogue/Demetrius",
             "Entries":
             {
-                "NPC.cs.3965": "You want me to... move in with you and my stepson? What?$4",
-                "NPC.cs.3966": "Is this one of those 'social experiments' I keep hearing about? Your methodology needs work.$4",
-                "NPC.cs.3967": "You want me to... move in with you and my stepson? What?$4",
-                "NPC.cs.3968": "Is this one of those 'social experiments' I keep hearing about? Your methodology needs work.$4",
+                "NPC.cs.3965": "เธออยากให้ฉัน... ย้ายไปอยู่กับเธอกับลูกเลี้ยงเหรอ อะไรนะ$4",
+                "NPC.cs.3966": "นี่ใช่หนึ่งใน 'การทดลองทางสังคม' ที่ฉันได้ยินมาตลอดรึเปล่า แก้วิธีของคุณใหม่เถอะ$4",
+                "NPC.cs.3967": "เธออยากให้ฉัน... ย้ายไปอยู่กับเธอกับลูกเลี้ยงเหรอ อะไรนะ$4",
+                "NPC.cs.3968": "นี่ใช่หนึ่งใน 'การทดลองทางสังคม' ที่ฉันได้ยินมาตลอดรึเปล่า แก้วิธีของคุณใหม่เถอะ$4",
             },
             "When":
             {
@@ -212,10 +212,10 @@
             "Target": "Characters/Dialogue/Robin",
             "Entries":
             {
-                "NPC.cs.3965": "If you want me to move in with you and Sebby, you'll have to hire me to build my own wing.$h",
-                "NPC.cs.3966": "Ha! I have faith in the quality of my work on your house, I don't need to test it myself.$h",
-                "NPC.cs.3967": "If you want me to move in with you and Sebby, you'll have to hire me to build my own wing.$h",
-                "NPC.cs.3968": "Ha! I have faith in the quality of my work on your house, I don't need to test it myself.$h",
+                "NPC.cs.3965": "ถ้าอยากให้ฉัน ย้ายไปอยู่กับเธอกับเซบบี้ เธอจะต้องจ้างฉันต่อเติมบ้าน เพื่อเป็นห้องของฉันเอง$h",
+                "NPC.cs.3966": "เหอะ! ฉันเชื่อมั่น ในคุณภาพงานตัวเอง ต่อการทำบ้านเธออยู่แล้ว ไม่จำเป็นต้องทดสอบหรอก$h",
+                "NPC.cs.3967": "ถ้าอยากให้ฉัน ย้ายไปอยู่กับเธอกับเซบบี้ เธอจะต้องจ้างฉันต่อเติมบ้าน เพื่อเป็นห้องของฉันเอง$h",
+                "NPC.cs.3968": "เหอะ! ฉันเชื่อมั่น ในคุณภาพงานตัวเอง ต่อการทำบ้านเธออยู่แล้ว ไม่จำเป็นต้องทดสอบหรอก$h",
             },
             "When":
             {
@@ -227,10 +227,10 @@
             "Target": "Characters/Dialogue/Maru",
             "Entries":
             {
-                "NPC.cs.3965": "Um, no thanks. I'd like to have a better relationship with Sebastian, and moving in with you two would absolutely sabotage that.$s",
-                "NPC.cs.3966": "Don't you think Sebastian would resent me following him to your house? I'll pass.$s",
-                "NPC.cs.3967": "Um, no thanks. I'd like to have a better relationship with Sebastian, and moving in with you two would absolutely sabotage that.$s",
-                "NPC.cs.3968": "Don't you think Sebastian would resent me following him to your house? I'll pass.$s",
+                "NPC.cs.3965": "เอ่อ ไม่ดีกว่าจ้ะ ฉันอยากมีความสัมพันธ์ กับพี่ให้ดีกว่านี้ แล้วการย้ายไปอยู่ กับเธอทั้งสองคน บ้านแตกแน่นอนจ้ะ$s",
+                "NPC.cs.3966": "ตามไปอยู่ด้วยแบบนี้ ไม่คิดว่าเซบาสเตียน จะโกรธฉันหน่อยเหรอ ขอบายจ้ะ$s",
+                "NPC.cs.3967": "เอ่อ ไม่ดีกว่าจ้ะ ฉันอยากมีความสัมพันธ์ กับพี่ให้ดีกว่านี้ แล้วการย้ายไปอยู่ กับเธอทั้งสองคน บ้านแตกแน่นอนจ้ะ$s",
+                "NPC.cs.3968": "ตามไปอยู่ด้วยแบบนี้ ไม่คิดว่าเซบาสเตียน จะโกรธฉันหน่อยเหรอ ขอบายจ้ะ$s",
             },
             "When":
             {
@@ -242,7 +242,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Game1.cs.2782": "Phew... The ceremony was nice, but I'm glad to be away from all those people.#$e#You don't count as people. I mean that in a good way!$h", //credit to SarahSyna for this line!
+                "Game1.cs.2782": "เฮ้อ... พิธีผ่านไปได้ด้วยดี แต่ดีใจจัง ที่หลุดออกจากคนเยอะแยะสักที#$e#เธอไม่นับเป็นคนนะ เพราะเธอคือคนพิเศษ$h", //credit to SarahSyna for this line!
             },
             "When":
             {
