@@ -5,20 +5,20 @@
             "Target": "Characters/Dialogue/Abigail",
             "Entries":
             {
-                "breakUp": "Oh... I... I understand. You don't see me as that close a friend...$s#$b#I guess we weren't really a good match...$s",
-                "Thu10": "Everything seems brighter since you moved here.$h#$b#You have that effect on people, you know!",
-                "summer_Thu10": "Wow, you look nice today.#$e#That summer air is really good for the complexion, isn't it?$h",
-                "fall_Mon8": "You know, I could actually see myself becoming a farmer some day...#$e#You looking for a business partner, @? *chuckle*$h",
-                "fall_Fri10": "I usually feel lonely this time of year, but not anymore.#$e#@, what are your plans for the future?",
-                "winter_Fri10": "@, I wanted to tell you... I really admire the risk you took by moving here.$6#$b#You had a steady job, and you couldn't have known if your farm would succeed, but you took the leap anyway.#$b#Don't tell anyone I said this, but...you inspire me!$h",
-                "fall_Thu10": "I had a wild dream last night, with you in it.#$e#We were fighting monsters together!$h",
-                "Event_Cave_2": "I guess when you have something to lose, it's normal to be afraid...$s",
-                "NPC.cs.3980": "...!!! You...you really want to spend our lives together?$7#$b#As {{RelationshipLabel}}? I...yes!! Yes, @!$h#$b#It's going to be a complete change of lifestyle...A leap into the unknown...Just like I've always wanted!#$b#In the valley, we celebrate pacts like this the same way as weddings. I'll set everything up. We'll have the commitment ceremony in 3 days, okay?$n",
-                "NPC.cs.3962": "Wow, @, you really like me enough to get all formal about it?$h#$e#I'd like to get to know you better too! You've been an amazing friend to me.$h",
-                "NPC.cs.3963": "You want us to be closer friends? I feel the same way!$h#$e#I'm kind of nervous. You'll still like me when you know all my darkest secrets, right?",
-                "NPC.cs.3985": "I heard you gave someone a gift today.#$e#You're such a kind friend!$h",
-                "NPC.cs.4425": "Life sure is different since we've been {{RelationshipLabel}}...$s",
-                "NPC.cs.4001": "I found that fruit down in the mines!$h#$b#I gave it to you to because you're family to me now, and I want you to know that I'll have your back for as long as we live. I love you, @.$n",
+                "breakUp": " ...นั่นสินะ เธอคงไม่คิดว่าเราควรจะสนิทกันขนาดนั้น...$s#$b#ฉันว่าเราคงไม่เหมาะกันจริงๆหรอก...$s",
+                "Thu10": "ตั้งแต่เธอย้ายมาที่นี่ก็ดูสดใสขึ้นเยอะเลยนะ$h#$b#เธอทำให้คนหลายๆคนมีชีวิตชีวาขึ้นเยอะเลย",
+                "summer_Thu10": "ว้าววันนี้เธอดูดีจังเลยนะ#$e#ลมอุ่นๆตอนหน้าร้อนนี่ดีต่อผิวมากเลยล่ะ คิดเหมือนกันมั้ย?$h",
+                "fall_Mon8": "รู้มั้ยบางทีอะฉันคิดว่าในอนาคตฉันอาจจะเป็นชาวไร่ก็ได้นะ...#$e#เธอคิดจะหาคนมาช่วยที่ฟาร์มบ้างมั้ยล่ะ @? *ฮ่า*$h",
+                "fall_Fri10": "ปกติช่วงท้ายปีแบบนี้ฉันจะเหงามากๆเลย แต่มาตอนนี้ไม่แล้วล่ะ#$e#นี่ @ คิดว่าอนาคตจะทำอะไรต่อหรอ?",
+                "winter_Fri10": "@ ฉันมีเรื่องจะคุยด้วย...ฉันคิดว่าเธอยอดมากเลยนะที่ยอมเสี่ยงย้ายมาที่นี่$6#$b#เธอมีงานประจำอยู่แล้วแถมการมาทำฟาร์มที่นี่ใช่ว่าจะสำเร็จด้วยแต่เธอก็ยังเลือกที่จะมา#$b#ต..แต่อย่าไปบอกใครนะว่าฉันคุยเรื่องนี้กับเธอ!$h",
+                "fall_Thu10": "นี่เมื่อคืนฉันฝันถึงเธอด้วยนะ#$e#ตอนนั้นเรากำลังสู้กับพวกสัตว์ประหลาดล่ะ!$h",
+                "Event_Cave_2": "ฉันคิดว่าเวลาที่เธอกำลังจะเสียอะไรไปแล้วรู้สึกกลัวมันก็เป็นเรื่องปกตินะ...$s",
+                "NPC.cs.3980": "...!!! ธ...เธออยากจะใช้ชีวิตร่วมกันกับฉันหรอ?$7#$b#ในสถานะ {{RelationshipLabel}}? ฉ...ฉันตกลง!!นะ @!$h#$b#มันจะต้องเป็นอะไรที่แปลกใหม่แน่ๆเลย...การที่ทำอะไรแปลกใหม่แบบนี้เหมือนที่ฉันฝันมาตลอดเลยล่ะ!#$b#ที่นี่เราจะจัดงานแบบเหมือนงานแต่งเลยนะเดี๋ยวฉันจะไปเตรียมทุกอย่างให้พร้อมภายในสามวันหลังจากนี้นะ?$n",
+                "NPC.cs.3962": "ว้าว @ เธอนี่รู้ใจฉันจริงๆ$h#$e#ฉันก็อยากรู้เรื่องของเธอเหมือนกันเพราะเธอคือเพื่อนที่ดีที่สุด$h",
+                "NPC.cs.3963": "เธออยากจะเป็นเพื่อนสนิทกับฉันหรอฉันก็อยากเป็นนะ!$h#$e#ฉันกังวลนิดหน่อยน่ะกลัวว่าตอนเธอรู้ความลับแย่ๆของฉันแล้วเธอจะยังเป็นเพื่อนกับฉันอยู่มั้ย?",
+                "NPC.cs.3985": "วันนี้ฉันได้ยินมาว่าเธอให้ของขวัญใครมานิ#$e#เธอนี่ใจดีจังเลยนะ!$h",
+                "NPC.cs.4425": "ชีวิตเปลี่ยนไปมากเลยนะตั้งแต่เราเป็น {{RelationshipLabel}}...$s",
+                "NPC.cs.4001": "ฉันเจอผลไม้นี่อยู่ในเหมืองน่ะ!$h#$b#ฉันให้เธอในฐานะที่เราเป็นครอบครัวเดียวกันแล้วและฉันจะสนับสนุนทุกสิ่งที่เธอทำนะ @.$n",
                 "NPC.cs.4507": "@",
                 "NPC.cs.4508": "@",
                 "NPC.cs.4509": "@",
@@ -34,7 +34,7 @@
                 "NPC.cs.4519": "Bud",
                 "NPC.cs.4522": "Bud",
                 "NPC.cs.4523": "Bud",
-                "Event.cs.1736": "$q -1 null#What's up?#$r -1 0 danceAsk#(Ask Abigail to be your dance partner)#$r -1 0 null#Nevermind...",
+                "Event.cs.1736": "$q -1 null#ว่าไง?#$r -1 0 danceAsk#(ถามอบิเกลว่าจะเป็นคู่เต้นรำมั้ย)#$r -1 0 null#ไม่มีอะไรหรอก...",
             },
         },
         {
@@ -42,10 +42,10 @@
             "Target": "Characters/Dialogue/Abigail",
             "Entries":
             {
-                "NPC.cs.3965": "Haha, you already gave me one of these!$h",
-                "NPC.cs.3966": "You know I already have one, you goof!$h",
-                "NPC.cs.3967": "Haha, I already live with you!$h",
-                "NPC.cs.3968": "I don't need two of them, you goof!$h",
+                "NPC.cs.3965": "ฮืม..เธอเคยให้อันนี้ฉันแล้วนี่นา!$h",
+                "NPC.cs.3966": "เธอก็รู้นิว่าฉันมีมันแล้วฮ่า!$h",
+                "NPC.cs.3967": "ฉันก็อยู่กับเธอแล้วนี่ไง!$h",
+                "NPC.cs.3968": "ฉันไม่ต้องการมันอีกเป็นชิ้นที่สองหรอกนะฮ่า!$h",
             },
             "When":
             {
@@ -57,10 +57,10 @@
             "Target": "Characters/Dialogue/Pierre",
             "Entries":
             {
-                "NPC.cs.3965": "There are at least four reasons why I'm not going to move in with you and my daughter.$3",
-                "NPC.cs.3966": "Abigail doesn't need me hovering over her shoulder. I know she's ready to live her own life.$2",
-                "NPC.cs.3967": "There are at least four reasons why I'm not going to move in with you and my daughter.$3",
-                "NPC.cs.3968": "Abigail doesn't need me hovering over her shoulder. I know she's ready to live her own life.$2",
+                "NPC.cs.3965": "มันมีหลายเหตุผลที่ว่าทำไมครอบครัวฉันจะไม่ย้ายไปที่ฟาร์มของเธอ$3",
+                "NPC.cs.3966": "อบิเกลไม่ต้องการให้ฉันมาหนุนหลังแล้วล่ะตอนนี้ถึงเวลาที่เธอใช้ชีวิตของตัวเอง$2",
+                "NPC.cs.3967": "มันมีหลายเหตุผลที่ว่าทำไมครอบครัวฉันจะไม่ย้ายไปที่ฟาร์มของเธอ$3",
+                "NPC.cs.3968": "อบิเกลไม่ต้องการให้ฉันมาหนุนหลังแล้วล่ะตอนนี้ถึงเวลาที่เธอใช้ชีวิตของตัวเอง$2",
             },
             "When":
             {
@@ -72,10 +72,10 @@
             "Target": "Characters/Dialogue/Caroline",
             "Entries":
             {
-                "NPC.cs.3965": "I don't need to follow Abby everywhere for the rest of her life. I know she'll be fine living with you.",
-                "NPC.cs.3966": "Move in with you and Abby? ...Ask me again when I'm a widow.$2",
-                "NPC.cs.3967": "I don't need to follow Abby everywhere for the rest of her life. I know she'll be fine living with you.",
-                "NPC.cs.3968": "Move in with you and Abby? ...Ask me again when I'm a widow.$2",
+                "NPC.cs.3965": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีำว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
+                "NPC.cs.3966": "ให้ย้ายไปอยู่กับแอ๊บบี้หรอ? ...ค่อยมาถามฉันอีกทีตอนฉันกลายเป็นกระจกแล้วนะฮ่าๆ$2",
+                "NPC.cs.3967": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีำว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
+                "NPC.cs.3968": "ให้ย้ายไปอยู่กับแอ๊บบี้หรอ? ...ค่อยมาถามฉันอีกทีตอนฉันกลายเป็นกระจกแล้วนะฮ่าๆ$2",
             },
             "When":
             {
