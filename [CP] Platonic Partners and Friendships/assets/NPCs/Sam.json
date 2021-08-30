@@ -561,13 +561,13 @@
             "Target": "Characters/Dialogue/Sam",
             "Entries":
             {
-                "summer_Mon10": "Getting to play in Zuzu City was a dream come true, but I feel like I've gotten that out of my system.#$e#I kind of want to focus on my friendships in town for now.$l",
-                "summer_Tue10": "Maybe I should learn how to cook more kinds of food.#$b#You wouldn't mind being my taste tester, right?$h",
-                "summer_Fri10": "I've been writing a song lately.#$e#It's uh... it's about friendship.#$e#You're not gonna laugh at me, are you?$10",
-                "fall_Wed10": "It's tough for me to focus on writing lyrics lately. I think some of my muse came from feeling isolated in this town.#$e#But that's not really an issue anymore.$l",
-                "winter_Tue8": "Penny and I used to hang out a lot when we first moved here.#$e#We still hang out occasionally, and we've got this weird, almost... flirty? ...thing going.$10#$e#At least, sometimes it seems that way. But other times I feel like she still thinks of me as a kid.$s",
-                "winter_Wed10": "Hey, you aren't hiring at your farm or anything, are you?$10",
-                "winter_Fri10": "@! It's so good to see you! Give me a hug.#$e#Huh? 'Not normally a hugger'? I am when it's this cold!$h",
+                "summer_Mon10": "ได้ไปเล่นที่เมืองซูซูนี่เหมือน ได้ทำฝันให้เป็นจริงแล้วเลยอ่ะ เลยไม่ค่อยรู้สึกอะไรแล้วแหะ#$e#ตอนนี้ฉันอยากโฟกัส กับความสัมพันธ์ดีๆ กับคนในเมืองมากกว่า$l",
+                "summer_Tue10": "บางทีฉันควรจะเรียน ทำอาหารเพิ่มนะ#$b#เธอไม่ว่าอะไร ถ้าต้องช่วยฉันชิมใช่มั้ย$h",
+                "summer_Fri10": "ช่วงนี้ฉันแต่งเพลงอยู่น่ะ#$e#เพลง อ่า...เกี่ยวกับมิตรภาพน่ะ#$e#เธอจะไม่หัวเราะเยาะฉัน ใช่ป่ะ$10",
+                "fall_Wed10": "ช่วงนี้แต่งเพลงไม่ถึงไหนเลย ฉันว่าแรงบันดาลใจส่วนหนึ่งของฉัน มาจากความรู้สึกโดดเดี่ยว ในเมืองนี้น่ะ#$e#แต่ตอนนี้นั่นไม่ใช่ปัญหาอีกแล้วน่ะสิ$l",
+                "winter_Tue8": "ตอนย้ายมาใหม่ๆ ฉันกับเพนนีอยู่ด้วยกันบ่อย#$e#เดี๋ยวนี้บางทีเราก็ยังไปไหนด้วยกัน แล้วระหว่างเราก็มีความรู้สึกแปลกๆ เกือบเหมือน... จีบกัน? ...ด้วยล่ะ$10#$e#คืออย่างน้อยบางครั้งมันก็ เหมือนจะเป็นแบบนั้น แต่ส่วนใหญ่แล้ว ฉันรู้สึกว่าเธอยังมองฉัน เป็นเด็กน้อยอยู่อะ$s",
+                "winter_Wed10": "ไง ที่ฟาร์มเธอมองหาคนงานอยู่ป่าว$10",
+                "winter_Fri10": "@! ดีใจที่เจอเธอ! กอดหน่อยดิ#$e#หา? 'ปกติไม่ชอบกอด'? ฉันชอบกอดสิ เวลาอากาศหนาวขนาดนี้อะ!$h",
             },
             "When":
             {
@@ -580,14 +580,14 @@
             "Target": "Characters/Dialogue/Sam",
             "Entries":
             {
-                "summer_Mon10": "Getting to play in Zuzu City was a dream come true, but I feel like I've gotten that out of my system.#$e#I kind of want to focus on my friendships in town for now.",
-                "summer_Tue10": "Maybe I should learn how to cook more kinds of food.#$b#You wouldn't mind being my taste tester, right?$h",
-                "summer_Fri10": "I've been writing a song lately.#$e#It's uh... it's about friendship.#$e#You're not gonna laugh at me, are you?$10",
-                "fall_Wed10": "It's tough for me to focus on writing lyrics lately. I think some of my muse came from feeling isolated in this town.#$e#But that's not really an issue anymore.",
-                "winter_Tue8": "Penny and I used to hang out a lot when we first moved here.#$e#We still hang out occasionally, and we've got this weird, almost... flirty? ...thing going.$10#$e#At least, sometimes it seems that way. But other times I feel like she still thinks of me as a kid.$s",
-                "winter_Wed10": "Hey, you aren't hiring at your farm or anything, are you?$10",
-                "winter_Fri10": "@! It's so good to see you! Give me a hug.#$e#Huh? 'Not normally a hugger'? I am when it's this cold!$h",
-                "fall_Mon10_1": "You're the best, @. I can't wait for my dad to meet you when he gets back.",
+                "summer_Mon10": "ได้ไปเล่นที่เมืองซูซูนี่เหมือน ได้ทำฝันให้เป็นจริงแล้วเลยอ่ะ เลยไม่ค่อยรู้สึกอะไรแล้วแหะ#$e#ตอนนี้ฉันอยากโฟกัส กับความสัมพันธ์ดีๆ กับคนในเมืองมากกว่า",
+                "summer_Tue10": "บางทีฉันควรจะเรียน ทำอาหารเพิ่มนะ#$b#เธอไม่ว่าอะไร ถ้าต้องช่วยฉันชิมใช่มั้ย?$h",
+                "summer_Fri10": "ช่วงนี้ฉันแต่งเพลงอยู่น่ะ#$e#เพลง อ่า...เกี่ยวกับมิตรภาพน่ะ#$e#เธอจะไม่หัวเราะเยาะฉัน ใช่ป่ะ?$10",
+                "fall_Wed10": "ช่วงนี้แต่งเพลงไม่ถึงไหนเลย ฉันว่าแรงบันดาลใจส่วนหนึ่งของฉัน มาจากความรู้สึกโดดเดี่ยว ในเมืองนี้น่ะ#$e#แต่ตอนนี้นั่นไม่ใช่ปัญหาอีกแล้วน่ะ",
+                "winter_Tue8": "ตอนย้ายมาใหม่ๆ ฉันกับเพนนีอยู่ด้วยกันบ่อย#$e#เดี๋ยวนี้บางทีเราก็ยังไปไหนด้วยกัน แล้วระหว่างเราก็มีความรู้สึกแปลกๆ เกือบเหมือน... จีบกัน? ...ด้วยล่ะ$10#$e#คืออย่างน้อยบางครั้งมันก็ เหมือนจะเป็นแบบนั้น แต่ส่วนใหญ่แล้ว ฉันรู้สึกว่าเธอยังมองฉัน เป็นเด็กน้อยอยู่อะ$s",
+                "winter_Wed10": "ไง ที่ฟาร์มเธอมองหาคนงานอยู่ป่าว$10",
+                "winter_Fri10": "@! ดีใจที่เจอเธอ! กอดหน่อยดิ#$e#หา? 'ปกติไม่ชอบกอด'? ฉันชอบกอดสิ เวลาอากาศหนาวขนาดนี้อะ!$h",
+                "fall_Mon10_1": "เธอเจ๋งที่สุดเลย @ ฉันรอให้พ่อได้เจอเธอ ตอนเขากลับมาไม่ไหวแล้ว",
             },
             "When":
             {
@@ -621,16 +621,16 @@
             "Target": "Characters/Dialogue/MarriageDialogueSam",
             "Entries":
             {
-                "Rainy_Day_1": "#$c .5#Do you think Sebastian and Abigail will ever hook up? Sebastian is definitely into her, but I think she'd have to make the first move.#Sebastian's a few years older than me. I never expected I'd be the first of us to partner up with someone.",
-                "Rainy_Night_2": "Earlier, I listened to our live recording from that show we played. Remember that? Man, was that sloppy.#$b#It made me a little nervous that you were there, I didn't want to mess up and have you think I was a loser!$10",
-                "Indoor_Day_2": "#$c .5#Oh! 'Morning. Does my hair look okay today?#Hey. I know I joke around a lot, but I want you to know that you'll always be my best friend. I seriously love you, @.",
-                "Indoor_Night_2": "#$c .5#Hey, sorry I didn't clean up much today. You know I'm sloppy... that's why you like me, right?$h#Me? Oh, I got caught up on some shows today. I'm feelin' a bit stir crazy; they were kinda intense.",
-                "Indoor_Night_4": "#$c .5#Ready to hit the hay?#Want me to play you a guitar lullaby? I'm in no rush to fall asleep, myself, but you're probably pretty tired.",
-                "Outdoor_4": "#$c .5#Ha, you're all muddy. You're really selling the classic farmer look!$h#Hoo... I was thinking I didn't sleep so well last night. But just stepping out here makes me feel awake all the sudden!",
-                "OneKid_3": "#$c .5#I think we should adopt another kid. Vincent keeps asking when he gets to be a 'double uncle.'$h#Sure, being a dad is way more exhausting than I imagined, but I'm up for a challenge!$h",
-                "summer_12": "It was nice seeing Penny at the festival yesterday. I don't see her as often these days.#$e#Plus, I don't think us dating is in the cards anymore, you know? She's looking for a long-term commitment, and I already have that with you.#$b#So there's less awkwardness hanging in the air between us now.$10",
-                "fall_9": "I keep getting the sense that some people think we partnered up too young.$7#$b#Look, I get how they could think that, but I just want to let you know that for me, this is real.$s#$b#We can do this, right? I'm on board... you're on board...#$e#We're gonna conquer the world together.",
-                "winter_14": "If you're not as busy this season, is there a day that we can just spend lounging around? I really kinda miss you.",
+                "Rainy_Day_1": "#$c .5#เธอว่าเซบาสเตียนกับอบิเกล จะได้ลงเอยกันมั้ย เซบาสเตียนน่ะชอบเธอชัวร์ๆ แต่ฉันว่าเธอคงต้องจีบก่อน#เซบาสเตียนแก่กว่าฉันสองสามปีแหละ ฉันไม่เคยคิดเลยว่า ฉันจะเป็นคนที่เจอคู่ ก่อนในพวกเราสองคน",
+                "Rainy_Night_2": "ก่อนหน้านี้ ฉันฟังเทปที่เราอัดจากโชว์ของเราด้วย จำได้ปะ พระเจ้า เล่นไม่พร้อมกันสุดๆ#$b#ฉันตื่นเต้นนิดหน่อยน่ะ ที่เธออยู่ด้วย ฉันไม่อยากเล่นพลาด แล้วกลายเป็นไอ้ขี้แพ้ ในสายตาเธอ!$10",
+                "Indoor_Day_2": "#$c .5#อ้าว! 'รุนหวัด วันนี้ผมฉันโอปะ#เฮ้ ฉันรู้ว่าฉันชอบล้อเล่น แต่อยากให้รู้ว่า เธอจะเป็นเพื่อนซี้ที่สุด ของฉันเสมอนะ ฉันรักเธอจริงๆ นะ @",
+                "Indoor_Night_2": "#$c .5#ไง โทษทีนะวันนี้ฉันไม่ได้จัดบ้านเท่าไหร่ เธอก็รู้นี่ ว่าฉันเป็นคนสบายจัดๆ... เธอก็เลยชอบฉันใช่มั้ยล่ะ$h#ฉันเหรอ? อ้อ ฉันติดแสดงนิดหน่อยน่ะวันนี้ เลยรู้สึกประสาทกินหน่อยๆ ค่อนข้างจริงจังน่ะ",
+                "Indoor_Night_4": "#$c .5#พร้อมนอนยัง?#อยากให้ฉันเล่นกีต้าร์ กล่อมนอนมั้ย ฉันยังไม่รีบนอนหรอก แต่เธอคงเหนื่อย พอสมควรเลยสินะ",
+                "Outdoor_4": "#$c .5#ฮ่าๆ ตัวเธอเปื้อนโคลนไปหมดเลย ได้ลุคชาวไร่คลาสสิคสุดๆ!$h#ฮู่วว... ตอนแรกฉันคิดอยู่เลยว่า เมื่อคืนอนไม่ค่อยหลับ แต่แค่ก้าวออกมาตรงนี้ ก็ทำให้ตาสว่างขึ้นมาทันทีเลย!",
+                "OneKid_3": "#$c .5#ฉันว่าเราควร รับเลี้ยงเด็กอีกคนนะ วิทเซนท์ถามอยู่นั่นแหละว่า เมื่อไหร่เขาจะได้เป็น 'ลุงคูณสอง'$h#แน่ล่ะ เป็นพ่อคนนี่เหนื่อย กว่าที่ฉันคิดชะมัดเลย แต่ฉันสู้ไม่ถอยจะบอกให้!$h",
+                "summer_12": "เมื่อวานดีจังที่ได้เจอเพนนี ที่งานเทศกาลด้วย เดี๋ยวนี้ไม่ค่อยได้เจอเธอเลย#$e#แต่ฉันไม่คิดว่าเรื่องที่ ฉันกับเพนนี จะเดตกัน จะเป็นไปได้อีกแล้วล่ะ รู้มั้ย? เธอตามหาคนที่ทุ่มเทจริงจัง ระยะยาว แต่ฉันก็มีเธอเป็นคนนั้นอยู่แล้ว#$b#ระหว่างเราก็เลยไม่ค่อย อึดอัดแล้วน่ะ$10",
+                "fall_9": "ฉันรู้สึกเหมือนคนอื่น คิดว่าเราจับคู่กัน เร็วไปเลยอะ$7#$b#ฟังนะ ฉันเก็ตแหละว่าทำไมคนอื่นถึงคิดแบบนั้น แต่ฉันแค่อยากให้เธอรู้ว่า สำหรับฉันนี่มันจริงจังนะ$s#$b#พวกเราทำได้ ใช่มั้ย? ฉันเอาด้วย... เธอเอาด้วย...#$e#เราจะพิชิตโลกนี้ด้วยกัน",
+                "winter_14": "ถ้าฤดูนี้เธอไม่ยุ่ง วันไหนเรามาพักผ่อน ชิลๆ สักวันมั้ย? ฉันค่อนข้าง คิดถึงเธอจริงๆ นะ",
             },
             "When":
             {
@@ -643,7 +643,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueSam",
             "Entries":
             {
-                "Indoor_Night_0": "#$c .5#Hey, you look tired. Let me help you relax tonight, okay? Can I get you anything?#Whoa, you're home! Guess that's my cue. OK, relax-o time for you! [184 346 206]",
+                "Indoor_Night_0": "#$c .5#เฮ้ เธอดูเหนื่อยนะ ให้ฉันช่วยทำให้เธอ ผ่อนคลายดีมั้ยคืนนี้ ให้ฉันเอาอะไรให้กินป่าว#โว้ว เธอกลับบ้านแล้ว! ถึงคิวฉันแล้วสินะ โอเค ชิล-ไทม์ สำหรับคุณ! [184 346 206]",
             },
             "When":
             {
@@ -656,7 +656,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueSam",
             "Entries":
             {
-                "Indoor_Day_1": "Hey, look what I made for you! [194 211]$h#$e#Sorry... I only know how to cook instant pancakes and eggs.$10#$e#But I'm an instant pancake connoisseur... and I learned my fried egg technique from a master!$h",
+                "Indoor_Day_1": "เฮ้ ดูสิฉันทำอะไรไว้ให้! [194 211]$h#$e#โทษทีนะ... ฉันทำเป็นแต่แพนเค้กสำเร็จรูป กับไข่อะ$10#$e#แต่ฉันเป็นมือฉมัง แพนเค้กสำเร็จรูปเลยนะ... แล้วฉันก็เรียนเทคนิด การทอดไข่มาจากระดับ ปรมาจารย์เลยด้วย!$h",
             },
             "When":
             {
@@ -669,9 +669,9 @@
             "Target": "Characters/Dialogue/Kent",
             "Entries":
             {
-                "Mon_inlaw_Sam": "You and Sam becoming {{RelationshipLabel}} came as quite a surprise.#$e#Welcome to the family.",
-                "Mon_inlaw_Sam4": "Hey. Maybe we should catch up at the saloon sometime.#$b#I'd like to pick your brain on how to connect with Sam... I think you know him better than I do at this point.$s",
-                "Mon_inlaw_Sam8": "I'm glad to have you as part of the family, @. Jodi tells me you're a good influence on Sam.$h",
+                "Mon_inlaw_Sam": "เธอกับแซมได้มาเป็น {{RelationshipLabel}} กันนี่เซอร์ไพรส์มากเลย#$e#ยินดีต้อนรับเข้าครอบครัวนะ",
+                "Mon_inlaw_Sam4": "ไง บางทีพวกเราควรจะ ไปคุยกันที่ซาลูนบ้างนะ#$b#ฉันอยากจะส่องดูสมองเธอมากเลย ว่าเธอคุยกับแซมเข้าใจได้ยังไง... ฉันว่าเธอรู้จักแซมดีกว่าฉันแล้ว ณ จุดนี้$s",
+                "Mon_inlaw_Sam8": "ฉันดีใจที่มีเธอเป็นส่วนหนึ่ง ของครอบครัวนะ @ โจดี้บอกฉันว่าเธอทำให้แซม เปลี่ยนไปในทางที่ดีขึ้น$h",
             },
             "When":
             {
@@ -683,8 +683,8 @@
             "Target": "Characters/Dialogue/Vincent",
             "Entries":
             {
-                "winter_Wed_inlaw_Sam": "So you and my brother love each other, but you're not 'in love?'$3#$e#That makes sense. I only wanna marry Miss Penny, but I love lots of other people.$h",
-                "Wed_inlaw_Sam": "How's my brother doing?#$e#We're sort of related now, aren't we?$h",
+                "winter_Wed_inlaw_Sam": "ตกลงว่า พี่กับพี่ชายผมรักกัน แต่ไม่ได้เป็นแฟนกันเหรอฮะ?'$3#$e#อย่างนี้นี่เอง ผมก็อยากแต่งงาน กับครูเพนนีคนเดียว แต่ผมก็รักคนอื่น อีกเยอะแยะเลย$h",
+                "Wed_inlaw_Sam": "พี่ผมเป็นไงบ้างเหรอฮะ?#$e#ตอนนี้พวกเราก็ เหมือนเป็นญาติกันแล้ว ใช่มั้ยฮะ?$h",
             },
             "When":
             {
