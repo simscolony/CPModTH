@@ -254,17 +254,17 @@
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries":
             {
-                "Rainy_Day_2": "Hey. I couldn't sleep last night so I took a walk to the caves. I found this... want it?[575 769 767 84 66 78]#$e#I just have trouble sleeping sometimes, it has nothing to do with you. I love living with you.$7",
-                "Rainy_Night_0": "I'm trying my best to quit smoking now that we're {{RelationshipLabel}}... I don't wanna die on you. It's a bad habit.#$e#I want to have a future together.$l",
-                "Indoor_Day_2": "I couldn't sleep last night so I went for a night ride on the motorcycle.#$e#I need to stay independent, even though we're {{RelationshipLabel}}. That's just how I am. I still love you, though.$7",
-                "Indoor_Day_3": "Hey. How'd you sleep last night? I thought I could hear you mumbling.#$e#You seemed scared. Were you dreaming about fighting monsters?",
-                "Outdoor_3": "I don't want my sedentary habits to catch up with me as I get older. Maybe I should spend more time outside and start working out?#$e#Just an idea...$h",
-                "Good_0": "Hey. Look at me. Never forget that you're my best friend... you're everything to me.$l#$b#Now go make us some money.$h",
-                "Good_1": "Hey, @. Want to play some Solarian Chronicles later?#$e#Or I can join in on one of your hobbies. I just like spending time with you.$l",
-                "Good_2": "You always look great, even after slopping around in the yard all day.$7#$e#Maybe there's something to what everyone says about the benefits of fresh air and exercise.$h",
-                "Good_3": "I don't often show it, but I'm really happy we're {{RelationshipLabel}}. Moving in with you was the best decision I ever made.$l",
-                "Good_9": "I don't need a big friend group. I care about Sam and Abby, but you're the only person I really *need* in my life.#$e#Is that weird? I guess I'm not like most people.",
-                "Neutral_2": "Why don't you tell me about your day later? I'm kind of busy right now...",
+                "Rainy_Day_2": "นี่ เมื่อคืนฉันนอนไม่หลับ ก็เลยไปเดินเล่นในถ้ำมา เจอนี่ด้วย... อยากได้มะ [575 769 767 84 66 78]#$e#บางครั้ง ฉันมีปัญหากับการนอน ซึ่งไม่เกี่ยวกับเธอเลยนะ ฉันชอบเวลาเธออยู่ด้วย$7",
+                "Rainy_Night_0": "ฉันพยายามเลิกบุหรี่ อย่างสุดความสามารถ เพราะเราเป็น {{RelationshipLabel}} กันแล้ว... ฉันไม่อยากตาย แล้วทิ้งเธออยู่คนเดียว ดูนิสัยไม่ดีเลย#$e#ฉันอยากมีอนาคต อยู่ด้วยกันกับเธอนะ$l",
+                "Indoor_Day_2": "นี่ เมื่อคืนฉันนอนไม่หลับ เลยไปขี่รถเล่นมา#$e#ฉันต้องอยู่ตามลำพัง และได้มีอิสระบ้าง ถึงแม้ว่าเราเป็น {{RelationshipLabel}} กัน มันคือตัวตนของฉัน แต่ฉันยังรักเธอนะ$7",
+                "Indoor_Day_3": "นี่ เมื่อคืนนอนเป็นยังไงบ้าง เหมือนฉันได้ยินเธอพึมพำ#$e#ดูกลัวๆ ด้วยนะ เธอฝันว่า สู้กับสัตว์ประหลาดรึเปล่า",
+                "Outdoor_3": "ไม่อยากให้นิสัยที่เอาแต่นั่งๆ นอนๆ ติดตัวไปจนแก่้เลย ฉันน่าจะ ควรใช้เวลาอยู่ข้างนอก มากกว่านี้ และเริ่มออกกำลังกายบ้าง ว่าไหม#$e#แค่คิดน่ะ...$h",
+                "Good_0": "นี่ มองฉันสิ อย่าลืมเป็นอันขาดว่าเธอ คือเพื่อนที่ดีที่สุดของฉัน... คือทุกอย่างสำหรับฉัน$l#$b#ทีนี้ ก็ออกไปทำงาน หาเงินได้แล้ว$h",
+                "Good_1": "นี่ @ ไว้ว่างๆ มาเล่น Solarian Chronicles กันไหม#$e#หรือจะให้ฉันทำงานอดิเรกที่เธอชอบก็ได้นะ แค่อยากใช้เวลาอยู่กับเธอน่ะ$l",
+                "Good_2": "แม้ว่าหลังจาก ลุยสวนทำฟาร์มมาทั้งวัน เธอก็ยังดูดีตลอดเลยนะ$7#$e#อาจจะเพราะบางอย่าง จากประโยชน์ของอากาศสดชื่น กับการออกกำลังกาย อย่างที่ทุกคนพูดถึง$h",
+                "Good_3": "ปกติไม่ค่อยแสดงออกนะ แต่ฉันมีความสุขจริงๆ ที่เราเป็น {{RelationshipLabel}} กัน การย้ายมาอยู่กับเธอ เป็นการตัดสินใจที่ดีที่สุด เท่าที่ฉันเคยคิดมาเลย$l",
+                "Good_9": "ฉันไม่ได้อยาก มีเพื่อนเยอะแยะ ฉันแคร์แซมกับแอ๊บบี้จริง แต่เธอคือคนเดียวที่ฉันต้องการ ในชีวิตนี้#$e#มันแปลกไหม ฉันว่าฉันไม่เหมือนคนส่วนใหญ่เลย",
+                "Neutral_2": "ค่อยมาเล่าให้ฟังคราวหลัง ได้ไหม ตอนนี้ฉันยุ่งอยู่น่ะ...",
             },
             "When":
             {
@@ -303,7 +303,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries":
             {
-                "Rainy_Day_4": "Hey, another rainy day... perfect.#$e#You look cold... I'll make us some coffee.$7",
+                "Rainy_Day_4": "นี่ ฝนตกอีกแล้ว... เยี่ยมจริงๆ#$e#เธอดูหนาวๆ นะ... เดี๋ยวฉันทำกาแฟให้.$7",
             },
             "When":
             {
@@ -316,7 +316,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Sebastian": "Before I met you, I spent most of my time turned away from reality... because I thought I'd never find happiness.#$b#...but you've shown me that the world isn't such a dark place, after all.$h\"/faceDirection Sebastian 3/pause 500/speak Sebastian \"...That's one of the reasons I love you. Becoming {{RelationshipLabel}} is the best thing that's ever happened to me.$l",
+                "SummitEvent_Dialogue3_Sebastian": "ก่อนเจอเธอ ฉันใช้เวลาส่วนใหญ่ มองข้ามความเป็นจริง... เพราะคิดว่า ฉันคงไม่มีทาง เจอความสุขแน่ๆ#$b#...แต่เธอทำให้ฉันเห็นว่า โลกไม่ใช่สิ่งที่มืดมนขนาดนั้น$h\"/faceDirection Sebastian 3/pause 500/speak Sebastian \"...นี่เป็นหนึ่งในหลายเหตุผลที่ฉันรักเธอ การเป็น {{RelationshipLabel}} คือสิ่งที่ดีที่สุด ที่เคยเกิดขึ้นกับฉันเลย$l",
             },
             "When":
             {
@@ -328,7 +328,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Sebastian": "Before I met you, I spent most of my time turned away from reality... because I thought I'd never find happiness.#$b#...but you've shown me that the world isn't such a dark place, after all.$h\"/faceDirection Sebastian 3/pause 500/speak Sebastian \"...That's one of the reasons I love you. Becoming {{RelationshipLabel}} is the best thing that's ever happened to me.$7",
+                "SummitEvent_Dialogue3_Sebastian": "ก่อนเจอเธอ ฉันใช้เวลาส่วนใหญ่ มองข้ามความเป็นจริง... เพราะคิดว่า ฉันคงไม่มีทาง เจอความสุขแน่ๆ#$b#...แต่เธอทำให้ฉันเห็นว่า โลกไม่ใช่สิ่งที่มืดมนขนาดนั้น$h\"/faceDirection Sebastian 3/pause 500/speak Sebastian \"...นี่เป็นหนึ่งในหลายเหตุผลที่ฉันรักเธอ การเป็น {{RelationshipLabel}} คือสิ่งที่ดีที่สุด ที่เคยเกิดขึ้นกับฉันเลย$7",
             },
             "When":
             {
@@ -430,8 +430,8 @@
             "Target": "Characters/Dialogue/Sebastian",
             "Entries":
             {
-                "Wed10": "I've realized I have a lot of reasons to stay in Pelican Town.#$e#For one thing, my friendships here are important to me.$l",
-                "winter_Wed10": "Abby's great. She's cooler than most of the people in town.$7#$b#... Okay, I trust you, so I won't downplay it. I'm, uh, interested in her. Romantically.$s#$b#Just don't tell anyone. I don't want to open that can of worms if she doesn't feel the same way.",
+                "Wed10": "ฉันรู้แล้วว่า มีเหตุผลมากมายที่ควรอยู่ ในเมืองเพลิแกนต่อไป#$e#สิ่งหนึ่งก็คือ มิตรภาพของฉันที่นี่ สำคัญสำหรับฉัน$l",
+                "winter_Wed10": "แอ๊บบี้น่ะดีมาก เธอเจ๋งกว่าคนส่วนใหญ่ในเมืองนี้$7#$b#... โอเค ฉันเชื่อใจเธอ เพราะงั้นจะไม่กลบเกลื่อนละ ฉัน เอ่อ สนใจเธอ แบบโรแมนติกเลย$s#$b#อย่าไปบอกใครละกัน ฉันไม่อยากสร้างความวุ่นวาย ถ้าเธอไม่ได้รู้สึก เหมือนกันกับฉันขึ้นมาน่ะ",
             },
             "When":
             {
@@ -542,7 +542,7 @@
             "Target": "Characters/Dialogue/Maru",
             "Entries":
             {
-                "summer_Tue4_inlaw_Sebastian": "Sebastian seems so much happier since he moved out. I hope things are well!",
+                "summer_Tue4_inlaw_Sebastian": "เซบาสเตียนดูมีความสุขขึ้นตั้งแต่ที่ย้ายออกไป หวังว่าจะไปได้สวยนะ!",
             },
             "When":
             {
@@ -554,7 +554,7 @@
             "Target": "Characters/Dialogue/Demetrius",
             "Entries":
             {
-                "Sun_inlaw_Sebastian": "It's such a relief that Sebastian's finally moved out. I did always think you two were a good fit for each other.$h",
+                "Sun_inlaw_Sebastian": "โล่งใจซะจริงที่เซบาสเตียนย้ายออกไปสักที ฉันคิดอยู่แล้วว่าเธอสองคน เหมาะสมสำหรับกันและกัน$h",
             },
             "When":
             {
@@ -595,7 +595,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"Oh, {{Lowercase:{{TermofEndearment}}}}... I'm so glad you're okay. I was worried sick about you.$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"I only got the news once you were already in surgery... Being out here while you were in there was the longest wait of my life.$2#$b#And seeing you in that bed when you were finally brought out... it really broke my heart.$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"You know... I believed for my whole life that I didn't have a place in this world. I wanted to be left alone, maybe because part of me was scared.#$b#But @... I've really become a better person since I met you. I don't ever want to go back to a life without you.#$b#Please don't make me.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Hey... Sorry, but I want to be alone for now. I'm still a bit shaken by what happened today.$2#$c 0.7#I'm not mad at you, {{Lowercase:{{TermofEndearment}}}}. I just need to sort my feelings out, okay?$2#Take this before you go, though. I love you. [237 241 203 204 220 244 272]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ค่อยๆ ...ไม่ต้องรีบนะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดีครับ @ ดีใจจัง ในที่สุดคุณก็ตื่น#$b#มีคนหนึ่งพาคุณมาที่นี่ในสภาพไม่ได้สติและบาดเจ็บสาหัส ผมต้องให้คุณเข้ารับการผ่าตัดฉุกเฉินนะครับ!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"โอ้ {{Lowercase:{{TermofEndearment}}}}... ดีใจจริงๆ ที่เธอไม่เป็นอะไร ฉันเป็นห่วงแทบแย่แล้วเนี่ย$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"ฉันเพิ่งได้ข่าว ตอนเธอเข้าห้องผ่าตัดไปแล้ว... การรออยู่ข้างนอกนี่ ขณะที่เธออยู่ในห้องนั้น เป็นการรอที่นานที่สุด ในชีวิตฉันเลย$2#$b#และการที่เห็น เธอถูกเข็นออกมา พร้อมนอนอยู่บนเตียงนั่น... มันบีบคั้นใจฉันจริงๆ$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"ตอนนี้ อาการของคุณ ดีขึ้นแล้ว @ แต่คราวหน้ากรุณา ระวังให้มากกว่านี้ล่ะ$2\"/pause 500/speak Harvey \"ผมจะให้เวลาคุณทั้งสอง ได้คุยกันนะครับ\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"รู้ไหม... ฉันเชื่อมาทั้งชีวิตว่า โลกใบนี้ไม่มีที่ให้ฉันอยู่หรอก ฉันอยากถูกทิ้ง ให้อยู่ตัวคนเดียว อาจจะเพราะ บางอย่างในตัวฉัน รู้สึกกลัวอยู่ก็ได้#$b#แต่ @... ฉันกลายเป็นคนที่ดีกว่าเดิม ตั้งแต่เจอเธอ ฉันไม่อยากกลับไปใช้ชีวิต ที่ไม่มีเธออีกแล้ว#$b#ขอร้องล่ะ อย่าทำให้ฉัน ต้องทำแบบนี้เลย$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"นี่... ขอโทษนะ แต่ตอนนี้ฉันอยากอยู่คนเดียว ยังรู้สึกโหวงๆ นิดหน่อย กับสิ่งที่เกิดขึ้นวันนี้$2#$c 0.7#ฉันไม่ได้โกรธเธอเลย {{Lowercase:{{TermofEndearment}}}} แค่ต้องจัดการ กับความรู้สึกหน่อยน่ะ โอเคนะ$2#แต่ก่อนไป รับนี่ไว้สิ ฉันรักเธอนะ [237 241 203 204 220 244 272]\"",  
             },
             "When": {
 		        "Spouse": "Sebastian",
@@ -611,7 +611,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"Oh, {{TermofEndearment}}... I'm so glad you're okay. I was worried sick about you.$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"I only got the news once you were already in surgery... Being out here while you were in there was the longest wait of my life.$2#$b#And seeing you in that bed when you were finally brought out... it really broke my heart.$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"You know... I believed for my whole life that I didn't have a place in this world. I wanted to be left alone, maybe because part of me was scared.#$b#But @... I've really become a better person since I met you. I don't ever want to go back to a life without you.#$b#Please don't make me.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Hey... Sorry, but I want to be alone for now. I'm still a bit shaken by what happened today.$2#$c 0.7#I'm not mad at you, {{TermofEndearment}}. I just need to sort my feelings out, okay?$2#Take this before you go, though. I love you. [237 241 203 204 220 244 272]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ค่อยๆ ...ไม่ต้องรีบนะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดีครับ @ ดีใจจัง ในที่สุดคุณก็ตื่น#$b#มีคนหนึ่งพาคุณมาที่นี่ในสภาพไม่ได้สติและบาดเจ็บสาหัส ผมต้องให้คุณเข้ารับการผ่าตัดฉุกเฉินนะครับ!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"โอ้ {{TermofEndearment}}... ดีใจจริงๆ ที่เธอไม่เป็นอะไร ฉันเป็นห่วงแทบแย่แล้วเนี่ย$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"ฉันเพิ่งได้ข่าว ตอนเธอเข้าห้องผ่าตัดไปแล้ว... การรออยู่ข้างนอกนี่ ขณะที่เธออยู่ในห้องนั้น เป็นการรอที่นานที่สุด ในชีวิตฉันเลย$2#$b#และการที่เห็น เธอถูกเข็นออกมา พร้อมนอนอยู่บนเตียงนั่น... มันบีบคั้นใจฉันจริงๆ$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"ตอนนี้ อาการของคุณ ดีขึ้นแล้ว @ แต่คราวหน้ากรุณา ระวังให้มากกว่านี้ล่ะ$2\"/pause 500/speak Harvey \"ผมจะให้เวลาคุณทั้งสอง ได้คุยกันนะครับ\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"รู้ไหม... ฉันเชื่อมาทั้งชีวิตว่า โลกใบนี้ไม่มีที่ให้ฉันอยู่หรอก ฉันอยากถูกทิ้ง ให้อยู่ตัวคนเดียว อาจจะเพราะ บางอย่างในตัวฉัน รู้สึกกลัวอยู่ก็ได้#$b#แต่ @... ฉันกลายเป็นคนที่ดีกว่าเดิม ตั้งแต่เจอเธอ ฉันไม่อยากกลับไปใช้ชีวิต ที่ไม่มีเธออีกแล้ว#$b#ขอร้องล่ะ อย่าทำให้ฉัน ต้องทำแบบนี้เลย$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"นี่... ขอโทษนะ แต่ตอนนี้ฉันอยากอยู่คนเดียว ยังรู้สึกโหวงๆ นิดหน่อย กับสิ่งที่เกิดขึ้นวันนี้$2#$c 0.7#ฉันไม่ได้โกรธเธอเลย {{TermofEndearment}} แค่ต้องจัดการ กับความรู้สึกหน่อยน่ะ โอเคนะ$2#แต่ก่อนไป รับนี่ไว้สิ ฉันรักเธอนะ [237 241 203 204 220 244 272]\"",  
             },
             "When": {
 		        "Spouse": "Sebastian",
@@ -641,7 +641,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}}, hey-$7#$b#Oh, wow. What got you this time around?$u#$b#Seriously, your clothes are all burnt and you look like you were scorched by something. Are you okay?$2#$b#You're not in pain? That's good. Really wish you wouldn't make me worry like that...#$b#Really, though... what was it? A lava slime? Maybe... a dragon?$7\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่น!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}} นี่-$7#$b#โอ้โห คราวนี้ได้อะไรมาล่ะWhat got you this time around?$u#$b#Seriously, your clothes are all burnt and you look like you were scorched by something. Are you okay?$2#$b#You're not in pain? That's good. Really wish you wouldn't make me worry like that...#$b#Really, though... what was it? A lava slime? Maybe... a dragon?$7\"",
    		    },
 		    "When": {
                 	"HasFlag |contains=addedParrotBoy, leoMoved": "false",
