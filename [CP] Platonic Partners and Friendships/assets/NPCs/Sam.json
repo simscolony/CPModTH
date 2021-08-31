@@ -600,15 +600,15 @@
             "Target": "Characters/Dialogue/MarriageDialogueSam",
             "Entries":
             {
-                "Rainy_Day_1": "#$c .5#Do you think Sebastian and Abigail will ever hook up? Sebastian is definitely into her, but I think she'd have to make the first move.#Sebastian's a few years older than me. I never expected I'd be the first of us to partner up with someone.",
-                "Rainy_Night_2": "Earlier, I listened to our live recording from that show we played. Remember that? Man, was that sloppy.#$b#It made me a little nervous that you were there, I didn't want to mess up and have you think I was a loser!$10",
-                "Indoor_Day_2": "#$c .5#Oh! 'Morning. Does my hair look okay today?#Hey. I know I joke around a lot, but I want you to know that you'll always be my best friend. I seriously love you, @.$l",
-                "Indoor_Night_2": "#$c .5#Hey, sorry I didn't clean up much today. You know I'm sloppy... that's why you like me, right?$h#Me? Oh, I got caught up on some shows today. I'm feelin' a bit stir crazy; they were kinda intense.",
-                "Indoor_Night_4": "#$c .5#Ready to hit the hay?#Want me to play you a guitar lullaby? I'm in no rush to fall asleep, myself, but you're probably pretty tired.",
-                "Outdoor_4": "#$c .5#Ha, you're all muddy. You're really selling the classic farmer look!$h#Hoo... I was thinking I didn't sleep so well last night. But just stepping out here makes me feel awake all the sudden!",
-                "OneKid_3": "#$c .5#I think we should adopt another kid. Vincent keeps asking when he gets to be a 'double uncle.'$h#Sure, being a dad is way more exhausting than I imagined, but I'm up for a challenge!$h",
-                "summer_12": "It was nice seeing Penny at the festival yesterday. I don't see her as often these days.#$e#Plus, I don't think her and I dating is in the cards anymore, you know? She's looking for a long-term commitment, and I already have that with you.$l#$b#So there's less awkwardness hanging in the air between us now.$10",
-                "fall_9": "I keep getting the sense that some people think we partnered up too young.$7#$b#Look, I get how they could think that, but I just want to let you know that for me, this is real.$s#$b#We can do this, right? I'm on board... you're on board...#$e#We're gonna conquer the world together.",
+                "Rainy_Day_1": "#$c .5#เธอว่าเซบาสเตียนกับอบิเกล จะได้ลงเอยกันมั้ย เซบาสเตียนน่ะชอบเธอชัวร์ๆ แต่ฉันว่าเธอคงต้องจีบก่อน#เซบาสเตียนแก่กว่าฉันสองสามปีแหละ ฉันไม่เคยคิดเลยว่า ฉันจะเป็นคนที่เจอคู่ ก่อนในพวกเราสองคน",
+                "Rainy_Night_2": "ก่อนหน้านี้ ฉันฟังเทปที่เราอัดจากโชว์ของเราด้วย จำได้ปะ พระเจ้า เล่นไม่พร้อมกันสุดๆ#$b#ฉันตื่นเต้นนิดหน่อยน่ะ ที่เธออยู่ด้วย ฉันไม่อยากเล่นพลาด แล้วกลายเป็นไอ้ขี้แพ้ ในสายตาเธอ!$10",
+                "Indoor_Day_2": "#$c .5#อ้าว! 'รุนหวัด วันนี้ผมฉันโอปะ#เฮ้ ฉันรู้ว่าฉันชอบล้อเล่น แต่อยากให้รู้ว่า เธอจะเป็นเพื่อนซี้ที่สุด ของฉันเสมอนะ ฉันรักเธอจริงๆ นะ @$l",
+                "Indoor_Night_2": "#$c .5#ไง โทษทีนะวันนี้ฉันไม่ได้จัดบ้านเท่าไหร่ เธอก็รู้นี่ ว่าฉันเป็นคนสบายจัดๆ... เธอก็เลยชอบฉันใช่มั้ยล่ะ$h#ฉันเหรอ? อ้อ ฉันติดแสดงนิดหน่อยน่ะวันนี้ เลยรู้สึกประสาทกินหน่อยๆ ค่อนข้างจริงจังน่ะ",
+                "Indoor_Night_4": "#$c .5#พร้อมนอนยัง?#อยากให้ฉันเล่นกีต้าร์ กล่อมนอนมั้ย ฉันยังไม่รีบนอนหรอก แต่เธอคงเหนื่อย พอสมควรเลยสินะ",
+                "Outdoor_4": "#$c .5#ฮ่าๆ ตัวเธอเปื้อนโคลนไปหมดเลย ได้ลุคชาวไร่คลาสสิคสุดๆ!$h#ฮู่วว... ตอนแรกฉันคิดอยู่เลยว่า เมื่อคืนอนไม่ค่อยหลับ แต่แค่ก้าวออกมาตรงนี้ ก็ทำให้ตาสว่างขึ้นมาทันทีเลย!",
+                "OneKid_3": "#$c .5#ฉันว่าเราควร รับเลี้ยงเด็กอีกคนนะ วิทเซนท์ถามอยู่นั่นแหละว่า เมื่อไหร่เขาจะได้เป็น 'ลุงคูณสอง'$h#แน่ล่ะ เป็นพ่อคนนี่เหนื่อย กว่าที่ฉันคิดชะมัดเลย แต่ฉันสู้ไม่ถอยจะบอกให้!$h",
+                "summer_12": "เมื่อวานดีจังที่ได้เจอเพนนี ที่งานเทศกาลด้วย เดี๋ยวนี้ไม่ค่อยได้เจอเธอเลย#$e#แต่ฉันไม่คิดว่าเรื่องที่ ฉันกับเพนนี จะเดตกัน จะเป็นไปได้อีกแล้วล่ะ รู้มั้ย? เธอตามหาคนที่ทุ่มเทจริงจัง ระยะยาว แต่ฉันก็มีเธอเป็นคนนั้นอยู่แล้ว#$b#ระหว่างเราก็เลยไม่ค่อย อึดอัดแล้วน่ะ$10",
+                "fall_9": "ฉันรู้สึกเหมือนคนอื่น คิดว่าเราจับคู่กัน เร็วไปตลอดเลยอะ$7#$b#ฟังนะ ฉันเก็ตแหละว่าทำไมคนอื่นถึงคิดแบบนั้น แต่ฉันแค่อยากให้เธอรู้ว่า สำหรับฉันนี่มันจริงจังนะ$s#$b#พวกเราทำได้ ใช่มั้ย? ฉันเอาด้วย... เธอเอาด้วย...#$e#เราจะพิชิตโลกนี้ด้วยกัน",
             },
             "When":
             {
