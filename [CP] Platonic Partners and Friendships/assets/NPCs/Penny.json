@@ -65,7 +65,7 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "event_pool4": "I’m so glad!$6#$b#Thank you, @. I know you’ll be as wonderful a role model for them as you’ve been a friend to me.$6#$b#Could I... give you a hug?$8",
+                "event_pool4": "ฉันดีใจจัง!$6#$b#ขอบคุณค่ะ @ ฉันรู้ว่าคุณจะเป็นแบบอย่าง ที่ยอดเยี่ยมให้พวกเขา ได้เหมือนที่คุณเป็นเพื่อน ที่ดีให้กับฉัน$6#$b#ฉันขอ... กอดคุณได้มั้ยคะ?$8",
             },
             "When":
             {
@@ -77,7 +77,7 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "event_pool4": "I’m so glad!$6#$b#Thank you, @. I know you’ll be as wonderful a role model for them as you’ve been a friend to me.$6#$b#Could I... give you a hug?$6",
+                "event_pool4": "ฉันดีใจจัง!$6#$b#ขอบคุณค่ะ @ ฉันรู้ว่าคุณจะเป็นแบบอย่าง ที่ยอดเยี่ยมให้พวกเขา ได้เหมือนที่คุณเป็นเพื่อน ที่ดีให้กับฉัน$6#$b#ฉันขอ... กอดคุณได้มั้ยคะ?$6",
             },
             "When":
             {
@@ -89,12 +89,12 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "NPC.cs.3965": "Another pendant...? Well, why don't I wear mine, and you wear that one?",
-                "NPC.cs.3966": "But... we already agreed to be {{RelationshipLabel}}... didn't we?$u",
-                "NPC.cs.3967": "Are you feeling okay, hon? You don't need to ask me to live with you... I'm already here.",
-                "NPC.cs.3968": "That's so sweet of you, but I don't need two pendants! Just being part of your life is enough for me.$h",
+                "NPC.cs.3965": "จี้อีกอันเหรอคะ...? เอาเป็นว่า ทำไมฉันไม่ใส่ของฉัน แล้วคุณก็ใส่อันนั้นล่ะคะ?",
+                "NPC.cs.3966": "แต่... พวกเราตกลงเป็น{{RelationshipLabel}} กันแล้วนี่คะ... ใช่มั้ย?$u",
+                "NPC.cs.3967": "ที่รัก คุณโอเคมั้ย? คุณไม่จำเป็นต้อง ขอให้ฉันมาอยู่กับคุณ หรอกนะ...  ฉันก็อยู่อยู่แล้วไงคะ",
+                "NPC.cs.3968": "คุณน่ารักจัง แต่ฉันไม่ต้องการจี้ ถึงสองอันหรอกค่ะ! แค่ได้เป็นส่วนหนึ่งในชีวิตคุณ ก็พอแล้วล่ะค่ะสำหรับฉัน$h",
             },
-            "When":
+            "Wienไม่
             {
                 "Relationship:Penny": "Engaged, Married"
             }
@@ -104,10 +104,10 @@
             "Target": "Characters/Dialogue/Pam",
             "Entries":
             {
-                "NPC.cs.3965": "You're movin' in with my Penny, ain't you? She ask you to bring me along? ...Didn't think so.$s",
-                "NPC.cs.3966": "Don't be weird, kid. I got my own place to live.$4",
-                "NPC.cs.3967": "I'm fine where I am, kid. Penny's got her own life with you now.$s",
-                "NPC.cs.3968": "You and I both know Penny don't want me living with you two. I'm respectin' her boundaries.$4",
+                "NPC.cs.3965": "เธอจะย้ายมาอยู่ กับเพนนีของ ฉันสินะ? เพนนีขอให้เธอ พาฉันไปด้วยเหรอ...ก็คิดว่าคงไม่ใช่หรอก$s",
+                "NPC.cs.3966": "อย่าทำตัวประหลาดน่า เจ้าหนู ฉันมีที่อยู่ของฉันเอง$4",
+                "NPC.cs.3967": "ฉันอยู่นี่ก็ดีอยู่แล้ว เด็กน้อย เพนนีมีชีวิตของเธอเอง กับเธอแล้วตอนนี้$s",
+                "NPC.cs.3968": "ทั้งเธอและฉันก็รู้ว่า เพนนีไม่อยากให้ฉันไปอยู่ กับเธอสองคนหรอก ฉันเคารพขอบเขตของเธอน่ะ$4",
             },
             "When":
             {
@@ -119,7 +119,7 @@
             "Target": "Data/Festivals/fall27",
             "Entries":
             {
-                "Penny_spouse": "These vapors... You'll have to go on without me...$u",
+                "Penny_spouse": "ไอพวกนี้... คุณคงต้องไปโดย ไม่มีฉันแล้วล่ะค่ะ...$u",
             },
             "When":
             {
@@ -131,7 +131,7 @@
             "Target": "Data/Festivals/winter25",
             "Entries":
             {
-                "Penny_spouse": "I'm thankful to be sharing my life with my best friend.$7",
+                "Penny_spouse": "ฉันซาบซึ้งที่ได้ ใช้ชีวิตกับเพื่อนที่ดีที่สุด ของฉันค่ะ$7",
             },
         },
         {
@@ -139,7 +139,7 @@
             "Target": "Data/mail",
             "Entries":
             {
-                "pennySpa": "Could you meet me in the bath house some afternoon? I have something to ask you. ^   -Penny[#]Penny's Note",
+                "pennySpa": "บ่ายนี้ไปเจอฉัน ที่โรงอาบน้ำได้มั้ย ฉันมีอะไรจะถามน่ะค่ะ ^   -เพนนี[#]Penny's Note",
             },
         },
         {
@@ -147,7 +147,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Penny": "We have a beautiful home and a thriving family... it's all I've ever dreamed of, and more.$7",
+                "SummitEvent_Dialogue3_Penny": "พวกเรามีบ้านหลังงาม กับครอบครัวที่กำลัง เติบโต... เป็นยิ่งกว่าที่ฉัน เคยฝันไว้เสียอีกค่ะ$7",
             },
         },
         {
@@ -155,7 +155,7 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Penny1": "We're going to be a little farm family, soon.$7#$e#I've thought of you as my best friend for a long time... I'm so glad you feel the same way.$h",
+                "Penny1": "อีกไม่นานพวกเราจะเป็น ครอบครัวชาวไร่น้อยๆ กันแล้ว$7#$e#ฉันคิดว่าคุณเป็นเพื่อนที่ดีที่สุด มาตั้งนานแล้วล่ะค่ะ... ฉันดีใจมากเลย ที่คุณก็คิดเหมือนกัน$h",
             },
         },
         {
@@ -163,11 +163,11 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Good_0": "@...I still can't believe we're {{RelationshipLabel}}...",
-                "Good_1": "I had dreams of sharing my life with you for such a long time.$7",
-                "Good_2": "From the moment you moved here, I hoped we'd be friends one day...$7",
-                "Good_3": "You look great today! Did you do something different with your outfit?$h",
-                "Good_4": "This place is really starting to feel like home.$7",
+                "Good_0": "@... ฉันยังไม่อยากเชื่อ เลยว่าเราเป็น {{RelationshipLabel}} กัน...",
+                "Good_1": "ฉันเคยฝัน ว่าจะได้ใช้ชีวิตกับคุณ มานานมากเหลือเกินค่ะ$7",
+                "Good_2": "ตั้งแต่ที่คุณย้ายมา ฉันก็หวังว่าสักวันนีง เราจะได้เป็นเพื่อนกันค่ะ...$7",
+                "Good_3": "วันนี้คุณดูดีมากเลยค่ะ! คุณทำอะไรพิเศษ กับชุดหรือเปล่าคะ?$h",
+                "Good_4": "ที่นี่เริ่มรู้สึก เหมือนเป็นบ้านแล้วค่ะ$7",
             },
         },
         {
@@ -175,12 +175,12 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "Hi, {{Lowercase:{{TermofEndearment}}}}! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of those.$11",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{Lowercase:{{TermofEndearment}}}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "How was your day, hon? I spent my afternoon reading a novel.",
-                "Rainy_Night_2": "I was just thinking about that day we met in the bathhouse.$7#$e#I was so nervous about asking you to be a godparent. Did you feel the same way about asking to be {{RelationshipLabel}}?$7",
-                "Indoor_Night_0": "Good evening, {{Lowercase:{{TermofEndearment}}}}. Did you accomplish everything you wanted to today?#$e#If not, that's okay. We've got all the time in the world!",
-                "Outdoor_2": "Hi, @! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
+                "Rainy_Day_2": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ[186 180 770 535]#$e#ฉันคิดว่า คุณต้องได้ใช้สักอันแน่ๆ$11",
+                "Rainy_Day_3": "อืมม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{Lowercase:{{TermofEndearment}}}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "วันนี้เป็นไงบ้างคะที่รัก? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ",
+                "Rainy_Night_2": "ฉันเพิ่งนีกถึงวันที่เราพบกันที่ โรงอาบน้ำเลยค่ะ$7#$e#ฉันประหม่ามากเลย เรื่องขอให้คุณเป็น ผู้ปกครองทูลหัวน่เ คุณประหม่าเหมือนกันมั้ยคะ ตอนที่ขอเป็น {{RelationshipLabel}} กัน?$7",
+                "Indoor_Night_0": "สวัสดีตอนค่ำค่ะ {{Lowercase:{{TermofEndearment}}}} วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ?#$e#ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!",
+                "Outdoor_2": "ทักค่ะ @! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ ขอโทษนะคะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
             },
             "When":
             {
