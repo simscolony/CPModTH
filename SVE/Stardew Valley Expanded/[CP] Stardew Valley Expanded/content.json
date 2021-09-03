@@ -23110,8 +23110,8 @@
 	"When": { "LocationName": "Custom_CrimsonBadlands, Custom_CastleVillageOutpost, Custom_DesertRailway, Custom_IridiumQuarry, Custom_TreasureCave, Custom_GaldoranVoid" },
 	"Update": "OnLocationChange",
     "Entries": {
-	  "Event.cs.1068": "คามิลล่าช่วยชีวิตฉันไว้ แล้วก็ไม่ได้ขออะไร เป็นการตอบแทน...",
-      "Event.cs.1070": "คามิลล่าช่วยชีวิตฉันไว้ แล้วก็ไม่ได้ขออะไร เป็นการตอบแทน..."
+	  "Event.cs.1068": "คามิลล่าช่วยชีวิตฉันไว้ แล้วก็ไม่ได้ขออะไร เป็นการตอบแทน... ",
+      "Event.cs.1070": "คามิลล่าช่วยชีวิตฉันไว้ แล้วก็ไม่ได้ขออะไร เป็นการตอบแทน... "
   },
 },
 
