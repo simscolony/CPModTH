@@ -212,7 +212,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "Ready to tuck in? I'm pretty tired.",
+                "Indoor_Night_4": "เข้านอนกันเลยมั้ย? ฉันค่อนข้างเพลียน่ะค่ะ",
             },
             "When":
             {
@@ -489,16 +489,16 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "Thu10": "When I was younger, I always thought one day I'd marry Sam. We barely even spend time together anymore, though.#$e#I think we're just at different stages of our lives now.$h",
-                "Sat10": "I was thinking today that the romance novels I read as a kid misled me in some ways.$u#$e#They gave the impression that affection... intimacy... mutual commitment beyond a certain point is reserved for romantic relationships.$u#$e#But now I know that isn't true. Even though we don't have those kinds of feelings for each other, I still care about you as deeply as I would if we were dating.#$e#I'm realizing that the difference between romance and friendship isn't one of degree, just form. Do you think so too?",
-                "Sun10": "It's so embarrassing. I keep spacing out in the middle of teaching lessons.#$e#I get caught up thinking about all the stories I want to tell next time I see you. You won't believe what Vincent did the other day... $h",
-                "summer_Wed10": "@! Oh, hi!#$e#It's unusually hot today, isn't it? How about you catch me up on your day to take my mind off it?$h",
-                "fall_Tue10": "I walked by your farm the other evening as I dropped off Jas at her home. I saw you in the distance, and...#$b#...the landscape was beautiful, but my favorite part was how serene you looked. Like you were exactly where you wanted to be.",
-                "fall_Thu10": "Vincent asked yesterday if I was in love with you. I think he's a little jealous.$h#$e#I explained that adults have all different kinds of relationships, and that 'love' and 'in love' aren't always the same thing.#$e#I think he understood. He's bright in certain ways.",
-                "winter_Mon10": "I was reading before bed last night, but I only got through a couple chapters.#$e#I kept thinking, 'I have to tell @ about this part,' and then I'd be picturing how I'd explain it instead of reading the next part!$h",
-                "winter_Tue10": "With the Feast of the Winter Star approaching, I was counting my blessings.#$b#I'm very thankful to have gotten to know you, @. ",
-                "winter_Thu10": "Oh, hi @.#$e#Sorry, I didn't sleep much last night. I was up late reading.$u#$e#Oh, um... Since you ask, it was an anthology themed around platonic partnerships. It just seemed interesting.$h",
-                "winter_Sun10": "Sometime soon, we should go back to my place in the evening and cozy up together with a book.$h#$e#If you can make it, just try to show up before 8. I don't want my mom to come home early and make you feel unwelcome.",
+                "Thu10": "เมื่อก่อนฉันคิดตลอดเลยว่า ฉันคงได้แต่งงานกับแซมสักวัน แต่เดี๋ยวนี้ เราแทบไม่ได้ไปไหนมาไหน ด้วยกันด้วยซ้ำค่ะ#$e#ฉันคิดว่าตอนนี้พวกเราคง อยู่คนละช่วงของชีวิตกันแล้วค่ะ$h",
+                "Sat10": "วันนี้ฉันคิดอยู่ว่า นิยายรักที่ฉันอ่านตอนเด็ก ทำให้ฉันเข้าใจอะไรผิดไปค่ะ$u#$e#หนังสือนั่นทำให้รู้สึกว่าความรัก... ความใกล้ชิด... การทุ่มเทเพื่อกันและกัน เป็นพิเศษ เป็นเรื่องสำหรับความสัมพันธ์ แบบคนรักเท่านั้น$u#$e#แต่ตอนนี้ฉันรู้แล้วค่ะ ว่าไม่จริงเลย ถึงพวกเราจะไม่ได้ รู้สึกต่อกันแบบนั้น ฉันก็ยังคงเป็นห่วงคุณลึกซึ้ง แบบที่ฉันคงเป็นห่วง ถ้าเราเป็นคนรักกัน#$e#ฉันเข้าใจแล้วค่ะว่าความแตกต่าง ของความรักแบบเพื่อน และคนรักไม่ใช่ระดับ แต่เป็นรูปแบบค่ะ คุณคิดเหมือนฉันรึเปล่าคะ",
+                "Sun10": "มันน่าอายมากเลยล่ะค่ะ ฉันเหม่อตลอดเลยเวลาสอน#$e#ฉันมัวแต่คิดถึงเรื่องที่ะจะเล่า ตอนฉันเจอคุณครั้งต่อไปน่ะค่ะ คุณต้องไม่เชื่อแน่ว่าวันก่อน วินเซนท์ทำอะไร... $h",
+                "summer_Wed10": "@! อ้าว สวัสดีค่ะ!#$e#วันนี้ร้อนผิดปกตินะคะว่ามั้ย? คุณเล่าเรื่องวันของคุณ ให้ฉันฟังดีมั้ยคะ ฉันจะได้ไม่นึกถึงอากาศนี่$h",
+                "fall_Tue10": "วันก่อนฉันไปส่งแจสที่บ้าน แล้วผ่านฟาร์มของคุณด้วยค่ะ ฉันเห็นคุณไกลๆ และ...#$b#...ฟาร์มก็สวยมาก แต่ที่ฉันชอบที่สุด คือตรงที่ว่าคุณดูสงบขนาดไหน เหมือนว่าคุณอยู่ในที่ที่ คุณอยากจะอยู่จริงๆ น่ะค่ะ",
+                "fall_Thu10": "เมื่อวานวินเซนท์ถามฉันว่า รักคุณหรือเปล่าค่ะ ฉันว่าเขาดูหวงหน่อยๆ$h#$e#ฉันอธิบายให้เขาฟังว่าผู้ใหญ่น่ะ มีความสัมพันธ์หลายแบบ และ 'รัก' กับ 'แฟน' ก็ไม่ใช่อย่างเดียวกันเสมอไป#$e#ฉันว่าเขาเข้าใจนะ เขาฉลาด ในหลายเรื่องเลยล่ะค่ะ",
+                "winter_Mon10": "เมื่อคืนฉันอ่านหนังสือก่อนนอน แต่อ่านไปได้แค่ไม่กี่บทเองค่ะ#$e#ฉันเอาแต่คิดว่า 'ฉันต้องเล่าตรงนี้ให้ @ ฟัง' เสร็จแล้วก็นึกภาพว่า จะอธิบายยังไงดี แทนที่จะอ่านตอนต่อไปน่ะค่ะ!$h",
+                "winter_Tue10": "พอเทศกาลแห่งดวงดาว ฤดูหนาวใกล้เข้ามา ฉันก็มานั่งนึกถึงเรื่องดีๆ ที่เกิดขึ้นน่ะค่ะ#$b#ฉันรู้สึกขอบคุณมากเลย ที่ได้รู้จักคุณค่ะ @",
+                "winter_Thu10": "อ้าว ดีค่ะ @#$e#โทษทีนะคะ เมื่อคืนฉันนอน ไม่ค่อยหลับน่ะค่ะ อ่านหนังสือดึก$u#$e#อ้อ อืม... ในเมื่อคุณถาม มันเป็นหนังสือรวมเรื่อง เกี่ยวกับความสัมพันธ์แบบ ไม่มีเรื่องเพศเกี่ยวข้องน่ะค่ะ มันน่าสนใจดี$h",
+                "winter_Sun10": "เร็วๆ นี้เราน่าจะ กลับไปที่บ้านฉันตอนเย็นๆ แล้วอ่านหนังสือสบายๆ กันนะคะ$h#$e#ถ้าคุณมาได้ พยายามมาก่อนสองทุ่มนะ ฉันไม่อยากให้แม่กลับบ้านเร็ว แล้วทำให้คุณรู้สึกถูกขับไล่น่ะ",
             },
             "When":
             {
@@ -510,12 +510,12 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "#$c .5#Hi, {{Lowercase:{{TermofEndearment}}}}! I did some shopping this morning and got this for you.[186 180 770 535]#Oh right! I picked this up yesterday, but I forgot about it.[186 180 770 535] I thought you could use one of these.",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{Lowercase:{{TermofEndearment}}}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "#$c .5#How was your day, {{Lowercase:{{TermofEndearment}}}}? I spent my afternoon reading a novel.#I know some people find fulfillment, reading between the lines of a book for a deeper meaning. Me, I just find joy in the story itself.",
-                "Rainy_Night_1": "#$c .5#I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands.#Has my mother been nice to you lately? You and I are family now, so I guess that makes you her family too.",
-                "Rainy_Night_2": "#$c .5#I was just thinking about that night I asked you to be my future children's godparent. To think we ended up as {{RelationshipLabel}}!#Hm, I didn't finish all the grading I'd hoped. Maybe I can wing it first thing in the morning.$s",
-                "Indoor_Day_4": "#$c .5#Was I shy when we first met? It's funny to think about, now that we've come so far.$h#Just wanted to say, you look great this morning. I hope that's a confidence booster!$h",
+                "Rainy_Day_2": "#$c .5#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ [186 180 770 535]#อ๋อใช่! เมื่อวานฉันไปเอานี่มาด้วยค่ะ แต่ลืมไปเลย[186 180 770 535] ฉันคิดว่าคุณคงได้ใช้ค่ะ",
+                "Rainy_Day_3": "อืม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{Lowercase:{{TermofEndearment}}}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "#$c .5#วันนี้เป็นไงบ้างคะ {{Lowercase:{{TermofEndearment}}}}? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ#ฉันรู้ว่าคนบางคนอิ่มเอมกับ การตีความหมายหาอะไรที่ลึกซึ้ง แต่สำหรับฉัน ฉันแค่สนุกไปกับเนื้อเรื่องน่ะค่ะ",
+                "Rainy_Night_1": "#$c .5#ฉันมั่นใจว่าตอนนี้ แม่อยู่ที่ซาลูน... แต่ฉันไม่รู้สึกแย่แล้วค่ะ มันไม่ใช่เรื่องของฉันแล้ว#เดี๋ยวนี้แม่ดีกับคุณมั้ยคะ? คุณกับฉันเป็นครอบครัวกันแล้ว ฉันเดาว่าคุณก็เหมือนเป็น ครอบครัวของแม่ด้วยนะคะ",
+                "Rainy_Night_2": "#$c .5#ฉันกำลังนึกถึงคืนที่ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกในอนาคตของฉัน อยู่น่ะค่ะ To think we ended up as {{RelationshipLabel}}!#อ่า ฉันยังตรวจไม่เสร็จ เท่าที่หวังเลยค่ะ บางทีอาจจะปั่นทันพรุ่งนี้เช้า$s",
+                "Indoor_Day_4": "#$c .5#ตอนเจอกันแรกๆ ฉันขี้อายมั้ยคะ? ตอนนี้เรามาไกลกันมากเลย พอคิดดูก็ตลกดีนะคะ$h#แค่อยากบอกว่า คุณดูดีมากเลยค่ะเช้านี้ ฉันหวังว่านั่นจะ ทำให้คุณรู้สึกมั่นใจ มากขึ้นนะคะ!$h",
                 "Indoor_Night_0": "#$c .5#Good evening, {{Lowercase:{{TermofEndearment}}}}. Did you accomplish everything you wanted to today? If not, that's okay. We've got all the time in the world!#When the light's dim, your eyes glimmer like reflected fireflies. It feels like one more way that you're connected to the valley.",
                 "Indoor_Night_1": "#$c .5#Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt.#So this is my happily ever after! Not exactly the traditional kind, but I always liked stories that put a new spin on the classics.",
                 "Indoor_Night_2": "#$c .5#We should always try and remember those less fortunate than us. I'm just very grateful for what we have.#Phew. Did I mention? Over the last week, Vincent's been peppering me with little kid questions about us being {{RelationshipLabel}}.",
