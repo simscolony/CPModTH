@@ -516,12 +516,12 @@
                 "Rainy_Night_1": "#$c .5#ฉันมั่นใจว่าตอนนี้ แม่อยู่ที่ซาลูน... แต่ฉันไม่รู้สึกแย่แล้วค่ะ มันไม่ใช่เรื่องของฉันแล้ว#เดี๋ยวนี้แม่ดีกับคุณมั้ยคะ? คุณกับฉันเป็นครอบครัวกันแล้ว ฉันเดาว่าคุณก็เหมือนเป็น ครอบครัวของแม่ด้วยนะคะ",
                 "Rainy_Night_2": "#$c .5#ฉันกำลังนึกถึงคืนที่ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกในอนาคตของฉัน อยู่น่ะค่ะ To think we ended up as {{RelationshipLabel}}!#อ่า ฉันยังตรวจไม่เสร็จ เท่าที่หวังเลยค่ะ บางทีอาจจะปั่นทันพรุ่งนี้เช้า$s",
                 "Indoor_Day_4": "#$c .5#ตอนเจอกันแรกๆ ฉันขี้อายมั้ยคะ? ตอนนี้เรามาไกลกันมากเลย พอคิดดูก็ตลกดีนะคะ$h#แค่อยากบอกว่า คุณดูดีมากเลยค่ะเช้านี้ ฉันหวังว่านั่นจะ ทำให้คุณรู้สึกมั่นใจ มากขึ้นนะคะ!$h",
-                "Indoor_Night_0": "#$c .5#สวัสดียามค่ำค่ะ {{Lowercase:{{TermofEndearment}}}} วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ? ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!#เวลามืดๆ ตาของคุณเปล่งกระกาย เหมือนหิ่งห้อยสะท้อนแสง เลยค่ะ เหมือนเป็นอีกอย่าง ที่คุณเชื่อมโยง กับหมูบ้านเลยนะคะ",
+                "Indoor_Night_0": "#$c .5#สวัสดียามค่ำค่ะ {{Lowercase:{{TermofEndearment}}}} วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ? ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!#เวลามืดๆ ตาของคุณเปล่งกระกาย เหมือนหิ่งห้อยสะท้อนแสง เลยค่ะ เหมือนเป็นอีกอย่าง ที่คุณเชื่อมโยง กับหมูบ้านเลยนะ",
                 "Indoor_Night_1": "#$c .5#อ่า... พรุ่งนี้ใส่กระโปรง หรือกางเกงดีนะ? โอ้ย นี่ฉันล้อใครเล่นกันเนี่ย... ฉันใส่กระโปรง ตลอดอยู่แล้วนี่นา#แล้วนี่ก็เป็น ตอนจบที่สุขตลอดไป ของฉันสินะคะ! ไม่เชิงจบเป็นแบบ คลาสสิคเท่าไหร่ แต่ฉันก็ชอบเรื่องที่พลิกแพลง จากพล็อตคาสสิคอยู่แล้วล่ะค่ะ",
                 "Indoor_Night_2": "#$c .5#พวกเราควรนึกถึง คนที่เขาไม่ได้โชคดีเท่าเรา อยู่เสมอนะคะ ฉันแค่รู้สึกขอบคุณ กับทุกอย่างที่เรามีน่ะค่ะ#เฮ้อ ฉันเล่าหรือยังคะ? ตลอดสัปดาห์ที่แล้ว วินเซนท์รัวคำถามแบบเด็กๆ ใส่ฉันไม่หยุดเลย เรื่องพวกเราเป็น {{RelationshipLabel}} กันน่ะ",
                 "Outdoor_0": "เมื่อก่อนฉันได้แต่ฝัน ว่าจะได้อาศัยอยู่ในที่สวยๆ แล้วตอนนี้ฝันฉันก็เป็นจริงแล้ว#$e#$c .5#ฉันเพิ่งรู้ว่าพลาดอะไรไป มากแค่ไหน ก่อนที่คุณจะย้ายมาที่เมืองนี้น่ะ#เมื่อก่อนฉันมัวแต่ ทุกข์ใจอยู่ที่บ้าน$s",
                 "Outdoor_1": "#$c .5#ที่นี่มันเพอร์เฟคเลย ที่จะเลี้ยงเด็กไม่ใช่เหรอคะ ถ้าได้โตมาในฟาร์ม ฉันคงมีความสุขมาก#ฉันรู้ค่ะว่าคุณต้องตรงไป ทำงานเลย ที่รัก แต่คืนนี้คุณจะกลับบ้านเร็วมั้ยคะ?",
-                "Outdoor_2": "#$c .5#ดีค่ะ วันนี้จะส่งอะไรพิเศษ ขายหรือเปล่าคะ?#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ โทษทีนะคะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
+                "Outdoor_2": "#$c .5#ดีค่ะ วันนี้จะส่งอะไรพิเศษ ขายหรือเปล่า?#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ โทษทีนะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
                 "TwoKids_3": "#$c .5#บ้านสวยๆ ลูกที่น่ารักสองคน และที่ดินงามๆ พวกเราโชคดีมากเลยค่ะ#โตมาแบบฉันเลยไม่เคยคาดหวัง ว่าจะได้เจออะไรดีๆ แต่ได้เห็นลูกๆ ของเราแบบนี้ ทำให้ฉันรู้สึกว่า เป็นคนที่โชคดีมากเลยล่ะค่ะ",
                 "fall_19": "เมื่อวานได้คุยกับมารุด้วย เธอยังเป็นเพื่อนที่ดี เหมือนเดิมเลยค่ะ$h",
 
@@ -538,20 +538,20 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "#$c .5#Hi, {{TermofEndearment}}! I did some shopping this morning and got this for you.[186 180 770 535]#Oh right! I picked this up yesterday, but I forgot about it.[186 180 770 535] I thought you could use one of these.",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{TermofEndearment}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "#$c .5#How was your day, {{TermofEndearment}}? I spent my afternoon reading a novel.#I know some people find fulfillment, reading between the lines of a book for a deeper meaning. Me, I just find joy in the story itself.",
-                "Rainy_Night_1": "#$c .5#I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands.#Has my mother been nice to you lately? You and I are family now, so I guess that makes you her family too.",
-                "Rainy_Night_2": "#$c .5#I was just thinking about that night I asked you to be a godparent to my future children. To think we ended up as {{RelationshipLabel}}!#Hm, I didn't finish all the grading I'd hoped. Maybe I can wing it first thing in the morning.$s",
-                "Indoor_Day_4": "#$c .5#Was I shy when we first met? It's funny to think about, now that we've come so far.$h#Just wanted to say, you look great this morning. I hope that's a confidence booster!$h",
-                "Indoor_Night_0": "#$c .5#Good evening, {{TermofEndearment}}. Did you accomplish everything you wanted to today? If not, that's okay. We've got all the time in the world!#When the light's dim, your eyes glimmer like reflected fireflies. It feels like one more way that you're connected to the valley.",
-                "Indoor_Night_1": "#$c .5#Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt.#So this is my happily ever after! Not exactly the traditional kind, but I always liked stories that put a new spin on the classics.",
-                "Indoor_Night_2": "#$c .5#We should always try and remember those less fortunate than us. I'm just very grateful for what we have.#Phew. Did I mention? Over the last week, Vincent's been peppering me with little kid questions about us being {{RelationshipLabel}}.",
-                "Outdoor_0": "I only ever dreamed of living in such a beautiful place, and now it's come true.#$e#$c .5#I realize how much I was missing before you moved into town.#I was so miserable back home.$s",
-                "Outdoor_1": "#$c .5#Isn't this a perfect place to raise children? I would've been so happy growing up on a farm.#I understand that you have to get straight to work, hon. Will you be home early tonight, though?",
-                "Outdoor_2": "#$c .5#Hey. Are you going to be shipping anything unusual today?#Hi, {{TermofEndearment}}! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
-                "TwoKids_3": "#$c .5#A nice house, two wonderful kids, and a beautiful plot of land. We're so very fortunate.#With the way I grew up, I never really thought I'd amount to much. But seeing our children like this makes me feel so lucky.",
-                "fall_19": "I got to catch up with Maru yesterday. She's just as good a friend as ever.$h",
+                "Rainy_Day_2": "#$c .5#ดีค่ะ {{TermofEndearment}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ [186 180 770 535]#อ๋อใช่! เมื่อวานฉันไปเอานี่มาด้วยค่ะ แต่ลืมไปเลย[186 180 770 535] ฉันคิดว่าคุณคงได้ใช้ค่ะ",
+                "Rainy_Day_3": "อืม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{TermofEndearment}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "#$c .5#วันนี้เป็นไงบ้างคะ {{TermofEndearment}}? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ#ฉันรู้ว่าคนบางคนอิ่มเอมกับ การตีความหมายหาอะไรที่ลึกซึ้ง แต่สำหรับฉัน ฉันแค่สนุกไปกับเนื้อเรื่องน่ะค่ะ",
+                "Rainy_Night_1": "#$c .5#ฉันมั่นใจว่าตอนนี้ แม่อยู่ที่ซาลูน... แต่ฉันไม่รู้สึกแย่แล้วค่ะ มันไม่ใช่เรื่องของฉันแล้ว#เดี๋ยวนี้แม่ดีกับคุณมั้ยคะ? คุณกับฉันเป็นครอบครัวกันแล้ว ฉันเดาว่าคุณก็เหมือนเป็น ครอบครัวของแม่ด้วยนะคะ",
+                "Rainy_Night_2": "#$c .5#ฉันกำลังนึกถึงคืนที่ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกในอนาคตของฉัน อยู่น่ะค่ะ To think we ended up as {{RelationshipLabel}}!#อ่า ฉันยังตรวจไม่เสร็จ เท่าที่หวังเลยค่ะ บางทีอาจจะปั่นทันพรุ่งนี้เช้า$s",
+                "Indoor_Day_4": "#$c .5#ตอนเจอกันแรกๆ ฉันขี้อายมั้ยคะ? ตอนนี้เรามาไกลกันมากเลย พอคิดดูก็ตลกดีนะคะ$h#แค่อยากบอกว่า คุณดูดีมากเลยค่ะเช้านี้ ฉันหวังว่านั่นจะ ทำให้คุณรู้สึกมั่นใจ มากขึ้นนะคะ!$h",
+                "Indoor_Night_0": "#$c .5#สวัสดียามค่ำค่ะ {{TermofEndearment}}วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ? ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!#เวลามืดๆ ตาของคุณเปล่งกระกาย เหมือนหิ่งห้อย สะท้อนแสงเลยค่ะ เหมือนเป็นอีกอย่าง ที่คุณเชื่อมโยง กับหมูบ้านเลยนะ",
+                "Indoor_Night_1": "#$c .5#อ่า... พรุ่งนี้ใส่กระโปรง หรือกางเกงดีนะ? โอ้ย นี่ฉันล้อใครเล่นกันเนี่ย... ฉันใส่กระโปรง ตลอดอยู่แล้วนี่นา#แล้วนี่ก็เป็น ตอนจบที่สุขตลอดไป ของฉันสินะคะ! ไม่เชิงจบเป็นแบบ คลาสสิคเท่าไหร่ แต่ฉันก็ชอบเรื่องที่พลิกแพลง จากพล็อตคาสสิคอยู่แล้วล่ะค่ะ",
+                "Indoor_Night_2": "#$c .5#พวกเราควรนึกถึง คนที่เขาไม่ได้โชคดีเท่าเรา อยู่เสมอนะคะ ฉันแค่รู้สึกขอบคุณ กับทุกอย่างที่เรามีน่ะค่ะ#เฮ้อ ฉันเล่าหรือยังคะ? ตลอดสัปดาห์ที่แล้ว วินเซนท์รัวคำถามแบบเด็กๆ ใส่ฉันไม่หยุดเลย เรื่องพวกเราเป็น {{RelationshipLabel}} กันน่ะ",
+                "Outdoor_0": "มื่อก่อนฉันได้แต่ฝัน ว่าจะได้อาศัยอยู่ในที่สวยๆ แล้วตอนนี้ฝันฉันก็เป็นจริงแล้ว#$e#$c .5#ฉันเพิ่งรู้ว่าพลาดอะไรไป มากแค่ไหน ก่อนที่คุณจะย้ายมาที่เมืองนี้น่ะ#เมื่อก่อนฉันมัวแต่ ทุกข์ใจอยู่ที่บ้าน$s",
+                "Outdoor_1": "#$c .5#ที่นี่มันเพอร์เฟคเลย ที่จะเลี้ยงเด็กไม่ใช่เหรอคะ ถ้าได้โตมาในฟาร์ม ฉันคงมีความสุขมาก#ฉันรู้ค่ะว่าคุณต้องตรงไป ทำงานเลย ที่รัก แต่คืนนี้คุณจะกลับบ้านเร็วมั้ยคะ?",
+                "Outdoor_2": "#$c .5#ดีค่ะ วันนี้จะส่งอะไรพิเศษ ขายหรือเปล่า?#ดีค่ะ {{TermofEndearment}}! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ โทษทีนะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
+                "TwoKids_3": "#$c .5#บ้านสวยๆ ลูกที่น่ารักสองคน และที่ดินงามๆ พวกเราโชคดีมากเลยค่ะ#โตมาแบบฉันเลยไม่เคยคาดหวัง ว่าจะได้เจออะไรดีๆ แต่ได้เห็นลูกๆ ของเราแบบนี้ ทำให้ฉันรู้สึกว่า เป็นคนที่โชคดีมากเลยล่ะค่ะ",
+                "fall_19": "เมื่อวานได้คุยกับมารุด้วย เธอยังเป็นเพื่อนที่ดี เหมือนเดิมเลยค่ะ$h",
 
             },
             "When":
@@ -565,7 +565,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "#$c .5#Ready to tuck in? I'm pretty tired.#Hi, @! I can finish this chapter later if you wanted to tell me about your day.",
+                "Indoor_Night_4": "#$c .5#พร้อมเข้านอนหรือยังคะ? ฉันรู้สึกเพลียๆ น่ะ#ไงคะ @! ไว้ฉันค่อย อ่านบทนี้ต่อทีหลังก็ได้ ถ้าคุณอยากเล่าเรื่อง วันนี้ให้ฉันฟังน่ะ",
             },
             "When":
             {
@@ -578,7 +578,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "#$c .5#Want to spend some time together? I made the bed and everything...$11#Hee hee. I can, um, finish this chapter later if you wanted to head to bed.$l",
+                "Indoor_Night_4": "#$c .5#อยากใช้เวลาด้วยกัน หน่อยมั้ยคะ? ฉันจัดเตียงแล้วก็ทุกอย่างแล้ว ...$11#อิอิ ไว้ฉันค่อย เอ่อ อ่านบทนี้ต่อทีหลังก็ได้ ถ้าคุณอยากไปนอนแล้ว$l",
             },
             "When":
             {
@@ -591,7 +591,7 @@
             "Target": "Characters/Dialogue/Sam",
             "Entries":
             {
-                "winter_Tue8_inlaw_Penny": "I'm glad things worked out for you and Penny! I always thought she deserved a friend like you.$h",
+                "winter_Tue8_inlaw_Penny": "ฉันดีใจนะที่ระหว่าง คุณกับแพนนีไปได้ดีน่ะ! คิดมาตลอดเลยว่าเพนนี ต้องมีเพื่อนอย่างเธอ$h",
             },
             "When":
             {
@@ -603,7 +603,7 @@
             "Target": "Characters/Dialogue/Vincent",
             "Entries":
             {
-                "Tue8_inlaw_Penny": "It's so cool how you're {{RelationshipLabel}} with my teacher.#$e#I never thought that would have happened!",
+                "Tue8_inlaw_Penny": "เจ๋งมากเลยที่คุณเป็น {{RelationshipLabel}} กับครูผม#$e#ไม่นึกเลยว่าจะเป็นงี้ได้!",
             },
             "When":
             {
@@ -615,7 +615,7 @@
             "Target": "Characters/Dialogue/Maru",
             "Entries":
             {
-                "Tue6_inlaw_Penny": "Penny used to talk about you all the time.#$b#She still does! You two really have a special connection.$l",
+                "Tue6_inlaw_Penny": "เมื่อก่อนเพนนีพูด ถึงเธอตลอดเลย#$b#ตอนนี้ก็ยังพูดนะ! เธอสองคนนี่ มีสายสัมพันธ์พิเศษจริงๆ$l",
             },
             "When":
             {
@@ -745,8 +745,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogue",
 		"Entries": {
-			"jobLeave_Penny": "I'll be out in town today, {{Lowercase:{{TermofEndearment}}}}. I hope you take the time to enjoy yourself too.$h",
-			"jobReturn_Penny": "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#Hi, {{Lowercase:{{TermofEndearment}}}}! I've missed you.$h"
+			"jobLeave_Penny": "วันนี้ฉันไปในเมืองนะ {{Lowercase:{{TermofEndearment}}}} หวังว่าคุณก็ใช้เวลา สนุกกับตัวเองให้เต็มที่นะ$h",
+			"jobReturn_Penny": "#$c .5#สวัสดีตอนเย็น วันของฉันโอเคดีค่ะ ขอบใจนะ! แล้ววันนี้คุณเป็นไงคะ?$h#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! คิดถึงนะ$h"
 		},
 		"When": {
 			"Day": "9, 23",
@@ -759,8 +759,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogue",
 		"Entries": {
-			"jobLeave_Penny": "I'll be out in town today, {{TermofEndearment}}. I hope you take the time to enjoy yourself too.$h",
-			"jobReturn_Penny": "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#Hi, {{TermofEndearment}}! I've missed you.$h"
+			"jobLeave_Penny": "วันนี้ฉันไปในเมืองนะ {{TermofEndearment}} หวังว่าคุณก็ใช้เวลา สนุกกับตัวเองให้เต็มที่นะ$h",
+			"jobReturn_Penny": "#$c .5#สวัสดีตอนเย็น วันของฉันโอเคดีค่ะ ขอบใจนะ! แล้ววันนี้คุณเป็นไงคะ?$h#ดีค่ะ {{TermofEndearment}}! คิดถึงนะ$h"
 		},
 		"When": {
 			"Day": "9, 23",
@@ -772,15 +772,15 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_spot2": "Hi, {{Lowercase:{{TermofEndearment}}}}. Finished at the farm?#$b#Come stay with me for a little longer, then.",
-			"marriage_museum2": "It's quite soothing in here isn't it?#$b#We should find a book we're both interested in and read it together.$h",
-			"marriage_museum3": "Oh, no! Look at you you're all soaked!$s#$b#Stay here a while and dry off, won't you?",
-			"marriage_r": "Hi, {{Lowercase:{{TermofEndearment}}}}! Want to join me?$h#$b#Don't worry, I have some extra books for you.",
-			"marriage_r2": "It's hard focusing on my book when you're here. I want to tell you all about it instead of actually reading it!$h",
-			"marriage_doctorextra": "Oh, hi {{Lowercase:{{TermofEndearment}}}}. Let's talk after, I don't want to interrupt Dr. Harvey.",
-			"marriage_13": "Jas and Vincent painted some pretty eggs. They should be easy to spot.$h#$b#I'm rooting for you! But um... go easy on the kids?",
-			"marriage_16": "Good luck on your display, {{Lowercase:{{TermofEndearment}}}}. I'm still waiting for the spinning wheel to get set up.#$b#I'll earn us some tokens, don't worry.$h#$b#Unless I get banned again like last year.$s",
-			"marriage_25": "Hi, {{Lowercase:{{TermofEndearment}}}}. I didn't want to enter without you.$h#$b#The snow's lovely at least, I should spend more time out here."
+			"marriage_spot2": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}} เสร็จงานที่ฟาร์มแล้วเหรอ?#$b#งั้นอยู่กับฉัน ต่ออีกหน่อยแล้วกันนะ",
+			"marriage_museum2": "ในนี้สงบดี ใช่มั้ยล่ะ?#$b#พวกเราไปหาหนังสือ ที่อยากอ่านด้วยกันทั้งคู่ แล้วมาอ่านด้วยกันเถอะค่ะ$h",
+			"marriage_museum3": "โอ้ ไม่นะ! ดูคุณสิเปียกไปหมดเลย!$s#$b#อยู่ให้ตัวแห้ง สักพักแล้วกันนะคะ",
+			"marriage_r": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! มาอ่านกับฉันมั้ย?$h#$b#ไม่ต้องห่วงค่ะ ฉันมีหนังสือเผื่อให้คุณ หลายเล่มเลย",
+			"marriage_r2": "คุณอยู่นี่ แล้วไม่มีสมาธิอ่านเลยค่ะ ฉันอยากเล่าเรื่อง ที่อ่านให้คุณฟัง มากกว่าอยากอ่านมันซะอีก!$h",
+			"marriage_doctorextra": "อ้าว ดีค่ะ {{Lowercase:{{TermofEndearment}}}} ไว้คุยกันทีหลังนะ ฉันไม่อยากรบกวน คุณหมอฮาร์วีย์น่ะ",
+			"marriage_13": "แจสกับวินเซนท์เพ้นท์ ไข่สวยมากเลย ไม่น่าจะหายากนะคะ$h#$b#จะคอยเชียร์นะคะ! แต่ เอ่อ... ออมมือให้เด็กๆ บ้างนะคะ?",
+			"marriage_16": "โชคดีกับการจัดแสดงนะ {{Lowercase:{{TermofEndearment}}}} ฉันยังรอให้เขา ติดตั้งวงล้ออยู่น่ะ#$b#ฉันจะหาเหรียญ มาให้พวกเราเองค่ะ ไม่ต้องห่วง$h#$b#เว้นแต่ว่าฉันโดนแบน แบบปีที่แล้วน่ะนะ$s",
+			"marriage_25": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}} ฉันไม่อยากเข้าไป โดยไม่มีคุณน่ะ$h#$b#อย่างน้อยหิมะก็สวยดี ฉันควรจะอยู่ข้างนอกนี่อีกหน่อย"
 		},
 		"When": {
                 	"TermofEndearment |contains=@": "false",
@@ -792,15 +792,15 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_spot2": "Hi, {{TermofEndearment}}. Finished at the farm?#$b#Come stay with me for a little longer, then.",
-			"marriage_museum2": "It's quite soothing in here isn't it?#$b#We should find a book we're both interested in and read it together.$h",
-			"marriage_museum3": "Oh, no! Look at you you're all soaked!$s#$b#Stay here a while and dry off, won't you?",
-			"marriage_r": "Hi, {{TermofEndearment}}! Want to join me?$h#$b#Don't worry, I have some extra books for you.",
-			"marriage_r2": "It's hard focusing on my book when you're here. I want to tell you all about it instead of actually reading it!$h",
-			"marriage_doctorextra": "Oh, hi {{TermofEndearment}}. Let's talk after, I don't want to interrupt Dr. Harvey.",
-			"marriage_13": "Jas and Vincent painted some pretty eggs. They should be easy to spot.$h#$b#I'm rooting for you! But um... go easy on the kids?",
-			"marriage_16": "Good luck on your display, {{TermofEndearment}}. I'm still waiting for the spinning wheel to get set up.#$b#I'll earn us some tokens, don't worry.$h#$b#Unless I get banned again like last year.$s",
-			"marriage_25": "Hi, {{TermofEndearment}}. I didn't want to enter without you.$h#$b#The snow's lovely at least, I should spend more time out here."
+			"marriage_spot2": "ดีค่ะ {{TermofEndearment}} เสร็จงานที่ฟาร์มแล้วเหรอ?#$b#งั้นอยู่กับฉัน ต่ออีกหน่อยแล้วกันนะ",
+			"marriage_museum2": "ในนี้สงบดี ใช่มั้ยล่ะ?#$b#พวกเราไปหาหนังสือ ที่อยากอ่านด้วยกันทั้งคู่ แล้วมาอ่านด้วยกันเถอะค่ะ$h",
+			"marriage_museum3": "โอ้ ไม่นะ! ดูคุณสิเปียกไปหมดเลย!$s#$b#อยู่ให้ตัวแห้ง สักพักแล้วกันนะคะ",
+			"marriage_r": "ดีค่ะ {{TermofEndearment}}! มาอ่านกับฉันมั้ย?$h#$b#ไม่ต้องห่วงค่ะ ฉันมีหนังสือเผื่อให้คุณ หลายเล่มเลย",
+			"marriage_r2": "คุณอยู่นี่ แล้วไม่มีสมาธิอ่านเลยค่ะ ฉันอยากเล่าเรื่อง ที่อ่านให้คุณฟัง มากกว่าอยากอ่านมันซะอีก!$h",
+			"marriage_doctorextra": "อ้าว ดีค่ะ {{TermofEndearment}} ไว้คุยกันทีหลังนะ ฉันไม่อยากรบกวน คุณหมอฮาร์วีย์น่ะ",
+			"marriage_13": "แจสกับวินเซนท์เพ้นท์ ไข่สวยมากเลย ไม่น่าจะหายากนะคะ$h#$b#จะคอยเชียร์นะคะ! แต่ เอ่อ... ออมมือให้เด็กๆ บ้างนะคะ?",
+			"marriage_16": "โชคดีกับการจัดแสดงนะ {{TermofEndearment}} ฉันยังรอให้เขา ติดตั้งวงล้ออยู่น่ะ#$b#ฉันจะหาเหรียญ มาให้พวกเราเองค่ะ ไม่ต้องห่วง$h#$b#เว้นแต่ว่าฉันโดนแบน แบบปีที่แล้วน่ะนะ$s",
+			"marriage_25": "ดีค่ะ {{TermofEndearment}} ฉันไม่อยากเข้าไป โดยไม่มีคุณน่ะ$h#$b#อย่างน้อยหิมะก็สวยดี ฉันควรจะอยู่ข้างนอกนี่อีกหน่อย"
 		},
 		"When": {
                 	"TermofEndearment": "@, BFF",
@@ -811,7 +811,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_bus2": "That's a great gift idea! @ would-#$b#Oh, hi! Um. We weren't talking about any... surprises...$h",
+			"marriage_bus2": "เป็นไอเดียของขวัญ ที่ดีมากค่ะ! @ จะ-#$b#อ้าว ดีค่ะ! เอ่อ พวกเราไม่ได้พูดถึง... เซอร์ไพรส์อะไรนะ...$h",
 		},
 		"When": {
                 	"EnableAsexuality": "true",
@@ -822,7 +822,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_bus2": "Are you sure @ would like it if I wore a-#$b#Oh, hi! Um. Maybe I'll just show you later tonight.$l",
+			"marriage_bus2": "คุณแน่ใจเหรอว่า @ จะชอบถ้าฉันใส่ช-#$b#อ้าว ดีค่ะ! เอ่อ เดี๋ยวคืนนี้ให้ดูนะคะ$l",
 		},
 		"When": {
                 	"EnableAsexuality": "false",
