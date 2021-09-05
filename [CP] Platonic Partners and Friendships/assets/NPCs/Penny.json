@@ -5,25 +5,25 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "Resort_Marriage_Towel_2": "{{TermofEndearment}}, do you mind standing a little to the left?#$b#Thanks, the sun was making it a little bit hard to read!$h",
-                "breakUp": "...$s#$b#I... I see... *sniff* ... W... We can just be acquaintances, then.$s",
-                "Tue10": "Did you know that close friends sometimes raise children together?#$e#A farm seems like a good place for children, don't you think? Just a thought I had.$7",
-                "event_speaker_kids1": "Oh no?#$b#Well, I guess that makes sense... you're busy with other things right now.#$b#It’s different for me. I’ve always known I want a big family.",
-                "event_speaker_kids2": "Me too!$h#$b#Maybe if we have our kids around the same time, they’ll be friends with each other. Wouldn’t that be precious?$h",
-                "event_speaker_kids3": "Yes... the urge to care for something innocent and helpless. I feel that way too.",
-                "event_speaker_kids4": "Oh, really? I think you'd make a good parent.$u#$b#I’d like to have a big family. You’ll have to babysit for me someday!$7",
-                "event_speaker_kids5": "hmm...$u#$b#If everyone thought like that, humans would die out.$u",
-                "event_speaker_kids6": "Oh...$s#$b#That's sad... but I guess that kind of responsibility isn’t for everyone.$s#$b#I’d like to have a big family one day. I hope you’ll be a part of my children’s lives, even if you don’t want any of your own.$u",
-                "event_mail1": "Thank you...$u#$b#I just wish George wasn't so upset... I was only trying to help.$s",
-                "event_mail2": "Oh... I guess you're right.$s#$b#I'm sorry, Mr. Mullner. It was rude, what I did.$s",
-                "event_pool5": "Oh... But... Why...?$10#$b#No, I won’t argue. It’s your choice. I just hoped...$10#$b#...$10#$b#I'm going home.%fork$10",
-                "fall_Sun10": "@! I was just thinking about the future...#$e#Where do you picture yourself in ten years?#$e#I hope I'm a mother by then...$u",
-                "NPC.cs.3980": "...!!! You... you mean it? You want to spend our lives together as {{RelationshipLabel}}?$h#$b#*sniff* Oh, @, I'm so happy!$h#$b#In the valley, we celebrate pacts like this the same way as weddings. I'll set everything up. We'll have the commitment ceremony in 3 days, okay?$n",
-                "NPC.cs.3962": "Such beautiful flowers... This means so much to me, @.#$e#I already treasure your friendship. I'd love to know you even better.$7",
-                "NPC.cs.3963": "*gasp* You really want to us to be closer friends?#$e#I'd...I'd be honored!$h",
-                "NPC.cs.3985": "I heard you gave someone a gift today.#$e#You're such a kind friend!$h",
-                "NPC.cs.4425": "Life sure is different since we've been {{RelationshipLabel}}...$s",
-                "NPC.cs.4001": "I found a dusty old book in the library that showed me the way to that fruit!$h#$b#I was sure you'd love it, so I gave it to you to show how much I appreciate you.$n#$b#It's in my nature to take care of other people... but you've shown me what it's like to feel cared for in return. I love you, @.$7",
+                "Resort_Marriage_Towel_2": "{{TermofEndearment}} คุณช่วยเขยิบมายืน ซ้ายมืออีกหน่อยได้มั้ยคะ?#$b#ขอบใจนะ แสงอาทิตย์จ้าจน อ่านหนังสือยากนิดหน่อยน่ะ!$h",
+                "breakUp": "...$s#$b#ฉัน... ฉันเข้าใจแล้วค่ะ... *ฟืด* ... ง... งั้นพวกเราก็เป็นแค่ คนรู้จักสินะคะ$s",
+                "Tue10": "คุณรู้มั้ยคะว่า บางทีเพื่อนสนิท ก็เลี้ยงเด็กด้วยกันได้นะคะ?#$e#ฟาร์มก็ดูเป็นที่ที่เหมาะ จะให้เด็กคนหนึ่ง เติบโตด้วยว่ามั้ยคะ? แค่คิดเล่นๆ น่ะค่ะ$7",
+                "event_speaker_kids1": "โอ้ว ไม่เหรอคะ?#$b#อ่า ฉันว่ามันก็สมเหตุสมผล... ตอนนี้คุณยุ่งกับเรื่องอื่นๆ อยู่นี่นะ#$b#สำหรับฉัน ฉันคิดต่างไปน่ะค่ะ ฉันอยากมีครอบครัวใหญ่ๆ มาตลอดเลย",
+                "event_speaker_kids2": "ฉันก็เหมือนกันค่ะ!$h#$b#ถ้าเกิดว่า พวกเรามีลูกไล่ๆ กัน พวกเขาก็จะเป็นเพื่อนกัน ต้องดีมากแน่เลยใช่มั้ยคะ?$h",
+                "event_speaker_kids3": "ใช่เลย... ความต้องการที่จะดูแลสิ่งที่ใสซื่อ และช่วยเหลือตัวเองไม่ได้ ฉันก็รู้สึกแบบนั้นค่ะ",
+                "event_speaker_kids4": "โอ้ จริงเหรอคะ? ฉันว่าคุณต้องเป็นผู้ปกครอง ที่ดีแน่เลยค่ะ$u#$b#ฉันก็อยากจะมีครอบครัวใหญ่ๆ เหมือนกัน คุณจะต้องมาช่วยฉันเลี้ยงลูก สักวันนะคะ!$7",
+                "event_speaker_kids5": "อืมม...$u#$b#ถ้าทุกคนคิดแบบนั่น มนุษย์คงสูญพันธุ์แน่ค่ะ$u",
+                "event_speaker_kids6": "อ้อ...$s#$b#เศร้าจังค่ะ... แต่คงไม่ใช่ทุกคน ที่จะแบกรับความรับผิดชอบ แบบนั้นไหว$s#$b#ฉันก็อยากจะมีครอบครัวใหญ่ สักวันนึง ฉันหวังว่าคุณจะเป็นส่วนหนึ่ง ของชีวิตลูกๆ ฉันนะ ถึงคุณจะไม่อยากมีลูกเองก็เถอะ$u",
+                "event_mail1": "ขอบคุณค่ะ...$u#$b#ฉันก็แค่หวังว่า จอจร์จจะไม่โกรธขนาดนั้น... ฉันแค่พยายามจะช่วยเอง$s",
+                "event_mail2": "อ้อ... สงสัยคุณคงพูดถูก$s#$b#ฉันขอโทษนะคะ คุณมุลเนอร์ สิ่งที๋ฉันทำ มันเสียมารยาทจริงๆ$s",
+                "event_pool5": "โอ้... แต่... ทำไมล่ะคะ...?$10#$b#ไม่ค่ะ ฉันไม่เถียงหรอก คุณเป็นคนตัดสินใจนี่คะ ฉันแค่หวังว่า...$10#$b#...$10#$b#ฉันจะกลับบ้านแล้วค่ะ%fork$10",
+                "fall_Sun10": "@! ฉันกำลังคิดถึงอนาคตอยู่เลย...#$e#อีกสิบปี คุณมองเห็นตัวเองอยู่ที่ไหนกันคะ?#$e#ฉันหวังว่าตอนนั้น ฉันจะได้เป็นแม่คนค่ะ...$u",
+                "NPC.cs.3980": "...!!! คุณ... คุณพูดจริงหรือคะ? คุณอยากใช้ชีวิตด้วยกัน ในฐานะ {{RelationshipLabel}} เหรอคะ?$h#$b#*ฟืด* โอ้ @ ฉันมีความสุขเหลือเกิน!$h#$b#ที่หุบเขานี้ เราเฉลิมฉลองข้อตกลงแบบนี้ แบบเดียวกับการแต่งงานเลยนะคะ ฉันจะไปจัดเตรียมทุกอย่างค่ะ เราทำพิธีผูกสัญญา กันในอีก 3 วันดีมั้ยคะ?$n",
+                "NPC.cs.3962": "ดอกไม้สวยจัง... นี่มีความหมายกับฉันมากเลยค่ะ @#$e#ฉันทะนุถนอมมิตรภาพ ของคุณแล้ว ฉันอยากรู้เกี่ยวกับคุณ ให้มากยิ่งขึ้นไปอีกค่ะ$7",
+                "NPC.cs.3963": "*เฮือก* คุณอยากให้เรา สนิทกันกว่านี้หรือคะ?#$e#ฉันรู้สึก...ฉันรู้สึกเป็นเกียรติมากค่ะ!$h",
+                "NPC.cs.3985": "ฉันได้ยินว่าวันนี้ คุณเอาของขวัญให้ใครบางคน มาหรือคะ#$e#คุณเป็นเพื่อนที่ใจดีจังเลย!$h",
+                "NPC.cs.4425": "ชีวิตเปลี่ยนไปจริงๆ นะคะ ตั้งแต่เราเป็น {{RelationshipLabel}} กัน...$s",
+                "NPC.cs.4001": "ฉันเจอหนังสือเก่าๆ ฝุ่นหนาในห้องสมุด ที่แสดงทางไปเอา ผลไม้ลูกนั้นค่ะ!$h#$b#ฉันแน่ใจว่าคุณต้องชอบมันมากแน่ ฉันเลยให้คุณ เพื่อแสดงให้เห็นว่าฉันรู้สึก ซาบซึ้งใจต่อคุณขนาดไหนค่ะ$n#$b#นิสัยฉันเป็นคนชอบดูแลผู้คน... แต่คุณแสดงให้ฉันเห็นว่า การได้รับการดูแล เอาใจใส่ตอบแทน เป็นอย่างไร  ฉันรักคุณค่ะ @$7",
                 "NPC.cs.4507": "@",
                 "NPC.cs.4508": "@",
                 "NPC.cs.4509": "@",
@@ -34,12 +34,12 @@
                 "NPC.cs.4514": "{{TermofEndearment}}",
                 "NPC.cs.4515": "{{TermofEndearment}}",
                 "NPC.cs.4516": "{{TermofEndearment}}",
-                "NPC.cs.4517": "Hon",
-                "NPC.cs.4518": "Hon",
-                "NPC.cs.4519": "Hon",
-                "NPC.cs.4522": "Hon",
-                "NPC.cs.4523": "Hon",
-                "Event.cs.1736": "$q -1 null#Yes, hon?#$r -1 0 danceAsk#(Ask Penny to be your dance partner)#$r -1 0 null#Nevermind...",
+                "NPC.cs.4517": "ตัวเธอ",
+                "NPC.cs.4518": "ตัวเธอ",
+                "NPC.cs.4519": "ตัวเธอ",
+                "NPC.cs.4522": "ตัวเธอ",
+                "NPC.cs.4523": "ตัวเธอ",
+                "Event.cs.1736": "$q -1 null#ว่าไงคะ ตัวเธอ?#$r -1 0 danceAsk#(ชวนเพนนีเป็นคู่เต้นรำ)#$r -1 0 null#ไม่มีอะไร...",
             },
         },
         {
@@ -47,13 +47,13 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "NPC.cs.4442": "I feel a little nauseated this morning...I've just been so anxious about the adoption paperwork.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I was awake half the night wondering what our child will be like...$s#$b#I hope the adoption agency gets back to us soon.",
-                "NPC.cs.4443": "I'm tired... could you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I can't believe we're really adopting. It's... *sniff*... It's everything I've ever wanted.#$b#Do you remember when I asked you to be my children's godparent? I can't believe I actually get to raise them with you.$h",
-                "NPC.cs.4447": "{{TermofEndearment}}, I can't believe we're really adopting. It's... *sniff*... It's everything I've ever wanted.#$b#Do you remember when I asked you to be my children's godparent? I can't believe I actually get to raise them with you.$h",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm so happy about the adoption. I can tell you're going to be a wonderful parent.",
-                "NPC.cs.4448": "{{TermofEndearment}}, I'm so happy about the adoption. I can tell you're going to be a wonderful parent.",
+                "NPC.cs.4442": "เช้านี้ฉันคลื่นไส้นิดหน่อยค่ะ... ช่วงนี้ฉันกังวลเรื่อง เอกสารอุปถัมภ์บุตรน่ะค่ะ$s",
+                "NPC.cs.4446": "วันนี้ฉันแค่อยากนอนพักน่ะค่ะ เมื่อคืนฉันตื่นค่อนคืน เพราะมัวแต่คิดว่าลูกของเรา จะหน้าตาเป็นยังไง...$s#$b#ฉันหวังว่าบริษัทอุปถัมภ์ จะติดต่อกลับมาเร็วๆ นะ",
+                "NPC.cs.4443": "ฉันเพลียน่ะ... คุณทำอาหารเช้า กินเองได้มั้ยคะ?$s",
+                "NPC.cs.4444": "{{TermofEndearment}} ฉันไม่อยากเชื่อเลย ว่าพวกเราจะรับอุปถัมภ์จริงๆ นี่... *ฟืด*... นี่เป็นทุกสิ่งทุกอย่าง ที่ฉันต้องการเลยค่ะ#$b#คุณจำตอนที๋ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกๆ ฉันได้มั้ยคะ? ฉันไม่อยากจะเชื่อเลยว่า จะได้เลี้ยงดูพวกเขา ไปพร้อมๆ กันกับคุณ$h",
+                "NPC.cs.4447": "{{TermofEndearment}} ฉันไม่อยากเชื่อเลย ว่าพวกเราจะรับอุปถัมภ์จริงๆ นี่... *ฟืด*... นี่เป็นทุกสิ่งทุกอย่าง ที่ฉันต้องการเลยค่ะ#$b#คุณจำตอนที๋ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกๆ ฉันได้มั้ยคะ? ฉันไม่อยากจะเชื่อเลยว่า จะได้เลี้ยงดูพวกเขา ไปพร้อมๆ กันกับคุณ$h",
+                "NPC.cs.4445": "{{TermofEndearment}} ฉันดีใจมากเลยเรื่องอุปถัมภ์ ฉันบอกได้เลยว่าคุณจะต้อง เป็นผู้ปกครองที่วิเศษแน่ค่ะ",
+                "NPC.cs.4448": "{{TermofEndearment}} ฉันดีใจมากเลยเรื่องอุปถัมภ์ ฉันบอกได้เลยว่าคุณจะต้อง เป็นผู้ปกครองที่วิเศษแน่ค่ะ",
             },
             "When":
             {
@@ -65,7 +65,7 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "event_pool4": "I’m so glad!$6#$b#Thank you, @. I know you’ll be as wonderful a role model for them as you’ve been a friend to me.$6#$b#Could I... give you a hug?$8",
+                "event_pool4": "ฉันดีใจจัง!$6#$b#ขอบคุณค่ะ @ ฉันรู้ว่าคุณจะเป็นแบบอย่าง ที่ยอดเยี่ยมให้พวกเขา ได้เหมือนที่คุณเป็นเพื่อน ที่ดีให้กับฉัน$6#$b#ฉันขอ... กอดคุณได้มั้ยคะ?$8",
             },
             "When":
             {
@@ -77,7 +77,7 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "event_pool4": "I’m so glad!$6#$b#Thank you, @. I know you’ll be as wonderful a role model for them as you’ve been a friend to me.$6#$b#Could I... give you a hug?$6",
+                "event_pool4": "ฉันดีใจจัง!$6#$b#ขอบคุณค่ะ @ ฉันรู้ว่าคุณจะเป็นแบบอย่าง ที่ยอดเยี่ยมให้พวกเขา ได้เหมือนที่คุณเป็นเพื่อน ที่ดีให้กับฉัน$6#$b#ฉันขอ... กอดคุณได้มั้ยคะ?$6",
             },
             "When":
             {
@@ -89,12 +89,12 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "NPC.cs.3965": "Another pendant...? Well, why don't I wear mine, and you wear that one?",
-                "NPC.cs.3966": "But... we already agreed to be {{RelationshipLabel}}... didn't we?$u",
-                "NPC.cs.3967": "Are you feeling okay, hon? You don't need to ask me to live with you... I'm already here.",
-                "NPC.cs.3968": "That's so sweet of you, but I don't need two pendants! Just being part of your life is enough for me.$h",
+                "NPC.cs.3965": "จี้อีกอันเหรอคะ...? เอาเป็นว่า ทำไมฉันไม่ใส่ของฉัน แล้วคุณก็ใส่อันนั้นล่ะคะ?",
+                "NPC.cs.3966": "แต่... พวกเราตกลงเป็น{{RelationshipLabel}} กันแล้วนี่คะ... ใช่มั้ย?$u",
+                "NPC.cs.3967": "ตัวเธอโอเคมั้ย? คุณไม่จำเป็นต้อง ขอให้ฉันมาอยู่กับคุณ หรอกนะ...  ฉันก็อยู่อยู่แล้วไงคะ",
+                "NPC.cs.3968": "คุณน่ารักจัง แต่ฉันไม่ต้องการจี้ ถึงสองอันหรอกค่ะ! แค่ได้เป็นส่วนหนึ่งในชีวิตคุณ ก็พอแล้วล่ะค่ะสำหรับฉัน$h",
             },
-            "When":
+            "Wienไม่
             {
                 "Relationship:Penny": "Engaged, Married"
             }
@@ -104,10 +104,10 @@
             "Target": "Characters/Dialogue/Pam",
             "Entries":
             {
-                "NPC.cs.3965": "You're movin' in with my Penny, ain't you? She ask you to bring me along? ...Didn't think so.$s",
-                "NPC.cs.3966": "Don't be weird, kid. I got my own place to live.$4",
-                "NPC.cs.3967": "I'm fine where I am, kid. Penny's got her own life with you now.$s",
-                "NPC.cs.3968": "You and I both know Penny don't want me living with you two. I'm respectin' her boundaries.$4",
+                "NPC.cs.3965": "เธอจะย้ายมาอยู่ กับเพนนีของ ฉันสินะ? เพนนีขอให้เธอ พาฉันไปด้วยเหรอ...ก็คิดว่าคงไม่ใช่หรอก$s",
+                "NPC.cs.3966": "อย่าทำตัวประหลาดน่า เจ้าหนู ฉันมีที่อยู่ของฉันเอง$4",
+                "NPC.cs.3967": "ฉันอยู่นี่ก็ดีอยู่แล้ว เด็กน้อย เพนนีมีชีวิตของเธอเอง กับเธอแล้วตอนนี้$s",
+                "NPC.cs.3968": "ทั้งเธอและฉันก็รู้ว่า เพนนีไม่อยากให้ฉันไปอยู่ กับเธอสองคนหรอก ฉันเคารพขอบเขตของเธอน่ะ$4",
             },
             "When":
             {
@@ -119,7 +119,7 @@
             "Target": "Data/Festivals/fall27",
             "Entries":
             {
-                "Penny_spouse": "These vapors... You'll have to go on without me...$u",
+                "Penny_spouse": "ไอพวกนี้... คุณคงต้องไปโดย ไม่มีฉันแล้วล่ะค่ะ...$u",
             },
             "When":
             {
@@ -131,7 +131,7 @@
             "Target": "Data/Festivals/winter25",
             "Entries":
             {
-                "Penny_spouse": "I'm thankful to be sharing my life with my best friend.$7",
+                "Penny_spouse": "ฉันซาบซึ้งที่ได้ ใช้ชีวิตกับเพื่อนที่ดีที่สุด ของฉันค่ะ$7",
             },
         },
         {
@@ -139,7 +139,7 @@
             "Target": "Data/mail",
             "Entries":
             {
-                "pennySpa": "Could you meet me in the bath house some afternoon? I have something to ask you. ^   -Penny[#]Penny's Note",
+                "pennySpa": "บ่ายนี้ไปเจอฉัน ที่โรงอาบน้ำได้มั้ย ฉันมีอะไรจะถามน่ะค่ะ ^   -เพนนี[#]Penny's Note",
             },
         },
         {
@@ -147,7 +147,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Penny": "We have a beautiful home and a thriving family... it's all I've ever dreamed of, and more.$7",
+                "SummitEvent_Dialogue3_Penny": "พวกเรามีบ้านหลังงาม กับครอบครัวที่กำลัง เติบโต... เป็นยิ่งกว่าที่ฉัน เคยฝันไว้เสียอีกค่ะ$7",
             },
         },
         {
@@ -155,7 +155,7 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Penny1": "We're going to be a little farm family, soon.$7#$e#I've thought of you as my best friend for a long time... I'm so glad you feel the same way.$h",
+                "Penny1": "อีกไม่นานพวกเราจะเป็น ครอบครัวชาวไร่น้อยๆ กันแล้ว$7#$e#ฉันคิดว่าคุณเป็นเพื่อนที่ดีที่สุด มาตั้งนานแล้วล่ะค่ะ... ฉันดีใจมากเลย ที่คุณก็คิดเหมือนกัน$h",
             },
         },
         {
@@ -163,11 +163,11 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Good_0": "@...I still can't believe we're {{RelationshipLabel}}...",
-                "Good_1": "I had dreams of sharing my life with you for such a long time.$7",
-                "Good_2": "From the moment you moved here, I hoped we'd be friends one day...$7",
-                "Good_3": "You look great today! Did you do something different with your outfit?$h",
-                "Good_4": "This place is really starting to feel like home.$7",
+                "Good_0": "@... ฉันยังไม่อยากเชื่อ เลยว่าเราเป็น {{RelationshipLabel}} กัน...",
+                "Good_1": "ฉันเคยฝัน ว่าจะได้ใช้ชีวิตกับคุณ มานานมากเหลือเกินค่ะ$7",
+                "Good_2": "ตั้งแต่ที่คุณย้ายมา ฉันก็หวังว่าสักวันนีง เราจะได้เป็นเพื่อนกันค่ะ...$7",
+                "Good_3": "วันนี้คุณดูดีมากเลยค่ะ! คุณทำอะไรพิเศษ กับชุดหรือเปล่าคะ?$h",
+                "Good_4": "ที่นี่เริ่มรู้สึก เหมือนเป็นบ้านแล้วค่ะ$7",
             },
         },
         {
@@ -175,12 +175,12 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "Hi, {{Lowercase:{{TermofEndearment}}}}! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of those.$11",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{Lowercase:{{TermofEndearment}}}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "How was your day, hon? I spent my afternoon reading a novel.",
-                "Rainy_Night_2": "I was just thinking about that day we met in the bathhouse.$7#$e#I was so nervous about asking you to be a godparent. Did you feel the same way about asking to be {{RelationshipLabel}}?$7",
-                "Indoor_Night_0": "Good evening, {{Lowercase:{{TermofEndearment}}}}. Did you accomplish everything you wanted to today?#$e#If not, that's okay. We've got all the time in the world!",
-                "Outdoor_2": "Hi, @! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
+                "Rainy_Day_2": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ[186 180 770 535]#$e#ฉันคิดว่า คุณต้องได้ใช้สักอันแน่ๆ$11",
+                "Rainy_Day_3": "อืมม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{Lowercase:{{TermofEndearment}}}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "วันนี้เป็นไงบ้างคะตัวเธอ? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ",
+                "Rainy_Night_2": "ฉันเพิ่งนีกถึงวันที่เราพบกันที่ โรงอาบน้ำเลยค่ะ$7#$e#ฉันประหม่ามากเลย เรื่องขอให้คุณเป็น ผู้ปกครองทูลหัวน่เ คุณประหม่าเหมือนกันมั้ยคะ ตอนที่ขอเป็น {{RelationshipLabel}} กัน?$7",
+                "Indoor_Night_0": "สวัสดีตอนค่ำค่ะ {{Lowercase:{{TermofEndearment}}}} วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ?#$e#ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!",
+                "Outdoor_2": "ทักค่ะ @! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ ขอโทษนะคะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
             },
             "When":
             {
@@ -194,12 +194,12 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "Hi, {{TermofEndearment}}! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of those.$11",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{TermofEndearment}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "How was your day, hon? I spent my afternoon reading a novel.",
-                "Rainy_Night_2": "I was just thinking about that day we met in the bathhouse.$7#$e#I was so nervous about asking you to be a godparent. Did you feel the same way about asking to be {{RelationshipLabel}}?$7",
-                "Indoor_Night_0": "Good evening, {{TermofEndearment}}. Did you accomplish everything you wanted to today?#$e#If not, that's okay. We've got all the time in the world!",
-                "Outdoor_2": "Hi, @! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
+                "Rainy_Day_2": "ดีค่ะ {{TermofEndearment}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ[186 180 770 535]#$e#ฉันคิดว่า คุณต้องได้ใช้สักอันแน่ๆ$11",
+                "Rainy_Day_3": "อืมม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{TermofEndearment}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "วันนี้เป็นไงบ้างคะตัวเธอ? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ",
+                "Rainy_Night_2": "ฉันเพิ่งนีกถึงวันที่เราพบกันที่ โรงอาบน้ำเลยค่ะ$7#$e#ฉันประหม่ามากเลย เรื่องขอให้คุณเป็น ผู้ปกครองทูลหัวน่เ คุณประหม่าเหมือนกันมั้ยคะ ตอนที่ขอเป็น {{RelationshipLabel}} กัน?$7",
+                "Indoor_Night_0": "สวัสดีตอนค่ำค่ะ {{TermofEndearment}} วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ?#$e#ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!",
+                "Outdoor_2": "ทักค่ะ @! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ ขอโทษนะคะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
             },
             "When":
             {
@@ -212,7 +212,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "Ready to tuck in? I'm pretty tired.",
+                "Indoor_Night_4": "เข้านอนกันเลยมั้ย? ฉันค่อนข้างเพลียน่ะค่ะ",
             },
             "When":
             {
@@ -225,7 +225,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "Want to spend some time together? I made the bed and everything...$11",
+                "Indoor_Night_4": "อยากใช้เวลาด้วยกันมั้ยคะ? จัดจัดเตียง แล้วก็ทุกอย่างหมดแล้ว...$11",
             },
             "When":
             {
@@ -238,7 +238,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Indoor_Night_Penny": "Hi there, {{Lowercase:{{TermofEndearment}}}}. Ready to spend a quiet evening at home?",
+                "Indoor_Night_Penny": "สวัสดีค่ะ {{Lowercase:{{TermofEndearment}}}} พร้อมใช้เวลาค่ำที่แสนสงบ ที่บ้านหรือยังคะ?",
             },
             "When":
             {
@@ -251,7 +251,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Indoor_Night_Penny": "Hi there, {{TermofEndearment}}. Ready to spend a quiet evening at home?",
+                "Indoor_Night_Penny": "สวัสดีค่ะ {{TermofEndearment}} พร้อมใช้เวลาค่ำที่แสนสงบ ที่บ้านหรือยังคะ?",
             },
             "When":
             {
@@ -263,9 +263,9 @@
             "Target": "Strings/schedules/Penny",
             "Entries":
             {
-		"marriage_Mon.002": "I wonder if Maru will find a partner in life someday?",
-		"marriageJob.000": "Hi, {{Lowercase:{{TermofEndearment}}}}. It's nice of you to visit me at work.$h",
-		"marriage_Mon.000": "Hi, {{Lowercase:{{TermofEndearment}}}}! I'm just doing some shopping.",
+		"marriage_Mon.002": "ฉันสงสัยจังว่ามารุ จะเจอคู่ชีวิตบ้างมั้ยนะ?",
+		"marriageJob.000": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}} ดีจังที่คุณมาเยี่ยมฉันที่ทำงาน$h",
+		"marriage_Mon.000": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! ฉันแค่ซื้ออะไรนิดหน่อยน่ะค่ะ",
             },
             "When":
             {
@@ -278,9 +278,9 @@
             "Target": "Strings/schedules/Penny",
             "Entries":
             {
-		"marriage_Mon.002": "I wonder if Maru will find a partner in life someday?",
-		"marriageJob.000": "Hi, {{TermofEndearment}}. It's nice of you to visit me at work.$h",
-		"marriage_Mon.000": "Hi, {{TermofEndearment}}! I'm just doing some shopping.",
+		"marriage_Mon.002": "ฉันสงสัยจังว่ามารุ จะเจอคู่ชีวิตบ้างมั้ยนะ?",
+		"marriageJob.000": "ดีค่ะ {{TermofEndearment}} ดีจังที่คุณมาเยี่ยมฉันที่ทำงาน$h",
+		"marriage_Mon.000": "ดีค่ะ {{TermofEndearment}}! ฉันแค่ซื้ออะไรนิดหน่อยน่ะค่ะ",
             },
             "When":
             {
@@ -292,7 +292,7 @@
             "Target": "Strings/Characters",
             "Entries":
             {
-                "MovieInvite_Spouse_Penny": "A movie ticket? Yes, I'd love to go with you! I'll meet you at the theater, hon.$h",
+                "MovieInvite_Spouse_Penny": "ตั๋วหนังเหรอคะ? ตกลงค่ะ ฉันอยากจะไปกับคุณมากเลย! ไว้เจอกันที๋โรงหนังนะคะ ตัวเธอ$h",
             },
         },
         {
@@ -300,7 +300,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Event.cs.1615": "I accept!$h#$b#*whisper* Thanks for going through with the formalities, {{Lowercase:{{TermofEndearment}}}}.",
+                "Event.cs.1615": "ตกลงค่ะ!$h#$b#*กระซิบ* ขอบคุณที่ทำตามขั้นตอน อย่างเป็นทางการนะคะ {{Lowercase:{{TermofEndearment}}}}",
             },
             "When":
             {
@@ -313,7 +313,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Event.cs.1615": "I accept!$h#$b#*whisper* Thanks for going through with the formalities, {{TermofEndearment}}.",
+                "Event.cs.1615": "ตกลงค่ะ!$h#$b#*กระซิบ* ขอบคุณที่ทำตามขั้นตอน อย่างเป็นทางการนะคะ {{TermofEndearment}}.",
             },
             "When":
             {
@@ -325,11 +325,11 @@
             "Target": "Data/Events/Forest",
             "Entries":
             {
-                "181928/f Penny 2000/t 900 1600": "50s/-1000 -1000/farmer 75 40 2 Penny 71 45 2 Jas 71 49 3 Vincent 70 49 1/skippable/specificTemporarySprite pennyFieldTrip/positionOffset Penny 0 -16/animate Jas false true 90 16 17 18 19/viewport 71 45 true/move farmer 0 5 3/pause 600/faceDirection Penny 1/pause 600/speak Penny \"Oh, @! It's perfect timing that you showed up.\"/emote farmer 8/speak Penny \"I brought the children on a little field trip into the countryside.#$b#You know all about life in the country, right?$h\"/speak Penny \"$q -1 null#So I was thinking... could you be my guest speaker today?#$r -1 10 event_speaker_yes#I'd love to!#$r -1 0 event_speaker_yes#Sure.#$r -1 -1500 event_speaker_no#No... I can't stand kids.\"/fork eventEnd/faceDirection Penny 2/faceDirection farmer 2/showFrame Penny 26/pause 500/shake Penny 500/speak Penny \"Jas! Vincent! May I have your attention please!\"/pause 80/stopAnimation Jas/faceDirection Jas 0 true/faceDirection Vincent 0/jump Vincent/jump Jas/pause 800/speed Vincent 4/speed Jas 4/move Vincent 0 -3 0 true/move Jas 0 -3 0 true/showFrame Penny 0/faceDirection Penny 2/faceDirection farmer 3/speak Penny \"I have a very special guest here to talk to you today... our very own local farmer, @.#$b#@ has first-hand experience living in the countryside, and knows all about the valley's 'natural resources'!\"/pause 500/speak Penny \"Can anyone tell me what a 'natural resource' is?\"/animate Jas false true 50 20 21/animate Vincent false true 50 16 17/playSound dwop/pause 1200/speak Penny \"Jas?\"/stopAnimation Vincent/stopAnimation Jas/speak Jas \"A natural resource is a material source of wealth that occurs in a natural state and has economic value.$4\"/faceDirection Vincent 1/speak Penny \"Very good! That's worth two star points, Jas.\"/speak Jas \"Yesss!$h\"/faceDirection Vincent 0/speak Penny \"Okay, now let's give @ our full attention.\"/move Penny -1 0 1/move farmer -4 0 2/question fork0 \"#Country life is all about farming.#Country life is all about gathering from the wild.\"/fork choseFarming/pause 500/question fork0 \"#This valley is chock-full of precious minerals.#The water around here is teeming with fresh seafood.#You'll find no better lumber south of Grampleton.\"/fork choseMinerals/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"Yes, Vincent?\"/speak Vincent \"Farmer @... Um, are you dating anyone?\"/speak Penny \"Vincent! That's not an appropriate question! Behave yourself, or I'll have to take away all your star points for the day.$a\"/emote Vincent 28/switchEvent fieldTripEnd",
-                "choseFarming": "pause 500/question fork0 \"#The valley's soil is ideal for growing delicious vegetables.#The valley's air and grass are perfect for raising animals.\"/fork choseAnimals/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"Yes, Vincent?\"/speak Vincent \"Um, Farmer @? If I eat your veggies will I grow up strong like my big brother Sam?#$b#He's so strong, I saw him lift Miss Penny clear off the ground last night when they were climbing into a tree.$h\"/showFrame Penny 27/jump Penny/pause 800/showFrame Penny 0/faceDirection farmer 3 true/emote Penny 12/speak Penny \"Vincent! It's not good to gossip!$a\"/switchEvent fieldTripEnd/",
-                "choseAnimals": "pause 500/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"Yes, Vincent?\"/speak Vincent \"Farmer @? Can I put a saddle on one of your cows and ride it into town? I wanna be a real cowboy!\"/speak Penny \"Vincent! Behave yourself. @'s farm is a workplace, not a playground.$h\"/switchEvent fieldTripEnd",
-                "choseMinerals": "pause 500/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"Yes, Vincent?\"/speak Vincent \"Farmer @? Is it true that goblins live deep in the caves... and that they like to kidnap little girls for their dinner?\"/jump Jas/pause 800/faceDirection Jas 3/emote Jas 28/animate farmer false true 100 102 103/speak Penny \"Vincent! You're scaring Jas. Let's not talk about monsters.$a\"/faceDirection Penny 1/faceDirection Jas 0/emote Penny 12/pause 400/stopAnimation farmer/pause 300/faceDirection farmer 3/emote farmer 40/faceDirection Penny 2/faceDirection farmer 2/switchEvent fieldTripEnd",
-                "fieldTripEnd": "pause 400/emote Penny 40/speak Penny \"Well, that's probably enough for today. You two run along and play.\"/speed Jas 4/move Jas 0 3 1/speed Jas 4/move Jas 9 0 3 true/faceDirection Vincent 2 true/jump Vincent/pause 800/speed Vincent 4/move Vincent 0 3 1 false/speed Vincent 4/move Vincent 9 0 1/pause 500/faceDirection Vincent 2/faceDirection Jas 2/faceDirection Penny 1/faceDirection farmer 3/speak Penny \"It's a lot of work to take care of these kids...$u#$b#But I don't really mind. I enjoy seeing them learn... and hopefully I can help them grow up to be good people.\"/faceDirection Penny 2/pause 500/faceDirection Penny 1/speak Penny \"$q -1 null#Would you ever want to be a parent, @?#$r -1 0 event_speaker_kids1#I haven't really thought about it.#$r -1 20 event_speaker_kids2#Absolutely. I want a big family.#$r -1 20 event_speaker_kids3#I guess so. It's a natural urge.#$r -1 10 event_speaker_kids4#No, I don't think I'd be good at it.#$r -1 -10 event_speaker_kids5#No, the world's crowded enough already.#$r -1 -10 event_speaker_kids6#No, I don't want to be tied down with a family.\"/viewport move 1 0 10000/pause 7000/stopMusic/globalFade/viewport -2000 -2000/speak Penny \"Well, I'm glad you showed up, @. I think the kids had a great time.$h\"/end dialogue Penny \"Thanks for making my field trip a success today.\"",
+                "181928/f Penny 2000/t 900 1600": "50s/-1000 -1000/farmer 75 40 2 Penny 71 45 2 Jas 71 49 3 Vincent 70 49 1/skippable/specificTemporarySprite pennyFieldTrip/positionOffset Penny 0 -16/animate Jas false true 90 16 17 18 19/viewport 71 45 true/move farmer 0 5 3/pause 600/faceDirection Penny 1/pause 600/speak Penny \"อ้าว @! มาทันเวลาพอดีเลยค่ะ\"/emote farmer 8/speak Penny \"ฉันพาเด็กๆ มาทัศนศึกษาครั้งย่อมๆ ที่ชานเมืองน่ะค่ะ#$b#คุณเชี่ยวชาญ เรื่องชีวิตนอกเมืองใช่มั้ยคะ?$h\"/speak Penny \"$q -1 null#ฉันเลยกำลังคิดอยู่ว่า... คุณเป็นผู้พูดรับเชิญของฉัน วันนี้ได้มั้ยคะ?#$r -1 10 event_speaker_yes#ยินดีเลย!#$r -1 0 event_speaker_yes#ได้สิ#$r -1 -1500 event_speaker_no#ไม่ล่ะ... ฉันรับมือเด็กๆ ไม่ได้อะ\"/fork eventEnd/faceDirection Penny 2/faceDirection farmer 2/showFrame Penny 26/pause 500/shake Penny 500/speak Penny \"แจส! วินเซนท์! ฟังครูหน่อยได้มั้ย!\"/pause 80/stopAnimation Jas/faceDirection Jas 0 true/faceDirection Vincent 0/jump Vincent/jump Jas/pause 800/speed Vincent 4/speed Jas 4/move Vincent 0 -3 0 true/move Jas 0 -3 0 true/showFrame Penny 0/faceDirection Penny 2/faceDirection farmer 3/speak Penny \"ครุมีแขกรับเชิญสุดพิเศษ มาคุยกับพวกเธอวันนี้ล่ะ... ชาวไร่ที่คุ้นหน้าคุ้นตาดีของเรา @#$b#@ มีประสบการณ์ตรงในการ อยู่แถบชนบท แล้วก็รู้ทุกเรื่องเลยเกี่ยวกับ 'ทรัพยากรธรรมชาติ' ด้วยล่ะจ๊ะ!\"/pause 500/speak Penny \"มีใครตอบครูได้มั้ยว่า 'ทรัพยากรธรรมชาติ' คืออะไร?\"/animate Jas false true 50 20 21/animate Vincent false true 50 16 17/playSound dwop/pause 1200/speak Penny \"แจส?\"/stopAnimation Vincent/stopAnimation Jas/speak Jas \"ทรัพยากรธรรมชาติ เป็นแหล่งวัสดุที่มีมูลค่า ซึ่งเกิดในธรรมชาติ และมีคุณค่าทางเศรษฐกิจค่ะ$4\"/faceDirection Vincent 1/speak Penny \"เก่งมากเลยจ๊ะ! ครูให้สองดาวเลยนะจ๊ะ แจส\"/speak Jas \"เยยย้!$h\"/faceDirection Vincent 0/speak Penny \"โอเค เรามาตั้งใจฟัง @ กันนะจ๊ะ\"/move Penny -1 0 1/move farmer -4 0 2/question fork0 \"#ชีวิตชนบทก็คือชีวิตชาวไร่#ชีวิตชนบทคือการล่าของป่า\"/fork choseFarming/pause 500/question fork0 \"#หุบเขานี้เต็มล้นไปด้วยแร่ธาตุมีค่าน่ะ#น่านน้ำแถวนี้อุดมไปด้วยอาหารทะเลสดๆ ล่ะ#เธอจะหาไม้ที่ไหนดีเท่าทางใต้ของเมืองแกรมเพิลตันไม่ได้แล้วล่ะ\"/fork choseMinerals/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"ว่าไงจ๊ะ วินเซนท์?\"/speak Vincent \"พี่ชาวไร่ @ ฮะ... อ่า พี่คบใครอยู่ป่าวฮะ?\"/speak Penny \"วินเซนท์! นั่นเป็นคำถามที่ไม่เหมาะสมนะ! ทำตัวดีๆ นะ ไม่งั้นครูจะยึดดาว วันนี้ให้หมดเลย$a\"/emote Vincent 28/switchEvent fieldTripEnd",
+                "choseFarming": "pause 500/question fork0 \"#ดินในหุบเขานี้ เพอร์เฟ็คกับการปลูกผักให้รสชาติดีล่ะ#อากาศและหญ้าของหุบเขานี้ เหมาะเลี้ยงสัตว์ที่สุดเลย\"/fork choseAnimals/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"ว่าไงจ๊ะ วินเซนท์?\"/speak Vincent \"อ่า พี่ชาวไร่ @ ฮะ? ถ้าผมกินผักของพี่ ผมจะโตมาแข็งแรง แบบพี่แซมของผมมั้ยฮะ?#$b#เขาแข็งแรงมากเลย ผมเห็นเขายกครูเพนนี ลอยเลยเมื่อคืนตอนที่พวกเขา ปีนต้นไม้กันน่ะฮะ$h\"/showFrame Penny 27/jump Penny/pause 800/showFrame Penny 0/faceDirection farmer 3 true/emote Penny 12/speak Penny \"วินเซนท์! การนินทามันไม่ดีนะจ๊ะ!$a\"/switchEvent fieldTripEnd/",
+                "choseAnimals": "pause 500/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"ว่าไงจ๊ะ วินเซนท์?\"/speak Vincent \"พี่ชาวไร่ @ ฮะ? ผมเอาอานไปขี่หลัง วัวของพี่สักตัว เข้าเมืองได้มั้ยฮะ? ผมอยากเป็นคาวบอยฮะ!\"/speak Penny \"วินเซนท์! ทำตัวดีๆ สิจ๊ะ ฟาร์มของ @ เป็นที่ทำงาน ไม่ใช่ที่เล่นนะจ๊ะ$h\"/switchEvent fieldTripEnd",
+                "choseMinerals": "pause 500/animate Vincent false true 50 16 17/playSound dwop/pause 300/faceDirection Penny 2/pause 500/stopAnimation Vincent/speak Penny \"ว่าไงจ๊ะ วินเซนท์?\"/speak Vincent \"พี่ชาวไร่ @ ฮะ? จริงมั้ยฮะว่าในถ้ำลึกๆ มีก็อบลินอยู่... แล้วพวกมันก็ชอบจับ พวกเด็กผู้หญิงกิน เป็นอาหารเย็นน่ะฮะ?\"/jump Jas/pause 800/faceDirection Jas 3/emote Jas 28/animate farmer false true 100 102 103/speak Penny \"วินเซนท์! เธอกำลังทำให้แจสกลัวนะจ๊ะ อย่าพูดถึงมอนสเตอร์เลย$a\"/faceDirection Penny 1/faceDirection Jas 0/emote Penny 12/pause 400/stopAnimation farmer/pause 300/faceDirection farmer 3/emote farmer 40/faceDirection Penny 2/faceDirection farmer 2/switchEvent fieldTripEnd",
+                "fieldTripEnd": "pause 400/emote Penny 40/speak Penny \"เอาล่ะ น่าจะพอแล้วสำหรับวันนี้ เธอสองคนไปวิ่งเล่นได้จ่ะ\"/speed Jas 4/move Jas 0 3 1/speed Jas 4/move Jas 9 0 3 true/faceDirection Vincent 2 true/jump Vincent/pause 800/speed Vincent 4/move Vincent 0 3 1 false/speed Vincent 4/move Vincent 9 0 1/pause 500/faceDirection Vincent 2/faceDirection Jas 2/faceDirection Penny 1/faceDirection farmer 3/speak Penny \"ดูแลเด็ฏๆ พวกนี้น่ะเหนื่อยมากเลย...$u#$b#แต่ฉันก็ไม่ถือนะคะ ฉันชอบเห็นพวกเขาเรียนรู้... แล้วก็หวังว่าฉันจะช่วยให้พวกเขา โตเป็นคนดีได้\"/faceDirection Penny 2/pause 500/faceDirection Penny 1/speak Penny \"$q -1 null#คุณเคยอยากเป็น พ่อแม่คนมั้ยคะ @?#$r -1 0 event_speaker_kids1#ฉันยังไม่เคยคิดถึงเรื่องนั้นน่ะ#$r -1 20 event_speaker_kids2#แน่นอนสิ ฉันอยากมีครอบครัวใหญ่ๆ#$r -1 20 event_speaker_kids3#คงงั้นมั้ง มันเป็นแรงขับตามเรื่องธรรมชาตินี่นะ#$r -1 10 event_speaker_kids4#ไม่ล่ะ ฉันว่าฉันคงเป็นได้ไม่ดีหรอก#$r -1 -10 event_speaker_kids5#ไม่ล่ะ แค่นี้คนก็ล้นโลกแล้ว#$r -1 -10 event_speaker_kids6#ไม่ล่ะ ฉันไม่อยากถูกผูกติดกับครอบครัวน่ะ\"/viewport move 1 0 10000/pause 7000/stopMusic/globalFade/viewport -2000 -2000/speak Penny \"แต่ก็ ดีใจที่คุณมานะคะ @ ฉันคิดว่าเด็กๆ ได้มีเวลาที่ดีมากเลยล่ะค่ะ$h\"/end dialogue Penny \"ขอบคุณที่ทำให้ ทัศนศึกษาของฉันวันนี้ ประสบความสำเร็จนะคะ\"",
             },
         },
         {
@@ -338,7 +338,7 @@
             "Entries":
             {
                 "38/f Penny 2500/t 1900 2400/n pennySpa": null,
-                "38/f Penny 2500/t 1200 1800/n pennySpa": "echos/-1000 -1000/farmer 13 23 2 Penny 9 29 1/swimming farmer/swimming Penny/skippable/showFrame Penny 31/viewport 13 27 true/pause 2000/playSound slosh/move farmer 0 6 3/positionOffset farmer 0 16/pause 700/speak Penny \"There you are... I was worried you didn't get my note.$6\"/playSound slosh/move Penny 1 0 1/pause 1500/speak Penny \"This is where Mom taught me to swim. It’s one of the few happy memories I have of my childhood.$6#$b#@, I asked you here because I wanted to say...$8\"/pause 1000/playSound slosh/move Penny 2 0 1/pause 500/speak Penny \"You’ve been an incredible source of support to me. No matter how difficult things are at home, you’re always there for me.$8#$b#Sometimes as a shoulder to lean on... sometimes just as a reminder that I have value outside of looking after my mother.$8#$b#The more time I spend with you, the more I believe I can take control of my own life.$8#$b#I can have the family I’ve always dreamed of. I can give them the happy home I wish I’d had growing up.$8#$b#So…I know it’s early to be asking this, but...$6\" /faceDirection Penny 3/pause 800/faceDirection Penny 1/speak Penny \"$q -1 null#When that dream comes true... When I have children of my own... @, would you be their godparent?$8#$r -1 0 event_pool4#Of course. I’d be honored.#$r -1 -500 event_pool5#Sorry... I think you should find someone else.\"/fork pennyHeartbroken/pause 1000/showFrame Penny 32/pause 200/playSound slosh/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/eyes 1 -10000/positionOffset Penny 2 0/positionOffset farmer -2 2/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 1200/globalFade/viewport -1000 -1000/pause 2000/stopSwimming farmer/stopSwimming Penny/end warpOut",
+                "38/f Penny 2500/t 1200 1800/n pennySpa": "echos/-1000 -1000/farmer 13 23 2 Penny 9 29 1/swimming farmer/swimming Penny/skippable/showFrame Penny 31/viewport 13 27 true/pause 2000/playSound slosh/move farmer 0 6 3/positionOffset farmer 0 16/pause 700/speak Penny \"คุณอยู่นี่เอง... กำลังห่วงเลยว่าคุณจะ ไม่ได้โน้ตของฉันน่ะค่ะ$6\"/playSound slosh/move Penny 1 0 1/pause 1500/speak Penny \"ที่นี่เป็นที่ที่ คุณแม่สอนฉันว่ายน้ำค่ะ เป็นหนึ่งในความทรงจำ วัยเด็กที่มีความสุข ของฉันน่ะค่ะ$6#$b#@ คะ ฉันขอให้คุณมาที่นี่เพราะว่า ฉันอยากจะบอกว่า...$8\"/pause 1000/playSound slosh/move Penny 2 0 1/pause 500/speak Penny \"คุณเป็นคนช่วยเหลือฉัน อย่างยอดเยี่ยมมาโดยตลอด ไม่ว่าที่บ้านจะมีเรื่องหนักหนาแค่ไหน คุณก็อยู่เคียงข้างฉันตลอด$8#$b#บางครั้งก็เป็นไหล่ให้ซบ... บางครั้งก็เป็นแค่สิ่งเตือนใจ ว่านอกจากดูแลแม่แล้ว ตัวฉันเองยังมีคุณค่าอื่นอยู่$8#$b#ยิ่งฉันใช้เวลากับคุณมากเท่าไหร่ ฉันก็ยิ่งเชื่อว่า ฉันจะสามารถกำหนดทิศทาง ชีวิตของฉันเองได้$8#$b#ฉันสามารถมีครอบครัว แบบที๋ฉันฝันมาตลอดได้ ฉันสามารถให้พวกเขาเติบโต มาในบ้านที่มีความสุข แบบที่ฉันฝันอยากมีได้$8#$b#เพราะงั้น… ฉันรู้ว่ามันค่อนข้างเร็วไปหน่อย ที่จะขอคุณ แต่...$6\" /faceDirection Penny 3/pause 800/faceDirection Penny 1/speak Penny \"$q -1 null#ตอนที่ความฝันของฉันเป็นจริง... ตอนที่ฉันมีลูกของฉันเอง... @ คะ คุณจะเป็นพ่อแม่ทูลหัว ของพวกเขาได้มั้ย?$8#$r -1 0 event_pool4#แน่นอนสิ ฉันจะรู้สึกเป็นเกียรติมากเลย#$r -1 -500 event_pool5#ขอโทษนะ... ฉันคิดว่าเธอควรไปหาคนอื่น\"/fork pennyHeartbroken/pause 1000/showFrame Penny 32/pause 200/playSound slosh/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/eyes 1 -10000/positionOffset Penny 2 0/positionOffset farmer -2 2/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 1200/globalFade/viewport -1000 -1000/pause 2000/stopSwimming farmer/stopSwimming Penny/end warpOut",
                 "pennyHeartbroken": "move Penny 0 -2 0/faceDirection farmer 0/shake Penny 5000/globalFade/viewport -1000 -1000/stopSwimming farmer/stopSwimming Penny/end warpOut"
             },
             "When":
@@ -352,7 +352,7 @@
             "Entries":
             {
                 "38/f Penny 2500/t 1900 2400/n pennySpa": null,
-                "38/f Penny 2500/t 1200 1800/n pennySpa": "echos/-1000 -1000/farmer 13 23 2 Penny 9 29 1/swimming farmer/swimming Penny/skippable/showFrame Penny 31/viewport 13 27 true/pause 2000/playSound slosh/move farmer 0 6 3/positionOffset farmer 0 16/pause 700/speak Penny \"There you are... I was worried you didn't get my note.$6\"/playSound slosh/move Penny 1 0 1/pause 1500/speak Penny \"This is where Mom taught me to swim. It’s one of the few happy memories I have of my childhood.$6#$b#@, I asked you here because I wanted to say...$6\"/pause 1000/playSound slosh/move Penny 2 0 1/pause 500/speak Penny \"You’ve been an incredible source of support to me. No matter how difficult things are at home, you’re always there for me.$6#$b#Sometimes as a shoulder to lean on... sometimes just as a reminder that I have value outside of looking after my mother.$6#$b#The more time I spend with you, the more I believe I can take control of my own life.$6#$b#I can have the family I’ve always dreamed of. I can give them the happy home I wish I’d had growing up.$6#$b#So…I know it’s early to be asking this, but...$6\" /faceDirection Penny 3/pause 800/faceDirection Penny 1/speak Penny \"$q -1 null#When that dream comes true... When I have children of my own... @, would you be their godparent?$6#$r -1 0 event_pool4#Of course. I’d be honored.#$r -1 -500 event_pool5#Sorry... I think you should find someone else.\"/fork pennyHeartbroken/pause 1000/showFrame Penny 32/pause 200/playSound slosh/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/eyes 1 -10000/positionOffset Penny 2 0/positionOffset farmer -2 2/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 1200/globalFade/viewport -1000 -1000/pause 2000/stopSwimming farmer/stopSwimming Penny/end warpOut",
+                "38/f Penny 2500/t 1200 1800/n pennySpa": "echos/-1000 -1000/farmer 13 23 2 Penny 9 29 1/swimming farmer/swimming Penny/skippable/showFrame Penny 31/viewport 13 27 true/pause 2000/playSound slosh/move farmer 0 6 3/positionOffset farmer 0 16/pause 700/speak Penny \"คุณอยู่นี่เอง... กำลังห่วงเลยว่าคุณจะ ไม่ได้โน้ตของฉันน่ะค่ะ$6\"/playSound slosh/move Penny 1 0 1/pause 1500/speak Penny \"ที่นี่เป็นที่ที่ คุณแม่สอนฉันว่ายน้ำค่ะ เป็นหนึ่งในความทรงจำ วัยเด็กที่มีความสุข ของฉันน่ะค่ะ$6#$b#@ คะ ฉันขอให้คุณมาที่นี่เพราะว่า ฉันอยากจะบอกว่า...$6\"/pause 1000/playSound slosh/move Penny 2 0 1/pause 500/speak Penny \"คุณเป็นคนช่วยเหลือฉัน อย่างยอดเยี่ยมมาโดยตลอด ไม่ว่าที่บ้านจะมีเรื่องหนักหนาแค่ไหน คุณก็อยู่เคียงข้างฉันตลอด$6#$b#บางครั้งก็เป็นไหล่ให้ซบ... บางครั้งก็เป็นแค่สิ่งเตือนใจ ว่านอกจากดูแลแม่แล้ว ตัวฉันเองยังมีคุณค่าอื่นอยู่$6#$b#ยิ่งฉันใช้เวลากับคุณมากเท่าไหร่ ฉันก็ยิ่งเชื่อว่า ฉันจะสามารถกำหนดทิศทาง ชีวิตของฉันเองได้$6#$b#ฉันสามารถมีครอบครัว แบบที๋ฉันฝันมาตลอดได้ ฉันสามารถให้พวกเขาเติบโต มาในบ้านที่มีความสุข แบบที่ฉันฝันอยากมีได้$6#$b#เพราะงั้น… ฉันรู้ว่ามันค่อนข้างเร็วไปหน่อย ที่จะขอคุณ แต่...$6\" /faceDirection Penny 3/pause 800/faceDirection Penny 1/speak Penny \"$q -1 null#ตอนที่ความฝันของฉันเป็นจริง... ตอนที่ฉันมีลูกของฉันเอง... @ คะ คุณจะเป็นพ่อแม่ทูลหัว ของพวกเขาได้มั้ย?$6#$r -1 0 event_pool4#แน่นอนสิ ฉันจะรู้สึกเป็นเกียรติมากเลย#$r -1 -500 event_pool5#ขอโทษนะ... ฉันคิดว่าเธอควรไปหาคนอื่น\"/fork pennyHeartbroken/pause 1000/showFrame Penny 32/pause 200/playSound slosh/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/eyes 1 -10000/positionOffset Penny 2 0/positionOffset farmer -2 2/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 50/positionOffset Penny 2 0/positionOffset farmer -2 0/pause 1200/globalFade/viewport -1000 -1000/pause 2000/stopSwimming farmer/stopSwimming Penny/end warpOut",
                 "pennyHeartbroken": "move Penny 0 -2 0/faceDirection farmer 0/shake Penny 5000/globalFade/viewport -1000 -1000/stopSwimming farmer/stopSwimming Penny/end warpOut"
             },
             "When":
@@ -365,8 +365,8 @@
             "Target": "Data/Events/FarmHouse",
             "Entries":
             {
-                "4325434/f Penny 3500/O Penny/t 1500 1900/p Penny": "sweet/-1000 -1000/farmer 11 14 3 Penny 8 14 0/animate Penny false true 250 24 25/makeInvisible 5 5 5 1/makeInvisible 8 14 5 1/viewport -100 -100 true unfreeze/move farmer -2 0 3/pause 1000/stopAnimation Penny/pause 20/playSound thudStep/pause 250/faceDirection Penny 1/pause 50/animate Penny true true 100 20/pause 1000/stopAnimation Penny/faceDirection Penny 1/pause 200/speak Penny \"Welcome home, @... How was your day?\"/quickQuestion #It was fine#Not good...#It was fantastic!(break)speak Penny \"Just business as usual, huh?#$b#Well, I've got a zesty new recipe in the oven, so maybe things will get a little more exciting!$h\"(break)emote Penny 28\\speak Penny \"Oh, I'm sorry!$s#$b#Well, you're back now... I'll do my best to make you feel better.\"(break)speak Penny \"That's great! I'm glad you enjoy your work so much.$h\"/speak Penny \"I'm happy you're home.$h\"/pause 500/animate Penny false true 100 35/animate farmer true true 100 101/positionOffset farmer -8 0/positionOffset Penny 8 0/pause 1500/positionOffset Penny -8 0/stopAnimation Penny/showFrame Penny 4/stopAnimation farmer/pause 1000/speak Penny \"Oh, you smell like the outdoors... It's nice!$n\"/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 800/speak Penny \"You know... I really appreciate the hard work you do for us.#$b#So it's important to me that when you come home, the house is nice and cozy, and everything's in order!\"/emote farmer 32/speak Penny \"So I was thinking... I'd like to re-decorate your bedroom with some of my own hand-made decor!#$b#But first, I have to ask you...$11\"/quickQuestion What style do you prefer?#Forest And Moon: Peaceful Blue#Strawberry Home#Pirate Theme#I don't want any changes!(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt0\\speak Penny \"Ah... something soothing. Okay!#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt1\\speak Penny \"Something warm and inviting, huh? That works for me!#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt2\\speak Penny \"Heh... Okay. Whatever you like, {{Lowercase:{{TermofEndearment}}}}.$h#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\"(break)addMailReceived noQuilt\\speak Penny \"Oh! Okay... I won't worry about it, then.$s\"/pause 500/showFrame Penny 4/playSound crystal/jump Penny/pause 500/speak Penny \"Oh! The pop-overs are ready.\"/faceDirection Penny 3/animate Penny false true 150 12 13 14 15/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/stopAnimation Penny/move Penny -1 0 0/faceDirection Penny 0/pause 100/showFrame Penny 29/pause 150/showFrame Penny 30/playSound openChest/pause 1300/showFrame Penny 28/playSound coin/emote farmer 32/move farmer -1 0 3/farmerEat 203/showFrame Penny 4/pause 2000/playSound gulp/emote Penny 32/pause 1000/faceDirection farmer 3/end dialogue Penny \"Make yourself comfortable, hon!$h\"",
-                "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "spring_day_ambient/-1000 -1000/farmer 27 13 0 Penny 26 13 1/fade unfade/makeInvisible 26 13/makeInvisible 20 4/eyes 1 -10/positionOffset farmer 0 8/viewport -100 -100 true unfreeze/pause 1000/emote farmer 24/pause 3000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/speak Penny \"@... Good morning...$11\"/pause 1000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/faceDirection farmer 3/emote Penny 32/pause 500/faceDirection farmer 2/emote farmer 16/jump farmer/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 500/speak Penny \"Notice anything unusually soft? I quilted this custom bedspread by hand.$11\"/eyes -1 2000/startJittering/pause 2000/stopJittering/speak Penny \"So, what do you think?$11\"/quickQuestion #Looks great!#I don't like it.(break)emote Penny 32\\speak Penny \"I'm glad you like it. The house is starting to look really cozy, isn't it?$h\"\\faceDirection Penny 2\\faceDirection farmer 2\\emote farmer 32\\faceDirection farmer 3\\faceDirection Penny 1\\pause 1000\\animate Penny false true 100 35\\animate farmer true true 100 101(break)emote Penny 28\\speak Penny \"Oh.. okay.$s#$b#I put the old furniture in a chest... feel free to change it back...$s\"\\faceDirection Penny 3/pause 3000/fade/viewport -1000 -1000/pause 500/message \"Penny's been working very hard around the house...\"/pause 500/message \"It really feels like home!\"/pause 2000/end",
+                "4325434/f Penny 3500/O Penny/t 1500 1900/p Penny": "sweet/-1000 -1000/farmer 11 14 3 Penny 8 14 0/animate Penny false true 250 24 25/makeInvisible 5 5 5 1/makeInvisible 8 14 5 1/viewport -100 -100 true unfreeze/move farmer -2 0 3/pause 1000/stopAnimation Penny/pause 20/playSound thudStep/pause 250/faceDirection Penny 1/pause 50/animate Penny true true 100 20/pause 1000/stopAnimation Penny/faceDirection Penny 1/pause 200/speak Penny \"ยินดีต้อนรับกลับบ้านค่ะ @... วันนี้เป็นไงบ้างคะ?\"/quickQuestion #ก็ดีนะ#ไม่ดีเลย...#เยี่ยมไปเลยล่ะ!(break)speak Penny \"ก็เป็นงาน เหมือนทุกวันสินะคะ?#$b#แต่นะ วันนี้ฉันมีเมนูแซ่บๆ จานใหม่อยู่ในเตาอบด้วยล่ะค่ะ เพราะงั้นอะไรๆ อาจจะน่าตื่นเต้นมากขึ้น มาบ้างก็ได้ค่ะ!$h\"(break)emote Penny 28\\speak Penny \"ว้าย ฉันขอโทษค่ะ!$s#$b#แต่คุณก็กลับมาแล้วตอนนี้... ฉันจะทำให้เต็มที่ เพื่อให้คุณรู้สึกดีขึ้นนะคะ\"(break)speak Penny \"วิเศาไปเลยค่ะ! ฉันดีใจที่เห็นคุณมีความสุข กับงานขนาดนั้นนะคะ$h\"/speak Penny \"ฉันดีใจที่คุณ กลับถึงบ้านแล้วนะคะ$h\"/pause 500/animate Penny false true 100 35/animate farmer true true 100 101/positionOffset farmer -8 0/positionOffset Penny 8 0/pause 1500/positionOffset Penny -8 0/stopAnimation Penny/showFrame Penny 4/stopAnimation farmer/pause 1000/speak Penny \"อุ้ย คุณมีกลิ่นเหมือน ข้างนอกเลย... ดีจังค่ะ!$n\"/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 800/speak Penny \"รู้มั้ยคะ... ฉันซาบซึ้งจริงๆ ที่คุณทำงานอย่างหนัก เพื่อพวกเรานะคะ#$b#เพราะงั้นมันเลยสำคัญที่เวลา คุณกลับมาบ้าน บ้านจะต้องสวยและสบาย และทุกอย่างต้องเป็นระเบียบ เรียบร้อยค่ะ!\"/emote farmer 32/speak Penny \"ฉันเลยคิดอยู่ว่า... ฉันอยากจะแต่งห้องคุณใหม่ ด้วยของที๋ฉันทำเองน่ะค่ะ!#$b#แต่ก่อนอื่น ฉันต้องถามคุณ...$11\"/quickQuestion คุณชอบสไตล์ไหนคะ?#ดวงจันทราและผืนป่า: สีครามแสนสงบ#เรือนสตอร์เบอรรี่#ธีมโจรสลัด#ฉันไม่อยากเปลี่ยน!(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt0\\speak Penny \"อ้อ... อะไรที่ผ่อนคลายจิตใจสินะคะ โอเคค่ะ!#$b#งั้นแค่ให้เวลาฉัน สักสองสามวันนะคะ#$b#ฉันจะไม่แตะหีบของคุณเลยค่ะ แต่ถ้าคุณย้ายพวกมันออกจาก ห้องนอนได้ก็จะดีมากเลยค่ะ\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt1\\speak Penny \"อะไรที่อบอุ่น และดูเชิญชวนสินะคะ? สบายค่ะ!#$b#งั้นแค่ให้เวลาฉัน สักสองสามวันนะคะ#$b#ฉันจะไม่แตะหีบของคุณเลยค่ะ แต่ถ้าคุณย้ายพวกมันออกจาก ห้องนอนได้ก็จะดีมากเลยค่ะ\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt2\\speak Penny \"เอ๋... โอเคค่ะ อะไรก็ได้ที่คุณชอบ {{Lowercase:{{TermofEndearment}}}}$h#$b#งั้นแค่ให้เวลาฉัน สักสองสามวันนะคะ#$b#ฉันจะไม่แตะหีบของคุณเลยค่ะ แต่ถ้าคุณย้ายพวกมันออกจาก ห้องนอนได้ก็จะดีมากเลยค่ะ\"(break)addMailReceived noQuilt\\speak Penny \"อ้อ! โอเคค่ะ... งั้นฉันจะไม่กังวล เรื่องนั้นแล้วกันนะคะ$s\"/pause 500/showFrame Penny 4/playSound crystal/jump Penny/pause 500/speak Penny \"โอ้ว! งานเปลี่ยนโฉมพร้อมแล้วค่ะ\"/faceDirection Penny 3/animate Penny false true 150 12 13 14 15/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/stopAnimation Penny/move Penny -1 0 0/faceDirection Penny 0/pause 100/showFrame Penny 29/pause 150/showFrame Penny 30/playSound openChest/pause 1300/showFrame Penny 28/playSound coin/emote farmer 32/move farmer -1 0 3/farmerEat 203/showFrame Penny 4/pause 2000/playSound gulp/emote Penny 32/pause 1000/faceDirection farmer 3/end dialogue Penny \"ทำตัวตามสบายนะคะ ตัวเธอ!$h\"",
+                "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "spring_day_ambient/-1000 -1000/farmer 27 13 0 Penny 26 13 1/fade unfade/makeInvisible 26 13/makeInvisible 20 4/eyes 1 -10/positionOffset farmer 0 8/viewport -100 -100 true unfreeze/pause 1000/emote farmer 24/pause 3000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/speak Penny \"@... อรุณสวัสดิ์ค่ะ...$11\"/pause 1000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/faceDirection farmer 3/emote Penny 32/pause 500/faceDirection farmer 2/emote farmer 16/jump farmer/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 500/speak Penny \"สังเกตเห็นอะไรนิ่มๆ มั้ยคะ? ฉันถักผ้าคุลมเตียงผืนนี้ ด้วยมือเองเลยค่ะ$11\"/eyes -1 2000/startJittering/pause 2000/stopJittering/speak Penny \"แล้วคิดว่ายังไงคะ?$11\"/quickQuestion #ดูดีเลย!#ฉันไม่ชอบอ่ะ (break)emote Penny 32\\speak Penny \"ดีใจที่คุณชอบค่ะ บ้านเริ่มดูน่าอยู่มาก เลยใช่มั้ยคะ?$h\"\\faceDirection Penny 2\\faceDirection farmer 2\\emote farmer 32\\faceDirection farmer 3\\faceDirection Penny 1\\pause 1000\\animate Penny false true 100 35\\animate farmer true true 100 101(break)emote Penny 28\\speak Penny \"อ้อ.. โอเคค่ะ$s#$b#ฉันเก็บเฟอร์นิเจอร์เก่า ไว้ในหีบ... เปลี่ยนกลับได้ ตามสบายเลยนะคะ...$s\"\\faceDirection Penny 3/pause 3000/fade/viewport -1000 -1000/pause 500/message \"เพนนีดูแลบ้านอย่างเต็มที่มากมาตลอดเลย...\"/pause 500/message \"รู้สึกเหมือนบ้านจริงๆ ด้วย!\"/pause 2000/end",
             },
             "When":
             {
@@ -379,8 +379,8 @@
             "Target": "Data/Events/FarmHouse",
             "Entries":
             {
-                "4325434/f Penny 3500/O Penny/t 1500 1900/p Penny": "sweet/-1000 -1000/farmer 11 14 3 Penny 8 14 0/animate Penny false true 250 24 25/makeInvisible 5 5 5 1/makeInvisible 8 14 5 1/viewport -100 -100 true unfreeze/move farmer -2 0 3/pause 1000/stopAnimation Penny/pause 20/playSound thudStep/pause 250/faceDirection Penny 1/pause 50/animate Penny true true 100 20/pause 1000/stopAnimation Penny/faceDirection Penny 1/pause 200/speak Penny \"Welcome home, @... How was your day?\"/quickQuestion #It was fine#Not good...#It was fantastic!(break)speak Penny \"Just business as usual, huh?#$b#Well, I've got a zesty new recipe in the oven, so maybe things will get a little more exciting!$h\"(break)emote Penny 28\\speak Penny \"Oh, I'm sorry!$s#$b#Well, you're back now... I'll do my best to make you feel better.\"(break)speak Penny \"That's great! I'm glad you enjoy your work so much.$h\"/speak Penny \"I'm happy you're home.$h\"/pause 500/animate Penny false true 100 35/animate farmer true true 100 101/positionOffset farmer -8 0/positionOffset Penny 8 0/pause 1500/positionOffset Penny -8 0/stopAnimation Penny/showFrame Penny 4/stopAnimation farmer/pause 1000/speak Penny \"Oh, you smell like the outdoors... It's nice!$n\"/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 800/speak Penny \"You know... I really appreciate the hard work you do for us.#$b#So it's important to me that when you come home, the house is nice and cozy, and everything's in order!\"/emote farmer 32/speak Penny \"So I was thinking... I'd like to re-decorate your bedroom with some of my own hand-made decor!#$b#But first, I have to ask you...$11\"/quickQuestion What style do you prefer?#Forest And Moon: Peaceful Blue#Strawberry Home#Pirate Theme#I don't want any changes!(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt0\\speak Penny \"Ah... something soothing. Okay!#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt1\\speak Penny \"Something warm and inviting, huh? That works for me!#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt2\\speak Penny \"Heh... Okay. Whatever you like, {{TermofEndearment}}.$h#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\"(break)addMailReceived noQuilt\\speak Penny \"Oh! Okay... I won't worry about it, then.$s\"/pause 500/showFrame Penny 4/playSound crystal/jump Penny/pause 500/speak Penny \"Oh! The pop-overs are ready.\"/faceDirection Penny 3/animate Penny false true 150 12 13 14 15/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/stopAnimation Penny/move Penny -1 0 0/faceDirection Penny 0/pause 100/showFrame Penny 29/pause 150/showFrame Penny 30/playSound openChest/pause 1300/showFrame Penny 28/playSound coin/emote farmer 32/move farmer -1 0 3/farmerEat 203/showFrame Penny 4/pause 2000/playSound gulp/emote Penny 32/pause 1000/faceDirection farmer 3/end dialogue Penny \"Make yourself comfortable, hon!$h\"",
-                "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "spring_day_ambient/-1000 -1000/farmer 27 13 0 Penny 26 13 1/fade unfade/makeInvisible 26 13/makeInvisible 20 4/eyes 1 -10/positionOffset farmer 0 8/viewport -100 -100 true unfreeze/pause 1000/emote farmer 24/pause 3000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/speak Penny \"@... Good morning...$11\"/pause 1000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/faceDirection farmer 3/emote Penny 32/pause 500/faceDirection farmer 2/emote farmer 16/jump farmer/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 500/speak Penny \"Notice anything unusually soft? I quilted this custom bedspread by hand.$11\"/eyes -1 2000/startJittering/pause 2000/stopJittering/speak Penny \"So, what do you think?$11\"/quickQuestion #Looks great!#I don't like it.(break)emote Penny 32\\speak Penny \"I'm glad you like it. The house is starting to look really cozy, isn't it?$h\"\\faceDirection Penny 2\\faceDirection farmer 2\\emote farmer 32\\faceDirection farmer 3\\faceDirection Penny 1\\pause 1000\\animate Penny false true 100 35\\animate farmer true true 100 101(break)emote Penny 28\\speak Penny \"Oh.. okay.$s#$b#I put the old furniture in a chest... feel free to change it back...$s\"\\faceDirection Penny 3/pause 3000/fade/viewport -1000 -1000/pause 500/message \"Penny's been working very hard around the house...\"/pause 500/message \"It really feels like home!\"/pause 2000/end",
+                "4325434/f Penny 3500/O Penny/t 1500 1900/p Penny": "sweet/-1000 -1000/farmer 11 14 3 Penny 8 14 0/animate Penny false true 250 24 25/makeInvisible 5 5 5 1/makeInvisible 8 14 5 1/viewport -100 -100 true unfreeze/move farmer -2 0 3/pause 1000/stopAnimation Penny/pause 20/playSound thudStep/pause 250/faceDirection Penny 1/pause 50/animate Penny true true 100 20/pause 1000/stopAnimation Penny/faceDirection Penny 1/pause 200/speak Penny \"ยินดีต้อนรับกลับบ้านค่ะ @... วันนี้เป็นไงบ้างคะ?\"/quickQuestion #ก็ดีนะ#ไม่ดีเลย...#เยี่ยมไปเลยล่ะ!(break)speak Penny \"ก็เป็นงาน เหมือนทุกวันสินะคะ?#$b#แต่นะ วันนี้ฉันมีเมนูแซ่บๆ จานใหม่อยู่ในเตาอบด้วยล่ะค่ะ เพราะงั้นอะไรๆ อาจจะน่าตื่นเต้นมากขึ้น มาบ้างก็ได้ค่ะ!$h\"(break)emote Penny 28\\speak Penny \"ว้าย ฉันขอโทษค่ะ!$s#$b#แต่คุณก็กลับมาแล้วตอนนี้... ฉันจะทำให้เต็มที่ เพื่อให้คุณรู้สึกดีขึ้นนะคะ\"(break)speak Penny \"วิเศาไปเลยค่ะ! ฉันดีใจที่เห็นคุณมีความสุข กับงานขนาดนั้นนะคะ$h\"/speak Penny \"ฉันดีใจที่คุณ กลับถึงบ้านแล้วนะคะ$h\"/pause 500/animate Penny false true 100 35/animate farmer true true 100 101/positionOffset farmer -8 0/positionOffset Penny 8 0/pause 1500/positionOffset Penny -8 0/stopAnimation Penny/showFrame Penny 4/stopAnimation farmer/pause 1000/speak Penny \"อุ้ย คุณมีกลิ่นเหมือน ข้างนอกเลย... ดีจังค่ะ!$n\"/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 800/speak Penny \"รู้มั้ยคะ... ฉันซาบซึ้งจริงๆ ที่คุณทำงานอย่างหนัก เพื่อพวกเรานะคะ#$b#เพราะงั้นมันเลยสำคัญที่เวลา คุณกลับมาบ้าน บ้านจะต้องสวยและสบาย และทุกอย่างต้องเป็นระเบียบ เรียบร้อยค่ะ!\"/emote farmer 32/speak Penny \"ฉันเลยคิดอยู่ว่า... ฉันอยากจะแต่งห้องคุณใหม่ ด้วยของที๋ฉันทำเองน่ะค่ะ!#$b#แต่ก่อนอื่น ฉันต้องถามคุณ...$11\"/quickQuestion คุณชอบสไตล์ไหนคะ?#ดวงจันทราและผืนป่า: สีครามแสนสงบ#เรือนสตอร์เบอรรี่#ธีมโจรสลัด#ฉันไม่อยากเปลี่ยน!(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt0\\speak Penny \"อ้อ... อะไรที่ผ่อนคลายจิตใจสินะคะ โอเคค่ะ!#$b#งั้นแค่ให้เวลาฉัน สักสองสามวันนะคะ#$b#ฉันจะไม่แตะหีบของคุณเลยค่ะ แต่ถ้าคุณย้ายพวกมันออกจาก ห้องนอนได้ก็จะดีมากเลยค่ะ\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt1\\speak Penny \"อะไรที่อบอุ่น และดูเชิญชวนสินะคะ? สบายค่ะ!#$b#งั้นแค่ให้เวลาฉัน สักสองสามวันนะคะ#$b#ฉันจะไม่แตะหีบของคุณเลยค่ะ แต่ถ้าคุณย้ายพวกมันออกจาก ห้องนอนได้ก็จะดีมากเลยค่ะ\"(break)addConversationTopic pennyRedecorating 2\\addMailReceived pennyQuilt2\\speak Penny \"เอ๋... โอเคค่ะ อะไรก็ได้ที่คุณชอบ {{TermofEndearment}}$h#$b#งั้นแค่ให้เวลาฉัน สักสองสามวันนะคะ#$b#ฉันจะไม่แตะหีบของคุณเลยค่ะ แต่ถ้าคุณย้ายพวกมันออกจาก ห้องนอนได้ก็จะดีมากเลยค่ะ\"(break)addMailReceived noQuilt\\speak Penny \"อ้อ! โอเคค่ะ... งั้นฉันจะไม่กังวล เรื่องนั้นแล้วกันนะคะ$s\"/pause 500/showFrame Penny 4/playSound crystal/jump Penny/pause 500/speak Penny \"โอ้ว! งานเปลี่ยนโฉมพร้อมแล้วค่ะ\"/faceDirection Penny 3/animate Penny false true 150 12 13 14 15/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/positionOffset Penny -4 0/pause 50/stopAnimation Penny/move Penny -1 0 0/faceDirection Penny 0/pause 100/showFrame Penny 29/pause 150/showFrame Penny 30/playSound openChest/pause 1300/showFrame Penny 28/playSound coin/emote farmer 32/move farmer -1 0 3/farmerEat 203/showFrame Penny 4/pause 2000/playSound gulp/emote Penny 32/pause 1000/faceDirection farmer 3/end dialogue Penny \"ทำตัวตามสบายนะคะ ตัวเธอ!$h\"",
+                "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "spring_day_ambient/-1000 -1000/farmer 27 13 0 Penny 26 13 1/fade unfade/makeInvisible 26 13/makeInvisible 20 4/eyes 1 -10/positionOffset farmer 0 8/viewport -100 -100 true unfreeze/pause 1000/emote farmer 24/pause 3000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/speak Penny \"@... อรุณสวัสดิ์ค่ะ...$11\"/pause 1000/showFrame Penny 21/startJittering/pause 500/stopJittering/showFrame Penny 4/pause 500/faceDirection farmer 3/emote Penny 32/pause 500/faceDirection farmer 2/emote farmer 16/jump farmer/pause 1000/animate Penny false true 150 4 5 6 7/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/pause 100/positionOffset Penny 2 0/stopAnimation Penny/showFrame Penny 21/pause 500/speak Penny \"สังเกตเห็นอะไรนิ่มๆ มั้ยคะ? ฉันถักผ้าคุลมเตียงผืนนี้ ด้วยมือเองเลยค่ะ$11\"/eyes -1 2000/startJittering/pause 2000/stopJittering/speak Penny \"แล้วคิดว่ายังไงคะ?$11\"/quickQuestion #ดูดีเลย!#ฉันไม่ชอบอ่ะ (break)emote Penny 32\\speak Penny \"ดีใจที่คุณชอบค่ะ บ้านเริ่มดูน่าอยู่มาก เลยใช่มั้ยคะ?$h\"\\faceDirection Penny 2\\faceDirection farmer 2\\emote farmer 32\\faceDirection farmer 3\\faceDirection Penny 1\\pause 1000\\animate Penny false true 100 35\\animate farmer true true 100 101(break)emote Penny 28\\speak Penny \"อ้อ.. โอเคค่ะ$s#$b#ฉันเก็บเฟอร์นิเจอร์เก่า ไว้ในหีบ... เปลี่ยนกลับได้ ตามสบายเลยนะคะ...$s\"\\faceDirection Penny 3/pause 3000/fade/viewport -1000 -1000/pause 500/message \"เพนนีดูแลบ้านอย่างเต็มที่มากมาตลอดเลย...\"/pause 500/message \"รู้สึกเหมือนบ้านจริงๆ ด้วย!\"/pause 2000/end",
             },
             "When":
             {
@@ -489,16 +489,16 @@
             "Target": "Characters/Dialogue/Penny",
             "Entries":
             {
-                "Thu10": "When I was younger, I always thought one day I'd marry Sam. We barely even spend time together anymore, though.#$e#I think we're just at different stages of our lives now.$h",
-                "Sat10": "I was thinking today that the romance novels I read as a kid misled me in some ways.$u#$e#They gave the impression that affection... intimacy... mutual commitment beyond a certain point is reserved for romantic relationships.$u#$e#But now I know that isn't true. Even though we don't have those kinds of feelings for each other, I still care about you as deeply as I would if we were dating.#$e#I'm realizing that the difference between romance and friendship isn't one of degree, just form. Do you think so too?",
-                "Sun10": "It's so embarrassing. I keep spacing out in the middle of teaching lessons.#$e#I get caught up thinking about all the stories I want to tell next time I see you. You won't believe what Vincent did the other day... $h",
-                "summer_Wed10": "@! Oh, hi!#$e#It's unusually hot today, isn't it? How about you catch me up on your day to take my mind off it?$h",
-                "fall_Tue10": "I walked by your farm the other evening as I dropped off Jas at her home. I saw you in the distance, and...#$b#...the landscape was beautiful, but my favorite part was how serene you looked. Like you were exactly where you wanted to be.",
-                "fall_Thu10": "Vincent asked yesterday if I was in love with you. I think he's a little jealous.$h#$e#I explained that adults have all different kinds of relationships, and that 'love' and 'in love' aren't always the same thing.#$e#I think he understood. He's bright in certain ways.",
-                "winter_Mon10": "I was reading before bed last night, but I only got through a couple chapters.#$e#I kept thinking, 'I have to tell @ about this part,' and then I'd be picturing how I'd explain it instead of reading the next part!$h",
-                "winter_Tue10": "With the Feast of the Winter Star approaching, I was counting my blessings.#$b#I'm very thankful to have gotten to know you, @. ",
-                "winter_Thu10": "Oh, hi @.#$e#Sorry, I didn't sleep much last night. I was up late reading.$u#$e#Oh, um... Since you ask, it was an anthology themed around platonic partnerships. It just seemed interesting.$h",
-                "winter_Sun10": "Sometime soon, we should go back to my place in the evening and cozy up together with a book.$h#$e#If you can make it, just try to show up before 8. I don't want my mom to come home early and make you feel unwelcome.",
+                "Thu10": "เมื่อก่อนฉันคิดตลอดเลยว่า ฉันคงได้แต่งงานกับแซมสักวัน แต่เดี๋ยวนี้ เราแทบไม่ได้ไปไหนมาไหน ด้วยกันด้วยซ้ำค่ะ#$e#ฉันคิดว่าตอนนี้พวกเราคง อยู่คนละช่วงของชีวิตกันแล้วค่ะ$h",
+                "Sat10": "วันนี้ฉันคิดอยู่ว่า นิยายรักที่ฉันอ่านตอนเด็ก ทำให้ฉันเข้าใจอะไรผิดไปค่ะ$u#$e#หนังสือนั่นทำให้รู้สึกว่าความรัก... ความใกล้ชิด... การทุ่มเทเพื่อกันและกัน เป็นพิเศษ เป็นเรื่องสำหรับความสัมพันธ์ แบบคนรักเท่านั้น$u#$e#แต่ตอนนี้ฉันรู้แล้วค่ะ ว่าไม่จริงเลย ถึงพวกเราจะไม่ได้ รู้สึกต่อกันแบบนั้น ฉันก็ยังคงเป็นห่วงคุณลึกซึ้ง แบบที่ฉันคงเป็นห่วง ถ้าเราเป็นคนรักกัน#$e#ฉันเข้าใจแล้วค่ะว่าความแตกต่าง ของความรักแบบเพื่อน และคนรักไม่ใช่ระดับ แต่เป็นรูปแบบค่ะ คุณคิดเหมือนฉันรึเปล่าคะ",
+                "Sun10": "มันน่าอายมากเลยล่ะค่ะ ฉันเหม่อตลอดเลยเวลาสอน#$e#ฉันมัวแต่คิดถึงเรื่องที่ะจะเล่า ตอนฉันเจอคุณครั้งต่อไปน่ะค่ะ คุณต้องไม่เชื่อแน่ว่าวันก่อน วินเซนท์ทำอะไร... $h",
+                "summer_Wed10": "@! อ้าว สวัสดีค่ะ!#$e#วันนี้ร้อนผิดปกตินะคะว่ามั้ย? คุณเล่าเรื่องวันของคุณ ให้ฉันฟังดีมั้ยคะ ฉันจะได้ไม่นึกถึงอากาศนี่$h",
+                "fall_Tue10": "วันก่อนฉันไปส่งแจสที่บ้าน แล้วผ่านฟาร์มของคุณด้วยค่ะ ฉันเห็นคุณไกลๆ และ...#$b#...ฟาร์มก็สวยมาก แต่ที่ฉันชอบที่สุด คือตรงที่ว่าคุณดูสงบขนาดไหน เหมือนว่าคุณอยู่ในที่ที่ คุณอยากจะอยู่จริงๆ น่ะค่ะ",
+                "fall_Thu10": "เมื่อวานวินเซนท์ถามฉันว่า รักคุณหรือเปล่าค่ะ ฉันว่าเขาดูหวงหน่อยๆ$h#$e#ฉันอธิบายให้เขาฟังว่าผู้ใหญ่น่ะ มีความสัมพันธ์หลายแบบ และ 'รัก' กับ 'แฟน' ก็ไม่ใช่อย่างเดียวกันเสมอไป#$e#ฉันว่าเขาเข้าใจนะ เขาฉลาด ในหลายเรื่องเลยล่ะค่ะ",
+                "winter_Mon10": "เมื่อคืนฉันอ่านหนังสือก่อนนอน แต่อ่านไปได้แค่ไม่กี่บทเองค่ะ#$e#ฉันเอาแต่คิดว่า 'ฉันต้องเล่าตรงนี้ให้ @ ฟัง' เสร็จแล้วก็นึกภาพว่า จะอธิบายยังไงดี แทนที่จะอ่านตอนต่อไปน่ะค่ะ!$h",
+                "winter_Tue10": "พอเทศกาลแห่งดวงดาว ฤดูหนาวใกล้เข้ามา ฉันก็มานั่งนึกถึงเรื่องดีๆ ที่เกิดขึ้นน่ะค่ะ#$b#ฉันรู้สึกขอบคุณมากเลย ที่ได้รู้จักคุณค่ะ @",
+                "winter_Thu10": "อ้าว ดีค่ะ @#$e#โทษทีนะคะ เมื่อคืนฉันนอน ไม่ค่อยหลับน่ะค่ะ อ่านหนังสือดึก$u#$e#อ้อ อืม... ในเมื่อคุณถาม มันเป็นหนังสือรวมเรื่อง เกี่ยวกับความสัมพันธ์แบบ ไม่มีเรื่องเพศเกี่ยวข้องน่ะค่ะ มันน่าสนใจดี$h",
+                "winter_Sun10": "เร็วๆ นี้เราน่าจะ กลับไปที่บ้านฉันตอนเย็นๆ แล้วอ่านหนังสือสบายๆ กันนะคะ$h#$e#ถ้าคุณมาได้ พยายามมาก่อนสองทุ่มนะ ฉันไม่อยากให้แม่กลับบ้านเร็ว แล้วทำให้คุณรู้สึกถูกขับไล่น่ะ",
             },
             "When":
             {
@@ -510,20 +510,20 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "#$c .5#Hi, {{Lowercase:{{TermofEndearment}}}}! I did some shopping this morning and got this for you.[186 180 770 535]#Oh right! I picked this up yesterday, but I forgot about it.[186 180 770 535] I thought you could use one of these.",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{Lowercase:{{TermofEndearment}}}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "#$c .5#How was your day, {{Lowercase:{{TermofEndearment}}}}? I spent my afternoon reading a novel.#I know some people find fulfillment, reading between the lines of a book for a deeper meaning. Me, I just find joy in the story itself.",
-                "Rainy_Night_1": "#$c .5#I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands.#Has my mother been nice to you lately? You and I are family now, so I guess that makes you her family too.",
-                "Rainy_Night_2": "#$c .5#I was just thinking about that night I asked you to be my future children's godparent. To think we ended up as {{RelationshipLabel}}!#Hm, I didn't finish all the grading I'd hoped. Maybe I can wing it first thing in the morning.$s",
-                "Indoor_Day_4": "#$c .5#Was I shy when we first met? It's funny to think about, now that we've come so far.$h#Just wanted to say, you look great this morning. I hope that's a confidence booster!$h",
-                "Indoor_Night_0": "#$c .5#Good evening, {{Lowercase:{{TermofEndearment}}}}. Did you accomplish everything you wanted to today? If not, that's okay. We've got all the time in the world!#When the light's dim, your eyes glimmer like reflected fireflies. It feels like one more way that you're connected to the valley.",
-                "Indoor_Night_1": "#$c .5#Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt.#So this is my happily ever after! Not exactly the traditional kind, but I always liked stories that put a new spin on the classics.",
-                "Indoor_Night_2": "#$c .5#We should always try and remember those less fortunate than us. I'm just very grateful for what we have.#Phew. Did I mention? Over the last week, Vincent's been peppering me with little kid questions about us being {{RelationshipLabel}}.",
-                "Outdoor_0": "I only ever dreamed of living in such a beautiful place, and now it's come true.#$e#$c .5#I realize how much I was missing before you moved into town.#I was so miserable back home.$s",
-                "Outdoor_1": "#$c .5#Isn't this a perfect place to raise children? I would've been so happy growing up on a farm.#I understand that you have to get straight to work, hon. Will you be home early tonight, though?",
-                "Outdoor_2": "#$c .5#Hey. Are you going to be shipping anything unusual today?#Hi, {{Lowercase:{{TermofEndearment}}}}! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
-                "TwoKids_3": "#$c .5#A nice house, two wonderful kids, and a beautiful plot of land. We're so very fortunate.#With the way I grew up, I never really thought I'd amount to much. But seeing our children like this makes me feel so lucky.",
-                "fall_19": "I got to catch up with Maru yesterday. She's just as good a friend as ever.$h",
+                "Rainy_Day_2": "#$c .5#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ [186 180 770 535]#อ๋อใช่! เมื่อวานฉันไปเอานี่มาด้วยค่ะ แต่ลืมไปเลย[186 180 770 535] ฉันคิดว่าคุณคงได้ใช้ค่ะ",
+                "Rainy_Day_3": "อืม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{Lowercase:{{TermofEndearment}}}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "#$c .5#วันนี้เป็นไงบ้างคะ {{Lowercase:{{TermofEndearment}}}}? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ#ฉันรู้ว่าคนบางคนอิ่มเอมกับ การตีความหมายหาอะไรที่ลึกซึ้ง แต่สำหรับฉัน ฉันแค่สนุกไปกับเนื้อเรื่องน่ะค่ะ",
+                "Rainy_Night_1": "#$c .5#ฉันมั่นใจว่าตอนนี้ แม่อยู่ที่ซาลูน... แต่ฉันไม่รู้สึกแย่แล้วค่ะ มันไม่ใช่เรื่องของฉันแล้ว#เดี๋ยวนี้แม่ดีกับคุณมั้ยคะ? คุณกับฉันเป็นครอบครัวกันแล้ว ฉันเดาว่าคุณก็เหมือนเป็น ครอบครัวของแม่ด้วยนะคะ",
+                "Rainy_Night_2": "#$c .5#ฉันกำลังนึกถึงคืนที่ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกในอนาคตของฉัน อยู่น่ะค่ะ ใครจะคิดว่าเราจะลงเอยเป็น {{RelationshipLabel}} กัน!#อ่า ฉันยังตรวจไม่เสร็จ เท่าที่หวังเลยค่ะ บางทีอาจจะปั่นทันพรุ่งนี้เช้า$s",
+                "Indoor_Day_4": "#$c .5#ตอนเจอกันแรกๆ ฉันขี้อายมั้ยคะ? ตอนนี้เรามาไกลกันมากเลย พอคิดดูก็ตลกดีนะคะ$h#แค่อยากบอกว่า คุณดูดีมากเลยค่ะเช้านี้ ฉันหวังว่านั่นจะ ทำให้คุณรู้สึกมั่นใจ มากขึ้นนะคะ!$h",
+                "Indoor_Night_0": "#$c .5#สวัสดียามค่ำค่ะ {{Lowercase:{{TermofEndearment}}}} วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ? ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!#เวลามืดๆ ตาของคุณเปล่งกระกาย เหมือนหิ่งห้อยสะท้อนแสง เลยค่ะ เหมือนเป็นอีกอย่าง ที่คุณเชื่อมโยง กับหมูบ้านเลยนะ",
+                "Indoor_Night_1": "#$c .5#อ่า... พรุ่งนี้ใส่กระโปรง หรือกางเกงดีนะ? โอ้ย นี่ฉันล้อใครเล่นกันเนี่ย... ฉันใส่กระโปรง ตลอดอยู่แล้วนี่นา#แล้วนี่ก็เป็น ตอนจบที่สุขตลอดไป ของฉันสินะคะ! ไม่เชิงจบเป็นแบบ คลาสสิคเท่าไหร่ แต่ฉันก็ชอบเรื่องที่พลิกแพลง จากพล็อตคาสสิคอยู่แล้วล่ะค่ะ",
+                "Indoor_Night_2": "#$c .5#พวกเราควรนึกถึง คนที่เขาไม่ได้โชคดีเท่าเรา อยู่เสมอนะคะ ฉันแค่รู้สึกขอบคุณ กับทุกอย่างที่เรามีน่ะค่ะ#เฮ้อ ฉันเล่าหรือยังคะ? ตลอดสัปดาห์ที่แล้ว วินเซนท์รัวคำถามแบบเด็กๆ ใส่ฉันไม่หยุดเลย เรื่องพวกเราเป็น {{RelationshipLabel}} กันน่ะ",
+                "Outdoor_0": "เมื่อก่อนฉันได้แต่ฝัน ว่าจะได้อาศัยอยู่ในที่สวยๆ แล้วตอนนี้ฝันฉันก็เป็นจริงแล้ว#$e#$c .5#ฉันเพิ่งรู้ว่าพลาดอะไรไป มากแค่ไหน ก่อนที่คุณจะย้ายมาที่เมืองนี้น่ะ#เมื่อก่อนฉันมัวแต่ ทุกข์ใจอยู่ที่บ้าน$s",
+                "Outdoor_1": "#$c .5#ที่นี่มันเพอร์เฟคเลย ที่จะเลี้ยงเด็กไม่ใช่เหรอคะ ถ้าได้โตมาในฟาร์ม ฉันคงมีความสุขมาก#ฉันรู้ค่ะว่าคุณต้องตรงไป ทำงานเลย แต่คืนนี้ตัวเธอ จะกลับบ้านเร็วมั้ยคะ?",
+                "Outdoor_2": "#$c .5#ดีค่ะ วันนี้จะส่งอะไรพิเศษ ขายหรือเปล่า?#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ โทษทีนะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
+                "TwoKids_3": "#$c .5#บ้านสวยๆ ลูกที่น่ารักสองคน และที่ดินงามๆ พวกเราโชคดีมากเลยค่ะ#โตมาแบบฉันเลยไม่เคยคาดหวัง ว่าจะได้เจออะไรดีๆ แต่ได้เห็นลูกๆ ของเราแบบนี้ ทำให้ฉันรู้สึกว่า เป็นคนที่โชคดีมากเลยล่ะค่ะ",
+                "fall_19": "เมื่อวานได้คุยกับมารุด้วย เธอยังเป็นเพื่อนที่ดี เหมือนเดิมเลยค่ะ$h",
 
             },
             "When":
@@ -538,20 +538,20 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Rainy_Day_2": "#$c .5#Hi, {{TermofEndearment}}! I did some shopping this morning and got this for you.[186 180 770 535]#Oh right! I picked this up yesterday, but I forgot about it.[186 180 770 535] I thought you could use one of these.",
-                "Rainy_Day_3": "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, {{TermofEndearment}}?#$e#What was it called... 'Chili de @'?",
-                "Rainy_Night_0": "#$c .5#How was your day, {{TermofEndearment}}? I spent my afternoon reading a novel.#I know some people find fulfillment, reading between the lines of a book for a deeper meaning. Me, I just find joy in the story itself.",
-                "Rainy_Night_1": "#$c .5#I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands.#Has my mother been nice to you lately? You and I are family now, so I guess that makes you her family too.",
-                "Rainy_Night_2": "#$c .5#I was just thinking about that night I asked you to be a godparent to my future children. To think we ended up as {{RelationshipLabel}}!#Hm, I didn't finish all the grading I'd hoped. Maybe I can wing it first thing in the morning.$s",
-                "Indoor_Day_4": "#$c .5#Was I shy when we first met? It's funny to think about, now that we've come so far.$h#Just wanted to say, you look great this morning. I hope that's a confidence booster!$h",
-                "Indoor_Night_0": "#$c .5#Good evening, {{TermofEndearment}}. Did you accomplish everything you wanted to today? If not, that's okay. We've got all the time in the world!#When the light's dim, your eyes glimmer like reflected fireflies. It feels like one more way that you're connected to the valley.",
-                "Indoor_Night_1": "#$c .5#Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt.#So this is my happily ever after! Not exactly the traditional kind, but I always liked stories that put a new spin on the classics.",
-                "Indoor_Night_2": "#$c .5#We should always try and remember those less fortunate than us. I'm just very grateful for what we have.#Phew. Did I mention? Over the last week, Vincent's been peppering me with little kid questions about us being {{RelationshipLabel}}.",
-                "Outdoor_0": "I only ever dreamed of living in such a beautiful place, and now it's come true.#$e#$c .5#I realize how much I was missing before you moved into town.#I was so miserable back home.$s",
-                "Outdoor_1": "#$c .5#Isn't this a perfect place to raise children? I would've been so happy growing up on a farm.#I understand that you have to get straight to work, hon. Will you be home early tonight, though?",
-                "Outdoor_2": "#$c .5#Hey. Are you going to be shipping anything unusual today?#Hi, {{TermofEndearment}}! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
-                "TwoKids_3": "#$c .5#A nice house, two wonderful kids, and a beautiful plot of land. We're so very fortunate.#With the way I grew up, I never really thought I'd amount to much. But seeing our children like this makes me feel so lucky.",
-                "fall_19": "I got to catch up with Maru yesterday. She's just as good a friend as ever.$h",
+                "Rainy_Day_2": "#$c .5#ดีค่ะ {{TermofEndearment}}! เมื่อเช้าฉันไปซื้อของ เลยซื้อนี่มาให้ด้วยค่ะ [186 180 770 535]#อ๋อใช่! เมื่อวานฉันไปเอานี่มาด้วยค่ะ แต่ลืมไปเลย[186 180 770 535] ฉันคิดว่าคุณคงได้ใช้ค่ะ",
+                "Rainy_Day_3": "อืม... บางทีฉันควรจะลองเมนูใหม่ดู คุณชอบเมนูที่แล้ว ที่ฉันทำให้สินะคะ {{TermofEndearment}}?#$e#ชื่ออะไรน้า... 'ความแซ่บแห่ง @' ใช่มั้ย?",
+                "Rainy_Night_0": "#$c .5#วันนี้เป็นไงบ้างคะ {{TermofEndearment}}? ฉันใช้เวลาตอนบ่าย อ่านนิยายแหละค่ะ#ฉันรู้ว่าคนบางคนอิ่มเอมกับ การตีความหมายหาอะไรที่ลึกซึ้ง แต่สำหรับฉัน ฉันแค่สนุกไปกับเนื้อเรื่องน่ะค่ะ",
+                "Rainy_Night_1": "#$c .5#ฉันมั่นใจว่าตอนนี้ แม่อยู่ที่ซาลูน... แต่ฉันไม่รู้สึกแย่แล้วค่ะ มันไม่ใช่เรื่องของฉันแล้ว#เดี๋ยวนี้แม่ดีกับคุณมั้ยคะ? คุณกับฉันเป็นครอบครัวกันแล้ว ฉันเดาว่าคุณก็เหมือนเป็น ครอบครัวของแม่ด้วยนะคะ",
+                "Rainy_Night_2": "#$c .5#ฉันกำลังนึกถึงคืนที่ฉัน ขอให้คุณเป็นพ่อแม่ทูนหัว ของลูกในอนาคตของฉัน อยู่น่ะค่ะ To think we ended up as {{RelationshipLabel}}!#อ่า ฉันยังตรวจไม่เสร็จ เท่าที่หวังเลยค่ะ บางทีอาจจะปั่นทันพรุ่งนี้เช้า$s",
+                "Indoor_Day_4": "#$c .5#ตอนเจอกันแรกๆ ฉันขี้อายมั้ยคะ? ตอนนี้เรามาไกลกันมากเลย พอคิดดูก็ตลกดีนะคะ$h#แค่อยากบอกว่า คุณดูดีมากเลยค่ะเช้านี้ ฉันหวังว่านั่นจะ ทำให้คุณรู้สึกมั่นใจ มากขึ้นนะคะ!$h",
+                "Indoor_Night_0": "#$c .5#สวัสดียามค่ำค่ะ {{TermofEndearment}}วันนี้ทำทุกอย่าง ได้ตามเป้ามั้ยคะ? ถึงจะไม่ได้ ก็ไม่เป็นไรหรอกค่ะ พวกเรามีเวลาอีกเยอะแยะค่ะ!#เวลามืดๆ ตาของคุณเปล่งกระกาย เหมือนหิ่งห้อย สะท้อนแสงเลยค่ะ เหมือนเป็นอีกอย่าง ที่คุณเชื่อมโยง กับหมูบ้านเลยนะ",
+                "Indoor_Night_1": "#$c .5#อ่า... พรุ่งนี้ใส่กระโปรง หรือกางเกงดีนะ? โอ้ย นี่ฉันล้อใครเล่นกันเนี่ย... ฉันใส่กระโปรง ตลอดอยู่แล้วนี่นา#แล้วนี่ก็เป็น ตอนจบที่สุขตลอดไป ของฉันสินะคะ! ไม่เชิงจบเป็นแบบ คลาสสิคเท่าไหร่ แต่ฉันก็ชอบเรื่องที่พลิกแพลง จากพล็อตคาสสิคอยู่แล้วล่ะค่ะ",
+                "Indoor_Night_2": "#$c .5#พวกเราควรนึกถึง คนที่เขาไม่ได้โชคดีเท่าเรา อยู่เสมอนะคะ ฉันแค่รู้สึกขอบคุณ กับทุกอย่างที่เรามีน่ะค่ะ#เฮ้อ ฉันเล่าหรือยังคะ? ตลอดสัปดาห์ที่แล้ว วินเซนท์รัวคำถามแบบเด็กๆ ใส่ฉันไม่หยุดเลย เรื่องพวกเราเป็น {{RelationshipLabel}} กันน่ะ",
+                "Outdoor_0": "มื่อก่อนฉันได้แต่ฝัน ว่าจะได้อาศัยอยู่ในที่สวยๆ แล้วตอนนี้ฝันฉันก็เป็นจริงแล้ว#$e#$c .5#ฉันเพิ่งรู้ว่าพลาดอะไรไป มากแค่ไหน ก่อนที่คุณจะย้ายมาที่เมืองนี้น่ะ#เมื่อก่อนฉันมัวแต่ ทุกข์ใจอยู่ที่บ้าน$s",
+                "Outdoor_1": "#$c .5#ที่นี่มันเพอร์เฟคเลย ที่จะเลี้ยงเด็กไม่ใช่เหรอคะ ถ้าได้โตมาในฟาร์ม ฉันคงมีความสุขมาก#ฉันรู้ค่ะว่าคุณต้องตรงไป ทำงานเลย แต่คืนนี้ตัวเธอ จะกลับบ้านเร็วมั้ยคะ?",
+                "Outdoor_2": "#$c .5#ดีค่ะ วันนี้จะส่งอะไรพิเศษ ขายหรือเปล่า?#ดีค่ะ {{TermofEndearment}}! ถ้าฉันรู้เรื่องการทำฟาร์ม มากกว่านี้ ฉันคงช่วยคุณทำงาน ได้มากขึ้นกว่านี้ค่ะ โทษทีนะ!#$e#ฉันจะคิดถึงคุณค่ะ$h",
+                "TwoKids_3": "#$c .5#บ้านสวยๆ ลูกที่น่ารักสองคน และที่ดินงามๆ พวกเราโชคดีมากเลยค่ะ#โตมาแบบฉันเลยไม่เคยคาดหวัง ว่าจะได้เจออะไรดีๆ แต่ได้เห็นลูกๆ ของเราแบบนี้ ทำให้ฉันรู้สึกว่า เป็นคนที่โชคดีมากเลยล่ะค่ะ",
+                "fall_19": "เมื่อวานได้คุยกับมารุด้วย เธอยังเป็นเพื่อนที่ดี เหมือนเดิมเลยค่ะ$h",
 
             },
             "When":
@@ -565,7 +565,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "#$c .5#Ready to tuck in? I'm pretty tired.#Hi, @! I can finish this chapter later if you wanted to tell me about your day.",
+                "Indoor_Night_4": "#$c .5#พร้อมเข้านอนหรือยังคะ? ฉันรู้สึกเพลียๆ น่ะ#ไงคะ @! ไว้ฉันค่อย อ่านบทนี้ต่อทีหลังก็ได้ ถ้าคุณอยากเล่าเรื่อง วันนี้ให้ฉันฟังน่ะ",
             },
             "When":
             {
@@ -578,7 +578,7 @@
             "Target": "Characters/Dialogue/MarriageDialoguePenny",
             "Entries":
             {
-                "Indoor_Night_4": "#$c .5#Want to spend some time together? I made the bed and everything...$11#Hee hee. I can, um, finish this chapter later if you wanted to head to bed.$l",
+                "Indoor_Night_4": "#$c .5#อยากใช้เวลาด้วยกัน หน่อยมั้ยคะ? ฉันจัดเตียงแล้วก็ทุกอย่างแล้ว ...$11#อิอิ ไว้ฉันค่อย เอ่อ อ่านบทนี้ต่อทีหลังก็ได้ ถ้าคุณอยากไปนอนแล้ว$l",
             },
             "When":
             {
@@ -591,7 +591,7 @@
             "Target": "Characters/Dialogue/Sam",
             "Entries":
             {
-                "winter_Tue8_inlaw_Penny": "I'm glad things worked out for you and Penny! I always thought she deserved a friend like you.$h",
+                "winter_Tue8_inlaw_Penny": "ฉันดีใจนะที่ระหว่าง เธอกับแพนนีไปได้ดีน่ะ! คิดมาตลอดเลยว่าเพนนี ต้องมีเพื่อนอย่างเธอ$h",
             },
             "When":
             {
@@ -603,7 +603,7 @@
             "Target": "Characters/Dialogue/Vincent",
             "Entries":
             {
-                "Tue8_inlaw_Penny": "It's so cool how you're {{RelationshipLabel}} with my teacher.#$e#I never thought that would have happened!",
+                "Tue8_inlaw_Penny": "เจ๋งมากเลยที่คุณเป็น {{RelationshipLabel}} กับครูผม#$e#ไม่นึกเลยว่าจะเป็นงี้ได้!",
             },
             "When":
             {
@@ -615,7 +615,7 @@
             "Target": "Characters/Dialogue/Maru",
             "Entries":
             {
-                "Tue6_inlaw_Penny": "Penny used to talk about you all the time.#$b#She still does! You two really have a special connection.$l",
+                "Tue6_inlaw_Penny": "เมื่อก่อนเพนนีพูด ถึงเธอตลอดเลย#$b#ตอนนี้ก็ยังพูดนะ! เธอสองคนนี่ มีสายสัมพันธ์พิเศษจริงๆ$l",
             },
             "When":
             {
@@ -629,7 +629,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"Easy now, hon... Don't push yourself too hard.\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"Are you alright? I hope you're not in too much pain...$2#$b#You'll never believe this, but I was just reading when suddenly, I got a terrible feeling that you were in trouble.#$b#I had to do something about it, even if I wasn't sure why I felt that way.\"/pause 1000/speak Marlon \"Penny came to get me as soon as possible. I ventured into the mines to find you as requested.#$b#She was quite worried about you. You're blessed to have ended up sharing your life with someone so compassionate.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"Oh, thank you.$4#$b#I was just standing by my promise to always look out for @. I don't think it's all that admirable...\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I observed. You did well to fetch me.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"Let's leave as well, @. You've had a long day already. I can cook you this new recipe I've been meaning to try, if you like!#$b#Or... Maybe I'll leave the experimental cooking for another day. I think I just want to spend some time with you instead.$3#$b#Though if you get hungry... I can always whip up some more 'Chili de @' for you in no time!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hi, {{Lowercase:{{TermofEndearment}}}}. I'm glad you made it home safely. I know that a minor incident like this can't take you down, but I still can't help but worry a little.$1$c 0.7#You look like you've almost shaken it off already, though. That's a relief!$1#I know you might not have much appetite after that, but I still made you a snack. It's important that you replenish your strength.[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}} ตื่นสิคะ!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"ค่อยๆ นะตัวเธอ... อย่าฝืนตัวเองมากไปล่ะ\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"โอเคมั้ย? คุณไม่ได้เจ็บไปใช่มั้ย...$2#$b#คุณต้องไม่เชื่อแน่ค่ะ แต่ตอนฉันอ่านหนังสืออยู่ อยู่ดีๆ ก็รู้สึกว่าคุณ อยู่ในอันตราย#$b#ถึงจะไม่รู้ว่าทำไมฉันถึงรู้สึกแบบนั้น แต่ฉันก็ต้องทำอะไรสักอย่าง\"/pause 1000/speak Marlon \"เพนนีมาตามข้าทันที ข้าเลยเข้ามาตาม หาเจ้าตามที่นางขอ#$b#นางเป็นห่วงเจ้าน่าดู เจ้าโชคดีมากที่ได้ ใช้ชีวิตกับคนที่ ใส่ใจขนาดนี้\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"แหม ขอบคุณค่ะ$4#$b#ฉันแค่รักษาสัญญา ที่จะคอยดูแล @ เท่านั้นเองค่ะ ไม่น่าชื่นชม ขนาดนั้นหรอกค่ะ...\"/pause 1000/speak Marlon \"นิสัยข้าเป็นคนพูดตรงๆ ข้าแค่พูด ตามความจริงที่เห็น ดีแล้วที่เจ้ามาตามข้า\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"ยังไงก็ตาม รีบไปตอนนี้จะดีที่สุด @ ต้องการพักผ่อน และพักฟื้น เจ้าสองคนไม่ควรโอ้เอ้นะ\"/pause 500/textAboveHead Marlon \"ลาก่อน\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"พวกเราก็ไปกันเถอะ @ วันนี้เหนื่อยมามากแล้ว ฉันทำอาหารจานที่ ฉันว่าจะลองให้คุณได้นะ ถ้าคุณอยากกิน!#$b#หรือว่า... ไว้ลองทำวันหลังก็ได้ค่ะ วันนี้ฉันแค่อยากใช้เวลา อยู่กับคุณแทน$3#$b#แต่ถ้าคุณหิว... ฉันก็อุ่น 'ความแซ่บแห่ง @' ให้คุณได้ตลอดนะ ใช้เวลาไม่นานหรอกค่ะ!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"ไงคะ {{Lowercase:{{TermofEndearment}}}} ดีใจที่กลับบ้าน ได้อย่างปลอดภัยนะคะ ฉันรู้ว่าอุบัติเหตุเล็กๆ น้อยๆ แบบนี้ทำอะไรคุณไม่ได้หรอก แต่ก็อดแอบเป็นห่วงไม่ได้น่ะ$1$c 0.7#คุณดูเหมือนใกล้จะ หายแล้วแหะ ค่อยยังชั่วหน่อย!$1#ฉันรู้ว่าคุณอาจจะ ไม่ค่อยอยากกิน แต่ฉันทำขนมมาให้ค่ะ การฟื้นพลังกาย สำคัญนะคะ[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Penny",
@@ -643,7 +643,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"Easy now, hon... Don't push yourself too hard.\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"Are you alright? I hope you're not in too much pain...$2#$b#You'll never believe this, but I was just reading when suddenly, I got a terrible feeling that you were in trouble.#$b#I had to do something about it, even if I wasn't sure why I felt that way.\"/pause 1000/speak Marlon \"Penny came to get me as soon as possible. I ventured into the mines to find you as requested.#$b#She was quite worried about you. You're blessed to have ended up sharing your life with someone so compassionate.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"Oh, thank you.$4#$b#I was just standing by my promise to always look out for @. I don't think it's all that admirable...\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I observed. You did well to fetch me.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"Let's leave as well, @. You've had a long day already. I can cook you this new recipe I've been meaning to try, if you like!#$b#Or... Maybe I'll leave the experimental cooking for another day. I think I just want to spend some time with you instead.$3#$b#Though if you get hungry... I can always whip up some more 'Chili de @' for you in no time!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hi, {{TermofEndearment}}. I'm glad you made it home safely. I know that a minor incident like this can't take you down, but I still can't help but worry a little.$1$c 0.7#You look like you've almost shaken it off already, though. That's a relief!$1#I know you might not have much appetite after that, but I still made you a snack. It's important that you replenish your strength.[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}} ตื่นสิคะ!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"ค่อยๆ นะตัวเธอ... อย่าฝืนตัวเองมากไปล่ะ\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"โอเคมั้ย? ไม่ได้บาดเจ็บมากไปใช่มั้ยคะ ...$2#$b#คุณต้องไม่เชื่อแน่ค่ะ แต่ตอนฉันอ่านหนังสืออยู่ อยู่ดีๆ ก็รู้สึกว่าคุณ อยู่ในอันตราย#$b#ถึงจะไม่รู้ว่าทำไมฉันถึงรู้สึกแบบนั้น แต่ฉันก็ต้องทำอะไรสักอย่าง\"/pause 1000/speak Marlon \"เพนนีมาตามข้าทันที ข้าเลยเข้ามาตาม หาเจ้าตามที่นางขอ#$b#นางเป็นห่วงเจ้าน่าดู เจ้าโชคดีมากที่ได้ ใช้ชีวิตกับคนที่ ใส่ใจขนาดนี้\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"แหม ขอบคุณค่ะ$4#$b#ฉันแค่รักษาสัญญา ที่จะคอยดูแล @ เท่านั้นเองค่ะ ไม่น่าชื่นชม ขนาดนั้นหรอกค่ะ...\"/pause 1000/speak Marlon \"นิสัยข้าเป็นคนพูดตรงๆ ข้าแค่พูด ตามความจริงที่เห็น ดีแล้วที่เจ้ามาตามข้า\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"ยังไงก็ตาม รีบไปตอนนี้จะดีที่สุด @ ต้องการพักผ่อน และพักฟื้น เจ้าสองคนไม่ควรโอ้เอ้นะ\"/pause 500/textAboveHead Marlon \"ลาก่อน\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"พวกเราก็ไปกันเถอะค่ะ @ วันนี้คุณเหนื่อยมากแล้ว ฉันทำอาหารจานที่ ฉันว่าจะลองให้คุณได้นะ ถ้าคุณอยากกิน!#$b#หรือว่า... ไว้ลองทำวันหลังก็ได้ค่ะ ฉันคิดว่าฉันแค่อยาก ใช้เวลากับคุณแทนน่ะ$3#$b#แต่ถ้าคุณหิว... ฉันก็อุ่น 'ความแซ่บแห่ง @' ให้คุณได้ตลอดนะ ใช้เวลาไม่นานหรอกค่ะ!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"ไงคะ {{TermofEndearment}} ดีใจที่กลับบ้าน โดยปลอดภัยนะคะ ฉันรู้ว่าอุบัติเหตุเล็กๆ น้อยๆ แบบนี้ทำอะไรคุณ ไม่ได้หรอก แต่ฉันก็อดแอบเป็นห่วงไม่ได้$1$c 0.7#คุณดูเหมือนใกล้จะ หายแล้วแหะ ค่อยยังชั่วหน่อย!$1#ฉันรู้ว่าคุณอาจจะ ไม่ค่อยอยากกิน แต่ฉันทำขนมมาให้ค่ะ การฟื้นพลังกาย สำคัญนะคะ[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Penny",
@@ -656,7 +656,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"{{TermofEndearment}}, I'm so relieved you're okay!$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"I was so scared when I heard you'd gotten hurt. I kept imagining a life without you, and I... I couldn't.$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"You know, @... On some days, life with you seems like a dream. I catch myself thinking that a friendship like ours is too good to be true.$2#$b#It would be my worst nightmare to lose you. So please, just be a little more careful. Let me dream a little longer.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Welcome home, {{Lowercase:{{TermofEndearment}}}}. I came ahead of you to get all the household chores out of the way. Don't worry about anything but your rest, okay?#$c 0.7#To be frank, I'm still a little shaken, but... it's reassuring to have you here with me, in our home. I'm so glad you're alright.$2#I even cooked for you. Nothing too experimental, I promise. It should help you get your strength back! [237 241 203 204 220 244]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ค่อยๆ ครับ... ช้าๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดีครับ @ ผมดีใจที่คุณฟื้นเสียที#$b#มีคนพาคุณกลับมาที่นี่ ไม่ได้สติแล้วก็เจ็บหนัก ผมเลยต้องผ่าตัดคุณ แบบฉุกเฉินน่ะ!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"{{TermofEndearment}} คะ โล่งใจไปทีที่คุณโอเค!$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"ฉันกลัวมากเลย ตอนได้ยินว่าคุณบาดเจ็บ ฉันนึกถึงชีวิตที่ไม่มีคุณ และฉัน... ฉันก็นึกไม่ออก$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"อาการคุณดีขึ้นมากแล้ว @ แต่คราวหน้าระวังตัว มากกว่านี้ด้วยนะครับ$2\"/pause 500/speak Harvey \"ผมจะให้คุณสองคนได้คุยกัน\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"รู้มั้ยคะ @... บางวัน การได้อยู่กับคุณ ก็เหมือนความฝันเลย ฉันพบว่าตัวเอง คิดว่ามิตรภาพแบบ พวกเราดีเกินไป ที่จะเป็นเรื่องจริง$2#$b#การต้องเสียคุณ ต้องเป็นฝันร้ายที่สุด ของฉันแน่ค่ะ เพราะงั้นได้โปรด ระวังตัวมากกว่านี้นะคะ ให้ฉันได้ฝันต่ออีกสักหน่อย$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"ยินดีต้อนรับกลับบ้านค่ะ {{Lowercase:{{TermofEndearment}}}} ฉันกลับมาก่อน เพื่อจัดการงานบ้านทั้งหลาย ไม่ต้องคิดมากอะไร นอกจากเรื่องพักผ่อนนะคะ ตกลงมั้ย?#$c 0.7#ถ้าจะพูดตามตรง ฉันยังตกใจอยู่เลยค่ะ แต่... มีคุณอยู่ข้างๆ ที่บ้านของเรา ก็ทำให้สบายใจขึ้น ฉันดีใจมากเลยที่คุณ ปลอดภัยดี$2#ฉันทำอาหารไว้ให้ ด้วยนะคะ สัญญาว่าไม่ค่อย แปลกเท่าไหร่  น่าจะช่วยให้คุณ มีแรงเหมือนเดิมค่ะ! [237 241 203 204 220 244]\"",  
             },
             "When": {
 		        "Spouse": "Penny",
@@ -672,7 +672,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"{{TermofEndearment}}, I'm so relieved you're okay!$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"I was so scared when I heard you'd gotten hurt. I kept imagining a life without you, and I... I couldn't.$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"You know, @... On some days, life with you seems like a dream. I catch myself thinking that a friendship like ours is too good to be true.$2#$b#It would be my worst nightmare to lose you. So please, just be a little more careful. Let me dream a little longer.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Welcome home, {{Lowercase:{{TermofEndearment}}}}. I came ahead of you to get all the household chores out of the way. Don't worry about anything but your rest, okay?#$c 0.7#To be frank, I'm still a little shaken, but... it's reassuring to have you here with me, in our home. I'm so glad you're alright.$2#I even cooked for you. Nothing too experimental, I promise. It should help you get your strength back! [237 241 203 204 220 244]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ค่อยๆ ครับ... ช้าๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดีครับ @ ผมดีใจที่คุณฟื้นเสียที#$b#มีคนพาคุณกลับมาที่นี่ ไม่ได้สติแล้วก็เจ็บหนัก ผมเลยต้องผ่าตัดคุณ แบบฉุกเฉินน่ะ!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"{{TermofEndearment}} คะ ฉันดีใจจัง ที่คุณไม่เป็นไร!$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"ฉันกลัวมากเลย ตอนได้ยินว่าคุณบาดเจ็บ ฉันนึกถึงชีวิตที่ไม่มีคุณ แล้วฉัน... ฉันก็นึกไม่ออก$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"อาการคุณดีขึ้นมากแล้ว @ แต่คราวหน้าระวังตัว มากกว่านี้ด้วยนะครับ$2\"/pause 500/speak Harvey \"ผมจะให้คุณสองคนได้คุยกัน\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"คุณรู้มั้ยคะ... บางวัน การได้อยู่กับคุณ ก็เหมือนความฝันเลย ฉันพบว่าตัวเอง คิดว่ามิตรภาพแบบ พวกเราดีเกินไป ที่จะเป็นเรื่องจริง$2#$b#การต้องเสียคุณ ต้องเป็นฝันร้ายที่สุด ของฉันแน่ค่ะ เพราะงั้นได้โปรด ระวังตัวมากกว่านี้นะคะ ให้ฉันได้ฝันต่อ อีกสักหน่อยเถอะค่ะ$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"ยินดีต้อนรับกลับบ้านค่ะ {{Lowercase:{{TermofEndearment}}}} ฉันล่วงหน้ามา จัดการงานบ้านก่อนแล้ว เพราะงั้นไม่ต้องคิดมาก เรื่องอะไร นอกจากพักผ่อนนะคะ ตกลงมั้ย?#$c 0.7#ถ้าจะพูดตามตรง ฉันยังตกใจอยู่เลยค่ะ แต่... ได้มีคุณอยู่ข้างฉัน ที่บ้านของเรา ก็โล่งใจขึ้นมาหน่อย ฉันดีใจนะคะที่คุณ ปลอดภัยดี$2#ฉันทำอาหารไว้ให้ ด้วยนะคะ สัญญาว่าไม่ค่อย แปลกเท่าไหร่ค่ะ น่าจะช่วยให้คุณ มีแรงเหมือนเดิมค่ะ! [237 241 203 204 220 244]\"",  
             },
             "When": {
 		        "Spouse": "Penny",
@@ -687,7 +687,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 Penny 22 8 2/skippable/pause 1500/showFrame 5/message \" ...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/faceDirection farmer 1/emote farmer 16/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/emote Harvey 40/pause 500/faceDirection Harvey 0/faceDirection Harvey 3/pause 500/speak Harvey \"You... have a visitor, by the way. They've been here since you went into surgery, and they were just waiting to talk to you.#$b#Just as it's their right to visit, though, it's also your right to refuse visitors. I'm a button-push away, if you need me.\"/move Harvey 1 0 1/move Harvey 0 -3 0/pause 1000/speak Harvey \"@ is ready to see you.#$b#It's not my place to get involved in private matters, but all I ask is that you remember that @ needs rest.\"/pause 500/speak Penny \"Thank you for your kindness, Dr. Harvey. Pelican Town is lucky to have you. And... @ was lucky to have you.$3\"/pause 500/textAboveHead Harvey \"Alright. Take care.\"/move Harvey -7 0 0 true/move Harvey 0 -4 0/warp Harvey -100 -100/move Penny 0 4 3/emote farmer 16/faceDirection Penny 3/pause 1000/speak Penny \"Hi there, @. I'm sorry for coming in, I just... I just wanted to be sure that you'd be okay before I left.$3#$b#Just because we're not {{RelationshipLabel}} anymore, it doesn't mean I wouldn't care about what happens to you.$2#$b#As relieved as I am, though... Seeing you again hurts more than I thought it would. I should go.$2\"/emote farmer 16/pause 1000/speak Penny \"Truth is, I just didn't want you to wake up after going through something so difficult all by yourself.$2#$b#No one should have to feel abandoned after coming so close to losing their life.$2#$b#That being said, I should think of myself, too. Being here hurts too much, so... I'll leave you to it. Be well, @. Goodbye.$2\"/pause 500/move Penny 0 -4 0/move Penny -8 0 0/move Penny 0 -3 0/warp Penny -100 -100/emote farmer 28/hospitaldeath/end dialogue Penny \"You're strong enough to have moved on from our friendship, but I'm not. Seeing you hurt like that still hurts me, too.$2#$b#...I'd rather not talk to you more than I already have, @. Please just leave me alone.$2\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 Penny 22 8 2/skippable/pause 1500/showFrame 5/message \" ...{0}?\"/pause 1000/message \"ค่อยๆ ครับ... ช้าๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดีครับ @ ผมดีใจที่คุณฟื้นเสียที#$b#มีคนพาคุณกลับมาที่นี่ ไม่ได้สติแล้วก็เจ็บหนัก ผมเลยต้องผ่าตัดคุณ แบบฉุกเฉินน่ะ!\"/faceDirection farmer 1/emote farmer 16/pause 500/speak Harvey \"อาการคุณดีขึ้นมากแล้ว @ แต่คราวหน้าระวังตัว มากกว่านี้ด้วยนะครับ$2\"/pause 500/emote Harvey 40/pause 500/faceDirection Harvey 0/faceDirection Harvey 3/pause 500/speak Harvey \"คุณ... มีคนมาเยี่ยมน่ะ เธอมาตั้งแต่คุณ เข้าผ่าตัด และก็อยู่รอคุยกับคุณ#$b#แต่เหมือนกับ ที่เธอมีสิทธิ์เยี่ยม คุณก็มีสิทธิ์ ไม่ให้เข้าเยี่ยมนะครับ ถ้าต้องการก็กดปุ่ม เรียกผมได้ตลอดนะครับ\"/move Harvey 1 0 1/move Harvey 0 -3 0/pause 1000/speak Harvey \"@ พร้อมเจอคุณแล้วครับ#$b#ไม่ใช่เรื่องของผม ที่จะยุ่งเรื่องส่วนตัว แต่ผมแค่อยากให้คุณ ไม่ลืมว่า @ ต้องการพักผ่อนนะครับ\"/pause 500/speak Penny \"ขอบคุณมากค่ะ คุณหมอฮาร์วีย์ เมืองเพลิแกน โชคดีที่มีคุณ และ... @ ก็โชคดีที่มีคุณอยู่$3\"/pause 500/textAboveHead Harvey \"โอเคครับ รักษาตัวนะครับ\"/move Harvey -7 0 0 true/move Harvey 0 -4 0/warp Harvey -100 -100/move Penny 0 4 3/emote farmer 16/faceDirection Penny 3/pause 1000/speak Penny \"สวัสดีค่ะ @ ฉันขอโทษ ที่เข้ามารบกวนนะคะ ฉันแค่... ฉันแค่อยากแน่ใจว่า คุณปลอดภัยดีก่อนที่ ก่อนที่ฉันจะไป$3#$b#แค่เพราะพวกเราไม่ได้เป็น {{RelationshipLabel}} กันแล้ว ไม่ได้หมายความว่า ฉันไม่สนว่าคุณต้องเจออะไรนะ$2#$b#แต่ถึงฉันจะโล่งใจ... ได้เห็นหน้าคุณอีกครั้ง เจ็บมากกว่าที่ฉันคิดเสียอีก ฉันไปดีกว่าค่ะ$2\"/emote farmer 16/pause 1000/speak Penny \"ความจริงคือ ฉันแค่ไม่อยากให้คุณ ต้องตื่นมาคนเดียว หลังเจออะไรหนักแบบนั้น$2#$b#ไม่มีใครควรต้องรู้สึก ถูกทอดทิ้งหลังจากเกือบ เอาชีวิตไม่รอดค่ะ$2#$b#ถึงจะพูดอย่างนั้น ฉันก็ต้องนึกถึงตัวเองด้วย มาที่นี่มันเจ็บปวดเกินไป เพราะงั้น... ฉันไปล่ะนะคะ หายไวๆ นะคะ @ ลาก่อนค่ะ$2\"/pause 500/move Penny 0 -4 0/move Penny -8 0 0/move Penny 0 -3 0/warp Penny -100 -100/emote farmer 28/hospitaldeath/end dialogue Penny \"คุณแข็งแกร่งพอ ที่จะมูฟออนจาก ความสัมพันธ์ของพวกเรา แต่ฉันไม่ใช่ เห็นคุณต้องเจ็บแบบนั้น ฉันก็ยังเจ็บเหมือนกันค่ะ$2#$b#...ฉันไม่อยากคุยกับคุณ มากไปกว่านี้แล้วค่ะ @ ปล่อยฉันไว้คนเดียวเถอะค่ะ$2\"",
             },        
             "When": {
                 "SpousesReactExInvolvement": "true",
@@ -702,7 +702,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Oh my! What happened, @? Are you okay? Do you need to see a doctor?$3#$b#Oh, good, I'm glad. Here, leave me your clothes to wash and go clean all the soot off your face.#$b#I really do wish that you did less dangerous work, but...$3#$b#Adventure suits you, and I know it makes you happy. I won't stop you. Just... don't burn through any more clothes, please?\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}  ตื่น!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"โอ้พระเจ้า! เกิดอะไรขึ้นคะ @? คุณเป็นไรมั้ย? ไปหาหมอมั้ยคะ?$3#$b#อ้อ ดีแล้วค่ะ ค่อยยังชั่ว เอาเสื้อผ้าคุณให้ฉัน ไปซักสิคะ แล้วก็ไปล้างหน้าล้างตาเถอะ#$b#ฉันหวังว่าคุณจะ ทำงานที่อันตราย น้อยกว่านี้จริงๆ นะคะ แต่...$3#$b#คุณเหมาะกับการผจญภัย และฉันก็รู้ว่าคุณมีความสุขกับมัน ฉันไม่ห้ามหรอกค่ะ แค่... อย่าทำเสื้อผ้าไหม้ ไปมากกว่านี้เลยนะคะ?\"",
    		    },
 		    "When": {
                 	"HasFlag |contains=addedParrotBoy, leoMoved": "false",
@@ -716,7 +716,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"Oh, you're awake! That's good!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"That's right! If my bird friends hadn't found you, the spirits may have eaten you like we eat Golden Walnuts.$1#$b#But my friends say you will be okay. Just be more careful the next time, yeah?\"/pause 500/message \"I'm going to get a worried look if I go home like this...\"/pause 500/emote farmer 40/message \"I definitely look worse than I feel, though. That's reassuring.\"/pause 500/speak Leo \"Really, though... Maybe you should wash in the river.#$b#Falling asleep on hot rocks is not good for you. You look like a coconut left too long on the fire.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"Oh my! What happened, @? Are you okay? Do you need to see a doctor?$3#$b#Oh, good, I'm glad. Here, leave me your clothes to wash and go clean all the soot off your face.#$b#I really do wish that you did less dangerous work, but...$3#$b#Adventure suits you, and I know it makes you happy. I won't stop you. Just... don't burn through any more clothes, please?\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"อ้อ คุณฟื้นแล้ว! ดีเลยครับ!#$b#เพื่อนๆ วิหคของผมเจอคุณ ในภูเขาไฟ พวกเขาบอกว่า จิตวิญญาณแห่งไฟไม่พอใจ และพยายามจะปรุงคุณ เป็นอาหารเย็นน่ะฮะ#$b#แต่เพื่อนๆ ผมหยุดเขาทัน และพาคุณมานี่!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"ใช่แล้วครับ! ถ้าเพื่อนๆ วิหคผมไม่ไปเจอคุณ เหล่าจิตวิญญาณคง กินคุณแบบพวกเรา กินวอลนัทสีทองไปแล้วครับ$1#$b#แต่เพื่อนๆ ผมบอกว่าคุณจะไม่เป็นไร คราวหน้าแค่ต้องระวัง มากกว่านี้หน่อยนะครับ\"/pause 500/message \"กลับบ้านสภาพนี้ คนที่บ้านต้องเป็นห่วงแน่...\"/pause 500/emote farmer 40/message \"แต่ฉันดูแย่กว่าความเป็นจริงแน่นอน นั่นค่อยน่าโล่งใจหน่อย\"/pause 500/speak Leo \"แต่จริงๆ นะครับ... บางทีคุณควรจะ ล้างตัวในแม่น้ำหน่อยนะ#$b#หลับบนหินร้อนๆ ไม่ดีกับคุณหรอกครับ คุณเหมือนมะพร้าวที่ โดนทิ้งให้ไหม้เลย$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"ตายแล้ว! เกิดอะไรขึ้นคะ @? คุณโอเคมั้ย? ไปหาหมอมั้ยคะ?$3#$b#อ้อ ดีแล้วค่ะ ค่อยยังชั่ว เอาเสื้อผ้าคุณให้ฉัน ไปซักสิคะ แล้วก็ไปล้างหน้าล้างตาเถอะ#$b#ฉันหวังว่าคุณจะ ทำงานที่อันตราย น้อยกว่านี้จริงๆ นะคะ แต่...$3#$b#คุณเหมาะกับการผจญภัย และฉันรู้ว่าคุณมีความสุข ที่จะทำ ฉันไม่ห้ามหรอกค่ะ แค่... อย่าทำเสื้อผ้าไหม้ มากกว่านี้เลยนะ\"",
     		},
 		    "When": {
 		        "HasFlag": "addedParrotBoy",
@@ -730,7 +730,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Oh my! What happened, @? Are you okay? Do you need to see a doctor?$3#$b#Oh, good, I'm glad. Here, leave me your clothes to wash and go clean all the soot off your face.#$b#I really do wish that you did less dangerous work, but...$3#$b#Adventure suits you, and I know it makes you happy. I won't stop you. Just... don't burn through any more clothes, please?\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่น!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เธอเป็นไรมั้ย? ฉันเจอเธอนอน หน้าจมทรายอยู่ตรงนี้ แล้วก็กลัวว่าจะเกิด เรื่องไม่ดีไปอึดใจหนึ่งน่ะ\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"เธอควรจะระวังนะ เวลาเข้าไปในภูเขาไฟนั่น#$b#ตอนนี้เจ้าเด็กลีโอก็ไป หุบเขาสตาร์ดิวแล้ว โอกาสที่จะมีคนมาเจอ เวลาเธอบาดเจ็บ เหลือน้อยมากนะ#$b#อ่า... เสื้อผ้าเธอเกรียมหมดเลย แล้วตัวเธอก็มีแต่ขี้เถ้า หวังว่าเธอจะไม่ทำให้ {{SocialMenuLabel}} ตกใจตาย ตอนกลับบ้านนะ$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"ตายแล้ว! เกิดอะไรขึ้นคะ @? คุณโอเคมั้ย? ไปหาหมอมั้ยคะ?$3#$b#อ้อ ดีแล้วค่ะ ค่อยยังชั่ว เอาเสื้อผ้าคุณให้ฉัน ไปซักสิคะ แล้วก็ไปล้างหน้าล้างตาเถอะ#$b#ฉันหวังว่าคุณจะ ทำงานที่อันตราย น้อยกว่านี้จริงๆ นะ แต่...$3#$b#คุณเหมาะกับการผจญภัย แล้วฉันก็รู้ว่า คุณมีความสุขที่ได้ทำมัน ฉันไม่ห้ามหรอกค่ะ แค่... อย่าทำเสื้อผ้าไหม้ มากกว่านี้เลยนะ\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -745,8 +745,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogue",
 		"Entries": {
-			"jobLeave_Penny": "I'll be out in town today, {{Lowercase:{{TermofEndearment}}}}. I hope you take the time to enjoy yourself too.$h",
-			"jobReturn_Penny": "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#Hi, {{Lowercase:{{TermofEndearment}}}}! I've missed you.$h"
+			"jobLeave_Penny": "วันนี้ฉันไปในเมืองนะ {{Lowercase:{{TermofEndearment}}}} หวังว่าคุณก็ใช้เวลา สนุกกับตัวเองให้เต็มที่นะ$h",
+			"jobReturn_Penny": "#$c .5#สวัสดีตอนเย็น วันของฉันโอเคดีค่ะ ขอบใจนะ! แล้ววันนี้คุณเป็นไงคะ?$h#ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! คิดถึงนะ$h"
 		},
 		"When": {
 			"Day": "9, 23",
@@ -759,8 +759,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogue",
 		"Entries": {
-			"jobLeave_Penny": "I'll be out in town today, {{TermofEndearment}}. I hope you take the time to enjoy yourself too.$h",
-			"jobReturn_Penny": "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#Hi, {{TermofEndearment}}! I've missed you.$h"
+			"jobLeave_Penny": "วันนี้ฉันไปในเมืองนะ {{TermofEndearment}} หวังว่าคุณก็ใช้เวลา สนุกกับตัวเองให้เต็มที่นะ$h",
+			"jobReturn_Penny": "#$c .5#สวัสดีตอนเย็น วันของฉันโอเคดีค่ะ ขอบใจนะ! แล้ววันนี้คุณเป็นไงคะ?$h#ดีค่ะ {{TermofEndearment}}! คิดถึงนะ$h"
 		},
 		"When": {
 			"Day": "9, 23",
@@ -772,15 +772,15 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_spot2": "Hi, {{Lowercase:{{TermofEndearment}}}}. Finished at the farm?#$b#Come stay with me for a little longer, then.",
-			"marriage_museum2": "It's quite soothing in here isn't it?#$b#We should find a book we're both interested in and read it together.$h",
-			"marriage_museum3": "Oh, no! Look at you you're all soaked!$s#$b#Stay here a while and dry off, won't you?",
-			"marriage_r": "Hi, {{Lowercase:{{TermofEndearment}}}}! Want to join me?$h#$b#Don't worry, I have some extra books for you.",
-			"marriage_r2": "It's hard focusing on my book when you're here. I want to tell you all about it instead of actually reading it!$h",
-			"marriage_doctorextra": "Oh, hi {{Lowercase:{{TermofEndearment}}}}. Let's talk after, I don't want to interrupt Dr. Harvey.",
-			"marriage_13": "Jas and Vincent painted some pretty eggs. They should be easy to spot.$h#$b#I'm rooting for you! But um... go easy on the kids?",
-			"marriage_16": "Good luck on your display, {{Lowercase:{{TermofEndearment}}}}. I'm still waiting for the spinning wheel to get set up.#$b#I'll earn us some tokens, don't worry.$h#$b#Unless I get banned again like last year.$s",
-			"marriage_25": "Hi, {{Lowercase:{{TermofEndearment}}}}. I didn't want to enter without you.$h#$b#The snow's lovely at least, I should spend more time out here."
+			"marriage_spot2": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}} เสร็จงานที่ฟาร์มแล้วเหรอ?#$b#งั้นอยู่กับฉัน ต่ออีกหน่อยแล้วกันนะ",
+			"marriage_museum2": "ในนี้สงบดี ใช่มั้ยล่ะ?#$b#พวกเราไปหาหนังสือ ที่อยากอ่านด้วยกันทั้งคู่ แล้วมาอ่านด้วยกันเถอะค่ะ$h",
+			"marriage_museum3": "โอ้ ไม่นะ! ดูคุณสิเปียกไปหมดเลย!$s#$b#อยู่ให้ตัวแห้ง สักพักแล้วกันนะคะ",
+			"marriage_r": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}}! มาอ่านกับฉันมั้ย?$h#$b#ไม่ต้องห่วงค่ะ ฉันมีหนังสือเผื่อให้คุณ หลายเล่มเลย",
+			"marriage_r2": "คุณอยู่นี่ แล้วไม่มีสมาธิอ่านเลยค่ะ ฉันอยากเล่าเรื่อง ที่อ่านให้คุณฟัง มากกว่าอยากอ่านมันซะอีก!$h",
+			"marriage_doctorextra": "อ้าว ดีค่ะ {{Lowercase:{{TermofEndearment}}}} ไว้คุยกันทีหลังนะ ฉันไม่อยากรบกวน คุณหมอฮาร์วีย์น่ะ",
+			"marriage_13": "แจสกับวินเซนท์เพ้นท์ ไข่สวยมากเลย ไม่น่าจะหายากนะคะ$h#$b#จะคอยเชียร์นะคะ! แต่ เอ่อ... ออมมือให้เด็กๆ บ้างนะคะ?",
+			"marriage_16": "โชคดีกับการจัดแสดงนะ {{Lowercase:{{TermofEndearment}}}} ฉันยังรอให้เขา ติดตั้งวงล้ออยู่น่ะ#$b#ฉันจะหาเหรียญ มาให้พวกเราเองค่ะ ไม่ต้องห่วง$h#$b#เว้นแต่ว่าฉันโดนแบน แบบปีที่แล้วน่ะนะ$s",
+			"marriage_25": "ดีค่ะ {{Lowercase:{{TermofEndearment}}}} ฉันไม่อยากเข้าไป โดยไม่มีคุณน่ะ$h#$b#อย่างน้อยหิมะก็สวยดี ฉันควรจะอยู่ข้างนอกนี่อีกหน่อย"
 		},
 		"When": {
                 	"TermofEndearment |contains=@": "false",
@@ -792,15 +792,15 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_spot2": "Hi, {{TermofEndearment}}. Finished at the farm?#$b#Come stay with me for a little longer, then.",
-			"marriage_museum2": "It's quite soothing in here isn't it?#$b#We should find a book we're both interested in and read it together.$h",
-			"marriage_museum3": "Oh, no! Look at you you're all soaked!$s#$b#Stay here a while and dry off, won't you?",
-			"marriage_r": "Hi, {{TermofEndearment}}! Want to join me?$h#$b#Don't worry, I have some extra books for you.",
-			"marriage_r2": "It's hard focusing on my book when you're here. I want to tell you all about it instead of actually reading it!$h",
-			"marriage_doctorextra": "Oh, hi {{TermofEndearment}}. Let's talk after, I don't want to interrupt Dr. Harvey.",
-			"marriage_13": "Jas and Vincent painted some pretty eggs. They should be easy to spot.$h#$b#I'm rooting for you! But um... go easy on the kids?",
-			"marriage_16": "Good luck on your display, {{TermofEndearment}}. I'm still waiting for the spinning wheel to get set up.#$b#I'll earn us some tokens, don't worry.$h#$b#Unless I get banned again like last year.$s",
-			"marriage_25": "Hi, {{TermofEndearment}}. I didn't want to enter without you.$h#$b#The snow's lovely at least, I should spend more time out here."
+			"marriage_spot2": "ดีค่ะ {{TermofEndearment}} เสร็จงานที่ฟาร์มแล้วเหรอ?#$b#งั้นอยู่กับฉัน ต่ออีกหน่อยแล้วกันนะ",
+			"marriage_museum2": "ในนี้สงบดี ใช่มั้ยล่ะ?#$b#พวกเราไปหาหนังสือ ที่อยากอ่านด้วยกันทั้งคู่ แล้วมาอ่านด้วยกันเถอะค่ะ$h",
+			"marriage_museum3": "โอ้ ไม่นะ! ดูคุณสิเปียกไปหมดเลย!$s#$b#อยู่ให้ตัวแห้ง สักพักแล้วกันนะคะ",
+			"marriage_r": "ดีค่ะ {{TermofEndearment}}! มาอ่านกับฉันมั้ย?$h#$b#ไม่ต้องห่วงค่ะ ฉันมีหนังสือเผื่อให้คุณ หลายเล่มเลย",
+			"marriage_r2": "คุณอยู่นี่ แล้วไม่มีสมาธิอ่านเลยค่ะ ฉันอยากเล่าเรื่อง ที่อ่านให้คุณฟัง มากกว่าอยากอ่านมันซะอีก!$h",
+			"marriage_doctorextra": "อ้าว ดีค่ะ {{TermofEndearment}} ไว้คุยกันทีหลังนะ ฉันไม่อยากรบกวน คุณหมอฮาร์วีย์น่ะ",
+			"marriage_13": "แจสกับวินเซนท์เพ้นท์ ไข่สวยมากเลย ไม่น่าจะหายากนะคะ$h#$b#จะคอยเชียร์นะคะ! แต่ เอ่อ... ออมมือให้เด็กๆ บ้างนะคะ?",
+			"marriage_16": "โชคดีกับการจัดแสดงนะ {{TermofEndearment}} ฉันยังรอให้เขา ติดตั้งวงล้ออยู่น่ะ#$b#ฉันจะหาเหรียญ มาให้พวกเราเองค่ะ ไม่ต้องห่วง$h#$b#เว้นแต่ว่าฉันโดนแบน แบบปีที่แล้วน่ะนะ$s",
+			"marriage_25": "ดีค่ะ {{TermofEndearment}} ฉันไม่อยากเข้าไป โดยไม่มีคุณน่ะ$h#$b#อย่างน้อยหิมะก็สวยดี ฉันควรจะอยู่ข้างนอกนี่อีกหน่อย"
 		},
 		"When": {
                 	"TermofEndearment": "@, BFF",
@@ -811,7 +811,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_bus2": "That's a great gift idea! @ would-#$b#Oh, hi! Um. We weren't talking about any... surprises...$h",
+			"marriage_bus2": "เป็นไอเดียของขวัญ ที่ดีมากค่ะ! @ จะ-#$b#อ้าว ดีค่ะ! เอ่อ พวกเราไม่ได้พูดถึง... เซอร์ไพรส์อะไรนะ...$h",
 		},
 		"When": {
                 	"EnableAsexuality": "true",
@@ -822,7 +822,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Penny",
 		"Entries": {
-			"marriage_bus2": "Are you sure @ would like it if I wore a-#$b#Oh, hi! Um. Maybe I'll just show you later tonight.$l",
+			"marriage_bus2": "คุณแน่ใจเหรอว่า @ จะชอบถ้าฉันใส่ช-#$b#อ้าว ดีค่ะ! เอ่อ เดี๋ยวคืนนี้ให้ดูนะคะ$l",
 		},
 		"When": {
                 	"EnableAsexuality": "false",

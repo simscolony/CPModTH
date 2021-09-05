@@ -600,15 +600,15 @@
             "Target": "Characters/Dialogue/MarriageDialogueSam",
             "Entries":
             {
-                "Rainy_Day_1": "#$c .5#Do you think Sebastian and Abigail will ever hook up? Sebastian is definitely into her, but I think she'd have to make the first move.#Sebastian's a few years older than me. I never expected I'd be the first of us to partner up with someone.",
-                "Rainy_Night_2": "Earlier, I listened to our live recording from that show we played. Remember that? Man, was that sloppy.#$b#It made me a little nervous that you were there, I didn't want to mess up and have you think I was a loser!$10",
-                "Indoor_Day_2": "#$c .5#Oh! 'Morning. Does my hair look okay today?#Hey. I know I joke around a lot, but I want you to know that you'll always be my best friend. I seriously love you, @.$l",
-                "Indoor_Night_2": "#$c .5#Hey, sorry I didn't clean up much today. You know I'm sloppy... that's why you like me, right?$h#Me? Oh, I got caught up on some shows today. I'm feelin' a bit stir crazy; they were kinda intense.",
-                "Indoor_Night_4": "#$c .5#Ready to hit the hay?#Want me to play you a guitar lullaby? I'm in no rush to fall asleep, myself, but you're probably pretty tired.",
-                "Outdoor_4": "#$c .5#Ha, you're all muddy. You're really selling the classic farmer look!$h#Hoo... I was thinking I didn't sleep so well last night. But just stepping out here makes me feel awake all the sudden!",
-                "OneKid_3": "#$c .5#I think we should adopt another kid. Vincent keeps asking when he gets to be a 'double uncle.'$h#Sure, being a dad is way more exhausting than I imagined, but I'm up for a challenge!$h",
-                "summer_12": "It was nice seeing Penny at the festival yesterday. I don't see her as often these days.#$e#Plus, I don't think her and I dating is in the cards anymore, you know? She's looking for a long-term commitment, and I already have that with you.$l#$b#So there's less awkwardness hanging in the air between us now.$10",
-                "fall_9": "I keep getting the sense that some people think we partnered up too young.$7#$b#Look, I get how they could think that, but I just want to let you know that for me, this is real.$s#$b#We can do this, right? I'm on board... you're on board...#$e#We're gonna conquer the world together.",
+                "Rainy_Day_1": "#$c .5#เธอว่าเซบาสเตียนกับอบิเกล จะได้ลงเอยกันมั้ย เซบาสเตียนน่ะชอบเธอชัวร์ๆ แต่ฉันว่าเธอคงต้องจีบก่อน#เซบาสเตียนแก่กว่าฉันสองสามปีแหละ ฉันไม่เคยคิดเลยว่า ฉันจะเป็นคนที่เจอคู่ ก่อนในพวกเราสองคน",
+                "Rainy_Night_2": "ก่อนหน้านี้ ฉันฟังเทปที่เราอัดจากโชว์ของเราด้วย จำได้ปะ พระเจ้า เล่นไม่พร้อมกันสุดๆ#$b#ฉันตื่นเต้นนิดหน่อยน่ะ ที่เธออยู่ด้วย ฉันไม่อยากเล่นพลาด แล้วกลายเป็นไอ้ขี้แพ้ ในสายตาเธอ!$10",
+                "Indoor_Day_2": "#$c .5#อ้าว! 'รุนหวัด วันนี้ผมฉันโอปะ#เฮ้ ฉันรู้ว่าฉันชอบล้อเล่น แต่อยากให้รู้ว่า เธอจะเป็นเพื่อนซี้ที่สุด ของฉันเสมอนะ ฉันรักเธอจริงๆ นะ @$l",
+                "Indoor_Night_2": "#$c .5#ไง โทษทีนะวันนี้ฉันไม่ได้จัดบ้านเท่าไหร่ เธอก็รู้นี่ ว่าฉันเป็นคนสบายจัดๆ... เธอก็เลยชอบฉันใช่มั้ยล่ะ$h#ฉันเหรอ? อ้อ ฉันติดแสดงนิดหน่อยน่ะวันนี้ เลยรู้สึกประสาทกินหน่อยๆ ค่อนข้างจริงจังน่ะ",
+                "Indoor_Night_4": "#$c .5#พร้อมนอนยัง?#อยากให้ฉันเล่นกีต้าร์ กล่อมนอนมั้ย ฉันยังไม่รีบนอนหรอก แต่เธอคงเหนื่อย พอสมควรเลยสินะ",
+                "Outdoor_4": "#$c .5#ฮ่าๆ ตัวเธอเปื้อนโคลนไปหมดเลย ได้ลุคชาวไร่คลาสสิคสุดๆ!$h#ฮู่วว... ตอนแรกฉันคิดอยู่เลยว่า เมื่อคืนอนไม่ค่อยหลับ แต่แค่ก้าวออกมาตรงนี้ ก็ทำให้ตาสว่างขึ้นมาทันทีเลย!",
+                "OneKid_3": "#$c .5#ฉันว่าเราควร รับเลี้ยงเด็กอีกคนนะ วิทเซนท์ถามอยู่นั่นแหละว่า เมื่อไหร่เขาจะได้เป็น 'ลุงคูณสอง'$h#แน่ล่ะ เป็นพ่อคนนี่เหนื่อย กว่าที่ฉันคิดชะมัดเลย แต่ฉันสู้ไม่ถอยจะบอกให้!$h",
+                "summer_12": "เมื่อวานดีจังที่ได้เจอเพนนี ที่งานเทศกาลด้วย เดี๋ยวนี้ไม่ค่อยได้เจอเธอเลย#$e#แต่ฉันไม่คิดว่าเรื่องที่ ฉันกับเพนนี จะเดตกัน จะเป็นไปได้อีกแล้วล่ะ รู้มั้ย? เธอตามหาคนที่ทุ่มเทจริงจัง ระยะยาว แต่ฉันก็มีเธอเป็นคนนั้นอยู่แล้ว#$b#ระหว่างเราก็เลยไม่ค่อย อึดอัดแล้วน่ะ$10",
+                "fall_9": "ฉันรู้สึกเหมือนคนอื่น คิดว่าเราจับคู่กัน เร็วไปตลอดเลยอะ$7#$b#ฟังนะ ฉันเก็ตแหละว่าทำไมคนอื่นถึงคิดแบบนั้น แต่ฉันแค่อยากให้เธอรู้ว่า สำหรับฉันนี่มันจริงจังนะ$s#$b#พวกเราทำได้ ใช่มั้ย? ฉันเอาด้วย... เธอเอาด้วย...#$e#เราจะพิชิตโลกนี้ด้วยกัน",
             },
             "When":
             {
@@ -698,7 +698,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"There you are! Easy there. Are you feeling okay?\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"I was jamming to my favorite tune when suddenly, I felt like something had gone terribly wrong.#$b#I really felt like I had to check on you. Turns out I was right on the money.$2\"/pause 1000/speak Marlon \"And I simply came along to clear a path for Sam while we brought you back up to the surface.#$b#At first, I was to venture in alone, but he insisted on coming along.#$b#You're blessed to have ended up sharing your life with someone so courageous.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"You sure about that, pops? I really didn't end up doing much more than piggybacking @ back up here.$s#$b#I wouldn't go as far as to say I was 'courageous'...$10\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I saw. You did well, standing by my side.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"Hey, @... Not going to lie, the bad feeling put me on edge, especially when we couldn't find you fast.$2#$b#But I know that exploring the mines is your 'thing', so I won't ask you to stop going back.#$b#Besides, I know that skill isn't the issue with someone tough like you. I'll be rooting for you to have better luck next time!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hey @, good timing. I just finished picking up around the house so you can just kick back, take it easy, and rest up. You fought hard today.$l#$c 0.7#Sometimes, I still don't believe I'm sharing my life with someone like you. Cool, strong, and stubborn. It's part of your charm, though!$1#And because I'm an amazing {{SocialMenuLabel}}, I got you a snack you could refuel on while you relax. Enjoy![210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}} ตื่นสิ!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"ตื่นเสียที! ค่อยๆ นะ รู้สึกโอเคหรือยัง?\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"ฉันกำลังซ้อมเพลงโปรดอยู่ แล้วอยู่ดีๆ ก็รู้สึกว่ามีอะไรบางอย่าง ผิดพลาดมากๆ#$b#ฉันรู้สึกว่าต้องดูเธอให้ได้ ปรากฏว่ากึ๋นฉันถูกด้วยสินะ$2\"/pause 1000/speak Marlon \"ส่วนข้าก็แค่มาด้วย เพื่อช่วยเปิดทางให้แซม ขากลับขึ้นพื้นดินน่ะ#$b#ทีแรก ข้าจะมาคนเดียว แต่เขายืนยันที่จะมาด้วยให้ได้#$b#เจ้าโชคดีมากนะที่ได้ลงเอย ใช้ชีวิตกับคนที่กล้าหาญ ถึงเพียงนี้\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"ลุงแน่ใจแล้วเหรอ? สุดท้ายผมก็ไม่ได้ทำอะไร มีประโยชน์ไปกว่าแบก @ ขี่หลังกลับขึ้นมา$s#$b#ผมคงไม่กล้าถึงขั้น เรียกตัวเองว่า 'กล้าหาญ' หรอก...$10\"/pause 1000/speak Marlon \"นิสัยของข้าเป็นคนพูดอะไรตรงๆ น่ะ ข้าก็แค่พูดตามที่เห็นจริงเท่านั้น เจ้าทำได้ดี ยืนข้างๆ ข้าน่ะ\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"ยังไงก็เถอะ รีบไปจากนี่จะดีที่สุด @ ต้องการพักผ่อนเพื่อฟื้นตัว เจ้าสองคนไม่ควรชักช้านะ\"/pause 500/textAboveHead Marlon \"ลาก่อน\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"นี่ @... ฉันจะไม่โกหกนะ ความรู้สึกไม่ดีนั่น ทำให้ฉันกังวลมากเลย โดยเฉพาะตอนที่พวกเรา หาเธอไม่เจอตอนแรก$2#$b#แต่ฉันรู้ว่าการลงเหมืองน่ะ เป็น 'ของชอบ' เธอ เพราะงั้นฉันจะไม่ขอ ให้เธอไม่กลับไปอีกหรอก#$b#อีกอย่าง ฉันรู้ว่าเรื่องฝีมือไม่เป็นปัญหา กับคนแกร่งแบบเธอหรอก ฉันจะคอยลุ้นให้ คราวหน้าโชคเข้าข้างเธอ มากกว่านี้แล้วกันนะ!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"เฮ้ @ มาพอดีเลย ฉันเพิ่งจัดบ้านเสร็จ เพราะงั้นเธอแค่เอนหลัง ทำใจสบายๆ แล้วพักผ่อนเหอะ วันนี้เธอต่อสู้มามากแล้ว$l#$c 0.7#บางที ฉันยังไม่อยากเชื่อเลยว่าฉัน ได้ใช้ชีวิตกับเธอ คนที่เจ๋ง แกร่ง แล้วก็ดื้อด้านน่าดู แต่นั่นก็เป็นหนึ่งใน เสน่ห์ของเธอนะ!$1#และเพราะว่าฉันเป็น {{SocialMenuLabel}} ที่เยี่ยมยอด ฉันเลยเตรียมของกิน ไว้ให้เธอฟื้นพลังตอนพักด้วย ขอให้อร่อยนะ![210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Sam",
@@ -711,7 +711,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"There you are! Easy there. Are you feeling okay?\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"I was jamming to my favorite tune when suddenly, I felt like something had gone terribly wrong.#$b#I really felt like I had to check on you. Turns out I was right on the money.$2\"/pause 1000/speak Marlon \"And I simply came along to clear a path for Sam while we brought you back up to the surface.#$b#At first, I was to venture in alone, but Sam insisted on coming along.#$b#You're blessed to have ended up sharing your life with someone so courageous.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"You sure about that, pops? I really didn't end up doing much more than piggybacking @ back up here.$s#$b#I wouldn't go as far as to say I was 'courageous'...$10\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I saw. You did well, standing by my side.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"Hey, @... Not going to lie, the bad feeling put me on edge, especially when we couldn't find you fast.$2#$b#But I know that exploring the mines is your 'thing', so I won't ask you to stop going back.#$b#Besides, I know that skill isn't the issue with someone tough like you. I'll be rooting for you to have better luck next time!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hey @, good timing. I just finished picking up around the house so you can just kick back, take it easy, and rest up. You fought hard today.#$c 0.7#Sometimes, I still don't believe I'm sharing my life with someone like you. Cool, strong, and stubborn. It's part of your charm, though!$1#And because I'm an amazing {{SocialMenuLabel}}, I got you a snack you could refuel on while you relax. Enjoy![210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}} ตื่นสิ!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"ตื่นเสียที! ค่อยๆ นะ รู้สึกโอเคหรือยัง?\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"ฉันกำลังซ้อมเพลงโปรดอยู่ อยู่ดีๆ ฉันรู้สึกเหมือน ก็รู้สึกว่ามีอะไรบางอย่าง ผิดพลาดมากๆ#$b#ฉันรู้สึกว่าต้องดูเธอให้ได้ ปรากฏว่ากึ๋นฉันถูกด้วยสินะ$2\\"/pause 1000/speak Marlon \"ส่วนข้าก็แค่มาด้วย เพื่อช่วยเปิดทางให้แซม ขากลับขึ้นพื้นดินน่ะ#$b#ทีแรก ข้าจะมาคนเดียว แต่แซมยืนยันจะมาด้วย#$b#เจ้าโชคดีมากนะที่ได้ลงเอย ใช้ชีวิตกับคนที่กล้าหาญ ถึงเพียงนี้\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"ลุงแน่ใจแล้วเหรอ? สุดท้ายผมก็ไม่ได้ทำอะไร มีประโยชน์ไปกว่าแบก @ ขี่หลังกลับขึ้นมา$s#$b#ผมคงไม่กล้าถึงขั้น เรียกตัวเองว่า 'กล้าหาญ' หรอก...$10\"/pause 1000/speak Marlon \"นิสัยของข้าเป็นคนพูดอะไรตรงๆ ข้าก็แค่พูดตามที่เห็นจริงเท่านั้น เจ้าทำได้ดี ยืนข้างๆ ข้าน่ะ\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"ยังไงก็เถอะ รีบไปจากนี่จะดีที่สุด @  ต้องการพักผ่อนเพื่อฟื้นตัว เจ้าสองคนไม่ควรโอ้เอ้นะ\"/pause 500/textAboveHead Marlon \"ลาก่อน\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"นี่ @... ฉันจะไม่โกหกนะ ความรู้สึกไม่ดีนั่น ทำให้ฉันกังวลมากเลย โดยเฉพาะตอนที่พวกเรา หาเธอไม่เจอตอนแรก$2#$b#แต่ฉันรู้ว่าการลงเหมืองน่ะ เป็น 'ของชอบ' เธอ เพราะงั้นฉันจะไม่ขอ ให้เธอไม่กลับไปอีกหรอก#$b#อีกอย่าง ฉันรู้ว่าเรื่องฝีมือไม่เป็นปัญหา กับคนแกร่งแบบเธอหรอก ฉันจะคอยลุ้นให้ คราวหน้าโชคเข้าข้างเธอ มากกว่านี้แล้วกันนะ!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"อ้าว @ มาพอดีเลย ฉันเพิ่งจัดบ้านเสร็จ เพราะงั้นเธอแค่เอนหลัง ทำใจสบายๆ แล้วก็พักซะนะ วันนี้เธอต่อสู้มามากแล้ว#$c 0.7#บางที ฉันยังไม่อยากเชื่อเลยว่าฉัน ได้ใช้ชีวิตกับเธอ คนที่เจ๋ง แกร่ง แล้วก็ดื้อด้านน่าดู แต่นั่นก็เป็นหนึ่งใน เสน่ห์ของเธอนะ!$1#ละเพราะว่าฉันเป็น {{SocialMenuLabel}} ที่เยี่ยมยอด ฉันเลยเตรียมของกิน ไว้ให้เธอฟื้นพลังตอนพักด้วย ขอให้อร่อยนะ![210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Sam",
@@ -725,7 +725,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Heya! Welcome ho-$1#$b#@! What happened!?$8#$b#You're covered in ash and your clothes are all burnt! Are you hurt?$2#$b#No? Oh, that's a relief... Come on, don't give your {{SocialMenuLabel}} a heart attack like that...$2#$b#Be careful, okay? I don't want anything to happen to you anymore... Even if you do look pretty cool.\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"งาย! ยินดีต้อนรับกลั-$1#$b#@! เกิดไรขึ้น!?$8#$b#ตัวเธอเต็มไปด้วยฝุ่น เสื้อผ้าก็ไหม้หมดเลย! เจ็บตรงไหนหรือเปล่า?$2#$b#ไม่เหรอ? อ่า ค่อยยังชั่วหน่อย... ไม่เอาน่า อย่าทำให้ {{SocialMenuLabel}} ของเธอ หัวใจจะวายแบบนั้นสิ...$2#$b#ระวังตัวด้วยโอเคมั้ย? ฉันไม่อยากให้เกิดอะไร ขึ้นกับเธออีกแล้ว... ถึงเธอจะดูเท่ไม่เบาก็เหอะ\"",
    		    },
 		    "When": {
                 	"HasFlag |contains=addedParrotBoy, leoMoved": "false",
@@ -739,7 +739,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"Oh, you're awake! That's good!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"That's right! If my bird friends hadn't found you, the spirits may have eaten you like we eat Golden Walnuts.$1#$b#But my friends say you will be okay. Just be more careful the next time, yeah?\"/pause 500/message \"I'm going to get a worried look if I go home like this...\"/pause 500/emote farmer 40/message \"I definitely look worse than I feel, though. That's reassuring.\"/pause 500/speak Leo \"Really, though... Maybe you should wash in the river.#$b#Falling asleep on hot rocks is not good for you. You look like a coconut left too long on the fire.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"Heya! Welcome ho-$1#$b#@! What happened!?$8#$b#You're covered in ash and your clothes are all burnt! Are you hurt?$2#$b#No? Oh, that's a relief... Come on, don't give your {{SocialMenuLabel}} a heart attack like that...$2#$b#Be careful, okay? I don't want anything to happen to you anymore... Even if you do look pretty cool.\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"โอ้ว คุณฟื้นแล้ว! นั่นดีมากเลย!#$b#เพื่อนๆ วิหคของผม เจอคุณอยู่ในภูเขาไฟ พวกเขาบอกว่า จิตวิญญาณแห่งไฟไม่พอใจคุณ เลยจะจับคุณย่างกินน่ะครับ#$b#แต่เพื่อนๆ ผมห้ามเหล่าจิตวิญญาณทัน และพาคุณมานี่!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"ใช่แล้ว! ถ้าเพื่อนๆ วิหคของผมไม่เจอคุณ เหล่าจิตวิญญาณ อาจจะหม่ำคุณ เหมือนที่พวกเราหม่ำ ลูกวอลนัทสีทองไปแล้วก็ได้$1#$b#แต่เพื่อนๆ ผมบอกว่า คุณจะไม่เป็นไร แค่ต้องระวังมากกว่านี้ คราวหน้านะครับ ตกลงมั้ย?\"/pause 500/message \"กลับบ้านสภาพนี้คนที่บ้านต้องเป็นห่วงแน่...\"/pause 500/emote farmer 40/message \"แต่ฉันดูแย่กว่าที่เป็นจริงแน่ๆ นั่นค่อยน่าโล่งใจหน่อย\"/pause 500/speak Leo \"แต่เอาจริงๆ นะ... บางทีคุณควรจะล้างตัว ในแม่น้ำสักหน่อย#$b#งีบบนหินร้อนๆ น่ะไม่ดีกับคุณหรอก คุณดูเหมือนมะพร้าวไหม้เลย$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"งาย! ยินดีต้อนรับกลั-$1#$b#@! เกิดไรขึ้น!?$8#$b#ตัวเธอเต็มไปด้วยฝุ่น เสื้อผ้าก็ไหม้หมดเลย! เจ็บตรงไหนหรือเปล่า?$2#$b#ไม่เหรอ? อ่า ค่อยยังชั่วหน่อย... ไม่เอาน่า อย่าทำให้ {{SocialMenuLabel}} ของเธอ หัวใจจะวายแบบนั้นสิ...$2#$b#ระวังตัวด้วยโอเคมั้ย? ฉันไม่อยากให้เกิดอะไร ขึ้นกับเธออีกแล้ว... ถึงเธอจะดูเท่ไม่เบาก็เหอะ\"",
     		},
 		    "When": {
 		        "HasFlag": "addedParrotBoy",
@@ -753,7 +753,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Heya! Welcome ho-$1#$b#@! What happened!?$8#$b#You're covered in ash and your clothes are all burnt! Are you hurt?$2#$b#No? Oh, that's a relief... Come on, don't give your {{SocialMenuLabel}} a heart attack like that...$2#$b#Be careful, okay? I don't want anything to happen to you anymore... Even if you do look pretty cool.\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เป็นไรมั้ย? ฉันเจอเธอนอน หน้าจมทรายอยู่ตรงนี้ แล้วก็กลัวจะเกิดเรื่องแย่ๆ ขึ้นแวบหนึ่งน่ะ\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"เธอควรจะระวังตัวนะ เวลาไปร่อนเร่อยู่ในภูเขาไฟนั่น#$b#พอเจ้าเด็กลีโอไป หุบเขาสตาร์ดิวแล้วแบบนี้ โอกาสที่จะมีคนมาเจอเธอ ถ้าเธอบางเจ็บก็แทบไม่มีเลยนะ#$b#อ่า...เสื้อผ้าเธอเกรียมใช้ได้เลย แถมขี้เถ้ายังเต็มตัวไปหมด ฉันหวังว่าเธอจะไม่ทำให้  {{SocialMenuLabel}} ของเธอตกใจตาย ตอนกลับบ้านนะ$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"งาย! ยินดีต้อนรับกลั-$1#$b#@! เกิดไรขึ้น!?$8#$b#ตัวเธอเต็มไปด้วยฝุ่น เสื้อผ้าก็ไหม้หมดเลย! เจ็บตรงไหนหรือเปล่า?$2#$b#ไม่เหรอ? อ่า ค่อยยังชั่วหน่อย... ไม่เอาน่า อย่าทำให้ {{SocialMenuLabel}} ของเธอ หัวใจจะวายแบบนั้นสิ...$2#$b#ระวังตัวด้วยโอเคมั้ย? ฉันไม่อยากให้เกิดอะไร ขึ้นกับเธออีกแล้ว... ถึงเธอจะดูเท่ไม่เบาก็เหอะ\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -768,21 +768,21 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_beach4": "%Sam looks deep in thought.#$b#...$3#$b#@! Oh wow, I was just thinking about you! Good to see you.$h",
-                "marriage_b4": "Look, Vincent, it's {{Auncle}} @!#$b#Hey, now both of my favorite people are here!$h",
-                "marriage_b5": "Hey, come here and give me a hug.#$b#Don't look at me like that, Vincent. You hug your friends too.$10",
-                "marriage_b8a": "Hey, good to see you, always.#$b#{{Random: Stick around for awhile., Though I think Vincent is more excited than me. It's blowing his mind that you're basically family now.$h}}",
-                "marriage_fallb2": "%Sam smiles at you, but doesn't try to fill the silence. He seems content just to enjoy your company.",
-                "marriage_fallb5a": "%Sam looks deep in thought.#$b#Hey, don't worry about me. I'm just thinking about {{Random: food., how happy I've been since I moved in with you.$l}}$3",                          
-                "marriage_guitar6": "Feels just like old times!$h#$b#Time flies, huh? Still can't believe we're {{RelationshipLabel}}.",
-                "marriage_SatA": "I was just thinking... Remember that time you taught me to fry an egg?#$b#I can't believe you didn't get sick from eating all the ones I messed up. You really have an iron stomach, huh?$h#$b#If you're ever REALLY hungry, maybe we could tackle pizza next.$10",
-                "marriage_SatA2": "Where's Sebastian? I knew I should've brought a comic with me...$7#$b#Mind keeping me company until he gets here?",          
-                "marriage_SatA5": "Give me your thoughts on these lyrics. I had you in mind writing it. What do you think?$6#$b#%Sam shows you his lyrics. At least it's not another sappy friendship song.#$b#Sweet. I hope Sebastian doesn't mind.",
-                "marriage_SatA6": "I know I can sound careless at times... So I want you to know that you're still my best friend and I don't ever take that for granted. I seriously love you, @.$l",   
-                "marriage_vincent2": "Oh, hi @. Vincent was just talking about you. He tells me you're the coolest grown-up in town.#$b#What about me, sport? Did you forget about me?$h#$b#Although he's not wrong...$l",
-                "marriage_doctorafter": "I had a real good game going while I was waiting.#$b#Huh?#$b#Oh, yeah. Dr. Harvey said everything looks fine so you don't have to worry about a thing.$h#$b#See you back home soon.",    
-                "marriage_nm": "Hey, take this.#$b#%Sam drapes a jacket over your shoulders.#$b#It's chilly tonight. I know you can handle it, but I've got your back so you don't have to.$u",
-                "marriage_16": "Oh, you got some mud on your face. Lemme get that for you.#$b#There you go. You're going to turn heads here, you know. You're sort of like a mini celebrity.$h",
+                "marriage_beach4": "%แซมดูจมอยู่ในห้วงความคิด#$b#...$3#$b#@! โอโห ฉันเพิ่งคิดถึงเธอเลย! ดีใจที่ได้เจอนะ$h",
+                "marriage_b4": "ดูสิ วินเซนท์ {{Auncle}} ล่ะ @!#$b#หวัดดี ทีนี้คนโปรดของฉัน ทั้งสองคน ก็อยู่นี่แล้ว!$h",
+                "marriage_b5": "นี่ มากอดพี่หน่อยสิ#$b#อย่ามองพี่ แบบนั้นสิวินเซนท์ นายก็กอดเพื่อน เหมือนกันแหละน่า$10",
+                "marriage_b8a": "ไง ดีเสมอเลยนะ ที่ได้เห็นหน้าเธอ#$b#{{Random: อยู่ด้วยกันเดี๋ยวสิ, ฉันคิดว่าวินเซนท์ ตื่นเต้นกว่าฉันอีก เขาแทบไม่เชื่อว่าเธอ ก็ถือเป็นครอบครัวเรา แล้วตอนนี้$h}}",
+                "marriage_fallb2": "%แซมยิ้มให้คุณ แต่ก็ดูไม่ได้พยายามทำลายความเงียบ เขาดูพอใจ แค่ได้มีคุณอยู่ใกล้ๆ",
+                "marriage_fallb5a": "%แซมดูจมอยู่ในห้วงความคิด#$b#นี่ ไม่ต้องห่วงฉันหรอก ฉันแค่กำลังนึกถึง {{Random: อาหาร, ว่าฉันมีความสุขแค่ไหน ตั้งแต่ย้ายมาอยู่กับเธอ$l}}$3",                          
+                "marriage_guitar6": "เหมือนวันเก่าๆ เลย!$h#$b#เวลาผ่านไปเร็วมากเลยใช่มั้ย? ยังไม่อยากจะเชื่อเลยว่าเราเป็น  {{RelationshipLabel}} กัน",
+                "marriage_SatA": "ฉันแค่กำลังนึกถึง... จำตอนนั้นที่เธอสอนฉัน ทอดไข่ได้มั้ย?#$b#ไม่อยากจะเชื่อเลย ว่าเธอไม่ท้องเสีย หลังจากที่กินฟองที่ฉัน ทำพลาดทั้งหมดนั่น เธอนี่มีกระเพาะเหล็กจริงๆ สินะ?$h#$b#เธอวันไหนเธอ หิวจัดๆ จริงๆ ขึ้นมาล่ะก็ ไว้มาลองทำพิซซ่ากัน$10",
+                "marriage_SatA2": "เซบาสเตียนไปไหนเนี่ย? ว่าแล้วว่าน่าจะเอาการ์ตูนมา...$7#$b#อยู่เป็นเพื่อนฉัน ก่อนเซบาสเตียนจะมาได้มั้ย?",  
+                "marriage_SatA5": "เธอคิดไงกับเนื้อเพลงนี่อะ ตอนเขียนฉันนึกเธอแหละ คิดว่าไงบ้างล่ะ?$6#$b#%แซมเอาเนื้อเพลงของเขาให้คุณดู อย่างน้อยมันก็ไม่ใช่เพลงมิตรภาพเลี่ยนๆ อีกเพลง#$b#เยี่ยม ฉันหวังว่าเซบาสเตียน จะไม่ว่าอะไรนะ",
+                "marriage_SatA6": "ฉันรู้ว่าบางที ฉันก็ดูไม่ค่อยคิดอะไร... ฉันเลยอยากให้เธอรู้ ว่าเธอยังเป็นเพื่อนซี้ ที่สุดของฉันอยู่นะ และฉันจะไม่มีวันมองข้าม มันเด็ดขาด ฉันรักเธอจริง นะ @$l",   
+                "marriage_vincent2": "อ้าว ไง @ วินเซนท์เพิ่งพูดถึงเธอเลย เขาบอกว่าเธอเป็นพวกผู้ใหญ่ ที่เจ๋งที่สุดในเมืองเลย#$b#แล้วพี่ล่ะ เจ้าเปี๊ยก? นายลืมพี่ป่าวเนี่ย?$h#$b#แต่เขาก็พูดไม่ผิดหรอกนะ...$l",
+                "marriage_doctorafter": "ตอนรอฉันเล่น เกมสนุกมากเลย#$b#หือ?#$b#อ่อ ช่าย หมอฮาร์วีย์บอกว่า ทุกอย่างดูดี เพราะงั้นเธอไม่ต้องกังวลหรอกนะ$h#$b#เดี๋ยวไว้เจอกันที่บ้านนะ",    
+                "marriage_nm": "นี่ เอาไปสิ#$b#%แซมคลุมเสื้อแจ็คเกตบนไหล่คุณ#$b#คืนนี้อากาศเย็นน่ะ ฉันรู้ว่าเธอทนได้ แต่ฉันดูแลเธอได้ เพราะงั้นไม่ต้องทนหรอก$u",
+                "marriage_16": "เธอมีโคลนเปื้อนหน้าน่ะ หมะ ฉันช่วยเช็ด#$b#เรียบร้อย คนต้องมองเธอจนคอเคล็ดแน่เลย รู้มั้ย เธอน่ะเหมือนเซเลบ กลายๆ เลยนะ$h",
             },
             "When": {
 		"UseLovePortraits": "true",
@@ -793,21 +793,21 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_beach4": "%Sam looks deep in thought.#$b#...$3#$b#@! Oh wow, I was just thinking about you! Good to see you.$h",
-                "marriage_b4": "Look, Vincent, it's {{Auncle}} @!#$b#Hey, now both of my favorite people are here!$h",
-                "marriage_b5": "Hey, come here and give me a hug.#$b#Don't look at me like that, Vincent. You hug your friends too.$10",
-                "marriage_b8a": "Hey, good to see you, always.#$b#{{Random: Stick around for awhile., Though I think Vincent is more excited than me. It's blowing his mind that you're basically family now.$h}}",
-                "marriage_fallb2": "%Sam smiles at you, but doesn't try to fill the silence. He seems content just to enjoy your company.",
-                "marriage_fallb5a": "%Sam looks deep in thought.#$b#Hey, don't worry about me. I'm just thinking about {{Random: food., how happy I've been since I moved in with you.}}$3",                          
-                "marriage_guitar6": "Feels just like old times!$h#$b#Time flies, huh? Still can't believe we're {{RelationshipLabel}}.",
-                "marriage_SatA": "I was just thinking... Remember that time you taught me to fry an egg?#$b#I can't believe you didn't get sick from eating all the ones I messed up. You really have an iron stomach, huh?$h#$b#If you're ever REALLY hungry, maybe we could tackle pizza next.$10",
-                "marriage_SatA2": "Where's Sebastian? I knew I should've brought a comic with me...$7#$b#Mind keeping me company until he gets here?",          
-                "marriage_SatA5": "Give me your thoughts on these lyrics. I had you in mind writing it. What do you think?$6#$b#%Sam shows you his lyrics. At least it's not another sappy friendship song.#$b#Sweet. I hope Sebastian doesn't mind.",
-                "marriage_SatA6": "I know I can sound careless at times... So I want you to know that you're still my best friend and I don't ever take that for granted. I seriously love you, @.",   
-                "marriage_vincent2": "Oh, hi @. Vincent was just talking about you. He tells me you're the coolest grown-up in town.#$b#What about me, sport? Did you forget about me?$h#$b#Although he's not wrong...$u",
-                "marriage_doctorafter": "I had a real good game going while I was waiting.#$b#Huh?#$b#Oh, yeah. Dr. Harvey said everything looks fine so you don't have to worry about a thing.$h#$b#See you back home soon.",    
-                "marriage_nm": "Hey, take this.#$b#%Sam drapes a jacket over your shoulders.#$b#It's chilly tonight. I know you can handle it, but I've got your back so you don't have to.$u",
-                "marriage_16": "Oh, you got some mud on your face. Lemme get that for you.#$b#There you go. You're going to turn heads here, you know. You're sort of like a mini celebrity.$h",
+                "marriage_beach4": "%แซมดูจมอยู่ในห้วงความคิด#$b#...$3#$b#@! โอโห ฉันเพิ่งคิดถึงเธอเลย! ดีใจที่ได้เจอนะ$h",
+                "marriage_b4": "ดูสิ วินเซนท์ {{Auncle}} ล่ะ @!#$b#หวัดดี ทีนี้คนโปรดของฉัน ทั้งสองคน ก็อยู่นี่แล้ว!$h",
+                "marriage_b5": "นี่ มากอดพี่หน่อยสิ#$b#อย่ามองพี่ แบบนั้นสิวินเซนท์ นายก็กอดเพื่อน เหมือนกันแหละน่า$10",
+                "marriage_b8a": "ไง ดีเสมอเลยนะ ที่ได้เห็นหน้าเธอ#$b#{{Random: อยู่ด้วยกันเดี๋ยวสิ, ถึงฉันจะคิดว่าวินเซนท์ ตื่นเต้นกว่าฉันซะอีกก็เหอะ เขาแทบไม่เชื่อว่าเธอ ก็ถือเป็นครอบครัวเรา แล้วตอนนี้$h}}",
+                "marriage_fallb2": "%แซมยิ้มให้คุณ แต่ก็ดูไม่ได้พยายามทำลายความเงียบ เขาดูพอใจ แค่ได้มีคุณอยู่ใกล้ๆ",
+                "marriage_fallb5a": "%แซมดูจมอยู่ในห้วงความคิด#$b#นี่ ไม่ต้องห่วงฉันหรอก ฉันแค่กำลังนึกถึง {{Random: อาหาร, ว่าฉันมีความสุขแค่ไหน ตั้งแต่ย้ายมาอยู่กับเธอ}}$3",                          
+                "marriage_guitar6": "เหมือนวันเก่าๆ เลย!$h#$b#เวลาผ่านไปเร็วมากเลยใช่มั้ย? ยังไม่อยากจะเชื่อเลยว่าเราเป็น  {{RelationshipLabel}} กัน",
+                "marriage_SatA": "ันแค่กำลังนึกถึง... จำตอนนั้นที่เธอสอนฉัน ทอดไข่ได้มั้ย?#$b#ไม่อยากจะเชื่อเลย ว่าเธอไม่ท้องเสีย หลังจากที่กินฟองที่ฉัน ทำพลาดทั้งหมดนั่น เธอนี่มีกระเพาะเหล็กจริงๆ สินะ?$h#$b#เธอวันไหนเธอ หิวจัดๆ จริงๆ ขึ้นมาล่ะก็ ไว้มาลองทำพิซซ่ากัน$10",
+                "marriage_SatA2": "เซบาสเตียนไปไหนเนี่ย? ว่าแล้วว่าน่าจะเอาการ์ตูนมา...$7#$b#อยู่เป็นเพื่อนฉัน ก่อนเซบาสเตียนจะมาได้มั้ย?", 
+                "marriage_SatA5": "เธอคิดไงกับเนื้อเพลงนี่อะ ตอนเขียนฉันนึกเธอแหละ คิดว่าไงบ้างล่ะ?$6#$b#%แซมเอาเนื้อเพลงของเขาให้คุณดู อย่างน้อยมันก็ไม่ใช่เพลงมิตรภาพเลี่ยนๆ อีกเพลง#$b#เยี่ยม ฉันหวังว่าเซบาสเตียน จะไม่ว่าอะไรนะ",
+                "marriage_SatA6": "ฉันรู้ว่าบางที ฉันก็ดูไม่ค่อยคิดอะไร... ฉันเลยอยากให้เธอรู้ ว่าเธอยังเป็นเพื่อนซี้ ที่สุดของฉันอยู่นะ และฉันจะไม่มีวันมองข้าม มันเด็ดขาด ฉันรักเธอจริง นะ @$l",   
+                "marriage_vincent2": "อ้าว ไง @ วินเซนท์เพิ่งพูดถึงเธอเลย เขาบอกว่าเธอเป็นพวกผู้ใหญ่ ที่เจ๋งที่สุดในเมืองเลย#$b#แล้วพี่ล่ะ เจ้าเปี๊ยก? นายลืมพี่ป่าวเนี่ย?$h#$b#แต่เขาก็พูดไม่ผิดหรอกนะ...$u",
+                "marriage_doctorafter": "ตอนรอฉันเล่น เกมสนุกมากเลย#$b#หือ?#$b#อ่อ ช่าย หมอฮาร์วีย์บอกว่า ทุกอย่างดูดี เพราะงั้นเธอไม่ต้องกังวลหรอกนะ$h#$b#เดี๋ยวไว้เจอกันที่บ้านนะ",    
+                "marriage_nm": "ี่ เอาไปสิ#$b#%แซมคลุมเสื้อแจ็คเกตบนไหล่คุณ#$b#คืนนี้อากาศเย็นน่ะ ฉันรู้ว่าเธอทนได้ แต่ฉันดูแลเธอได้ เพราะงั้นไม่ต้องทนหรอก$u",
+                "marriage_16": "เธอมีโคลนเปื้อนหน้าน่ะ หมะ ฉันช่วยเช็ด#$b#เรียบร้อย คนต้องมองเธอจนคอเคล็ดแน่เลย รู้มั้ย เธอน่ะเหมือนเซเลบ กลายๆ เลยนะ$h",
             },
             "When": {
 		"UseLovePortraits": "false",
@@ -818,7 +818,7 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_gm": "Hi, {{Lowercase:{{TermofEndearment}}}}. I'd co-op with you if I had another one of these.#$b#Sorry!$h",
+                "marriage_gm": "ไง {{Lowercase:{{TermofEndearment}}}} ฉันจะ co-op กับเธอหรอกนะ ถ้าฉันมีไอ้นี่อีกอัน#$b#โทษทีนะ!$h",
 		},
 		"When": {
                 	"TermofEndearment |contains=@": "false",
@@ -830,7 +830,7 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_gm": "Hi, {{TermofEndearment}}. I'd co-op with you if I had another one of these.#$b#Sorry!$h",
+                "marriage_gm": "ไง {{TermofEndearment}} ฉันจะ co-op กับเธอหรอกนะ ถ้าฉันมีไอ้นี่อีกอัน#$b#โทษทีนะ!$h",
 		},
 		"When": {
                 	"TermofEndearment": "@, BFF",
@@ -841,8 +841,8 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_w": "Hey, what're you doing here? Surely not visiting me, right?#$b#Thanks, {{Lowercase:{{TermofEndearment}}}}.$h",
-                "marriage_w4": "Hi, {{Lowercase:{{TermofEndearment}}}}! I was just admiring all these gems and fossils on display.#$b#Gunther told me you collected them all by yourself!$h"
+                "marriage_w": "ไง เธอมาทำไรที่นี่อะ? ไม่ได้มาหาฉันแน่สินะ?#$b#ขอบใจนะ {{Lowercase:{{TermofEndearment}}}}$h",
+                "marriage_w4": "หวัดดี {{Lowercase:{{TermofEndearment}}}}! ฉันกำลังชื่นชม อัญมณีกับฟอสซิล ที๋โชว์อยู่นี่พอดี#$b#กันเธอร์บอกว่า เธอรวบรวมทั้งหมดนี่ ด้วยตัวเองคนเดียวเลยสินะ!$h"
             },
             "When": {
                 "IsCommunityCenterComplete": true,
@@ -855,8 +855,8 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_w": "Hey, what're you doing here? Surely not visiting me, right?#$b#Thanks, {{TermofEndearment}}.$h",
-                "marriage_w4": "Hi, {{TermofEndearment}}! I was just admiring all these gems and fossils on display.#$b#Gunther told me you collected them all by yourself!$h"
+                "marriage_w": "ไง เธอมาทำไรที่นี่อะ? ไม่ได้มาหาฉันแน่สินะ?#$b#ขอบใจนะ {{TermofEndearment}}$h",
+                "marriage_w4": "หวัดดี {{TermofEndearment}}! ฉันกำลังชื่นชม อัญมณีกับฟอสซิล ที๋โชว์อยู่นี่พอดี#$b#กันเธอร์บอกว่า เธอรวบรวมทั้งหมดนี่ ด้วยตัวเองคนเดียวเลยสินะ!$h"
             },
             "When": {
                 "IsCommunityCenterComplete": true,
@@ -868,7 +868,7 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sam",
             "Entries": {
-                "marriage_w4": "We shouldn't be talking, Morris has the eyes of a hawk. I miss you, I'll see you after."
+                "marriage_w4": "เราไม่ควรคุยกันนะ มอร์ริสตายังกับเหยี่ยว ฉันคิดถึงเธอนะ ไว้เดี๋ยวเจอกันหลังเลิกนะ"
             },
             "When": {
                 "IsCommunityCenterComplete": false,

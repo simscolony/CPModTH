@@ -72,7 +72,7 @@
             "Target": "Characters/Dialogue/Caroline",
             "Entries":
             {
-                "NPC.cs.3965": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีำว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
+                "NPC.cs.3965": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
                 "NPC.cs.3966": "ให้ย้ายไปอยู่กับแอ๊บบี้หรอ? ...ค่อยมาถามฉันอีกทีตอนฉันกลายเป็นกระจกแล้วนะฮ่าๆ$2",
                 "NPC.cs.3967": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีำว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
                 "NPC.cs.3968": "ให้ย้ายไปอยู่กับแอ๊บบี้หรอ? ...ค่อยมาถามฉันอีกทีตอนฉันกลายเป็นกระจกแล้วนะฮ่าๆ$2",
@@ -87,13 +87,13 @@
             "Target": "Characters/Dialogue/Abigail",
             "Entries":
             {
-                "NPC.cs.4442": "I feel a little nauseated this morning...I've been so anxious about the adoption paperwork that it's making me feel sick.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I stayed up too late refreshing my email...$s#$b#I hope the adoption agency gets back to us soon.",
-                "NPC.cs.4443": "I'm tired... can't you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I can't believe we're really adopting. Coparenting with my best friend is a whole new kind of adventure!$h",
-                "NPC.cs.4447": "{{TermofEndearment}}, I can't believe we're really adopting. Coparenting with my best friend is a whole new kind of adventure!$h",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm feeling optimistic about the adoption.",
-                "NPC.cs.4448": "{{TermofEndearment}}, I'm feeling optimistic about the adoption.",
+                "NPC.cs.4442": "เมื่อเช้าฉันรู้สึกคลื่นไส้แปลกๆ...น่าจะเป็นเพราะเรื่องคําร้องขอจดทะเบียนรับบุตรบุญธรรมแน่ๆเลย...$s",
+                "NPC.cs.4446": "วันนี้ฉันรู้สึกง่วงมากๆเลยแฮะ...น่าจะเป็นเพราะว่าฉันเอาแต่รอจดหมายทางอีเมล$s#$b#ฉันหวังว่าหน่วยงานรับเลี้ยงบุตรจะส่งอีเมลมาในเร็วๆนี้นะ",
+                "NPC.cs.4443": "เหนื่อยจังเลย... ทำอาหารเช้ากินเองไปละกัน$s",
+                "NPC.cs.4444": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลยว่าเรากำลังจะได้รับเลี้ยงเด็กด้วยกันน่าจะเป็นอะไรที่สุดยอดมากๆเลย!$h",
+                "NPC.cs.4447": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลยว่าเรากำลังจะได้รับเลี้ยงเด็กด้วยกันน่าจะเป็นอะไรที่สุดยอดมากๆเลย!$h",
+                "NPC.cs.4445": "{{TermofEndearment}}, ฉันคิดว่าการรับเลี้ยงเด็กจะต้องดีมากแน่ๆ",
+                "NPC.cs.4448": "{{TermofEndearment}}, ฉันคิดว่าการรับเลี้ยงเด็กจะต้องดีมากแน่ๆ",
             },
             "When":
             {
@@ -105,7 +105,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Game1.cs.2782": "Wasn't that a great ceremony? It was worth getting dressed up for.#$e#Well, onto the next adventure!$h",
+                "Game1.cs.2782": "นั่นไม่ใช่เรื่องดีๆหรอ? ฉันว่าแต่งตัวให้พร้อมดีกว่านะ#$e#เอาล่ะ!เริ่มการผจญภัยครั้งใหม่ได้เลย!$h",
             },
             "When":
             {
@@ -117,15 +117,15 @@
             "Target": "Characters/Dialogue/MarriageDialogueAbigail",
             "Entries":
             {
-                "Rainy_Night_5": "Hey! You look like you've been hard at work. Can I get you anything?$h",
-                "Good_5": "I was just admiring the pendant you gave me when you asked me to live with you... I'll proudly wear this to my grave.",
-                "Neutral_0": "I hope you'll still like me when I'm too old to bring you presents from the mines.#$b#It's going to happen some day!",
-                "Bad_9": "I was good friends with Sebastian long before we met. I could have made a life with him...$s",
-                "spring_12": "Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you just because we're best friends!$h#$e#I plan on winning that egg hunt. Go ahead and try to beat me.",
-                "summer_1": "I don't like getting sunburnt, so I need to be careful this time of year.",
-                "summer_4": "Make sure you don't get a heat stroke, @.#$e#Drink plenty of water and don't overwork yourself.",
-                "fall_2": "Can we grow giant pumpkins this season? Please, @?$h",
-                "fall_20": "@... you're worth more to me than a chest full of quartz.#$e#Now, a chest full of amethyst? Hmm... I'd have to think about that one.$h",
+                "Rainy_Night_5": "นี่?ฉันว่าเธอดูเหนื่อยๆนะมีอะไรที่ฉันพอจะช่วยได้มั้ย?$h",
+                "Good_5": "ฉันกำลังนั่งดูสร้อยคอตอนที่เธอขอให้ฉันมาอยู่ด้วยอยู่ล่ะ... ฉันตั้งใจไว้ว่าจะเอาตั้งไว้หน้าหลุมศพของฉัน",
+                "Neutral_0": "ฉันหวังว่าเธอจะยังรักฉันจนฉันแก่ตัวจนเอาของขวัญจากเหมืองมาให้เธอไม่ได้อีกแล้ว#$b#เดี๋ยววันนั้นมันก็จะมาถึงเองแหละ!",
+                "Bad_9": "ฉันเคยเป็นเพื่อนรักกับเซบาสเตียนก่อนที่จะมาเจอเธอ ฉันน่าจะไปอยู่กับเขานะ...$s",
+                "spring_12": "นี่!วันพรุ่งนี้ก็จะถึงเทศกาลไข่อีสเตอร์แล้วนะเธอเตรียมตัวรึยังแต่บอกไว้ก่อนนะถึงเราจะเป็นเพื่อนรักกันฉันก็จะไม่ออมมือให้หรอก!$h#$e#ฉันตั้งใจเอาไว้ว่าฉันจะต้องชนะไม่งั้นก็ลองเอาชนะฉันดูสิ!",
+                "summer_1": "ฤดูนี้มาอีกแล้วหรอฉันยิ่งไม่ชอบโดนแดดเผาด้วยสิต้องระวังหน่อยแล้ว",
+                "summer_4": "ระวังอย่าให้เป็นลมแดดซะล่ะ @#$e#ดื่มน้ำเยอะๆแล้วก็อย่าหักโหมนะ",
+                "fall_2": "เรามาปลูกฟักทองยักษ์กันเถอะนะฉันขอละขอร้องนะ @?$h",
+                "fall_20": "@... รู้มั้ยว่าสำหรับฉันแล้วเธอมีค่ามากกว่ากล่องที่เต็มไปด้วยแร่ต่างๆอีกนะ#$e#แต่ถ้ากล่องนั้นเต็มไปด้วยแร่แอเมทิสต์.. ฉันคงจะต้องคิดใหม่ละนะฮ่า$h",
             },
         },
         {
@@ -133,7 +133,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueAbigail",
             "Entries":
             {
-                "Indoor_Night_Abigail": "I can't wait to curl up under the old electric blanket.",
+                "Indoor_Night_Abigail": "รอไม่ไหวแล้วที่จะได้ไปนอนห่มผ้าห่มไฟฟ้า",
             },
             "When":
             {
@@ -145,7 +145,7 @@
             "Target": "Characters/Dialogue/Sebastian",
             "Entries":
             {
-                "Wed2_inlaw_Abigail": "Sam and Abby are probably my only friends in this town.#$e#Abby's really... I kind of... $h#$e#Umm... nevermind. Don't tell her I said anything.",
+                "Wed2_inlaw_Abigail": "แซมกับแอ๊บบี้เป็นเพื่อนเพียงกลุ่มเดียวของฉันในเมืองนี้แล้วละ#$e#แอ๊บบี้ค่อนข้างที่จะ... ที่จะแบบว่า... $h#$e#เอ่อ..ช่างมันเถอะเอาเป็นว่าอย่าไปบอกแอ๊บบี้ว่าฉันพูดถึงเธอนะ",
             },
         },
         {
@@ -153,7 +153,7 @@
             "Target": "Characters/Dialogue/Caroline",
             "Entries":
             {
-                "Mon_inlaw_Abigail": "Hi, @. Are you and Abby enjoying life as {{RelationshipLabel}}? I hope so!",
+                "Mon_inlaw_Abigail": "ว่าไง @ เธอกับแอ๊บบี้มีความสุขดีมั้ยในฐานะ {{RelationshipLabel}}? ฉันก็หวังให้มีความสุขนะ!",
             },
         },
         {
@@ -161,7 +161,7 @@
             "Target": "Characters/Dialogue/Pierre",
             "Entries":
             {
-                "Mon_inlaw_Abigail": "Hello, @. How are things with you and Abigail?",
+                "Mon_inlaw_Abigail": "ไง @ เดี๋ยวนี้เธอแอ๊บบี้เป็นไงกันบ้าง",
             },
         },
         {
@@ -169,8 +169,8 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Abigail0": "Hehe. Me? Moving to a farm? I never thought this would happen.$h#$e#We're going to have a lot of fun together.$h",
-                "Abigail1": "I'm going to be {{RelationshipLabel}} with a farmer. Wow!$h#$e#Our lives are going to be a lot different from now on.$n",
+                "Abigail0": "ฉันคนนี้เนี่ยนะ? ที่จะย้ายไปอยู่ฟาร์ม? ไม่เคยคิดเลยว่าจะเกิดขึ้น$h#$e#พวกเราจะต้องมีความสุขมากแน่ๆเลย$h",
+                "Abigail1": "ฉันกำลังจะได้เป็น {{RelationshipLabel}} กับชาวไร่ด้วยล่ะ!$h#$e#ชีวิตเราจะต้องมีอะไรเกิดขึ้นมากมายแน่ๆ$n",
             },
         },
         {
@@ -178,7 +178,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Abigail": "Standing here, looking out on the horizon... I get a feeling of endless possibility.#$b#I'm just happy I get to explore this world, with you by my side.",
+                "SummitEvent_Dialogue3_Abigail": "ยืนอยู่ตรงนี้แล้วมองออกไปที่เส้นขอบฟ้า... ฉันรู้สึกเหมือนความรู้สึกมันพรั่งพรูออกมาไม่รู้จบเลย#$b#ฉันมีความสุขมากเลยที่ได้ออกผจญภัยกับเธอ",
             },
         },
         {
@@ -186,7 +186,7 @@
             "Target": "Data/Festivals/winter8",
             "Entries":
             {
-                "Abigail_spouse": "Hey, @... look, it's you!$h",
+                "Abigail_spouse": "ไง @... ดูนี่มันเป็นของเธอนะ!$h",
             },
         },
         {
@@ -194,7 +194,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Event.cs.1613": "B... But... I wanted to dance with...$s#$b#Just kidding! Of course I'm dancing with you. You're my favorite person!$h",
+                "Event.cs.1613": "ต...แต่...ฉันอยากจะเต้นกับ..$s#$b#ฮ่าล้อเล่นน่าฉันอยากเต้นกับเธออยู่แล้ว เพราะเธอคือคนพิเศษยังไงล่ะ!$h",
             },
         },
         {
@@ -202,7 +202,7 @@
             "Target": "Data/Events/SeedShop",
             "Entries":
             {
-                "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": "echos/-1000 -1000/farmer 13 6 3 Abigail 6 8 1/skippable/specificTemporarySprite abbyOuijaCandles/viewport 7 5/speak Abigail \"Hey! I was hoping you'd show up. I wanna show you something.\"/move farmer -5 0 0/move farmer 0 2 3/faceDirection Abigail 2/speak Abigail \"See this? It's called a spirit board. Have you ever used one?\"/emote farmer 8/move Abigail 0 2 1/move farmer 0 2 3/pause 500/speak Abigail \"Put your hands on the planchette with me...\"/showFrame Abigail 30/pause 200/animate farmer true true 9999 89/pause 600/speak Abigail \"Now the spirits will guide us toward a...$h\"/showFrame Abigail 31/pause 500/speak Abigail \"LOOK, it's moving!$7\"/emote farmer 16/speak Abigail \"The first letter is... 'C' ...\"/pause 600/speak Abigail \"Next is... 'O' ...\"/pause 800/speak Abigail \"Wow, look at it go! It's spelling out... 'W'... 'A'... COWA...?\"/emote Abigail 16/showFrame Abigail 12/faceDirection Abigail 3/stopMusic/pause 200/stopAnimation farmer/faceDirection Abigail 1/pause 400/specificTemporarySprite abbyOuija/playSound swordswipe/pause 900/playSound seeds/pause 500/speak Abigail \"Oops, accidentally knocked over the board! Heh heh...$h#$b#It's just a silly game, it doesn't mean anything.$9\"/faceDirection Abigail 3/emote Abigail 28/faceDirection Abigail 1/speak Abigail \"I, um, have something to do. You'll have to go... Sorry.$9\"/faceDirection Abigail 2/emote farmer 28/pause 500/move farmer 0 -3 0/pause 800/faceDirection farmer 2/pause 1000/move farmer 5 0 1 true/globalFade/viewport -1000 -1000/end invisibleWarpOut Abigail",
+                "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": "echos/-1000 -1000/farmer 13 6 3 Abigail 6 8 1/skippable/specificTemporarySprite abbyOuijaCandles/viewport 7 5/speak Abigail \"ฉันกำลังอยากให้เธอมาที่นี่พอดีเลยตามมาสิฉันมีอะไรจะให้เธอดู\"/move farmer -5 0 0/move farmer 0 2 3/faceDirection Abigail 2/speak Abigail \"เห็นนี่มั้ยเค้าเรียกว่ากระดานวิญญาณน่ะเคยใช้มาก่อนมั้ย?\"/emote farmer 8/move Abigail 0 2 1/move farmer 0 2 3/pause 500/speak Abigail \"เอามือเธอแตะที่ไม้กระดานนะ...\"/showFrame Abigail 30/pause 200/animate farmer true true 9999 89/pause 600/speak Abigail \"เอาล่ะที่นี้วิญญาณจะคอยนำเรานะ...$h\"/showFrame Abigail 31/pause 500/speak Abigail \"ดูสิ!มันขยับแล้ว!$7\"/emote farmer 16/speak Abigail \"ตัวอักษรแรกคือ... 'ต' ...\"/pause 600/speak Abigail \"ต่อไปคือ... 'า' ...\"/pause 800/speak Abigail \"ดูสิๆจะได้เป็นคำว่าอะไรนะ! อะนั้นไงๆ... 'ข'... 'า'... พวกขี้ขลาดตาข...?\"/emote Abigail 16/showFrame Abigail 12/faceDirection Abigail 3/stopMusic/pause 200/stopAnimation farmer/faceDirection Abigail 1/pause 400/specificTemporarySprite abbyOuija/playSound swordswipe/pause 900/playSound seeds/pause 500/speak Abigail \"โอ๊ะ เผลอทำกระดานหล่นซะได้! อิอิ...$h#$b#มันก็แค่เกมเล่นขำๆน่ะไม่ต้องไปสนใจหรอก$9\"/faceDirection Abigail 3/emote Abigail 28/faceDirection Abigail 1/speak Abigail \"อ..เอ่อคือฉันต้องไปแล้วนะลาก่อน$9\"/faceDirection Abigail 2/emote farmer 28/pause 500/move farmer 0 -3 0/pause 800/faceDirection farmer 2/pause 1000/move farmer 5 0 1 true/globalFade/viewport -1000 -1000/end invisibleWarpOut Abigail",
             },
         },
         {
