@@ -16,8 +16,8 @@
         }
     ],
     "content": {
-        "LearnedRecipe_cooking": "การทำอาหาร",
-        "LearnedRecipe_crafting": "การประดิษฐ์",
+        "LearnedRecipe_cooking": "อาหาร",
+        "LearnedRecipe_crafting": "คราฟ",
         "LearnedRecipe": "คุณได้เรียนวิธี {0} ใหม่: {1}",
         "FarmerFile_1": "บันทึก: {0}\nก้าวทั้งหมด: {1}\nของขวัญที่ให้: {2}\nวันในสตาร์ดิวแวลลี่: {3}\nดินที่ขุด: {4}\nไอเท็มที่ประดิษฐ์: {5}\nอาหารที่ทำ: {6}\nขยะที่รีไซเคิล: {7}",
         "FarmerFile_2": "มอนสเตอร์ที่ฆ่า: {0}\nปลาที่จับได้: {1}\nเบ็ดที่เหวี่ยง: {2}\nเมล็ดที่หว่าน: {3}\nของที่ขาย: {4} ",
@@ -190,7 +190,7 @@
         "JunimoNote_MustBeAtCC": "ต้องนำไปส่งที่ศูนย์ชุมชน",
         "JunimoNote_MustBeAtAJM": "ต้องนำไปส่งที่ร้านโจจ้าร้าง",
         "LetterViewer_MoneyIncluded": "มี $ {0}g แนบมาด้วย",
-        "LetterViewer_LearnedRecipe": "สูตร {0} ชนิดใหม่:",
+        "LetterViewer_LearnedRecipe": "สูตร{0}ชนิดใหม่:",
         "LetterViewer_LearnedRecipeName": "'{0}'",
         "LevelUp_Title": "{1} เลเวล {0}",
         "LevelUp_Stamina_Restored": "พลังงานเต็มแล้ว!",
@@ -264,7 +264,7 @@
         "LevelUp_ProfessionName_Desperado": "อาชญากร\n(Desperado)",
         "LevelUp_ProfessionDescription_Desperado": "ถ้าโจมตีติดคริติคอลศัตรูจะตาย",
         "LevelUp_ChooseProfession": "เลือกอาชีพที่ต้องการ:",
-        "LevelUp_NewRecipe": "สูตร {0} ชนิดใหม่: {1}",
+        "LevelUp_NewRecipe": "สูตร{0}ชนิดใหม่: {1}",
         "LoadGameMenu_LookingForSavedGames": "กำลังหาเกมที่เซฟไว้...",
         "LoadGameMenu_Deleting": "กำลังลบ...",
         "TitleMenu_PressAToStart": "กด @ เพื่อเริ่มเกม",
