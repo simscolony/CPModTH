@@ -72,7 +72,7 @@
             "Target": "Characters/Dialogue/Caroline",
             "Entries":
             {
-                "NPC.cs.3965": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีำว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
+                "NPC.cs.3965": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
                 "NPC.cs.3966": "ให้ย้ายไปอยู่กับแอ๊บบี้หรอ? ...ค่อยมาถามฉันอีกทีตอนฉันกลายเป็นกระจกแล้วนะฮ่าๆ$2",
                 "NPC.cs.3967": "ฉันไม่ต้องคอยอยู่กับแอ๊บบี้ไปตลอดหรอกเพราะฉันรู้ดีำว่าเธอจะสบายดีแน่ถ้าอยู่กับเธอ",
                 "NPC.cs.3968": "ให้ย้ายไปอยู่กับแอ๊บบี้หรอ? ...ค่อยมาถามฉันอีกทีตอนฉันกลายเป็นกระจกแล้วนะฮ่าๆ$2",
@@ -87,13 +87,13 @@
             "Target": "Characters/Dialogue/Abigail",
             "Entries":
             {
-                "NPC.cs.4442": "I feel a little nauseated this morning...I've been so anxious about the adoption paperwork that it's making me feel sick.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I stayed up too late refreshing my email...$s#$b#I hope the adoption agency gets back to us soon.",
-                "NPC.cs.4443": "I'm tired... can't you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I can't believe we're really adopting. Coparenting with my best friend is a whole new kind of adventure!$h",
-                "NPC.cs.4447": "{{TermofEndearment}}, I can't believe we're really adopting. Coparenting with my best friend is a whole new kind of adventure!$h",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm feeling optimistic about the adoption.",
-                "NPC.cs.4448": "{{TermofEndearment}}, I'm feeling optimistic about the adoption.",
+                "NPC.cs.4442": "เมื่อเช้าฉันรู้สึกคลื่นไส้แปลกๆ...น่าจะเป็นเพราะเรื่องคําร้องขอจดทะเบียนรับบุตรบุญธรรมแน่ๆเลย...$s",
+                "NPC.cs.4446": "วันนี้ฉันรู้สึกง่วงมากๆเลยแฮะ...น่าจะเป็นเพราะว่าฉันเอาแต่รอจดหมายทางอีเมล$s#$b#ฉันหวังว่าหน่วยงานรับเลี้ยงบุตรจะส่งอีเมลมาในเร็วๆนี้นะ",
+                "NPC.cs.4443": "เหนื่อยจังเลย... ทำอาหารเช้ากินเองไปละกัน$s",
+                "NPC.cs.4444": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลยว่าเรากำลังจะได้รับเลี้ยงเด็กด้วยกันน่าจะเป็นอะไรที่สุดยอดมากๆเลย!$h",
+                "NPC.cs.4447": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลยว่าเรากำลังจะได้รับเลี้ยงเด็กด้วยกันน่าจะเป็นอะไรที่สุดยอดมากๆเลย!$h",
+                "NPC.cs.4445": "{{TermofEndearment}}, ฉันคิดว่าการรับเลี้ยงเด็กจะต้องดีมากแน่ๆ",
+                "NPC.cs.4448": "{{TermofEndearment}}, ฉันคิดว่าการรับเลี้ยงเด็กจะต้องดีมากแน่ๆ",
             },
             "When":
             {
@@ -105,7 +105,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Game1.cs.2782": "Wasn't that a great ceremony? It was worth getting dressed up for.#$e#Well, onto the next adventure!$h",
+                "Game1.cs.2782": "นั่นไม่ใช่เรื่องดีๆหรอ? ฉันว่าแต่งตัวให้พร้อมดีกว่านะ#$e#เอาล่ะ!เริ่มการผจญภัยครั้งใหม่ได้เลย!$h",
             },
             "When":
             {
@@ -117,14 +117,14 @@
             "Target": "Characters/Dialogue/MarriageDialogueAbigail",
             "Entries":
             {
-                "Rainy_Night_5": "Hey! You look like you've been hard at work. Can I get you anything?$h",
-                "Good_5": "I was just admiring the pendant you gave me when you asked me to live with you... I'll proudly wear this to my grave.",
-                "Neutral_0": "I hope you'll still like me when I'm too old to bring you presents from the mines.#$b#It's going to happen some day!",
-                "Bad_9": "I was good friends with Sebastian long before we met. I could have made a life with him...$s",
-                "spring_12": "Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you just because we're best friends!$h#$e#I plan on winning that egg hunt. Go ahead and try to beat me.",
-                "summer_1": "I don't like getting sunburnt, so I need to be careful this time of year.",
-                "summer_4": "Make sure you don't get a heat stroke, @.#$e#Drink plenty of water and don't overwork yourself.",
-                "fall_2": "Can we grow giant pumpkins this season? Please, @?$h",
+                "Rainy_Night_5": "นี่?ฉันว่าเธอดูเหนื่อยๆนะมีอะไรที่ฉันพอจะช่วยได้มั้ย?$h",
+                "Good_5": "ฉันกำลังนั่งดูสร้อยคอตอนที่เธอขอให้ฉันมาอยู่ด้วยอยู่ล่ะ... ฉันตั้งใจไว้ว่าจะเอาตั้งไว้หน้าหลุมศพของฉัน",
+                "Neutral_0": "ฉันหวังว่าเธอจะยังรักฉันจนฉันแก่ตัวจนเอาของขวัญจากเหมืองมาให้เธอไม่ได้อีกแล้ว#$b#เดี๋ยววันนั้นมันก็จะมาถึงเองแหละ!",
+                "Bad_9": "ฉันเคยเป็นเพื่อนรักกับเซบาสเตียนก่อนที่จะมาเจอเธอ ฉันน่าจะไปอยู่กับเขานะ...$s",
+                "spring_12": "นี่!วันพรุ่งนี้ก็จะถึงเทศกาลไข่อีสเตอร์แล้วนะเธอเตรียมตัวรึยังแต่บอกไว้ก่อนนะถึงเราจะเป็นเพื่อนรักกันฉันก็จะไม่ออมมือให้หรอก!$h#$e#ฉันตั้งใจเอาไว้ว่าฉันจะต้องชนะไม่งั้นก็ลองเอาชนะฉันดูสิ!",
+                "summer_1": "ฤดูนี้มาอีกแล้วหรอฉันยิ่งไม่ชอบโดนแดดเผาด้วยสิต้องระวังหน่อยแล้ว",
+                "summer_4": "ระวังอย่าให้เป็นลมแดดซะล่ะ @#$e#ดื่มน้ำเยอะๆแล้วก็อย่าหักโหมนะ",
+                "fall_2": "เรามาปลูกฟักทองยักษ์กันเถอะนะฉันขอละขอร้องนะ @?$h",
                 "fall_20": "@... you're worth more to me than a chest full of quartz.#$e#Now, a chest full of amethyst? Hmm... I'd have to think about that one.$h",
             },
         },
