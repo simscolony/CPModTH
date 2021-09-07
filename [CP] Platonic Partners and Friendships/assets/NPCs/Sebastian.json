@@ -641,7 +641,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่น!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}} นี่-$7#$b#โอ้โห คราวนี้ได้อะไรมาล่ะ$u#$b#เอาจริงนะ เสื้อผ้าคุณไหม้หมดเลย แล้วคุณก็ดูเหมือน ถูกอะไรสักอย่างไหม้ด้วย เป็นอะไรรึเปล่า$2#$b#ไม่ได้เจ็บอะไรนะ ดีแล้ว อย่าทำให้ฉัน กังวลแบบนี้สิ...#$b#พูดจริงๆ นะ ว่าแต่... นั่นอะไรน่ะ สไลม์ลาวาเหรอ อาจจะเป็น... มังกรรึเปล่า$7\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่น!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}} นี่-$7#$b#โอ้โห คราวนี้ไปโดนอะไรมา$u#$b#เอาจริงนะ เสื้อผ้าคุณไหม้หมดเลย แล้วคุณก็ดูเหมือน ถูกอะไรสักอย่างไหม้ด้วย เป็นอะไรรึเปล่า$2#$b#ไม่ได้เจ็บอะไรนะ ดีแล้ว อย่าทำให้ฉัน กังวลแบบนี้สิ...#$b#พูดจริงๆ นะ ว่าแต่... นั่นอะไรน่ะ สไลม์ลาวาเหรอ อาจจะเป็น... มังกรรึเปล่า$7\"",
    		    },
 		    "When": {
                 	"HasFlag |contains=addedParrotBoy, leoMoved": "false",
@@ -655,7 +655,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"โอ้ คุณตื่นแล้ว! ดีเลย!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"That's right! If my bird friends hadn't found you, the spirits may have eaten you like we eat Golden Walnuts.$1#$b#But my friends say you will be okay. Just be more careful the next time, yeah?\"/pause 500/message \"I'm going to get a worried look if I go home like this...\"/pause 500/emote farmer 40/message \"I definitely look worse than I feel, though. That's reassuring.\"/pause 500/speak Leo \"Really, though... Maybe you should wash in the river.#$b#Falling asleep on hot rocks is not good for you. You look like a coconut left too long on the fire.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}}, hey-$7#$b#Oh, wow. What got you this time around?$u#$b#Seriously, your clothes are all burnt and you look like you were scorched by something. Are you okay?$2#$b#You're not in pain? That's good. Really wish you wouldn't make me worry like that...#$b#Really, though... what was it? A lava slime? Maybe... a dragon?$7\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"โอ้ คุณตื่นแล้ว! ดีเลย!#$b#เพื่อนๆ ที่เป็นนกของผม เจอคุณในภูเขาไฟ พวกเขาบอกว่า ดวงวิญญาณแห่งไฟ ไม่พอใจคุณ และพยายามปรุงคุณ เป็นอาหารด้วยครับ#$b#แต่เพื่อนๆ ผมหยุดดวงวิญญาณทันพอดี แล้วก็พาคุณมาที่นี่ครับ!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"ครับ! ถ้าเพื่อนๆ ผมไม่เจอคุณ คุณคงโดนดวงวิญญาณดวงนั้นกินไปแล้ว เหมือนที่พวกเรากินวอลนัตทองอ่ะ$1#$b#เพื่อนๆ ผมบอกว่า คุณจะปลอดภัย แต่คราวหน้า ระวังตัวให้มากกว่านี้ละกัน โอเคนะครับ\"/pause 500/message \"กลับบ้านสภาพนี้ คนที่บ้านเป็นห่วงแหง...\"/pause 500/emote farmer 40/message \"แต่ที่แน่ๆ สภาพฉันดูแย่กว่าที่ฉันรู้สึกซะอีก ร้อยเปอร์เซ็นต์\"/pause 500/speak Leo \"จริงครับ แต่... บางทีคุณควรไปล้างตัว ที่แม่น้ำก็ได้นะครับ#$b#เผลอหลับบนหินร้อนๆ ไม่ดีนะครับ คุณจะเหมือนมะพร้าวที่ถูกทิ้งไว้นานๆ ในกองไฟเลย$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}} นี่-$7#$b#โอ้โห คราวนี้ไปโดนอะไรมา$u#$b#เอาจริงนะ เสื้อผ้าคุณไหม้หมดเลย แล้วคุณก็ดูเหมือน ถูกอะไรสักอย่างไหม้ด้วย เป็นอะไรรึเปล่า$2#$b#ไม่ได้เจ็บอะไรนะ ดีแล้ว อย่าทำให้ฉัน กังวลแบบนี้สิ...#$b#พูดจริงๆ นะ ว่าแต่... นั่นอะไรน่ะ สไลม์ลาวาเหรอ อาจจะเป็น... มังกรรึเปล่า$7\"",
     		},
 		    "When": {
 		        "HasFlag": "addedParrotBoy",
@@ -669,7 +669,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}}, hey-$7#$b#Oh, wow. What got you this time around?$u#$b#Seriously, your clothes are all burnt and you look like you were scorched by something. Are you okay?$2#$b#You're not in pain? That's good. Really wish you wouldn't make me worry like that...#$b#Really, though... what was it? A lava slime? Maybe... a dragon?$7\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"ไอ้หนูเป็นอะไรไหม เห็นเธอนอนตรงทราย เลยกลัวว่าเธอตายแล้วซะอีก\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"เข้าไปในภูเขาไฟนั่น ก็ระวังตัวกว่านี้หน่อยซี ไอ้หนู#$b#ตอนนี้พ่อหนูลีโอ ก็ไปอยู่สตาร์ดิวแวลลี่แล้ว ถ้าเธอเจ็บขึ้นมา โอกาสที่คนจะมาเจอเธอ ก็น้อยลงทุกทีนะ#$b#Ah... เสื้อผ้าเธอไหม้หมดเลย ตัวเธอก็เปื้อนขี้เถ้าอีก หวังว่าตอนกลับบ้านไป เธอจะไม่ทำ {{SocialMenuLabel}} ตกใจกลัวนะ$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}}, นี่-$7#$b#โอ้โห คราวนี้ไปโดนอะไรมา$u#$b#เอาจริงนะ เสื้อผ้าคุณไหม้หมดเลย แล้วคุณก็ดูเหมือน ถูกอะไรสักอย่างไหม้ด้วย เป็นอะไรรึเปล่า$2#$b#ไม่ได้เจ็บอะไรนะ ดีแล้ว อย่าทำให้ฉัน กังวลแบบนี้สิ...#$b#พูดจริงๆ นะ ว่าแต่... นั่นอะไรน่ะ สไลม์ลาวาเหรอ อาจจะเป็น... มังกรรึเปล่า$7\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -684,8 +684,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funLeave_Sebastian": "#$c .5#My body's feeling a little sore this morning. I need to stretch these legs.#Hey, you're up. I didn't want to leave without seeing you first.$h#$e#$c .5#I'm going out. Need some time for myself.#Wonder how Mom's doing. Think I'll visit her later today.#$b#If we don't bump into each other in town then I'll see you in the evening.",
-                "funReturn_Sebastian": "#$c .5#My day was fine, nothing much to tell you about.#I didn't do much today so I won't bore you with the details.#$e#$c .5#Why don't you tell how yours went instead?$h#I'm heading out early tomorrow so I'll be going to bed soon.#$e#Hey, I love you.$l"
+                "funLeave_Sebastian": "#$c .5#เช้านี้ รู้สึกปวดเนื้อปวดตัวนิดหน่อย ต้องไปยืดขาละ#ตื่นแล้วเหรอ ฉันอยากเห็นหน้าเธอ ก่อนออกไปน่ะ$h#$e#$c .5#ฉันไปละนะ อยากใช้เวลากับตัวเองหน่อย#แม่เป็นไงบ้างนะ วันนี้จะไปหาด้วยละกัน#$b#ถ้าเราไม่บังเอิญเจอกันในเมือง ก็เจอกันตอนเย็นนะ",
+                "funReturn_Sebastian": "#$c .5#ฉันสบายดี ไม่มีเรื่องอะไรให้เล่า มากมาย#วันนี้ ไม่ได้ทำอะไรเยอะอยู่แล้ว ฉันก็จะไม่เล่ารายละเอียด ให้เธอเบื่อหรอก#$e#$c .5#ทำไม ไม่เล่าวันของเธอแทนล่ะ$h#พรุ่งนี้ฉันไปแต่เช้านะ เลยจะนอนเร็วหน่อย#$e#นี่ ฉันรักเธอนะ$l"
             },
             "When": {
                 "DayOfWeek": "Monday",
@@ -697,8 +697,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funLeave_Sebastian": "#$c .5#My body's feeling a little sore this morning. I need to stretch these legs.#Hey, you're up. I didn't want to leave without seeing you first.$h#$e#$c .5#I'm going out. Need some time for myself.#Wonder how Mom's doing. Think I'll visit her later today.#$b#If we don't bump into each other in town then I'll see you in the evening.",
-                "funReturn_Sebastian": "#$c .5#My day was fine, nothing much to tell you about.#I didn't do much today so I won't bore you with the details.#$e#$c .5#Why don't you tell how yours went instead?$h#I'm heading out early tomorrow so I'll be going to bed soon.#$e#Hey, I love you.$7"
+                "funLeave_Sebastian": "#$c .5#เช้านี้ รู้สึกปวดเนื้อปวดตัวนิดหน่อย ต้องไปยืดขาละ#ตื่นแล้วเหรอ ฉันอยากเห็นหน้าเธอ ก่อนออกไปน่ะ$h#$e#$c .5#ฉันไปละนะ อยากใช้เวลากับตัวเองหน่อย#แม่เป็นไงบ้างนะ วันนี้จะไปหาด้วยละกัน#$b#ถ้าเราไม่บังเอิญเจอกันในเมือง ก็เจอกันตอนเย็นนะ",
+                "funReturn_Sebastian": "#$c .5#ฉันสบายดี ไม่มีเรื่องอะไรให้เล่า มากมาย#วันนี้ ไม่ได้ทำอะไรเยอะอยู่แล้ว ฉันก็จะไม่เล่ารายละเอียด ให้เธอเบื่อหรอก#$e#$c .5#ทำไม ไม่เล่าวันของเธอแทนล่ะ$h#พรุ่งนี้ฉันไปแต่เช้านะ เลยจะนอนเร็วหน่อย#$e#นี่ ฉันรักเธอนะ$7"
             },
             "When": {
                 "DayOfWeek": "Monday",
@@ -710,8 +710,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funLeave_Sebastian": "#$c .5#Hey, morning. Did you sleep well?$h#Hey, do I look presentable enough to be out in public?#$e#$c .5#I need to head into town later today. I'll stick around the house for a few more hours.$7#I think I need some air today...#$b#Hey, friendo. I love you. Don't forget that.$l",
-                "funReturn_Sebastian": "#$c .5#My legs are stiff from sitting around all day, but I got a lot done.$7#Here, this was in my snack bundle. I didn't get to finish it... Okay, maybe I just don't like them.[403 243 203 731 223]$h#$e#It's good to be home.$7"
+                "funLeave_Sebastian": "#$c .5#อรุณสวัสดิ์ หลับสบายไหม$h#นี่ ฉันดูเรียบร้อย พอจะออกไปข้างนอกได้ยัง#$e#$c .5#วันนี้ต้องเข้าเมืองน่ะ กะจะอยู่บ้านแม่ต่อ สักสองสามชั่วโมง$7#วันนี้ อยากสูดอากาศสักหน่อย...#$b#นี่ เพื่อนรัก ฉันรักเธอนะ อย่าลืมล่ะ$l",
+                "funReturn_Sebastian": "#$c .5#นั่งมาทั้งวัน ขาฉันตึงเลย แต่ก็ทำเสร็จไปหลายอย่างนะ$7#อะ เสบียงขนมฉันแหละ ไม่มีโอกาสกินสักที... โอเค ฉันแค่อาจจะไม่ชอบเฉยๆ[403 243 203 731 223]$h#$e#ดีใจจังที่ได้อยู่บ้าน$7"
             },
             "When": {
                 "DayOfWeek": "Tuesday",
@@ -723,8 +723,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funLeave_Sebastian": "#$c .5#Hey, morning. Did you sleep well?$h#Hey, do I look presentable enough to be out in public?#$e#$c .5#I need to head into town later today. I'll stick around the house for a few more hours.$7#I think I need some air today...#$b#Hey, friendo. I love you. Don't forget that.$7",
-                "funReturn_Sebastian": "#$c .5#My legs are stiff from sitting around all day, but I got a lot done.$7#Here, this was in my snack bundle. I didn't get to finish it... Okay, maybe I just don't like them.[403 243 203 731 223]$h#$e#It's good to be home.$7"
+                "funLeave_Sebastian": "#$c .5#อรุณสวัสดิ์ หลับสบายไหม$h#นี่ ฉันดูเรียบร้อย พอจะออกไปข้างนอกได้ยัง#$e#$c .5#วันนี้ต้องเข้าเมืองน่ะ กะจะอยู่บ้านแม่ต่อ สักสองสามชั่วโมง$7#วันนี้ อยากสูดอากาศสักหน่อย...#$b#นี่ เพื่อนรัก ฉันรักเธอนะ อย่าลืมล่ะ$7",
+                "funReturn_Sebastian": "#$c .5#นั่งมาทั้งวัน ขาฉันตึงเลย แต่ก็ทำเสร็จไปหลายอย่างนะ$7#อะ เสบียงขนมฉันแหละ ไม่มีโอกาสกินสักที... โอเค ฉันแค่อาจจะไม่ชอบเฉยๆ[403 243 203 731 223]$h#$e#ดีใจจังที่ได้อยู่บ้าน$7"
             },
             "When": {
                 "DayOfWeek": "Tuesday",
@@ -736,7 +736,7 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funReturn_Sebastian": "#$c .5#Hey, you're still up. You weren't worried about me, were you?$7#Sorry I'm late. Sam didn't want to stop until he won.#$e#$c .5#I'm glad hanging with Sam is still part of my routine. I could easily spend every day with you, but I think it's good for me to maintain my other friendships too.$7#These saloon nights really are fun for me, but they tire me out too. Coming back here feels like getting to a save point.$7"
+                "funReturn_Sebastian": "#$c .5#อ้าว ยังไม่นอนเหรอ ไม่ได้เป็นห่วงฉันอยู่ใช่ไหม$7#โทษทีที่กลับช้า แซมมันไม่อยากเลิกเล่น จนกว่ามันจะชนะน่ะ#$e#$c .5#ดีใจจังที่แซมยังอยู่ในลูป ชีวิตประจำวันของฉัน ฉันได้ใช้เวลา กับเธอง่ายขึ้นก็จริง แต่มันก็ดีนะถ้าได้รักษา ความเป็นเพื่อนกับคนอื่นด้วย$7#คืนสังสรรค์ที่บาร์ก็สนุกดีนะ แต่ก็ทำฉันตัวเปลี้ยเหมือนกัน กลับมาบ้าน เหมือนได้กลับมาจุดพักเลย$7"
             },
             "When": {
                 "DayOfWeek": "Friday",
@@ -748,7 +748,7 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funLeave_Sebastian": "#$c .5#I can't believe you got me on your farmer schedule. There used to be nights I'd go to bed around the time I wake up now.$h#It's weird, I always feel at ease whenever you're awake.$l#$e#$c .5#Anyway, I'll be at Sam's today if you need me.$7#It's Saturday so I've got practice with Sam today.",
+                "funLeave_Sebastian": "#$c .5#ไม่อยากจะเชื่อเลย ว่าเธอใส่ฉัน ไปในตารางงานของเธอ นั่นเคยเป็นเวลานอนฉัน แต่ต้องมาตื่นเวลานี้เนี่ยนะ$h#แปลกๆ แฮะ ที่เธอตื่นเมื่อไหร่ ฉันจะรู้สึกสบายใจตลอด$l#$e#$c .5#เอาเถอะ ถ้าเธอมีอะไร วันนี้ฉันจะอยู่ที่บ้านแซมนะ$7#ก็วันนี้วันเสาร์ เลยมีซ้อมกับมันน่ะ",
             },
             "When": {
                 "DayOfWeek": "Saturday",
@@ -760,7 +760,7 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueSebastian",
             "Entries": {
-                "funLeave_Sebastian": "#$c .5#I can't believe you got me on your farmer schedule. There used to be nights I'd go to bed around the time I wake up now.$h#It's weird, I always feel at ease whenever you're awake.$7#$e#$c .5#Anyway, I'll be at Sam's today if you need me.$7#It's Saturday so I've got practice with Sam today.",
+                "funLeave_Sebastian": "#$c .5#ไม่อยากจะเชื่อเลย ว่าเธอใส่ฉัน ไปในตารางงานของเธอ นั่นเคยเป็นเวลานอนฉัน แต่ต้องมาตื่นเวลานี้เนี่ยนะ$h#แปลกๆ แฮะ ที่เธอตื่นเมื่อไหร่ ฉันจะรู้สึกสบายใจตลอด$7#$e#$c .5#เอาเถอะ ถ้าเธอมีอะไร วันนี้ฉันจะอยู่ที่บ้านแซมนะ$7#ก็วันนี้วันเสาร์ เลยมีซ้อมกับมันน่ะ",
             },
             "When": {
                 "DayOfWeek": "Saturday",
@@ -772,11 +772,11 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sebastian",
             "Entries": {
-                "marriage_bus2": "Abigail told me that I've been smiling more than I used to.$7#$b#I hadn't noticed, but I don't doubt it either.$h#$b#I guess it's because I get to think about going home to my best friend every night.$l",
-                "marriage_bus3": "You think Sam will ever settle down with someone?#$b#Sorry, that came out of nowhere. It's just... I've been seeing him less nowadays.#$b#I could totally see him with that teacher, Penny.$7",
-                "marriage_sam4": "You, Sam and Abby are probably the only real friends I have in this town.#$b#...But that's enough for me.$l",
-                "marriage_band": "Playing the keyboard is sort of like programming.$h#$b#Well... in the sense that I'm typing on a keyboard and... playing a keyboard...$s#$b#Nevermind.$h",
-                "marriage_nm": "*sigh* Why do I feel more like I'm a part of a family when I'm with you than I ever did with them?$s#$b#...#$b#I'm just glad I never have to feel like I'm unwanted anymore.$7#$b#...$l",
+                "marriage_bus2": "อบิเกลบอกฉันว่า ฉันยิ้มเยอะขึ้นกว่าที่เคย$7#$b#ไม่ได้สังเกตเลยแฮะ แต่ฉันก็ไม่สงสัยหรอก$h#$b#คงเพราะทุกคืนๆ ฉันได้กลับบ้าน มาเจอเพื่อนที่ดีที่สุดของฉัน$l",
+                "marriage_bus3": "เธอคิดว่าแซม จะได้ลงเอยกับใครไหม#$b#โทษที จู่ๆ ฉันก็อยากรู้ขึ้นมาน่ะ แค่... ตอนนี้ ฉันเจอมันน้อยลงทุกทีๆ#$b#ขอเดาว่า มันได้กับครูคนนั้นแน่ๆ เพนนีอ่ะ$7",
+                "marriage_sam4": "ในเมืองนี้ คงมีแค่เธอ แซม แล้วก็แอ๊บบี้เท่านั้น ที่เป็นเพื่อนแท้ของฉัน#$b#...แต่ เท่านี้ก็พอแล้วล่ะ$l",
+                "marriage_band": "การเล่นคีย์บอร์ดก็เหมือน การเขียนโปรแกรม$h#$b#ก็... แบบว่า ฉันพิมพ์คีย์บอร์ดกับ... เล่นคีย์บอร์ด...$s#$b#ช่างมันเถอะ$h",
+                "marriage_nm": "เฮ้อ ทำไมฉันรู้สึกเป็น ส่วนหนึ่งของครอบครัวกับเธอ มากกว่าคนที่บ้านนั้นล่ะ$s#$b#...#$b#แค่ดีใจเฉยๆ ที่ฉันไม่ต้องรู้สึกเหมือน ไม่เป็นที่ต้องการ อีกต่อไปแล้ว$7#$b#...$l",
             },
             "When": {
 		"UseLovePortraits": true,
@@ -787,14 +787,14 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sebastian",
             "Entries": {
-                "marriage_bus2": "Abigail told me that I've been smiling more than I used to.$7#$b#I hadn't noticed, but I don't doubt it either.$h#$b#I guess it's because I get to think about going home to my best friend every night.$7",
-                "marriage_bus3": "You think Sam will ever settle down with someone?#$b#Sorry, that came out of nowhere. It's just... I've been seeing him less nowadays.#$b#I could totally see him with that teacher, Penny.$7",
-                "marriage_sam4": "You, Sam and Abby are probably the only real friends I have in this town.#$b#...But that's enough for me.$7",
-                "marriage_band": "Playing the keyboard is sort of like programming.$h#$b#Well... in the sense that I'm typing on a keyboard and... playing a keyboard...$s#$b#Nevermind.$h",
-                "marriage_nm": "*sigh* Why do I feel more like I'm a part of a family when I'm with you than I ever did with them?$s#$b#...#$b#I'm just glad I never have to feel like I'm unwanted anymore.#$b#...$7",
-                "marriage_comp": "Hey, @. I'm just working on some programming.$7#$b#Don't worry about me, I work better when I'm alone.$h#$b#I love you.$7",
-                "marriage_comp3": "Oh, wow. Mom's not even working today, did you really travel all the way here just to visit me?$7#$b#Thanks.$h",
-                "marriage_r3": "We got a lot done today.$h#$b#See you soon?$7",
+                "marriage_bus2": "อบิเกลบอกฉันว่า ฉันยิ้มเยอะขึ้นกว่าที่เคย$7#$b#ไม่ได้สังเกตเลยแฮะ แต่ฉันก็ไม่สงสัยหรอก$h#$b#คงเพราะทุกคืนๆ ฉันได้กลับบ้าน มาเจอเพื่อนที่ดีที่สุดของฉัน$7",
+                "marriage_bus3": "เธอคิดว่าแซม จะได้ลงเอยกับใครไหม#$b#โทษที จู่ๆ ฉันก็อยากรู้ขึ้นมาน่ะ แค่... ตอนนี้ ฉันเจอมันน้อยลงทุกทีๆ#$b#ขอเดาว่า มันได้กับครูคนนั้นแน่ๆ เพนนีอ่ะ$7",
+                "marriage_sam4": "ในเมืองนี้ คงมีแค่เธอ แซม แล้วก็แอ๊บบี้เท่านั้น ที่เป็นเพื่อนแท้ของฉัน#$b#...แต่ เท่านี้ก็พอแล้วล่ะ$7",
+                "marriage_band": "การเล่นคีย์บอร์ดก็เหมือน การเขียนโปรแกรม$h#$b#ก็... แบบว่า ฉันพิมพ์คีย์บอร์ดกับ... เล่นคีย์บอร์ด...$s#$b#ช่างมันเถอะ$h",
+                "marriage_nm": "เฮ้อ ทำไมฉันรู้สึกเป็น ส่วนหนึ่งของครอบครัวกับเธอ มากกว่าคนที่บ้านนั้นล่ะ$s#$b#...#$b#แค่ดีใจเฉยๆ ที่ฉันไม่ต้องรู้สึกเหมือน ไม่เป็นที่ต้องการ อีกต่อไปแล้ว#$b#...$7",
+                "marriage_comp": "นี่ @ ฉันกำลังเขียนโปรแกรมอยู่$7#$b#ไม่ต้องห่วงหรอกน่า อยู่คนเดียวแล้ว ฉันทำงานออกมาได้ดีกว่า$h#$b#รักเธอนะ$7",
+                "marriage_comp3": "โอ้โห วันนี้แม่ฉันไม่ได้เปิดร้านด้วยซ้ำ นี่เธอขึ้นเขามาเจอฉัน โดยเฉพาะเลยเหรอ$7#$b#ขอบใจนะ$h",
+                "marriage_r3": "วันนี้ เราทำเสร็จไปตั้งเยอะ$h#$b#แล้วเจอกันนะ$7",
             },
             "When": {
 		"UseLovePortraits": false,
@@ -805,7 +805,7 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sebastian",
             "Entries": {
-                "marriage_doc2": "Hey, @... I know we don't have a lot of secrets from each other, but doctor's visits are one thing I'd like to keep private.#$b#I'll see you back home, okay?",
+                "marriage_doc2": "นี่ @... ฉันรู้ว่าเราไม่ได้มี ความลับต่อกันมากมาย แต่เรื่องไปหาหมอ ฉันขอเก็บเป็นเรื่องส่วนตัวนะ#$b#เดี๋ยวเจอกันที่บ้าน โอเคไหม",
             },
             "When": {
 		"EnableAsexuality": true,
@@ -816,7 +816,7 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Sebastian",
             "Entries": {
-                "marriage_doc2": "Hey, @... I swear it's like you barged in here hoping to see me naked...#$b#Well this is awkward...$s#$b#I'll see you back home, okay?",
+                "marriage_doc2": "นี่ @... สาบานเลยว่า มันเหมือนเธอพรวดเข้ามา เพื่ออยากจะเห็นฉันโป๊...#$b#เอ่อ มันก็อึดอัดนะ...$s#$b#เดี๋ยวเจอกันที่บ้าน โอเคไหม",
             },
             "When": {
 		"EnableAsexuality": false,
