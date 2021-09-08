@@ -88,7 +88,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Leah": "ฉันคิดว่าเราทั้งคู่ได้พบสิ่งที่เรากำลังตามหาในที่แห่งนี้แล้ว#$b#ฉันไม่ต้องการที่จะอยู่ที่อื่น แต่เป็นที่นี่กับเธอ$l",
+                "SummitEvent_Dialogue3_Leah": "ฉันคิดว่าเราทั้งคู่ได้พบสิ่งที่ เรากำลังตามหาในที่แห่งนี้แล้ว#$b#ฉันไม่ต้องการที่จะอยู่ที่อื่น แต่เป็นที่นี่กับเธอ$l",
             },
             "When":
             {
@@ -121,7 +121,7 @@
             "Entries":
             {
                 "NPC.cs.3965": "ฮิฮิ ฉันบอกแล้วว่าใช่!$h",
-                "NPC.cs.3966": "ฉันมีความสุขมากจริงๆที่จะได้ย้ายไปอยู่กับเธอ @ เธอไม่จำเป็นต้องให้สร้อยคออีกอันหรอกนะ",
+                "NPC.cs.3966": "ฉันมีความสุขมากจริงๆ ที่จะได้ย้ายไปอยู่กับเธอ @ เธอไม่จำเป็นต้องให้สร้อยคอ อีกอันหรอกนะ",
             },
             "When":
             {
@@ -133,8 +133,8 @@
             "Target": "Characters/Dialogue/Leah",
             "Entries":
             {
-                "NPC.cs.3967": "เธอกังวลว่าฉันจะกลับไปที่กระท่อมเก่าของฉันงั้นเหรอ? ไม่หรอก ฉันมีความสุขในที่ๆฉันอยู่ตอนนี้แล้ว$h",
-                "NPC.cs.3968": "งดงามมาก แต่สร้อยนี้มีค่ามากกว่าความสวยงาม ฉันไม่ต้องการอีกอันมาไว้สำรอง",
+                "NPC.cs.3967": "เธอกังวลว่าฉันจะกลับไปที่ กระท่อมเก่าของฉันงั้นเหรอ? ไม่หรอก ฉันมีความสุขในที่ๆ ฉันอยู่ตอนนี้แล้ว$h",
+                "NPC.cs.3968": "งดงามมาก แต่สร้อยนี้มีค่ามากกว่า ความสวยงาม ฉันไม่ต้องการอีกอันมาไว้สำรอง",
             },
             "When":
             {
@@ -146,17 +146,17 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Good_1": "ฉันเคยเล่าให้เธอฟังมั้ย? ตอนที่เธอย้ายเข้ามาที่นี่เป็นครั้งแรก ฉันฝันว่าพวกเรามีโชคชะตาที่เกี่ยวพันกันด้วยเหตุใดเหตุหนึ่ง...$l",
+                "Good_1": "ฉันเคยเล่าให้เธอฟังมั้ย? ตอนที่เธอย้ายเข้ามาที่นี่ เป็นครั้งแรก ฉันฝันว่า พวกเรามีโชคชะตาที่เกี่ยวพัน กันด้วยเหตุใดเหตุหนึ่ง...$l",
                 "Good_3": "ว้าว! วันนี้เธอดูมีพลังงานเต็มเปี่ยม$h",
-                "Good_5": "ฉันแค่กำลังชื่นชมสร้อยคอของฉัน... ฉันจะดูแลรักษาสมบัติชิ้นนี้ไปตลอดชีวิตของฉันเลยล่ะ$l",
-                "Good_8": "ไม่ต้องห่วงฉันหรอก... ฉันเข้าใจว่าเธอมีหน้าที่รับผิดชอบมากมายที่นอกบ้าน ฉันสบายดีและดูแลตัวเองได้!$h",
-                "Neutral_0": "ฉันหวังว่าเธอจะยังคงชอบฉันเมื่อพวกเราเริ่มแก่",
+                "Good_5": "ฉันแค่กำลังชื่นชมสร้อยคอ ของฉัน... ฉันจะดูแลรักษา สมบัติชิ้นนี้ไปตลอดชีวิตของฉัน เลยล่ะ$l",
+                "Good_8": "ไม่ต้องห่วงฉันหรอก... ฉันเข้าใจว่าเธอมีหน้าที่ รับผิดชอบมากมายที่นอกบ้าน ฉันสบายดีและดูแลตัวเองได้!$h",
+                "Neutral_0": "ฉันหวังว่าเธอจะยังคงชอบฉัน เมื่อพวกเราเริ่มแก่",
                 "Bad_0": "...เธอยังแคร์ฉันอยู่มั้ย?$s",
-                "Bad_1": "*เฮ้อ*... บางทีถ้าพวกเรารอกันอีกซักหน่อย ชีวิตพวกเราคงไม่ยุ่งเหยิงแบบนี้$s",
-                "Bad_5": "นี่มันอะไรกัน? เธอเคยแคร์กันบ้างมั้ย...$s#$e#รู้สึกว่าฉันจะไม่มีความหมายอะไรกับเธอแล้ว$s",
-                "Bad_7": "เธอเคยมีเวลาให้กับฉัน... แต่ตอนนี้เธอเหมือนไม่อยากอยู่ใกล้ฉันเลย$s",
-                "Bad_9": "หรือว่าฉันควรกลับไปอยู่ในกระท่อมหลังเล็กๆ ของฉันน่าจะดีกว่ามั้ย$s",
-                "summer_9": "เห้ออ... ฉันเหงื่อออกทั้งคืนท่ามกลางความร้อน",
+                "Bad_1": "*เฮ้อ*... บางทีถ้าพวกเรารอกันอีก ซักหน่อย ชีวิตพวกเราคงไม่ ยุ่งเหยิงแบบนี้$s",
+                "Bad_5": "นี่มันอะไรกัน? เธอเคยแคร์กันบ้างมั้ย...$s#$e#รู้สึกว่าฉันจะไม่มีความหมาย อะไรกับเธอแล้ว$s",
+                "Bad_7": "เธอเคยมีเวลาให้กับฉัน... แต่ตอนนี้เธอเหมือนไม่อยาก อยู่ใกล้ฉันเลย$s",
+                "Bad_9": "หรือว่าฉันควรกลับไปอยู่ใน กระท่อมหลังเล็กๆ ของฉันน่าจะดีกว่ามั้ย$s",
+                "summer_9": "เห้ออ... ฉันเหงื่อออกทั้งคืนท่ามกลาง ความร้อน",
             },
             "When":
             {
@@ -169,17 +169,17 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Good_1": "ฉันเคยเล่าให้เธอฟังมั้ย? ตอนที่เธอย้ายเข้ามาที่นี่เป็นครั้งแรก ฉันฝันว่าพวกเรามีโชคชะตาที่เกี่ยวพันกันด้วยเหตุใดเหตุหนึ่ง...",
+                "Good_1": "ฉันเคยเล่าให้เธอฟังมั้ย? ตอนที่เธอย้ายเข้ามาที่นี่ เป็นครั้งแรก ฉันฝันว่าพวกเรามีโชคชะตาที่เกี่ยวพัน กันด้วยเหตุใดเหตุหนึ่ง...",
                 "Good_3": "ว้าว! วันนี้เธอดูมีพลังงานเต็มเปี่ยม$h",
-                "Good_5": "ฉันแค่กำลังชื่นชมสร้อยคอของฉัน... ฉันจะดูแลรักษาสมบัติชิ้นนี้ไปตลอดชีวิตของฉันเลยล่ะ",
-                "Good_8": "ไม่ต้องห่วงฉันหรอก... ฉันเข้าใจว่าเธอมีหน้าที่รับผิดชอบมากมายที่นอกบ้าน ฉันสบายดีและดูแลตัวเองได้!$h",
-                "Neutral_0": "ฉันหวังว่าเธอจะยังคงชอบฉันเมื่อพวกเราเริ่มแก่",
+                "Good_5": "ฉันแค่กำลังชื่นชมสร้อยคอ ของฉัน... ฉันจะดูแลรักษา สมบัติชิ้นนี้ไปตลอดชีวิตของฉัน เลยล่ะ",
+                "Good_8": "ไม่ต้องห่วงฉันหรอก... ฉันเข้าใจว่าเธอมีหน้าที่ รับผิดชอบมากมายที่นอกบ้าน ฉันสบายดีและดูแลตัวเองได้!$h",
+                "Neutral_0": "ฉันหวังว่าเธอจะยังคงชอบฉัน เมื่อพวกเราเริ่มแก่",
                 "Bad_0": "...เธอยังแคร์ฉันอยู่มั้ย?$s",
-                "Bad_1": "*เฮ้อ*... บางทีถ้าพวกเรารอกันอีกซักหน่อย ชีวิตพวกเราคงไม่ยุ่งเหยิงแบบนี้$s",
-                "Bad_5": "นี่มันอะไรกัน? เธอเคยแคร์กันบ้างมั้ย...$s#$e#รู้สึกว่าฉันจะไม่มีความหมายอะไรกับเธอแล้ว$s",
-                "Bad_7": "เธอเคยมีเวลาให้กับฉัน... แต่ตอนนี้เธอเหมือนไม่อยากอยู่ใกล้ฉันเลย$s",
-                "Bad_9": "หรือว่าฉันควรกลับไปอยู่ในกระท่อมหลังเล็กๆ ของฉันน่าจะดีกว่ามั้ย$s",
-                "summer_9": "เห้ออ... ฉันเหงื่อออกทั้งคืนท่ามกลางความร้อน",
+                "Bad_1": "*เฮ้อ*... บางทีถ้าพวกเรารอกันอีก ซักหน่อย ชีวิตพวกเราคงไม่ ยุ่งเหยิงแบบนี้$s",
+                "Bad_5": "นี่มันอะไรกัน? เธอเคยแคร์กันบ้างมั้ย...$s#$e#รู้สึกว่าฉันจะไม่มีความหมาย อะไรกับเธอแล้ว$s",
+                "Bad_7": "เธอเคยมีเวลาให้กับฉัน... แต่ตอนนี้เธอเหมือนไม่อยาก อยู่ใกล้ฉันเลย$s",
+                "Bad_9": "หรือว่าฉันควรกลับไปอยู่ใน กระท่อมหลังเล็กๆ ของฉันน่าจะดีกว่ามั้ย$s",
+                "summer_9": "เห้ออ... ฉันเหงื่อออกทั้งคืนท่ามกลาง ความร้อน",
             },
             "When":
             {
@@ -192,10 +192,10 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Rainy_Night_2": "คืนนี้อากาศดีซะจนผล็อยหลับไปเลย",
-                "Rainy_Night_Leah": "วันนี้เป็นไงบ้าง? ทำไมเนื้อตัวมอมเมมแบบนั้นล่ะ?",
-                "Indoor_Night_3": "ฉันไม่เคยคิดว่าจะได้รับสร้อยคอของนางเงือกหลังจากย้ายมาที่นี่! ฉันดีใจมาก$l",
-                "Outdoor_4": "อย่าทำงานหักโหมมากล่ะ @ #$e#ถ้าถึงเวลาพักก็ควรพักหาอะไรกินบ้างด้วยนะ$h",
+                "Rainy_Night_2": "คืนนี้อากาศดีซะจนผล็อยหลับ ไปเลย",
+                "Rainy_Night_Leah": "วันนี้เป็นไงบ้าง? ทำไมเนื้อตัวมอมเมมแบบนั้น ล่ะ?",
+                "Indoor_Night_3": "ฉันไม่เคยคิดว่าจะได้รับ สร้อยคอของนางเงือก หลังจากย้ายมาที่นี่! ฉันดีใจมาก$l",
+                "Outdoor_4": "อย่าทำงานหักโหมมากล่ะ @ #$e#ถ้าถึงเวลาพักก็ควรพัก หาอะไรกินบ้างด้วยนะ$h",
             },
             "When":
             {
@@ -208,10 +208,10 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Rainy_Night_2": "คืนนี้อากาศดีซะจนผล็อยหลับไปเลย",
-                "Rainy_Night_Leah": "วันนี้เป็นไงบ้าง? ทำไมเนื้อตัวมอมเมมแบบนั้นล่ะ?",
-                "Indoor_Night_3": "ฉันไม่เคยคิดว่าจะได้รับสร้อยคอของนางเงือกหลังจากย้ายมาที่นี่! ฉันดีใจมาก",
-                "Outdoor_4": "อย่าทำงานหักโหมมากล่ะ @ #$e#ถ้าถึงเวลาพักก็ควรพักหาอะไรกินบ้างด้วยนะ$h",
+                "Rainy_Night_2": "คืนนี้อากาศดีซะจนผล็อยหลับ ไปเลย",
+                "Rainy_Night_Leah": "วันนี้เป็นไงบ้าง? ทำไมเนื้อตัวมอมเมมแบบนั้น ล่ะ?",
+                "Indoor_Night_3": "ฉันไม่เคยคิดว่าจะได้รับ สร้อยคอของนางเงือก หลังจากย้ายมาที่นี่! ฉันดีใจมาก",
+                "Outdoor_4": "อย่าทำงานหักโหมมากล่ะ @ #$e#ถ้าถึงเวลาพักก็ควรพัก หาอะไรกินบ้างด้วยนะ$h",
             },
             "When":
             {
@@ -224,7 +224,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Good_4": "ฉันชอบกลิ่นอายธรรมชาติของฟาร์มจัง",
+                "Good_4": "ฉันชอบกลิ่นอายธรรมชาติ ของฟาร์ม",
                 "spring_1": "ฉันดีใจที่ช่วงนี้เป็นฤดูใบไม้ผลิ ส่วนผสมที่ฉันโปรดปรานบางชนิด เติบโตได้เฉพาะช่วงนี้ของปี#$e#ฉันกำลังนึกถึงสลัด แดนดิไลออน - แซลมอนเบอร์รี่ ราดด้วยชีสนมแพะขูดฝอย อืมม...",
             },
             "When":
@@ -237,9 +237,9 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Rainy_Night_Leah": "วันนี้เป็นไงบ้าง? ทำไมเนื้อตัวมอมแมมงั้นล่ะ?",
-                "Outdoor_Leah": "ว้าว เยี่ยมไปเลย! ฉันเริ่มจะสนุกกับชีวิตในฟาร์มแล้วล่ะ @$h#$e#นี่คือชีวิตที่ฉันใฝ่ฝันมาตลอด",
-                "summer_Leah": "ไม่มีอะไรเข้ากันได้ดีกับ ฤดูร้อนอย่างไวน์หวานชั้นดีอีกแล้ว อยากแบ่งกับฉันทีหลังมั้ย?",
+                "Rainy_Night_Leah": "วันนี้เป็นไงบ้าง? ทำไมเนื้อตัวมอมแมมงั้น ล่ะ?",
+                "Outdoor_Leah": "ว้าว เยี่ยมไปเลย! ฉันเริ่มจะสนุกกับชีวิตในฟาร์ม แล้วล่ะ @$h#$e#นี่คือชีวิตที่ฉันใฝ่ฝันมาตลอด",
+                "summer_Leah": "ไม่มีอะไรเข้ากันได้ดีกับ ฤดูร้อนอย่างไวน์หวานชั้นดี อีกแล้ว อยากแบ่งกับฉันทีหลังมั้ย?",
             },
         },
         {
@@ -247,7 +247,7 @@
             "Target": "Data/Events/LeahHouse",
             "Entries":
             {
-                "50/f Leah 500/p Leah": "breezy/9 8/farmer -50 -50 0 Leah 3 7 3/skippable/animate Leah false true 100 16 17 18 19 19 19 19 16/pause 100/playSound woodyStep/pause 800/playSound woodyStep/pause 800/playSound woodyStep/pause 800/warp farmer 7 9/playSound woodyStep/playSound doorClose/pause 300/stopAnimation Leah/pause 300/faceDirection Leah 1 true/emote Leah 16/speak Leah \"Oh, hi @! Come in, come in.\"/move farmer 0 -2 3/faceDirection Leah 1/move farmer -2 0 3/pause 500/speak Leah \"I'm just working on this sculpture here.\"/pause 300/speak Leah \"Come here. Watch this.\"/pause 300/move farmer -1 0 3/move farmer 0 -1 0 3/move farmer -1 0 2/faceDirection Leah 3/pause 500/animate Leah false true 100 16 17 18 19 19 19 19 16/pause 100/playSound woodyStep/pause 800/playSound woodyStep/pause 800/playSound woodyStep/pause 800/playSound woodyStep/pause 600/stopAnimation Leah/showFrame Leah 19/speak Leah \"See that? I'm revealing the essence of the wood.\"/pause 500/showFrame Leah 12/faceDirection Leah 0/speak Leah \"$q -1 null#Once you get past the outer layers, the true nature starts to show...#$r -1 0 event_sculpt1#It's the same with people.#$r -1 0 event_sculpt2#I actually prefer the look of raw, unadultered wood.\"/faceDirection Leah 3/pause 1500/faceDirection Leah 3/speak Leah \"I first visited this valley as a little girl, while on vacation with my parents.#$b#I knew I had to come back some day... This place has great artistic potential!\"/faceDirection Leah 3/pause 500/emote Leah 28/speak Leah \"Although, I have to admit... It's not easy to pay the bills as an artist.$s\"/pause 1000/emote farmer 16/faceDirection Leah 0/question fork1 \"#Why don't you have an art show in town?#Why don't you sell your art on the internet?\"/fork internet/faceDirection Leah 0/speak Leah \"Hmmm... interesting. I guess that could set the wheels in motion to making Pelican Town a true art destination...$7\"/faceDirection Leah 3/pause 700/speak Leah \"But what if no one likes my sculptures? I'd be crushed.$s\"/pause 500/speak Leah \"...I'll have to think about it.$s\"/faceDirection Leah 0/speak Leah \"Well, thanks for stopping by, @.\"/pause 600/move farmer 4 0 2 true/globalFade/viewport -1000 -1000/addMailReceived LeahArtShowSuggestion/end dialogueWarpOut Leah \"An art show for the whole village? That's a bold idea, @.\"",
+                "50/f Leah 500/p Leah": "breezy/9 8/farmer -50 -50 0 Leah 3 7 3/skippable/animate Leah false true 100 16 17 18 19 19 19 19 16/pause 100/playSound woodyStep/pause 800/playSound woodyStep/pause 800/playSound woodyStep/pause 800/warp farmer 7 9/playSound woodyStep/playSound doorClose/pause 300/stopAnimation Leah/pause 300/faceDirection Leah 1 true/emote Leah 16/speak Leah \"โอ้ว ว่าไง @! เข้ามาสิ เข้ามาเลย\"/move farmer 0 -2 3/faceDirection Leah 1/move farmer -2 0 3/pause 500/speak Leah \"ฉันแค่กำลังทำงานเกี่ยวกับ  ประติมากรรมชิ้นนี้อยู่ที่นี่\"/pause 300/speak Leah \"มานี่สิ ดูนี่นะ\"/pause 300/move farmer -1 0 3/move farmer 0 -1 0 3/move farmer -1 0 2/faceDirection Leah 3/pause 500/animate Leah false true 100 16 17 18 19 19 19 19 16/pause 100/playSound woodyStep/pause 800/playSound woodyStep/pause 800/playSound woodyStep/pause 800/playSound woodyStep/pause 600/stopAnimation Leah/showFrame Leah 19/speak Leah \"เห็นนั่นมั้ย? ฉันกำลังแกะสลักแก่นแท้ ของไม้\"/pause 500/showFrame Leah 12/faceDirection Leah 0/speak Leah \"$q -1 null#เมื่อเธอผ่านชั้นนอกไป ธรรมชาติที่แท้จริงก็จะ เผยออกมา...#$r -1 0 event_sculpt1#มนุษย์ก็เช่นเดียวกัน#$r -1 0 event_sculpt2#อันที่จริงฉันชอบรูปลักษณ์ ของไม้ตอนที่มันยังใหม่ๆ ที่ไม่มีสิ่งเจือปน\"/faceDirection Leah 3/pause 1500/faceDirection Leah 3/speak Leah \"ครั้งแรกที่ฉันได้มาเยือน หุบเขาแห่งนี้ตอนเป็นเด็กหญิง ตัวเล็กๆ ระหว่างการเที่ยว พักผ่อนกับพ่อแม่#$b#ฉันก็รู้ได้เลยว่าสักวัน ฉันต้องได้กลับมา... สถานที่นี้มีศักยภาพทางศิลปะ ที่ยอดเยี่ยม!\"/faceDirection Leah 3/pause 500/emote Leah 28/speak Leah \"แม้ว่าฉันจะรับได้... แต่มันไม่ง่ายเลยที่จะหาเงิน จ่ายภาษีในฐานะศิลปิน$s\"/pause 1000/emote farmer 16/faceDirection Leah 0/question fork1 \"#ทำไมเธอไม่จัดแสดงงาน ศิลปะในเมือง?#ทำไมเธอไม่ขายงาน ศิลปะของเธอบนอินเทอร์เน็ต?\"/fork internet/faceDirection Leah 0/speak Leah \"อืมมม... น่าสนใจ ฉันเดาว่ามันสามารถทำให้ เมืองเพลิแกนเป็นจุดหมาย  ปลายทางสู่ศิลปะที่แท้จริงได้...$7\"/faceDirection Leah 3/pause 700/speak Leah \"แต่ถ้าไม่มีใครชอบงาน ประติมากรรมของฉันล่ะ ฉันจะถูกเยาะเย้ยมั้ย?$s\"/pause 500/speak Leah \"...ฉันขอเวลาคิดก่อนนะ$s\"/faceDirection Leah 0/speak Leah \"ขอบคุณที่เธอแวะมานะ @\"/pause 600/move farmer 4 0 2 true/globalFade/viewport -1000 -1000/addMailReceived LeahArtShowSuggestion/end dialogueWarpOut Leah \"การแสดงงานศิลปะสำหรับทั้งหมู่บ้าน? เธอนี่ใจถึงมากนะ @\"",
                 "creepySexualPass": null
             },
         },
