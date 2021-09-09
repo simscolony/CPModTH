@@ -1,0 +1,25 @@
+{
+	"Name": "Battery-Powered Battle Hammer",
+	"Description": "(ค้อนศึกพลังแบตเตอรี่) ค้อนโบราณที่ดูทันสมัยอย่างน่าสงสัย ในแง่ของการออกแบบ ยังไม่ทราบรายละเอียด อีกมากเกี่ยวกับเรื่องนี้ นี่มันโหดไม่ใช่เล่นนะ!",
+	"Type": "club",
+	"PurchasePrice": 50000,
+	"MinimumDamage": 150,
+	"MaximumDamage": 180,
+	"Knockback": 5.0,
+	"Speed": 5,
+	"Accuracy": 80,
+	"Defense": 14,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.20,
+	"CritMultiplier": 2,
+	"NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"Name": "Pebble Back Crab",
+	"Description": "(ปูก้อนกรวด) ก้อนกรวดที่อยู่ บนกระดองของมัน เป็นก้อนกรวดจริงๆ ที่มันเก็บไว้ก่อนโตเต็มวัย เพื่อใช้เป็นสิ่งป้องกัน และอำพรางตัว บางตัวดันไปเก็บอัญมณีมา ก็เลยเป็นเหตุให้ ถูกล่ามากเกินไป",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 1000,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Ian"],
+	},
+	"NameLocalization":
+	{
+		//
+	},
+	"DescriptionLocalization":
+	{
+		//
+	},
+}

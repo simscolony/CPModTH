@@ -1,0 +1,22 @@
+{
+	"Name": "Lullaby Carp",
+	"Description": "(คาร์ฟเพลงกล่อม) ความลึกลับทางวิทยาศาสตร์ ปลานี้จะสร้าง เสียงที่ผ่อนคลาย เมื่อใดก็ตามที่พวกมัน ถูกทิ้งไว้ตามลำพัง แต่พวกมันไม่มีอวัยวะ ที่ช่วยให้มัน 'ร้องเพลง' ได้",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 1000,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Alissa"],
+	},
+	"NameLocalization":
+	{
+		//
+	},
+	"DescriptionLocalization":
+	{
+		//
+	},
+}

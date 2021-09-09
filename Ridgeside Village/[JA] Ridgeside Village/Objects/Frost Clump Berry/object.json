@@ -1,0 +1,14 @@
+{
+  "Name": "Frost Clump Berry",
+  "Description": "(เบอร์รี่ก้อนน้ำแข็ง) เบอร์รี่แปลกๆ ที่ดูเหมือนว่ามันจะสุก ต่อเมื่อถูกหิมะปกคลุมเท่านั้น รสชาดคล้ายองุ่น แต่ก็เหมือนเมล่อนนิดๆ",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 30,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+  {
+  "Love": ["Philip", "Bert"],
+  "Like": ["Lenny", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
+  },
+}

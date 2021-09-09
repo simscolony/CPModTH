@@ -1,0 +1,25 @@
+{
+	"Name": "The Unbroken",
+	"Description": "(ดาบคงกระพัน) ดาบโบราณ ที่ถูกตั้งชื่อตามตำนาน เล่าขานของมัน ว่าเป็นดาบที่ถูกใช้ โดยผู้ถือครองมากว่า 1000 คน และมันไม่เคยบกพร่องในหน้าที่ ทำมาจากวัสดุแปลกๆ ที่ไม่มีวันแตกหักได้ ลือกันว่า น่าจะมีความเกี่ยวข้อง กับชนเผ่าคนแคระโบราณด้วย",
+	"Type": "sword",
+	"PurchasePrice": 50000,
+	"MinimumDamage": 100,
+	"MaximumDamage": 120,
+	"Knockback": 0.3,
+	"Speed": 20,
+	"Accuracy": 90,
+	"Defense": 10,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.50,
+	"CritMultiplier": 2,
+	"NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}
