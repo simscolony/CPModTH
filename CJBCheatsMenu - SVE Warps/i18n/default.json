@@ -122,7 +122,7 @@
     ** Weather tab
     *********/
     "weather.title": "ÊÀÒ¾ÍÒ¡ÒÈħ¹¾ӣ§׉", // สภาพอากาศวันพรุ่งนี้
-    "weather.current": "ปัจจุบัน",
+    "weather.current": "สถานะ",
     "weather.sunny": "อากาศแจ่มใส",
     "weather.raining": "ฝนตก",
     "weather.lightning": "มีฟ้าผ่า",
