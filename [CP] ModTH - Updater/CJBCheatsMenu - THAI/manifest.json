@@ -1,0 +1,11 @@
+{
+    "Name": "CJB Cheats Menu - THAI",
+    "Author": "'ELL x SabiMiyato",
+    "Version": "1.0.0",
+    "Description": "Thai Language For CJB Cheats Menu 1.29.1",
+    "UniqueID": "ELLSA.CheatsMenu",
+    "UpdateKeys": [ "Nexus:9580" ],
+    "ContentPackFor": {
+        "UniqueID": "TranslatorArmy.ModTH"
+    }
+}
