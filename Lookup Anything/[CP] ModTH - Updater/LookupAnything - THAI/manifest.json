@@ -1,0 +1,11 @@
+{
+    "Name": "Lookup Anything - THAI",
+    "Author": "'ELL x SabiMiyato",
+    "Version": "1.0.0",
+    "Description": "Thai Language For Lookup Anything 1.35.2",
+    "UniqueID": "ELLSA.LookupAnything",
+    "UpdateKeys": [ "Nexus:9582" ],
+    "ContentPackFor": {
+        "UniqueID": "TranslatorArmy.ModTH"
+    }
+}
