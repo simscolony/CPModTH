@@ -663,7 +663,7 @@
    "Target": "data/events/farm",
    "When": { "Spouse |contains=Wizard": false, "HasFlag": "galaxySword", "HasSeenEvent |contains=7502582": true, "HasSeenEvent |contains=8050109": true, "HasSeenEvent |contains=6951319": true }, //player has galaxy sword, cleared the railroad boulder, saw Alesia's event, beat the volcano dungeon
    "Entries": {
-   "908070/t 600 900": "continue/95 49/farmer 21 20 1 Wizard 20 20 0/skippable/pause 1000/speak Wizard \"สวัสดียามเช้า @ ข้านำข่าวสำคัญ จากกระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ มาแจ้งให้ทราบ$0#$b#สมาชิกระดับสูงของสภา ดูออกจะสนใจถึง พัฒนาการทางเวทย์ ของเจ้าไม่น้อยทีเดียว นี่ไม่ใช่สถานการณ์ ที่พบเจอได้บ่อยหรอกนะ...$0\"/pause 500/emote farmer 8 true/pause 800/speak Wizard \"เพื่อนร่วมงาานของข้า มอบหมายให้ข้า สอนเวทย์เคลื่อนย้ายแก่เจ้า ไปเจอข้าที่หอคอย เร็วที่สุดเมื่อเจ้ามีเวลา$0\"/pause 850/faceDirection Wizard 1 true/pause 225/faceDirection Wizard 2 true/pause 650/showFrame Wizard 16 true/pause 400/shake Wizard 500/pause 500/screenFlash 1/playSound wand/warp Wizard -50 -50/pause 1000/end"
+   "908070/t 600 900": "continue/95 49/farmer 21 20 1 Wizard 20 20 0/skippable/pause 1000/speak Wizard \"สวัสดียามเช้า @ ข้านำข่าวสำคัญ จากกระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ มาแจ้งให้ทราบ$0#$b#สมาชิกระดับสูงของสภา ดูออกจะสนใจถึง พัฒนาการทางเวทย์ ของเจ้าไม่น้อยทีเดียว นี่ไม่ใช่สถานการณ์ ที่พบเจอได้บ่อยหรอกนะ...$0\"/pause 500/emote farmer 8 true/pause 800/speak Wizard \"เพื่อนร่วมงานของข้า มอบหมายให้ข้า สอนเวทย์เคลื่อนย้ายแก่เจ้า ไปเจอข้าที่หอคอย เร็วที่สุดเมื่อเจ้ามีเวลา$0\"/pause 850/faceDirection Wizard 1 true/pause 225/faceDirection Wizard 2 true/pause 650/showFrame Wizard 16 true/pause 400/shake Wizard 500/pause 500/screenFlash 1/playSound wand/warp Wizard -50 -50/pause 1000/end"
    }
 },
 
@@ -672,7 +672,7 @@
    "Target": "data/events/farm",
    "When": { "Spouse |contains=Wizard": false, "FarmType": "Standard", "HasMod":"flashshifter.GrandpasFarm", "HasFlag": "galaxySword", "HasSeenEvent |contains=7502582": true, "HasSeenEvent |contains=8050109": true, "HasSeenEvent |contains=6951319": true }, //player has galaxy sword, cleared the railroad boulder, saw Alesia's event, beat the volcano dungeon
    "Entries": {
-   "908070/t 600 900": "continue/95 49/farmer 21 20 1 Wizard 20 20 0/skippable/pause 1000/speak Wizard \"สวัสดียามเช้า @ ข้านำข่าวสำคัญ จากกระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ มาแจ้งให้ทราบ$0#$b#สมาชิกระดับสูงของสภา ดูออกจะสนใจถึง พัฒนาการทางเวทย์ ของเจ้าไม่น้อยทีเดียว นี่ไม่ใช่สถานการณ์ ที่พบเจอได้บ่อยหรอกนะ...$0\"/pause 500/emote farmer 8 true/pause 800/speak Wizard \"เพื่อนร่วมงาานของข้า มอบหมายให้ข้า สอนเวทย์เคลื่อนย้ายแก่เจ้า ไปเจอข้าที่หอคอย เร็วที่สุดเมื่อเจ้ามีเวลา$0\"/pause 850/faceDirection Wizard 1 true/pause 225/faceDirection Wizard 2 true/pause 650/showFrame Wizard 16 true/pause 400/shake Wizard 500/pause 500/screenFlash 1/playSound wand/warp Wizard -50 -50/pause 1000/end"
+   "908070/t 600 900": "continue/95 49/farmer 21 20 1 Wizard 20 20 0/skippable/pause 1000/speak Wizard \"สวัสดียามเช้า @ ข้านำข่าวสำคัญ จากกระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ มาแจ้งให้ทราบ$0#$b#สมาชิกระดับสูงของสภา ดูออกจะสนใจถึง พัฒนาการทางเวทย์ ของเจ้าไม่น้อยทีเดียว นี่ไม่ใช่สถานการณ์ ที่พบเจอได้บ่อยหรอกนะ...$0\"/pause 500/emote farmer 8 true/pause 800/speak Wizard \"เพื่อนร่วมงานของข้า มอบหมายให้ข้า สอนเวทย์เคลื่อนย้ายแก่เจ้า ไปเจอข้าที่หอคอย เร็วที่สุดเมื่อเจ้ามีเวลา$0\"/pause 850/faceDirection Wizard 1 true/pause 225/faceDirection Wizard 2 true/pause 650/showFrame Wizard 16 true/pause 400/shake Wizard 500/pause 500/screenFlash 1/playSound wand/warp Wizard -50 -50/pause 1000/end"
    }
 },
 
@@ -708,7 +708,7 @@
    "Target": "data/events/farmhouse",
    "When": { "Spouse |contains=Wizard": true, "HasFlag": "galaxySword", "HasSeenEvent |contains=7502582": true, "HasSeenEvent |contains=8050109": true, "HasSeenEvent |contains=6951319": true }, //player has galaxy sword, cleared the railroad boulder, saw Alesia's event, beat the volcano dungeon
    "Entries": {
-   "908070/t 600 900": "continue/-500 -500/farmer -19 -19 0 Wizard -20 -20 0/pause 500/skippable/pause 500/speak Wizard \"อรุณสวัสดิ์ ยอดรัก ข้อพึ่งกลับมา จากกระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ แล้วมีเรื่องสุดแสนพิเศษ มาเล่าให้ฟัง$1#$b#สมาชิกระดับสูงของสภา ดูออกจะสนใจถึง พัฒนาการทางเวทย์ ของเจ้าไม่น้อยทีเดียว นี่ไม่ใช่สถานการณ์ ที่พบเจอได้บ่อยหรอกนะ...$0#$b#เพื่อนร่วมงาานของข้า มอบหมายให้ข้า สอนเวทย์เคลื่อนย้ายแก่เจ้า ไปเจอข้าที่หอคอย เร็วที่สุดเมื่อเจ้ามีเวลา!$1\"/pause 500/end dialogue Wizard \"ข้าจะบอกความจริงว่า ข้ารอคอยเวลานี้มานานมาก...$4#$e#มอเถอะ! ำปเจอข้าที่หอคอบนะ เราจะได้เริ่มขั้นตอนกันเลย!$1\""
+   "908070/t 600 900": "continue/-500 -500/farmer -19 -19 0 Wizard -20 -20 0/pause 500/skippable/pause 500/speak Wizard \"อรุณสวัสดิ์ ยอดรัก ข้อพึ่งกลับมา จากกระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ แล้วมีเรื่องสุดแสนพิเศษ มาเล่าให้ฟัง$1#$b#สมาชิกระดับสูงของสภา ดูออกจะสนใจถึง พัฒนาการทางเวทย์ ของเจ้าไม่น้อยทีเดียว นี่ไม่ใช่สถานการณ์ ที่พบเจอได้บ่อยหรอกนะ...$0#$b#เพื่อนร่วมงานของข้า มอบหมายให้ข้า สอนเวทย์เคลื่อนย้ายแก่เจ้า ไปเจอข้าที่หอคอย เร็วที่สุดเมื่อเจ้ามีเวลา!$1\"/pause 500/end dialogue Wizard \"ข้าจะบอกความจริงว่า ข้ารอคอยเวลานี้มานานมาก...$4#$e#มอเถอะ! ำปเจอข้าที่หอคอบนะ เราจะได้เริ่มขั้นตอนกันเลย!$1\""
    }
 },
 
