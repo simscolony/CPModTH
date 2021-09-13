@@ -1,0 +1,25 @@
+{
+	"Name": "The Silent One",
+	"Description": "(สู่ความเงียบงัน) กริชปริศนา ที่มีชื่อเสียงไม่ค่อยจะดีนัก ถึงเรื่องเล้นลับของมัน เมื่อใดก็ตามที่ใช้มันในการลอบสังหาร จะนำความเงียบงันคลืบคลานมาสู่ และยังมีบันทึกไว้ว่า จะมองเห็นสิ่งเหนือธรรมชาติ ตลอดระยะเวลา ที่ตกอยู่ในความเงียบงันนั้น",
+	"Type": "dagger",
+	"PurchasePrice": 50000,
+	"MinimumDamage": 50,
+	"MaximumDamage": 80,
+	"Knockback": 0.3,
+	"Speed": 15,
+	"Accuracy": 90,
+	"Defense": 10,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.30,
+	"CritMultiplier": 12,
+	"NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}

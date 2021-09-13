@@ -1,0 +1,22 @@
+{
+	"Name": "Bladetail Sturgeon",
+	"Description": "(สเตอร์เจียนหางดาบ) เป็นปลาที่อันตรายสุดๆ หางของมันคมดั่งใบมีด การล่าพวกมันมากเกิน ไปทำให้จำนวนประชากร ของสายพันธุ์นี้ลดน้อยลง หางของพวกมัน เคยเป็นหัวลูกศร ในสมัยโบราณ",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 1000,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Corine"],
+	},
+	"NameLocalization":
+	{
+		//
+	},
+	"DescriptionLocalization":
+	{
+		//
+	},
+}

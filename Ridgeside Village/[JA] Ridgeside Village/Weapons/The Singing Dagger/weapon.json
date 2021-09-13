@@ -1,0 +1,25 @@
+{
+	"Name": "The Singing Dagger",
+	"Description": "(กริชลำนำ) ใบมีดรูปทรงแปลกๆ ที่สร้างเสียงเหมือนเสียงผิวปาก ทุกครั้งที่กวัดแกว่ง แทบจะเป็นไปไม่ได้เลย ที่จะใช้มันในการลอบสังหาร และมันยังสามารถใช้เป็นขลุ่ยได้ด้วย แต่ก็ระวังหน่อยล่ะ",
+	"Type": "dagger",
+	"PurchasePrice": 50000,
+	"MinimumDamage": 80,
+	"MaximumDamage": 140,
+	"Knockback": 0.2,
+	"Speed": 20,
+	"Accuracy": 90,
+	"Defense": 10,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0.50,
+	"CritMultiplier": 3,
+	"NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}
