@@ -1,0 +1,63 @@
+{
+	"Format": "1.23.0",
+	"Changes": [
+		{
+			"LogName": "RaisedGardenBeds Common Translations: THAI",
+			"Action": "EditData",
+			"Target": "Mods/blueberry.rgb.Assets/CommonTranslations",
+			"Fields": {
+				"th": {
+					"item.name": "Garden Bed",
+					"item.name.variant": "{0} Garden Bed",
+
+					"item.description": "(กระบะปลูกผัก) ให้คุณสามารถปลูกผัก ผลไม้ตามฤดูกาลได้ โดยไม่ต้องมีพื้นดิน ใช้วางกลางแจ้งเท่านั้น",
+					"item.description.indoors": "(กระบะปลูกผัก) ให้คุณสามารถปลูกผัก ผลไม้ตามฤดูกาลได้ โดยไม่ต้องมีพื้นดิน",
+					"item.description.default": "เป็นวัตถุแบบหลอกๆ ไม่สามารถเสกด้วย CJB Item Spawner ถ้าอยากได้ ให้พิมพ์ คำว่า rgb.give หรือ rgb.giveall ใส่ SMAPI console!",
+
+					"menu.title.new": "แบบพิมพ์เขียวอันใหม่",
+
+					"config.raisedbedsmaybreakwithage.name": "กระบะปลูกผัก จะผุพังไปตามกาลเวลา",
+					"config.raisedbedsmaybreakwithage.description": "กระบะปลูกผัก จะผุพังเมื่อเริ่มฤดูใหม่ ถ้าเปิดการใช้งานนี้ไว้\nอายุการใช้งานของกระบะปลูกผัก จะต่างกันไปตามชนิดของมัน\nกระบะปลูกผักที่มีราคาแพง ก็จะมีอายุการใช้งานที่นานกว่า!\n\nสำหรับผัก ที่สามารถเติบโตข้ามฤดูได้ จะไม่ตายถึงแม้ว่ากระบะปลูกผัก จะพังไปแล้วก็ตาม\nแต่ว่ามันจะไม่เติบโตต่อไป จนกว่ากระบะจะถูกซ่อมแซม!\nการซ่อมแซมกระบะปลูกผัก สามารถทำได้โดย เอากระบะปลูกผัก ชนิดเดียวกันอันใหม่ วางลงไปแทนที่อันเดิม\nหรือทำลายมันทิ้ง เพื่อนำวัสดุที่ใช้สร้างกลับคืนมา",
+					"config.canbeplacedingreenhouse.name": "สามารถวางในเรือนกระจกได้",
+					"config.canbeplacedingreenhouse.description": "",
+					"config.canbeplacedinfarmhouse.name": "สามารถวางในบ้านได้",
+					"config.canbeplacedinfarmhouse.description": "",
+					"config.canbeplacedinbuildings.name": "สามารถวางไว้ ในสิ่งปลูกสร้างภายในฟาร์มได้",
+					"config.canbeplacedinbuildings.description": "",
+					"config.recipesalwaysavailable.name": "แสดงสูตรการสร้างกระบะปลูกผักไว้ตลอด",
+					"config.recipesalwaysavailable.description": "สูตรการสร้างกระบะปลูกผักทุกชนิด จะแสดงให้เห็นตลอดเวลา\nหากปิดการตั้งค่านี้ โรบินจะให้แค่ สูตรแบบพื้นฐานกับคุณ ในช่วงฤดูร้อน,\nและคุณจะต้องเรียนรู้ การสร้างแบบอื่นๆ ในระหว่างการเล่นเกม!",
+					"config.sprinklersenabled.name": "เปิดการใช้งานสปริงเกอร์",
+					"config.sprinklersenabled.description": "สามารถใช้สปริงเกอร์รดน้ำในกระบะปลูกผักได้",
+
+					"event.0.dialogue.1": "ไง @! ดูเหมือนว่าเธอจะไปได้สวย กับฟาร์มเก่านี้แล้วสินะ#$b#ฉันเห็นพวกพืชผัก เติบโตได้เพราะเธอ... หรืออย่างน้อย ก็ไอ้ที่ติดอยู่ บนรองเท้าของเธอน่ะนะ!$h#$b#ถ้าเธออยากจะหา ที่ปลูกอะไรเพิ่มอีกซักหน่อย หรือมีความคิดว่า อยากจะจัดระเบียบพวกมันละก็ พิมพ์เขียวนี่น่าจะช่วยเธอได้นะ",
+					"event.0.dialogue.2": "คุณได้เรียนรู้วิธีการประดิษฐ์ 'กระบะปลูกผัก'",
+					"event.0.dialogue.3": "อันนี้เป็นแบบที่ใช้กันในฟาร์ม ก็มีอยู่หลายรูปทรงอยู่ เผื่อว่าเธอจะได้เลือก แบบที่ชอบ#$b#ฉันไม่มีเวลาที่จะปลูกผัก ทำสวนเอง แต่ฉันก็อยากจะหาทาง ช่วยสวนต่างๆ ในเมือง ไม่ทางใดก็ทางนึง",
+					"event.0.dialogue.4": "แล้วก็ ถ้าเธอมีไม้ไม่พอ ที่จะใช้สร้างมันละก็ คงไม่ต้องบอกนะ ว่าจะไปซื้อไม้เพิ่มได้ที่ไหน!$h"
+				}
+			}
+		},
+		{
+			"LogName": "RaisedGardenBeds Item Translations: THAI",
+			"Action": "EditData",
+			"Target": "Mods/blueberry.rgb.Assets/ItemTranslations",
+			"Fields": {
+				"en": {
+					"blueberry.RaisedGardenBeds.RGB": {
+						"Wood": "Wood",
+						"Stone": "Stone",
+						"Brick": "Brick",
+						"Hardwood": "Hardwood",
+						"Old": "Old",
+						"Gold": "Gold",
+						"Void": "Void",
+						"Wild": "Wild",
+						"Dungeon": "Dungeon",
+						"Candy": "Candy",
+						"Beach": "Beach",
+						"Crypt": "Crypt"
+					}
+				}
+			}
+		}
+	]
+}
