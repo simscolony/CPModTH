@@ -9,7 +9,7 @@
 		"fall_Thu8": "ฉันคิดมาตลอดเลยว่า คลินท์กับฉันเป็นเพื่อนกัน แต่ตอนนี้ฉันเริ่มคิดแล้วว่า ฉันคิดเองฝ่ายเดียวแน่เลย$u#$e#ฉันรุ้สึกบ่อยๆ ว่าเขา... รู้สึกผิดหวังจากมิตรภาพ ของพวกเรายังไงไม่รู้ ฉันไม่รู้ว่าฉันทำอะไรผิดอะ$s",
                 "NPC.cs.3980": "เธออยากให้เราเป็น {{RelationshipLabel}} กันตลอดไปเหรอ ฉันว่าแล้ว... นึกภาพตามพรที่ขอเนี่ย ทำให้มันเป็นจริงจริงด้วย!$h#$b#ปกติฉันต้องขอให้ทำพิธั ปัดเป่าก่อนเข้าอยู่นะ แต่ฉันรู้ว่าอย่างเธอ คงจะมีแต่วิญญาณดีๆ ตามติดแหละ#$b#หุบเขาเรา เฉลิมฉลองสัญญาแบบนี้ แบบเดียวกับงานแต่งงานเลยนะ ฉันจะไปเตรียมทุกอย่างเอง เราจะจัดพิธีผูกสัญญา ใน 3 วันนะ โอเคป่าว?",
                 "NPC.cs.3962": "ดีใจมากเลยที่เธอ อยากรู้จักฉันมากขึ้น! วิญญาณทุกดวงน่ะเกี่ยวพันกัน แต่ฉันพร้อมที่จะเกี่ยวพันกับ เธอมากเป็นพิเศษนะ#$e#แล้วดอกไม้พวกนี้ ก็สวยมากเลยล่ะ!$h",
-                "NPC.cs.3963": "อยากอยู่ด้วยกันมากขึ้นเหรอ? ได้อยู่แล้ว... พวกเราถูกกำหนดมา แบบนั้นอยู่แล้วล่ะ!#$e#ดูสิ ถ้าเราประกบมือกัน เส้นชีวิตของเราต่อกันด้วย... ฮ่าๆ ฉันไม่ได้บอกให้ ใช้ตาดูเสียหน่อย!",
+                "NPC.cs.3963": "อยากอยู่ด้วยกันมากขึ้นเหรอ? ได้อยู่แล้ว... พวกเราถูกกำหนดมา แบบนั้นอยู่แล้วล่ะ!#$e#ดูสิ ถ้าเราประกบมือกัน เส้นชีวิตของเราตัดกันด้วย... ฮ่าๆ ฉันไม่ได้บอกให้ ใช้ตาดูเสียหน่อย!",
                 "NPC.cs.3985": "ได้ยินมาว่าวันนี้เธอให้ ของขวัญใครด้วยเหรอ#$e#เป็นเพื่อนที่ใจดีจัง!$h",
                 "NPC.cs.4425": "ชีวิตเปลี่ยนไปจริงๆ นะ ตั้งแต่พวกเราเป็น {{RelationshipLabel}} กันน่ะ...$s",
                 "NPC.cs.4507": "@",
@@ -36,7 +36,7 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.4001": "I woke from a strange dream with that fruit clasped in my hands... $l#$b#I gave it to you to thank you for being my friend. I mean, for being my friend honestly and unconditionally.$u#$b#I like to think I'm good at reading people, but... romantic interest is a blind spot for me.$u#$b#Sometimes I'm not sure if my friendship brings someone joy... or if it's just frustrating and painful for them, because it's not what they really want from me.$s#$b#But it's not like that with you. I know that we're {{RelationshipLabel}} because that's truly what you want, not just what you're settling for. And it's what I want, too.$l#$b#I think that's why we were always meant to find each other. Some cosmic thread connected us... knowing that if our souls ever met, they would be in perfect harmony.#$b#I love you, @. You're my person.$l",
+                "NPC.cs.4001": "คืนนึงฉันฝันแปลกๆ ตื่นมาก็กำผลไม้นั่นในมือ... $l#$b#ฉันเลยให้เธอ เพื่อเป็นการขอบคุณ ที่เป็นเพื่อนกับฉันน่ะ หมายถึงที่ เป็นเพื่อนแบบที่จริงใจ และไม่มีข้อแม้ใดๆ อ่ะ$u#$b#ฉันอยากจะเชื่อว่าตัวเอง อ่านคนเก่งนะ แต่... เรื่องรักโรแมนติกนี่ เป็นจุดบอดของฉันน่ะ$u#$b#บางทีฉันก็ไม่แน่ใจ ว่ามิตรภาพของฉันทำให้ ใครมีความสุขมั้ย... หรือว่าทำให้น่าหงุดหงิด ทรมาณเสียมากกว่า เพราะจริงๆ แล้วพวกเขาไม่ได้ต้องการ มิตรภาพจากฉันน่ะ$s#$b#แต่กับเธอมันไม่ใช่แบบนั้น ฉันรู้ว่าพวกเราเป็น {{RelationshipLabel}} เพราะเธอต้องการมันจริงๆ ไม่ใช่จำใจรับ แล้วฉันก็ต้องการแบบนั้น ด้วยเหมือนกัน$l#$b#ฉันว่าพวกเราถูกกำหนด ให้เจอกัน ให้เชื่อมกันด้วยสายใย แห่งจักรวาลบางอย่าง... เพราะรู้ว่าถ้าวิญญาณ เราทั้งคู่ได้พบกัน จะต้องร่ำร้องเป็นจังหวะ ประสานเดียวกันไงล่ะ#$b#ฉันรักเธอนะ @ เธอเป็นคนของฉันแล้วนะ$l",
             },
             "When":
             {
@@ -48,7 +48,7 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.4001": "I woke from a strange dream with that fruit clasped in my hands... $u#$b#I gave it to you to thank you for being my friend. I mean, for being my friend honestly and unconditionally.$u#$b#I like to think I'm good at reading people, but... romantic interest is a blind spot for me.$u#$b#Sometimes I'm not sure if my friendship brings someone joy... or if it's just frustrating and painful for them, because it's not what they really want from me.$s#$b#But it's not like that with you. I know that we're {{RelationshipLabel}} because that's truly what you want, not just what you're settling for. And it's what I want, too.#$b#I think that's why we were always meant to find each other. Some cosmic thread connected us... knowing that if our souls ever met, they would be in perfect harmony.$h#$b#I love you, @. You're my person.",
+                "NPC.cs.4001": "คืนนึงฉันฝันแปลกๆ ตื่นมาก็กำผลไม้นั่นในมือ... $u#$b#ฉันเลยให้เธอ เพื่อเป็นการขอบคุณ ที่เป็นเพื่อนกับฉันน่ะ หมายถึงที่ เป็นเพื่อนแบบที่จริงใจ และไม่มีข้อแม้ใดๆ อ่ะ$u#$b#ฉันอยากจะเชื่อว่าตัวเอง อ่านคนเก่งนะ แต่... เรื่องรักโรแมนติกนี่ เป็นจุดบอดของฉันน่ะ$u#$b#บางทีฉันก็ไม่แน่ใจ ว่ามิตรภาพของฉันทำให้ ใครมีความสุขมั้ย... หรือว่าทำให้น่าหงุดหงิด ทรมาณเสียมากกว่า เพราะจริงๆ แล้วพวกเขาไม่ได้ต้องการ มิตรภาพจากฉันน่ะ$s#$b#แต่กับเธอมันไม่ใช่แบบนั้น ฉันรู้ว่าพวกเราเป็น {{RelationshipLabel}} เพราะเธอต้องการมันจริงๆ ไม่ใช่จำใจรับ แล้วฉันก็ต้องการแบบนั้น ด้วยเหมือนกัน#$b#ฉันว่าพวกเราถูกกำหนด ให้เจอกัน ให้เชื่อมกันด้วยสายใย แห่งจักรวาลบางอย่าง... เพราะรู้ว่าถ้าวิญญาณ เราทั้งคู่ได้พบกัน จะต้องร่ำร้องเป็นจังหวะ ประสานเดียวกันไงล่ะ$h#$b#ฉันรักเธอนะ @ เธอเป็นคนของฉันแล้วนะ",
             },
             "When":
             {
@@ -60,13 +60,13 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.4442": "I feel a little sick this morning...I think my anxiety about the adoption paperwork caused my body to release harmful toxins.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I was up late meditating to center myself...$s#$b#I hope the adoption agency gets back to us soon.",
-                "NPC.cs.4443": "I'm tired... can you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I feel so blessed to be adopting with you. We'll raise our child in love and compassion, close to nature...",
-                "NPC.cs.4447": "{{TermofEndearment}}, I feel so blessed to be adopting with you. We'll raise our child in love and compassion, close to nature...",
-                "NPC.cs.4445": "{{TermofEndearment}}, I think we were always destined to raise a child together.",
-                "NPC.cs.4448": "{{TermofEndearment}}, I know you're going to share your best qualities with our child.",
+                "NPC.cs.4442": "เช้านี้ฉันรู้สึก ไม่ค่อยสบายอะ... ฉันว่าความกังวลของฉัน เรื่องเอกสารรับอุปถัมป์ ทำให้ร่างกายหลั่งสารพิษ ออกมาแน่เลย$s",
+                "NPC.cs.4446": "วันนี้ฉันอยากนอนอะ เมื่อคืนตั้งสมาธิ กำหนดจิตดึกเลย...$s#$b#หวังว่าบริษัทรับอุปถัมป์ จะติดต่อกลับมาไวๆ นะ",
+                "NPC.cs.4443": "ฉันรู้สึกเพลียๆ อ่า... เธอทำอาหารเช้า กินเองได้มะ?$s",
+                "NPC.cs.4444": "{{TermofEndearment}} ได้รับอุปถัมป์ร่วมกับเธอเนี่ย ฉันรู้สึกเหมือนได้รับพรเลย เราจะเลี้ยงลูกด้วยความรัก และความเห็นใจ ใกล้ชิดกับธรรมชาติกันนะ...",
+                "NPC.cs.4447": "{{TermofEndearment}} ได้รับอุปถัมป์ร่วมกับเธอเนี่ย ฉันรู้สึกเหมือนได้รับพรเลย เราจะเลี้ยงลูกด้วยความรัก และความเห็นใจ ใกล้ชิดกับธรรมชาติกันนะ...",
+                "NPC.cs.4445": "{{TermofEndearment}} ฉันว่าพวกเราถูกกำหนดมา ให้ได้เลี้ยงเด็กด้วยกัน อยู่แล้วแน่เลย",
+                "NPC.cs.4448": "{{TermofEndearment}} ฉันรู้ว่าเธอจะต้อง ถ่ายทอดแต่ส่วนดีๆ ของเธอให้ลูกเราแน่ๆ",
             },
             "When":
             {
@@ -78,10 +78,10 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.4444": "{{TermofEndearment}}, we're going to have a baby soon.$h",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm pregnant. Isn't it wonderful?$h",
-                "NPC.cs.4447": "{{TermofEndearment}}, we're going to have a baby soon.$h",
-                "NPC.cs.4448": "{{TermofEndearment}}, can't you tell? You're pregnant.$h",
+                "NPC.cs.4444": "{{TermofEndearment}} พวกเราจะมีลูกกันเร็วๆ นี้แล้วล่ะ$h",
+                "NPC.cs.4445": "{{TermofEndearment}} ฉันท้องล่ะ วิเศษไปเลยใช่มั้ย?$h",
+                "NPC.cs.4447": "{{TermofEndearment}} พวกเราจะมีลูกกันเร็วๆ นี้แล้วล่ะ$h",
+                "NPC.cs.4448": "{{TermofEndearment}} เธอไม่รู้ตัวเหรอ เธอกำลังท้องนะ$h",
             },
             "When":
             {
@@ -94,8 +94,8 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.3965": "My answer isn't going to change, you know! I don't have any doubts about this.$h",
-                "NPC.cs.3966": "I'll say 'yes' as many times as you need to affirm our bond.",
+                "NPC.cs.3965": "คำตอบฉันไม่เปลี่ยนหรอกนะ! ฉันไม่มีข้อกังขา อะไรเรื่องนี้ทั้งนั้นล่ะ$h",
+                "NPC.cs.3966": "ฉันจะตอบ 'ตกลง' มากครั้งเท่าที่ จะทำให้เธอมั่นใจ ถึงสายสัมพันธ์ของเราเลย",
             },
             "When":
             {
@@ -107,8 +107,8 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.3967": "You don't have to keep asking me to live with you. I'm already here, body and soul.",
-                "NPC.cs.3968": "You're sweet, but I can't accept another pendant. When you bring two of them close together, their energies resonate disharmoniously.$u",
+                "NPC.cs.3967": "ไม่ต้องคอยชวนฉัน ไปอยู่ด้วยหรอกน่า ฉันอยู่อยู่แล้วไง ทั้งกายทั้งจิตวิญญาณเลย",
+                "NPC.cs.3968": "เธอน่ารักจัง แต่ฉันรับจี้อีกอัน ไว้ไม่ได้หรอกนะ เพราะเวลาเธอเอามัน สองอันมาใกล้กัน พลังงานจะไม่สะท้อน ไปด้วยกันน่ะ$u",
             },
             "When":
             {
@@ -120,10 +120,10 @@
             "Target": "Characters/Dialogue/Haley",
             "Entries":
             {
-                "NPC.cs.3965": "Um, don't be weird. Emily and I aren't a matched set.$u",
-                "NPC.cs.3966": "I love my sister, but I think it's actually better for our relationship if we don't live together.",
-                "NPC.cs.3967": "Um, don't be weird. Emily and I aren't a matched set.$u",
-                "NPC.cs.3968": "I love my sister, but I think it's actually better for our relationship if we don't live together.",
+                "NPC.cs.3965": "เอิ่ม อย่าทำตัวประหลาดน่า ฉันกับเอมิลี ไม่ต้องตัวติดกัน เสียหน่อยย่ะ$u",
+                "NPC.cs.3966": "ฉันรักหล่อนนะ แต่ฉันคิดว่าจริงๆ แล้วมันจะดีกับความสัมพันธ์ ของพวกเรามากกว่า ถ้าแยกกันอยู่น่ะ",
+                "NPC.cs.3967": "เอิ่ม อย่าทำตัวประหลาดน่า ฉันกับเอมิลี ไม่ต้องตัวติดกัน เสียหน่อยย่ะ$u",
+                "NPC.cs.3968": "ฉันรักหล่อนนะ แต่ฉันคิดว่าจริงๆ แล้วมันจะดีกับความสัมพันธ์ ของพวกเรามากกว่า ถ้าแยกกันอยู่น่ะ",
             },
             "When":
             {
@@ -135,11 +135,11 @@
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries":
             {
-                "Good_1": "This is so fun to live together! I always thought I'd have my own place one day, but I like this better.",
-                "Good_3": "Thanks for taking me into your home. I love this new life.$h",
-                "Good_5": "I was just admiring my amulet... The shell is beautiful! I can feel the pure blue energy radiating from it.",
-                "Neutral_0": "I hope you'll still like me when I'm old and not as fun to be around.",
-                "spring_1": "Happy new year, @. Let's make this a special one.",
+                "Good_1": "อยู่ด้วยกันนี่มันสนุกสุดๆ ไปเลย! ฉันคิดอยากได้บ้าน เป็นของตัวเองมาตลอด แต่ฉันชอบแบบนี้มากกว่าแหะ",
+                "Good_3": "ขอบใจนะ ที่ให้ฉันเข้ามา อยู่ในบ้านด้วย ฉันรักชีวิตใหม่นี้จัง$h",
+                "Good_5": "ฉันกำลังชื่นชมจี้อยู่น่ะ... เปลือกมันสวยมากเลย! ฉันเซ้นส์ถึง พลังงานสีคราม จากมันได้เลยล่ะ",
+                "Neutral_0": "ฉันหวังนะว่า พอฉันแก่และอยู่ด้วย ไม่สนุกเท่าตอนนี้แล้ว เธอจะยังชอบฉันน่ะ",
+                "spring_1": "สุขสันต์ปีใหม่จ่ะ @ มาทำปีนี้ให้พิเศากันเถอะ",
             },
         },
         {
@@ -147,9 +147,9 @@
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries":
             {
-                "Rainy_Day_4": "I never told you this... but when you first moved here I had a dream about you. I knew right then that our life-paths would intertwine.",
-                "Outdoor_1": "What's on the agenda today?",
-                "TwoKids_2": "Well, %kid2 certainly has your personality!",
+                "Rainy_Day_4": "ฉันไม่เคยเล่าให้เธอฟัง ... แต่ตอนเธอย้ายมาทีแรก ฉันฝันถึงเธอด้วยล่ะ ตอนนั้นก็รู้เลย ว่าเส้นทางชีวิตเรา ต้องคาบเกี่ยวกันแน่",
+                "Outdoor_1": "วันนี้มีแผนทำอะไรเหรอ?",
+                "TwoKids_2": "แหม %kid2 ได้นิสัยเธอมาเต็มๆ เลยนะ!",
             },
             "When":
             {
