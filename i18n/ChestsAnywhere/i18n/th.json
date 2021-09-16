@@ -1,0 +1,41 @@
+﻿{
+    // default chest names
+    "default-name.fridge": "Fridge",
+    "default-name.other": "{{name}} #{{number}}",
+    "default-name.shipping-bin.store": "ship items",
+    "default-name.shipping-bin.take": "retrieve items",
+
+    // default category names
+    "default-category.owned-cabin": "Cabin ({{owner}})",
+    "default-category.unowned-cabin": "Cabin (empty)",
+    "default-category.duplicate": "{{locationName}} #{{number}}",
+
+    // edit-chest labels
+    "label.location": "Location",
+    "label.location.tile": "tile {{x}}, {{y}}",
+    "label.name": "Name",
+    "label.category": "Category",
+    "label.order": "Order",
+    "label.hide-chest": "Hide this chest",
+    "label.hide-chest-hidden": "Hide this chest (you'll need to find the chest to undo this!)",
+    "label.automate-options": "Automate",
+    "label.automate-store": "Put items in this chest",
+    "label.automate-store-first": "Put items in this chest first",
+    "label.automate-store-disabled": "Never put items in this chest",
+    "label.automate-take": "Take items from this chest",
+    "label.automate-take-first": "Take items from this chest first",
+    "label.automate-take-disabled": "Never take items from this chest",
+    "label.automate-prevent-remove-stacks": "Avoid removing the last item in a stack",
+
+    // button labels
+    "button.edit-chest": "edit chest",
+    "button.sort-inventory": "sort inventory",
+    "button.save": "save",
+    "button.reset": "reset",
+
+    // errors
+    "errors.disabled-from-here": "You can't access chests from here.",
+    "errors.no-chests": "You don't have any chests yet.",
+    "errors.no-chests-in-location": "You don't have any chests in this area.",
+    "errors.no-chests-in-range": "You don't have any chests in range."
+}
