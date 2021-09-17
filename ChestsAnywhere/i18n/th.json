@@ -21,7 +21,7 @@
     "label.automate-options": "ระบบอัตโนมัติ (Automate)",
     "label.automate-store": "นำไอเท็มใส่ลงในกล่องใบนี้",
     "label.automate-store-first": "นำไอเท็มใส่ลงในกล่องนี้เป็นลำดับแรก",
-    "label.automate-store-disabled": "ไม่ใส่ไอเท็มลงในกล่องใบนี้",
+    "label.automate-store-disabled": "ไม่นำไอเท็มใส่ลงในกล่องใบนี้",
     "label.automate-take": "ใช้ไอเท็มจากกล่องใบนี้",
     "label.automate-take-first": "ใช้ไอเท็มจากกล่องใบนี้เป็นลำดับแรก",
     "label.automate-take-disabled": "ไม่นำไอเท็มออกจากกล่องใบนี้",
@@ -34,8 +34,8 @@
     "button.reset": "ล้างข้อมูล",
 
     // errors
-    "errors.disabled-from-here": "คุณไม่สามารถเข้าถึงกล่องเก็บของจากที่นี้ได้",
-    "errors.no-chests": "คณยังไม่เคยมีกล่องเก็บของมาก่อน",
+    "errors.disabled-from-here": "คุณไม่สามารถเข้าถึงกล่องเก็บของจากที่นี่ได้",
+    "errors.no-chests": "คุณยังไม่เคยมีกล่องเก็บของมาก่อน",
     "errors.no-chests-in-location": "คุณไม่มีกล่องเก็บของอยู่ในบริเวณนี้",
     "errors.no-chests-in-range": "คุณไม่มีกล่องเก็บของที่อยู่ในระยะ"
 }
