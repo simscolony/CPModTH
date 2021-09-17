@@ -20,7 +20,7 @@ Looking for Love                  | [✓](Looking%20for%20Love/)                
 Ridgeside Village                 | [↻ แปลบางส่วน](Ridgeside%20Village/)                            |
 Raised Garden Beds                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       |
 Platonic Partners and Friendships | [↻ แปลบางส่วน]([CP]%20Platonic%20Partners%20and%20Friendships/) |
-ATM                               | [✓](ATM/i18n/th.json)                                          |
+ATM                               | [✓](ATM/i18n/th.json)                                          | [↻ รอ Merge](https://github.com/Platonymous/Stardew-Valley-Mods/pull/121)
 Better Junimos                    | ❑                                                              |
 Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [↻ รอ Merge](https://github.com/Pathoschild/StardewMods/pull/661)
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/th.json)                                | [↻ รอ Merge](https://github.com/CJBok/SDV-Mods/pull/159)
