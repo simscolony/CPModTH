@@ -1,0 +1,29 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_11.000": "ĉ¹¨Ð˵Í§ä»ËÒɅ§ËÁÍħ¹׉... àђÂÁä»àÅÂ$7",
+        "winter_17.000": "ºÒ§Ƨ˶Òĉ¹ŇÒÍ˒Ò§ҽ¹ ̅ÁàËÅÇä»ËÁ´ ĉ¹¨Ðä»àʛ¹ā»ĕ¹àȓÍńÒթÒ ġ¹˵Í§à͈§ÁÒ¡áˉæ",
+        "marriage_Fri.001": "¢Íâ·É¹Ðчģ¡ µÍ¹׉ĉ¹ıÒĥ§¾ÂÒÂÒÁ ŇÒÊÁÒŸÍԒ...$7",
+        "marriage_Mon.001": "Ƈ¹à«¹·ɤ¨ÐàË§ÒËˉÍÂæ µÍ¹чĉ¹äˑä˴ÍԒāºà¢Ò ĉ¹¤ÇÃ¨Ðä»à˕¹āº˹Í§ ã̋ÁÒ¡¡˗Ò׉Ɗ¹Ð",
+        "marriage_Fri.000": "Í˒ÒºÍ¡áˑ¢Í§ĉ¹¹Ð... á˅¨ƃ§æ á̅Ç ĉ¹áʴÁÒš¹ˢÒÇ¡ÅÒ§ħ¹¿Ƴ чщàˇÒԹ¹àÍ§$h",
+        "fall_11.002": "ĉ¹àО§¨ÐàÊʣ¨ȸÃÐ¨Ò¡¤ƅŹ¡ Ɋ¢ÀÒ¾ƤáÅÐáʂ§áÃ§Ɋ´æ ä»àÅÂ˕Ð àËȑÍ¹чŤ´äˑƱż´$h",
+        "marriage_Mon.000": "áˑɤƱ¤ÇÒÁɊ¢Ƥ¹Ð á˅ÍÒ¨¨ÐŇÒ§Ò¹ Ëę¡àš¹ä»˺Ò§",
+        "fall_11.001": "ĉ¹àʛ¹¤¹чɊ¢ÀÒ¾Ƥ ÁÒ¡àÅÂ¹ÐȤ³ËÁÍ ã̋ĉ¹ä»ä˴ËȓÍĢ§? щġ¹ˉÒàҪÍªÐġ´",
+        "rain2.000": "äˑƱÍÐäÃ¨ÐƤä»¡˗Ò â¨˨Òâ¤˕Òàʢ¹æ ã¹ħ¹чÍÒ¡ÒÈ̃Í¹ ¨¹àËҗÍÍÍ¡¢¹Ò´׉á̅Ç ÎÐ?#$e#áʴ̅Íà˕¹ˉÒ ўўў$h"
+    }
+}

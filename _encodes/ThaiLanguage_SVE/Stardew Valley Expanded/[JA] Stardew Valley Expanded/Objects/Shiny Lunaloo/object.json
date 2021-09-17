@@ -1,0 +1,15 @@
+{
+	"Name": "Shiny Lunaloo",
+	"Description": "(äª¹ì¹Õè ÅÙ¹ÒÅÙ) áÁ§¡ÃÐ¾ÃØ§àÃ×Í§áÊ§ ËÃ×Í·ÕèÃÙé¨Ñ¡¡Ñ¹ã¹¹ÒÁ ¡ÃÐ¾ÃØ¹áÊ§¨Ñ¹·Ãì ÁÑ¹ÁÕËÅÒÂÊÕ áÅÐËÅÒÂÃÙ»·Ã§",
+	"Category": "Fish",
+	"Edibility": -50,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 850,
+	"IsColored": false,
+		"GiftTastes":
+	{
+	    "Love": [ "Wizard" ],
+		"Like": ["Willy"],
+	},
+}

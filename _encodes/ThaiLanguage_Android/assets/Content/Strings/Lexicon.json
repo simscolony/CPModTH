@@ -1,0 +1,42 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "RandomNegativeItemNoun": "¢ÂÐ#ɱÅ½ÍÂ#àÈÉ¢ÂÐ#â¤Å¹#¢ÂÐ˛ÇÂæ",
+        "RandomPositiveAdjective_Child": "à¨ë§#Ê¹Ø¡#»Ñ§#´Õ#à¡ë#ÊØ´ÂÍ´#àÂÕèÂÁ",
+        "RandomPositiveAdjective_AdultMale": "¹èÒÊ¹ã¨#¹èÒµ×è¹àµé¹#àÃÕÂºÃéÍÂ#Ê¹Ø¡#àÂÕèÂÁ#ÊØ´ÂÍ´",
+        "RandomPositiveAdjective_AdultFemale": "´Õ§ÒÁ#ÊØ´ÂÍ´#ÍºÍØè¹ËÑÇã¨#àËÁ×Í¹ÁÕàÇ·Á¹µÃì#àËÅ×Íàª×èÍ#¹èÒÃÑ¡#¹èÒàºÔ¡ºÒ¹ã¨#¹èÒª×è¹ã¨",
+        "RandomPositiveAdjective_PlaceOrEvent": "´Õ§ÒÁ#ÂÍ´àÂÕèÂÁ#ÍºÍØè¹ËÑÇã¨#ÁÕÁ¹µì¢ÅÑ§#ÊØ´ÂÍ´#¹èÒÃÑ¡#¹èÒàºÔ¡ºÒ¹ã¨#¹èÒª×è¹ã¨",
+        "RandomNegativeAdjective_Child": "ě­­ÒЙÁ#Χ§#ֲá˾#ˉÒàҪÍ#âʷ",
+        "RandomNegativeAdjective_AdultMale": "˛ÇÂ#á˒#ä̃ÃÊŹÂÁ#ˉÒàҪÍ#ˉÒË´ԛ#ˉÒģ§àƑÂ¨#ˉÒĲÒ",
+        "RandomNegativeAdjective_AdultFemale": "ˉÒàÈ̃Ò#ˉÒàҪÍ#¾Òà¤ƳÂ´#ˉÒË´ԛ#ˉÒàÇ·¹Ò#äˑړĈ¡âµ#ˉÒģ§àƑÂ¨",
+        "RandomNegativeAdjective_PlaceOrEvent": "ˉÒàÈ̃Ò#ˉÒàҪÍ#à¤ƳÂ´à¢ʡ§#ˉÒË´ԛ#ˉÒÊ§ÊÒÃ#˝Í¹˅ÍâÅ¡#ˉÒģ§àƑÂ¨",
+        "RandomDeliciousAdjective": "àÍʣ´Í˓ÍÂ#Í˓ÍÂ#Ƥ§ÒÁ#ˉÒǞ§¾Íã¨#àŵÁàʕÁ#ˉÒ»صÁŻŵ#ŇÒã̋à¨ƃ­ÍÒËÒÃ#ˉÒ»ÃÐėºã¨",
+        "RandomDeliciousAdjective_Child": "ÍÒË˒ÍÂ",
+        "RandomNegativeFoodAdjective_Child": "Ʋë",
+        "RandomNegativeFoodAdjective_Polite": "ÍÐäÃч... ˉÒÊ¹ã¨#ÍÐäÃч... á»Å¡#ÍÐäÃч... áµ¡˅Ò§#ÍÐäÃч... äˑàËȑÍ¹чà¤Âš¹ÁÒʱÍ¹àÅÂ",
+        "RandomNegativeFoodAdjective": "¢Í§á˒æ#¢Í§ˉÒáËÇÐ#¢Í§ˉÒģ§àƑÂ¨#¢Í§ˉÒ¢ÂÐá¢Â§#¢Í§чλ¹ˋÇ¹˷Í§#¢Í§ˉÒ¤ҵ¹ä̊#¢Í§àÅÇ̃ÒÂ#¢Í§ˉÒÊÐƍ´ÊÐàƽÂ¹#¢Í§ˉÒ¤ҵ¹àƻÂ¹#¢Í§ɪ´æ#¢Í§ˉÒÊÂ´ÊÂÍ§#¢Í§àˉÒ",
+        "RandomSlightlyPositiveFoodAdjective": "ã˪ä˴#Ƥ#¾Íš¹ä˴",
+        "ChildTerm_Male": "ªÒÂ",
+        "ChildTerm_Female": "Ëŭ§",
+        "Pronoun_Male": "à¢Ò",
+        "Pronoun_Female": "à¸Í",
+        "QuestionDialogue_Yes": "áˉ¹Í¹",
+        "QuestionDialogue_No": "äˑ",
+        "GenericPlayerTerm": "ªÒÇäÃè"
+    }
+}

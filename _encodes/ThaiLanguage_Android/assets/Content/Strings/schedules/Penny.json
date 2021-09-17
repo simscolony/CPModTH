@@ -1,0 +1,28 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_4.001": "à̎! ¢Í¤ÇÒÁàʛ¹˚Ç¹ĕÇ ˺Ò§ä˴ՁÂ?$a",
+        "marriage_Mon.002": "ĉ¹Ê§ĪÂĈ§˗Ò Í¹Ò¤µˢÒ§Ë˹Ò ÁÒɃ¨Ðá˅§§Ò¹āºã¤ÃՁÂ?",
+        "marriageJob.000": "ÊħÊƤчģ¡ ړǪ¡ƤĈ§чȤ³ÁÒàђÂÁĉ¹ ǖ§чŇÒ§Ò¹$h",
+        "marriage_Mon.001": "äˑ˵Í§ā§ÇÅ ĉ¹ã˪àŧ¹¢Í§ĕÇàÍ§ ؛Í¢Í§¾Ç¡Թ¹ÁÒ",
+        "marriage_Mon.000": "˗Òä§чģ¡! ĉ¹ıÒĥ§ªÍ»֛§ÍԒàÅÂ",
+        "winter_15.000": "Ȥ³ä˴¡Х¹ι¹äËÁ ĉ¹ʁáʴɮ´ä»Í˒Ò§Թ¹áËÅÐ Í˒ÒÊ¹ã¨àÅÂ...",
+        "winter_4.000": "ĉ¹Ʊę´ч¤ƅŹ¡ µÍ¹ˊÒÂ׉áËÅÐ",
+        "rain2.000": "ĉ¹¨ÐàˢÒä»ˢÒ§ã¹¹Ð ʁáʴ˵Í§¡ÒÃàÇÅÒ ŇÒÊÁÒŸàƗÂºæ ˺Ò§"
+    }
+}

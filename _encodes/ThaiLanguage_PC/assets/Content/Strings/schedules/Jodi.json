@@ -1,0 +1,28 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "spring_11.003": "ħ¹׉Ƈ¹à«¹·àʱ§ÁÒ¡æ àÅÂ˕Ð µÍ¹чà¨ÍȤ³ËÁÍ ĉ¹ɰƁã¨ã¹ĕÇà¢Ò¨ƃ§æ",
+        "winter_17.000": "ġ¹¤§¨Ðҥ¹à˵¹ˉÒɤàÅÂ¹Ð ˶Òä˴ÍÍ¡ä»àчÂÇà˕¹ àËȑÍ¹āº¾Ç¡à¢Ò... *à̎Í*...",
+        "spring_11.001": "àˢÁáʂ§ËˉÍÂƇ¹à«¹· ÅÍ§Ť´ǖ§ˎÍ¢Í§ɵ¡ɤƊ",
+        "Tue.000": "äˑ¹Ð... á¢¹¢Í§ĉ¹ ġ¹àËȑÍ¹àÂÅѕàÅÂ...$s",
+        "spring.000": "ӺÇ... àˤÒıÒĥ§ËĥºÍԒ¹Ð",
+        "spring_18.000": "à̎! à¸Í¨ÐàˢÒÁÒӢ§āºę´˚Ç¹ĕÇ ¢Í§¤¹ҽ¹äˑä˴¹Ð!$u",
+        "spring_11.002": "ËÁÍÎÒΓƷΒ¤Ð? ĉ¹ā§ÇÅāº ˚Ç¹ɺ§¢Í§Ƈ¹à«¹·ˉÐʴÐ ŚÒËģºàʔ¡ħÂ׉àˤÒäˑĕÇàʥ¡ ä»ËˉÍÂàËÃÍ¤Ð?",
+        "spring_11.000": "Ƈ¹à«¹·à¢Òà¡ƵÂ´¡ÒÃ ä»ËÒËÁÍчɊ´àÅÂ˕Ð¹Ð á˅ŇÒĢ§ä§ä˴ à¢Òʁ˵Í§·¹āºġ¹ä»ι¹áËÅÐ"
+    }
+}

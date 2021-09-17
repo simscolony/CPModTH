@@ -1,0 +1,21 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "16253595/j 29/X": "distantBanjo/6 6/farmer 5 9 0 Willy -100 -100 2/skippable/move farmer 0 -1 0/pause 1000/warp Willy 4 4/playsound doorClose/pause 100/textAboveHead Willy \"ÍÐÎÍÂ!\"/pause 500/move Willy 1 0 2/speak Willy \"àˢÒÁÒƊ... ŇÒĕÇµÒÁÊºÒÂä˴àÅÂ...\"/move farmer 0 -1 0/move farmer -1 0 3/pause 1000/animate farmer true true 9999 35/playSound quickSlosh/pause 800/playSound quickSlosh/pause 800/speak Willy \"à̎... Թ¹ˉÐ¢Í§ƤàÅÂ˕Ð ¾Ç¡»ÅÒˉÐªÍºÁÒ¡æ àÅÂ#$b#щ... Ëĥ§¨Ò¡ֈÁġ¹á̅Ç ʁÍ˒ÒȕÁä»̅Ò§ȑÍ˴ÇÂ˕Ð$s\"/speak Willy \"à¾ÃÒÐ¡Х¹ġ¹¨Ðŵ´ȑÍ ä»ËÅÒÂħ¹àÅÂ˕Ð^à¾ÃÒÐ¡Х¹ġ¹¨Ðŵ´ȑÍ ä»ËÅÒÂħ¹àÅÂ˕Ð...\"/stopAnimation farmer/startJittering/jump farmer/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/stopJittering/pause 1000/speak Willy \"Ĉº»ÅÒÁÒä˴àÂÍÐàÅÂãʺՁÂ?\"/pause 300/stopAnimation farmer/faceDirection farmer 0/pause 500/quickQuestion #ãʺ#äˑ#ġ¹ÂÒ¡àš¹ä»ËˉÍÂ...(break)emote Willy 20\\speak Willy \"˞Ò!ġ¹˵Í§Í˒Ò§ַƊ$h\"\\pause 500\\speak Willy \"àÃÒÊÒÁÒÃ¶ä̇ã¨ ę¡µ¡»ÅÒä˴ȷ¡àұÍ^àÃÒÊÒÁÒÃ¶ä̇ã¨ ę¡µ¡»ÅÒä˴ȷ¡àұÍ\"\\speak Willy \"ġ¹àʛ¹ĴÒчˎÍĉ¹ªÍºɮ´ˉÐ$h#$b#àÍÒ˕Ð ˶Òàš´à¸ÍĈº»ÅÒ ã¹թÒä˴Է§ËÁ´ ĉ¹¨ÐµºÃÒ§ħÅ ã̋Í˒Ò§§ÒÁàÅÂ\"(break)emote Willy 28\\speak Willy \"äˑãʺá¹ÇËÃÍ á˒ËˉÍÂ¹Ð$s\"(break)emote Willy 16\\speak Willy \"ãʺ ġ¹ʁÂÒ¡ÁÒ¡àÅÂ â´Âà©¾ÒÐȑÍãËˑ#$b#à¤ÂÅÍ§ã˪äÍà˨Ò 'àʚ´ǝ¡˫ÍÁ' ՁÂ µÍ¹׉ĉ¹¢ÒÂÍԒ¹Ð#$b#à¸ÍˉÒ¨Ðã˪à˨Ò 'àʚ´ǝ¡˫ÍÁ' щä»¨¹¡˗Ò¨ÐĺÒ¹Ò­¹Ð\"/pause 1500/faceDirection Willy 3/emote Willy 28/quickQuestion #ƱÍÐäÃǣà»˕Ò?#ȷ¡Í˒Ò§ÃÒºҳ¹ƤՁÂ?(break)pause 100(break)pause 100/pause 400/speak Willy \"à̎Í... ʁà݋ÂÇ׉ ȸÃš¨ʁàУÁäˑƤá̅ÇˉÐƊ$s#$b#ġ¹àУÁäˑƤ ÁÒ¾̃ÍÁæ āºµÍ¹ч ɸ¹ΒȪÁª¹ĭ¹Թ¹Ğ§... »ÅÒ¢Í§ĉ¹ʁàУÁ¢ÒÂäˑʴÍÂƤ àËȑÍ¹àұÍʱÍ¹#$b#ĉ¹ǖ§˵Í§ŇÒ§Ò¹ÁÒ¡ע¹ àҮÍч¨ÐƱàŧ¹àʁºã̋¾Íã˪\"/faceDirection Willy 2/pause 300/speak Willy \"ĉ¹äˑƱàÇÅÒч¨Ð ŇÒâ¤Ã§¡ÒÃ¢Í§ĕÇàÍ§àÅÂ...$s#$b#á˅˶ÒµÍ¹׉ ȷ¡Í˒Ò§àУÁ¡ĥºÁÒ àˢÒчàˢÒ·Ò§á̅Ç ĉ¹àÅÂ¾Í¨ÐƱàÇÅÒã̋à¸Í ä˴ɤÍÐäÃĪ¡ËˉÍÂ...\"/move Willy -1 0 0/playMusic none/speak Willy \"àÎÐæ... ãʺàÅÂ à¸Í¡ĥºÁÒá̅Ç... 'àҮÍ¹àʱÒ' чáÊ¹·Ƀ´â·ÃÁ...$h\"/pause 500/emote farmer 8/pause 1000/playMusic ocean/playSound shwip/faceDirection Willy 1 true/pause 40/faceDirection Willy 2/speak Willy \"ċ¡ħ¹¹Ð à˨ÒËɩ... à¸Í¨ÐàˢÒã¨˗Ò ĉ¹ËÁÒÂǖ§ÍÐäÃ^ċ¡ħ¹¹Ð áˑÊÒÇ˹ÍÂ à¸Í¨ÐàˢÒã¨˗Ò ĉ¹ËÁÒÂǖ§ÍÐäÃ\"/pause 2000/end"
+    }
+}

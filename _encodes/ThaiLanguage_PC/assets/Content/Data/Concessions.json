@@ -1,0 +1,264 @@
+[
+  {
+    "ID": 0,
+    "Name": "Cotton Candy",
+    "DisplayName": "Cotton Candy",
+    "Description": "(ÊÒÂäËÁ) ¡éÍ¹àÁ¦ÊÕªÁ¾Ù¡ÅØèÁãË­è·Ó¨Ò¡¹éÓµÒÅ»Ñè¹",
+    "Price": 50,
+    "ItemTags": [
+      "Sweet",
+      "Candy"
+    ]
+  },
+  {
+    "ID": 1,
+    "Name": "Jasmine Tea",
+    "DisplayName": "Jasmine Tea",
+    "Description": "(ªÒÁÐÅÔ) ªÒà¢ÕÂÇ·ÕèÁÕ¡ÅÔè¹ËÍÁ¢Í§ÁÐÅÔ",
+    "Price": 50,
+    "ItemTags": [
+      "Drink",
+      "Hot",
+      "Healthy"
+    ]
+  },
+  {
+    "ID": 2,
+    "Name": "Joja Cola",
+    "DisplayName": "Joja Cola",
+    "Description": "(â¨¨éÒâ¤ÅèÒ) ¹éÓÍÑ´ÅÁâ¨¨éÒá¡éÇãË­è¾ÔàÈÉ",
+    "Price": 40,
+    "ItemTags": [
+      "Drink",
+      "Cold",
+      "Joja"
+    ]
+  },
+  {
+    "ID": 3,
+    "Name": "Sour Slimes",
+    "DisplayName": "Sour Slimes",
+    "Description": "(ÊäÅÁìà»ÃÕéÂÇ) àÂÅÅÕèà¤ÕéÂÇË¹ÖºÃÙ»ÊäÅÁìËÅÒ¡ÊÕ ¾Ç¡ÁÑ¹¶Ù¡âÃÂ´éÇÂ¼§·ÕèÁÕÃÊà»ÃÕéÂÇÊØ´æ",
+    "Price": 80,
+    "ItemTags": [
+      "Sour",
+      "Candy"
+    ]
+  },
+  {
+    "ID": 4,
+    "Name": "Personal Pizza",
+    "DisplayName": "Personal Pizza",
+    "Description": "(¾Ô««èÒÊÓËÃÑº·Ò¹¤¹à´ÕÂÇ) ¾Ô««èÒ·ÕèÁÕ¢¹Ò´àÅç¡¨¹ÊÒÁÒÃ¶ÃÑº»ÃÐ·Ò¹à»ç¹ÍÒËÒÃÇèÒ§ä´é",
+    "Price": 150,
+    "ItemTags": [
+      "Hot",
+      "Fatty"
+    ]
+  },
+  {
+    "ID": 5,
+    "Name": "Nachos",
+    "DisplayName": "Nachos",
+    "Description": "(¹ÒâªèÊì) á¼è¹á»é§µÍÃìµÕÂèÒ·Í´Ê´ãËÁèÃÒ´´éÇÂªÕÊ·ÕèàË¹ÕÂÇË¹×´ÃÊà¼ç´",
+    "Price": 100,
+    "ItemTags": [
+      "Hot",
+      "Salty",
+      "Fatty"
+    ]
+  },
+  {
+    "ID": 6,
+    "Name": "Salmon Burger",
+    "DisplayName": "Salmon Burger",
+    "Description": "(àºÍÃìà¡ÍÃìá«ÅÁèÍ¹) á«ÅÁèÍ¹ªÔé¹Ë¹Òº¹¢¹Á»Ñ§§Ò·Õè¶Ù¡»Ôé§¨¹à¡ÃÕÂÁàÅç¡¹éÍÂ",
+    "Price": 150,
+    "ItemTags": [
+      "Sandwich",
+      "Burger"
+    ]
+  },
+  {
+    "ID": 7,
+    "Name": "Ice Cream Sandwich",
+    "DisplayName": "Ice Cream Sandwich",
+    "Description": "(äÍÈ¡ÃÕÁá«¹´ìÇÔª) äÍÈ¡ÃÕÁÇÒ¹ÔÅÅÒ·Õè¶Ù¡»ÃÐ¡º´éÇÂ¤Ø¡¡ÕéªçÍ¡â¡áÅµÊÍ§ªÔé¹",
+    "Price": 150,
+    "ItemTags": [
+      "Sandwich",
+      "Sweet",
+      "Cold"
+    ]
+  },
+  {
+    "ID": 8,
+    "Name": "Popcorn",
+    "DisplayName": "Popcorn",
+    "Description": "(»êÍ»¤ÍÃì¹) àÁÅç´¢éÒÇâ¾´·Õè¶Ù¡¤ÑèÇ¨¹¾Í§ à¾ÔèÁÃÊªÒµÔ´éÇÂà¹ÂáÅÐâÃÂà¡Å×Í¹Ô´Ë¹èÍÂ",
+    "Price": 120,
+    "ItemTags": [
+      "Hot",
+      "Salty"
+    ]
+  },
+  {
+    "ID": 9,
+    "Name": "Fries",
+    "DisplayName": "Fries",
+    "Description": "(ÁÑ¹½ÃÑè§·Í´) ÁÑ¹½ÃÑè§½Ò¹ºÒ§æ ·Í´¡ÃÍºáÅéÇâÃÂà¡Å×ÍàÅç¡¹éÍÂ",
+    "Price": 100,
+    "ItemTags": [
+      "Hot",
+      "Salty",
+      "Fatty"
+    ]
+  },
+  {
+    "ID": 10,
+    "Name": "Chocolate Popcorn",
+    "DisplayName": "Chocolate Popcorn",
+    "Description": "(»êÍ»¤ÍÃì¹ÃÊªçÍ¡â¡áÅµ) ÁÑ¹¡ç¤×Í»êÍ»¤ÍÃì¹¸ÃÃÁ´Ò... áµè¶Ù¡à¤Å×Íº´éÇÂªçÍ¡â¡áÅµ",
+    "Price": 130,
+    "ItemTags": [
+      "Hot",
+      "Sweet"
+    ]
+  },
+  {
+    "ID": 11,
+    "Name": "Black Licorice",
+    "DisplayName": "Black Licorice",
+    "Description": "(ÅÙ¡ÍÁÃÊªÐàÍÁà·È´Ó) ÅÙ¡Íºà¤ÕéÂÇË¹Öº ÃÊªÒµÔà¢éÁ¢é¹áÅÐÁÕ¡ÅÔè¹©Ø¹",
+    "Price": 25,
+    "ItemTags": null
+  },
+  {
+    "ID": 12,
+    "Name": "Star Cookie",
+    "DisplayName": "Star Cookie",
+    "Description": "(¤Ø¡¡Õé´Ç§´ÒÇ) ¤Ø¡¡ÕéªÍÃì·àºÃ´ÃÙ»´ÒÇ·ÕèâÃÂ´éÇÂ¹éÓµÒÅÊÕÃØé§",
+    "Price": 150,
+    "ItemTags": [
+      "Sweet"
+    ]
+  },
+  {
+    "ID": 13,
+    "Name": "Jawbreaker",
+    "DisplayName": "Jawbreaker",
+    "Description": "(¹Ñ¡·ÓÅÒÂ¢Ò¡ÃÃä¡Ã) ÅÙ¡ÍÁ·Õè·Ñé§ãË­èáÅÐá¢ç§ ´ÙË¹Ñ§¨ºË¹Öè§àÃ×èÍ§áÅéÇ¡çÂÑ§ÅÐÅÒÂäÁèËÁ´!",
+    "Price": 250,
+    "ItemTags": [
+      "Sweet",
+      "Candy"
+    ]
+  },
+  {
+    "ID": 14,
+    "Name": "Salted Peanuts",
+    "DisplayName": "Salted Peanuts",
+    "Description": "(¶ÑèÇâÃÂà¡Å×Í) ¢¹ÁÃÊà¤çÁÊØ´¤ÅÒÊÊÊÔ¡",
+    "Price": 120,
+    "ItemTags": [
+      "Salty"
+    ]
+  },
+  {
+    "ID": 15,
+    "Name": "Hummus Snack Pack",
+    "DisplayName": "Hummus Snack Pack",
+    "Description": "(à«µÍÒËÒÃÇèÒ§ÎÑÁÁÑÊ) ÁÑ¹¡ÃØº¡ÃÍºáÅÐ´ÕµèÍÊØ¢ÀÒ¾",
+    "Price": 90,
+    "ItemTags": [
+      "Healthy"
+    ]
+  },
+  {
+    "ID": 16,
+    "Name": "Kale Smoothie",
+    "DisplayName": "Kale Smoothie",
+    "Description": "(à¤Å»Ñè¹) ÁÑ¹ÍØ´Áä»´éÇÂàÊé¹ãÂáÅÐÇÔµÒÁÔ¹",
+    "Price": 120,
+    "ItemTags": [
+      "Drink",
+      "Healthy"
+    ]
+  },
+  {
+    "ID": 17,
+    "Name": "Apple Slices",
+    "DisplayName": "Apple Slices",
+    "Description": "(áÍ»à»ÔÅËÑè¹ªÔé¹) áÍ»à»ÔÅËÑè¹à»ç¹ªÔé¹àÅç¡æ ·Õè·Ñé§ËÇÒ¹áÅÐ¡ÃØº¡ÃÍº",
+    "Price": 100,
+    "ItemTags": [
+      "Sweet",
+      "Healthy"
+    ]
+  },
+  {
+    "ID": 18,
+    "Name": "Panzanella Salad",
+    "DisplayName": "Panzanella Salad",
+    "Description": "(ÊÅÑ´á¾¹¹Òà«ÅÅÒ) ÊÅÑ´áËè§Ä´ÙÃéÍ¹ »ÃÐ¡Íºä»´éÇÂ¢¹Á»Ñ§áÅÐÁÐà¢×Íà·È",
+    "Price": 200,
+    "ItemTags": [
+      "Gourmet",
+      "Healthy"
+    ]
+  },
+  {
+    "ID": 19,
+    "Name": "Truffle Popcorn",
+    "DisplayName": "Truffle Popcorn",
+    "Description": "(»êÍ»¤ÍÃì¹ÃÊàËç´·ÃÑ¿à¿ÔÅ) »êÍ»¤ÍÃì¹ÊÙµÃâºÃÒ³·ÕèâÃÂ´éÇÂà¡Å×ÍàËç´·ÃÑ¿à¿ÔÅ",
+    "Price": 180,
+    "ItemTags": [
+      "Gourmet",
+      "Salty"
+    ]
+  },
+  {
+    "ID": 20,
+    "Name": "Cappuccino Mousse Cake",
+    "DisplayName": "Cappuccino Mousse Cake",
+    "Description": "(¤Ò»ÙªÔâ¹èÁÙÊà¤é¡) à¤é¡ªçÍ¡â¡áÅµ¡éÍ¹àÅç¡·Õèà¤Å×Íº´éÇÂÁÙÊ¤Ò»ÙªÔâ¹è",
+    "Price": 220,
+    "ItemTags": [
+      "Sweet",
+      "Gourmet"
+    ]
+  },
+  {
+    "ID": 21,
+    "Name": "JojaCorn",
+    "DisplayName": "JojaCorn",
+    "Description": "(¢éÒÇâ¾´â¨¨éÒ) ¢éÒÇâ¾´ÊÙµÃà©¾ÒÐ¢Í§â¨¨éÒ ·Ò\"«ÍÊà¹ÂäÁèÍÑé¹\"",
+    "Price": 10,
+    "ItemTags": [
+      "Joja"
+    ]
+  },
+  {
+    "ID": 22,
+    "Name": "Stardrop Sorbet",
+    "DisplayName": "Stardrop Sorbet",
+    "Description": "(äÍÈ¡ÃÕÁ«ÍÃìàº·ÃÊÊµÒÃì´ÃÍ») ÊÒÃÊ¡Ñ´ÊµÒÃì´ÃÍ» (Stardrop) 1 ËÂ´ à»ÅÕèÂ¹«ÍÃìàº·¹ÕéãËé¡ÅÒÂà»ç¹¢Í§ËÇÒ¹·ÕèäÁè¸ÃÃÁ´Ò",
+    "Price": 1250,
+    "ItemTags": [
+      "Sweet",
+      "Gourmet"
+    ]
+  },
+  {
+    "ID": 23,
+    "Name": "Rock Candy",
+    "DisplayName": "Rock Candy",
+    "Description": "(ÅÙ¡ÍÁËÔ¹) ¼ÅÖ¡¹éÓµÒÅáµè§ÃÊàÊÕÂºäÁé¾ÃéÍÁÃÑº»ÃÐ·Ò¹",
+    "Price": 90,
+    "ItemTags": [
+      "Sweet",
+      "Candy"
+    ]
+  }
+]

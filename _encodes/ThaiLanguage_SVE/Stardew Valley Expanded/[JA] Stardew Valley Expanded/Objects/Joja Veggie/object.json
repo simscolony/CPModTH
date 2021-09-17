@@ -1,0 +1,10 @@
+{
+	"Name": "Joja Veggie",
+	"Price": 1140,
+	"Description": "(â¨¨éÒ¼Ñ¡Ê´) ¼èÒ¹¡ÃÐºÇ¹¡ÒÃ´Ñ´á»Å§·Ò§àÇ·Á¹µì (magically modified organism; MMO) ÁÕ¤Ø³ÊÁºÑµÔ¿×é¹¿ÙÃèÒ§¡ÒÂä´éÍÂèÒ§¹èÒ©§¹ ÃÒ¤ÒÊÙ§ÁÒ¡µÒÁ·éÍ§µÅÒ´",
+	"Category": "Vegetable",
+	"Edibility": 200,
+	"Recipe": null,
+	"CanSell": false,
+	"PurchaseRequirements": [ "e 5553210" ]
+}

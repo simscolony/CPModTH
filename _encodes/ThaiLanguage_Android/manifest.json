@@ -1,0 +1,13 @@
+{
+    "Name": "Stardew Valley - THAI (Android)",
+    "Author": "Translator Army x 'ELL",
+    "Version": "1.9.1",
+    "Description": "Thai Language For Stardew Valley 1.4.5",
+    "UniqueID": "TranslatorArmy.ModTH",
+    "MinimumApiVersion": "3.7.3",
+    "UpdateKeys": [ "Nexus:7052@Android" ],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher",
+        "MinimumVersion": "1.19.0"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Rare Crops": "¾×ª¼ÅËÒÂÒ¡",
+        "Fish Farmer's": "à¨éÒ¢Í§¿ÒÃìÁ»ÅÒ",
+        "Garden": "ªÒÇÊÇ¹",
+        "Brewer's": "¹Ñ¡µéÁËÁÑ¡",
+        "Quality Fish": "»ÅÒä´é¤Ø³ÀÒ¾",
+        "Master Fisher's": "»ÃÁÒ¨ÒÃÂì¹Ñ¡µ¡»ÅÒ",
+        "Treasure Hunter's": "¹Ñ¡ÅèÒÊÁºÑµÔ",
+        "Children's": "¢Í§ÇÑÂ«¹",
+        "Forager's": "¹Ñ¡à¡çº¢Í§»èÒ",
+        "Home Cook's": "àª¿¨Ò¡·Ò§ºéÒ¹",
+        "Wild Medicine": "ÂÒÊÁØ¹ä¾Ã",
+        "Sticky": "àË¹ÕÂÇË¹×´",
+        "Engineer's": "¹Ñ¡¡èÍÊÃéÒ§",
+        "Slime Farmer's": "¹Ñ¡à¾ÒÐÊäÅÁì",
+        "Beekeeper's": "¤¹àÅÕéÂ§¼Öé§",
+        "Prospector's": "¼Ùé¢Ø´à¨ÒÐ",
+        "Archaeologist's": "¹Ñ¡âºÃÒ³¤´Õ"
+    }
+}

@@ -1,0 +1,9 @@
+\Data\Quests.json
+\Strings\Buildings.json
+\Strings\Events.json TIS-620 and ISO-8859-11
+\Strings\Characters.json TIS-620 and ISO-8859-11
+\Strings\Lexicon.json
+\Strings\Locations.json
+\Strings\Objects.json
+\Strings\StringsFromCSFiles.json
+\Strings\UI.json

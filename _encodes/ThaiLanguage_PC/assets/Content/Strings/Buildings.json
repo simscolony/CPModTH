@@ -1,0 +1,35 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "UnderConstruction": "ÍԒÃÐË˗Ò§¡ÒÃʱÍỄÒ§",
+        "DismountBeforeEntering": "Å§¨Ò¡ËÅÑ§ÁéÒ¡èÍ¹",
+        "PiecesOfHay": "֊¹˚Ç¹¢Í§¿Ò§ (Hay): {0}/{1}",
+        "AddedHay": "àОÁ¿Ò§ (Hay) ã¹٢§©Ò§ {0} ֊¹",
+        "MillFull": "äˑƱخ¹ч˗Ò§",
+        "CantMill": "äÁèÊÒÁÒÃ¶º´ä´é",
+        "NeedSilo": "µéÍ§¡ÒÃ ÂØé§©Ò§",
+        "CantEnter": "äˑÊÒÁÒÃ¶àŵÁã˴ã¹µÍ¹׉",
+        "WrongFishType": "{0} ¢Í§Ȥ³ äˑ˵Í§¡ÒÃ {1} ã¹׉",
+        "WrongFishTypeCoral": "{0} ÊÒÁÒÃ¶àוÂ§ {0} ä˴àˇÒԹ¹",
+        "CantPutInPonds": "{0} ¾Ç¡àÃÒäˑƱ¤ÇÒÁɊ¢ã¹׉ˊÍàÅÂ",
+        "NoFish": "ÊÒÁÒÃ¶àוÂ§»ÅÒã¹ˊÍ׉ä˴",
+        "PondFull": "ˊÍ׉àʕÁá̅Ç",
+        "Paint_Region_Roof": "Ëĥ§¤Ò",
+        "Paint_Region_Building": "Ëĥ§¤Ò"
+    }
+}

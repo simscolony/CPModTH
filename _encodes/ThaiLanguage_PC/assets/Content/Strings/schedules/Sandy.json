@@ -1,0 +1,26 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Sandy_Birthday_Greeting": "â̍ àÍƁѕ! ĉ¹Ëħ§˗ÒȤ³¨ÐÁÒ!$h#$b#à˪Ò׉ĉ¹ړǪ¡àË§ÒŹ´ËˉÍÂˉÐ#$e#á˅ĉ¹Ƥã¨чȤ³ÁÒ!$h",
+        "Sandy_Birthday_Hangout": "µÍ¹׉чÊµÒΓŴÇáÇÅѕ ÍÒ¡ÒÈàʛ¹Ģ§ä§˺Ò§?#$e#´Í¡ä́чι¹Ʊ¡Х¹ËÍÁ¹Ð$h",
+        "Sandy_Birthday_Lake": "ɤàËȑÍ¹˗ÒчƃÁ·ÐàÅÊÒº...#$b#ÍÒ¡ÒÈ¨Ðàʢ¹Å§Ź´ËˉÍÂ¹Ð#$e#ã¹чɊ´ĉ¹ʁÍÍ¡¨Ò¡˺Ò¹ä˴á̅Ç!$h",
+        "Sandy_Birthday_Bones": "á»Å¡ãʺäËÁ?",
+        "Sandy_Birthday_Camel": "ĉ¹Ť´˗Òà¸ÍˉÒ¨Ð¢ÒÂ¢Í§ËÒÂÒ¡¹Ð",
+        "Sandy_Birthday_Bye": "ĉ¹ƱʺÇ§àÇÅÒчƤ¹Ð$h#$b#¢ÍºȤ³чàʛ¹àҮÍ¹āºĉ¹¹Ð$h#$e#áÇÐÁÒä˴µÅÍ´¹Ð!$h"
+    }
+}

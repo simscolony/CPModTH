@@ -1,0 +1,22 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "503180/f Pam 2250/A pamHouseUpgrade/A pamHouseUpgradeAnonymous/Hn pamHouseUpgrade": "shaneTheme/-1000 -1000/farmer 18 11 1 Pam 25 9 1/skippable/specificTemporarySprite pamYobaStatue/viewport 25 9 true/move farmer 6 0 1/move farmer 0 -1 1/faceDirection Pam 2/pause 300/speak Pam \"˗Òä§ à˨ÒËɩ...\"/faceDirection Pam 1/pause 500/speak Pam \"à¸Íàʫ¹ĉ¹ ÊÇ´Á¹΅á̅ÇƊ¹Ð...\"/pause 500/move farmer 3 0 0/move farmer 0 -1 3/pause 500/speak Pam \"щǴÍɳ»Ի¹ 'Ī­ĥ¡É΃á˛§˓Ò§·Ã§' ãËˑ¢Í§ĉ¹#$b#...ϊ§ÁÒ¨Ò¡â¨˨Ò´Í·¤ÍÁ Ʊâ»Ã˚§¿Ƴã¹ÊÍ§ħ¹˴ÇÂ¹Ð Í˒Òä»ºÍ¡ŻáÍΓ˕Ð\"/pause 1000/faceDirection Pam 2/pause 400/faceDirection Pam 3/pause 500/faceDirection Pam 2/pause 500/faceDirection Pam 1/speak Pam \"...ĉ¹ˉÐıÒĥ§Ĉ´¢Í§ àˢÒ˺Ò¹ãËˑÍԒ ġ¹àʛ¹ччƤÁÒ¡àÅÂ ړǪ¡àËȑÍ¹˺Ò¹ àƳÂº̃ÍÂá̅ÇàщÂ ĉ¹«Òº׫§āº ¤ÇÒÁÊÐ´Ç¡ÊºÒÂãËˑ щÁÒ¡àÅÂ$h\"/pause 500/faceDirection Pam 2/pause 1000/showFrame Pam 25/pause 1000/animate Pam false true 250 26 27/pause 400/emote farmer 8/pause 500/textAboveHead Pam \"â̍ â·ÉƧ...\"/pause 1000/stopAnimation Pam/pause 950/speak Pam \"*ȏ´*... ġ¹áʴ...$s#$b#...ĉ¹¤ÇÃ¨Ð Ʊ¤ÇÒÁɊ¢Ɋ´æ ä»àÅÂ...$s\"/showFrame Pam 0/faceDirection Pam 1/speak Pam \"...á˅ĉ¹àƅ¡àË̅Ò äˑä˴Ī¡Ƨ... ĉ¹щ¨ÐàұÍäË˓ ʁĢ§àËȑÍ¹àŴÁ...$s\"/pause 500/emote farmer 28/pause 500/speak Pam \"ĉ¹ړǪ¡ÁÒ¹Ò¹á̅Ç˕Ð... ĉ¹ړǪ¡àËȑÍ¹˗Ò ƚƇµĉ¹ġ¹¢Ò´ÍÐäÃä» @...$s#$b#ĉ¹Ť´ÁÒµÅÍ´˗Ò ġ¹ǴÍàŧ¹... áʴà¾ÃÒÐĉ¹¨¹ˉÐ... àˢÒã¨ՁÂ? à¾ÃÒÐԧ¹ĉ¹àÅÂŤ´˗Ò ¾Íä˴˺Ò¹Ëĥ§׉ÁÒá̅Ç ě­ËÒȷ¡Í˒Ò§ ʁ¤§ËÁ´ä» á˅... ġ¹äˑãʺˉÐƊ$s#$b#à¾ÃÒÐԧ¹ι¹... ι¹àÅÂàʛ¹àËȵ¼Å˗Ò ŇÒäÁĉ¹ϊ§؛Íɳ»Ի¹щÁÒ \"/pause 1000/question fork0 \"ɮ´ÍÐäÃĪ¡Í˒Ò§āºá¾Á:#ĉ¹Ƥã¨¹Ð чàʫ¹Ȥ³Ʊ¤ÇÒÁËħ§#¢Íâ·Éч˵Í§ºÍ¡¹Ðá¾Á á˅âÂºÐˉÐäˑƱ¨ƃ§ËÃÍ¡... \"/fork positive/friendship Pam -1000/pause 500/speak Pam \"ι¹ġ¹äˑµÅ¡àÅÂ¹Ð! ...ĉ¹àŻ´ã¨ȤÂ à˕Òȷ¡Í˒Ò§ã̋à¸Íğ§¢¹Ò´׉ á̅ÇщǴÍƇƨчà¸Í µÍº¡ĥºÁÒàËÃÍ? à¸Íàʛ¹˺ÒÍÐäÃàщÂ?$u\"/faceDirection Pam 3/shake Pam 10000/emote Pam 12/pause 1000/speak Pam \"ĉ¹äˑÊ¹ã¨ËÃÍ¡¹Ð ˗Òà¸Í¨Ð˗ÒĢ§ä§... ĉ¹ƱÈģ·¸Òã¹âÂºÐ! ¾Ç¡àÃÒàÂÍÐáÂÐʁƱ! à¾ÃÒÐԧ¹ÍÍ¡ä»àÅÂ¹Ð$4\"/pause 1000/move farmer 0 1 3/move farmer -6 0 3 true/end",
+        "positive": "pause 100/emote farmer 56/pause 500/speak Pam \"ËÇÒ! ɤĉ¹Ɗ! áʱá̅Çà¿ÍÐ¿ÐɊ´æ ä»àÅÂãʺՁÂ˕Ð? ...ÎÐÎÐÎÐ$h\"/pause 1000/move Pam 0 1 1/move Pam 2 0 0/faceDirection farmer 2/viewport move 1 0 7000/textAboveHead Pam \"¢Íºã¨чι§ğ§˻Òáʱæˊ¹¹Ð à˨ÒËɩ\"/pause 5000/end"
+    }
+}

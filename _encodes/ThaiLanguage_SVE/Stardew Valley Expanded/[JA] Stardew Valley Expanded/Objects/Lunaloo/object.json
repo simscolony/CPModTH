@@ -1,0 +1,14 @@
+{
+	"Name": "Lunaloo",
+	"Description": "(ÅÙ¹ÒÅÙ) áÁ§¡ÃÐ¾ÃØ§àÃ×Í§áÊ§ ËÃ×Í·ÕèÃÙé¨Ñ¡¡Ñ¹ã¹¹ÒÁ ¡ÃÐ¾ÃØ¹áÊ§¨Ñ¹·Ãì",
+	"Category": "Fish",
+	"Edibility": -25,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 110,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Like": ["Wizard", "Willy"],
+	},
+}

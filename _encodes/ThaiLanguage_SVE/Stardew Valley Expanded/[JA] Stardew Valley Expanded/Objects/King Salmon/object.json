@@ -1,0 +1,15 @@
+{
+	"Name": "King Salmon",
+	"Description": "(ÃÒªÒá«ÅÁÍ¹) »ÅÒá«ÅÁÍ¹¢¹Ò´ÁËÖÁÒ áÅÐà¡Åç´¢¹Ò´ãË­èâ´´à´è¹",
+	"Category": "Fish",
+	"Edibility": 52,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 450,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Like": ["Kent", "Jodi", "Olivia", "Pierre", "Gus", "Evelyn", "Leah", "Robin", "Elliott", "Willy", "Andy"],
+		"Hate": ["George", "Claire", "Shane", "Sebastian", "Abigail", "Haley", "Maru", "Pam", "Clint", "Jas", "Morgan", "Vincent", "Sophia"]
+	},
+}

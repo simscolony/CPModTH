@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_4.000": "¡ÒÃä»ËÒËÁÍġ¹ŇÒã̋ĉ¹ ā§ÇÅŹ´ËˉÍÂˉÐ... áºº˗Ò˶ÒàˤÒºÍ¡˗Òĉ¹˗Ò ĉ¹¨ÐÍԒä˴ƽ¡áʴƫ 2 ƫ˕Ð? ĉ¹Ģ§ƱàҳÍ§ч¨Ð˵Í§ŇÒ ƽ¡Ե§àÂÍÐ¹Ð!",
+        "fall_4.001": "ĕºãʺՁÂ˕Ð ãʺՁÂȤ³ËÁÍ? Ë˹ÒȤ³ġ¹˿Í§¹Ð *à̎Í*... ĉ¹˗Òĉ¹˵Í§à¾ÅÒà˨ÒäÇΉ ÊµÒΓŴÇ ËÇÒ¹àܓÂºι¹Å§«ÐËˉÍÂá̅Ç$s",
+        "Mon.000": "ĉ¹ä˴¢Í§ÁÒȵ¹ä̇ч̃Ò¹ĉ¹ ƽ¡àƮÂºàÅÂ˕Ð ŻáÍΓƱá˅¢Í§Ƥæ ¢ÒÂàʕÁä»ËÁ´Է§Թ¹àÅÂ$h",
+        "Sun.000": "à̎ @ ¢Íâ·É¹Ð... à݋ÂÇ˶Òà¡Á׉¨º ̃Ò¹ĉ¹ʁ¨ÐŻ´á̅Ç˕Ð"
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"Name": "Kittyfish",
+	"Description": "(»ÅÒ¹éÍ§àËÁÕÂÇ) »ÅÒàÇ·Á¹µÃì ·Õè¤ÒÁÔÅÅèÒàÊ¡¢Öé¹ÁÒ ÁÑ¹ªÍºãËéà¡Ò¤Ò§ÁÒ¡æ",
+	"Category": "Fish",
+	"Edibility": 40,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 280,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Morgan"],
+		"Like": [ "Wizard", "Abigail"],
+		"Dislike": ["Willy"]
+	},
+}

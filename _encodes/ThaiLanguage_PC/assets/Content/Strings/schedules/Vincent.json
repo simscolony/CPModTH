@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.000": "¼ÁÍÂÒ¡ä»ι§àȓÍ!!",
+        "spring_11.001": "* Ǯ¡ * ... áˑ¤ģº ¼ÁäˑÍÂÒ¡ä» µÃÇ¨˓Ò§¡ÒÂàÅÂ$s",
+        "spring_11.002": "¼Á¨Ðä˴ÍÁ֢ÁՁÂ? ˶Ò¼ÁÂÍÁÁÒµÃÇ¨˓Ò§¡ÒÂ",
+        "spring_11.000": "* ÊÐؽ¹ * ... ħ¹׉¼ÁƱę´µÃÇ¨˓Ò§¡ÒÂ ˴ÇÂ˕Ð$s"
+    }
+}

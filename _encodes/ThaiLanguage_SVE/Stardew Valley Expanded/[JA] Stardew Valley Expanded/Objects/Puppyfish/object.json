@@ -1,0 +1,16 @@
+{
+	"Name": "Puppyfish",
+	"Description": "(»ÅÒµÙº¹éÍÂ) »ÅÒµÑÇ¹ÕéäÁèµéÍ§¡ÒÃÍÐäÃ¹Í¡¨Ò¡¡ÒÃ¶Ù¡ÅÙºáÅÐ¢¹Á",
+	"Category": "Fish",
+	"Edibility": 40,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 280,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Sophia"],
+		"Like": ["Willy", "Abigail"],
+		"Hate": ["George", "Kent", "Andy"]
+	},
+}
