@@ -36,18 +36,21 @@ Tractor Mod                       | [✓](TractorMod/i18n/th.json)              
 UI Info Suite                     | [✓](UI%20Info%20Suite/i18n/th.json)                            | [↻ รอ Merge](https://github.com/cdaragorn/Ui-Info-Suite/pull/79)
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [↻ รอ Merge](https://github.com/Annosz/UIInfoSuite2/pull/73)
 
-```sh
-— อยากจะช่วยแปลภาษาไทย?
-— หาประโยคที่เป็นภาษาอังฤษ แล้วเริ่มแปลได้เลย
-```
+## อยากจะช่วยแปลต้องทำยังไง?
+
 #### วิธีการแปลและส่งคำแปล
 [สอนใช้ Github ฉบับเร่งด่วน!](https://www.youtube.com/watch?v=e39kzyoK-RQ)
+
 #### ชื่อกลาง (สำคัญมากๆ ต้องแปลตามนี้เท่านั้น)
 [Stardew Valley Glossary](https://docs.google.com/spreadsheets/d/1DBdyvEI9XNAWEPpptKmIHfUj0gGdAFzyjHH9oR7U0Zc/edit?usp=sharing)
+
 #### ระบบฐานข้อมูลคำทับศัพท์ของสำนักงานราชบัณฑิตยสภา (ใช้สำหรับแปลทับศัพท์)
 [Transliteration](https://transliteration.orst.go.th)
+
 #### พูดคุยได้เกี่ยวกับการแปล
 [Discord ทีมพัฒนา Mod ภาษาไทย](https://discordapp.com/invite/TkP42Xm)
+
+## รายชื่อผู้จัดทำ
 
 #### จัดทำและแปลโดย Translator Army
 Memee Thechoco, Pookhao23, RushingOn, Tomyamkung.
