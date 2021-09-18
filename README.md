@@ -63,17 +63,14 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)            
 #### จัดทำและแปลโดย Translator Army
 Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
 
-#### รายชื่อผู้โดเนท
+#### รายชื่อผู้โดเนทแอปขึ้น Play Store
 'ELL, Krit, Memee Thechoco, นิรนาม.
 
-#### Coder
-'ELL.
+#### CODER & MODDER
+'ELL, SabiMiyato.
 
-#### ตัดต่อวิดีโอ
-Shibosan.
-
-#### กราฟิกดีไซน์เนอร์
-Pu_Chew.
+#### ตัดต่อวิดีโอ & กราฟิก
+Shibosan, Pu_Chew.
 
 #### ผู้จัดทำเวอร์ชั่น 1.0-1.8.8
 SORNZiLLATE, NoTSoXDream, JASON.
