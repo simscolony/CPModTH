@@ -61,13 +61,19 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)            
 ## รายชื่อผู้จัดทำ
 
 #### จัดทำและแปลโดย Translator Army
-Memee Thechoco, Pookhao23, RushingOn, Tomyamkung.
+Memee Thechoco, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
 
 #### รายชื่อผู้โดเนท
 'ELL, Krit, Memee Thechoco, นิรนาม.
 
-#### Coder & ตัดต่อวิดีโอ
-'ELL, Shibosan.
+#### Coder
+'ELL.
+
+#### ตัดต่อวิดีโอ
+Shibosan.
+
+#### กราฟิกดีไซน์เนอร์
+Pu_Chew.
 
 #### ผู้จัดทำเวอร์ชั่น 1.0-1.8.8
 SORNZiLLATE, NoTSoXDream, JASON.
