@@ -61,7 +61,7 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)            
 ## รายชื่อผู้จัดทำ
 
 #### จัดทำและแปลโดย Translator Army
-Memee Thechoco, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
+Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
 
 #### รายชื่อผู้โดเนท
 'ELL, Krit, Memee Thechoco, นิรนาม.
