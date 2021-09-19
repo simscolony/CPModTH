@@ -5,9 +5,9 @@
     "MinimumApiVersion": "3.13.0-beta",
     "Description": "Thai Language For Stardew Valley 1.5.5",
     "UniqueID": "TranslatorArmy.ModTH",
-    "UpdateKeys": [ "Nexus:7052" ],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher",
         "MinimumVersion": "1.23.5-beta"
-    }
+    },
+    "UpdateKeys": [ "Nexus:7052" ]
 }
