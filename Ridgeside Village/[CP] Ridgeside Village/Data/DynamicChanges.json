@@ -135,7 +135,7 @@
 				"Position": { "X": 28, "Y": 32 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "MessageOnce 75160181 '???: Huh? Who are you!?#You managed to spot me huh... Maybe you're who he meant...# Uhmm.. Hey, return here tomorrow night, same time. I want to meet you properly.'"
+				"Action": "MessageOnce 75160181 '???: ห๊ะ? แกเป็นใคร!?#นี่้หาฉันเจอเรอะ... หรือว่าเจ้าจะคือ คนที่เขาพูดถึง...# อืมม.. เฮ้ กลับมาที่นี่อีกที ในคืนวันพรุ่งนี้สิ เวลาเดิมล่ะ ข้าอยากจะเจอเจ้า แบบเป็นทางการซักหน่อย'"
                }
             }
 		],
