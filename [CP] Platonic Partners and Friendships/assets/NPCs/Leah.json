@@ -516,7 +516,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}}, welcome home! Did you-#$b#Ah! @, what happened to your face? And your clothes? You smell like a campfire!$8#$b#I... Sorry, that was just a shock. Do you want to go shower off the soot? Maybe take care of those burns, too?$3#$b#Self-expression is good and all, but I... don't think the scorched look is doing you any favors.\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}} ยินดีต้อนรับกลับบ้าน! เธ-#$b#อ๊ะ! @ เกิดอะไรขึ้น หน้าเธอไปโดนอะไรมา? แล้วเสื้อผ้าเธอหายไปไหน? กลิ่นเหมือนมีอะไรไหม้เลย!$8#$b#ฉันขอโทษ... ฉันแค่ตกใจน่ะ เธออยากอาบน้ำเพื่อล้างเขม่าออกก่อนมั้ย? อาจจะช่วยเรื่องรอยไหม้พวกนั้นด้วยก็ได้?$3#$b#การมั่นใจในสิ่งที่เธอทำ มันก็ดีนะ แต่ฉันว่า... รอยไหม้ตามตัวพวกนี้ดูจะ ไม่ส่งผลอะไรดี ๆ ให้เธอเท่าไหร่นะ\"",
    		    },
 		    "When": {
                 	"HasFlag |contains=addedParrotBoy, leoMoved": "false",
