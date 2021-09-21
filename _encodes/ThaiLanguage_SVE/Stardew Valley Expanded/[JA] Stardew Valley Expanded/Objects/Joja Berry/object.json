@@ -1,0 +1,10 @@
+{
+	"Name": "Joja Berry",
+	"Price": 650,
+	"Description": "(¼Åâ¨¨éÒàºÍìÃÕè) ¼èÒ¹¡ÃÐºÇ¹¡ÒÃ´Ñ´á»Å§·Ò§àÇ·Á¹µì (magically modified organism; MMO) ÃÊªÒ´¹èÒÍÑÈ¨ÃÃÂìã¨ ÃÒ¤ÒÊÙ§ÁÒ¡µÒÁ·éÍ§µÅÒ´",
+	"Category": "Fruit",
+	"Edibility": 75,
+	"Recipe": null,
+	"CanSell": false,
+	"PurchaseRequirements": [ "e 5553210" ]
+}

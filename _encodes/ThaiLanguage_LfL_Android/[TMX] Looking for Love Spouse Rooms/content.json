@@ -1,0 +1,40 @@
+{
+  "spouseRooms": [
+	{
+      "name": "Clint",
+	  "file": "SpouseRoomClint.tmx",
+    },
+	{
+      "name": "Gus",
+	  "file": "SpouseRoomGus.tmx",
+    },
+	{
+      "name": "Lewis",
+	  "file": "SpouseRoomLewis.tmx",
+    },
+	{
+      "name": "Linus",
+	  "file": "SpouseRoomLinus.tmx",
+    },
+	{
+      "name": "Marnie",
+	  "file": "SpouseRoomMarnie.tmx",
+    },
+	{
+      "name": "Pam",
+	  "file": "SpouseRoomPam.tmx",
+    },
+	{
+      "name": "Sandy",
+	  "file": "SpouseRoomSandy.tmx",
+    },
+	{
+      "name": "Willy",
+	  "file": "SpouseRoomWilly.tmx",
+    },
+	{
+      "name": "Wizard",
+	  "file": "spouseRoomWizard.tmx",
+    },
+  ]
+}

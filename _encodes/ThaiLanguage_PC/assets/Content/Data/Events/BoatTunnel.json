@@ -1,0 +1,21 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "9348571/Hl willyBoatFixed": "ocean/6 8/farmer -1000 -1000 0 Willy -1000 -1000 0/skippable/pause 4000/warp farmer 6 12/playSound doorClose/move farmer 0 -2 0/emote farmer 8/pause 1500/warp Willy 6 12/playSound doorClose/move Willy 0 -1 0/pause 500/emote Willy 28/pause 250/move farmer 1 0 0/move Willy 0 -1 0/pause 700/speak Willy \"à̋Í... à¸Íɤá˒ãʺՁÂ˕Ð?\"/pause 500/speak Willy \"à¸Íàʛ¹àȓÍ¢Í§ˎÍĉ¹àÍ§... ˓ÇÁȷ¡Ͳ˓ÇÁɊ¢ā¹ÁÒԵ§ 50 ¡˗ÒƫáˉÐ#$b#á˅µÍ¹׉ áʴ¨ÐÅÍÂĢ§ÂÒ¡àÅÂ$s\"/faceDirection Willy 1/faceDirection farmer 3/speak Willy \"ĉ¹ʁÍÂÒ¡¨Ð ʻÍÁà¸Í˴ÇÂĕÇàÍ§¹Ð á˅ĉ¹¢Ò´ħÊȴчã˪ä˴ˉÐƊ ˎÍËәÁ^ĉ¹ʁÍÂÒ¡¨Ð ʻÍÁà¸Í˴ÇÂĕÇàÍ§¹Ð á˅ĉ¹¢Ò´ħÊȴчã˪ä˴ˉÐƊ áˑËɩ\"/faceDirection Willy 0/speak Willy \"à̋Í... ä́àةÍáʂ§(hardwood) 200 ֊¹ àҮÍʻÍÁĕÇàȓÍ ˉÒ¨Ðàʛ¹¡ÒÃàУÁчƤ#$b#á˅¾Ç¡àÃÒʁ˵Í§¡ÒÃ ¾ĥ§§Ò¹ŚÒÃÍ§ ã̋à¤ҳÍ§ĸÒËˉÒÂݘÇ˴ÇÂ á̅ÇʁʻÍÁÊÁÍƍƃàƤÂÁƽ¡\"/faceDirection farmer 0/pause 400/speak Willy \"˶Òĉ¹ÊÒÁÒÃ¶ËÒħÊȴ¾Ç¡Թ¹ áÅÐʻÍÁȤ³ÂÒÂ¤¹׉ä˴˕Ðʁ.. ι¹áËÅÐ ĉ¹ʁ¾Òà¸Íä»à¡ÒÐàſΓ¹ (Fern Islands) ä˴\"/faceDirection Willy 1/faceDirection farmer 3/speak Willy \"Ʊ¤¹à˕Ò˗ÒчËԑà¡ÒÐɰà¢Òä¿ àʕÁä»˴ÇÂ¹¡áˡÇá»Å¡æ...\"/pause 400/quickQuestion #ĉ¹¨ÐʺÇÂȤ³àÍ§#äˑ˕Ð ˌÒ¹Ƥ¡˗Ò...(break)emote Willy 32\\speak Willy \"˵Í§Í˒Ò§Թ¹... Ǚ¡ÍԒá̅Ç˗Òà¸Í˵Í§ʺÇÂ à˨Òàʔ¡˹ÍÂ$h\"\\speak Willy \"ĉ¹¨ÐäˑʥÍ¡»ÃÐɥщ ʁá̅Çā¹¹Ð... à¸Í¨ÐàÍÒĞÊȴÁÒ˚§ àұÍäË˓ʁä˴\"(break)emote Willy 28\\speak Willy \"âÍà¤ àÍÒчà¸ÍÊºÒÂã¨...$s#$b#˶Òà¸Íà»ѕÂ¹ã¨ à¸Í¡ĥºÁÒʺÇÂä˴ȷ¡àұÍàÅÂ¹Ð ĉ¹äˑä˴ʥÍ¡à˨Ò»ÃÐɥщä̇\"/pause 2000/end"
+    }
+}

@@ -1,0 +1,63 @@
+{
+	"Format": "1.23.0",
+	"Changes": [
+		{
+			"LogName": "RaisedGardenBeds Common Translations: English",
+			"Action": "EditData",
+			"Target": "Mods/blueberry.rgb.Assets/CommonTranslations",
+			"Fields": {
+				"en": {
+					"item.name": "Garden Bed",
+					"item.name.variant": "{0} Garden Bed",
+
+					"item.description": "(¡ÃÐºÐ»ÅÙ¡¼Ñ¡) ãËé¤Ø³ÊÒÁÒÃ¶»ÅÙ¡¼Ñ¡ ¼ÅäÁéµÒÁÄ´Ù¡ÒÅä´é â´ÂäÁèµéÍ§ÁÕ¾×é¹´Ô¹ ãªéÇÒ§¡ÅÒ§á¨é§à·èÒ¹Ñé¹",
+					"item.description.indoors": "(¡ÃÐºÐ»ÅÙ¡¼Ñ¡) ãËé¤Ø³ÊÒÁÒÃ¶»ÅÙ¡¼Ñ¡ ¼ÅäÁéµÒÁÄ´Ù¡ÒÅä´é â´ÂäÁèµéÍ§ÁÕ¾×é¹´Ô¹",
+					"item.description.default": "à»ç¹ÇÑµ¶ØáººËÅÍ¡æ äÁèÊÒÁÒÃ¶àÊ¡´éÇÂ CJB Item Spawner ¶éÒÍÂÒ¡ä´é ãËé¾ÔÁ¾ì ¤ÓÇèÒ rgb.give ËÃ×Í rgb.giveall ãÊè SMAPI console!",
+
+					"menu.title.new": "áºº¾ÔÁ¾ìà¢ÕÂÇÍÑ¹ãËÁè",
+
+					"config.raisedbedsmaybreakwithage.name": "¡ÃÐºÐ»ÅÙ¡¼Ñ¡ ¨Ð¼Ø¾Ñ§ä»µÒÁ¡ÒÅàÇÅÒ",
+					"config.raisedbedsmaybreakwithage.description": "¡ÃÐºÐ»ÅÙ¡¼Ñ¡ ¨Ð¼Ø¾Ñ§àÁ×èÍàÃÔèÁÄ´ÙãËÁè ¶éÒà»Ô´¡ÒÃãªé§Ò¹¹ÕéäÇé\nÍÒÂØ¡ÒÃãªé§Ò¹¢Í§¡ÃÐºÐ»ÅÙ¡¼Ñ¡ ¨ÐµèÒ§¡Ñ¹ä»µÒÁª¹Ô´¢Í§ÁÑ¹\n¡ÃÐºÐ»ÅÙ¡¼Ñ¡·ÕèÁÕÃÒ¤Òá¾§ ¡ç¨ÐÁÕÍÒÂØ¡ÒÃãªé§Ò¹·Õè¹Ò¹¡ÇèÒ!\n\nÊÓËÃÑº¼Ñ¡ ·ÕèÊÒÁÒÃ¶àµÔºâµ¢éÒÁÄ´Ùä´é ¨ÐäÁèµÒÂ¶Ö§áÁéÇèÒ¡ÃÐºÐ»ÅÙ¡¼Ñ¡ ¨Ð¾Ñ§ä»áÅéÇ¡çµÒÁ\náµèÇèÒÁÑ¹¨ÐäÁèàµÔºâµµèÍä» ¨¹¡ÇèÒ¡ÃÐºÐ¨Ð¶Ù¡«èÍÁá«Á!\n¡ÒÃ«èÍÁá«Á¡ÃÐºÐ»ÅÙ¡¼Ñ¡ ÊÒÁÒÃ¶·Óä´éâ´Â àÍÒ¡ÃÐºÐ»ÅÙ¡¼Ñ¡ ª¹Ô´à´ÕÂÇ¡Ñ¹ÍÑ¹ãËÁè ÇÒ§Å§ä»á·¹·ÕèÍÑ¹à´ÔÁ\nËÃ×Í·ÓÅÒÂÁÑ¹·Ôé§ à¾×èÍ¹ÓÇÑÊ´Ø·ÕèãªéÊÃéÒ§¡ÅÑº¤×¹ÁÒ",
+					"config.canbeplacedingreenhouse.name": "ÊÒÁÒÃ¶ÇÒ§ã¹àÃ×Í¹¡ÃÐ¨¡ä´é",
+					"config.canbeplacedingreenhouse.description": "",
+					"config.canbeplacedinfarmhouse.name": "ÊÒÁÒÃ¶ÇÒ§ã¹ºéÒ¹ä´é",
+					"config.canbeplacedinfarmhouse.description": "",
+					"config.canbeplacedinbuildings.name": "ÊÒÁÒÃ¶ÇÒ§äÇé ã¹ÊÔè§»ÅÙ¡ÊÃéÒ§ÀÒÂã¹¿ÒÃìÁä´é",
+					"config.canbeplacedinbuildings.description": "",
+					"config.recipesalwaysavailable.name": "áÊ´§ÊÙµÃ¡ÒÃÊÃéÒ§¡ÃÐºÐ»ÅÙ¡¼Ñ¡äÇéµÅÍ´",
+					"config.recipesalwaysavailable.description": "ÊÙµÃ¡ÒÃÊÃéÒ§¡ÃÐºÐ»ÅÙ¡¼Ñ¡·Ø¡ª¹Ô´ ¨ÐáÊ´§ãËéàËç¹µÅÍ´àÇÅÒ\nËÒ¡»Ô´¡ÒÃµÑé§¤èÒ¹Õé âÃºÔ¹¨ÐãËéá¤è ÊÙµÃáºº¾×é¹°Ò¹¡Ñº¤Ø³ ã¹ªèÇ§Ä´ÙÃéÍ¹,\náÅÐ¤Ø³¨ÐµéÍ§àÃÕÂ¹ÃÙé ¡ÒÃÊÃéÒ§áººÍ×è¹æ ã¹ÃÐËÇèÒ§¡ÒÃàÅè¹à¡Á!",
+					"config.sprinklersenabled.name": "à»Ô´¡ÒÃãªé§Ò¹Ê»ÃÔ§à¡ÍÃì",
+					"config.sprinklersenabled.description": "ÊÒÁÒÃ¶ãªéÊ»ÃÔ§à¡ÍÃìÃ´¹éÓã¹¡ÃÐºÐ»ÅÙ¡¼Ñ¡ä´é",
+
+					"event.0.dialogue.1": "ä§ @! ɤàËȑÍ¹˗Òà¸Í¨Ðä»ä˴ÊÇÂ āº¿ÒΓÁàʱÒ׉á̅ÇƊ¹Ð#$b#ĉ¹àʫ¹¾Ç¡ȎªĜ¡ àŵºâµä˴à¾ÃÒÐà¸Í... ËȓÍÍ˒Ò§˹ÍÂ ʁä̍чŵ´ÍԒ º¹ÃÍ§à˷Ò¢Í§à¸ÍˉÐ¹Ð!$h#$b#˶Òà¸ÍÍÂÒ¡¨ÐËÒ ч»ɵ¡ÍÐäÃàОÁƽ¡ċ¡ËˉÍÂ ËȓÍƱ¤ÇÒÁŤ´˗Ò ÍÂÒ¡¨ÐĈ´ÃÐàƪÂº¾Ç¡ġ¹ÅÐʁ žÁΎàƒÂÇщˉÒ¨ÐʺÇÂà¸Íä˴¹Ð",
+					"event.0.dialogue.2": "Ȥ³ä˴àƳÂ¹ړƇƨ¡ÒÃ»ÃÐŴÉ΀ '¡ÃÐºÐ»ɵ¡Ĝ¡'",
+					"event.0.dialogue.3": "ĭ¹׉àʛ¹áººчã˪ā¹ã¹¿ÒΓÁ ʁƱÍԒËÅÒÂɳ»·Ã§ÍԒ àҬÍ˗Òà¸Í¨Ðä˴àȕÍ¡ áººчªÍº#$b#ĉ¹äˑƱàÇÅÒч¨Ð»ɵ¡Ĝ¡ ŇÒÊÇ¹àÍ§ á˅ĉ¹ʁÍÂÒ¡¨ÐËÒ·Ò§ ʺÇÂÊÇ¹˅Ò§æ ã¹àȑÍ§ äˑ·Ò§ã´ʁ·Ò§Ǚ§",
+					"event.0.dialogue.4": "á̅Çʁ ˶Òà¸ÍƱä́äˑ¾Í ч¨Ðã˪ỄÒ§ġ¹ÅÐʁ ¤§äˑ˵Í§ºÍ¡¹Ð ˗Ò¨Ðä»؛Íä́àОÁä˴чäË¹!$h"
+				}
+			}
+		},
+		{
+			"LogName": "RaisedGardenBeds Item Translations: English",
+			"Action": "EditData",
+			"Target": "Mods/blueberry.rgb.Assets/ItemTranslations",
+			"Fields": {
+				"en": {
+					"blueberry.RaisedGardenBeds.RGB": {
+						"Wood": "Wood",
+						"Stone": "Stone",
+						"Brick": "Brick",
+						"Hardwood": "Hardwood",
+						"Old": "Old",
+						"Gold": "Gold",
+						"Void": "Void",
+						"Wild": "Wild",
+						"Dungeon": "Dungeon",
+						"Candy": "Candy",
+						"Beach": "Beach",
+						"Crypt": "Crypt"
+					}
+				}
+			}
+		}
+	]
+}

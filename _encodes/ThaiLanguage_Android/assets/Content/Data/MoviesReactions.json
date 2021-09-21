@@ -1,0 +1,2645 @@
+[
+  {
+    "NPCName": "Penny",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [
+          "Pam"
+        ],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ɤËę§āºáˑԧ¹ËÃÍ àÍÒƊˉÒÊȹ¡Ĉ§!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"(á¾ÁáÅÐà¾¹Ʃ ıÒĥ§ɤÍ˒Ò§Ե§ã¨!)\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹˗Òġ¹ǴÍàҳÍ§чƤ¹Ð чä˴ŇÒÍÐäÃāº¤ÃÍº¤ģÇ ƽ¡ÃÍº!"
+          }
+        },
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ե§µÒÃÍ á¨ÊáÅÐƇ¹à«¹· àÍÒá˅ɮ´ǖ§ġ¹"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "sprout_leave",
+            "Script": "/shake Penny 3000/pause 500/message \"ɤàËȑÍ¹à¾¹ƩıÒĥ§ ¡Յ¹թÒµÒàÍÒä̇...\"",
+            "Text": "̇ÒÇ..ġ¹¤§ÂÒ¡ÁÒ¡áˉæ ч¨ÐÍԒ˛Ò§¨Ò¡¤ÃÍº¤ģÇ àËȑÍ¹āºà¢Ò...$s"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¢ÍºȤ³чªÇ¹ĉ¹ÁÒчщ¹Ð ĉ¹á·ºÃÍäˑäËÇч¨ÐºÍ¡àʔ¡æ ˗Òġ¹ƤáʴäË¹!"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍... '{0}'! ġ¹ɤƤ˅ÍɊ¢ÀÒ¾ áÅÐˉÒÊ¹ã¨!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"(à¾¹ƩıÒĥ§֢Á)\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹˗Òĉ¹¤ÇÃ¾Òàʔ¡æ ÁÒɤËę§àҳÍ§׉¹Ð!"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "comedy",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ҥ¹à˵¹Ĉ§àÅÂ ĉ¹¡Յ¹ĲÒàÍÒä̇ äˑäËÇá̅Ç!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "щ¾Ç¡àˤÒѾ§...?! ˞ÒÒÒÒÒ!"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "̇ÒÇ... ĉ¹īÇàÃÒÐ¨¹ ËÒÂã¨äˑė¹àÅÂ ˞Ò˞Ò˞Ò...!"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړǪ¡ā§ÇÅŹ´ËˉÍÂ »¡ŵá̅Çĉ¹äˑɤ Ëę§ÊÂÍ§¢ħ­ËÃÍ¡$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Penny 3000/pause 500/emote Penny 28",
+            "Text": "ĉ¹äˑÍÂÒ¡ɤàÅÂ...$s"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ëħ§˗Ò ĉ¹¨Ðäˑĝ¹̃ÒÂ¹ÐǴ¹׉!$s"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍... ĉ¹ÍÂÒ¡¨ÐɤàҳÍ§׉ ÍԒ¾ÍƤàÅÂ!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "»ÃÐėºã¨Ĉ§! ĉ¹Ëħ§˗ÒËę§¨ÐƱÀÒ¤˅Í¹Ð!"
+          }
+        },
+        "ID": "reaction_6"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎... ĉ¹ä˴Ƃ¹˗ÒàҳÍ§׉ ġ¹ƤÁÒ¡àÅÂÅÐ¹Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§ƤÁÒ¡àÅÂ! ¢ÍºȤ³чªÇ¹ĉ¹ÁÒ¹Ð!"
+          }
+        },
+        "ID": "reaction_7"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹˗ÒËę§àҳÍ§׉ äˑãʺá¹Çĉ¹¹Ð á˅˗Òĉ¹¨ÐÅÍ§ɤÅÐā¹..."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "..."
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¢Íâ·ÉƧ¹Ðчĉ¹ŇÒ ã̋à¸ÍɤËę§äˑÊȹ¡ˉÐ ġ¹äˑãʺá¹ÇËę§ чĉ¹ªÍºˉÐ..."
+          }
+        },
+        "ID": "reaction_8"
+      },
+      {
+        "Tag": "seen_love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍ '{0}'! ĉ¹à¤ÂɤËę§àҳÍ§׉āº {2} á̅Ç˕Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": null
+        },
+        "ID": "reaction_9"
+      },
+      {
+        "Tag": "seen_like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹à¤ÂɤàҳÍ§׉āº {2} á̅Ç˕Ðġ¹Êȹ¡Ƥ¹Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": null
+        },
+        "ID": "reaction_10"
+      },
+      {
+        "Tag": "seen_dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÁ ĉ¹ĸÒä˴˗Ò {2} à¤Â¾Òĉ¹ÁÒɤàҳÍ§׉á̅Ç..."
+          },
+          "DuringMovie": null,
+          "AfterMovie": null
+        },
+        "ID": "reaction_11"
+      }
+    ]
+  },
+  {
+    "NPCName": "Pam",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎à˨ÒËɩ ¢ÍºȤ³чªÇ¹ĉ¹ÁÒɤ¹Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ Ëę§ġ¹ʁÊȹ¡Ƥ¹Ð!"
+          }
+        },
+        "ID": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "Krobus",
+    "Reactions": [
+      {
+        "Tag": "fall_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ӺÇÇÇÇÇÇ à̎ щĉ¹àÍ§ â¤ÃĚÊ ¹ÒÂĸÒĉ¹ä˴äËÁ?$8#$b#˶ÒƱã¤ÃàˢÒã¡̅àÃÒ ¹ÒÂʁàȅÍ¹ĉ¹¹Ð?$8"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "mysterium_shadow",
+            "Script": "/message \"â¤ÃĚÊ ıÒĥ§ˊ¹...\"",
+            "Text": "¾Ç¡à§Òʁäˑä˴àʛ¹áººԹ¹ ā¹Է§ËÁ´¹Ð!$8"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑʴÍÂŪ¹āº¡ÒÃã˚àغÍ˼Ò ... ġ¹ǭ´ĭ´ÁÒ¡!$8"
+          }
+        },
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*˝Ðá˞Á*... ÊħÊƤ! ĉ¹ҥ¹à˵¹ÁÒ¡чä˴ÁÒÍԒч ɸ¹ΒÃÇÁ¤ÇÒÁĚ¹àŷ§ ·Ò§ÊÒÂµÒáÅÐš¹̫Í»¤ÍΓ¹... àʺ¹àƤÂÇāº¾Ç¡Ȥ³!$8#$b#*¡ÃÐūº*... ĉ¹àʛ¹Ģ§ä§˺Ò§?$8"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÊÒÂĞ¹ۨ¢Í§Ȥ³Êȹ¡āº ¡ÒÃ˨Í§ÁÍ§ä¿¡Ð¾ƃº àʛ¹àÇÅÒËÅÒÂΪÇâÁ§¨¹¨º ˉÒÊ¹ã¨ÁÒ¡...$8"
+          }
+        },
+        "ID": "reaction_1"
+      }
+    ]
+  },
+  {
+    "NPCName": "Wizard",
+    "Reactions": [
+      {
+        "Tag": "fall_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ˢÒĪÁĜÊä˴ǖ§¾ĥ§ǥ¡ĥº чá·Ã¡á«§ÍÒ¤ÒÃǴ¹׉..."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"´Ç§µÒ¢Í§ˎÍÁ´àʛ¹»ÃÐ¡ÒÂ...\"",
+            "Text": "áÅÐÅÍ§Ǚ¡ɤƊ... ¾Ç¡¤¹¸ÃÃÁ´Ò äˑÍÒ¨ړä˴àÅÂ˗Ò ÀÒ¾à¤ҵÍ¹äËÇ¾Ç¡׉ ġ¹àʛ¹¢Í§¨ƃ§ ˆÒÂÊ´æ àÅÂˉÐ!"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ŚÒËģºڌчµÃÐËę¡ ǖ§¤ÇÒÁǥ¡ĥº чäˑʴÍÂƱã¤ÃړˉÐ¹Ð ι¹ġ¹ƱȤ³ʴÒǥ¡׫§àÅÂ..."
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "..."
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à˨ÒÅÒ¡ˢÒÍÍ¡¨Ò¡ ̋Í§ŇÒ§Ò¹àҮÍ *Ъ§׉* ˉÐ¹Ð?"
+          }
+        },
+        "ID": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "George",
+    "Reactions": [
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§ȚÍžÁΎ ã̋Ëę§àҳÍ§׉ '5 ´ÒÇ' Í˒Ò§Թ¹ĉ¹ʁàʕÁã¨¨Ð ÅÍ§ɤˉÐ¹Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎! Ëę§ι¹ġ¹àђÂÁÁÒ¡ ¢ÍºȤ³чàŪ­ĉ¹ÁÒ"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ҎÁ... âÃ§Ëę§äˑàËȑÍ¹чà¤Âàʛ¹.. á˅ġ¹ÍÒ¨Ƥ¹Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ àұÍàƧÂºāºËę§˚Ç¹ãËʽ àҳÍ§׉ġ¹ʁäˑä˴àÅÇ̃ÒÂ¹Ð$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ҎÁ... µÍ¹׉ĉ¹¨ÐƗºĪ¡ËˉÍÂ"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ˉÒĭºÍÒÂ! ȷ¡ħ¹׉àËȑÍ¹¾Ç¡à¢Ò ŇÒËę§˛ÇÂæÁÒã̋ɤàÅÂ... "
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Alex",
+    "Reactions": [
+      {
+        "Tag": "fall_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "documentary",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹ˉÒ¨ÐÊȹ¡ÁÒ¡ ¼Á¨ÐԵ§µÒÃÍġ¹"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎! ¼ÁªÍºġ¹¨ƃ§æ á˅¼Áäˑړ˗Ò ¼Á¨ÐÊÒÁÒÃ¶ÍԒÃÍ´ä˴ àËȑÍ¹ã¹Ëę§ǣ»˕ÒÇ"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼ÁÍÂÒ¡ɤàҳÍ§׉ ÁÒ¹Ò¹á̅Ç ¢ÍºȤ³чàŪ­¼Á¹Ð @!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§ġ¹à̃Òã¨ÁÒ¡àÅÂ! ¼ÁĢ§äˑËÒÂ ¢¹Ʌ¡àÅÂ¹ÐàщÂ"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ ¼Áҥ¹à˵¹ÁÒ¡чä˴ɤËę§! á˅š¹¢¹Áä»˴ÇÂ ɤËę§ä»˴ÇÂ ¼Á˗Òġ¹¤§¨ÐƤ¹Ð..."
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ Ëę§àҳÍ§׉Êȹ¡ÁÒ¡àÅÂ¹Ð ¢ÍºȤ³чàŪ­¼ÁÁÒ @ "
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§׉ɤˉÒàҪÍ¹Ð¼Á˗Ò á˅¼Á¨ÐÅÍ§ɤÅÐā¹"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼ÁºÍ¡äˑä˴˗Ò Ëę§ġ¹ˉÒàҪÍǣ»˕ÒÇ ËȓÍ¼Á©ÅÒ´äˑ¾Í чàˢÒã¨Ëę§ā¹¹Ð...$s"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Evelyn",
+    "Reactions": [
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ʱÍ¹чàȑÍ§׉¨ÐƱâÃ§Ëę§ ÂÒÂʁäˑä˴ɤËę§ÁÒ ¨ÐђƊºƫá̅Ç!$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÂÒÂªÍºġ¹¹Ð... µÍ¹׉à¸Íړá̅Ç˗ÒŇÒäÁ '{0}' ǖ§àʛ¹чÂÍÁģº˗Ò àʛ¹Ëę§¤ÅÒÊƊ¡"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à¸Íã¨ƤÁÒ¡àÅÂ¹Ð чªÇ¹Ëŭ§ªÃÒÍ˒Ò§ÂÒÂ ÁÒɤËę§àщÂ$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÂÒÂƤã¨ч¾Ç¡à¢ÒĢ§¤§ ŇÒËę§ƤæÍÍ¡ÁÒ... ÂÒÂÊȹ¡ÁÒ¡!"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÂÒÂäˑà¤ÂªÍº Ëę§ÊÂÍ§¢ħ­àÅÂ á˅ÂÒÂ¨Ð¾ÂÒÂÒÁ àŻ´ã¨ɤÅÐā¹"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Evelyn 3000/pause 500/message \"àÍÇÒƅ¹ıÒĥ§Ż´µÒÍԒ!\"",
+            "Text": "Ëę§..¨ºá̅ÇËȓÍĢ§?$s"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text":"ÂÒÂäˑä˴ɤËę§àÅÂ Է§àҳÍ§ÂÒÂàÍÒá˅ Ż´µÒÍ˒Ò§àƤÂÇ...$s"
+          }
+        },
+        "ID": "reaction_4"
+      }
+    ]
+  },
+  {
+    "NPCName": "Pierre",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ɤËę§ ä«-ä¿ ÁÒԵ§á˅àʔ¡æÍÐ¹Ð ĉ¹àÅÂҥ¹à˵¹ ч¨ÐɤËę§àҳÍ§׉ ¨¹¨Ð·¹äˑäËÇá̅Ç"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÍÒ̋Ð! ġ¹äˑä˴¨ºàËȑÍ¹āº чĉ¹Ť´àÍÒä̇ á˅˗ÒµÍ¹¨º ġ¹â´¹ã¨ĉ¹ÁÒ¡àÅÂ˕Ð! ĉ¹ªÍºËę§àҳÍ§׉¨ƃ§æ$h"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ŇÒ§Ò¹ÁÒµÅÍ´ àÅÂäˑʴÍÂƱàÇÅÒ ĉ¹˗Òġ¹Ƥ¹Ð чä˴ÁÒĞ¡ˌÍ¹Ī¡ËˉÍÂ Ëĥ§¨Ò¡ŇÒ§Ò¹ÁÒ¹Ò¹"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "äˑàÅÇàÅÂ! ĉ¹ÍÂÒ¡ړĈ§˗Òч׉Ʊ¢Í§ ã̋ĉ¹àÍÒä»¢ÒÂä˴ǣ»˕ÒÇ..."
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Abigail",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑÍÂÒ¡¨ÐàҚÍàÅÂ àˤÒŇÒËę§¢Í§à¡Á Ě¹Ǘ¡¡ÒÃ¼¨­ĠÂ à˨ÒªÒÂá˛§·ÐàÅ·ÃÒÂ... ġ¹˵Í§Ƥáˉæ àÅÂ!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ğ§Ɗ... ĉ¹ĸÒàƺÂ§à¾Å§Թ¹ä˴$h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ºÒ§Ƨã¹©Ò¡ġ¹ʁá»Å¡æ ¹Ð â´ÂÃÇÁġ¹ʁÊȹ¡áËÅÐ¹Ð$h"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ҥ¹à˵¹Ĉ§ч¨Ðä» 'ŚÒÃÇ¨âÅ¡'... ãʺՁÂ?$h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ʁĉ¹äˑړщ¹Ò!"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹ʁˉÒÊ¹ã¨Ƥ¹Ð ĉ¹ªÍºáʣ¤ɔ¹чɊ´á̅Ç... ¾Ç¡ġ¹ˉÒģ¡ÍÐ!$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ªÍºËę§ÊÂÍ§¢ħ­¹Ð... ĉ¹Ëħ§˗Òġ¹¨ÐˉÒ¡ĥÇ!$h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Abigail 3000/pause 500/message \"Íźà¡ÅıÒĥ§īÇàÃÒÐ!\"",
+            "Text": "˞Ò˞Ò! ġ¹äˑʴÍÂˉÒ¡ĥÇàÅÂ á˅ĉ¹ªÍº¹Ð$h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ǖ§Ëę§àҳÍ§׉ ġ¹¨ÐɤàªÂʁà¶ÍÐ á˅ĉ¹ʁªÍºġ¹¹Ð$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎! ¢ÍºȤ³чªÇ¹ĉ¹¹Ð ĉ¹ªÍºä»ɤËę§чɊ´àÅÂ$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹ˉÒÊ¹ã¨ÁÒ¡àÅÂ¹Ð Ëę§àщÂ... ˶Òĉ¹ä»ÍԒã¹ Ê¶Ò¹¡ÒÃ΃áººã¹Ëę§ ĉ¹¨ÐŇÒáººäË¹ā¹Ð?"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ɤ¨Ò¡ĕÇÍ˒Ò§Ëę§á̅Ç¹Ð ġ¹ˉÒ¹Í¹Ëĥº¤ÒâÃ§¨ƃ§æ ˶Òä˴ɤ...$6"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "»Ʌ¡ĉ¹˴ÇÂ¹Ð ˶ÒËę§ġ¹ƱÍÐäÃˉÒÊ¹ã¨$6"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*ËÒÇ*... ġ¹ˉÒàҪÍÁÒ¡æ àÅÂ¹Ð ˗ÒՁÂ?$6"
+          }
+        },
+        "ID": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Caroline",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹àʛ¹á¿¹Ëę§á¹Ç¤ÒÇºÍÂ ĉ¹ҥ¹à˵¹Ĉ§àÅÂ ч¨Ðä˴ɤËę§àҳÍ§׉!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§Ɋ´ÂÍ´ÁÒ¡àÅÂ! àˤÒŇÒàËȑÍ¹ã¹ɂ¤Թ¹¨ƃ§æ Է§Ȫ´ч¾Ç¡àˤÒã˚ áÅÐʁËÅÒÂÍ˒Ò§˴ÇÂ"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§׉ɤÍÍ¡á¹ÇˉÒģ¡æ ¹Ð ĉ¹Ëħ§ÁÒµÅÍ´˗Ò¨ÐƱã¤Ã ÁÒªÇ¹ĉ¹ÁÒɤàҳÍ§׉!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ëħ§˗Òà˨ÒËɩԹ¹ ¨Ðäˑàʛ¹ÍÐäÃ¹Ð...$s"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¢ÍºȤ³¹Ð чªÇ¹ĉ¹ÁÒɤËę§ ĉ¹Êȹ¡ÁÒ¡àÅÂ!"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "'{0}'... ĉ¹äˑä˴ɤĕÇÍ˒Ò§ Ëę§àҳÍ§׉ÁÒʱÍ¹àÅÂ! Ëħ§˗Ò ¨ÐäˑƱ©Ò¡ŇÒ̃ÒÂā¹¹Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "äˑàÅÇàÅÂ! ĉ¹˵Í§Ƴº¡ĥº˺Ò¹ä»ȤÂ àҳÍ§Ëę§āºÍźà¡Å«Ðá̅Ç à¸Í˵Í§ɤàҳÍ§׉á̅Çáˉæ$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړǪ¡˗Ò àҳÍ§׉¨Ð˵Í§äˑÊȹ¡áˉæ... á˅ĉ¹¨ÐÅÍ§ɤÅÐā¹"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ŇÒäÁġ¹¨ºáººԹ¹˕Ð!... ĉ¹˗ÒƫáÍΓ˵Í§ªÍº Ëę§á¹Ç׉áˉ¹Í¹$s"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Harvey",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑʴÍÂÍÂÒ¡àˢÒä»ɤàÅÂ... *ǭ¡*"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Harvey 3000/pause 500/message \"ÎÒΓƷΒıÒĥ§ĕÇϊ¹!\"",
+            "Text": "ĉ¹¡ĥÇ!$8"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹¡ĥÇ¤ÇÒÁɺ§ˉÐ ©Ò¡ã¹Ëę§ġ¹ʁ àˢÒȨ´ĉ¹àÅÂ˕Ð... á˅ĉ¹ʁÊȹ¡¹Ð$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "action",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹à¤Â˝Ò¹ƳƇÇàҳÍ§׉ ÁÒá̅Ç¹Ð..."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ȥ³Ť´ÍÐäÃāºàҳÍ§׉ՁÂ?"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Թ¹ƤÁÒ¡àÅÂ¹Ð ¼ÁƤã¨¹Ðч @ ªÇ¹¼ÁÁÒɤËę§$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "»¡ŵĉ¹äˑʴÍÂªÍºɤËę§ á˅àҳÍ§׉ġ¹ÊÁ¤ÇÃɤ ɦ¡ՁÂ?"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§ġ¹ŵ´µÒÁÒ¡àÅÂ! ĉ¹˗Òĉ¹¤§Ť´ǖ§ {0} ¹Ò¹àÅÂÅÐ"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àҳÍ§׉ġ¹ɤäˑãʺá¹Çĉ¹ˉÐ...$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Harvey 3000/pause 500/message \"¤ÇÒÁĔ¹¢Í§ÎÒΓƷΒàУÁɺ§ע¹!\"",
+            "Text": "ĉ¹ړǪ¡äˑʴÍÂƤ...$8"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹¢¹Ʌ¡ä»ËÁ´àÅÂ...$s"
+          }
+        },
+        "ID": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Gus",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹à¤Âàʫ¹ ĕÇÍ˒Ò§Ëę§àҳÍ§׉ ã¹â·ÃėÈΉġ¹ɤˉÒÊȹ¡¹Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¨Ò¡¡ÒÃч àʛ¹ˎÍ¤ģÇÁÒ¹Ò¹ ¡ÒÃŇÒÍÒËÒÃáººԹ¹ ġ¹ʁɤƱÃÐĔº¹Ð$h"
+          }
+        },
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "µÍ¹чĉ¹ä˴ɤËę§àҳÍ§ '{0}' ʁàËȑÍ¹àʛ¹ħ¹Ëɂ´ ä»àÅÂ!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Íºӭ¹īÇã¨Ĉ§... á˅ĉ¹ÍÂÒ¡¨Ð ÅÍ§ŪÁ¼Åä́ι¹Ī¡¤Ճ§¹Ð"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "fall_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àˤÒºÍ¡ā¹˗ÒËę§àҳÍ§׉ġ¹ 'áËÇ¡á¹Ç'... ġ¹ËÁÒÂ¤ÇÒÁ˗Òġ¹á˒ËÃÍ?$s"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àҳÍ§׉¨ÐҺÍÍÐäÃàщÂ? ɤäˑʴÍÂړàҳÍ§àÅÂ ºÒ§Ƨĉ¹ÍÒ¨áʱàš¹ Ëę§àҳÍ§׉á̅Çʁä˴$s"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*ȿ´* *ſ´* ... ĉ¹ä˴¡Х¹¤ÇÒÁÍ˓ÍÂ..."
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "äˑàÅÇàÅÂ ĉ¹âª¤Ƥчä˴ÁÒɤËę§àҳÍ§׉!"
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Lewis",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹à¤ÂɤËę§¤ÒÇºÍÂ µÍ¹ĉ¹àʛ¹àʔ¡... ĉ¹Ƥã¨чËę§Ģ§¤§ àʛ¹àËȑÍ¹àұÍʱÍ¹!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "PK_villain",
+            "Script": "/message \"ɤàËȑÍ¹¹ÒÂ¡à·ÈÁ¹µƳàÅƇÊ ıÒĥ§¨ÁÍԒã¹¤ÇÒÁŤ´...\"",
+            "Text": "(ĉ¹˕ÐÍÂÒ¡¨Ðړ¨ƃ§æ ˗Òà¢Òã˪ֲ׼§ ŚÒËģºá˅§·Ã§Ë¹Ç´ ђ̋ÍÍÐäÃ?)"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ ι¹ġ¹àђÂÁä»àÅÂ! ŇÒã̋ĉ¹Ǚ¡ǖ§ÍƤµע¹ÁÒ¨ƃ§æ àÅÂ˕Ð...$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ˇÒ¹ڌ˗Ò¡ÒÃģ° á¹ÐŉÒÀÒ¾Â¹µΓàҳÍ§׉ ã̋āº¼Á˴ÇÂ ĕÇˇÒ¹àÍ§àÅÂ¹Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÁīÈ¨ÃÃΒÁÒ¡! ¾Ç¡à¢ÒŇÒã̋ÊµÒΓŴÇáÇÅѕ ɤÊÇÂ§ÒÁÁÒ¡¨ƃ§æ ãʺäËÁ˕Ð? ¤§¨ÐƤ˶Òà¢ÒŇÒã̋ àȑÍ§à¾ƅá¡¹ à˄¹ע¹ÁÒƽ¡Ź´...$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ã¹°Ò¹Ðч¼Áàʛ¹¹ÒÂ¡à·ÈÁ¹µƳ ¼ÁĸÒàʛ¹¨Ð˵Í§·ÃÒº˗Ò ÀÒ¾Â¹µΓ»ÃÐàÀ·äË¹ чıÒĥ§àˢÒ©ÒÂÍԒã¹ ȪÁª¹¢Í§¾Ç¡àÃÒ ¾Ç¡àÃÒƱŨµã¨чãÊÊÐÍÒ´ ¢Í§ª¹ӣ¹Ëĥ§ч˵Í§ ĴÒǙ§ǖ§!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "˞ÒΛ! ġ¹äˑàÅÇàÅÂ... ¼Á¨Ðɮ´˗ÒÀÒ¾Â¹µΓàҳÍ§׉ 'ˌÒ¹¡ÒÃģºÃÍ§ â´Â¹ÒÂ¡à·ÈÁ¹µƳ' á̅Ç$h"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÁ... ¼ÁړǪ¡˗Òġ¹ˉÒÊ¹ã¨чä˴àʫ¹˗Ò ȷ¡ħ¹׉¤¹ËәÁÊÒÇ ɤÀÒ¾Â¹µΓáººäË¹..."
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àËÍ... ¼ÁÊ§ĪÂĈ§˗ÒˢÍ¤ÇÒÁч ÀÒ¾Â¹µΓàҳÍ§׉ҺÍÍÍ¡ÁÒ ġ¹Ƥ˅ÍȪÁª¹¢Í§àÃÒǣà»˕Ò?"
+          }
+        },
+        "ID": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Jodi",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹à¤ÂɤàҳÍ§׉ ÁÒá̅Ç¤Ճ§Ëѹ§ àұÍ¹Ò¹ÁÒá̅Ç ġ¹âÃáÁ¹ŵ¡ÁÒ¡!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹ƤÁÒ¡àÅÂ... áʱ¹¢Í§ÀÒ¾Â¹µΓàҳÍ§׉ ġ¹ÊÍ´¤̅Í§āºƚƇµ¢Í§ĉ¹ ¢ÍºȤ³ч¾Òĉ¹ÁÒɤ¹Ð!"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ëħ§˗ÒàˡÒם¨Ðι§ÊºÒÂ¹Ð ħ¹׉ĉ¹Ȓ¹ÁÒµÅÍ´Է§ħ¹àÅÂ!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑãʺ¾Ç¡ ¤υ§ÀÒ¾Â¹µΓËÃÍ¡¹Ð... á˅ĉ¹ʁä˴ƱʺÇ§àÇÅÒчƤÁÒ¡! ¢Íºã¨¹Ð @ "
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Sam",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍ÇÇÇ ĉ¹˕Ðҥ¹à˵¹āºà˨Òщ¨ƃ§æ! ĉ¹ä˴Ƃ¹ÁÒ˗Òġ¹Ʊ´¹µƳ »ÃÐ¡ÍºÀÒ¾Â¹µΓчàђÂÁÂÍ´"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/playSound reward/emote Sam 32/message Sam \"á«Á¡Յ¹ĲÒàÍÒä̇äˑÍԒá̅Ç!\"",
+            "Text": "ÀÒ¾Â¹µΓàҳÍ§׉ ġ¹µÅ¡ÁÒ¡! à¢ÒàÍÒäÍàƤÂ¾Ç¡׉ ÁÒ¨Ò¡äË¹ā¹¹Ð?$h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*ӺÇÇÇ*... Í˒Òä»ºÍ¡ã¤Ã¹Ð ˗Ò¼Áã˚ȶ§à˷Ò áººàƤÂÇā¹āºħÁĚÊàÅÂ"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ȥ³ªÍºËę§ÊÂÍ§¢ħ­ËÃÍ? ¼ÁړǪ¡»ÃÐËÅÒ´ã¨Ź´ËˉÍÂ!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹ʴÍ¹ˢÒ§¨Ð àђÂÁàÅÂáËÅÐ! â´Â»¡ŵá̅ÇÀÒ¾Â¹µΓ ŇÒã̋¼ÁړǪ¡¡ĥÇ äˑä˴ËÃÍ¡¹Ð á˅àҳÍ§׉ŇÒã̋¼Á ړǪ¡ä˴Ź´ËˉÍÂ... ¼ÁäˑŤ´˗Ò¨Ð¾Ò Ƈ¹à«¹·ÁÒɤËÃÍ¡¹Ð"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ ¢ÍºȤ³чàŪ­¼ÁÁÒ¹Ð @... ġ¹àђÂÁ¨ƃ§æчµÍ¹׉ àȑÍ§¢Í§àÃÒƱâÃ§Ëę§á̅Ç"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹äˑàÅÇàÅÂ! ¼ÁˉÒ¨Ð¾ÒƇ¹à«¹·ÁÒɤ"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹àʛ¹Ëę§àʱÒæ чƱá˅º·Ê¹·¹Ò àʕÁä»ËÁ´ ãʺՁÂ? ȝÁ...$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message Sam \"á«ÁıÒĥ§à˕¹à¤ҳÍ§à˕¹ ƇƤâÍà¡ÁΚáºº¾¡¾Ò ¢Í§à¢ÒÍԒ\"",
+            "Text": "ػÁ? â̍! ãʺ... ÀÒ¾Â¹µΓ... ˉÒÊ¹ã¨Ƥ...$10"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ʺÒÂÂ... à̍Í... ĕÇÅÐ¤ÃĕÇԹ¹ˉÒÊ¹ã¨Ƥ... áÅÐ ȝÁ... à˞...$10"
+          }
+        },
+        "ID": "reaction_4"
+      }
+    ]
+  },
+  {
+    "NPCName": "Vincent",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "documentary",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼Áҥ¹à˵¹Ɋ´æ ä»àÅÂ! áˑÍȹ­Òµã̋¼Á ÍÁɵ¡ÍÁä˴˴ÇÂ!$h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/jump Vincent/pause 400/playSound reward/message \"Ƈ¹à«¹· ıÒĥ§Ʊ¤ÇÒÁɊ¢Ɋ´æ !\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§Êȹ¡ÁÒ¡àÅÂ˕Ð ĉ¹¨Ð˵Í§ɤġ¹ƽ¡áˉ¹Í¹!$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§׉ àʛ¹Ëę§ŚÒËģº ¤¹чâµá̅ÇäˑãʺËÃÍ?$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"Ƈ¹à«¹·ıÒĥ§Ëȧ´Ëŧ´ ÍԒº¹чι§¢Í§à¢Ò\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹ˉÒàҪÍĈ§... ¼ÁäˑàˢÒã¨ÍÐäÃàÅÂ$s"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Kent",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¢ÍºȤ³чàŪ­¼ÁÁÒɤËę§¹Ð @ ġ¹äˑʷÒÂàÅÂч¨Ð »ģºĕÇ¡ĥºÁÒã˪ ƚƇµáºº¤¹ã¹àȑÍ§ä˴ á˅Ȥ³ʺÇÂã̋¼ÁړǪ¡˗Ò ¼Áàʛ¹ч˵Í¹ģº¨ƃ§æ"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Kent 32/message \"ÃÍÂ֢ÁчËÒä˴ÂÒ¡¢Í§à¤¹· »ÃÒ¡¯ע¹º¹ãºË˹Ò¢Í§à¢Ò\"",
+            "Text": "щġ¹àђÂÁä»àÅÂ... ġ¹ŇÒã̋¼ÁǙ¡ǖ§ ʺÇ§àÇÅÒчàƳÂºʷÒÂ...$h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹Êȹ¡Ƥ¹Ð àұÍȤ³¨´ʸÍÍԒāºËę§ ȷ¡¤ÇÒÁā§ÇÅã¹ã¨ ġ¹ËÒÂä»ËÁ´àÅÂ"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼ÁäˑʴÍÂáˉã¨ àбÂÇāºËę§àҳÍ§׉¹Ð..."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Kent 28/message \"àËҗÍàʢ¹æ äËÅǋÁÍÍ¡ÁÒ ¨Ò¡ĕÇ¢Í§à¤¹·...\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹ǴÍ ¤ÇÒÁ˷Ò·ÒÂŚÒËģº¼Á á˅¼ÁʁĢ§ړǪ¡«Òº׫§ чȤ³àŪ­¼ÁÁÒÍԒƤ"
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Clint",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§׉ ġ¹¤ÇÃ¨ÐâÃáÁ¹ŵ¡ ãʺՁÂ? *¶Í¹ËÒÂã¨*$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "guyEnters",
+            "Script": "/emote Clint 12/message \"¤ƅ¹·ıÒĥ§ŇÒË˹Ò׺§\"",
+            "Text": "ŇÒäÁà¸Íǖ§ªÍº ڌªÒÂ¤¹Թ¹? ˶ÒȤ³¶ÒÁ¼Á ¼ÁŤ´˗Ò¤¹áººԹ¹ äˑƱ·Ò§ƱÍԒ¨ƃ§ËÃÍ¡...$3"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§׉ŇÒã̋¼Áż´Ëħ§...$s"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼ÁŤ´˗Òġ¹ǴÍ 'ϔÒǴ¹¢Í§ËәÁæ' ãʺՁÂ? ι¹ġ¹ËÁÒÂ¤ÇÒÁ˗Ò ¼Á˵Í§؛Í¢Í§š¹à˕¹àÍ§ ǣà»˕Ò?^â̍... щ... щ¾Ç¡àÃÒıÒĥ§à´µā¹ËÃÍ?$4"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"¤ƅ¹·ıÒĥ§Ũºà¤ҳÍ§ҤÁ ¨Ò¡¢Ç´áˡÇ чäˑä˴ÃÐȺä̇˗Ò ºÃÃȨÍÐäÃä̇ˢÒ§ã¹\"",
+            "Text": "ġ¹ʁáʴ... *ބ¡*... â¨˨Òâ¤˕Ò$h^*¡ÃÐūº*...˶ÒȤ³ ȝÁ... ړǪ¡àËҩÍÂ... Ȥ³ÊÒÁÒÃ¶ÇÒ§ƸÃÉÐÅ§º¹... Å§º¹äË˕¢Í§¼Áʁä˴¹Ð áËÐæ... ËȓÍ¨Ðäˑʁä˴!$4"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎... ι¹ġ¹ʁÊȹ¡ÍԒ¹Ð... ãʺՁÂ?$h"
+          }
+        },
+        "ID": "reaction_0"
+      }
+    ]
+  },
+  {
+    "NPCName": "Emily",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹àµƳÂÁĕÇŚÒËģº Ëę§àҳÍ§׉˴ÇÂ¡ÒÃ š¹ζÇä»Ëѹ§ıÒȑÍ... àʛ¹ÍÒËÒÃÊÁÍ§Ģ§ä§˕Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړǪ¡˗ÒĕÇàÍ§©ÅÒ´¡˗Ò ʱÍ¹Ë˹Ò׉Ź´ËˉÍÂ... Ȥ³ʁړǪ¡ãʺՁÂ?"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "µÍ¹чĉ¹àʫ¹â»ÊàµÍΓ ¢Í§Ëę§àҳÍ§׉ ĉ¹ړǪ¡ä˴ǖ§¾ĥ§§Ò¹ºÇ¡ ã¹īÇ¢Í§ĉ¹àÅÂ˕Ð$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§Թ¹ġ¹ɤ ƱŨµƇ­­Ò³ÁÒ¡æàÅÂ Ȥ³àʫ¹˴ÇÂǣà»˕Ò? ĉ¹ģ¡ġ¹!$h"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ʊ¤ÇÒÁɊ¢ чä˴ɤËę§āºȤ³! ĉ¹àǱÍº¨ÐÊȹ¡ä»āºËę§ ¨¹äˑړǪ¡ǖ§Ъ§ÃÍºĕÇá̅Ç"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړǪ¡ƤāºËę§àҳÍ§׉¹Ð.. ËÁÒÂǖ§˗Òġ¹àʛ¹Ëę§чƤ!$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "»¡ŵá̅Çĉ¹¨ÐɤËę§ чŇÒã̋ړǪ¡ ǖ§¾ĥ§ºÇ¡ ÁÒ¡¡˗Ò׉ˉÐ¹Ð Ëę§àҳÍ§׉ʁàÅÂˉÒÊ¹ã¨"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"àÍƁѕ¡ÃÐūºāºĕÇàÍ§...\"",
+            "Text": "âÂºÐ ä˴â»Ã´لÁ¤ÃÍ§ĉ¹ ¨Ò¡¾ĥ§§Ò¹˴Ò¹Åº ¢Í§Ëę§àҳÍ§׉˴ÇÂ$7"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÃÐĔº¾ĥ§§Ò¹¢Í§ĉ¹ àËȕÍ˹ÍÂÁÒ¡ Ëĥ§¨Ò¡чɤËę§àҳÍ§׉...$3"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Haley",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÁ... чщԷ§ÊÇÂ§ÒÁáÅÐÍºӭ¹ ÄɤË¹ÒÇàʛ¹ʺÇ§чĉ¹ªÍºä» ɤËę§ÁÒ¡чɊ´$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹âÃáÁ¹ŵ¡ÁÒ¡æ àÅÂ˕Ð"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÁ... чщԷ§ÊÇÂ§ÒÁáÅÐÍºӭ¹ ÄɤË¹ÒÇàʛ¹ʺÇ§чĉ¹ªÍºä» ɤËę§ÁÒ¡чɊ´$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ƥã¨чġ¹ƱµÍ¹¨ºчƤ!"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "classic",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍ щʁǴÍËѹ§ã¹Ëę§ 'á¿¹µÒƛ' ¾Ç¡Թ¹ËÃÍ?$7"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*ËÒÇ*... ÍÐäÃ? â̍... ¢Í¶ÒÁƽ¡Ƨ Ëę§àҳÍ§׉ġ¹àбÂÇāº ÍÐäÃ¹Ð?$7"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȷ¡¤¹ɮ´ǖ§Ëę§àҳÍ§׉ ĉ¹ʁàÅÂԵ§µÒÃÍ ч¨ÐÁÒɤ˺Ò§"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "©Ò¡Ɋ´˷ÒÂι¹... ġ¹ËÁÒÂǖ§ÍÐäÃ˝Ð?"
+          }
+        },
+        "ID": "reaction_6"
+      }
+    ]
+  },
+  {
+    "NPCName": "Maru",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ @! ĉ¹Ե§µÒ¤ÍÂч¨Ð ɤàҳÍ§׉àÅÂáËÅÐ... ĉ¹Ëħ§˗ÒàÃÒ¨Ðä˴àƳÂ¹ړ ÍÐäÃËÅÒÂæ Í˒Ò§ ¨Ò¡ÀÒ¾Â¹µΓàҳÍ§׉¹Ð!$h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Maru 32/playSound reward/message \"ÁÒɃıÒĥ§¨´â˹µ¢Í§à¸ÍÍԒ!\"",
+            "Text": "ÍÒ ĉ¹àˢÒã¨˕Ð... ι¹ġ¹ˉÒÊ¹ã¨ÁÒ¡àÅÂ!"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹ˉÒÊ¹ã¨ÁÒ¡àÅÂ! ĉ¹äˑà¤ÂŤ´ÁÒʱÍ¹àÅÂ˗Ò ¨ÐƱ¤¹ÍÒĨÂÍԒã¹àȑÍ§ãËʽ ÁÒ¡¢¹Ò´Թ¹"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹àʛ¹ÀÒ¾Â¹µΓ á¹Çä«-ä¿ãʺäËÁ? Í˒Ò§Ǚ§чĉ¹ªÍº àбÂÇāºÀÒ¾Â¹µΓä«-ä¿ ʁǴÍ¡ÒÃä˴àʫ¹à·¤â¹âÅƲ чá»Å¡»ÃÐËÅÒ´"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àÍÒ˕Ð ĉ¹äˑà¤Âàʫ¹ÍÐäÃ *Í˒Ò§Թ¹* ˌÒ¹¡̅Í§â·Ã·ÃÃÈΉ ¢Í§ĉ¹ÁÒʱÍ¹àÅÂ... á˅ι¹ġ¹àђÂÁÁÒ¡!$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ªÍºä»âÃ§ÀÒ¾Â¹µΓ ÁÒ¡àÅÂ˕Ð ǖ§á́˗Ò ÀÒ¾Â¹µΓ¨Ðá˒ʁµÒÁ!$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹àʛ¹ĕÇàȕÍ¡чˉÒÊ¹ã¨ÁÒ¡ ŚÒËģº©Ò¡Ɋ´˷ÒÂ à¸ÍŤ´˗Ò©Ò¡Թ¹ ġ¹ËÁÒÂ¤ÇÒÁ˗ÒĢ§ä§?"
+          }
+        },
+        "ID": "reaction_4"
+      }
+    ]
+  },
+  {
+    "NPCName": "Sebastian",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "à̎ ĉ¹ä˴Ƃ¹ÁÒ˗ÒËę§àҳÍ§׉ ʴÍ¹ˢÒ§ч¨Ðá͈ÇàÅÂ... ĉ¹Ե§µÒ¤ÍÂч¨Ðä»ɤġ¹¹Ð$h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Sebastian 32/message \"à«ºÒÊàƥÂ¹ıÒĥ§֢Á¨¹àʫ¹ğ¹\"",
+            "Text": "ƈÅ»Ð¡ÒÃˆÒÂŇÒ ÀÒ¾Â¹µΓàҳÍ§׉ ġ¹àʛ¹ƽ¡ÃÐĔºǙ§àÅÂ"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§чƤчɊ´чĉ¹ɤã¹ʺÇ§׉... ĉ¹Ê§ĪÂĈ§˗Ò¾Ç¡à¢ÒŇÒ à·¤Ź¤žàÈÉ¾Ç¡Թ¹Ģ§ä§s?$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*Ģ¡äË˕*... â»ÊàµÍΓËę§ɤà͈§Ƥ à¾ÃÒÐԧ¹ĉ¹ʁàÅÂ ÁÒɤ˴ÇÂ"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹äˑãʺËę§чƤчɊ´ á˅ĉ¹ʁƱʺÇ§àÇÅÒчƤàÅÂ˕Ð ¢ÍºȤ³чªÇ¹ÁÒ¹Ð "
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ëħ§˗ÒËę§¨Ð¨ºàʣÇæ ׉¹Ð..."
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹àʛ¹Ëę§чƤŚÒËģºڌªÁ чàʛ¹¡ӥÁà˻ÒËÁÒÂ¹Ð á˅äˑãʺŚÒËģº¼Á"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Robin",
+    "Reactions": [
+      {
+        "Tag": "action",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ʺÇ§׉ĉ¹ړǪ¡àҪÍæ Ĕ§Թ¹Ëę§чàʕÁä»˴ÇÂ ¡ÒÃà¤ҵÍ¹äËÇ ʁàÅÂàʛ¹ÍÐäÃч µÃ§āº¤ÇÒÁ˵Í§¡ÒÃ ¢Í§ĉ¹Ɋ´æ àÅÂ˕Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "µÍ¹׉ĉ¹ړǪ¡Ʊä¿Ɋ´æ ä»àÅÂ! ι¹ġ¹àђÂÁ¨ƃ§æ$h"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑʴÍÂáˉã¨˗Ò Ëę§àҳÍ§׉ġ¹àбÂÇāºÍÐäÃ á˅ĉ¹ʁäˑʴÍÂ¨Ð ã˚ã¨àˇÒäË˓! ĉ¹ʁáʴړǪ¡Ƥ чä˴ÍÍ¡ÁÒ¹Í¡˺Ò¹"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹Êȹ¡ÁÒ¡àÅÂ @ ĉ¹Ƥã¨ч¾Ç¡àÃÒ ÁÒɤËę§ā¹¹Ð"
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Demetrius",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¡ÒÃàŴ¹ˇÒÁ¡ÅÒ§ƋÁÐ ã¹ÃÐÂÐàÇÅÒՊ¹æ ŇÒã̋àËȕÍ´äËÅàƷÂ¹ ä˴Ƥ¨ƃ§æ"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "zuzucityexpress_mind_heart",
+            "Script": "/message \"ŴƱà·ƳÂÊıÒĥ§¢ÁÇ´քÇ\"",
+            "Text": "¤ÇÒÁ»ÃÒ¶¹Ò¢Í§īÇã¨...? â̍! Ȥ³ËÁÒÂǖ§ '¡ÒÃàОÁע¹¢Í§ÃÐĔº ÍÍ¡ūâ·ū¹ã¹ÃÐººƅÁź¡'"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ƈÅ»Ð¢Í§ÀÒ¾Â¹µΓàҳÍ§׉ ˡÒÇË˹Òä»ÁÒ¡ Ե§á˅ʺÇ§àÇÅÒԹ¹ ãʺՁÂ?"
+          }
+        },
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÀÒ¾Â¹µΓàҳÍ§׉ ¤ÇÃ¨ÐˆÒÂŇÒã¹Ê¶Ò¹ч чɤàʛ¹àȑÍ§ã¹ 'Í¹Ò¤µ' ÁÒ¡¡˗Ò׉... ġ¹ˉÒÊ¹ã¨ÁÒ¡ч¨Ðɤ ˗Òġ¹¨ÐÍÍ¡ÁÒàʛ¹Ģ§ä§!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àʛ¹Ëę§чÂÍ´... á˅¼ÁÊ§ĪÂ˗Òġ¹ƱЪ§ƱƚƇµ º¹´ÒÇáºº׉¨ƃ§æ àËÃÍ?"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÀÒ¾Â¹µΓàҳÍ§׉ àËÁÒÐÊÁāº¼ÁÁÒ¡... Ȥ³ړ˗Ò¼Á¨Ð˵Í§ªÍºġ¹áˉæ$h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Demetrius 8/message Demetrius \"ŴƱà·ƳÂÊıÒĥ§ıÒ¤Ò§¢Í§à¢Ò...\"",
+            "Text": "â´Âà·¤Ź¤á̅Ç ι¹ġ¹äˑɦ¡˵Í§¹Ð...$3"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ǴÍáºº׉¹Ð ¾Ç¡à¢ÒàÊƃÁ ÍÐäÃºÒ§Í˒Ò§Å§ä» á˅àةÍËÒ˚Ç¹ãËʽ ʁĢ§ɦ¡˵Í§ÍԒ! Ģ§ä§ʁµÒÁ ¼ÁƱʺÇ§àÇÅÒчƤ¹Ð"
+          }
+        },
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "winter_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼Áä˴˝Ò¹àбÂÇāº ÀÒ¾Â¹µΓàҳÍ§׉ ã¹Ëę§ȚÍžÁΎ... ɤàËȑÍ¹˗Ò ġ¹äˑàËÁÒÐāº¼Á¹Ð á˅¼Á¨ÐÅÍ§ɤá̅Çā¹"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ä̃ÊÒÃÐ! ι¹ġ¹äˑàʛ¹Ƈ·ÂÒÈÒÊµΓ àÅÂċ¡Ź´!$4"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ǖ§á́˗Ò ÀÒ¾Â¹µΓàҳÍ§׉ġ¹¨ÐäˑƤ á˅¡ÒÃÅÍ§Ƈà¤ÃÒÐΛ ÀÒ¾Â¹µΓàҳÍ§׉ ʁˉÒÊ¹ã¨ÍԒ¹Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÁ... ¼ÁÊ§ĪÂ˗ÒÀÒ¾Â¹µΓàҳÍ§׉ ŇÒã̋ÁȹÉΒǞ§¾Íã¨ ã¹áʷɁÁäË¹?$3"
+          }
+        },
+        "ID": "reaction_3"
+      }
+    ]
+  },
+  {
+    "NPCName": "Linus",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼ÁړǪ¡˗Ò¼ÁäˑƱчȒ¹чι¹... Ëħ§˗Ò¼Á¨Ðäˑä˴ Ãº¡Ç¹ã¤Ã¹Ð$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Linus 28/message \"ƵęÊıÒĥ§ÁÍ§خ¹...\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ŇÒäÁǖ§àÍÒá˅˨Í§ÁÍ§ ¨ÍÀÒ¾Â¹µΓ˕Ð ã¹àұÍȤ³ÊÒÁÒÃ¶ ĪÁĜÊ»ÃÐÊ§¡ÒÃ΃˅Ò§æ ä˴˴ÇÂĕÇàÍ§?$s"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼ÁړǪ¡˗Ò ¼ÁäˑƱчȒ¹чι¹... Ëħ§˗Ò¼Á¨Ðäˑä˴ Ãº¡Ç¹ã¤Ã¹Ð$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Linus 28/message \"ƵęÊıÒĥ§ÁÍ§خ¹...\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¼Áäˑل¹à¤Âāº¡ÒÃ¡ÃÐٕ¹ чÁÒ¡¢¹Ò´Թ¹... ¢Íâ·É¹Ð ˶Ò¼ÁŇÒã̋á¢¡¤¹ҽ¹æ ړǪ¡ż´Ëħ§æ @ á˅¼ÁʁĢ§«Òº׫§ÁÒ¡ чȤ³ªÇ¹¼ÁÁÒ!"
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Dwarf",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍ ̇ÒÇ! »ÃÒÊÒ·чỄÒ§ע¹ÁÒ àҮÍ¤ÇÒÁĚ¹àŷ§ àƮÂ§Í˒Ò§àƤÂÇ!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"ɤàËȑÍ¹¤¹á¤ÃÐ ¨Ðµ¡ÍԒã¹Àħ§ʹǥ¡...\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑàˢÒã¨ÍÐäÃ ċ¡Í˒Ò§àÅÂ á˅áÊ§ɷºÇÒº¾Ç¡Թ¹ ġ¹ʺÒ§ˉÒã̋ËÅ§ãËÅ¨ƃ§æ!"
+          }
+        },
+        "ID": "reaction_1"
+      }
+    ]
+  },
+  {
+    "NPCName": "Marnie",
+    "Reactions": [
+      {
+        "Tag": "winter_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړ˗Ò ĉ¹¨ÐËÅ§ģ¡Ëę§àҳÍ§׉! à¸ÍʺÒ§ƱթÒã¨àËȕÍàš¹ чªÇ¹ĉ¹ÁÒɤËę§àҳÍ§׉ @$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "â̍ ĉ¹Ƥã¨ÁÒ¡ч¤ÃÍº¤ģÇԹ¹ äˑàʛ¹ÍÐäÃã¹µÍ¹¨º á̅Çʁ¾Ç¡ħÇ˴ÇÂ!$h"
+          }
+        },
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¾Íàʛ¹àҳÍ§¢Í§ÀÒ¾Â¹µΓ ĉ¹ʴÍ¹ˢÒ§¨Ð ã¨ʷÒÂàÅÂáËÅÐ... ʁĉ¹ˉÐªÍºȷ¡Í˒Ò§ чàбÂÇāºÀÒ¾Â¹µΓ àÅÂщ¹Ò!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹àʛ¹àÇÅÒчƤÁÒ¡æàÅÂ @! ¢ÍºȤ³чªÇ¹ĉ¹ÁÒ¹Ð "
+          }
+        },
+        "ID": "reaction_2"
+      }
+    ]
+  },
+  {
+    "NPCName": "Shane",
+    "Reactions": [
+      {
+        "Tag": "summer_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÍ... ãʺ ¼ÁËħ§˗Òщ¨ÐâÍà¤¹Ð *ȿ´ſ´* *ȿ´ſ´* ... ¢¹Á¤ºàִÂÇˉÒ¨ÐʺÇÂä˴¹Ð"
+          },
+          "DuringMovie": {
+            "ResponsePoint": "PK_villain",
+            "Script": "",
+            "Text": "¼Áàʛ¹á¿¹¢Í§¾Ç¡ĕÇ̃ÒÂ... *àނ¡*"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "âÍà¤ ¼ÁÂÍÁģº... ¼ÁŤ´˗Òġ¹ʴÍ¹ˢÒ§ ƤàÅÂáËÅÐ"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "spring_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "fall_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ǯ ĉ¹˗Òĉ¹ÍÂÒ¡¨ÐɤàҳÍ§׉¹Ð..."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"àª¹¾ÂÒÂÒÁч¨Ð¡Յ¹֢Á\"",
+            "Text": "âÍà¤ щġ¹ƤĈ§...$h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "àÇÅÒч¾Ç¡àÃÒıÒĥ§ɤËę§Ƥæ Ȥ³¨ÐȕÁȷ¡Ъ§ȷ¡Í˒Ò§ ä»àÅÂ... ġ¹ǴÍ¢Í§¢ħ­¨Ò¡¾ÃÐà˨Ò"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ȝÍ... ãʺ ¼ÁËħ§˗Òщ¨ÐâÍà¤¹Ð *ȿ´ſ´* *ȿ´ſ´* ... ¢¹Á¤ºàִÂÇˉÒ¨ÐʺÇÂä˴¹Ð"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "âÍà¤ ¼ÁÂÍÁģº... ¼ÁŤ´˗Ò ġ¹ʴÍ¹ˢÒ§ƤàÅÂáËÅÐ"
+          }
+        },
+        "ID": "reaction_6"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "˝ÒΛ... ġ¹¤§¨Ðàʈº»Ç´ÁÒ¡áˉàÅÂ"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/emote Shane 28/message \"àª¹ɤ¨Ð˛ÍàћÂÇÁÒ¡...\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړǪ¡Ë´ԛÁÒ¡àÅÂÍÐ...$s"
+          }
+        },
+        "ID": "reaction_7"
+      }
+    ]
+  },
+  {
+    "NPCName": "Jas",
+    "Reactions": [
+      {
+        "Tag": "horror",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ËɩƱ¤ÇÒÁɊ¢ÁÒ¡чä˴ɤËę§!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/jump Jas/pause 400/playSound reward/message \"á¨ÊƱ¤ÇÒÁɊ¢ÁÒ¡!\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§Êȹ¡ÁÒ¡àÅÂ˕Ð! ¢ÍºȤ³ч ¾ÒËɩÁÒɤ˴ÇÂ¹Ð¤Ð!$h"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "щàʛ¹Ëę§ŚÒËģº¤¹чâµá̅Ç ãʺՁÂ¤Ð? äˑ˵Í§˛Ç§ʴÐ ËɩâÍà¤!"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/message \"á¨ÊıÒĥ§¼§¡ƸÃÉÐ áÅÐàËȕÍºÁÍ§ˢÒ§æ\"",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ËɩŤ´˗Òġ¹Ƥ¹Ð! ġ¹Ʊ... ȝÁ... 'º´-âÊ¹-·Ð-¹Ò'чƤ! ...ãʺՁÂ¤Ð?"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "horror",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëɩ... Ëɩäˑáˉã¨˗Ò Ëɩä˴ģºÍȹ­Òµã̋ɤ Ëę§àҳÍ§׉¹Ð¤Ð...$s"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "/shake Jas 250/pause 500/shake Jas 250/pause 500/emote Jas 28/message \"á¨ÊıÒĥ§ĕÇϊ¹\"",
+            "Text": "Ëɩ¡ĥÇ...$s"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "*ɺ´թÒɱ¡*...$s"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Leah",
+    "Reactions": [
+      {
+        "Tag": "spring_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ä˴Ƃ¹ÁÒ˗Òġ¹Ʊ©Ò¡¢Í§ ¸ÃÃÁªÒŵчÊÇÂ§ÒÁÁÒ¡æ ã¹Ëę§àҳÍ§׉... ĉ¹¨ÐԵ§µÒ¤ÍÂġ¹ ˴ÇÂ¤ÇÒÁҥ¹à˵¹àÅÂ˕Ð!$h"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹àђÂÁÁÒ¡ ĉ¹ʴÍ¹ˢÒ§ρ¹ã¨àÅÂ˕Ð ˗Òĉ¹àʫ¹¡ÃÐˇÍÁ¢Í§ĉ¹ ã¹©Ò¡чàʛ¹ÊµÒΓŴÇáÇÅѕ!$h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "art",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "classic",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "family",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "*",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Ëę§àҳÍ§׉ŇÒã̋ĉ¹ѷ§¨ƃ§æ... ĉ¹àʛ¹¾Ç¡ ¤υ§àҳÍ§וĥºˉÐ"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹àђÂÁä»àÅÂ! Ƈƨ¡ÒÃà˕ÒàҳÍ§Ģ§äˑʴÍÂ ¡ÃÐĊºàˇÒäË˓ á˅ĉ¹Ť´˗Òġ¹Ե§ã¨¨Ð à˕¹āºÊÀÒÇÐÍÒÃÁ΃ˉÐ äˑãʺµÃÃ¡Ð¤ÇÒÁŤ´"
+          }
+        },
+        "ID": "reaction_5"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹äˑáˉã¨˗Ò ¤ÇÃ¨Ð¤Ò´Ëħ§ÍÐäÃ ¨Ò¡Ëę§àҳÍ§׉ á˅ĉ¹¨ÐàŻ´ã¨àˢÒä̇¹Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹àʛ¹Ëę§ч ¸ÃÃÁ´ÒÁÒ¡á˅ʁƤ¹Ð... ġ¹àËȑÍ¹āº ÍÒËÒÃчš¹á̅Ç ЭÁÍ¡ЭÁã¨¢Í§âÃ§Ëę§ˉÐ"
+          }
+        },
+        "ID": "reaction_6"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "¨Ò¡â»ÊàµÍΓËę§¹Ð щġ¹ɤ¨ÐàѕÂ¹ÁÒ¡àÅÂ"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹àʛ¹Ëę§ã˵Ŵ¹ãʺՁÂ?"
+          }
+        },
+        "ID": "reaction_7"
+      }
+    ]
+  },
+  {
+    "NPCName": "Sandy",
+    "Reactions": [
+      {
+        "Tag": "*",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹Ʊ¤ÇÒÁɊ¢ÁÒ¡ чƱˢÍ̍Ò§ч¨ÐÁÒ àȑÍ§à¾ƅá¡¹!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹Êȹ¡ÁÒ¡àÅÂ ¢ÍºȤ³чªÇ¹ĉ¹ÁÒ¹Ð! ƽ¡á»»Ǚ§ĉ¹¤ÇÃ¨Ð ¡ĥº˺Ò¹ä˴á̅Ç..."
+          }
+        },
+        "ID": "reaction_1"
+      }
+    ]
+  },
+  {
+    "NPCName": "Elliott",
+    "Reactions": [
+      {
+        "Tag": "art",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_0"
+      },
+      {
+        "Tag": "fall_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_1"
+      },
+      {
+        "Tag": "summer_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": null,
+        "ID": "reaction_2"
+      },
+      {
+        "Tag": "love",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ŇÒ¹ÒÂä˴àÅÂ˗Ò ġ¹¨Ðàʛ¹ϔÒǴ¹ч§´§ÒÁ!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹ړǪ¡ä˴àÅÂ˗Ò ŨµƇ­­Ò³¢Í§ĉ¹ ä˴ģº¡ÒÃàŵÁ¾ĥ§§Ò¹.. ÃÒÇāº˗Ò ¾ĥ§§Ò¹ã¹ÀÒ¾Â¹µΓ ɦ¡̂ÒÂÁÒԚĕÇĉ¹ äˑˉÒàҚÍàÅÂ!"
+          }
+        },
+        "ID": "reaction_3"
+      },
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ĉ¹¾ÂÒÂÒÁËƵ¡àѕÂ§ˢÍɱÅ àбÂÇāºËę§àҳÍ§׉ÁÒµÅÍ´... ĉ¹ÍÂÒ¡¨Ð'µÒºÍ´'â´ÂÊÁɪÃ΃!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ˉÒÊ¹ã¨ÁÒ¡... ĉ¹¤§¨Ðäµ˓µÃÍ§àбÂÇāº Ëę§àҳÍ§׉ä»ƽ¡ċ¡Ğ¡"
+          }
+        },
+        "ID": "reaction_4"
+      },
+      {
+        "Tag": "dislike",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ġ¹¨Ðàʛ¹¡ÒÃâ¡Ë¡ ˶Òĉ¹ºÍ¡˗Ò ĉ¹Ե§µÒ¤ÍÂËę§àҳÍ§׉...$s"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ι¹ġ¹¸ÃÃÁ´ÒÁÒ¡ Ȥ³äˑŤ´àËȑÍ¹ĉ¹ËÃÍ?"
+          }
+        },
+        "ID": "reaction_5"
+      }
+    ]
+  },
+  {
+    "NPCName": "Willy",
+    "Reactions": [
+      {
+        "Tag": "like",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ўæ ... ĉ¹äˑà¤Â»ůàÊ¸ Ëę§¿ƳËÃÍ¡¹Ð!"
+          },
+          "DuringMovie": null,
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "ÍÒ ġ¹ŇÒã̋ĉ¹Ǚ¡ǖ§àҳÍ§ чˎÍ¢Í§ĉ¹à¤Âà˕Òã̋ğ§..."
+          }
+        },
+        "ID": "reaction_0"
+      }
+    ]
+  }
+]

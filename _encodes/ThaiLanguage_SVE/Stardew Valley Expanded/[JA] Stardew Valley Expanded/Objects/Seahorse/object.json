@@ -1,0 +1,10 @@
+{
+	"Name": "Seahorse",
+	"Description": "(ÁéÒ¹éÓ) à¨éÒ»ÅÒµÑÇ¹éÍÂ ·ÕèÊÃéÒ§ºéÒ¹ÍÂÙèã¹»Ð¡ÒÃÑ§",
+	"Category": "Fish",
+	"Edibility": 5,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 80,
+	"IsColored": false,
+}

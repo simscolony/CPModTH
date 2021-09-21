@@ -1,0 +1,18 @@
+{
+	"Name": "Razor Trout",
+	"Description": "(»ÅÒà·ÃÒµìãºÁÕ´â¡¹) à»ç¹ª¹Ô´¾Ñ¹¸ØìµèÒ§¶Ôè¹ÃØ¡ÃÒ¹ ·Õè¶Ù¡»ÅèÍÂâ´Âã¤ÃºÒ§¤¹...  ÁÑ¹ÁÕÅÇ´ÅÒÂµÒÁÅÓµÑÇ ·Õè¤ÅéÒÂÍÑ¡ÉÃµÑÇ 'J' ÁÒ¡",
+	"Category": "MonsterLoot",
+	"Edibility": -35,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 400,
+	"IsColored": false,
+	"CanSell": false,
+	"CategoryTextOverride": "Fish",
+	"CategoryColorOverride": "0, 0, 155, 255",
+	"GiftTastes":
+	{
+		"Dislike": ["Kent", "Jodi", "Olivia", "Pierre", "Gus", "Evelyn", "Leah", "Robin", "Elliott", "Andy", "George", "Claire", "Shane", "Sebastian", "Abigail", "Haley", "Maru", "Pam", "Clint", "Jas", "Morgan", "Vincent", "Sophia"],
+	    "Hate": ["Willy"]
+	},
+}

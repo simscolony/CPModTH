@@ -1,0 +1,27 @@
+{
+	"Name": "Dewdrop Berry",
+	"Price": 45,
+	"Description": "(àºÍÃÕèËÂ´¹éÓ¤éÒ§) ¼ÅäÁéáÊ¹ËÍÁËÇÒ¹ ·Õè»ÅÙ¡ã¹âÅ¡ Nexus ¢Í§©Ñ¹ ¨Ðä´éÃÑº¾ÅÑ§àÇ·Á¹µÃì ¨¹¡ÇèÒ¨Ð¶Ö§àªéÒÇÑ¹¶Ñ´ä»",
+	"Category": "Fruit",
+	"Edibility": 90,
+	"Recipe": null,
+	"CanSell": false,
+	"EdibleBuffs": 
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 2,
+        "Foraging": 0,
+        "MaxStamina": 50,
+        "MagnetRadius": 75,
+        "Speed": 2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 1600,
+    },
+	"GiftTastes":
+	{
+		"Like": ["Morgan", "MarlonFay", "GuntherSilvian", "Abigail", "Wizard", "Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
+	},
+}

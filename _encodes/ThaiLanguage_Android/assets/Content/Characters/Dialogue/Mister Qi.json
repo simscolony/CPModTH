@@ -1,0 +1,27 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Mon": "¾ÂÒÂÒÁ˅Íä» à˨ÒËɩ ĉ¹Ť´˗Òà¸Í¨Ðâ˄§Ĕ§ä˴#$e#¶ÒÁä˴¹Ð ˶Òà¸Í˵Í§¡ÒÃÍÐäÃ",
+        "Tue": "ĉ¹ړ˗Òà¸Í¨ÐÁÒчщĪ¡ħ¹ áˉ¹Í¹˗Ò ĉ¹ŇÒã̋ġ¹ÂÒ¡ËˉÍÂ àҮÍã̋à¸ÍƱáÃ§ɘ§ã¨ ä»Ԛ¤ÇÒÁàʛ¹àƅÈ",
+        "Wed": "µÍ¹áÃ¡ĉ¹ʁàš´ÁÒ àʛ¹áʴàʔ¡¸ÃÃÁ´Ò á˅ĉ¹ä˴ĕ´Ɗ¹ã¨ Ե§á˅àЙ¹æ àÅÂ˗Ò ĉ¹¨Ðàʛ¹¤¹žàÈÉã̋ä˴",
+        "Thu": "à̎ Í˒ÒºÍ¡ã¤Ã¹ÐàбÂÇāºчщ âÍà¤? ĉ¹ÍÂÒ¡ã̋ġ¹... žàÈÉ#$e#à¸Í¨Ðàʁº¤ÇÒÁĥº ã̋āºàҮÍ¹à¸Í Mr.Qi ãʺäËÁ?",
+        "Fri": "Í˒ÒËɂ´ч¨ÐËÒ ¤ÇÒÁÊÁɪÃ΃áºº#$e#Í˒Òä˴Ëɂ´ āºЪ§чĢ§äˑàʛ¹àƅÈ āºȷ¡Í˒Ò§чà¸ÍŇÒ",
+        "Sat": "àÇÅÒчà¸ÍÍÂÒ¡Ğ¡ ʁËɂ´Ğ¡¹Ð",
+        "Sun": "Ե§ã¨˅Íä» á̅ÇĪ¡ħ¹à¸ÍÍÒ¨ ¨Ðä˴àʛ¹Í˒Ò§ĉ¹"
+    }
+}

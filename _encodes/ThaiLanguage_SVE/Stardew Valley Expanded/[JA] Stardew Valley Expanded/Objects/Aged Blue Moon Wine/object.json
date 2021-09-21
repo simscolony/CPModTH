@@ -1,0 +1,32 @@
+{
+	"Name": "Aged Blue Moon Wine",
+	"Description": "(äÇ¹ìºÅÙÁÙ¹·ÕèºèÁÁÒ¹Ò¹) äÇ¹ì·ÓÁ×Í·Õè¼èÒ¹¡ÒÃºèÁÁÒ¹Ò¹ ¨Ò¡äÃèÍ§Øè¹ºÅÙÁÙ¹¢Í§â«à¿ÕÂ ÁÒã¹µÐ¡ÃéÒÊÒ¹ãºäÁéËÃÙËÃÒ ¾ÃéÍÁâºÇìÊèÍ§»ÃÐ¡ÒÂ ¾Ñ¹·Ñé§ËÁ´à¢éÒ´éÇÂ¡Ñ¹ à»ç¹¢Í§¢ÇÑ­·ÕèÂÍ´àÂÕèÂÁ!",
+	"Category": "ArtisanGoods",
+	"Edibility": 100,
+	"EdibleIsDrink": true,
+	"CanSell": false,
+	"EdibleBuffs": 
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 7,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600,
+    },
+	"Price": 10000,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Olivia", "Victor", "Gus", "MarlonFay", "MorrisTod", "Elliott", "Harvey", "Leah", "Jodi", "Kent", "Marnie", "Pam", "Pierre", ],
+		"Like": ["Sebastian", "Maru", "Sam", "Susan", "Lewis", "Alex", "Shane", "Abigail", "Emily", "Haley", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Robin", "Sandy", "Willy", "Linus", "Wizard"],
+		"Neutral": ["Sophia"],
+	    "Dislike": ["Jas", "Vincent", "Morgan", "Claire"],
+		"Hate": ["Dwarf", "Leo", "Krobus", "Penny", "Andy", "Martin"]
+	},
+}

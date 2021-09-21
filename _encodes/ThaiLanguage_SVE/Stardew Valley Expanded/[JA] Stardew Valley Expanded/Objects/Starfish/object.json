@@ -1,0 +1,23 @@
+{
+	"Name": "Starfish",
+	"Description": "(»ÅÒ´ÒÇ) ¶Ù¡àÃÕÂ¡ÇèÒà»ç¹´ÒÇáËè§·éÍ§·ÐàÅ à¾ÃÒÐÁÕÃÙ»ÃèÒ§¤ÅéÒÂ´ÒÇ",
+	"Category": "Fish",
+	"Edibility": -20,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 150,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		/*gift tastes go here*/
+	},
+	"NameLocalization":
+	{
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		/*to be added in*/
+	},
+	"DisableWithMod": "MoreFish"
+}

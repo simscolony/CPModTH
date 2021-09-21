@@ -1,0 +1,22 @@
+{
+	"Name": "Minnow",
+	"Description": "(»ÅÒ«ÔÇ) »ÅÒ·ÕèËÒä´é§èÒÂÁÒ¡æ µÑÇË¹Öè§",
+	"Category": "Fish",
+	"Edibility": 1,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 20,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		/*gift tastes go here*/
+	},
+	"NameLocalization":
+	{
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		/*to be added in*/
+	},
+}

@@ -1,0 +1,11 @@
+﻿{
+	"Name": "[CP] Raised Garden Beds Translation: Thai",
+	"Author": "ELL",
+	"Version": "1.0.2",
+	"Description": "Translation pack for Raised Garden Beds.",
+	"UniqueID": "ELL.RaisedGardenBeds.Translation.Thai.CP",
+	"UpdateKeys": [ "Nexus:????" ],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}

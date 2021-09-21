@@ -1,0 +1,26 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_18.000": "ħ¹׉Ëɩ˵Í§ä» ËÒȤ³ËÁÍ˴ÇÂ˕Ð á˅ºÍ¡ä̇àÅÂ˗Ò Ëɩäˑ¡ĥÇËÃÍ¡!",
+        "winter_15.001": "ËɩËħ§˗ÒËɩâµ¾Íч¨Ðä˴ɤ âªΗȤ³¹Ò§àǷÍ¡Ī¡Ƨ...$s",
+        "winter_18.001": "Ȥ³ËÁÍÎÒΓƷΒ¤Ð ã˪ĭ¹׉ã̋ËɩɤËˉÍÂ ä˴äËÁ¤Ð?",
+        "summer.000": "1... 2... 3... 4... ¤ҵ¹·ÐàÅÁÒá̅Ç! *Ť¡Ą¡*$h",
+        "winter_15.000": "1... 2... 3... 4... äˑ¹Ð! ËɩŇÒ¾ÅÒ´ƽ¡á̅Ç",
+        "spring.000": "1... 2... 3... 4... äˑ¹Ð! ËɩŇÒ¾ÅÒ´ƽ¡á̅Ç"
+    }
+}

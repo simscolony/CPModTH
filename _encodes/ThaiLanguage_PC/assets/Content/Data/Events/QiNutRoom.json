@@ -1,0 +1,21 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "10040609": "clubloop/7 4/farmer 7 8 0 MrQi 7 4 0/skippable/move farmer 0 -2 0/pause 3000/speak MrQi \"áËÁ áËÁ áËÁ... ɤƊ ã¤ÃËÒ·Ò§àˢÒÁÒ ̋Í§ζÇĥº¢Í§ĉ¹ä˴\"/pause 1000/faceDirection MrQi 1 true/pause 100/faceDirection MrQi 2/pause 1000/speak MrQi \"ĉ¹»ÃÐėºã¨¨ƃ§æ#$b#ǖ§à¸Í¨Ð˵Í§ã˪ÇÍÅę· áʴàƮÂ§àÈÉ˚Ç¹àƤÂÇ ʁàˢÒǖ§à¡ÒÐä˴ ȷ¡«Í¡ȷ¡ɁÁá̅Çá˷æ á˅à¸ÍʁĢ§ǔ§Ĕ¹ ÁÒä˴ä¡Å¡˗ÒԹ¹#$b#¤ÇÒÁ˵Í§¡ÒÃ ч¨ÐˌÒ¹»ÃÐɥĥºщ¢Í§à¸Í áʂ§á¡˓§ÁÒ¡àƺÂ¨¹ à¸ÍŇÒÍÐäÃчġ¹ àËȉÍáÅÐյÒ àҮÍ¨Ðä˴àˢÒÁÒˢÒ§ã¹#$b#áÃ§ĂºԹ¹ι¹áËÅÐ чŇÒã̋à¸Íáµ¡˅Ò§ à˨ÒËɩ à¸ÍƱ¾ĥ§чžàÈÉ\"/pause 1000/faceDirection MrQi 3 true/pause 100/faceDirection MrQi 0/pause 500/speak MrQi \"ǖ§Í˒Ò§Թ¹...#$b#à¸Í¤§äˑŤ´˗Ò º··´ÊÍºġ¹¨Ð¨ºÅ§µÃ§׉ ãʺՁÂ?#$b#äˑ... ˞Ò ˞Ò ˞Ò.. ĭ¹ч¨ƃ§á̅Ç º··´ÊÍº ġ¹àО§àУÁ˵¹˅Ò§ËÒ¡\"/faceDirection MrQi 3 true/pause 40/faceDirection MrQi 2/pause 1000/faceDirection MrQi 3/speak MrQi \"˫ÒÂȑÍ¢Í§à¸Í à¸Í¨Ð¾º¡ÃÐ´Ò¹ áÅÐàË˕ÒâÍ¡ÒÊ ĭ¹ˉÒÊ¹ã¨Т§ę¡#$b#º··´ÊÍºàË˕Ò׉ чĉ¹ÍÍ¡áººÁÒ àҮÍà¸Íâ´Âà©¾ÒÐ ¨Ð¼ĥ¡à¸Íä» Ɋ´ƒ´ĸÒā´¢Í§à¸Í àÅÂƧàƤÂÇ\"/faceDirection MrQi 2/speak MrQi \"á˅·˗Ò ˶Òà¸ÍˌÒ¹º··´ÊÍº¢Í§ĉ¹ ä˴©ɅÂá̅Ç˕Ðʁ à¸Í¨Ðä˴àʛ¹à˨Ò¢Í§ àŧ¹ÊȡÅɊ´žàÈÉ... чĉ¹àƳÂ¡˗Ò 'Qi Gems'\"/pause 400/speak MrQi \"áʴÍ˒Ò àÍÒġ¹ã˚»Ò¡˕Ð à˨ÒËɩ... ġ¹àʕÁä»˴ÇÂ ÊÒÃāÁġ¹µģ§ƺˉÐ ǫ ǫ ǫ...\"/emote farmer 28/pause 500/faceDirection MrQi 1/speak MrQi \"à¸ÍÊÒÁÒÃ¶ àÍÒ Qi Gems àË˕Ò׉ ä»áÅ¡¢Í§ÃÒ§ħÅËÒÂÒ¡ áÅÐ·Ã§¾ĥ§ä˴ чà¤ҳÍ§˴Ò¹¢ÇÒȑÍ¢Í§à¸Í\"/pause 1000/faceDirection MrQi 2/speak MrQi \"ˉÒÊ¹ã¨ãʺՁÂ˕Ð?#$b#ãʺá̅Ç... ĉ¹ړǪ¡ä˴ ˗Ò¤¹áººà¸Í¨Ð˵Í§ªÍº ÁÒ¡æ ˴ÇÂ...\"/pause 400/faceDirection MrQi 1 true/pause 50/faceDirection MrQi 0/pause 500/speak MrQi \"àÍÒ˕Ð ԧ¹ĉ¹¤§˵Í§¢ÍĕÇʱÍ¹... ĉ¹ƱȸÃÐŚÒĄ­ ч˵Í§ä»Ĉ´¡ÒÃˉÐ\"/pause 2000/end"
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"Name": "Joja Berry Machine",
+	"Product": "Joja Berry",
+	"SeedName": "Joja Berry Starter",
+	"SeedDescription": "(à¤Ã×èÍ§¼ÅÔµ¼Åâ¨¨éÒàºÍÃìÃÕè) »ÅÙ¡à¨éÒÊÔè§¹Õéä´éã¹Ä´ÙãºäÁé¼ÅÔ, Ä´ÙÃéÍ¹ ËÃ×ÍÄ´ÙãºäÁéÃèÇ§ ãªéàÇÅÒ 24 ÇÑ¹ã¹¡ÒÃâµàµçÁ·Õè áÅÐ¨ÐãËé¼Å¼ÅÔµµèÍà¹×èÍ§ äÁèÊÒÁÒÃ¶à´Ô¹·ÐÅØà¤Ã×èÍ§¼ÅÔµä´é ¼Å¼ÅÔµ¨Ð¾ÃéÍÁà¡çºà¡ÕèÂÇ àÁ×èÍä¿ÊÕá´§µÔ´º¹à¤Ã×èÍ§",
+	"Type": "Fruit",
+	"CropType": "Normal",
+	"Seasons": ["spring", "summer", "fall"],
+	"Phases": [6,6,6,6,6],
+	"RegrowthPhase": 4,
+	"HarvestWithScythe": false,
+	"TrellisCrop": true,
+	"Bonus": {
+		"MinimumPerHarvest": 1,
+		"MaximumPerHarvest": 1,
+		"MaxIncreasePerFarmLevel": 5,
+		"ExtraChance": 0.15,
+	},
+	"SeedPurchasePrice": 1000,
+	"SeedPurchaseFrom": "Zoey",
+	"SeedPurchaseRequirements": ["e 5553210"]
+}

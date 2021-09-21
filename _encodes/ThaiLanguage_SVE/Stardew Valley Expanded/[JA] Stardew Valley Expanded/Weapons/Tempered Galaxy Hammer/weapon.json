@@ -1,0 +1,24 @@
+{
+	"Name": "Tempered Galaxy Hammer",
+	"Description": "(¤éÍ¹¡ÒáÅ¤«ÕèÊØ´á¡Ãè§) ãËé¾ÅÑ§áËè§¨Ñ¡ÃÇÒÅäËÅ¼èÒ¹µÑÇ¤Ø³ âÍÇÇ..",
+	"Type": "club",
+	"MinimumDamage": 80,
+	"MaximumDamage": 135,
+	"Knockback": 2.5,
+	"Speed": 1,
+	"Accuracy": 100,
+	"Defense": 30,
+	"MineDropVar": 0,
+	"MineDropMinimumLevel": -1,
+	"ExtraSwingArea": -1,
+	"CritChance": 0,
+	"CritMultiplier": 3,
+	"NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}

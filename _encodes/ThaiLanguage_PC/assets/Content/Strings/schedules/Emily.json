@@ -1,0 +1,36 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "à¤ҳÍ§·Í˼Òщġ¹ƤĈ§àÅÂ¹Ð àËȑÍ¹ÍԒã¹ÊÇÃÃʹàÅÂ˕Ð",
+        "marriage_Mon.002": "āÊ ɤ¨ÐƱě­ËÒµÅÍ´àÇÅÒàÅÂ¹Ð àÇÅÒĉ¹äˑÍԒ¤ÍÂʺÇÂ Ĉ´¡ÒÃàҳÍ§˅Ò§æ àщÂ",
+        "winter_11.000": "ËÅÒÂæ ¤¹чщ ʁÁÒµÃÇ¨Ɋ¢ÀÒ¾˓Ò§¡ÒÂ »ÃÐĸÒƫā¹Է§Թ¹áËÅÐ",
+        "marriage_Fri.001": "ĉ¹ÁÒµÃ§׉ à¾ÃÒÐ¡Х¹¼Åä́ġ¹¾ÒÁÒˉÐ",
+        "winter_11.001": "ËÁÍ¤Ð ĉ¹¢ÍÍÍ¡ä»ģ¡ÉÒ ˴ÇÂƇƨ¸ÃÃÁªÒŵä˴ՁÂ ˶Òġ¹àʛ¹ä»ä˴˝Ð¹Ð",
+        "marriage_Mon.001": "ħ¹׉ĉ¹¢Í ä»àŴ¹ÍÍ¡ıÒĥ§¡ÒÂ¹Ð µÍ¹׉àËȑÍ¹¢Ò¢Í§ĉ¹ ġ¹àУÁ¨Ð˝Í¹»Ç¡àƫÂ¡ ä»ËÁ´á̅Ç",
+        "marriage_Fri.000": "ĉ¹áʴÁÒɤ¹Ò§àǷÍ¡ˉÐ",
+        "marriage_Mon.000": "ġ¹Ƥ¹Ð чä˴¡ĥºÁÒàђÂÁ˺Ò¹àʱÒ Ëĥ§¨Ò¡ч̂ÒÂÍÍ¡ä»ˉÐ ˺Ò¹Ëĥ§׉ àʕÁä»˴ÇÂ¤ÇÒÁ·Ã§ĸÒƤæ àÂÍÐáÂÐàÅÂ˕Ð",
+        "marriage_Fri.002": "Ǵ¹ħ¹Ɉ¡Γщġ¹ӧ¹ÇÒÂÁÒ¡æ àÅÂ˕Ð ĉ¹àÅÂ¨Ð˵Í§ÁÒʺÇÂ§Ò¹ Ź´ËˉÍÂ á˅ġ¹ʁÊȹ¡Ƥ¹Ð!$h",
+        "winter_15.000": "ĉ¹˗Òĉ¹ªÍºàȓÍŕÒ׉¹Ð ƺàȓÍġ¹ɤƤÁÒ¡æ àÅÂ!",
+        "Sandy_Birthday_Greeting": "Ëħ´Ƥ á«¹ׄ! ĉ¹Ʊ¢Í§¢ħ­¨Ðã̋à¸Í ĉ¹Ëħ§˗Òà¸Í¨ÐªÍºġ¹¹Ð!$h",
+        "Sandy_Birthday_Hangout": "ĉ¹Ƥã¨чä˴Ëɂ´§Ò¹Ī¡ħ¹!$h#$e#ĉ¹ړǪ¡¾Íã¨",
+        "Sandy_Birthday_Lake": "֟ÇÇ... щġ¹̃Í¹¨ƃ§æ!#$e#ɤàËȑÍ¹˗Ò¨Ðàʛ¹ħ¹чƤ ч¨Ðä»à˕¹թÒ#$e#чι¹ˉÒ¨ÐŇÒã̋ړǪ¡Ƥ áÅÐàʢ¹ÊºÒÂ$h",
+        "Sandy_Birthday_Bones": "à¸ÍàҚÍã¹Ê¶Ò¹ч׉ՁÂ?#$e#щġ¹ˉÒžÈÇ§ÁÒ¡...",
+        "Sandy_Birthday_Camel": "ĉ¹ªÍºч¨ÐÍԒã¡̅æ¾Ç¡ĪµΗ#$e#âÅ¡׉àʕÁä»˴ÇÂƇ­­Ò³ áÅÐàÇ·Á¹µΓ",
+        "Sandy_Birthday_Bye": "ι¹ġ¹Êȹ¡ÁÒ¡!#$b#ĉ¹ÍÂÒ¡¨Ð¡ĥºÁÒ ã¹àʣÇæ׉ƽ¡!$h"
+    }
+}

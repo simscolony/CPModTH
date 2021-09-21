@@ -1,0 +1,26 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_18.000": "ړǪ¡˗Ò Ëɩá¨Ê ɤ¨ÐªÍºä»ËÒȤ³ËÁÍÁÒ¡æ àÅÂ¹Ð ʺÒ§àʛ¹àʔ¡чá»Å¡¤¹¨ƃ§æ",
+        "fall_18.000": "à˝Í... Ȥ³ËÁÍÎÒΓƷΒ? ¨ÐäˑƱã¤ÃړàҳÍ§׉áˉæ ãʺՁÂ¤Ð?",
+        "Tue.000": "ħ¹׉ĉ¹˵Í§Ëĥºĝ¹Ƥáˉæ àÅÂ$h",
+        "winter_18.001": "àÃÒÁÒчщà¾ÃÒÐƱę´āº Ȥ³ËÁÍµÍ¹ˊÒÂâÁ§¤҃§ˉÐ",
+        "winter_18.002": "à˝Í... ËÁÍÎÒΓƷΒ¤Ð? ˶Òàš´Ȥ³µÃÇ¨à¸Í àÊʣ¨àƳÂº̃ÍÂá̅Ç àÃÒ¢ÍÍÁ֢ÁÊÍ§ĭ¹ä˴ՁÂ¤Ð?",
+        "winter_16.000": "â̍... ˼ÒäËÁƺˑÇ§Ԫ¹Ƥáºº׉ˉÐ à¸ÍËÒ؛Íġ¹ч̃Ò¹â¨˨Ò äˑä˴ËÃÍ¡¹Ð"
+    }
+}

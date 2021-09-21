@@ -1,0 +1,14 @@
+{
+	"Name": "Baby Lunaloo",
+	"Description": "(àººÕé ÅÙ¹ÒÅÙ) áÁ§¡ÃÐ¾ÃØ§àÃ×Í§áÊ§ ËÃ×Í·ÕèÃÙé¨Ñ¡¡Ñ¹ã¹¹ÒÁ ¡ÃÐ¾ÃØ¹áÊ§¨Ñ¹·Ãì µÑÇ¨ÔëÇÊØ´æ áÅÐÂÑ§àµÔºâµµèÍä»ä´éÍÕ¡àÂÍÐ",
+	"Category": "Fish",
+	"Edibility": -10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 45,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Like": ["Wizard", "Willy"],
+	},
+}

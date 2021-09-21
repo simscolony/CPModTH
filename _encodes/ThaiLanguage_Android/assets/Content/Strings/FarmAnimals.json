@@ -1,0 +1,36 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "TryingToSleep": "{0} ıÒĥ§¾ÂÒÂÒÁ¹Í¹",
+        "MoodMessage_NewHome_Baby_Male": "{0} ÂÑ§¤§à§ÍÐ§ÐàÅç¡¹éÍÂ¨Ò¡¡ÒÃà¡Ô´ à¢ÒÍÂÒ¡ÃÙéà¡ÕèÂÇ¡ÑºâÅ¡ãËÁè¢Í§à¢Ò",
+        "MoodMessage_NewHome_Baby_Female": "{0} ÂÑ§¤§à§ÍÐ§ÐàÅç¡¹éÍÂ¨Ò¡¡ÒÃà¡Ô´ à¸ÍÍÂÒ¡ÃÙéà¡ÕèÂÇ¡ÑºâÅ¡ãËÁè¢Í§à¸Í",
+        "MoodMessage_NewHome_Adult_Male_1": "{0} ´ÙàËÁ×Í¹ÇèÒ¨ÐÍÂÒ¡ÃÙéÍÂÒ¡àËç¹ áµèÃÐÁÑ´ÃÐÇÑ§àÅç¡¹éÍÂ à¢ÒàÃÔèÁªÔ¹¡ÑººéÒ¹ãËÁè",
+        "MoodMessage_NewHome_Adult_Male_2": "{0} ´ÙàËÁ×Í¹ÇèÒ¨ÐÍÂÒ¡ÃÙéÍÂÒ¡àËç¹ áµèÃÐÁÑ´ÃÐÇÑ§àÅç¡¹éÍÂ ÁÑ¹à»ç¹âÅ¡ãËÁè·Õèá»Å¡",
+        "MoodMessage_NewHome_Adult_Female_1": "{0} ´ÙàËÁ×Í¹ÇèÒ¨ÐÍÂÒ¡ÃÙéÍÂÒ¡àËç¹ áµèÃÐÁÑ´ÃÐÇÑ§àÅç¡¹éÍÂ à¸ÍàÃÔèÁªÔ¹¡ÑººéÒ¹ãËÁè",
+        "MoodMessage_NewHome_Adult_Female_2": "{0} ´ÙàËÁ×Í¹ÇèÒ¨ÐÍÂÒ¡ÃÙéÍÂÒ¡àËç¹ áµèÃÐÁÑ´ÃÐÇÑ§àÅç¡¹éÍÂ ÁÑ¹à»ç¹âÅ¡ãËÁè·Õèá»Å¡",
+        "MoodMessage_LeftOutsideAtNight_Male": "{0} ¶Ù¡·Ôé§äÇé¢éÒ§¹Í¡â´Â·Õè»ÃÐµÙ»Ô´àÁ×èÍ¤×¹¹Õé... à¢ÒäÁè¾Íã¨àÅÂ",
+        "MoodMessage_LeftOutsideAtNight_Female": "{0} ¶Ù¡·Ôé§äÇé¢éÒ§¹Í¡â´Â·Õè»ÃÐµÙ»Ô´àÁ×èÍ¤×¹¹Õé... à¸ÍäÁè¾Íã¨àÅÂ",
+        "MoodMessage_DisturbedByDog_Male": "{0} ´Ùà¤ÃÕÂ´áÅÐËÇÒ´ÃÐáÇ§ã¹ÇÑ¹¹Õé ´ÙàËÁ×Í¹ÇèÒ¨ÐÁÕàÃ×èÍ§äÁè´Õà¡Ô´¢Öé¹àÁ×èÍ¤×¹¹Õé",
+        "MoodMessage_DisturbedByDog_Female": "{0} ´Ùà¤ÃÕÂ´áÅÐËÇÒ´ÃÐáÇ§ã¹ÇÑ¹¹Õé ´ÙàËÁ×Í¹ÇèÒ¨ÐÁÕàÃ×èÍ§äÁè´Õà¡Ô´¢Öé¹àÁ×èÍ¤×¹¹Õé",
+        "MoodMessage_Hungry1": "{0} ´ÙäÁè¾Íã¨",
+        "MoodMessage_Hungry2": "{0} ´Ù¼ÍÁä»Ë¹èÍÂ",
+        "MoodMessage_Sad": "{0} ´ÙàÈÃéÒæ",
+        "MoodMessage_Fine": "{0} ´ÙÊºÒÂ´Õ",
+        "MoodMessage_Happy": "{0} ÇÑ¹¹Õé´ÙÁÕ¤ÇÒÁÊØ¢¨ÃÔ§æ!"
+    }
+}

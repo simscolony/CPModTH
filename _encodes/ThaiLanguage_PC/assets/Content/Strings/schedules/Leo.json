@@ -1,0 +1,25 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_15.000": "¼ÁªÍºÁÍ§ä»чáÊ§ä¿#$b#ġ¹ŇÒã̋¼ÁǙ¡ǖ§ºÒ§Í˒Ò§ ч¹Ò¹ÁÒá̅Ç...$s",
+        "winter.000": "ġ¹¤§¨Ð˵Í§ã˪àÇÅÒċ¡Ğ¡ á˅¼ÁıÒĥ§¾ÂÒÂÒÁч¨Ð ˝Ò¹Ëę§ȚÍȷ¡à˕Áã¹̋Í§ÊɁ´#$b#¼ÁĢ§˵Í§µÒÁã¤Ãæ ã̋ė¹ã¹ƽ¡ËÅÒÂæ Í˒Ò§...$s",
+        "school": "µÍ¹׉Ģ§ȤÂ˴ÇÂäˑä˴¹Ð @ ¼ÁıÒĥ§Ե§ã¨ÁÒ¡æ...",
+        "dinner": "â̍ Ȥ³ƋÇǣà»˕Ò? ǴÍ˗Ò... ¼Áš¹ÍÒËÒÃä»à¡וÂ§á̅Ç...$u",
+        "tent": "¾Ç¡àÃÒäˑģ§àƑÂ¨½¹ËÃÍ¡¹Ð á˅ġ¹ʁƤÍԒá̅Çч ºÒ§¤Ճ§чщ¨Ðá̋§ˉÐ"
+    }
+}

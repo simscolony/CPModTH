@@ -10,8 +10,8 @@
                 "Sat8": "ทำฟาร์มดูน่าสนุกดีนะ อยากลองบ้างจัง$h",
                 "Sun8": "หากเธอพบเจอไม้แปลกๆ ที่น่าสนใจ เอามาให้กับฉันได้นะ#$e#มันคงวิเศษมากถ้าเธอมอบให้ฉัน",
                 "event_sculpt3": null,
-                "NPC.cs.3980": "เอ่อ... คือว่า... เธออยากอยู่ด้วยกันแบบ {{RelationshipLabel}} มั้ย?#$b#มีบทกวีบทหนึ่งที่เล่าเกี่ยวกับ ศิลปินผู้สันโดษ... ฉันชอบนะ! แต่ชีวิตที่มีเธอน่าจะเติมเต็ม ฉันได้มากกว่า$h#$b#ที่หุบเขาแห่งนี้ เรามีพิธีทำพันธสัญญา ที่เหมือนกับพิธีแต่งงาน ฉันจะจัดการทุกอย่างเอง เราจะทำพิธีด้วยกันในอีก 3 วัน ตกลงมั้ย?$n",
-                "NPC.cs.3962": "ฉันอยากจะเป็นเพื่อนซี้ กับเธอแน่นอนอยู่แล้ว!$h#$e#ฉันอาจทำที่ระลึกด้วยกลีบ ดอกไม้แห้งจากช่อดอกไม้ จะได้รำลึกถึงช่วงเวลานี้ ด้วยงานศิลปะ...",
+                "NPC.cs.3980": "เอ่อ... คือว่า... เธออยากอยู่ด้วยกันแบบ {{RelationshipLabel}} มั้ย?#$b#มีบทกวีบทหนึ่งที่เล่าเกี่ยวกับ ศิลปินผู้สันโดษ... ฉันชอบนะ! แต่ชีวิตที่มีเธอน่าจะเติมเต็ม ฉันได้มากกว่า$h#$b#ที่หุบเขาแห่งนี้ เรามีพิธีผูกสัญญา ที่เหมือนกับพิธีแต่งงาน ฉันจะจัดการทุกอย่างเอง เราจะทำพิธีด้วยกันในอีก 3 วัน ตกลงมั้ย?$n",
+                "NPC.cs.3962": "ฉันอยากจะเป็นเพื่อนสนิท กับเธอแน่นอนอยู่แล้ว!$h#$e#ฉันอาจทำที่ระลึกด้วยกลีบ ดอกไม้แห้งจากช่อดอกไม้ จะได้รำลึกถึงช่วงเวลานี้ ด้วยงานศิลปะ...",
                 "NPC.cs.3963": "เธออยากให้เราทำความรู้จัก กันมากกว่านี้ก่อนงั้นเหรอ? ฉันนึกว่าเรารู้สึกแบบเดียวกัน ซะอีก#$e#สัญญานะว่าเธอจะทนฉันได้ แม้ว่าทักษะการเข้าสังคม ของฉันจะขึ้นสนิมเล็กน้อย$h",
                 "NPC.cs.3985": "ฉันได้ยินมาว่าเธอได้ให้ ของขวัญกับใครบางคนในวันนี้#$e#เธอเป็นเพื่อนที่ใจดีมาก!$h",
                 "NPC.cs.4425": "ชีวิตฉันเปลี่ยนไปอย่างสิ้นเชิง ตั้งแต่ที่พวกเราได้เป็น {{RelationshipLabel}} ...$s",
@@ -25,11 +25,11 @@
                 "NPC.cs.4514": "{{TermofEndearment}}",
                 "NPC.cs.4515": "{{TermofEndearment}}",
                 "NPC.cs.4516": "{{TermofEndearment}}",
-                "NPC.cs.4517": "Friend",
-                "NPC.cs.4518": "Friend",
-                "NPC.cs.4519": "Huckleberry",
-                "NPC.cs.4522": "Huckleberry",
-                "NPC.cs.4523": "Huckleberry",
+                "NPC.cs.4517": "เพื่อน",
+                "NPC.cs.4518": "เพื่อน",
+                "NPC.cs.4519": "ฮัคเคิลเบอร์รี่",
+                "NPC.cs.4522": "ฮัคเคิลเบอร์รี่",
+                "NPC.cs.4523": "ฮัคเคิลเบอร์รี่",
                 "Event.cs.1736": "$q -1 null#ใช่หรอ?#$r -1 0 danceAsk#(Ask Leah to be your dance partner)#$r -1 0 null#ช่างเถอะ...",
             },
         },
@@ -352,22 +352,22 @@
             "Target": "Characters/Dialogue/Leah",
             "Entries":
             {
-                "Mon8": "Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?",
-                "Tue10": "You don't think any less of me because I don't make a lot of money, do you?$s#$e#In the city, it sometimes felt like that was all anyone cared about. Sometimes I just need a little reassurance.",
-                "Wed10": "Haha, yep. Same hairstyle today as always.#$e#You know you like it.$h",
-                "Thu10": "Oh, @! Hi! Did your morning chores go okay?#$e#I hope I can help you sometime.$h",
-                "Fri8": "If you ever find any interesting looking driftwood, I could use it.#$e#It would be special that you gave it to me.",
-                "Sat10": "Hey friend.$l#$e#Wanna come visit me at the pond tomorrow in the late afternoon? I'll be there if it's not raining.#$e#Or you can just find me whenever.",
-                "Sun10": "Hey, @. I was just thinking about you.$l#$e#So, tell me about your week.$h",
-                "summer_Thu10": "Why yes, I do like long walks on the beach. How perceptive of you to ask!$h",
-                "summer_Sat10": "Hey, @. You're just the one who was missing from my day.$h#$e#C'mere, I need a hug.",
-                "summer_Sun10": "Oh, @! Hi! Did your morning chores go okay?#$e#I hope I can help you sometime.",
-                "fall_Mon10": "I was never crazy about starchy foods, but all Kel ever wanted to eat was 'breakfast for dinner' and I'd be the one to cook.$s#$b#I got so sick of those foods after a while.$s#$e#Sorry, I don't want to dump this on you. Let's change the subject.",
-                "fall_Sun10": "Hey, @. I was just thinking about you.$l#$e#So, tell me about your week.$h",
-                "winter_Tue8": "Farming sounds so fun. I want to try it, someday.$h",
-                "winter_Tue10": "Hey, I'm freezing. Give me a hug?$h",
-                "winter_Thu10": "Snow on the ground outside, someone I love by my side... Yeah, this is pretty nice.$l#$e#I hope that's not presumptuous of me. I know not everyone uses that word with friends, but it's how I feel.",
-                "winter_Fri10": "Hey. Whaddaya say we get a little tipsy together this evening?$h#$e#I do want to be asleep by around midnight, though.",
+                "Mon8": "ว่าไง @! ฉันกำลังคิดเรื่องเธอ และฟาร์มของเธอ อยู่พอดีเลย#$e#มันจะรู้สึกดีขนาดไหนน๊า ถ้าได้เก็บเกี่ยวพืชผล จำนวนเยอะๆ ขนาดนั้น$h#$e#คงจะดีไม่น้อย ถ้ามีคนมาช่วยใช่มั้ย?",
+                "Tue10": "ที่เธอเริ่มไม่สนใจฉัน  เพราะฉันหาเงิน มาได้น้อยใช่มั้ย?$s#$e#บางครั้งในเมืองนี้ ก็รู้สึกเหมือนเป็นคนที่ ทุกคนสนใจ แต่บางครั้ง ก็อยากให้มีแค่เธอที่สนใจ ซักนิดก็ยังดี",
+                "Wed10": "ฮิฮิ ผมทรงนี้ก็ยังดูดี เหมือนเดิมใช่มั้ยล่ะ#$e#รู้นะว่าชอบน่ะ$h",
+                "Thu10": "โอ้ว @! ว่าไง! เธอทำงานบ้านในตอนเช้า เสร็จเรียบร้อยดีแล้วใช่มั้ย?#$e#หวังว่าฉันจะช่วยอะไรเธอ ได้บ้างนะ$h",
+                "Fri8": "หากเธอพบเจอไม้แปลกๆ ที่น่าสนใจ เอามาให้กับฉันได้นะ#$e#มันคงวิเศษมาก ถ้าเธอมอบให้ฉัน",
+                "Sat10": "เฟื่อน ไม่ใช่สิ เฮ้ เพื่อน$l#$e#พรุ่งนี้มาหาฉันที่สระน้ำ ช่วงบ่ายคล้อยได้มั้ย? ฉันจะไปที่นั่นถ้าฝนไม่ตกน่ะ#$e#หรือจะมาหาฉันในเวลาอื่น ก็ได้",
+                "Sun10": "เฮ้ @ ฉันกำลังคิดเรื่องเธอ อยู่พอดีเลย$l#$e#เพราะงั้นช่วยเล่าเรื่อง ที่เกิดขึ้นในสัปดาห์นี้ของเธอ ให้ฟังหน่อยสิ$h",
+                "summer_Thu10": "อ้าว ใช่สิ ฉันชอบเดินเล่นที่ชายหาด เธอนี่ช่างสังเกตดีนะ!$h",
+                "summer_Sat10": "เฮ้ @ วันนี้ทั้งวัน ฉันไม่เจอเธอเลย$h#$e#มาให้ฉันกอดทีสิ",
+                "summer_Sun10": "โอ้ว @! ว่าไง! เธอทำงานบ้านในตอนเช้า เสร็จเรียบร้อยดีแล้วใช่มั้ย?#$e#หวังว่าฉันจะช่วยอะไรเธอ ได้บ้างนะ",
+                "fall_Mon10": "ฉันไม่เคยคลั่งไคล้อาหาร จำพวกแป้ง แต่เคลเขา ชอบกินอาหารพวกนั้น ตั้งแต่มื้อเช้าไปจนถึงมื้อเย็น และฉันเป็นคนเดียวที่่ เป็นคนทำอาหาร$s#$b#หลังจากนั้น ฉันก็เบื่ออาหารพวกนั้น$s#$e#ขอโทษนะ ที่ต้องให้เธอมาฟังเรื่องแบบนี้ มาเปลี่ยนเรื่องกันเถอะ",
+                "fall_Sun10": "เฮ้ @ ฉันกำลังคิดเรื่องเธอ อยู่พอดีเลย$l#$e#เพราะงั้นช่วยเล่าเรื่อง ที่เกิดขึ้นในสัปดาห์นี้ของเธอ ให้ฟังหน่อยสิ$h",
+                "winter_Tue8": "ทำฟาร์มดูน่าสนุกดีนะ อยากลองบ้างจัง$h",
+                "winter_Tue10": "ฟู่ว ฉันหนาวมากเลย ช่วยกอดฉันหน่อยได้มั้ย?$h",
+                "winter_Thu10": "มีคนรักอยู่เคียงข้าง ในวันที่มีหิมะตกอยู่ข้างนอก แบบนี้… ก็ดีเหมือนกันนะ$l#$e#ฉันไม่ได้คิดทะลึ่งหรืออะไรนะ ฉันรู้ว่าไม่ใช่ทุกคนที่จะพูด แบบนั้นกับเพื่อน แต่จะให้ฉัน ทำยังไงกับความรู้สึกนี้ล่ะ",
+                "winter_Fri10": "เฮ้ ไหนบอกว่าเย็นนี้ จะดื่มด้วยกันซักหน่อยไง?$h#$e#แต่ไม่ว่ายังไงฉันก็ อยากนอนก่อนเที่ยงคืนล่ะนะ",
             },
             "When":
             {
@@ -380,22 +380,22 @@
             "Target": "Characters/Dialogue/Leah",
             "Entries":
             {
-                "Mon8": "Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?",
-                "Tue10": "You don't think any less of me because I don't make a lot of money, do you?$s#$e#In the city, it sometimes felt like that was all anyone cared about. Sometimes I just need a little reassurance.",
-                "Wed10": "Haha, yep. Same hairstyle today as always.#$e#You know you like it.$h",
-                "Thu10": "Oh, @! Hi! Did your morning chores go okay?#$e#I hope I can help you sometime.$h",
-                "Fri8": "If you ever find any interesting looking driftwood, I could use it.#$e#It would be special that you gave it to me.",
-                "Sat10": "Hey friend.$l#$e#Wanna come visit me at the pond tomorrow in the late afternoon? I'll be there if it's not raining.#$e#Or you can just find me whenever.",
-                "Sun10": "Hey, @. I was just thinking about you.#$e#So, tell me about your week.$h",
-                "summer_Thu10": "Why yes, I do like long walks on the beach. How perceptive of you to ask!$h",
-                "summer_Sat10": "Hey, @. You're just the one who was missing from my day.$h#$e#C'mere, I need a hug.",
-                "summer_Sun10": "Oh, @! Hi! Did your morning chores go okay?#$e#I hope I can help you sometime.",
-                "fall_Mon10": "I was never crazy about starchy foods, but all Kel ever wanted to eat was 'breakfast for dinner' and I'd be the one to cook.$s#$b#I got so sick of those foods after a while.$s#$e#Sorry, I don't want to dump this on you. Let's change the subject.",
-                "fall_Sun10": "Hey, @. I was just thinking about you.#$e#So, tell me about your week.$h",
-                "winter_Tue8": "Farming sounds so fun. I want to try it, someday.$h",
-                "winter_Tue10": "Hey, I'm freezing. Give me a hug?$h",
-                "winter_Thu10": "Snow on the ground outside, someone I love by my side... Yeah, this is pretty nice.#$e#I hope that's not presumptuous of me. I know not everyone uses that word with friends, but it's how I feel.$u",
-                "winter_Fri10": "Hey. Whaddaya say we get a little tipsy together this evening?$h#$e#I do want to be asleep by around midnight, though.",
+                "Mon8": "ว่าไง @! ฉันกำลังคิดเรื่องเธอ และฟาร์มของเธอ อยู่พอดีเลย#$e#มันจะรู้สึกดีขนาดไหนน๊า ถ้าได้เก็บเกี่ยวพืชผล จำนวนเยอะๆ ขนาดนั้น$h#$e#คงจะดีไม่น้อย ถ้ามีคนมาช่วยใช่มั้ย?",
+                "Tue10": "ที่เธอเริ่มไม่สนใจฉัน  เพราะฉันหาเงิน มาได้น้อยใช่มั้ย?$s#$e#บางครั้งก็รู้สึกเหมือนเป็นคนที่ ทุกคนในเมืองนี้ให้ความสนใจ แต่บางครั้ง ก็อยากให้มีแค่เธอที่สนใจ ซักนิดก็ยังดี",
+                "Wed10": "ฮิฮิ ผมทรงนี้ก็ยังดูดี เหมือนเดิมใช่มั้ยล่ะ#$e#รู้นะว่าชอบน่ะ$h",
+                "Thu10": "โอ้ว @! ว่าไง! เธอทำงานบ้านในตอนเช้า เสร็จเรียบร้อยดีแล้วใช่มั้ย?#$e#หวังว่าฉันจะช่วยอะไรเธอ ได้บ้างนะ$h",
+                "Fri8": "หากเธอพบเจอไม้แปลกๆ ที่น่าสนใจ เอามาให้กับฉันได้นะ#$e#มันคงวิเศษมาก ถ้าเธอมอบให้ฉัน",
+                "Sat10": "เฟื่อน ไม่ใช่สิ เฮ้ เพื่อน$l#$e#พรุ่งนี้มาหาฉันที่สระน้ำ ช่วงบ่ายคล้อยได้มั้ย? ฉันจะไปที่นั่นถ้าฝนไม่ตกน่ะ#$e#หรือจะมาหาฉันในเวลาอื่น ก็ได้",
+                "Sun10": "เฮ้ @ ฉันกำลังคิดเรื่องเธอ อยู่พอดีเลย#$e#เพราะงั้นช่วยเล่าเรื่อง ที่เกิดขึ้นในสัปดาห์นี้ของเธอ ให้ฟังหน่อยสิ$h",
+                "summer_Thu10": "อ้าว ใช่สิ ฉันชอบเดินเล่นที่ชายหาด เธอนี่ช่างสังเกตดีนะ!$h",
+                "summer_Sat10": "เฮ้ @ วันนี้ทั้งวัน ฉันไม่เจอเธอเลย$h#$e#มาให้ฉันกอดทีสิ",
+                "summer_Sun10": "โอ้ว @! ว่าไง! เธอทำงานบ้านในตอนเช้า เสร็จเรียบร้อยดีแล้วใช่มั้ย?#$e#หวังว่าฉันจะช่วยอะไรเธอ ได้บ้างนะ",
+                "fall_Mon10": "ฉันไม่เคยคลั่งไคล้อาหาร จำพวกแป้ง แต่เคลเขา ชอบกินอาหารพวกนั้น ตั้งแต่มื้อเช้าไปจนถึงมื้อเย็น และฉันเป็นคนเดียวที่่ เป็นคนทำอาหาร$s#$b#หลังจากนั้น ฉันก็เบื่ออาหารพวกนั้น$s#$e#ขอโทษนะ ที่ต้องให้เธอมาฟังเรื่องแบบนี้ มาเปลี่ยนเรื่องกันเถอะ",
+                "fall_Sun10": "เฮ้ @ ฉันกำลังคิดเรื่องเธอ อยู่พอดีเลย#$e#เพราะงั้นช่วยเล่าเรื่อง ที่เกิดขึ้นในสัปดาห์นี้ของเธอ ให้ฟังหน่อยสิ$h",
+                "winter_Tue8": "ทำฟาร์มดูน่าสนุกดีนะ อยากลองบ้างจัง$h",
+                "winter_Tue10": "ฟู่ว ฉันหนาวมากเลย ช่วยกอดฉันหน่อยได้มั้ย?$h",
+                "winter_Thu10": "มีคนรักอยู่เคียงข้าง ในวันที่มีหิมะตกอยู่ข้างนอก แบบนี้… ก็ดีเหมือนกันนะ#$e#ฉันไม่ได้คิดทะลึ่งหรืออะไรนะ ฉันรู้ว่าไม่ใช่ทุกคนที่จะพูด แบบนั้นกับเพื่อน แต่จะให้ฉัน ทำยังไงกับความรู้สึกนี้ล่ะ$u",
+                "winter_Fri10": "เฮ้ ไหนบอกว่าเย็นนี้ จะดื่มด้วยกันซักหน่อยไง?$h#$e#แต่ไม่ว่ายังไงฉันก็ อยากนอนก่อนเที่ยงคืนล่ะนะ",
                 "summer_Sun8": "Question: What's better than a delicious fruit salad?#$b#Two fruit salads, with someone to share it with! [610]$h#$e#No, I insist. Eat up!$h",
                 "fall_Tue10": "I usually try to keep myself out of my art, and let it just exist for the sake of its own beauty, rather than myself.#$e#Sometimes, though, I can't help it. That sculpture I gave you would be one example.",
             },
@@ -410,12 +410,12 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Rainy_Night_2": "#$c .5#It's going to be relaxing to fall asleep on a night like this...#Welcome home, @. Come here and give me a hug.$l",
-                "Rainy_Night_Leah": "#$c .5#How was your day today? Muddy?#An old friend from the city commissioned me to do a painting for her. I almost finished it today.",
-                "Indoor_Night_3": "#$c .5#I never thought I'd receive a mermaid's pendant so soon after moving here! I'm happy about it, though.$l#Did you make any good memories today?",
-                "Outdoor_4": "Don't overwork yourself, @.#$e#$c .5#It's not as if we're starving, so there's no rush, right?#Make sure and take a break every now and then, or get something to eat.$h",
+                "Rainy_Night_2": "#$c .5#คืนแบบนี้แหละ หลับสบายที่สุด...#ยินดีต้อนรับกลับนะ @ มากอดให้หายคิดถึงหน่อยสิ$l",
+                "Rainy_Night_Leah": "#$c .5#เป็นไงบ้างวันนี้? ทำไมเนื้อตัวมอมแมมงั้นล่ะ?#เพื่อนเก่าฉันที่อยู่ในเมือง อยากให้ฉันวาดรูปให้น่ะ น่าจะเสร็จภายในวันนี้แหละ",
+                "Indoor_Night_3": "#$c .5#ฉันไม่เคยคิด เลยนะว่า จะได้สร้อยคอของนางเงือก เร็วขนาดนี้ ก็ฉันเพิ่ง ย้ายมานี่นะ แต่ฉันก็ดีใจนะ$l#วันนี้เธอได้สร้างความทรงจำ ดีๆไว้รึยัง?",
+                "Outdoor_4": "อย่าทำงานหักโหมมากล่ะ @#$e#$c .5#ที่ไม่รีบนี่ ไม่ใช่ว่าเรา ยังไม่ได้กินอะไรเลย ใช่มั้ย?#ต้องให้แน่ใจว่า เธอจะมีเวลาพัก บ้างเป็นบางครั้ง หรือ มีอะไรกินเติมกำลัง บ้างน่ะ$h",
                 "summer_8": null,
-                "winter_16": "Sometimes, it's tough to sell a piece I feel really proud of.$s#$e#I mean, if we're good on money, maybe I'll just... keep some of them?",
+                "winter_16": "บางครั้งก็ยากที่จะทำใจขาย ชิ้นงานที่ฉันภูมิใจกับมันสุดๆ$s#$e#เอ่อ ฉันหมายถึง ถ้าเรามีเงินเยอะแล้ว บางทีฉันจะเก็บมันไว้บ้าง ก็น่าจะดีนะ... ว่างั้นมั้ย?",
             },
             "When":
             {
@@ -428,12 +428,12 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Rainy_Night_2": "#$c .5#It's going to be relaxing to fall asleep on a night like this...#Welcome home, @. Come here and give me a hug.",
-                "Rainy_Night_Leah": "#$c .5#How was your day today? Muddy?#An old friend from the city commissioned me to do a painting for her. I almost finished it today.",
-                "Indoor_Night_3": "#$c .5#I never thought I'd receive a mermaid's pendant so soon after moving here! I'm happy about it, though.#Did you make any good memories today?",
-                "Outdoor_4": "Don't overwork yourself, @.#$e#$c .5#It's not as if we're starving, so there's no rush, right?#Make sure and take a break every now and then, or get something to eat.$h",
+                "Rainy_Night_2": "#$c .5#คืนแบบนี้แหละ หลับสบายที่สุด...#ยินดีต้อนรับกลับนะ @ มากอดให้หายคิดถึงหน่อยสิ",
+                "Rainy_Night_Leah": "#$c .5#เป็นไงบ้างวันนี้? ทำไมเนื้อตัวมอมแมมงั้นล่ะ?#เพื่อนเก่าฉันที่อยู่ในเมือง อยากให้ฉันวาดรูปให้น่ะ น่าจะเสร็จภายในวันนี้แหละ",
+                "Indoor_Night_3": "#$c .5#ฉันไม่เคยคิด เลยนะว่า จะได้สร้อยคอของนางเงือก เร็วขนาดนี้ ก็ฉันเพิ่ง ย้ายมานี่นะ แต่ฉันก็ดีใจนะ#วันนี้เธอได้สร้างความทรงจำ ดีๆไว้รึยัง?",
+                "Outdoor_4": "อย่าทำงานหักโหมมากล่ะ @#$e#$c .5#ที่ไม่รีบนี่ ไม่ใช่ว่าเรา ยังไม่ได้กินอะไรเลย ใช่มั้ย?#ต้องให้แน่ใจว่า เธอจะมีเวลาพัก บ้างเป็นบางครั้ง หรือ มีอะไรกินเติมกำลัง บ้างน่ะ$h",
                 "summer_8": null,
-                "winter_16": "Sometimes, it's tough to sell a piece I feel really proud of.$s#$e#I mean, if we're good on money, maybe I'll just... keep some of them?",
+                "winter_16": "บางครั้งก็ยากที่จะทำใจขาย ชิ้นงานที่ฉันภูมิใจกับมันสุดๆ$s#$e#เอ่อ ฉันหมายถึง ถ้าเรามีเงินเยอะแล้ว บางทีฉันจะเก็บมันไว้บ้าง ก็น่าจะดีนะ... ว่างั้นมั้ย?",
             },
             "When":
             {
@@ -446,8 +446,8 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Rainy_Night_4": "#$c .5#This is a good night to get under the covers and stay warm.#I missed you today. I'm glad you're home.",
-                "Indoor_Night_0": "#$c .5#Something about this time of night makes me thirsty.#Got some time to spend with me tonight? I've been missing you.",
+                "Rainy_Night_4": "#$c .5#ฝันดีนะ ห่มผ้าด้วย ตัวจะได้อุ่นๆ#คิดถึงเธอจังเลย ดีใจนะที่วันนี้เธออยู่บ้าน",
+                "Indoor_Night_0": "#$c .5#ไม่รู้อะไรทำให้ฉันกระหายน้ำ ตอนกลางคืน#คืนนี้อยู่กับฉันได้มั้ย? ฉันอยากให้เราใช้เวลา ด้วยกันบ้าง",
             },
             "When":
             {
@@ -460,7 +460,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueLeah",
             "Entries":
             {
-                "Rainy_Night_4": "#$c .5#This is a good night to get under the covers and stay warm.#I missed you today. We should... spend some time together tonight.$l",
+                "Rainy_Night_4": "#$c .5#ฝันดีนะ ห่มผ้าด้วย ตัวจะได้อุ่นๆ#ฉันคิดถึงเธอจังเลย คืนนี้… อยู่ด้วยกันกับฉันนะ$l",
             },
             "When":
             {
@@ -475,7 +475,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"Welcome back, @. Can you stand?$3\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"I was just cleaning the house when my most recent wooden sculpture suddenly cracked.$3#$b#If that wasn't a bad omen, I don't know what else it could've been. I got worried and came to find you.$2\"/pause 1000/speak Marlon \"Leah came to get me as soon as possible. I ventured into the mines to find you as requested.#$b#She was quite worried about you. You're blessed to have ended up sharing your life with someone so compassionate.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"Oh! Thanks... You don't have to make me feel better about staying behind. I just did what I had to do for my best friend.$4\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I observed. You did well to fetch me.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"So... Are you heading back home, @? I know you're tough, but I think you've earned your rest for today.#$b#If you want, you can even tell me what happened down there. It might take a bit of the lingering stress off both of us.$3#$b#And... who knows! I might be tempted to paint a scene of your epic battle in due time!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hey, welcome back! Good timing. I just finished adding filler to the sculpted piece that cracked earlier. It's not ideal, but it'll do.$c 0.7#I guess I do owe it, though, for prompting me to go to you. Fate really works in mysterious ways sometimes.$h#Now that I'm done with that, let's have a snack! It'll boost your energy after such a long day.[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}} ตื่นสิ!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"ยินดีต้อนรับกลับจ่ะ @ เธอพอจะยืนไหวมั้ย?$3\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"ฉันพึ่งทำความสะอาดบ้านเสร็จ แต่แล้วงานแกะสลักไม้ ที่ฉันพึ่งทำ อยู่ๆก็แตก$3#$b#ถ้านั่นไม่ใช่ลางร้าย ฉันก็ไม่รู้ว่าจะเป็นอะไรได้อีก ฉันรู้สึกเป็นห่วงก็เลย ออกมาตามหาเธอ$2\"/pause 1000/speak Marlon \"ลีอาดูเร่งรีบมากเพื่อมา ตามหาเจ้า ข้าเลยเข้าไปใน เหมืองทันที และตามหาเจ้า ตามที่ลีอาขอ#$b#เธอเป็นห่วงเจ้ามากนะ เจ้าคงมีความสุขที่ได้อยู่ กับคนที่เอาใจใส่เจ้าเป็นอย่างดี เลยสินะ\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"โอ้ว! ขอบคุณนะ... เธอไม่จำเป็นต้องตอบแทนฉันหรอก ฉันแค่ทำสิ่งที่ควรทำ เพื่อเพื่อนสนิทของฉัน$4\"/pause 1000/speak Marlon \"มันเป็นธรรมดาของข้าอยู่แล้ว ที่ข้าเป็นคนตรงไปตรงมาน่ะ ข้าแค่เล่าตามความเป็นจริง ในสิ่งที่ข้าเห็น ดีแล้วล่ะที่เจ้ามาเรียกข้า\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"อย่างไรก็ตาม พวกเจ้าทั้งสองควรรีบออกไป จากที่นี่ตอนนี้ @ คงต้องพักฟื้น และต้องการพักผ่อน\"/pause 500/textAboveHead Marlon \"แล้วพบกันใหม่\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"งั้น… เธอจะกลับบ้านเลยใช่มั้ย? @ ฉันรู้ว่าเธอแข็งแรง แต่วันนี้เธอควรพักผ่อนให้เพียงพอนะ#$b#เธอสามารถเล่าเรื่องที่ เกิดขึ้นที่นั่นให้ฉันฟังได้นะ ถ้าเธอต้องการ อาจใช้เวลา เล็กน้อยในตอนที่พวกเรา กำลังเอ้อระเหยกันอยู่นี้$3#$b#และ... ใครจะไปรู้ล่ะ! ว่าฉันจะได้วาดภาพการต่อสู้ ครั้งยิ่งใหญ่ของเธอ ในช่วงเวลานั้น!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"ไง ยินดีต้อนรับกลับ เธอมาได้ถูกจังหวะพอดีเลย! ฉันพึ่งเติมฟิลเลอร์ให้กับ ชิ้นงานแกะสลักที่แตกไป ก่อนหน้านี้เสร็จพอดี แม้มันจะออกมาไม่ค่อยดีนัก แต่ฉันก็จะทำ$c 0.7#ฉันเดาว่าฉันคงเป็นหนี้มัน เพื่อให้ฉันรีบไปหาเธอ ได้ทันท่วงที บางครั้ง โชคเคราะห์ก็เกิดขึ้นมาเอง อย่างลึกลับ$h#เสร็จแล้วไปกินหนมกัน! มันจะช่วยเพิ่มพลังงานให้ กับเธอหลังจากวันที่ยาวนานนี้[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Leah",
@@ -488,7 +488,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"Welcome back, @. Can you stand?$3\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"I was just cleaning the house when my most recent wooden sculpture suddenly cracked.$3#$b#If that wasn't a bad omen, I don't know what else it could've been. I got worried and came to find you.$2\"/pause 1000/speak Marlon \"Leah came to get me as soon as possible. I ventured into the mines to find you as requested.#$b#She was quite worried about you. You're blessed to have ended up sharing your life with someone so compassionate.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"Oh! Thanks... You don't have to make me feel better about staying behind. I just did what I had to do for my best friend.\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I observed. You did well to fetch me.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"So... Are you heading back home, @? I know you're tough, but I think you've earned your rest for today.#$b#If you want, you can even tell me what happened down there. It might take a bit of the lingering stress off both of us.$3#$b#And... who knows! I might be tempted to paint a scene of your epic battle in due time!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hey, welcome back! Good timing. I just finished adding filler to the sculpted piece that cracked earlier. It's not ideal, but it'll do.$c 0.7#I guess I do owe it, though, for prompting me to go to you. Fate really works in mysterious ways sometimes.$h#Now that I'm done with that, let's have a snack! It'll boost your energy after such a long day.[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}} ตื่นสิ!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"ยินดีต้อนรับกลับจ่ะ @ เธอพอจะยืนไหวมั้ย?$3\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"ฉันพึ่งทำความสะอาดบ้านเสร็จ แต่แล้วงานแกะสลักไม้ ที่ฉันพึ่งทำ อยู่ๆก็แตก$3#$b#ถ้านั่นไม่ใช่ลางร้าย ฉันก็ไม่รู้ว่าจะเป็นอะไรได้อีก ฉันรู้สึกเป็นห่วงก็เลย ออกมาตามหาเธอ$2\"/pause 1000/speak Marlon \"ลีอาดูเร่งรีบมากเพื่อมา ตามหาเจ้า ข้าเลยเข้าไปใน เหมืองทันที และตามหาเจ้า ตามที่ลีอาขอ#$b#เธอเป็นห่วงเจ้ามากนะ เจ้าคงมีความสุขที่ได้อยู่ กับคนที่เอาใจใส่เจ้าเป็นอย่างดี เลยสินะ\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"โอ้ว! ขอบคุณนะ... เธอไม่จำเป็นต้องตอบแทนฉันหรอก ฉันแค่ทำสิ่งที่ควรทำ เพื่อเพื่อนสนิทของฉัน\"/pause 1000/speak Marlon \"มันเป็นธรรมดาของข้าอยู่แล้ว ที่ข้าเป็นคนตรงไปตรงมาน่ะ ข้าแค่เล่าตามความเป็นจริง ในสิ่งที่ข้าเห็น ดีแล้วล่ะที่เจ้ามาเรียกข้า\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"อย่างไรก็ตาม พวกเจ้าทั้งสองควรรีบออกไป จากที่นี่ตอนนี้ @ คงต้องพักฟื้น และต้องการพักผ่อน\"/pause 500/textAboveHead Marlon \"แล้วพบกันใหม่\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"งั้น… เธอจะกลับบ้านเลยใช่มั้ย? @ ฉันรู้ว่าเธอแข็งแรง แต่วันนี้เธอควรพักผ่อนให้เพียงพอนะ#$b#เธอสามารถเล่าเรื่องที่ เกิดขึ้นที่นั่นให้ฉันฟังได้นะ ถ้าเธอต้องการ อาจใช้เวลา เล็กน้อยในตอนที่พวกเรา กำลังเอ้อระเหยกันอยู่นี้$3#$b#และ... ใครจะไปรู้ล่ะ! ว่าฉันจะได้วาดภาพการต่อสู้ ครั้งยิ่งใหญ่ของเธอ ในช่วงเวลานั้น!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"ไง ยินดีต้อนรับกลับ เธอมาได้ถูกจังหวะพอดีเลย! ฉันพึ่งเติมฟิลเลอร์ให้กับ ชิ้นงานแกะสลักที่แตกไป ก่อนหน้านี้เสร็จพอดี แม้มันจะออกมาไม่ค่อยดีนัก แต่ฉันก็จะทำ$c 0.7#ฉันเดาว่าฉันคงเป็นหนี้มัน เพื่อให้ฉันรีบไปหาเธอ ได้ทันท่วงที บางครั้ง โชคเคราะห์ก็เกิดขึ้นมาเอง อย่างลึกลับ$h#เสร็จแล้วไปกินหนมกัน! มันจะช่วยเพิ่มพลังงานให้ กับเธอหลังจากวันที่ยาวนานนี้[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Leah",
@@ -501,7 +501,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"{{TermofEndearment}}, are you okay? I dropped everything to get here when I heard you were hurt.$3\"/emote farmer 60/pause 500/speak {{Spouse}} \"Well... You're a little chipped here and there, but it's nothing you won't pull through... Right?$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"What a relief that you're safe... Please be more careful next time, alright?#$b#You're my main source of inspiration and the driving force behind my art.$2#$b#An artist is nothing without a muse. If I lose you, I lose a piece of me, too.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Would you like to lie down for a little while? At the very least, you should eat something to get your strength back.$2#$c 0.7#Whatever you decide to do, just remember what I said earlier. You mean the world to me, @.$2#I made you something that's good for your health. You should have a few bites before you go out again. [237 241 203 204 220 244]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ใจเย็นๆ ก่อน... ค่อยๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดีครับ @ ผมดีใจที่คุณรู้สึกตัวเสียที#$b#มีคนพาคุณกลับมา ในสภาพหมดสติ และบาดเจ็บหนัก ผมเลยต้องผ่าตัดด่วนให้คุณ!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"{{TermofEndearment}} เธอยังโอเคมั้ย? ฉันทิ้งทุกอย่างไว้ แล้วรีบมาที่นี่ในทันทีที่ได้ยินว่า เธอได้รับบาดเจ็บ$3\"/emote farmer 60/pause 500/speak {{Spouse}} \"อืม... เธอมีแผล ตรงนั้นนิดตรงนี้หน่อย  แต่คงไม่มีอะไรที่จะหยุดเธอได้ อยู่แล้ว... จริงมั้ย?$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"คุณน่าจะดีขึ้นแล้วล่ะ @ แต่ครั้งหน้าก็ระวังตัว ให้มากกว่านี้ด้วยนะ$2\"/pause 500/speak Harvey \"ผมจะให้เวลาคุณสองคน ได้อยู่ด้วยกัน\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"โล่งอกที่คุณปลอดภัย... แต่ครั้งหน้าต้องระวังตัว ให้มากกว่านี้นะ ตกลงมั้ย?#$b#คุณเป็นแรงบันดาลใจ และแรงผลักดันที่อยู่เบื้องหลัง งานศิลปะของฉัน$2#$b#ศิลปินคงสร้างสรรค์อะไรขึ้น ไม่ได้หากขาดแรงบันดาลใจ เช่นเดียวกับฉัน หากไม่มีเธอ  ฉันก็คงขาดแรงบันดาลใจ ของฉันไปเช่นเดียวกัน$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"เธออยากเอนหลังหน่อยมั้ย? อย่างน้อย เธอควรกินอะไร ซักหน่อยจะได้กลับมามีแรง$2#$c 0.7#ไม่ว่าเธอจะตัดสินใจทำอะไร ให้นึกถึงสิ่งที่ฉันพูดไป ก่อนหน้านี้ด้วย เธอคือโลกทั้งใบของฉันนะ @ $2#ฉันทำสิ่งที่จะช่วยทำให้เธอดีขึ้น เธอควรกินสักสองสามคำ ก่อนจะออกไปอีกครั้งนะ [237 241 203 204 220 244]\"",  
             },
             "When": {
 		        "Spouse": "Leah",
@@ -516,7 +516,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}}, welcome home! Did you-#$b#Ah! @, what happened to your face? And your clothes? You smell like a campfire!$8#$b#I... Sorry, that was just a shock. Do you want to go shower off the soot? Maybe take care of those burns, too?$3#$b#Self-expression is good and all, but I... don't think the scorched look is doing you any favors.\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"{{TermofEndearment}} ยินดีต้อนรับกลับบ้าน! เธ-#$b#อ๊ะ! @ เกิดอะไรขึ้น หน้าเธอไปโดนอะไรมา? แล้วเสื้อผ้าเธอหายไปไหน? กลิ่นเหมือนมีอะไรไหม้เลย!$8#$b#ฉันขอโทษ... ฉันแค่ตกใจน่ะ เธออยากอาบน้ำเพื่อล้างเขม่าออกก่อนมั้ย? อาจจะช่วยเรื่องรอยไหม้พวกนั้นด้วยก็ได้?$3#$b#การมั่นใจในสิ่งที่เธอทำ มันก็ดีนะ แต่ฉันว่า... รอยไหม้ตามตัวพวกนี้ดูจะ ไม่ส่งผลอะไรดี ๆ ให้เธอเท่าไหร่นะ\"",
    		    },
 		    "When": {
                 	"HasFlag |contains=addedParrotBoy, leoMoved": "false",

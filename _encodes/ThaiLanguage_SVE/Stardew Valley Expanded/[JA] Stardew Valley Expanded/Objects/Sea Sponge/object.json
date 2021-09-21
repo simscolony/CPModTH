@@ -1,0 +1,9 @@
+{
+	"Name": "Sea Sponge",
+	"Description": "(¿Í§¹éÓ·ÐàÅ) ÊÑµÇìËÅÒÂà«ÅÅì ·ÕèÁÕ¤ÇÒÁËÅÒ¡ËÅÒÂ ÁÕ¤ÇÒÁÊÓ¤Ñ­ µèÍÇÑ¯¨Ñ¡ÃËèÇ§â«èÍÒËÒÃ ã¹ÃÐºº¹ÔàÇÈá¹Ç»Ð¡ÒÃÑ§",
+	"Category": "Fish",
+	"Edibility": -25,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 90,
+}

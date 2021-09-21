@@ -1,0 +1,49 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "BirthMessage_Adoption": "¡ÅÒ§ǔ¡Ǵ¹Թ¹àÍ§ Í§ʹ¡ÃģºàוÂ§ȺµÃȺ­¸ÃÃÁä˴ŉÒȺµÃ {0} ¤¹ãËˑ¢Í§Ȥ³ÁÒ˚§",
+        "BirthMessage_PlayerMother": "¡ÅÒ§ǔ¡Ǵ¹Թ¹àÍ§ Ȥ³ä˴ã̋ıÒàŹ´ȺµÃ {0}",
+        "BirthMessage_SpouseMother": "¡ÅÒ§ǔ¡Ǵ¹Թ¹àÍ§ {1} ä˴ã̋ıÒàŹ´ȺµÃ {0}",
+        "BirthMessage_SpouseNaming_Male": "{0} ä˴Ե§ҚÍɵ¡ªÒÂĕÇ˹ÍÂ¢Í§Ȥ³",
+        "BirthMessage_SpouseNaming_Female": "{0} ä˴Ե§ҚÍɵ¡ÊÒÇĕÇ˹ÍÂ¢Í§Ȥ³",
+        "BabyNamingTitle_Male": "àÃÒԵ§ҚÍà¢Ò˗ÒÍÐäÃƤ?",
+        "BabyNamingTitle_Female": "àÃÒԵ§ҚÍà¸Í˗ÒÍÐäÃƤ?",
+        "HaveBabyQuestion": "щ {0} àÃÒÁÒƱɵ¡ā¹ՁÂ?",
+        "HaveBabyQuestion_Adoption": "щ {0} àÃÒģºàʔ¡ÁÒàוÂ§ā¹ƤՁÂ?",
+        "HaveBabyAnswer_Yes": "àÍÒƊ",
+        "HaveBabyAnswer_No": "ÃÍʱÍ¹¹Ð...",
+        "HavePlayerBabyQuestion": "Ȥ³ÍÂÒ¡Ʊɵ¡āº {0} ËȓÍäˑ?",
+        "HavePlayerBabyQuestion_Adoption": "Ȥ³ÍÂÒ¡ģºàוÂ§ȺµÃȺ­¸ÃÃÁāº {0} ËȓÍäˑ?",
+        "SpouseFlowerDanceAccept_Shane": "à˵¹œÒàËÃÍ? āº¼Á ä˴Ɗ... ã̋¼ÁÅÍ§˫ÍÁà˵¹Ī¡ÊÍ§ÊÒÁÃÍºʱÍ¹¹Ð...",
+        "SpouseFlowerDanceAccept_Emily": "ä˴ÍԒá̅ÇƊ чģ¡ ĉ¹ÃÍЪ§׉ÁÒµÅÍ´àÅÂ!$h",
+        "AnimalBirth": "¡ÅÒ§ǔ¡Ǵ¹Թ¹àÍ§ {0} ä˴¤ÅÍ´ {1}",
+        "AnimalNamingTitle": "Ե§ҚÍɵ¡ {0} ãËˑ¢Í§Ȥ³Ɗ:",
+        "SoundInTheNight_UFO": "ƱàƺÂ§á»Å¡æ Ĕ§ע¹ã¹µÍ¹¡ÅÒ§Ǵ¹...",
+        "SoundInTheNight_Meteorite": "ä˴Ƃ¹àƺÂ§ÃÐàź´Ĕ§ע¹ ã¹µÍ¹¡ÅÒ§Ǵ¹...",
+        "SoundInTheNight_Earthquake": "àš´áˌ¹Ŵ¹äËÇã¹µÍ¹¡ÅÒ§Ǵ¹",
+        "BeachNightMarket_NowOpen": "µÅÒ´ÃÒµÃÕà»Ô´áÅéÇµÍ¹¹Õé",
+        "Maru_comet5": "ĉ¹Ƥã¨àËȕÍàš¹чä˴ã˪ƚƇµº¹âÅ¡чÊ˗Ò§àŨ´˨Òãº׉āºȤ³!",
+        "Maru_comet4": "ʺÒ§˗Ò§à»˕Ò ʺÒ§àƗÂºàË§Ò...",
+        "Maru_comet3": "»ÃÒ¡®ע¹ã¹ΪÇ¢³ÐáÊ¹Պ¹ã¹¡ÒÃàŴ¹·Ò§чäˑ֪¹Ɋ´¢Í§ġ¹",
+        "Maru_comet2": "¤ÇÒÁˉÒĭÈ¨ÃÃΒã¨ĭ¹ËÒÂÒ¡¢Í§Ĉ¡ÃÇÒÅ...",
+        "Maru_comet1": "ÊÇÂãʺՁÂ˕Ð?",
+        "ElliottBook_mystery": "»ÃÒÊÒ·ƺ¤ÃÒÁ",
+        "ElliottBook_romance": "Ê¶ÒƩ¤ÒΓƱàƵÂ",
+        "ElliottBook_default": "ıÒàŹ´áÅÐ¡ÒÃ˕ÁÊÅÒÂá˛§´ÒÇà¤ÃÒÐΛáÂÊâ«"
+    }
+}

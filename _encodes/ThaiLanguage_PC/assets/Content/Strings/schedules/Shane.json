@@ -1,0 +1,29 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "marriage_Fri.001": "ȝÁÁÁ... ¼Á¤§˵Í§ºÍ¡˗Ò ̃Ò¹â¨˨ÒƱˢÍä˴à»ƳÂº àҳÍ§ÍÒËÒÃàʢ¹áʺáʂ§",
+        "marriage_Mon.001": "¼ÁړǪ¡ɬ¡Ğ¹ āºˋÒ׉ÁÒ¡àÅÂ˕Ð... à¾ÃÒÐġ¹àʕÁä»˴ÇÂ ¤ÇÒÁ·Ã§ĸÒÁÒ¡ÁÒÂ...",
+        "marriage_Fri.000": "äˑ˵Í§ā§ÇÅä»ËÃÍ¡ ġ¹ʁáʴâ¨˨Òâ¤˕Ò",
+        "marriage_Fri.002": "˶Ò¼Áäˑϊ§à¤ҳÍ§ҤÁàОÁƽ¡ āÊ¤§¨Ð˵Í§Ż´š¨¡ÒÃáˉæ ¼ÁʁáʴŇÒµÒÁË˹Òч ¢Í§¾ÅàȑÍ§чƤ á̅Çà݋ÂÇ¼ÁʴÍÂµÒÁ¡ĥºä» ч˺Ò¹»ÃÐÁÒ³ 4 ӗÁ¹Ð",
+        "marriage_Mon.000": "â̍ à̎ @ Ť´ǖ§¼Áá̅ÇàËÃÍ?$6",
+        "winter_15.000": "˅Í¨Ò¡׉¼Á¨ÐËɂ´ä»ч «Òɵ¹µÍ¹¡ÅÒ§Ǵ¹àҮÍá¨Ê...",
+        "marriage_Sun.000": "¡Х¹ã¹׉ġ¹á˒ªÐġ´",
+        "marriage_Sun.001": "¼ÁàО§ä˴ĕÇ˅Íâ¤˕ÒÁÒ... ¼Á¤ÇÃàȕÍ¡â¨˨Ò¤ÅÒÊƊ¤ ËȓÍ â¨˨Òºɵ Ƥ? à¾ÃÒÐ¼Á¤§˵Í§ÍԒāº à˨Òщä»ƽ¡ċ¡Ğ¡...",
+        "marriage_Fri.003": "¼Á¢Íà˕¹ƽ¡ċ¡ÃÍº¹Ð...$h"
+    }
+}

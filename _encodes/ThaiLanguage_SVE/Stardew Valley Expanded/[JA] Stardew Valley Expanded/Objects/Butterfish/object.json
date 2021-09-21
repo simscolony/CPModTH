@@ -1,0 +1,24 @@
+{
+	"Name": "Butterfish",
+	"Description": "(»ÅÒà¹Â) ãªéà»ç¹ÇÑµ¶Ø´ÔºÍÂèÒ§¡ÇéÒ§¢ÇÒ§ã¹ÊÒ¸ÒÃ³ÃÑ°à¿ÔÃìÅ¡ÔÅÅì",
+	"Category": "Fish",
+	"Edibility": 20,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 225,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Willy", "Andy", "Gus", "Victor"],
+		"Like": ["Kent", "Jodi", "Claire", "Olivia", "Pierre", "Evelyn", "Leah", "Robin", "Elliott"],
+		"Hate": ["George", "Shane", "Sebastian", "Abigail", "Haley", "Maru", "Pam", "Clint", "Jas", "Vincent"]
+	},
+	"NameLocalization":
+	{
+		/*to be added in*/
+	},
+	"DescriptionLocalization":
+	{
+		/*to be added in*/
+	},
+}
