@@ -48,7 +48,7 @@
                 "NPC.cs.3962": "เธออยากใช้เวลาด้วยกัน มากขึ้นเหรอ เอาสิ!#$e#*เฮ้อออ* เราควรไปเมืองซูซู แล้วได้แต่งหล่อแต่งสวยนะ!$h",
                 "NPC.cs.3963": "อยากเป็นมากกว่าเพื่อนสนิทกับฉันเหรอ ฮ่าๆ ใครๆ ก็อยากทั้งนั้นแหละ!$h#$e#อุ๊ยไม่ได้สิ พูดแบบนั้นก็หยาบคาย ใช่มะ ฉันอยากเป็นจริงๆ นะเนี่ย!$8",
                 "NPC.cs.3985": "ได้ยินมาว่าวันนี้ เธอให้ของขวัญใครบางคน#$e#เป็นเพื่อนที่แสนดีจัง ฉันควรให้ของขวัญบ่อยขึ้นแฮะ...",
-                "NPC.cs.4001": "ผลไม้นั่น ติดมากับรายการสั่งซื้อ เครื่องสำอางล่าสุดของฉัน ถือเป็นของตอบแทนความภักดี น่ะ... ของที่ให้มา น่าจะขายความเยาว์วัย กับความมีชีวิตชีวา#$b#ฉันให้เธอเพราะ... ก็เพราะคิดว่า เธอก็คงจะให้เหมือนกัน#$b#รู้นะว่า ฉันเคยค่อนข้าง เอาตัวเองเป็นจุดศูนย์กลาง กับชอบตัดสินคนอื่น... ตอนเจอเธอครั้งแรก ฉันทำตัวแย่มาก$s#$b#แต่พอได้รู้จักมักคุ้น ฉันก็เห็นเธอแวะคุย กับคนที่ฉันไม่เคยสนใจ... จำวันเกิด... ให้ของขวัญ เพื่อแค่ให้พวกเขา มีความสุขเลย... #$b#มันทำให้ฉันคิดว่า ฉันอยากปฏิบัติกับคนอื่นยังไง การเป็นคนดี กับคนที่ฉันสนิทด้วย เป็นแค่จุดเริ่มต้นนะ... ในชีวิตประจำวัน ฉันจะหาวิธี ฝึกเป็นคนจิตใจกว้าง ให้เยอะขึ้น#$b#แต่ตอนนี้... ฉันรักเธอ @ หวังว่าจะชอบของขวัญนะ",
+                "NPC.cs.4001": "ผลไม้นั่น ติดมากับรายการสั่งซื้อ เครื่องสำอางล่าสุดของฉัน ถือเป็นของสมนาคุณ ตอบแทนความภักดีน่ะ... ของที่ให้มา น่าจะขายความเยาว์วัย กับความมีชีวิตชีวา#$b#ฉันให้เธอเพราะ... ก็เพราะคิดว่า เธอก็คงจะให้เหมือนกัน#$b#รู้นะว่า ฉันเคยค่อนข้าง เอาตัวเองเป็นจุดศูนย์กลาง กับชอบตัดสินคนอื่น... ตอนเจอเธอครั้งแรก ฉันทำตัวแย่มาก$s#$b#แต่พอได้รู้จักมักคุ้น ฉันก็เห็นเธอแวะคุย กับคนที่ฉันไม่เคยสนใจ... จำวันเกิด... ให้ของขวัญ เพื่อแค่ให้พวกเขา มีความสุขเลย... #$b#มันทำให้ฉันคิดว่า ฉันอยากปฏิบัติกับคนอื่นยังไง การเป็นคนดี กับคนที่ฉันสนิทด้วย เป็นแค่จุดเริ่มต้นนะ... ในชีวิตประจำวัน ฉันจะหาวิธี ฝึกเป็นคนจิตใจกว้าง ให้เยอะขึ้น#$b#แต่ตอนนี้... ฉันรักเธอ @ หวังว่าจะชอบของขวัญนะ",
                 "NPC.cs.4425": "ชีวิตเปลี่ยนไปเลย ตั้งแต่ที่เราเป็น {{RelationshipLabel}} กัน...$s",
                 "NPC.cs.4507": "@",
                 "NPC.cs.4508": "@",
@@ -77,13 +77,13 @@
             "Target": "Characters/Dialogue/Haley",
             "Entries":
             {
-                "NPC.cs.4442": "I feel sick this morning...I think I'm just nervous. I hope I did the adoption paperwork right.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I was up late looking for deals on toys and baby clothes...$s#$b#I hope the adoption agency gets back to us soon.$7",
-                "NPC.cs.4443": "I'm tired... can't you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I'm so happy you want to adopt with me!$l#$b#I can't wait to dress our kid in cute little outfits, and teach them about color theory...$h",
-                "NPC.cs.4447": "{{TermofEndearment}}, I'm so happy you want to adopt with me!$l#$b#I can't wait to dress our kid in cute little outfits, and teach them about color theory...$h",
-                "NPC.cs.4448": "{{TermofEndearment}}, I'm really glad we're adopting. You're going to be a great role model.$h",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm really glad we're adopting. You're going to be a great role model.$l",
+                "NPC.cs.4442": "เช้านี้รู้สึกจะอ้วกอะ... คงเพราะกังวลเฉยๆ หวังว่าฉันกรอกเอกสาร อุปถัมภ์บุตรถูกนะ$s",
+                "NPC.cs.4446": "วันนี้ง่วงจัง ฉันนอนดึก มัวแต่หาของเล่น กับเสื้อผ้าเด็กลดราคา...$s#$b#หวังว่าบริษัทอุปถัมภ์ จะติดต่อกลับมาเร็วๆ นะ$7",
+                "NPC.cs.4443": "ฉันเหนื่อยนะ... ทำข้าวเช้ากินเองไม่ได้รึไง$s",
+                "NPC.cs.4444": "{{TermofEndearment}} ดีใจมากๆ เลยที่เธอ อยากอุปถัมภ์เด็กกับฉัน!$l#$b#รอแต่งตัวให้เด็กๆ ได้ใส่ชุดตัวเล็ก น่ารักๆ ไม่ไหวแล้ว และก็สอนทฤษฎีสีด้วย...$h",
+                "NPC.cs.4447": "{{TermofEndearment}} ดีใจมากๆ เลยที่เธอ อยากอุปถัมภ์เด็กกับฉัน!$l#$b#รอแต่งตัวให้เด็กๆ ได้ใส่ชุดตัวเล็ก น่ารักๆ ไม่ไหวแล้ว และก็สอนทฤษฎีสีด้วย...$h",
+                "NPC.cs.4448": "{{TermofEndearment}} ฉันดีใจเรื่องอุปถัมภ์จริงๆ นะเออ เธอจะต้องเป็น ผู้ปกครองที่ดีเลิศ น่าเอาเป็นเยี่ยงอย่าง แน่นอน$h",
+                "NPC.cs.4445": "{{TermofEndearment}} ฉันดีใจเรื่องอุปถัมภ์จริงๆ นะเออ เธอจะต้องเป็น ผู้ปกครองที่ดีเลิศ น่าเอาเป็นเยี่ยงอย่าง แน่นอน$l",
             },
             "When":
             {
@@ -96,13 +96,13 @@
             "Target": "Characters/Dialogue/Haley",
             "Entries":
             {
-                "NPC.cs.4442": "I feel sick this morning...I think I'm just nervous. I hope I did the adoption paperwork right.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I was up late looking for deals on toys and baby clothes...$s#$b#I hope the adoption agency gets back to us soon.$7",
-                "NPC.cs.4443": "I'm tired... can't you make your own breakfast?$s",
-                "NPC.cs.4444": "{{TermofEndearment}}, I'm so happy you want to adopt with me!#$b#I can't wait to dress our kid in cute little outfits, and teach them about color theory...$h",
-                "NPC.cs.4447": "{{TermofEndearment}}, I'm so happy you want to adopt with me!#$b#I can't wait to dress our kid in cute little outfits, and teach them about color theory...$h",
-                "NPC.cs.4445": "{{TermofEndearment}}, I'm really glad we're adopting. You're going to be a great role model.",
-                "NPC.cs.4448": "{{TermofEndearment}}, I'm really glad we're adopting. You're going to be a great role model.",
+                "NPC.cs.4442": "เช้านี้รู้สึกจะอ้วกอะ... คงเพราะกังวลเฉยๆ หวังว่าฉันกรอกเอกสาร อุปถัมภ์บุตรถูกนะ$s",
+                "NPC.cs.4446": "วันนี้ง่วงจัง ฉันนอนดึก มัวแต่หาของเล่น กับเสื้อผ้าเด็กลดราคา...$s#$b#หวังว่าบริษัทอุปถัมภ์ จะติดต่อกลับมาเร็วๆ นะ$7",
+                "NPC.cs.4443": "ฉันเหนื่อยนะ... ทำข้าวเช้ากินเองไม่ได้รึไง$s",
+                "NPC.cs.4444": "{{TermofEndearment}} ดีใจมากๆ เลยที่เธอ อยากอุปถัมภ์เด็กกับฉัน!#$b#รอแต่งตัวให้เด็กๆ ได้ใส่ชุดตัวเล็ก น่ารักๆ ไม่ไหวแล้ว และก็สอนทฤษฎีสีด้วย...$h",
+                "NPC.cs.4447": "{{TermofEndearment}} ดีใจมากๆ เลยที่เธอ อยากอุปถัมภ์เด็กกับฉัน!#$b#รอแต่งตัวให้เด็กๆ ได้ใส่ชุดตัวเล็ก น่ารักๆ ไม่ไหวแล้ว และก็สอนทฤษฎีสีด้วย...$h",
+                "NPC.cs.4445": "{{TermofEndearment}} ฉันดีใจเรื่องอุปถัมภ์จริงๆ นะเออ เธอจะต้องเป็น ผู้ปกครองที่ดีเลิศ น่าเอาเป็นเยี่ยงอย่าง แน่นอน",
+                "NPC.cs.4448": "{{TermofEndearment}} ฉันดีใจเรื่องอุปถัมภ์จริงๆ นะเออ เธอจะต้องเป็น ผู้ปกครองที่ดีเลิศ น่าเอาเป็นเยี่ยงอย่าง แน่นอน",
             },
             "When":
             {
@@ -115,7 +115,7 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Haley1": "It's okay. I know we can't celebrate with a resort vacation, since your farm needs to be taken care of.#$e#I'm a farmer now, too!",
+                "Haley1": "ไม่เป็นไรหรอก รู้น่าว่าเราฉลองแบบ ไปพักร้อนที่รีสอร์ตไม่ได้ เพราะเธอต้องคอยอยู่ดูแลฟาร์มนี่#$e#ตอนนี้ฉันก็เป็น ชาวไร่เหมือนกันนะยะ!",
             },
         },
         {
@@ -123,7 +123,7 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Haley0": "I'm so happy!$h#$e#It's just like I always dreamed.",
+                "Haley0": "โครตมีความสุขเลย!$h#$e#เหมือนอย่างที่ฉัน วาดฝันมาตลอด",
             },
             "When":
             {
@@ -135,10 +135,10 @@
             "Target": "Characters/Dialogue/Haley",
             "Entries":
             {
-                "NPC.cs.3965": "Did you want to reenact giving me my pendant so we can get a photo of it? Sounds fun! *ahem* Oh, @, a thousand times yes!$h",
-                "NPC.cs.3966": "I already said yes, don't push your luck! ...Haha, I'm just kidding.$h",
-                "NPC.cs.3967": "These pendants are beautiful, aren't they? It's too bad no one sells a matching earring set.",
-                "NPC.cs.3968": "I wear my pendant every day, even when it clashes with my outfit... But two of them would be pushing it.$7",
+                "NPC.cs.3965": "อยากให้สร้อยนางเงือกฉันใหม่ เพื่อจะถ่ายชอตที่ขอฉันเหรอ น่าสนุกอะ! *อะแฮ่ม* โอ้ @ ได้ๆๆ สิ ฉันตกลงค่ะ!$h",
+                "NPC.cs.3966": "ก็ตอบตกลงแล้วไง จะเอาอะไรอีกยะ! ...ฮ่าๆ ฉันล้อเล่นน่า$h",
+                "NPC.cs.3967": "สร้อยเส้นนี้สวยเนอะ เสียดาย ไม่มีใครขายเป็นเซต ที่เข้าคู่กับต่างหูเลย",
+                "NPC.cs.3968": "ฉันใส่สร้อยเส้นนี้ ทุกวันเลยนะ ถึงใส่แล้วไม่เข้า กับชุดฉันก็เถอะ... แต่ก็น่าจะพอ ไปวัดไปวาได้แหละ$7",
             },
             "When":
             {
@@ -150,10 +150,10 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "NPC.cs.3965": "Haley and I are our own people with our own destinies. I don't want to move in with you just because she is.$u",
-                "NPC.cs.3966": "I love my sister, but I think our relationship would be healthier if we didn't live together.$u",
-                "NPC.cs.3967": "Haley and I are our own people with our own destinies. I don't want to move in with you just because she did.$u",
-                "NPC.cs.3968": "I love my sister, but I think our relationship is healthier when we don't live together.$u",
+                "NPC.cs.3965": "เฮลีย์กับฉัน มีชีวิตเป็นของตัวเอง แค่เพราะ นางย้ายไปอยู่กับเธอ ก็ไม่ได้แปลว่า ฉันอยากย้ายด้วยซะหน่อย$u",
+                "NPC.cs.3966": "ฉันรักน้องนะ แต่คิดว่า เราน่าจะมีความสัมพันธ์ที่ดีกว่า ถ้าได้แยกกันอยู่น่ะ$u",
+                "NPC.cs.3967": "เฮลีย์กับฉัน มีชีวิตเป็นของตัวเอง แค่เพราะ นางย้ายไปอยู่กับเธอ ก็ไม่ได้แปลว่า ฉันอยากย้ายด้วยซะหน่อย$u",
+                "NPC.cs.3968": "ฉันรักน้องนะ แต่คิดว่า เราน่าจะมีความสัมพันธ์ที่ดีกว่า ถ้าได้แยกกันอยู่น่ะ$u",
             },
             "When":
             {
@@ -165,10 +165,10 @@
             "Target": "Characters/Dialogue/MarriageDialogueHaley",
             "Entries":
             {
-                "Rainy_Night_Haley": "Hi, bestie. I'm so glad you're home. I was starting to get kind of lonely.",
-                "Outdoor_Haley": "Looks like a good day for me to get some sun, don't you think?$h",
-                "spring_Haley": "Aren't you glad winter's over? Things seem more hopeful now.",
-                "summer_3": "I don't look my best today... the air is just so humid that my hair doesn't hold up too well.$s",
+                "Rainy_Night_Haley": "ไงสุดซี้ ดีใจจังที่เธอกลับบ้าน ฉันจะเหงาอยู่แล้วเนี่ย",
+                "Outdoor_Haley": "ได้รับแดดแบบนี้ เหมือนจะเป็นวันที่ดีของฉันเลย ว่าปะ$h",
+                "spring_Haley": "หมดฤดูหนาวแล้ว เธอไม่ดีใจเหรอ เวลานี้ มันน่าจะมีเรื่องดีๆ เกิดขึ้นนะ",
+                "summer_3": "วันนี้ฉันไม่สวยเลย... อากาศก็ชื้นเกิน จนผมฉันไม่อยู่ทรงละ$s",
             },
         },
         {
@@ -176,8 +176,8 @@
             "Target": "Characters/Dialogue/MarriageDialogueHaley",
             "Entries":
             {
-                "Indoor_Day_Haley": "I felt like I had no direction in life before I met you. Now I have exactly what I want.",
-                "winter_Haley": "I was just thinking about the time you helped me open a jar of pickles. Remember that?$h#$e#We've come a long way since then."
+                "Indoor_Day_Haley": "ก่อนเจอเธอ ฉันรู้สึกเหมือน ชีวิตเคว้งคว้างนะ แต่ตอนนี้ ฉันมีเป้าหมายที่ต้องการแล้ว",
+                "winter_Haley": "กำลังคิดถึงตอนที่เธอ ช่วยฉันเปิดโหลหมักดองนั่น จำได้เปล่า$h#$e#ตั้งแต่วันนั้น เรามากันไกลมากเลย"
             },
             "When":
             {
@@ -189,18 +189,18 @@
             "Target": "Characters/Dialogue/MarriageDialogueHaley",
             "Entries":
             {
-                "Rainy_Day_3": "I can't go outside today... it'll mess up my hair. Sorry, @...$s#$e#Maybe some people would think it's silly, but these things are important to me.$7",
-                "Rainy_Day_4": "Are you going out in this weather? Just make sure to wipe your boots on the way back in, {{Lowercase:{{TermofEndearment}}}}.#$e#I'll just stay here and do some housework.",
-                "Rainy_Night_4": "I made a hot meal for you, {{Lowercase:{{TermofEndearment}}}}. Lots of spice, just how you like it. Enjoy! [727 231 207 199]$h",
-                "Indoor_Day_1": "Good morning, {{Lowercase:{{TermofEndearment}}}}! Smells good, doesn't it? I made you breakfast! [194 195 210 211 216]#$e#I know you're busy with your work. I'm here to support you in any way I can!",
-                "Indoor_Day_2": "Did you sleep okay? I thought I could hear you snoring.$h#$e#I've got some chores to do in here. Have a good day.",
-                "Indoor_Day_3": "I'm glad I've learned to enjoy cleaning! The house gets dirty very easily.$10#$e#It's satisfying to get everything squeaky clean.#$e#Can I have a hug before you leave?",
-                "Indoor_Day_4": "Good morning, {{Lowercase:{{TermofEndearment}}}}. Another day of farm chores, huh?#$e#I'll be thinking of you.$h",
-                "Outdoor_1": "We've got to make sure the farm is cute! That might be important... right, @?",
-                "Outdoor_2": "Hi, {{Lowercase:{{TermofEndearment}}}}! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
-                "Outdoor_4": "Don't overwork yourself, {{Lowercase:{{TermofEndearment}}}}.#$e#Make sure and take a break every now and then, or get something to eat.$h",
-                "funReturn_Haley": "It was nice seeing everyone in town. Did you have a good day, {{Lowercase:{{TermofEndearment}}}}?",
-                "TwoKids_3": "A big house, two kids, a beautiful plot of land, and my BFF by my side... I'm not sure what else I could ask for.",
+                "Rainy_Day_3": "วันนี้ ฉันออกไปข้างนอกไม่ได้... เดี๋ยวผมเสียทรง ขอโทษนะ @...$s#$e#บางคนอาจจะคิดว่าฉันงี่เง่า แต่ผมคือสิ่งสำคัญของฉันเลย$7",
+                "Rainy_Day_4": "จะไปข้างนอก ในสภาพอากาศแบบนี้เนี่ยนะ ก่อนเข้าบ้าน อย่าลืมเช็ดรองเท้าบูทแล้วกัน {{Lowercase:{{TermofEndearment}}}}.#$e#ฉันจะอยู่นี่ ทำงานบ้านสักหน่อย",
+                "Rainy_Night_4": "ฉันทำอาหารให้เธออะ ยังร้อนๆ อยู่เลย {{Lowercase:{{TermofEndearment}}}} ใส่เครื่องเทศเยอะๆ แบบที่เธอชอบด้วย กินให้อร่อยนะ! [727 231 207 199]$h",
+                "Indoor_Day_1": "อรุณสวัสดิ์ {{Lowercase:{{TermofEndearment}}}}! กลิ่นหอมเนอะ ฉันทำมื้อเช้าให้เธอแหละ! [194 195 210 211 216]#$e#รู้นะว่างานยุ่ง ฉันเลยจะอยู่ตรงนี้ คอยช่วยเท่าที่ช่วยได้เอง!",
+                "Indoor_Day_2": "หลับสบายรึเปล่า ฉันว่าได้ยินเสียงเธอกรนน่ะ$h#$e#ฉันมีงานบ้านต้องทำนิดหน่อย โชคดีนะ",
+                "Indoor_Day_3": "ดีใจจัง รู้สึกว่าการทำความสะอาด ก็สนุกดีนะ! แต่บ้านสกปรกง่ายมากเลย$10#$e#ได้ปัดกวาดเช็ดถู จนสะอาดเอี่ยมอ่องแล้ว รู้สึกฟินอะ#$e#ขอกอดก่อนเธอไปได้ไหม",
+                "Indoor_Day_4": "อรุณสวัสดิ์ {{Lowercase:{{TermofEndearment}}}} วันนี้มีงานที่ฟาร์มอีกแล้วเหรอ หื้ม#$e#ฉันจะคอยคิดถึงเธอนะ$h",
+                "Outdoor_1": "เราต้องแต่งฟาร์ม ให้ออกมาน่ารักสิ! มันควรเป็นเรื่องสำคัญนะ... ใช่ไหม @",
+                "Outdoor_2": "ไง {{Lowercase:{{TermofEndearment}}}}! ถ้าฉันรู้งานฟาร์มมากกว่านี้ ก็คงช่วยเธอได้เยอะขึ้น ขอโทษนะ!#$e#ฉันจะคอยคิดถึงเธอ$h",
+                "Outdoor_4": "อย่าหักโหมเลย {{Lowercase:{{TermofEndearment}}}}#$e#ต้องหาเวลาพัก หรือ หาอะไรกินลงท้องบ้างสิยะ$h",
+                "funReturn_Haley": "รู้สึกดีจังที่ได้เห็นทุกๆ คนในเมืองนี้ วันนี้เธอเป็นไงบ้าง {{Lowercase:{{TermofEndearment}}}}",
+                "TwoKids_3": "บ้านหลังใหญ่ เด็กสองคน ที่ดินผืนงาม และการมี พ.ส.ท.ร. คอยอยู่เคียงข้าง... ฉันไม่รู้ จะขออะไรอีกแล้วล่ะ",
             },
             "When":
             {
@@ -214,22 +214,22 @@
             "Target": "Characters/Dialogue/MarriageDialogueHaley",
             "Entries":
             {
-                "Rainy_Day_3": "I can't go outside today... it'll mess up my hair. Sorry, @...$s#$e#Maybe some people would think it's silly, but these things are important to me.$7",
-                "Rainy_Day_4": "Are you going out in this weather? Just make sure to wipe your boots on the way back in, {{TermofEndearment}}.#$e#I'll just stay here and do some housework.",
-                "Rainy_Night_4": "I made a hot meal for you, {{TermofEndearment}}. Lots of spice, just how you like it. Enjoy! [727 231 207 199]$h",
-                "Indoor_Day_1": "Good morning, {{TermofEndearment}}! Smells good, doesn't it? I made you breakfast! [194 195 210 211 216]#$e#I know you're busy with your work. I'm here to support you in any way I can!",
-                "Indoor_Day_2": "Did you sleep okay? I thought I could hear you snoring.$h#$e#I've got some chores to do in here. Have a good day.",
-                "Indoor_Day_3": "I'm glad I've learned to enjoy cleaning! The house gets dirty very easily.$10#$e#It's satisfying to get everything squeaky clean.#$e#Can I have a hug before you leave?",
-                "Indoor_Day_4": "Good morning, {{TermofEndearment}}. Another day of farm chores, huh?#$e#I'll be thinking of you.$h",
-                "Outdoor_1": "We've got to make sure the farm is cute! That might be important... right, @?",
-                "Outdoor_2": "Hi, {{TermofEndearment}}! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h",
-                "Outdoor_4": "Don't overwork yourself, {{TermofEndearment}}.#$e#Make sure and take a break every now and then, or get something to eat.$h",
-                "funReturn_Haley": "It was nice seeing everyone in town. Did you have a good day, {{TermofEndearment}}?",
-                "TwoKids_3": "A big house, two kids, a beautiful plot of land, and my BFF by my side... I'm not sure what else I could ask for.",
+                "Rainy_Day_3": "วันนี้ ฉันออกไปข้างนอกไม่ได้... เดี๋ยวผมเสียทรง ขอโทษนะ @...$s#$e#บางคนอาจจะคิดว่าฉันงี่เง่า แต่ผมคือสิ่งสำคัญของฉันเลย$7",
+                "Rainy_Day_4": "จะไปข้างนอก ในสภาพอากาศแบบนี้เนี่ยนะ ก่อนเข้าบ้าน อย่าลืมเช็ดรองเท้าบูทแล้วกัน {{TermofEndearment}}.#$e#ฉันจะอยู่นี่ ทำงานบ้านสักหน่อย",
+                "Rainy_Night_4": "ฉันทำอาหารให้เธออะ ยังร้อนๆ อยู่เลย {{TermofEndearment}} ใส่เครื่องเทศเยอะๆ แบบที่เธอชอบด้วย กินให้อร่อยนะ! [727 231 207 199]$h",
+                "Indoor_Day_1": "อรุณสวัสดิ์ {{TermofEndearment}}! กลิ่นหอมเนอะ ฉันทำมื้อเช้าให้เธอแหละ! [194 195 210 211 216]#$e#รู้นะว่างานยุ่ง ฉันเลยจะอยู่ตรงนี้ คอยช่วยเท่าที่ช่วยได้เอง!",
+                "Indoor_Day_2": "หลับสบายรึเปล่า ฉันว่าได้ยินเสียงเธอกรนน่ะ$h#$e#ฉันมีงานบ้านต้องทำนิดหน่อย โชคดีนะ",
+                "Indoor_Day_3": "ดีใจจัง รู้สึกว่าการทำความสะอาด ก็สนุกดีนะ! แต่บ้านสกปรกง่ายมากเลย$10#$e#ได้ปัดกวาดเช็ดถู จนสะอาดเอี่ยมอ่องแล้ว รู้สึกฟินอะ#$e#ขอกอดก่อนเธอไปได้ไหม",
+                "Indoor_Day_4": "อรุณสวัสดิ์ {{TermofEndearment}} วันนี้มีงานที่ฟาร์มอีกแล้วเหรอ หื้ม#$e#ฉันจะคอยคิดถึงเธอนะ$h",
+                "Outdoor_1": "เราต้องแต่งฟาร์ม ให้ออกมาน่ารักสิ! มันควรเป็นเรื่องสำคัญนะ... ใช่ไหม @",
+                "Outdoor_2": "ไง {{TermofEndearment}}! ถ้าฉันรู้งานฟาร์มมากกว่านี้ ก็คงช่วยเธอได้เยอะขึ้น ขอโทษนะ!#$e#ฉันจะคอยคิดถึงเธอ$h",
+                "Outdoor_4": "อย่าหักโหมเลย {{TermofEndearment}}#$e#ต้องหาเวลาพัก หรือ หาอะไรกินลงท้องบ้างสิยะ$h",
+                "funReturn_Haley": "รู้สึกดีจังที่ได้เห็นทุกๆ คนในเมืองนี้ วันนี้เธอเป็นไงบ้าง {{TermofEndearment}}",
+                "TwoKids_3": "บ้านหลังใหญ่ เด็กสองคน ที่ดินผืนงาม และการมี พ.ส.ท.ร. คอยอยู่เคียงข้าง... ฉันไม่รู้ จะขออะไรอีกแล้วล่ะ",
             },
             "When":
             {
-                "TermofEndearment": "@, BFF",
+                "TermofEndearment": "@ พ.ส.ท.ร.",
                 "HasMod |contains=gizzymo.canonfriendlyexpansion": "false"
             }
         },
@@ -238,10 +238,10 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "spouseRoom_Haley": "Go ahead and start your day, {{Lowercase:{{TermofEndearment}}}}. I'm just putting on my make-up.#$e#Have any plans for the day?",
-                "Rainy_Night_Haley": "Hi, bestie. I'm so glad you're home. I was starting to get kind of lonely.",
-                "Outdoor_Haley": "Looks like a good day for me to get some sun, don't you think?$h",
-                "spring_Haley": "Aren't you glad winter's over, {{Lowercase:{{TermofEndearment}}}}? Things seem more hopeful now.",
+                "spouseRoom_Haley": "ไปสิ ออกไปทำงานทำการได้แล้ว {{Lowercase:{{TermofEndearment}}}} ฉันแค่จะแต่งหน้าเอง#$e#วันนี้มีแผนอะไรไหมล่ะ",
+                "Rainy_Night_Haley": "ไงสุดซี้ ดีใจจังที่เธอกลับบ้าน ฉันจะเหงาอยู่แล้วเนี่ย",
+                "Outdoor_Haley": "ได้รับแดดแบบนี้ เหมือนจะเป็นวันที่ดีของฉันเลย ว่าปะ$h",
+                "spring_Haley": "หมดฤดูหนาวแล้ว เธอไม่ดีใจเหรอ {{Lowercase:{{TermofEndearment}}}} เวลานี้ มันน่าจะมีเรื่องดีๆ เกิดขึ้นนะ",
             },
             "When":
             {
@@ -254,14 +254,14 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "spouseRoom_Haley": "Go ahead and start your day, {{TermofEndearment}}. I'm just putting on my make-up.#$e#Have any plans for the day?",
-                "Rainy_Night_Haley": "Hi, bestie. I'm so glad you're home. I was starting to get kind of lonely.",
-                "Outdoor_Haley": "Looks like a good day for me to get some sun, don't you think?$h",
-                "spring_Haley": "Aren't you glad winter's over, {{TermofEndearment}}? Things seem more hopeful now.",
+                "spouseRoom_Haley": "ไปสิ ออกไปทำงานทำการได้แล้ว {{TermofEndearment}} ฉันแค่จะแต่งหน้าเอง#$e#วันนี้มีแผนอะไรไหมล่ะ",
+                "Rainy_Night_Haley": "ไงสุดซี้ ดีใจจังที่เธอกลับบ้าน ฉันจะเหงาอยู่แล้วเนี่ย",
+                "Outdoor_Haley": "ได้รับแดดแบบนี้ เหมือนจะเป็นวันที่ดีของฉันเลย ว่าปะ$h",
+                "spring_Haley": "หมดฤดูหนาวแล้ว เธอไม่ดีใจเหรอ {{TermofEndearment}} เวลานี้ มันน่าจะมีเรื่องดีๆ เกิดขึ้นนะ",
             },
             "When":
             {
-                "TermofEndearment": "@, BFF",
+                "TermofEndearment": "@ พ.ส.ท.ร.",
             },
         },
         {
@@ -269,8 +269,8 @@
             "Target": "Characters/Dialogue/MarriageDialogueHaley",
             "Entries":
             {
-                "Indoor_Night_Haley": "You look like you've been working hard. Want to chat about something light to de-stress?#$e#I can tell you all about the new blouse Emily made for me!",
-                "Rainy_Night_0": "Oh, I'm glad you're back. I was bored in here by myself... Are you ready to wind down for the night?",
+                "Indoor_Night_Haley": "เธอดูทำงานหนัก มาตลอดเลยนะ อยากคุยอะไรเบาๆ สมอง เพื่อคลายเครียดไหม#$e#เรื่องที่เอมิลี ตัดเสื้อตัวใหม่ให้ฉันมะ ฉันเล่าได้ทุกรายละเอียดเลยนะ!",
+                "Rainy_Night_0": "อะ ดีใจจังที่เธอกลับบ้าน ฉันอยู่บ้านแล้วเบื๊อเบื่อ... พร้อมจะผ่อนคลายในคืนนี้รึยัง",
             },
             "When":
             {
@@ -283,7 +283,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueHaley",
             "Entries":
             {
-                "Indoor_Night_Haley": "You look like you've been working hard. Let me help you de-stress.$l",
+                "Indoor_Night_Haley": "เธอดูทำงานหนัก มาตลอดเลยนะ ฉันจะช่วยเธอคลายเครียดเอง$l",
             },
             "When":
             {
@@ -295,7 +295,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "winter_Haley": "I was just thinking about the time you helped me open a jar of pickles.$h#$e#We've come a long way since then.",
+                "winter_Haley": "กำลังคิดถึงตอนที่เธอ ช่วยฉันเปิดโหลหมักดองนั่น จำได้เปล่า$h#$e#ตั้งแต่วันนั้น เรามากันไกลมากเลย",
             },
             "When":
             {
@@ -307,7 +307,7 @@
             "Target": "Strings/schedules/Haley",
             "Entries":
             {
-		"marriage_Mon.000": "Hi, {{Lowercase:{{TermofEndearment}}}}! I'm mostly just here to visit Emily.",
+		"marriage_Mon.000": "ไง {{Lowercase:{{TermofEndearment}}}}! ฉันเพิ่งมาถึงที่นี่เอง มาเยี่ยมเอมิลีน่ะ",
             },
             "When":
             {
@@ -320,11 +320,11 @@
             "Target": "Strings/schedules/Haley",
             "Entries":
             {
-		"marriage_Mon.000": "Hi, {{TermofEndearment}}! I'm mostly just here to visit Emily.",
+		"marriage_Mon.000": "ไง {{TermofEndearment}}! ฉันเพิ่งมาถึงที่นี่เอง มาเยี่ยมเอมิลีน่ะ",
             },
             "When":
             {
-                "TermofEndearment": "@, BFF",
+                "TermofEndearment": "@ พ.ส.ท.ร.",
             }
         },
         {
@@ -332,8 +332,8 @@
             "Target": "Characters/Dialogue/Alex",
             "Entries":
             {
-                "winter_Tue_inlaw_Haley": "Oh, hey. How's life with Haley?$9",
-                "winter_Tue4_inlaw_Haley": "I'll admit... At first, I was a little jealous about Haley moving in with you. But I get that it's not a romantic thing.#$e#Maybe I still have a chance with her!$h",
+                "winter_Tue_inlaw_Haley": "อ้าว หวัดดี กับเฮลีย์เป็นไงบ้าง$9",
+                "winter_Tue4_inlaw_Haley": "ยอมรับนะ... ตอนแรก ฉันอิจฉานิดหน่อย ที่เฮลีย์ย้ายไปอยู่กับเธอ แต่รู้แล้วว่า มันไม่ใช่รักโรแมนติก#$e#ฉันอาจจะยัง มีโอกาสอยู่ก็ได้!$h",
             },
             "When":
             {
@@ -345,7 +345,7 @@
             "Target": "Strings/Characters",
             "Entries":
             {
-                "MovieInvite_Spouse_Haley": "Oooh... a night out, huh? Let me just freshen up a little and I'll meet you at the theater.$h",
+                "MovieInvite_Spouse_Haley": "โอ้ว... เที่ยวเหรอ ขอเตรียมตัวแป๊บหนึ่ง แล้วเดี๋ยวเจอกันที่โรงหนังนะ$h",
             },
         },
         {
@@ -353,7 +353,7 @@
             "Target": "Data/Quests",
             "Entries":
             {
-                "127": "Basic/Haley's Cake-Walk/Haley is organizing a charity cake-walk in the town square. She asked you to bring a chocolate cake./Enter Town on a sunny morning with a chocolate cake./-1/-1/0/-1/true",
+                "127": "Basic/Haley's Cake-Walk/เฮลีย์จัดงาน เต้นนี้เพื่อเค้ก ที่จัตุรัสกลางเมือง เธอขอให้คุณ นำเค้กช็อกโกแลตมา/เข้าเมืองตอนเช้าที่มีแดดจ้า พร้อมกับเค้กช็อกโกแลต/-1/-1/0/-1/true",
             },
         },
         {
@@ -361,7 +361,7 @@
             "Target": "Data/Festivals/winter8",
             "Entries":
             {
-                "Haley_spouse": "Brr... my hands are freezing from making this snowman.$8",
+                "Haley_spouse": "บรื๋ออ... มือฉันเย็นจนแข็ง เพราะปั้นตุ๊กตาหิมะน่ะ$8",
             },
         },
         {
@@ -369,7 +369,7 @@
             "Target": "Data/Festivals/winter25",
             "Entries":
             {
-                "Haley_spouse": "Me?... I'm thankful for my best friend in the whole world, of course!$h",
+                "Haley_spouse": "ฉันเหรอ... ฉันก็ต้องขอบคุณเพื่อผู้แสนดีสุดประเสริฐอยู่แล้วสิ!$h",
             },
             "When":
             {
@@ -381,7 +381,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Haley": "*giggle*... $h\"/faceDirection farmer 1 true/emote farmer 8/pause 1000/speak Haley \"Oh, it's just that...#$b#As a little girl, I always dreamed that one day I would climb to the summit with my best friend. We'd hold hands and gaze out at the horizon, and promise to never be apart...$l#$b#In a way, that dream already came true. It was never really about the fancy backdrop.$l#$b#But... I'm still glad we're here today, @. This is going to be a beautiful memory.$l",
+                "SummitEvent_Dialogue3_Haley": "*คิๆ*... $h\"/faceDirection farmer 1 true/emote farmer 8/pause 1000/speak Haley \"โอ้ ก็แค่...#$b#ตอนเด็กๆ ฉันฝันตลอดว่า สักวันฉันจะขึ้นไปบนยอดเขา กับเพื่อนสุดที่รัก เราจะกุมมือกัน มองไปที่เส้นขอบฟ้า และสัญญาว่า จะไม่จากไปไหน...$l#$b#ฝันนั่นเป็นจริงแล้ว แค่บางข้อนะ ไม่ได้เกี่ยวกับวิวสวยๆ บนนั้นหรอก$l#$b#แต่... ฉันก็ยังดีใจนะที่เราได้อยู่ที่นี่ ในวันนี้ @ นี่จะต้องเป็นความทรงจำ ที่แสนสดงามแน่ๆ$l",
             },
             "When":
             {
@@ -393,7 +393,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Haley": "*giggle*... $h\"/faceDirection farmer 1 true/emote farmer 8/pause 1000/speak Haley \"Oh, it's just that...#$b#As a little girl, I always dreamed that one day I would climb to the summit with my best friend. We'd hold hands and gaze out at the horizon, and promise to never be apart...#$b#In a way, that dream already came true. It was never really about the fancy backdrop.#$b#But... I'm still glad we're here today, @. This is going to be a beautiful memory.",
+                "SummitEvent_Dialogue3_Haley": "*คิๆ*... $h\"/faceDirection farmer 1 true/emote farmer 8/pause 1000/speak Haley \"โอ้ ก็แค่...#$b#ตอนเด็กๆ ฉันฝันตลอดว่า สักวันฉันจะขึ้นไปบนยอดเขา กับเพื่อนสุดที่รัก เราจะกุมมือกัน มองไปที่เส้นขอบฟ้า และสัญญาว่า จะไม่จากไปไหน...#$b#ฝันนั่นเป็นจริงแล้ว แค่บางข้อนะ ไม่ได้เกี่ยวกับวิวสวยๆ บนนั้นหรอก#$b#แต่... ฉันก็ยังดีใจนะที่เราได้อยู่ที่นี่ ในวันนี้ @ นี่จะต้องเป็นความทรงจำ ที่แสนสดงามแน่ๆ",
             },
             "When":
             {
