@@ -1,29 +1,15 @@
 {
     "Format": "1.23.0",
     "ConfigSchema": {
+        "ThaiInterface": {
+            "AllowValues": "true, false",
+            "Default": "true",
+            "Description": "เปิดใช้งาน Interface ภาษาไทย"
+        },
         "FontBold": {
             "AllowValues": "true, false",
-            "Default": "false"
-        },
-        "TitleButtons": {
-            "AllowValues": "true, false",
-            "Default": "true"
-        },
-        "Intro": {
-            "AllowValues": "true, false",
-            "Default": "true"
-        },
-        "Billboard": {
-            "AllowValues": "true, false",
-            "Default": "true"
-        },
-        "JojaCDForm": {
-            "AllowValues": "true, false",
-            "Default": "true"
-        },
-        "LanguageButtons": {
-            "AllowValues": "true, false",
-            "Default": "true"
+            "Default": "false",
+            "Description": "เปิดใช้งานตัวอักษรภาษาอังกฤษเป็นตัวหนา"
         }
     },
 
@@ -66,7 +52,7 @@
             "Target": "LooseSprites/Billboard",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "Billboard": "true",
+                "ThaiInterface": true,
                 "Language": "th",
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
             }
@@ -78,22 +64,11 @@
             "Target": "LooseSprites/JojaCDForm",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "JojaCDForm": "true",
+                "ThaiInterface": true,
                 "Language": "th",
                 "HasMod |contains=IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface": false
             }
         },
-
-        // LanguageButtons
-        /*{
-            "Action": "EditImage",
-            "Target": "LooseSprites/LanguageButtons",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": {
-                "LanguageButtons": "true",
-                "HasMod |contains=IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ninthalley.TransparentBlueInterface": false
-            }
-        },*/
 
         // FontBold
         // as a token
@@ -122,7 +97,7 @@
             "Target": "Minigames/Intro",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "Intro": "true",
+                "ThaiInterface": true,
                 "Language": "th"
             }
         },
@@ -133,7 +108,7 @@
             "Target": "Minigames/TitleButtons",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "TitleButtons": "true",
+                "ThaiInterface": true,
                 "Language": "th",
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
             }
@@ -217,6 +192,16 @@
             "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
+        },
+
+        // Android mode
+        {
+            "Action": "Include",
+            "FromFile": "assets/android.json",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "Language": "th"
+            }
         }
     ]
 }
