@@ -9,7 +9,7 @@
         "FontBold": {
             "AllowValues": "true, false",
             "Default": "false",
-            "Description": "เปิดใช้งานตัวอักษรภาษาอังกฤษเป็นตัวหนา"
+            "Description": "เปิดใช้งานตัวหนา (อักษรภาษาอังกฤษ)"
         }
     },
 
