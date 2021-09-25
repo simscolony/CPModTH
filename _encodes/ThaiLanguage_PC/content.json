@@ -194,7 +194,7 @@
             "When": { "Language": "th" }
         },
 
-        // Android mode
+        // Android compatibility
         {
             "Action": "Include",
             "FromFile": "assets/android.json",
