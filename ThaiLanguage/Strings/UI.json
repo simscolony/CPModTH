@@ -524,7 +524,7 @@
         "DyePot_CanDye": "กดปุ่ม ย้อม เพื่อย้อมสีเสื้อผ้าของคุณ!",
         "DyePot_WillDye": "จะย้อม:",
         "DyePot_NoDyeable": "คุณไม่ได้ใส่เสื้อผ้าที่ย้อมได้",
-        "Input_EmoteButton": "เมนูแสดงอารมณ์",
+        "Input_EmoteButton": "หน้าต่างอิโมจิ",
         "Emote_Happy": "มีความสุข",
         "Emote_Sad": "เศร้า",
         "Emote_Heart": "หัวใจ",
