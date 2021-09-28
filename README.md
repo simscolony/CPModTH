@@ -42,7 +42,7 @@ NPC Map Locations                 | [✓](NPCMapLocations/i18n/th.json)         
 SMAPI                             | [✓](smapi-internal/i18n/th.json)                               | [↻ รอ Merge](https://github.com/Pathoschild/SMAPI/pull/807)
 Tractor Mod                       | [✓](TractorMod/i18n/th.json)                                   | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
 UI Info Suite                     | [✓](UI%20Info%20Suite/i18n/th.json)                            | [↻ รอ Merge](https://github.com/cdaragorn/Ui-Info-Suite/pull/79)
-UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [↻ รอ Merge](https://github.com/Annosz/UIInfoSuite2/pull/73)
+UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [✓](https://github.com/Annosz/UIInfoSuite2)
 
 ## อยากจะช่วยแปลต้องทำยังไง?
 
