@@ -22,27 +22,27 @@ Raised Garden Beds                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)  
 Platonic Partners and Friendships | [↻ แปลบางส่วน]([CP]%20Platonic%20Partners%20and%20Friendships/) |
 ATM                               | [✓](ATM/i18n/th.json)                                          | [↻ รอ Merge](https://github.com/Platonymous/Stardew-Valley-Mods/pull/121)
 Better Junimos                    | [✓](BetterJunimos/i18n/th.json)                                |
-Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
+Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/518)
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/th.json)                                | [↻ รอ Merge](https://github.com/CJBok/SDV-Mods/pull/159)
 CJB Cheats Menu (Grandpa's Farm)  | [✓](CJBCheatsMenu_GrandpasFarm/i18n/th.json)                   |
 CJB Cheats Menu (IF2R)            | [✓](CJBCheatsMenu_IF2R/i18n/th.json)                           |
 CJB Cheats Menu (SVE)             | [✓](CJBCheatsMenu_SVE/i18n/th.json)                            |
 CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/th.json)                               | [↻ รอ Merge](https://github.com/CJBok/SDV-Mods/pull/159)
 CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/th.json)                         | [↻ รอ Merge](https://github.com/CJBok/SDV-Mods/pull/159)
-Community Center Helper           | [✓](CommunityCenterHelper/i18n/th.json)                        | [✓](https://github.com/vgperson/CommunityCenterHelper#supported-languages)
-Data Layers                       | [✓](DataLayers/i18n/th.json)                                   | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
-Debug Mode                        | [✓](DebugMode/i18n/th.json)                                    | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
+Community Center Helper           | [✓](CommunityCenterHelper/i18n/th.json)                        | [✓](https://www.nexusmods.com/stardewvalley/mods/6893)
+Data Layers                       | [✓](DataLayers/i18n/th.json)                                   | [✓](https://www.nexusmods.com/stardewvalley/mods/1691)
+Debug Mode                        | [✓](DebugMode/i18n/th.json)                                    | [✓](https://www.nexusmods.com/stardewvalley/mods/679)
 Error Handler                     | [✓](ErrorHandler/i18n/th.json)                                 | [↻ รอ Merge](https://github.com/Pathoschild/SMAPI/pull/807)
 Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/th.json)                              | [↻ รอ Merge](https://github.com/tstaples/GiftTasteHelper/pull/24)
 Junimo Dialog                     | [✓](JunimoDialog/i18n/th.json)                                 | [↻ รอ Merge](https://github.com/ceruleandeep/CeruleanStardewMods/pull/1)
-Lookup Anything                   | [✓](LookupAnything/i18n/th.json)                               | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
+Lookup Anything                   | [✓](LookupAnything/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/541)
 The Love of Cooking               | [✓](LoveOfCooking/i18n/th.json)                                | [↻ รอ Merge](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
-Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
+Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [✓](https://www.nexusmods.com/stardewvalley/mods/3900)
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/th.json)                              | [↻ รอ Merge](https://github.com/bouhm/stardew-valley-mods/pull/82)
 SMAPI                             | [✓](smapi-internal/i18n/th.json)                               | [↻ รอ Merge](https://github.com/Pathoschild/SMAPI/pull/807)
-Tractor Mod                       | [✓](TractorMod/i18n/th.json)                                   | [✓](https://github.com/Pathoschild/StardewMods#translating-the-mods)
+Tractor Mod                       | [✓](TractorMod/i18n/th.json)                                   | [✓](https://www.nexusmods.com/stardewvalley/mods/1401)
 UI Info Suite                     | [✓](UI%20Info%20Suite/i18n/th.json)                            | [↻ รอ Merge](https://github.com/cdaragorn/Ui-Info-Suite/pull/79)
-UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [✓](https://github.com/Annosz/UIInfoSuite2)
+UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [✓](https://github.com/Annosz/UIInfoSuite2/releases)
 
 ## อยากจะช่วยแปลต้องทำยังไง?
 
