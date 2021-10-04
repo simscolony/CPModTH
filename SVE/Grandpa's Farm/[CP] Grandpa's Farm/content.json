@@ -12,41 +12,41 @@
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "RemoveFences": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "RemoveGrassStretch": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "RemovePetHouse": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "GrassCropField": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "HeavyDebris": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "LargerGreenhouse": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "RemoveGreenhouseObjects": {
       "AllowValues": "true, false",
       "Default": "false"
-   } 
+   }
 },
 
 
@@ -82,8 +82,8 @@
       "Value": "{{HasSeenEvent: currentPlayer, hostPlayer |contains=8033861}}"
     },
  ],
- 
-  "Changes": [ 
+
+  "Changes": [
 
     //Load tilesheets
     {
@@ -91,7 +91,7 @@
       "Target": "Maps/z_petbowl, Maps/z_FarmCliff_Shadow, Maps/GrandpasGrove_Shadows1, Maps/GrandpasGrove_Shadows2, Maps/z_FarmCliff_Copper, Maps/z_FarmCliff_Iron, Maps/z_FarmCliff_Gold, Maps/z_FarmCliff_Gems, Maps/z_FarmCliff_Blank",
       "FromFile": "assets/Tilesheets/{{TargetWithoutPath}}.png",
     },
-	
+
     //Load mist tilesheets
     {
       "Action": "Load",
@@ -99,7 +99,7 @@
       "FromFile": "assets/Tilesheets/{{TargetWithoutPath}}.png",
 	  "When": { "MistEffects": "true" }
     },
-	
+
     { //Adds mist effects to the farm
      "Action": "EditMap",
 	 "Target": "Maps/Farm",
@@ -107,7 +107,7 @@
 	 "When": { "MistEffects": "true", "Weather": "Rain, Storm", "FarmType": "Standard" },
 	 "ToArea": { "X": 0, "Y": 0, "Width": 120, "Height": 97 }
     },
-	
+
 	{ //Adds mist effects to the grandpa's grove
      "Action": "EditMap",
 	 "Target": "Maps/Custom_GrandpasGrove",
@@ -123,7 +123,7 @@
       "FromFile": "assets/Maps/GrandpasFarm.tbin",
 	  "When": { "SandboxLayout": "false" }
     },
-	
+
 	//Load grandpa's farm
 	{
       "Action": "Load",
@@ -131,10 +131,10 @@
       "FromFile": "assets/Maps/GrandpasFarm_SandboxLayout.tbin",
 	  "When": { "SandboxLayout": "true" }
     },
-	
-	
+
+
 	//Configurations
-	
+
     { //Remove Static Fences
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -149,7 +149,7 @@
       "ToArea": { "X": 35, "Y": 35, "Width": 35, "Height": 50 },
       "When": { "FarmType": "Standard", "RemoveFences": "true", "RemoveGrassStretch": "false", "SandboxLayout": "false" }
     },
-	
+
 	{ //Removes grass stretch
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -157,7 +157,7 @@
       "ToArea": { "X": 69, "Y": 53, "Width": 11, "Height": 30 },
       "When": { "FarmType": "Standard", "RemoveGrassStretch": "true", "SandboxLayout": "false" }
     },
-	
+
 	{ //Removes Pet House
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -165,7 +165,7 @@
       "ToArea": { "X": 101, "Y": 35, "Width": 3, "Height": 5 },
       "When": { "FarmType": "Standard", "RemovePetHouse": "true" }
     },
-	
+
     { //Grass crop field
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -173,7 +173,7 @@
       "ToArea": { "X": 74, "Y": 51, "Width": 40, "Height": 30 },
       "When": { "FarmType": "Standard", "GrassCropField": "true", "SandboxLayout": "false" }
     },
-	
+
     { //heavy debris config 1
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -181,7 +181,7 @@
       "ToArea": { "X": 0, "Y": 0, "Width": 120, "Height": 97 },
       "When": { "FarmType": "Standard", "HeavyDebris": "true", "SandboxLayout": "false" }
     },
-	
+
     { //heavy debris config 2 - fence area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -189,7 +189,7 @@
       "ToArea": { "X": 35, "Y": 35, "Width": 34, "Height": 50 },
       "When": { "FarmType": "Standard", "HeavyDebris": "true", "RemoveFences": "true", }
     },
-	
+
 	//Load greenhouse
 	{
       "Action": "Load",
@@ -197,7 +197,7 @@
       "FromFile": "assets/Maps/Greenhouse_GrandpasFarm.tbin",
 	  "When": { "LargerGreenhouse": "true" }
     },
-	
+
 	{
       "Action": "EditMap",
       "Target": "Maps/Greenhouse,Maps",
@@ -205,7 +205,7 @@
 	  "When": { "LargerGreenhouse": "true", "RemoveGreenhouseObjects": "true" },
 	  "ToArea": { "X": 0, "Y": 0, "Width": 27, "Height": 32 }
     },
-	
+
 	//Patches surrounding maps with warp tiles + redesigns
     {
       "Action": "EditMap",
@@ -242,7 +242,7 @@
       "ToArea": { "X": 44, "Y": 0, "Width": 6, "Height": 7 },
       "When": { "FarmType": "Standard" }
     },
-	
+
 	//Patches grandpa's farm forest entrance
     {
       "Action": "EditMap",
@@ -269,7 +269,7 @@
       "MapProperties": { "NightTiles": "AlwaysFront 67 93 908" },
       "When": { "HasSeenEvent": "5553210", "FarmType": "Standard" }
     },
-	
+
 	//Patches backwoods staircase
 	{
       "Action": "EditMap",
@@ -278,7 +278,7 @@
       "ToArea": { "X": 76, "Y": 0, "Width": 6, "Height": 3 },
       "When": { "HasFlag": "communityUpgradeShortcuts", "FarmType": "Standard" }
     },
-	
+
 	//Patches traveling merchant
 	{
       "Action": "EditMap",
@@ -286,7 +286,7 @@
       "FromFile": "assets/MapPatches/GrandpasFarm_ForestTravelingMerchant.tbin",
       "ToArea": { "X": 23, "Y": 93, "Width": 8, "Height": 4 },
       "When": { "DayOfWeek": "Friday, Sunday", "FarmType": "Standard" }
-    },	
+    },
 	{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
@@ -296,7 +296,7 @@
 	 "PatchMode": "Overlay",
 	 "Update": "OnLocationChange"
     },
-	
+
 	//Fixes an issue where moving the greenhouse caused glitched tiles.
 	{
       "Action": "EditMap",
@@ -304,26 +304,26 @@
       "FromFile": "assets/MapPatches/GrandpasFarm_GreenhousePatch.tmx",
       "When": { "FarmType": "Standard" },
 	  "ToArea": { "X": 0, "Y": 0, "Width": 9, "Height": 6 },
-    }, 
+    },
 
 
 
 	// *** START GRANDPAS SHED CODE - CONTINUED *** //
-	
-	
-	
+
+
+
 	//Patches fixed grandpa's shed
-	{ 
+	{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_ShedFixed.tbin",
 	 "When": { "GrandpaShedComplete": true },
      "ToArea": { "X": 15, "Y": 11, "Width": 11, "Height": 12 }
     },
-	
-	
+
+
 	//Start Bridge quest
-	
+
     {
       "Action": "EditData",
       "Target": "Data/SpecialOrders",
@@ -390,7 +390,7 @@
 	 "2554908/t 900 1800/H": "none/-500 -500/farmer -200 -200 0 Robin 13 13 0/skippable/pause 1000/speak Robin \"ว่าไง @!$1#$b#ฉันพึ่งได้อ่านนิตสาร งานก่ออิฐฉาบปูนมาน่ะ แล้วก็เลยมีแรงบันดาลใจ อยากจะลองดูสักตั้ง!#$b#ถ้าเธอหาหินมาให้ฉันละก็ ฉันจะสร้างสะพานน้อยน่ารัก ข้ามไปที่กระท่อมของเธอ$0#$b#เป็นไง น่าสนใจใช่มั้ยละ ว่าม้า?$1\"/pause 200/emote farmer 32/pause 300/speak Robin \"เพื่อความปลอดภัย ฉันคิดว่าโปรเจ็กต์นี้ จำเป็นต้องใช้หิน 900 ก้อน#$b#เธอสามารถเอาหิน ไปส่งไว้ที่หีบเก็บของ ที่ร้านของฉันได้เลยนะ!$0\"/pause 500/end"
 	    },
     },
-	
+
 	//Event #9 - Stone Bridge    <<ID tagged by framework
     {
 	 "Action": "EditData",
@@ -400,19 +400,19 @@
 	 "2554928/e 2554908/k 2554909/t 900 1800/H": "none/-500 -500/Robin -10 -10 0/end"
 	    },
     },
-	
+
 	//Event #10 - Stone Bridge  <<Triggers map patch
     {
 	 "Action": "EditData",
 	 "Target": "data/events/Farm",
 	 "When": { "FarmType": "Standard" },
 	 "Entries": {
-	 "2554909/n BridgeBuilt/t 600 1150/H": "continue/64 15/farmer 64 15 2 Robin 64 17 0/skippable/pause 1000/speak Robin \"หวัดดีตอนเช้า @! เธอรวบรวมหินมาได้ทั้งหมด ตามที่ฉันต้องการเลยนะเนี่ย!$1#$b#วันพรุ่งนี้ ฉันจะเริ่มสร้างสะพาน เป็นอย่างแรกเลย!$0\"/pause 500/end",              
+	 "2554909/n BridgeBuilt/t 600 1150/H": "continue/64 15/farmer 64 15 2 Robin 64 17 0/skippable/pause 1000/speak Robin \"หวัดดีตอนเช้า @! เธอรวบรวมหินมาได้ทั้งหมด ตามที่ฉันต้องการเลยนะเนี่ย!$1#$b#วันพรุ่งนี้ ฉันจะเริ่มสร้างสะพาน เป็นอย่างแรกเลย!$0\"/pause 500/end",
 	    },
     },
 
 	//Patches bridge
-	{ 
+	{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_Bridge.tbin",
@@ -488,7 +488,7 @@
 	 "Update": "OnLocationChange"
     },
 
-	
+
     //Part 1 - A strange commission - Lewis     <<ID tagged by quest
     {
 	 "Action": "EditData",
@@ -498,7 +498,7 @@
 	 "2554910/y 2/k 6665293/H": "continue/-500 -500/farmer 13 1 0 Clint 3 13 2 Lewis 3 15 0/pause 500/viewport 7 14 true/pause 1000/speak Lewis \"ฉันจะรอคอย อย่างใจจดใจจ่อเลย ขอบใจนะ!$0\"/pause 500/faceDirection Lewis 1 true/pause 300/faceDirection Lewis 2 true/pause 300/move Lewis 0 1 1/move Lewis 2 0 2/move Lewis 0 3 2/warp Lewis -40 -40/playSound doorClose/pause 700/shake Clint 500/pause 700/speak Clint \"ฮึ่มม... ฉันไม่รู้เลย ว่าจะไปหาทองคำ ตามที่เขาว่าจ้าง มาจากที่ไหนดี$2\"/pause 1000/playSound doorClose/warp farmer 5 19/pause 400/move farmer 0 -2 3/move farmer -2 0 0/move farmer 0 -2 0 true/speak Clint \"เฮ้ @ คุณแวะมาได้จังหวะพอดี$0\"/pause 500/emote farmer 8/pause 500/speak Clint \"ฉันจำเป็นต้องใช้ทองคำ 30 แท่งเพื่อจะทำ... โครงการนึงน่ะ คุณสนใจมั้ยล่ะ เพราะฉันเห็นว่าคุณก็เป็น นักผจญภัยคนนึง เหมือนกันน่ะนะ$0\"/pause 500/emote farmer 40/pause 200/speak Clint \"ส่วนค่าจ้าง ฉันคิดว่า ฉันจะใช้เครื่องมือใหม่ของฉัน จัดการพุ่มไม้หนา ที่อยู่ในฟาร์มของคุณ$0#$b#กระท่อมใหญ่ของคุณ ที่อยู่ใกล้ๆ กับ น้ำพุร้อนธรรมชาตินั่นน่ะ ฉันจะเปิดทางเดิน ไปที่นั้นให้คุณเอง$0\"/pause 500/jump farmer/pause 1000/speak Clint \"เยี่ยม ขอบใจที่ช่วยนะ คุณเอาทองแท่งพวกนั้น ไปวางที่ตู้เก็บแร่ตรงมุมนั้น$0\"/pause 500/faceDirection farmer 1 true/pause 650/globalFade/viewport -1000 -1000/end dialogueWarpOut Clint \"โอ้ โครงการอะไรน่ะหรอ? ฉันพูดถึงมันไม่ได้จริงๆ$0\""
 	 },
     },
-	
+
     //Part 1 - A strange commission - Morris     <<ID tagged by quest
     {
 	 "Action": "EditData",
@@ -508,38 +508,38 @@
 	 "2554910/y 2/e 6665293/H": "continue/-500 -500/farmer 13 1 0 Clint 3 13 2 MorrisTod 3 15 0/pause 500/viewport 7 14 true/pause 1000/speak MorrisTod \"ดีเลิศประเสริฐศรี ฉันจะคอยดูผลลัพธ์ที่ออกมา!$1\"/pause 500/faceDirection MorrisTod 1 true/pause 300/faceDirection MorrisTod 2 true/pause 300/move MorrisTod 0 1 1/move MorrisTod 2 0 2/move MorrisTod 0 3 2/warp MorrisTod -40 -40/playSound doorClose/pause 700/shake Clint 500/pause 700/speak Clint \"ฮึ่มม... ฉันไม่รู้เลย ว่าจะไปหาทองคำ ตามที่เขาว่าจ้าง มาจากที่ไหนดี$2\"/pause 1000/playSound doorClose/warp farmer 5 19/pause 400/move farmer 0 -2 3/move farmer -2 0 0/move farmer 0 -2 0 true/speak Clint \"เฮ้ @ คุณแวะมาได้จังหวะพอดี$0\"/pause 500/emote farmer 8/pause 500/speak Clint \"ฉันจำเป็นต้องใช้ทองคำ 30 แท่งเพื่อจะทำ... โครงการนึงน่ะ คุณสนใจมั้ยล่ะ เพราะฉันเห็นว่าคุณก็เป็น นักผจญภัยคนนึง เหมือนกันน่ะนะ$0\"/pause 500/emote farmer 40/pause 200/speak Clint \"ส่วนค่าจ้าง ฉันคิดว่า ฉันจะใช้เครื่องมือใหม่ของฉัน จัดการพุ่มไม้หนา ที่อยู่ในฟาร์มของคุณ$0#$b#กระท่อมใหญ่ของคุณ ที่อยู่ใกล้ๆ กับ น้ำพุร้อนธรรมชาตินั่นน่ะ ฉันจะเปิดทางเดิน ไปที่นั้นให้คุณเอง$0\"/pause 500/jump farmer/pause 1000/speak Clint \"เยี่ยม ขอบใจที่ช่วยนะ คุณเอาทองแท่งพวกนั้น ไปวางที่ตู้เก็บแร่ตรงมุมนั้น$0\"/pause 500/faceDirection farmer 1 true/pause 650/globalFade/viewport -1000 -1000/end dialogueWarpOut Clint \"โอ้ โครงการอะไรน่ะหรอ? ฉันพูดถึงมันไม่ได้จริงๆ$0\""
 	 },
     },
-	
+
 	//Part 2 - A strange commission    <<ID tagged by framework
     {
 	 "Action": "EditData",
 	 "Target": "data/events/Blacksmith",
 	 "Entries": {
-	 "2551994/e 2554910/k 2554911/H": "continue/-500 -500/Clint -20 -20 0/end" 
+	 "2551994/e 2554910/k 2554911/H": "continue/-500 -500/Clint -20 -20 0/end"
 	 },
     },
 
-	
+
 	//Part 3 - A strange commission    <<Map patched next day
 	{
 	 "Action": "EditData",
 	 "Target": "data/events/Farm",
 	 "When": { "FarmType": "Standard" },
 	 "Entries": {
-	 "2554911/n GoldenStatueCommission/H": "continue/95 49/farmer 64 15 2 Clint 64 17 0/pause 1000/speak Clint \"เฮ้ เอ่ออ.. ฉันลองไปสำรวจดูรอบๆ พุ่มไม้หนาแถวๆ กระท่อมมาแล่วน่ะ เหมือนฉันจะคิดถูกนะ มันมีเส้นทางไป สู่สถานที่เจ๋งๆ ...$0#$b#พรุ่งนี้น่าจะ เคลียร์เส้นทางได้เรียบร้อย ขอบใจอีกครั้ง สำหรับความช่วยเหลือ @$0\"/pause 500/end dialogue Clint \"ฉันไม่เคยตั้งคำถาม เรื่องที่คนว่าจ้างให้ฉันทำอะไร$0#$e#มีน้ำพุร้อนมากมายบนภูเขา แถมมีบ่อที่เยี่ยมมากอันนึง อยู่ใกล้กระท่อมคุณด้วย$0\""
+	 "2554911/n GoldenStatueCommission/H": "continue/95 49/farmer 64 15 2 Clint 64 17 0/pause 1000/speak Clint \"เฮ้ เอ่ออ.. ฉันลองไปสำรวจดูรอบๆ พุ่มไม้หนาแถวๆ กระท่อมมาแล้วน่ะ เหมือนฉันจะคิดถูกนะ มันมีเส้นทางไป สู่สถานที่เจ๋งๆ ...$0#$b#พรุ่งนี้น่าจะ เคลียร์เส้นทางได้เรียบร้อย ขอบใจอีกครั้ง สำหรับความช่วยเหลือ @$0\"/pause 500/end dialogue Clint \"ฉันไม่เคยตั้งคำถาม เรื่องที่คนว่าจ้างให้ฉันทำอะไร$0#$e#มีน้ำพุร้อนมากมายบนภูเขา แถมมีบ่อที่เยี่ยมมากอันนึง อยู่ใกล้กระท่อมคุณด้วย$0\""
 	 },
     },
-	
+
     //Patches grove entrance
-	{ 
+	{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_GroveUnlocked.tbin",
 	 "When": { "GroveComplete": "true", "FarmType": "Standard" },
      "ToArea": { "X": 0, "Y": 17, "Width": 9, "Height": 6 }
     },
-	
 
-	
+
+
 { //Lewis's Special Order #2 - allows player on Grandpa's Farm to purchase more land   ---> Quest is added to journal automatically
   "Action": "EditData",
   "Target": "Data/SpecialOrders",
@@ -606,7 +606,7 @@
 	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent |contains=6665293": false }, //= Summer 17th year 3 minimum, Grandpa's Farm is being played on
 	 "Entries": {
 	 "8033858/t 800 1700/j 268/w sunny/H": "continue/-500 -500/farmer 95 49 2 Lewis 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Lewis 10 -25/viewport 95 49 clamp true/pause 1000/speak Lewis \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ฉันขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ฉัน ต้องคุยกับเธอหน่อย!$0\"/pause 650/emote farmer 8 true/pause 1500/faceDirection Lewis 1 true/pause 500/speak Lewis \"ตามฉันไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection Lewis 3 true/warp farmer 120 57/warp Lewis 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump Lewis/pause 1000/speak Lewis \"ฉันไม่ได้ปีนรั้วแบบนี้ มาตั้งแต่สมัยที่เป็น วัยรุ่นแล้วนู้นนน!$1\"/pause 1200/faceDirection Lewis 2 true/pause 1000/faceDirection Lewis 3 true/pause 300/faceDirection Lewis 0 true/pause 1000/faceDirection Lewis 3 true/pause 400/speak Lewis \"เธอเองก็ทำฟาร์ม %farm นี้มาได้ 2 ปีกว่าแล้วนะ เธอคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวเนี้ยมีที่ดินดีๆ มากมาย ติดกับที่ดินของเธอ$0\"/pause 600/emote farmer 40/speak Lewis \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาฉันที่บ้านได้ ถ้าเธอตัดสินใจได้แล้ว @$1\"/pause 600/globalFade/viewport -1000 -1000/warp Lewis -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกเลวิสให้รู้ละกัน\"/pause 500/end dialogue Lewis \"อ่าา เธอไม่ต้องการ ขยายฟาร์มงั้นหรอ? ขอบใจที่มาบอกให้ฉันรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
-	  
+
      },
 },
 
@@ -714,7 +714,7 @@
 	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent": "6665293" }, //= Summer 17th year 3 minimum, Grandpa's Farm is being played on
 	 "Entries": {
 	 "8033858/t 800 1700/j 268/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset MorrisTod 10 -25/viewport 95 49 clamp true/pause 1000/speak MorrisTod \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ผมขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ผม ต้องคุยกับคุณหน่อย!$1\"/pause 650/emote farmer 8 true/pause 1500/faceDirection MorrisTod 1 true/pause 500/speak MorrisTod \"ตามผมไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection MorrisTod 3 true/warp farmer 120 57/warp MorrisTod 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump MorrisTod/pause 1000/speak MorrisTod \"หืมม...$0\"/pause 1200/faceDirection MorrisTod 2 true/pause 1000/faceDirection MorrisTod 3 true/pause 300/faceDirection MorrisTod 0 true/pause 1000/faceDirection MorrisTod 3 true/pause 400/speak MorrisTod \"คุณเองก็ทำฟาร์ม %farm นี้มาได้ 2 ปีกว่าแล้วนะ คุณคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวนี้มีที่ดินดีๆ มากมาย ติดกับที่ดินของคุณ$4\"/pause 600/emote farmer 40/speak MorrisTod \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาผมที่ร้านโจจ้าได้ ถ้าคุณตัดสินใจได้แล้ว @$4\"/pause 600/globalFade/viewport -1000 -1000/warp MorrisTod -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกมอร์ริสให้รู้ละกัน\"/pause 500/end dialogue MorrisTod \"อ่าา คุณไม่ต้องการ ขยายฟาร์มงั้นหรอ? ขอบคุณที่มาบอกให้ผมรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
-	  
+
      },
 },
 
@@ -753,17 +753,17 @@
 	 "8033861/n DeedOfLand/t 600 700/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/skippable/pause 1000/speak MorrisTod \"ข่าวดี @ แบบฟอร์ม การขอขยายฟาร์มของคุณ ได้รับการอนุมัติแล้ว$0#$b#ที่ดินจะเตรียม และพร้อมใช้งานในวันพรุ่งนี้!$1\"/pause 500/end"
 	 },
 },
-	
+
 
 //Patches extra land
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_ExtraLand.tbin",
 	 "When": { "ExtraLand": "true", "GrassCropField": "false", "FarmType": "Standard" },
      "ToArea": { "X": 110, "Y": 33, "Width": 26, "Height": 42 }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_ExtraLand_GrassField.tbin",
@@ -832,7 +832,7 @@
 	 "When": { "Season": "Fall" },
 	 "ToArea": { "X": 0, "Y": 0, "Width": 140, "Height": 97 }
     },
-	
+
 	//Makes gem appearances dynamic to players mining level
     {
      "Action": "EditImage",
@@ -859,7 +859,7 @@
 	 "When": { "SkillLevel:Mining": "0, 1, 2, 3, 4, 5, 6, 7, 9" }
     },
 
-	
+
 	//Patches world map
 	{
       "Action": "EditImage",
@@ -896,7 +896,7 @@
       "ToArea": { "X": 89, "Y": 67, "Width": 35, "Height": 30 },
       "When": { "FarmType": "Standard", "SandboxLayout": "true" }
     },
-	
+
     //Voids dirt under petbowl
     {
       "Action": "EditImage",
@@ -906,7 +906,7 @@
       "When": { "FarmType": "Standard" },
 	  "Update": "OnLocationChange"
     },
-	
+
 	{ //Sophia spouse area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -914,7 +914,7 @@
 	  "When": { "FarmType": "Standard", "Spouse": "Sophia" },
       "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
     },
-	
+
 	{ //Victor spouse area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -922,7 +922,7 @@
 	  "When": { "FarmType": "Standard", "Spouse": "Victor" },
       "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
     },
-	
+
 	{ //Olivia spouse area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -930,7 +930,7 @@
 	  "When": { "FarmType": "Standard", "Spouse": "Olivia", "Weather |contains=Winter": false },
       "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
     },
-	
+
 	{ //Claire spouse area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -938,7 +938,7 @@
 	  "When": { "FarmType": "Standard", "Spouse": "Claire" },
       "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
     },
-	
+
 	{ //Wizard spouse area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
@@ -946,7 +946,7 @@
 	  "When": { "FarmType": "Standard", "Spouse": "Wizard" },
       "ToArea": { "X": 78, "Y": 39, "Width": 4, "Height": 2 },
     },
-	
+
     //Changes standard farm icon to grandpa
     {
       "Action": "EditImage",
@@ -954,7 +954,7 @@
       "FromFile": "assets/Tilesheets/Icon.png",
       "ToArea": { "X": 2, "Y": 324,"Width": 18, "Height": 20 },
     },
-	
+
 	//Changes standard farm string
 	{
 	  "Action": "EditData",
@@ -963,7 +963,7 @@
 	  "Character_FarmStandard": "Grandpa's Farm_(ฟาร์มคุณปู่) พื้นที่เพาะปลูกขนาดพอประมาณ มีต้นหญ้าที่เก็บเกี่ยวได้ สถานที่สำคัญที่แตกต่างจากเดิม เส้นทางลัดสู่พื้นที่รอบข้าง และความลับที่รอคอยให้ค้นหา",
 	  }
 	},
-	
+
 	//Opening event pathing and viewport fix
     {
       "Action": "EditData",
@@ -973,7 +973,7 @@
       "60367/u 0": "none/-1000 -1000/farmer 12 10 2 Robin 12 13 0 Lewis -100 -100 2/skippable/pause 500/playSound busDoorOpen/pause 5000/viewport 13 14 clamp true/move farmer 0 2 2/playMusic SettlingIn/speak Robin \"สวัสดี! เธอใช่ @ หรือเปล่าจ๊ะ?#$b#ฉันชื่อโรบินนะ เป็นช่างไม้ประจำหมู่บ้านนี้ นายกเทศมนตรีเลวิสส่งฉันมา ให้พาเธอไปส่งที่บ้าน ตอนนี้เขาคงรออยู่ที่นั่นแล้ว หยิบของแล้วไปกันเถอะ#$b#ฟาร์มอยู่ทางขวานี่เอง เดินตามฉันมาแล้วกันนะ\"/viewport move 0 2 800/move Robin 0 5 2 true/pause 800/move farmer 0 4 2 true/fade/speed farmer 2/viewport -200 -200/changeLocation Farm/halt/warp Robin 109 51/faceDirection Robin 3/warp farmer 110 51/faceDirection farmer 3/viewport 105 51 clamp/viewport move -1 0 4000/move Robin -8 0 3 farmer -8 0 3/pause 700/faceDirection Robin 2/speak Robin \"และนี่คือ %farm\"/pause 500/faceDirection farmer 2/showFrame 94/jump farmer/startJittering/pause 1000/emote farmer 28/showFrame 0/stopJittering/pause 800/faceDirection Robin 1/pause 200/speak Robin \"โน่นน่ะเหรอ?#$b#ใช่แล้วล่ะ มันออกจะดูรกๆ ไปหน่อย แต่มันก็บ่งบอกได้เลยนะ ว่าดินแถวนี้ดี!#$b#ด้วยสองมือของเธอ อีกไม่นาน ที่นี่จะดูดีขึ้นแน่นอน\"/pause 500/faceDirection farmer 3/pause 200/viewport move -1 0 5000/move Robin -7 0 0 farmer -7 0 0/pause 400/faceDirection Robin 0/speak Robin \"...และที่เรายืนอยู่ตอนนี้ก็คือ บ้านหลังใหม่ของเธอ$h\"/pause 300/faceDirection farmer 0/pause 500/playSound doorClose/warp Lewis 95 49/pause 1500/speak Lewis \"อ๋าา เจ้าของฟาร์มคนใหม่ ของหมู่บ้านนี่เอง!$h\"/move Lewis 0 1 2/move Lewis 1 0 2/move Lewis 0 1 3/faceDirection farmer 1/faceDirection Robin 1/pause 600/speak Lewis \"ยินดีต้อนรับ! ฉันชื่อเลวิส เป็นนายกเทศมนตรีของ เมืองเพลิแกนแห่งนี้#$b#รู้มั้ยว่าทุกคนต่างก็พูดถึง แต่เรื่องของเธอกัน#$b#ที่นี่ไม่ค่อยจะมี คนย้ายเข้ามาบ่อยๆ นักหรอก มันเลยเป็นเรื่อง ที่น่าตื่นเต้นทีเดียวเลยล่ะ!\"/pause 1000/faceDirection Lewis 3/pause 100/faceDirection Lewis 0/pause 500/speak Lewis \"เอาล่ะ... ตอนนี้เธอลองเข้าไปใน 'กระท่อมเก่า' ของปู่เธอได้แล้ว#$b#มันเป็นบ้านที่ดีทีเดียวเลย... ถึงมันจะดู 'บ้านนอก' ไปหน่อยก็เถอะ\"/pause 300/faceDirection Robin 0 true/faceDirection farmer 0/viewport move 0 -1 2000/pause 3000/speak Robin \"'บ้านนอก'? ก็น่าจะเป็นอีกวิธีที่จะใช้นิยาม บ้านหลังนี้อ่ะนะ...$4#$b#ถึงอย่างนั้น ฉันคิดว่าคำว่า 'ทรุดโทรม' ดูจะเหมาะสมกับ บ้านหลังนี้มากกว่าซะอีก$4\"/faceDirection Lewis 3 true/jump Lewis/shake Lewis 1600/textAboveHead Lewis \"หยาบคาย!\"/showFrame Lewis 24/pause 500/faceDirection Robin 1 true/pause 100/faceDirection Robin 2 true/pause 100/animate Robin false true 100 32 33/faceDirection farmer 2/pause 1000/showFrame Lewis 12/stopAnimation Robin/pause 300/faceDirection Robin 1/showFrame Lewis 12/faceDirection farmer 1/speak Lewis \"อย่าไปฟังโรบินเลย @ เธอก็แค่อยากให้คุณไม่พอใจ จนต้องรีบเสียเงิน ไปปรับปรุงบ้านกับหล่อน แค่นั้นแหละ$u\"/showFrame Lewis 12/showFrame Robin 19/shake Robin 800/pause 1200/showFrame Robin 0/pause 600/animate Robin false true 300 34 35/textAboveHead Robin \"ฮึ่มม\"/pause 1500/speak Lewis \"ยังไงก็ตาม... เธอคงจะต้องเหนื่อย กับอะไรอีกเยอะ เธอควรจะไปพักผ่อนได้แล้ว#$b#พรุ่งนี้เธอ ค่อยเข้าไปสำรวจในเมือง แล้วก็แนะนำตัวซะหน่อย#$b#พวกชาวเมืองที่นี่ เป็นกันเองมากเลยนะ\"/move Lewis 4 0 1 true/viewport move 1 0 2000/pause 3000/proceedPosition Lewis/faceDirection Lewis 0/pause 500/faceDirection Lewis 3/speak Lewis \"โอ้ เกือบลืมบอกแน่ะ หากเธอต้องการขายอะไร ก็โยนลงกล่องนี่ได้เลย เดี๋ยวตอนเช้ามืด ฉันจะมาซื้อพวกมันเอง#$b#เอาล่ะ... โชคดีละกันนะ!\"/pause 300/move Lewis 8 0 1 true/faceDirection farmer 0/stopAnimation Robin/advancedMove Robin false 0 1 2 0 0 -1 5 0/pause 1000/globalFade/viewport -1000 -1000/playMusic none/pause 2000/playSound rooster/pause 1000/end beginGame",
 	  }
     },
-	
-	
+
+
   ]
 }
