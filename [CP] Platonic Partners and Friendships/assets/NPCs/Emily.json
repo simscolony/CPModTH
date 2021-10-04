@@ -25,8 +25,8 @@
                 "NPC.cs.4517": "แสงสว่างในชีวิตฉัน",
                 "NPC.cs.4518": "แสงสว่างในชีวิตฉัน",
                 "NPC.cs.4519": "แสงสว่างในชีวิตฉัน",
-                "NPC.cs.4522": "My kindred soul",
-                "NPC.cs.4523": "My kindred soul",
+                "NPC.cs.4522": "คู่ลิขิตของฉัน",
+                "NPC.cs.4523": "คู่ลิขิตของฉัน",
                 "Event.cs.1736": "$q -1 null#ฉันเซ้นส์ได้ว่า เธออยากถามอะไรฉันสินะ...#$r -1 0 danceAsk#(ชวนเอมิลีเป็นคู่เต้นรำ)#$r -1 0 null#ไม่เอาดีกว่า...",
 
             },
@@ -139,7 +139,7 @@
                 "Good_3": "ขอบใจนะ ที่ให้ฉันเข้ามา อยู่ในบ้านด้วย ฉันรักชีวิตใหม่นี้จัง$h",
                 "Good_5": "ฉันกำลังชื่นชมจี้อยู่น่ะ... เปลือกมันสวยมากเลย! ฉันเซ้นส์ถึง พลังงานสีคราม จากมันได้เลยล่ะ",
                 "Neutral_0": "ฉันหวังนะว่า พอฉันแก่และอยู่ด้วย ไม่สนุกเท่าตอนนี้แล้ว เธอจะยังชอบฉันน่ะ",
-                "spring_1": "สุขสันต์ปีใหม่จ่ะ @ มาทำปีนี้ให้พิเศากันเถอะ",
+                "spring_1": "สุขสันต์ปีใหม่จ่ะ @ มาทำปีนี้ให้พิเศษกันเถอะ",
             },
         },
         {
@@ -161,7 +161,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries":
             {
-                "Indoor_Night_3": "Ah, that aroma! It can only be you.$h#$e#You always bring the smell of the outdoors home with you.",
+                "Indoor_Night_3": "อา กลิ่นนั่น! เป็นใครไปไม่ได้แล้วล่ะ นอกจากเธอ$h#$e#เธอมีกลิ่นข้างนอก ติดตัวกลับมาเสมอเลย",
             },
             "When":
             {
@@ -174,7 +174,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Rainy_Day_Emily": "I know you pride yourself on your work, but don't overdo it today. Okay, {{Lowercase:{{TermofEndearment}}}}?$u",
+                "Rainy_Day_Emily": "ฉันรู้ว่าเธอภูมิใจกับงานที่ทำ แต่วันนี้ห้ามหักโหมนะ โอเคมั้ย {{Lowercase:{{TermofEndearment}}}}?$u",
             },
             "When":
             {
@@ -187,7 +187,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Rainy_Day_Emily": "I know you pride yourself on your work, but don't overdo it today. Okay, {{TermofEndearment}}?$u",
+                "Rainy_Day_Emily": "ฉันรู้ว่าเธอภูมิใจกับงานที่ทำ แต่วันนี้ห้ามหักโหมนะ โอเคมั้ย {{TermofEndearment}}?$u",
             },
             "When":
             {
@@ -199,7 +199,7 @@
             "Target": "Data/Quests",
             "Entries":
             {
-                "126": "ItemDelivery/Errand for Emily/Emily asked you to bring her 200 pieces of fiber for a secret project./Bring Emily 200 fiber./Emily 771 200/-1/0/-1/false/Oh, this looks perfect... and it's sustainably sourced, too! Thanks so much, @.$h#$b#Now, I've got my work cut out for me. It'll be a few more days before it's ready...",
+                "126": "ItemDelivery/Errand for Emily/เอมิลีขอให้คุณเอาไฟเบอร์ 200 อันมาให้เพื่อทำโปรเจคลับ/เอาไฟเบอร์ 200 อันให้เอมิลี/Emily 771 200/-1/0/-1/false/โอ้ ดูเพอร์เฟคเลย... แล้วก็เยอะพอด้วย! ขอบใจมากเลยนะ @$h#$b#เอาล่ะ ทีนี้ก็มีงานให้ทำอีกเพียบเลย กว่าจะเสร็จคงอีกหลายวัน...",
             },
         },
         {
@@ -207,7 +207,7 @@
             "Target": "Strings/Events",
             "Entries":
             {
-                "SpouseFlowerDanceAccept_Emily": "Of course, {{Lowercase:{{TermofEndearment}}}}. I've been looking forward to this!$h",
+                "SpouseFlowerDanceAccept_Emily": "ได้อยู่แล้ว {{Lowercase:{{TermofEndearment}}}} ฉันตั้งตารอวันนี้มาตลอดเลยล่ะ!$h",
             },
             "When":
             {
@@ -220,7 +220,7 @@
             "Target": "Strings/Events",
             "Entries":
             {
-                "SpouseFlowerDanceAccept_Emily": "Of course, {{TermofEndearment}}. I've been looking forward to this!$h",
+                "SpouseFlowerDanceAccept_Emily": "ได้อยู่แล้ว {{TermofEndearment}} ฉันตั้งตารอวันนี้มาตลอดเลยล่ะ!$h",
             },
             "When":
             {
@@ -232,7 +232,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Emily": "This is a special moment...#$b#I've always known I would be standing here with you, someday. I've always felt it in my heart.#$b#Now, it's all come true.\"/pause 500/speak Emily \"The world is a mysterious and special place...$h",
+                "SummitEvent_Dialogue3_Emily": "นี่เป็นช่วงเวลาที่พิเศษล่ะ...#$b#ฉันรู้มาตลอดเลยว่าสักวัน ต้องได้มายืนตรงนี้กับเธอ รู้ได้จากความรู้สึกน่ะ#$b#แล้วตอนนี้ มันก็กลายเป็นจริงแล้ว\"/pause 500/speak Emily \"โลกเป็นที่ที่น่าพิศวงและพิเศษล่ะ...$h",
             },
         },
         {
@@ -240,7 +240,7 @@
             "Target": "Data/mail",
             "Entries":
             {
-                "EmilyDoneCamping": "Thanks for joining me last night. I’m glad we had that talk.^Do you think the forest spirits sent that bear to make sure it happened...?^^See you soon^^  Love, Emily[#]Emily's Note",
+                "EmilyDoneCamping": "เมื่อคืนขอบใจนะที่ไปด้วย ฉันดีใจที่เราได้คุยกัน^เธอว่าจิตวิญญาณแห่งป่าเขา ตั้งใจส่งหมีนั่นมา เพื่อให้เราได้คุยกันหรือเปล่า...?^^แล้วเจอกันนะ^^  รัก เอมิลี[#]โน้ตของเอมิลี",
             },
         },
         {
@@ -248,7 +248,7 @@
             "Target": "Data/Events/ManorHouse",
             "Entries":
             {
-                "2123243/e 2111194": "EmilyTheme/-1000 -1000/farmer -2000 -2000 0 Emily 7 6 2 Lewis 3 7 1 Clint 11 9 3 Shane 8 8 0 Abigail 7 8 0 Robin 2 9 1/skippable/specificTemporarySprite ClothingTherapy/viewport 5 7 true/pause 2000/speak Emily \"Welcome to clothing therapy!\"/faceDirection Abigail 1/emote Robin 8 true/faceDirection Shane 3/pause 500/faceDirection Shane 0/faceDirection Abigail 0/pause 500/speak Emily \"You're probably wondering... what is clothing therapy?#$b#I'll try to explain.\"/move Emily 0 1 2/speak Emily \"So many of us are struggling with personal issues... things holding us back from living how we want.$u#$b#It's important to me that everyone has a free and happy life... so I came up with a new kind of therapy to help people achieve that.$u\"/move Emily 0 -1 2/pause 500/speak Emily \"It's based on the amazing power of self-expression. Self-expression is a wonderful healing tool, did you know that?\"/faceDirection Emily 3/pause 1000/speak Emily \"Behind this curtain, you'll find racks and racks of clothes. There's endless options to choose from.\"/faceDirection Emily 2/speak Emily \"Your job is simple: find the outfit that truly speaks to you, and put it on.#$b#Feel confident in yourself and your choice. You all have a unique style to share with the world!#$b#Shane, you're up first!$h\"/specificTemporarySprite curtainOpen/pause 1500/showFrame Shane 18/jump Shane/pause 1400/showFrame Shane 0/pause 1000/textAboveHead Shane \"Okay\"/move Shane 0 -1 0/move Shane -3 0 0/move Shane 0 -2 2/pause 1000/specificTemporarySprite curtainClose/pause 1000/playSound doorClose/warp farmer 4 11/move farmer 0 -1 0/speak Emily \"Ah, @. You're just in time. Just observe and keep an open mind... okay?\"/pause 1000/move farmer -1 0 0/warp Shane -1000 -1000/addTemporaryActor ClothesTherapyCharacters 16 32 5 5 2 true character/pause 3000/specificTemporarySprite curtainOpen/pause 1000/faceDirection Emily 3/move ClothesTherapyCharacters 0 2 2/textAboveHead Robin \"Wow...\"/pause 1000/move ClothesTherapyCharacters 0 2 2/faceDirection Abigail 3/textAboveHead Abigail \"Cool\"/pause 1000/faceDirection Emily 2/speak Emily \"Shane, it's a new side of you we've never known about. That's great!#$b#Now, go outside with confidence and show the world!\"/pause 1000/emote ClothesTherapyCharacters 40/pause 500/textAboveHead ClothesTherapyCharacters \"Sure\"/move ClothesTherapyCharacters 0 2 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/pause 2000/speak Emily \"Okay, everyone gets a turn!\"/faceDirection Abigail 0 true/move Robin 3 0 0/faceDirection Clint 2 true/textAboveHead Clint \"Oh no...\"/move Robin 0 -4 2/pause 1000/specificTemporarySprite curtainClose/pause 3000/warp Robin -1000 -1000/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 128/textAboveHead ClothesTherapyCharacters \"Heehee\"/pause 1000/specificTemporarySprite curtainOpen/pause 1000/textAboveHead Lewis \"Oh my!\"/move ClothesTherapyCharacters 0 3 2/textAboveHead Emily \"Beautiful!\"/pause 1000/showFrame ClothesTherapyCharacters 5/specificTemporarySprite heart 5 8/pause 2000/textAboveHead ClothesTherapyCharacters \"Let's see what Demetrius thinks...\"/pause 1000/move ClothesTherapyCharacters 0 3 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/pause 2000/textAboveHead Lewis \"Why not...\"/move Lewis 2 0 0/move Lewis 0 -2 2/pause 1000/specificTemporarySprite curtainClose/faceDirection Emily 3/pause 2000/warp Lewis -1000 -1000/playSound shwip/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 64/pause 1000/textAboveHead ClothesTherapyCharacters \"Hehe... not bad!\"/pause 2000/specificTemporarySprite curtainOpen/pause 1000/move ClothesTherapyCharacters 0 3 2/textAboveHead Emily \"Lookin' sharp!\"/faceDirection Emily 2/pause 3000/move ClothesTherapyCharacters 0 3 2/playSound doorClose/warp ClothesTherapyCharacters -1000 -1000/textAboveHead Abigail \"Me next!\"/move Abigail -2 0 0/move Abigail 0 -3 2/pause 2000/specificTemporarySprite curtainClose/pause 2000/warp Abigail -1000 -1000/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 32/pause 3000/specificTemporarySprite curtainOpen/pause 1000/move ClothesTherapyCharacters 0 3 2/textAboveHead Emily \"Very nice!\"/pause 2000/showFrame ClothesTherapyCharacters 16/playSound clank/pause 1000/textAboveHead ClothesTherapyCharacters \"It's sweaty in here...\"/pause 3000/move ClothesTherapyCharacters 0 3 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/pause 1000/faceDirection Emily 3/pause 500/faceDirection Emily 2/pause 1000/speak Emily \"Clint? You're up!\"/pause 500/jump Clint/shake Clint 4000/pause 1000/textAboveHead Clint \"M...Me?\"/pause 2000/speak Clint \"*gulp*... Okay, Emily. I'll do it.$4\"/pause 1000/move Clint -6 0 0/move Clint 0 -4 2/pause 1000/faceDirection Emily 3/specificTemporarySprite curtainClose/pause 4000/warp Clint -1000 -1000/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 96/pause 1000/specificTemporarySprite curtainOpen/pause 2000/move ClothesTherapyCharacters 0 3 2/faceDirection Emily 2/textAboveHead Emily \"Awww, cute!\"/pause 1600/showFrame ClothesTherapyCharacters 10/pause 800/speak Clint \"Aww? Cute? ...*sigh*...$7\"/pause 2000/move ClothesTherapyCharacters 0 3 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/move Emily 0 3 3/move farmer 0 -1 1/move farmer 1 0 1/speak Emily \"Well, that went very well!#$b#I just hope this experience helps everyone break out of their shells a bit.\"/pause 200/emote farmer 32/pause 200/speak Emily \"@, have you ever thought of trying a new style? Or are you happy with your work clothes?#$b#After all the time you’ve spent wearing them on your farm, they must be imbued with natural energy.\"/move Emily -2 0 3 true/pause 200/positionOffset Emily 0 6/pause 300/positionOffset Emily 0 4/pause 300/positionOffset Emily 0 6/pause 180/showFrame Emily 15/positionOffset Emily -8 0/pause 180/showFrame Emily 12/positionOffset Emily -8 0/pause 800/speak Emily \"Hmm... They look a little worn. I could patch them up for you.$u#$b#See, the collar is frayed...$u\"/showFrame ClothesTherapyCharacters 11/playSound doorClose/warp ClothesTherapyCharacters 5 11/speak Clint \"I couldn't do it! I don't wanna break out of my shell!$6\"/positionOffset Emily 5 0/pause 10/positionOffset Emily 5 0/pause 10/positionOffset Emily 5 0/faceDirection Emily 2 true/faceDirection farmer 2 true/emote Emily 16/pause 1000/showFrame Emily 0/speak Clint \"...Oh. I... I guess I'm interrupting something here, aren't I?$7\"/pause 500/emote Emily 8/pause 200/speak Emily \"No, not at all. I was just offering to repair @’s work clothes.\"/pause 400/speak Clint \"Oh... Good! I mean, um...$6#$b#This outfit... I’m sorry, I just can’t... $7\"/pause 600/speak Emily \"Why don’t you take it home with you? It’s okay if you’re not ready to wear it in public.#$b#For some people, self-expression is an epiphany... While for others, it’s a process.#$b#Sharing your personal style is like exposing a piece of your heart. To truly connect with others, you have to make yourself vulnerable... and that can be scary!#$b#So take your time. When you’re ready, you’ll know.\"/pause 400/speak Clint \"I...$6\"/pause 1200/showFrame ClothesTherapyCharacters 0/pause 1000/showFrame ClothesTherapyCharacters 10/pause 1500/showFrame ClothesTherapyCharacters 0/pause 500/speak Clint \"Thank you, Emily. I'll think about it.$7\"/pause 1000/playSound doorClose/warp ClothesTherapyCharacters -1000 -1000/pause 1000/speak Emily \"I think that was a step forward!#$b#But what did he think he was interrupting? Unless... Hmm.$s#$b#Well, let me see what I can do about that collar...$u\"/faceDirection Emily 3/faceDirection farmer 1/pause 1000/end",
+                "2123243/e 2111194": "EmilyTheme/-1000 -1000/farmer -2000 -2000 0 Emily 7 6 2 Lewis 3 7 1 Clint 11 9 3 Shane 8 8 0 Abigail 7 8 0 Robin 2 9 1/skippable/specificTemporarySprite ClothingTherapy/viewport 5 7 true/pause 2000/speak Emily \"ยินดีต้อนรับสู่ภูษาบำบัด!\"/faceDirection Abigail 1/emote Robin 8 true/faceDirection Shane 3/pause 500/faceDirection Shane 0/faceDirection Abigail 0/pause 500/speak Emily \"พวกคุณคงกำลังสงสัยสินะ... ว่าภูษาบำบัดคืออะไร?#$b#ฉันจะพยายามอธิบายให้ฟังนะ\"/move Emily 0 1 2/speak Emily \"พวกเรามากมายเหลือเกิน ต่างต้องต่อสู้กับ ปัญหาของตัวเอง... ปัญหาที่รั้งไม่ให้เรา ได้ใช้ชีวิตอย่างที่ต้องการ$u#$b#สำหรับฉัน การที่ทุกคนได้มีชีวิตอย่างเสรี และมีความสุขเป็นเรื่องสำคัญ... ดังนั้นฉันเลยคิดค้น การบำบัดแบบใหม่ที่จะทำให้ ทุกคนได้ใช้ชีวิตแบบนั้นล่ะ$u\"/move Emily 0 -1 2/pause 500/speak Emily \"เป็นการพัฒนาจากพลังอันน่า เหลือเชื่อของการแสดงออก ทางตัวตน การแสดงออกทางตัวตนเนี่ย เป็นเครื่องมือรักษาที่ มหัศจรรย์มากนะรู้มั้ย?\"/faceDirection Emily 3/pause 1000/speak Emily \"หลังม่านนี้ พวกคุณจะพบกับราวเสื้อผ้า มากมายเหลือจะนับ มีให้เลือกไม่จำกัดเลย\"/faceDirection Emily 2/speak Emily \"หน้าที่ของคุณง่ายมาก: มองหาชุดที่พิเศษสำหรับคุณ แล้วใส่เลย#$b#จงมั่นใจในตัวคุณเอง และการเลือกของคุณ พวกคุณทุกคน มีสไตล์ที่ไม่เหมือนใคร ที่จะแบ่งปันให้โลกเห็นนะ!#$b#เชน คุณลองเป็นคนแรกเลย!$h\"/specificTemporarySprite curtainOpen/pause 1500/showFrame Shane 18/jump Shane/pause 1400/showFrame Shane 0/pause 1000/textAboveHead Shane \"ได้\"/move Shane 0 -1 0/move Shane -3 0 0/move Shane 0 -2 2/pause 1000/specificTemporarySprite curtainClose/pause 1000/playSound doorClose/warp farmer 4 11/move farmer 0 -1 0/speak Emily \"อ้าว @ มาทันพอดีเลย แค่ดูแล้วก็เปิดใจนะ... เคมั้ย?\"/pause 1000/move farmer -1 0 0/warp Shane -1000 -1000/addTemporaryActor ClothesTherapyCharacters 16 32 5 5 2 true character/pause 3000/specificTemporarySprite curtainOpen/pause 1000/faceDirection Emily 3/move ClothesTherapyCharacters 0 2 2/textAboveHead Robin \"ว้าว...\"/pause 1000/move ClothesTherapyCharacters 0 2 2/faceDirection Abigail 3/textAboveHead Abigail \"เจ๋ง\"/pause 1000/faceDirection Emily 2/speak Emily \"เชน นี่เป็นด้านใหม่ของคุณ ที่พวกเราไม่เคยเห็นนี่ เยี่ยมไปเลย!#$b#เอาล่ะ ออกไปข้างนอกอย่างมั่นใจ ให้โลกดูได้เลย!\"/pause 1000/emote ClothesTherapyCharacters 40/pause 500/textAboveHead ClothesTherapyCharacters \"ได้เลย\"/move ClothesTherapyCharacters 0 2 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/pause 2000/speak Emily \"โอเค ทุกคนจะได้ลอง!\"/faceDirection Abigail 0 true/move Robin 3 0 0/faceDirection Clint 2 true/textAboveHead Clint \"โอ ไม่...\"/move Robin 0 -4 2/pause 1000/specificTemporarySprite curtainClose/pause 3000/warp Robin -1000 -1000/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 128/textAboveHead ClothesTherapyCharacters \"อิอิ\"/pause 1000/specificTemporarySprite curtainOpen/pause 1000/textAboveHead Lewis \"โอ้ จ๊าบ!\"/move ClothesTherapyCharacters 0 3 2/textAboveHead Emily \"สวย!\"/pause 1000/showFrame ClothesTherapyCharacters 5/specificTemporarySprite heart 5 8/pause 2000/textAboveHead ClothesTherapyCharacters \"มาดูสิว่าดีมีเทรียสจะคิดว่าไง ...\"/pause 1000/move ClothesTherapyCharacters 0 3 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/pause 2000/textAboveHead Lewis \"เอาสิ...\"/move Lewis 2 0 0/move Lewis 0 -2 2/pause 1000/specificTemporarySprite curtainClose/faceDirection Emily 3/pause 2000/warp Lewis -1000 -1000/playSound shwip/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 64/pause 1000/textAboveHead ClothesTherapyCharacters \"อิอิ... ไม่เลว!\"/pause 2000/specificTemporarySprite curtainOpen/pause 1000/move ClothesTherapyCharacters 0 3 2/textAboveHead Emily \"ดูดีเลย!\"/faceDirection Emily 2/pause 3000/move ClothesTherapyCharacters 0 3 2/playSound doorClose/warp ClothesTherapyCharacters -1000 -1000/textAboveHead Abigail \"ฉันต่อ!\"/move Abigail -2 0 0/move Abigail 0 -3 2/pause 2000/specificTemporarySprite curtainClose/pause 2000/warp Abigail -1000 -1000/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 32/pause 3000/specificTemporarySprite curtainOpen/pause 1000/move ClothesTherapyCharacters 0 3 2/textAboveHead Emily \"งามมาก!\"/pause 2000/showFrame ClothesTherapyCharacters 16/playSound clank/pause 1000/textAboveHead ClothesTherapyCharacters \"ในนี้ร้อนจัง...\"/pause 3000/move ClothesTherapyCharacters 0 3 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/pause 1000/faceDirection Emily 3/pause 500/faceDirection Emily 2/pause 1000/speak Emily \"คลินท์? คุณต่อเลย!\"/pause 500/jump Clint/shake Clint 4000/pause 1000/textAboveHead Clint \"ฉ...ฉันเหรอ?\"/pause 2000/speak Clint \"*เฮือก*... โอเค เอมิลี ฉันจะทำ$4\"/pause 1000/move Clint -6 0 0/move Clint 0 -4 2/pause 1000/faceDirection Emily 3/specificTemporarySprite curtainClose/pause 4000/warp Clint -1000 -1000/warp ClothesTherapyCharacters 5 5/changeYSourceRectOffset ClothesTherapyCharacters 96/pause 1000/specificTemporarySprite curtainOpen/pause 2000/move ClothesTherapyCharacters 0 3 2/faceDirection Emily 2/textAboveHead Emily \"ง้อวว น่ารัก!\"/pause 1600/showFrame ClothesTherapyCharacters 10/pause 800/speak Clint \"ง้อว? น่ารัก? ...*ถอนหายใจ*...$7\"/pause 2000/move ClothesTherapyCharacters 0 3 2/warp ClothesTherapyCharacters -1000 -1000/playSound doorClose/move Emily 0 3 3/move farmer 0 -1 1/move farmer 1 0 1/speak Emily \"นั่นไปได้สวยเลยล่ะ!#$b#ฉันแค่หวังว่านี่จะช่วยให้ทุกคน กล้าแสดงออกมากขึ้นบ้างนะ\"/pause 200/emote farmer 32/pause 200/speak Emily \"@ เธอเคยลองอยากแต่งตัว แนวใหม่บ้างมั้ย? หรือว่าชอบใส่ชุดทำงานอยู่แล้ว?#$b#หลังเธอใส่มันทำงาน ในฟาร์มมาตลอด มันคงเต็มไปด้วย พลังธรรมชาติแน่เลย\"/move Emily -2 0 3 true/pause 200/positionOffset Emily 0 6/pause 300/positionOffset Emily 0 4/pause 300/positionOffset Emily 0 6/pause 180/showFrame Emily 15/positionOffset Emily -8 0/pause 180/showFrame Emily 12/positionOffset Emily -8 0/pause 800/speak Emily \"อืม... มีรอยขาดนิดหน่อย ฉันช่วยปะให้ได้นะ$u#$b#นี่ไง ปกมันลุ่ย...$u\"/showFrame ClothesTherapyCharacters 11/playSound doorClose/warp ClothesTherapyCharacters 5 11/speak Clint \"ฉันทำไม่ได้! ฉันไม่อยากแสดงออก!$6\"/positionOffset Emily 5 0/pause 10/positionOffset Emily 5 0/pause 10/positionOffset Emily 5 0/faceDirection Emily 2 true/faceDirection farmer 2 true/emote Emily 16/pause 1000/showFrame Emily 0/speak Clint \"...อ้อ ฉัน... ฉันมาขัดจังหวะสินะ?$7\"/pause 500/emote Emily 8/pause 200/speak Emily \"ไม่นะ ไม่เลย ฉันแค่กำลังบอกว่า จะช่วยซ่อมเสื้อผ้าทำงานให้ @ น่ะ\"/pause 400/speak Clint \"อ้อ... ดีจัง! ฉันหมายความว่า เอ่อ...$6#$b#ชุดนี่น่ะ... ฉันขอโทษนะ แต่ฉันไม่ไหว... $7\"/pause 600/speak Emily \"ทำไมคุณไม่เอามัน กลับบ้านล่ะ? ไม่เป็นไรหรอกถ้าคุณยังไม่ พร้อมจะใส่ไปนอกบ้าน#$b#สำหรับบางคน การแสดงตัวตนน่ะง่าย... แต่บางคน ก็เป็นเรื่องต้องใช้เวลา#$b#แสดงสไตล์ของตัวเองน่ะ ก็เหมือนแสดง ส่วนหนึ่งของจิตใจ จะเชื่อมกับคนอื่นได้ เราก็ต้องยอมเปิดเผยหน่อยน่ะ... แล้วนั่นก็อาจจะน่ากลัวได้!#$b#เพราะงั้นไม่ต้องรีบหรอก พร้อมเมื่อไหร่ เดี๋ยวก็รู้เอง\"/pause 400/speak Clint \"ฉัน...$6\"/pause 1200/showFrame ClothesTherapyCharacters 0/pause 1000/showFrame ClothesTherapyCharacters 10/pause 1500/showFrame ClothesTherapyCharacters 0/pause 500/speak Clint \"ขอบคุณนะ เอมิลี ฉันจะลองไปคิดดู$7\"/pause 1000/playSound doorClose/warp ClothesTherapyCharacters -1000 -1000/pause 1000/speak Emily \"ฉันว่าพัฒนาขึ้นอีกขั้นแล้วล่ะ!#$b#แต่เขาคิดว่ามาขัดจังหวะ อะไรเหรอ? เว้นแต่... อืมมม$s#$b#เอาเป็นว่า เดี๋ยวดูให้นะว่าซ่อมปกนั่น ยังไงได้บ้าง...$u\"/faceDirection Emily 3/faceDirection farmer 1/pause 1000/end",
             },
         },
         {
@@ -399,11 +399,11 @@
             "Target": "Characters/Dialogue/Emily",
             "Entries":
             {
-                "Tue10": "Hey, @.$l#$b#%*hug*#$b#You don't mind if I do that, do you? Physical touch is really important to me.$l",
-                "Fri10": "I don't think anyone will get the wrong idea about our relationship if they see us hugging. Everyone knows I'm the touchy-feely type.#$e#Oh?#$b#%*hug*#$b#Heehee...$h",
-                "Sun10": "@, you're very special to me. You know that, right?$u#$e#Everyone and everything around me is also special, but you... you're a priority to me.$l",
-                "summer_Mon10": "@, hold on a sec.$l#$b#%*hug*#$b#Have a wonderful day!$l",
-                "summer_Wed10": "@... do you think we're... destined for more than just our day-to-day conversations?$l#$b#No, of course I don't mean like that... I just wonder if there's some deeper commitment we could share as friends.$l",
+                "Tue10": "หวัดดี @$l#$b#%*กอด*#$b#ไม่ว่าใช่มั้ยถ้าฉันทำแบบนี้? การสัมผัสทางกาย สำคัญกับฉันมากๆ เลย$l",
+                "Fri10": "ฉันไม่คิดว่า จะมีใครเข้าใจความสัมพันธ์เราผิด ถ้าเห็นเรากอดกันหรอก ใครๆ ก็รู้ว่าฉันเป็นคนชอบกอด#$e#หือ?#$b#%*กอด*#$b#อิอิ...$h",
+                "Sun10": "@ เธอสำคัญกับฉันมากนะ รู้ใช่มั้ย?$u#$e#ทุกๆ คน ทุกๆ สิ่งรอบตัวฉันก็พิเศษ แต่เธอ... เธอพิเศษเป็นอันดับหนึ่ง สำหรับฉันเลย$l",
+                "summer_Mon10": "@ แปปนึง$l#$b#%*กอด*#$b#สนุกกับงานนะ!$l",
+                "summer_Wed10": "@... เธอว่าพวกเรา... ถูกลิขิตมามากกว่าแค่พูดคุยกัน ไปวันๆ หรือเปล่า$l#$b#ไม่ ฉันไม่ได้หมายความ แบบนั้นอยู่แล้ว... ฉันแค่สงสัยว่ามีอะไร ที่เราทุ่มเทให้กัน ในฐานะเพื่อนได้มากกว่านี้หรือเปล่านะ$l",
                 "summer_Sat10": "I want to love everyone equally, @, but I can't deny that what I feel for you is a little deeper.$u#$e#Do you think you'll live here a long time? Your friendship is really important to me.$u",
                 "fall_Fri10": "I don't think anyone will get the wrong idea about our relationship if they see us hugging. Everyone knows I'm the touchy-feely type.#$e#Oh?#$b#%*hug*#$b#Heehee...$h",
                 "fall_Sat10": "Hi @. I was hoping we'd cross paths today.$l#$e#I'm so glad you came by!",
