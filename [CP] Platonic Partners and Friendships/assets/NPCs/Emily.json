@@ -660,8 +660,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries": {
-                "funLeave_Emily": "#$c .5#Good morning! Do you have your day planned out?$h#Morning, @. Hope you had a good night's rest.#$e#$c .5#I'll be visiting Haley today if you need to find me.#Gus doesn't need much help on Mondays but that's where I'll be.#$b#Make sure you have a good day, alright?",
-                "funReturn_Emily": "#$c .5#Did you get to eat yet? Gus had some extra dishes he let me take home.[209 214 225 215 219]$h#My day went well... Mondays have always been a little slow.#$e#I'm heading to bed. You should get some rest too."
+                "funLeave_Emily": "#$c .5#อรุณสวัสดิ์! วันนี้มีแผนหรือยัฃ?$h#ดีจ้า @ เมื่อคืนนอนหลับสบายมั้ย#$e#$c .5#วันนี้ฉันไปเยี่ยมเฮลีย์นะ เผื่อจะมาหา#กัสไม่ยุ่งมากหรอกวันจันทร์ แต่ฉันจะไปช่วยด้วยอยู่ดี#$b#อย่าลืมสนุกกับงานล่ะ เข้าใจมั้ย?",
+                "funReturn_Emily": "#$c .5#กินอะไรหรือยัง? กัสให้ฉันเอาเมนูที่เหลือ กลับบ้านมาได้ล่ะ [209 214 225 215 219]$h#วันนี้ของฉันดีเลยล่ะ... วันจันทร์อะไรๆ ก็อืดๆ ตลอดแหละ#$e#ฉันไปนอนล่ะนะ เธอก็ควรพักด้วยเหมือนกันนะ"
             },
             "When": {
                 "DayOfWeek": "Monday",
@@ -672,8 +672,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries": {
-                "funLeave_Emily": "#$c .5#It's aerobics day! I wonder how everyone has been doing.$h#It's another beautiful day. Today's going to be a good one, I know it.#$e#$c .5#Do you need me to pick up anything while I'm at Pierre's?#Hey... don't overwork yourself, okay?$u",
-                "funReturn_Emily": "My body's all sore from classes today. I'll be taking tomorrow off to relax.#$e#$c .5#Make sure you do so too once in a while. It's not good to keep stressing the body.$s#I can already feel my muscles cramping up. Would you mind warming up the heating pad for me?$s"
+                "funLeave_Emily": "#$c .5#วันนี้วันแอโรบิค! สงสัยจังทุกคนเป็นไงกันบ้าง$h#เป็นวันที่สวยงาม อีกวันนึงแหละ ฉันรู้เลยว่า วันนี้จะต้องเป็นวันที่ดีแน่#$e#$c .5#อยากให้ฉันซื้ออะไร ตอนไปร้านปิแอร์มั้ย?#นี่... อย่าหักโหมไปนะ เคป่าว?$u",
+                "funReturn_Emily": "ปวดตัวไปหมดเลย จากคลาสวันนี้ พรุ่งนี้ฉันจะหยุดพักล่ะ#$e#$c .5#นานๆ ทีเธอก็ทำบ้างล่ะ ใช้งานร่างกายหนักไม่พักน่ะ ไม่ดีหรอก$s#ฉันเริ่มรู้สึกถึงตะคริวแล้ว เธอช่วยไปอุ่นแผ่นแปะร้อน ให้ฉันได้มั้ย?$s"
             },
             "When": {
                 "DayOfWeek": "Tuesday",
@@ -684,8 +684,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries": {
-                "funLeave_Emily": "#$c .5#Hmm, did I put too much fragrance on this morning? It's not overpowering, is it?#What's on the agenda today, @? Mine's the same old.$h#$e#$c .5#I'm visiting Haley again today. I have some more recipes to show her!$h#Just one more day till it's Friday!$h",
-                "funReturn_Emily": "#$c .5#How was your day? I can already tell you've worked hard.#Oh! You're still up! Sorry, you scared me.$6#$e#You like to stay up pretty late, don't you?"
+                "funLeave_Emily": "#$c .5#หือ เช้านี้ฉันใส่น้ำหอม มากไปหรือเปล่านะ? ไม่ฉุนไปใช่ป่าว?#วันนี้มีแผนจะทำอะไรเหรอ @? ของฉันแผนเดิมล่ะ$h#$e#$c .5#วันนี้ฉันก็ไปเยี่ยมเฮลีย์ล่ะ อาจจะมีเมนูใหม่ๆ ให้เธอดูก็ได้!$h#อีกแค่วันเดียว ก็ถึงวันศุกร์แล้ว!$h",
+                "funReturn_Emily": "#$c .5#วันนี้เป็นไงบ้าง? ไม่บอกก็รู้ว่างานหนักสินะ#อ้าว! ยังไม่หลับเหรอ! โทษที เธอทำฉันตกใจหมด$6#$e#เธอชอบนอนดึกสินะ?"
             },
             "When": {
                 "DayOfWeek": "Thursday",
@@ -696,8 +696,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries": {
-                "funLeave_Emily": "#$c .5#I figured I'd visit the beach today. The ocean sends out positive energy.#Sometimes I feel like destiny brought us together... I'm happy for us.$l#$e#$c .5#Every day is precious as long as you look at the beauty of it. Always remember that.$h#I like to take time alone to just... be thankful for everything that's happened.$l",
-                "funReturn_Emily": "#$c .5#Whew! Friday was hectic as always. I'll be glad to spend the rest of the night with you.$h#I love working at the saloon on Friday nights. Everyone looked so happy.$h#$e#$c .5#But I wish Gus would at least hire someone to help him out when I'm not around.$s#I have the weekend off. Want to do something together?$l"
+                "funLeave_Emily": "#$c .5#คิดว่าวันนี้จะไปชายหาดล่ะ ทะเลแผ่พลังงานบวกน่ะ#บางทีฉันรู้สึกเหมือนโชคชะตา นำพาเรามาอยู่ด้วยกัน... ดีใจกีบพวกเราจัง$l#$e#$c .5#ทุกๆ วันน่ะล้ำค่าเสมอ ถ้าเธอมองเห็น ความสวยงามของมัน อย่าลืมซะล่ะ$h#ฉันชอบที่จะ อยู่กับตัวเองเพื่อที่จะ... แค่ขอบคุณทุกสิ่งทุกอย่าง ที่เกิดขึ้นน่ะ$l",
+                "funReturn_Emily": "#$c .5#เห้อ! วันศุกร์วุ่นวายไม่เปลี่ยนเลย ฉันอยากจะใช้เวลา ที่เหลือคืนนี้กับเธอแล้ว$h#ฉันชอบที่จะทำงานที่ซาลูน ในคืนวันศุกร์ม๊ากมากล่ะ ทุกคนดูมีความสุขมากเลยน่ะ$h#$e#$c .5#แต่ฉันหวังว่าอยากน้อย กัสจะยอมจ้างคนมาช่วยเขา สักคนเวลาฉันไม่อยู่$s#สุดสัปดาห์นี้ฉันว่าง อยากทำอะไรด้วยกันมั้ย?$l"
             },
             "When": {
                 "DayOfWeek": "Friday",
@@ -709,8 +709,8 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/MarriageDialogueEmily",
             "Entries": {
-                "funLeave_Emily": "#$c .5#I figured I'd visit the beach today. The ocean sends out positive energy.#Sometimes I feel like destiny brought us together... I'm happy for us.$h#$e#$c .5#Every day is precious as long as you look at the beauty of it. Always remember that.$h#I like to take time alone to just... be thankful for everything that's happened.",
-                "funReturn_Emily": "#$c .5#Whew! Friday was hectic as always. I'll be glad to spend the rest of the night with you.$h#I love working at the saloon on Friday nights. Everyone looked so happy.$h#$e#$c .5#But I wish Gus would at least hire someone to help him out when I'm not around.$s#I have the weekend off. Want to do something together?"
+                "funLeave_Emily": "#$c .5#คิดว่าวันนี้จะไปชายหาดล่ะ ทะเลแผ่พลังงานบวกน่ะ#บางทีฉันรู้สึกเหมือนโชคชะตา นำพาเรามาอยู่ด้วยกัน... ดีใจกีบพวกเราจัง$h#$e#$c .5#ทุกๆ วันน่ะล้ำค่าเสมอ ถ้าเธอมองเห็น ความสวยงามของมัน อย่าลืมซะล่ะ$h#ฉันชอบที่จะ อยู่กับตัวเองเพื่อที่จะ... แค่ขอบคุณทุกสิ่งทุกอย่าง ที่เกิดขึ้นน่ะ",
+                "funReturn_Emily": "#$c .5#เห้อ! วันศุกร์วุ่นวายไม่เปลี่ยนเลย ฉันอยากจะใช้เวลา ที่เหลือคืนนี้กับเธอแล้ว$h#ฉันชอบที่จะทำงานที่ซาลูน ในคืนวันศุกร์ม๊ากมากล่ะ ทุกคนดูมีความสุขมากเลยน่ะ$h#$e#$c .5#แต่ฉันหวังว่าอยากน้อย กัสจะยอมจ้างคนมาช่วยเขา สักคนเวลาฉันไม่อยู่$s#สุดสัปดาห์นี้ฉันว่าง อยากทำอะไรด้วยกันมั้ย?"
             },
             "When": {
                 "DayOfWeek": "Friday",
@@ -722,10 +722,10 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Emily",
 		"Entries": {
-			"marriage_exercisem": "How's your day been so far, {{Lowercase:{{TermofEndearment}}}}? Care to join us?$h",
-			"marriage_saloon2": "Are you thirsty, {{Lowercase:{{TermofEndearment}}}}? How about a drink?#$b#Sorry, I can't do on the house. You'd have to ask Gus.$h",
-			"marriage_saloon4": "Are you hungry, {{Lowercase:{{TermofEndearment}}}}? Gus' dish of the day smells delicious tonight.",
-			"marriage_doc": "Oh, hi, {{Lowercase:{{TermofEndearment}}}}. Surely you don't have a check-up today too, right? Did Dr. Harvey make a mistake?$6",
+			"marriage_exercisem": "วันนี้เป็นไงมั่งเนี่ย {{Lowercase:{{TermofEndearment}}}}? มาเต้นกับพวกเรามั้ย?$h",
+			"marriage_saloon2": "หิวน้ำป่าว {{Lowercase:{{TermofEndearment}}}}? ดื่มอะไรหน่อยมั้ย?#$b#โทษนะ ฉันให้ฟรีไมไ่ด้หรอก เธอต้องไปถามกัสนู่น$h",
+			"marriage_saloon4": "หิวมั้ย {{Lowercase:{{TermofEndearment}}}}? เมนูเด็ดประจำวันของกัส หอมมากเลยล่ะคืนนี้",
+			"marriage_doc": "อ้าว หวัดดี {{Lowercase:{{TermofEndearment}}}} นี่เธอไม่ได้มีนัดตรวจ วันนี้เหมือนกันใช่มั้ย? หมอฮาร์วีย์ทำนัดผิดเหรอ?$6",
 		},
 		"When": {
                 	"TermofEndearment |contains=@": "false",
@@ -737,10 +737,10 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Emily",
 		"Entries": {
-			"marriage_exercisem": "How's your day been so far, {{TermofEndearment}}? Care to join us?$h",
-			"marriage_saloon2": "Are you thirsty, {{TermofEndearment}}? How about a drink?#$b#Sorry, I can't do on the house. You'd have to ask Gus.$h",
-			"marriage_saloon4": "Are you hungry, {{TermofEndearment}}? Gus' dish of the day smells delicious tonight.",
-			"marriage_doc": "Oh, hi, {{TermofEndearment}}. Surely you don't have a check-up today too, right? Did Dr. Harvey make a mistake?$6",
+			"marriage_exercisem": "วันนี้เป็นไงมั่งเนี่ย {{TermofEndearment}}? มาเต้นกับพวกเรามั้ย?$h",
+			"marriage_saloon2": "หิวน้ำป่าว {{TermofEndearment}}? ดื่มอะไรหน่อยมั้ย?#$b#โทษนะ ฉันให้ฟรีไมไ่ด้หรอก เธอต้องไปถามกัสนู่น$h",
+			"marriage_saloon4": "หิวมั้ย {{TermofEndearment}}? เมนูเด็ดประจำวันของกัส หอมมากเลยล่ะคืนนี้",
+			"marriage_doc": "อ้าว หวัดดี {{TermofEndearment}} นี่เธอไม่ได้มีนัดตรวจ วันนี้เหมือนกันใช่มั้ย? หมอฮาร์วีย์ทำนัดผิดเหรอ?$6",
 		},
 		"When": {
               	 	"TermofEndearment": "@, BFF",
@@ -751,7 +751,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Emily",
 		"Entries": {
-			"marriage_nm": "I have a special feeling about this boat. I'd love to rent it for the night.#$b#We'd sail off into the sea, just the two of us.",
+			"marriage_nm": "ฉันรู้สึกพิเศษกับเรือลำนี้ล่ะ คืนนี้ฉันอยากจะเช่ามัน#$b#แล้วเราพายไปกางทะเลกัน แค่เราสองคนน่ะ",
 		},
 		"When": {
               	 	"UseLovePortraits": "false",
@@ -762,7 +762,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Emily",
 		"Entries": {
-			"marriage_13": "You're going to win today, I have a good feeling about it.$h#$b#If I'm wrong? Then we'll still have spent a wonderful day our neighbors.",
+			"marriage_13": "วันนี้เธอจะชนะล่ะ ฉันสังหรณ์ใจว่าจะดี$h#$b#ถ้าฉันสังหรณ์ผิดน่ะเหรอ? อย่างน้อยเราก็ได้ใช้เวลากับ เพื่อนบ้านอย่างสนุกสนานไงล่ะ",
 		},
 		"When": {
               	 	"EnableAsexuality": "true",
