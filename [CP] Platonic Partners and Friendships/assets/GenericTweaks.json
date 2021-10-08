@@ -152,20 +152,20 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "NPC.cs.3955": "You can't deepen your relationship with {0} this way.",
-                "NPC.cs.3969": "{0} doesn't want to make a lifelong commitment with you right now.",
-                "NPC.cs.3972": "Oh!! ... #$b#@... I'm sorry, but no. I can't make the kind of commitment you want right now.$s",
-                "Wilted_Bouquet_Effect": "You've distanced yourself from {0}.",
-                "SocialPage.cs.11639": "(loved one)",
-                "SocialPage.cs.11640": "(loved one)",
-                "Event.cs.1831": "And now... It's dark, and I see you talking with a certain young person. They look happy to be with you.",
-                "Event.cs.1832": "And now... It's dark, and I see you talking with a certain young person. They look eager to spend time with you.",
-                "Event.cs.1833": "And now... It's dark, and I see you talking with a certain young person. They look happy to be with you.",
-                "Event.cs.1834": "And now... It's dark, and I see you talking with a certain young person. They look eager to spend time with you.",
-                "Event.cs.1845": "Now I see you, middle-aged, relaxing at home by yourself. You seem content.",
-                "Event.cs.1825": "Hmm... I see you sitting alone in a plush chair by the fire, surrounded by luxury.",
-                "Event.cs.1826": "Ah... It seems more than a few people are better off for having known you. You must have a lot of love in your heart...",
-                "TriedToMarryButKrobus": "You can't ask someone to move in with you while living with a housemate."
+                "NPC.cs.3955": "คุนพัฒนาความสัมพนธ์กับ {0} แบบนี้ไม่ได้",
+                "NPC.cs.3969": "{0} ไม่อยากผู้พันทุ่มเททั้งชีวิตกับคุณตอนนี้",
+                "NPC.cs.3972": "โอ้ว!! ... #$b#@... ขอโทษนะ แต่ไม่ล่ะ ตอนนี้ทุ่มเทแบบที่คุณต้องการไม่ได้หรอก$s",
+                "Wilted_Bouquetffect": "คุณตีตัวออกห่างจาก {0}.",
+                "SocialPage.cs.11639": "(คนสำคัญ)",
+                "SocialPage.cs.11640": "(คนสำคัญ)",
+                "Event.cs.1831": "และตอนนี้... มันมืดมิด แล้วฉันก็เห็นคุณคุยกับใครบางคนที่ยังเยาว์วัยที่ดูมีความสุขดีที่ได้อยู่กับคุณ",
+                "Event.cs.1832": "และตอนนี้... มันมืดมิด แล้วฉันก็เห็นคุณคุยกับใครบางคนที่ยังเยาว์วัยที่ดูอยากใช้เวลาอยู่กับคุณ",
+                "Event.cs.1833": "และตอนนี้...มันมืดมิด แล้วฉันก็เห็นคุณคุยกับใครบางคนที่ยังเยาว์วัยที่ดูมีความสุขดีที่ได้อยู่กับคุณ",
+                "Event.cs.1834": "และตอนนี้... มันมืดมิด แล้วฉันก็เห็นคุณคุยกับใครบางคนที่ยังเยาว์วัยที่ดูอยากใช้เวลาอยู่กับคุณ",
+                "Event.cs.1845": "ตอนนี้ฉันเห็นคุณ ในวัยกลางคน พักผ่อนหย่อนใจอยู่ที่บ้านคนเดียว คุณดูมีความสุขดี",
+                "Event.cs.1825": "หืม... ฉันเห็นคุณนั่งอยู่ในเก้าอี้บุนวมคนเดียวข้างเตาฟิง รายล้อมไปด้วยความหรูหรา",
+                "Event.cs.1826": "อา... เหมือนมีคนมากมายมีชีวิตดีขึ้นเพราะได้รู้จักกับคุณ คุณต้องเป็นคนที่มีความรักอยู่ท่วมท้นในหัวใจแน่ๆ...",
+                "TriedToMarryButKrobus": "คุณชวนคนอื่นมาอยู่ด้วยตอนที่มีเพื่อนร่วมชายคาแล้วไม่ได้หรอก"
             },
         },
         {
@@ -204,7 +204,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Utility.cs.5367": "At first, no one knew if @ would fit in with our community...#$b#But from this day forward, @ is going to be as much a part of Pelican Town as any of us!$h#$b#It is my great honor, on this day {0} of {1}, to unite @ and %spouse in a lifelong committment to one another.",
+                "Utility.cs.5367": "ทีแรก ไม่มีใครรู้หรอกว่า @ จะเข้ากับชุมชนเราได้หรือไม่...#$b#แต่จากวันนี้ไป @ จะกลายเป็นส่วนหนึ่ง ของเมืองเพลิแกน ไม่ต่างจากพวกเราทุกคน!$h#$b#เป็นเกียรติของฉันอย่างมาก ที่ในวันนี้ {0} of {1}, to unite @ and %spouse in a lifelong committment to one another.",
                 "Utility.cs.5369": "At first, no one knew if @ would fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor, on this day {0} of {1}, to unite @ and %spouse in lifelong committment to one another.",
                 "Utility.cs.5370": "Well, let's get right to it!",
                 "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, I now pronounce you {{RelationshipLabel}}!$h",
