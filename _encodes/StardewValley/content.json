@@ -54,7 +54,7 @@
             "When": {
                 "ThaiInterface": true,
                 "Language": "th",
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface, zazizu.darkUICP": false
             }
         },
 
@@ -73,10 +73,14 @@
         // FontBold
         // as a token
         {
-            "Action": "Load",
+            "Action": "EditImage",
+            "PatchMode": "Replace",
             "Target": "LooseSprites/font_bold, LooseSprites/font_colored",
             "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": { "Language": "th" }
+            "When": {
+                "FontBold": true,
+                "Language": "th"
+            }
         },
 
         // as a condition
@@ -86,7 +90,7 @@
             "Target": "LooseSprites/font_bold, LooseSprites/font_colored",
             "FromFile": "assets/Content/{{Target}}_Redux.xnb",
             "When": {
-                "FontBold": "false",
+                "FontBold": false,
                 "Language": "th"
             }
         },
@@ -110,7 +114,7 @@
             "When": {
                 "ThaiInterface": true,
                 "Language": "th",
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
             }
         },
 
@@ -197,7 +201,7 @@
         // Android compatibility
         {
             "Action": "Include",
-            "FromFile": "assets/android.json",
+            "FromFile": "assets/compatibility/android.json",
             "When": {
                 "HasFile:{{FromFile}}": true,
                 "Language": "th"
