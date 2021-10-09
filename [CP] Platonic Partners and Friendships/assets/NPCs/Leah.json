@@ -618,8 +618,8 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Leah",
             "Entries": {
-		"marriage_saloonm2": "You don't have to work so hard at every hour, {{Lowercase:{{TermofEndearment}}}}. You deserve time to cool down.",
-		"marriage_doctormarriage": "Hey, {{Lowercase:{{TermofEndearment}}}}. Don't worry about me I'll be fine.",
+		"marriage_saloonm2": "เธอไม่จำเป็นต้องทำงานหนัก ทุกๆชั่วโมงหรอกนะ {{Lowercase:{{TermofEndearment}}}} เธอควรจะมีช่วงเวลาที่ได้ พักผ่อนบ้าง",
+		"marriage_doctormarriage": "เฮ้ {{Lowercase:{{TermofEndearment}}}} ไม่ต้องเป็นห่วงนะ ฉันไม่เป็นไรหรอก",
             },
             "When": {
                 "TermofEndearment |contains=@": "false",
@@ -631,8 +631,8 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Leah",
             "Entries": {
-		"marriage_saloonm2": "You don't have to work so hard at every hour, {{TermofEndearment}}. You deserve time to cool down.",
-		"marriage_doctormarriage": "Hey, {{TermofEndearment}}. Don't worry about me I'll be fine.",
+		"marriage_saloonm2": "เธอไม่จำเป็นต้องทำงานหนัก ทุกๆชั่วโมงหรอกนะ {{TermofEndearment}} เธอควรจะมีช่วงเวลาที่ได้ พักผ่อนบ้าง",
+		"marriage_doctormarriage": "เฮ้ {{TermofEndearment}} ไม่ต้องเป็นห่วงนะ ฉันไม่เป็นไรหรอก",
             },
             "When": {
               	"TermofEndearment": "@, BFF",
