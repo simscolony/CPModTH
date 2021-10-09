@@ -559,7 +559,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueLeah",
 		"Entries": {	
-			"spring_16": "I have to head down to Harvey's today for my yearly checkup. I'll be thinking of you, {{Lowercase:{{TermofEndearment}}}}."
+			"spring_16": "วันนี้ฉันต้องไปตรวจสุขภาพ ประจำปีที่คลินิกของฮาร์วีย์ แล้วฉันจะคิดถึงเธอนะ {{Lowercase:{{TermofEndearment}}}}"
 		},
             	"When": {
              	  	 "TermofEndearment |contains=@": "false",
@@ -571,7 +571,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueLeah",
 		"Entries": {	
-			"spring_16": "I have to head down to Harvey's today for my yearly checkup. I'll be thinking of you, {{TermofEndearment}}."
+			"spring_16": "วันนี้ฉันต้องไปตรวจสุขภาพ ประจำปีที่คลินิกของฮาร์วีย์ แล้วฉันจะคิดถึงเธอนะ {{TermofEndearment}}"
 		},
             	"When": {
               		"TermofEndearment": "@, BFF",
@@ -582,14 +582,14 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Leah",
             "Entries": {
-		"marriage_seedshop": "Hmm, what to get, what to get..#$b#Oh, hi @! You know your stuff, do these crops look any good?$h",
-		"marriage_r": "We should take the time to appreciate the things we have before it's too late. I'll start first.#$b#Nature...$n#$b#My best friend...$l",
-		"marriage_r2": "Let's just enjoy the sunset for a moment, @.#$b#I'm so happy to be here with you.$l",
-		"marriage_r3": "Hi, @. I've had a fulfilling day. How about you?",
-		"marriage_r4": "I was just admiring my amulet... What was the story of how you got it again?",
-		"marriage_saloonm": "It's nice to relax every once in a while, don't you think?#$b#...$s#$b#If it weren't for you, I would still be sitting at this table alone. Thank you.$l#$b#Sorry, I get all emotional when I'm drinking.$6",
-		"marriage_drawf": "The last time I was here that forage across from us wasn't there.#$b#That's why I love painting nature, it never ends up being the same.$h#$b#Although there is one part of my life I don't mind staying the same forever.$l",
-		"marriage_drawt3": "Hi, @! Be honest, what do you think of this drawing?#$b#Thanks!$h",
+		"marriage_seedshop": "หืมม ได้อะไรน่ะ ได้อะไร..#$b#โอ้ว ว่าไง @! เธอเชี่ยวชาญเรื่องนี้นี่ พืชผลพวกนี้ดูเป็นยังไงบ้าง?$h",
+		"marriage_r": "เราควรให้เวลากับตัวเอง ได้ชื่นชมในสิ่งที่เรามี ก่อนที่จะสายเกินไป ฉันจะเริ่มก่อนนะ#$b#ธรรมชาติ...$n#$b#เพื่อนที่ดีที่สุดของฉัน...$l",
+		"marriage_r2": "ไปดูพระอาทิตย์ตกดินด้วยกัน ซักแปปสิ @ #$b#ฉันมีความสุขมาก ที่ได้อยู่กับเธอที่นี่$l",
+		"marriage_r3": "ว่าไง @ ฉันได้บรรลุเป้าหมายของฉัน แล้วนะ แล้วเธอล่ะ?",
+		"marriage_r4": "ฉันแค่กำลังชื่นชม เครื่องรางของฉัน... มีเรื่องอะไรจะเล่ามั้ย เธอทำยังไงถึงได้รับมันมา อีกครั้ง?",
+		"marriage_saloonm": "เป็นเรื่องดีนะ ที่นานๆทีจะได้พักผ่อนบ้าง เธอไม่คิดงั้นหรอ?#$b#...$s#$b#ถ้าไม่มีเธอ ฉันคงนั่งเหงาที่โต๊ะนี้คนเดียว ขอบคุณนะ$l#$b#ขอโทษนะ ฉันหมดอารมณ์ ที่จะดื่มต่อแล้วล่ะ$6",
+		"marriage_drawf": "คราวที่แล้วที่ฉันมาที่นี่ ไม่เห็นมีทุ่งหญ้าที่อยู่อีกฟาก หนึ่งของเราเลย#$b#นั่นแหละเหตุผลที่ฉันชอบวาดภาพธรรมชาติ มันไม่มีที่สิ้นสุด มันไม่เคยเหมือนเดิม$h#$b#อย่างไรก็ตาม นั่นก็เป็น ส่วนหนึ่งของชีวิตฉัน ฉันไม่รังเกียจหรอกนะ ที่จะอยู่แบบนี้ตลอดไป$l",
+		"marriage_drawt3": "ว่าไง @! เธอคิดยังไงกับภาพวาดนี้? บอกมาตามตรงได้เลยนะ#$b#ขอบคุณนะ!$h",
             },
             "When": {
                 "UseLovePortraits": "true",
@@ -600,14 +600,14 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Leah",
             "Entries": {
-		"marriage_seedshop": "Hmm, what to get, what to get..#$b#Oh, hi @! You know your stuff, do these crops look any good?$h",
-		"marriage_r": "We should take the time to appreciate the things we have before it's too late. I'll start first.#$b#Nature...$n#$b#My best friend...",
-		"marriage_r2": "Let's just enjoy the sunset for a moment, @.#$b#I'm so happy to be here with you.",
-		"marriage_r3": "Hi, @. I've had a fulfilling day. How about you?",
-		"marriage_r4": "I was just admiring my amulet... What was the story of how you got it again?",
-		"marriage_saloonm": "It's nice to relax every once in a while, don't you think?#$b#...$s#$b#If it weren't for you, I would still be sitting at this table alone. Thank you.$u#$b#Sorry, I get all emotional when I'm drinking.$6",
-		"marriage_drawf": "The last time I was here that forage across from us wasn't there.#$b#That's why I love painting nature, it never ends up being the same.$h#$b#Although there is one part of my life I don't mind staying the same forever.",
-		"marriage_drawt3": "Hi, @! Be honest, what do you think of this drawing?#$b#Thanks!$h",
+		"marriage_seedshop": "หืมม ได้อะไรน่ะ ได้อะไร..#$b#โอ้ว ว่าไง @! เธอเชี่ยวชาญเรื่องนี้นี่ พืชผลพวกนี้ดูเป็นยังไงบ้าง?$h",
+		"marriage_r": "เราควรให้เวลากับตัวเอง ได้ชื่นชมในสิ่งที่เรามี ก่อนที่จะสายเกินไป ฉันจะเริ่มก่อนนะ#$b#ธรรมชาติ...$n#$b#เพื่อนที่ดีที่สุดของฉัน...",
+		"marriage_r2": "ไปดูพระอาทิตย์ตกดินด้วยกัน ซักแปปสิ @ #$b#ฉันมีความสุขมาก ที่ได้อยู่กับเธอที่นี่",
+		"marriage_r3": "ว่าไง @ ฉันได้บรรลุเป้าหมายของฉัน แล้วนะ แล้วเธอล่ะ?",
+		"marriage_r4": "ฉันแค่กำลังชื่นชม เครื่องรางของฉัน... มีเรื่องอะไรจะเล่ามั้ย เธอทำยังไงถึงได้รับมันมา อีกครั้ง?",
+		"marriage_saloonm": "เป็นเรื่องดีนะ ที่นานๆทีจะได้พักผ่อนบ้าง เธอไม่คิดงั้นหรอ?#$b#...$s#$b#ถ้าไม่มีเธอ ฉันคงนั่งเหงาที่โต๊ะนี้คนเดียว ขอบคุณนะ$u#$b#ขอโทษนะ ฉันหมดอารมณ์ ที่จะดื่มต่อแล้วล่ะ$6",
+		"marriage_drawf": "คราวที่แล้วที่ฉันมาที่นี่ ไม่เห็นมีทุ่งหญ้าที่อยู่อีกฟาก หนึ่งของเราเลย#$b#นั่นแหละเหตุผลที่ฉันชอบวาดภาพธรรมชาติ มันไม่มีที่สิ้นสุด มันไม่เคยเหมือนเดิม$h#$b#อย่างไรก็ตาม นั่นก็เป็น ส่วนหนึ่งของชีวิตฉัน ฉันไม่รังเกียจหรอกนะ ที่จะอยู่แบบนี้ตลอดไป",
+		"marriage_drawt3": "ว่าไง @! เธอคิดยังไงกับภาพวาดนี้? บอกมาตามตรงได้เลยนะ#$b#ขอบคุณนะ!$h",
             },
             "When": {
                 "UseLovePortraits": "false",
