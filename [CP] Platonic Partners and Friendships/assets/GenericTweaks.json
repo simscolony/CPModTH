@@ -204,18 +204,18 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Utility.cs.5367": "ทีแรก ไม่มีใครรู้หรอกว่า @ จะเข้ากับชุมชนเราได้หรือไม่...#$b#แต่จากวันนี้ไป @ จะกลายเป็นส่วนหนึ่ง ของเมืองเพลิแกน ไม่ต่างจากพวกเราทุกคน!$h#$b#เป็นเกียรติของฉันอย่างมาก ที่ในวันนี้ {0} of {1}, to unite @ and %spouse in a lifelong committment to one another.",
-                "Utility.cs.5369": "At first, no one knew if @ would fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor, on this day {0} of {1}, to unite @ and %spouse in lifelong committment to one another.",
-                "Utility.cs.5370": "Well, let's get right to it!",
-                "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, I now pronounce you {{RelationshipLabel}}!$h",
-                "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, I now pronounce you {{RelationshipLabel}}!$h",
-                "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, I now pronounce you {{RelationshipLabel}}!$h",
-                "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, I now pronounce you {{RelationshipLabel}}!$h",
-                "Utility.cs.5379": "As is tradition, you may now seal this binding pact with a symbolic kiss.",
-                "NPC.cs.3965": "You just asked someone else to move in with you! Focus on them!$s",
-                "NPC.cs.3966": "Aren't you already about to move in with someone? They say three's a crowd.$s",
-                "NPC.cs.3967": "Um, aren't you already committed to someone?",
-                "NPC.cs.3968": "You're already committed to someone!$s",
+                "Utility.cs.5367": "ทีแรก ไม่มีใครรู้หรอกว่า @ จะเข้ากับชุมชนเราได้หรือไม่...#$b#แต่จากวันนี้ไป @ จะกลายเป็นส่วนหนึ่ง ของเมืองเพลิแกน ไม่ต่างจากพวกเราทุกคน!$h#$b#เป็นเกียรติของฉันอย่างมาก ที่ในวันที่ {0} แห่ง {1} ได้ทำให้ @ และ %spouse เป็นหนึ่งเดียวกันด้วย ความยึดมั่นสัญญาว่าจะทุ่มเท ให้กันตลอดชีวิต",
+                "Utility.cs.5369": "ทีแรก ไม่มีใครรู้หรอกว่า @ จะเข้ากับชุมชนเราได้หรือไม่...#$b#แต่จากวันนี้ไป @ จะกลายเป็นส่วนหนึ่ง ของเมืองเพลิแกน ไม่ต่างจากพวกเราทุกคน!$h#$b#เป็นเกียรติของฉันอย่างมาก ที่ในวันที่ {0} แห่ง {1} ได้ทำให้ @ และ %spouse เป็นหนึ่งเดียวกันด้วย ความยึดมั่นสัญญาว่าจะทุ่มเท ให้กันตลอดชีวิต",
+                "Utility.cs.5370": "เอาล่ะ เพื่อไม่ให้เป็นการเสียเวลา!",
+                "Utility.cs.5371": "@... %spouse... #$b# ในฐานะนายกเทศมนตรี ของเมืองเพลิแกน ตอนนี้ผมขอประกาศว่า พวกเธอเป็น {{RelationshipLabel}} กันแล้ว!$h",
+                "Utility.cs.5373": "@... %spouse... #$b# ในฐานะนายกเทศมนตรี ของเมืองเพลิแกน ตอนนี้ผมขอประกาศว่า พวกเธอเป็น {{RelationshipLabel}} กันแล้ว!$h",
+                "Utility.cs.5375": "@... %spouse... #$b# ในฐานะนายกเทศมนตรี ของเมืองเพลิแกน ตอนนี้ผมขอประกาศว่า พวกเธอเป็น {{RelationshipLabel}} กันแล้ว!$h",
+                "Utility.cs.5377": "@... %spouse... #$b# ในฐานะนายกเทศมนตรี ของเมืองเพลิแกน ตอนนี้ผมขอประกาศว่า พวกเธอเป็น {{RelationshipLabel}} กันแล้ว!$h",
+                "Utility.cs.5379": "และตามทำเนียม ตอนนี้พวกเธอผูกสัญญากันด้วย จูบเชิงสัญลักษณ์ได้",
+                "NPC.cs.3965": "คุณเพิ่งขอให้คนอื่น ย้ายมาอยู่ด้วยกันนะ! ใส่ใจคนนั้นมากๆ สิ!$s",
+                "NPC.cs.3966": "ไม่ใช่ว่าคุณกำลัง จะมีคนย้ายมาอยู่ด้วยเหรอ? สามคนเขาว่าไปไม่รอดนะ$s",
+                "NPC.cs.3967": "เอ่อ คุณผูกสัญญาไปแล้วไม่ใช่เหรอ?",
+                "NPC.cs.3968": "คุณผูกสัญญาไปแล้วนี่!$s",
             },
             "When":
             {
@@ -227,10 +227,10 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "NPC.cs.3965": "You just asked someone to marry you! Focus on them!$s",
-                "NPC.cs.3966": "Aren't you engaged? They say three's a crowd.$s",
-                "NPC.cs.3967": "Um, aren't you married? Shouldn't your spouse have some say in who lives with you?",
-                "NPC.cs.3968": "Um, aren't you married? Shouldn't your spouse have some say in who lives with you?",
+                "NPC.cs.3965": "เพิ่งขอแต่งงานไปนี่! ใส่ใจหน่อยสิ!$s",
+                "NPC.cs.3966": "หมั้นแล้วไม่ใช่เหรอคุณน่ะ? สองรักสามคนไม่ได้หรอกนะ$s",
+                "NPC.cs.3967": "เอ่อ แต่งงานแล้วไม่ใช่เหรอ? คู่แต่งงานของคุณ ควรเป็นคนออกความเห็น ว่าใครจะย้ายเข้ามาอยู่กับคุณ ไม่ใช่เหรอ?",
+                "NPC.cs.3968": "เอิ่ม คุณแต่งงานแล้วนี่? คู่แต่งงานของคุณ ควรเป็นคนออกความเห็น ว่าใครจะย้ายเข้ามาอยู่กับคุณ ไม่ใช่เหรอ?",
             },
             "When":
             {
@@ -242,7 +242,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Game1.cs.2782": "The ceremony was wonderful, wasn't it?$h#$e#Well, we can't forget about the farm... time to get to work.",
+                "Game1.cs.2782": "พิธีเยี่ยมไปเลยไม่ใช่หรอ?$h#$e#แต่ก็นะ พวกเราลืมฟาร์มไม่ได้นะ... ถึงเวลาทำงานแล้ว",
             },
             "When":
             {
@@ -255,8 +255,8 @@
             "Target": "Data/Festivals/spring24",
             "Entries":
             {
-                "Lewis": "If you'd like to dance with the other young people, you'll need to find a partner. It doesn't have to be someone you're romantically interested in.$h",
-                "Demetrius": "These springtime dances can be traced back to ancient fertility rituals. Of course, they don't carry the same implications today.#$e#It's still common for romantic couples to dance together, but the same is true of close friends.",
+                "Lewis": "ถ้าเธออยากเต้นรำ กับเยาวรุ่นคนอื่น เธอต้องไปหาคู่แล้วล่ะ ไม่ต้องเป็นคนที่ชอบ แบบโรแมนติกก็ได้$h",
+                "Demetrius": "การเต้นรำในฤดูใบไม้ผลินี่ สามารถย้อนไปได้ถึงพิธีกรรม เพื่อความอุดมสมบูรณ์ สมัยโบราณเลยนะ แน่ละเดี๋ยวนี้ความหมาย ไม่เหมือนเดิมแล้ว#$e#แต่คู่รักก็ยังมักเต้นรำด้วยกันนะ เพื่อนสนิทก็เต้นด้วยกันเหมือนกัน",
             },
         },
         {
@@ -264,12 +264,12 @@
             "Target": "Strings/Events",
             "Entries":
             {
-                "BirthMessage_PlayerMother": "During the night, the adoption agency dropped off your new baby {0}.",
-                "BirthMessage_SpouseMother": "During the night, the adoption agency dropped off your new baby {0}.",
-                "HaveBabyQuestion": "{{TermofEndearment}}, I'd like to coparent with you. Should we adopt a baby?",
-                "HaveBabyQuestion_Adoption": "{{TermofEndearment}}, I'd like to coparent with you. Should we adopt a baby?",
-                "HavePlayerBabyQuestion": "Do you want to adopt a baby with {0}?",
-                "HavePlayerBabyQuestion_Adoption": "Do you want to adopt a baby with {0}?"
+                "BirthMessage_PlayerMother": "กลางดึกนั้นเอง บริษัทจัดหาบุตรบุญธรรมได้เอาเด็กน้อย {0} ลูกคนใหม่ของคุณมาส่ง",
+                "BirthMessage_SpouseMother": "กลางดึกนั้นเอง บริษัทจัดหาบุตรบุญธรรมได้เอาเด็กน้อย {0} ลูกคนใหม่ของคุณมาส่ง",
+                "HaveBabyQuestion": "{{TermofEndearment}} อยากเลี้ยงเด็กกับเธอจัง เรารับลูกบุญธรรมกันมั้ย?",
+                "HaveBabyQuestion_Adoption": "{{TermofEndearment}} อยากเลี้ยงเด็กกับเธอจัง เรารับลูกบุญธรรมกันมั้ย?",
+                "HavePlayerBabyQuestion": "คุณอยากรับลูกบุญธรรมกับ {0} มั้ย?",
+                "HavePlayerBabyQuestion_Adoption": "คุณอยากรับลูกบุญธรรมกับ {0} มั้ย?"
             },
             "When":
             {
