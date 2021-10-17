@@ -8,63 +8,63 @@
             "Default": "Abigail, Alex, Elliott, Emily, Haley, Harvey, Leah, Maru, Penny, Sam, Sebastian, Shane",
             "AllowMultiple": true,
             "AllowBlank": true,
-            "Description": "Which characters' romantic dialogue and events are replaced with platonic alternatives. By default, all characters are set to platonic. If you want to pursue a character romantically, delete their name from the list."
+            "Description": "จะเป็นการแทนที่บทพูดและเหตุการณ์โรแมนติกด้วยเวอร์ชันรักบริสุทธิ์ ทุกตัวละครถูกตั้งเป็นเวอร์ชันรักบริสุทธิ์โดยอัตโนมัติ หากคุณต้องการจีบตัวละครตัวไหนแบบโรแมนติก ให้ลบชื่อตัวละครนั้นออกจากรายชื่อนี้"
         },
         "RelationshipLabel":
         {
-            "Default": "partners",
-            "Description": "How you would like to describe your relationship if you 'marry' a platonic partner, e.g. 'roommates,' 'life partners,' 'business partners'."
+            "Default": "คู่ร่วมชีวิต",
+            "Description": "คุณอยากใช้คำไหนอธิบายความสัมพันธ์ชองพวกคุณ หากคุณ 'แต่งาน' กับตัวละครที่เป็นรักบริสุทธิ์ ยกตัวอย่าง 'เพื่อนร่วมห้อง' 'คู่ชีวิต' 'พาร์ทเนอร์ทางธุรกิจ'"
         },
         "SocialMenuLabel":
         {
-            "Default": "partner",
-            "Description": "How you would like the person you're platonically partnered to to be labeled in the social menu, e.g. 'partner,' 'wife,' 'spouse,' 'best bud'. Affects all housemates if using Multiple Spouses."
+            "Default": "คู่ร่วมชีวิต",
+            "Description": "คุณอยากให้คนที่คุณตกลงเป็นคู่ร่วมชีวิตโดยบริสุทธิ์ด้วยมีสถานะในแถบโซเชียลว่าอะไร ยกตัวอย่าง 'พาร์ทเนอร์' 'ภรรยา' 'คู่แต่งงาน' 'เพื่อนซี้' มีผลกับทุกคนในบ้านถ้าใช้มอดแต่งงานหลายคน (Multiple Spouses)"
         },
         "TermofEndearment":
         {
             "Default": "@",
-            "Description": "What you would like a platonic partner to call you. First letter should be capitalized."
+            "Description": "อยากให้คู่ร่วมชีวิตของคุณเรียกว่าอะไร หากเป็นภาษาอังกฤษ อักษรตัวแรกควรเป็นตัวพิมพ์ใหญ่"
         },
         "EnableAsexuality":
         {
-            "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "When true, your platonic partner won't say anything 'suggestive'. You can disable this if you want a partnership that is aromantic, but not asexual.)"
+            "AllowValues": "ใช้งาน, ปิดการใช้งาน",
+            "Default": "ใช้งาน",
+            "Description": "เมื่อเปิดใช้งาน คู่ร่วมชีวิตของคุณจะไม่พูดอะไร 'สองแง่สองง่าม' คุณสามารถปิดการใช้งานได้หากคุณอยากได้คู่ที่ไม่มีความรักโรแมนติก แต่ยังมีความใฝ่ใจทางเพศ"
         },
         "EnablePortraitEdits":
         {
-            "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "Determines whether minor portrait edits (mostly removing blushing) will be applied to NPCs in the platonic list."
+            "AllowValues": "ใช้งาน, ปิดการใช้งาน",
+            "Default": "ใช้งาน",
+            "Description": "เปิดใช้งานเพื่อให้มีการแก้ไขภาพตัวละครบางอย่าง (ส่วนใหญ่เป็นการเอาภาพหน้าแดง) ออก สำหรับตัวละครที่มีรายชื่อในเป็นรักบริสุทธิ์"
         },
         "UseLovePortraits":
         {
-            "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "Determines whether dialogue and events will use characters' 'love' portraits. If EnablePortraitEdits is true, these portraits will not blush."
+            "AllowValues": "ใช้งาน, ปิดการใช้งาน",
+            "Default": "ใช้งาน",
+            "Description": "เปิดใช้งานเพื่อให้ใช้รูป 'รัก' ของตัวละครในบทพูดและเหตุการณ์ ถ้าเปิดใช้งาน EnablePortraitEdits จะไม่มีรูปหน้าแดง"
         },
         "EnableSpriteEdits":
         {
-            "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "Determines whether wedding dresses will be recolored for NPCs in the platonic list. (This option does nothing if you have DSV installed, since DSV instead replaces wedding outfits with unique commitment ceremony outfits designed by DSV team member Airyn.)"
+            "AllowValues": "ใช้งาน, ปิดการใช้งาน",
+            "Default": "ใช้งาน",
+            "Description": "เปิดใช้งานเพื่อให้ชุดแต่งงานของตัวละครที่มีรายชื่อในเป็นรักบริสุทธิ์เปลี่ยนสี (ตัวเลือกนี้จะไม่มีผลอะไรถ้าติดตั้ง DSV เพราะ DSV จะแทนที่ชุดแต่งงานด้วยชุดพิธีผูกสัญญาพิเศษที่ออกแบบโดยสมาชิกทีม DSV ชื่อ Airyn)"
         },
         "EnableScheduleChanges":
         {
-            "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "When true, blocks some vanilla schedule changes that imply romantic rivalry; e.g., if you're platonic with Haley, reaching 6 hearts with her won't make Alex stop visiting her house.)"
+            "AllowValues": "ใช้งาน, ปิดการใช้งาน",
+            "Default": "ใช้งาน",
+            "Description": "เมื่อเปิดใช้งาน จะปิดการเปลี่ยนแปลงกิจวัตรของคู่แข่งทางความรัก เช่น ถ้าคุณมีรักบริสุทธิ์กับเฮลีย์ เมื่อหัวใจเธอ 6 ดวง อเล็กซ์จะไม่หยุดมาหาเธอที่บ้าน"
         },
         "Auncle":
         {
-            "Default": "Nini",
-            "Description": "Determines what title you want to be used by NPCs with a niece/nephew/nibling-like relationship with you; e.g. Aunt, Uncle, Nini, etc. Only applicable with certain mods installed."
+            "Default": "น้า",
+            "Description": "ระบุชื่อที่คุณอยากให้ตัวละครที่มีสถานะเป็นหลาน หรือความสัมพันธ์เหมือนหลานเรียกคุณ เช่น ป้า, ลุง, น้า เป็นต้น ใช้ได้ก็ต่อเมื่อติดตั้งมอดบางอย่างเท่านั้น"
         },
         "SpousesReactExInvolvement": 
         {
-            "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "When using the Spouses React to Death mod, implements platonic edits for some events with an ex-partner visiting the hospital after player 'death'. Set to false if you have ex involvement disabled in Spouses React."
+            "AllowValues": "ใช้งาน, ปิดการใช้งาน",
+            "Default": "ใช้งาน",
+            "Description": "เมื่อเลือกมอด Spouses React to Death จะเปิดใช้งานการเปลี่ยนแปลงเหตุการณ์บางอย่างเมื่ออดีตคู่ร่วมชีวิตมาเยี่ยมผู้เล่นที่โรงพยาบาลเมื่อ 'ตาย' ให้ปิดการใช้งานถ้าคุณไม่ได้เปิดการใช้งาน ex involvement ใน Spouses React."
         },
     },
     "DynamicTokens": [
