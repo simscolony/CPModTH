@@ -23,10 +23,10 @@
 	"HasSeenEvent": "59020001"
 		},
 "Entries": {
-            "Tue6": "Hey, @.$0#$b#Do you happen to know what Penny might like as a gift?$4#$e#Oh, don't get me wrong.$8#$b#I justwanted to thank her for being so nice to Vincent.$10",
-            "Thu6": "I don't really enjoy reading.$0#$b#But Penny makes it sound so interesting... maybe I should give it a chance.$1",
-            "Fri6": "I wonder what Penny is doing right now...$0#$e#Huh? Oh, I didn't see you, @.$0#$b#How's it going?$1",
-            "Sat6": "Hey, @!$1#$b#Will I see you in the saloon later?$0#$e#Do you think Penny would like to join us?$0"
+            "Tue6": "เฮ้ @$0#$b#พอรู้ป่าวว่าเพนนี น่าจะชอบของขวัญอะไร?$4#$e#เอ้อ อย่าเข้าใจผิดนะ$8#$b#แค่อยากขอบคุณเธอ ที่ใจดีกับวินเซนท์น่ะ$10",
+            "Thu6": "ฉันไม่ค่อยชอบ อ่านหนังสือหรอก$0#$b#แต่เพนนีพูดแล้วดูน่าสนใจ... ฉันอาจจะลองอ่านดูสักหน่อย$1",
+            "Fri6": "สงสัยจังแหะ ว่าเพนนีทำอะไรอยู่...$0#$e#หือ? อ้าว ไม่เห็นเธอเลย @$0#$b#เป็นไงมั่ง?$1",
+            "Sat6": "ไง @!$1#$b#จะเจอเธอที่ซาลูนมั้ยวันนี้?$0#$e#เธอคิดว่า เพนนีจะอยากมากับเรามั้ย?$0"
 			}
 },
 {
@@ -37,10 +37,10 @@
 	"HasSeenEvent": "59020001"
 		},
 "Entries": {
-			"Mon6": "Hello, @. Do you grow cactus on your farm?$0#$e#...Huh? Nevermind, I was just asking.$4",
-            "Wed6": "Yesterday I ran into Sebastian and Abigail and we actually chatted for a while.$0#$b#I think Sam has helped me to come out of my shell.$1",
-            "Fri6": "I was thinking of taking Vincent and Jas on a field trip someday.$1#$b#Do you think Sam would like to come?$4#$e#I-I mean, since Vincent really looks up to him I thought it would be good for both of them.$4",
-            "Sat6": "I've heard that Sam usually goes to the saloon with his friends.$3#$e#I almost never go but...$3#$b#...maybe I should from now on.$4"
+			"Mon6": "สวัสดีค่ะ @ ที่ฟาร์มปลูกกระบองเพชร บ้างหรือเปล่าคะ?$0#$e#...หือ? ไม่มีอะไรค่ะ แค่ถามดู$4",
+            "Wed6": "เมื่อวานเผอิญเจอเซบาสเตียน กับอบิเกลค่ะ เลยได้คุยกับพักนึงเลย$0#$b#ฉันว่าแซมช่วยให้ฉัน กล้าแสดงออกมากขึ้นค่ะ$1",
+            "Fri6": "ฉันกำลังคิดว่า สักวันนึงอยากพาวิทเซนท์ กับแจสไปทัสนศึกษาค่ะ$1#$b#คุณคิดว่าแซมจะอยากไปมั้ยคะ?$4#$e#มะ-หมายถึงว่า วินเซนท์เห็นแซมเป็น แบบอย่างตลอดเลยค่ะ ฉันเลยคิดว่าน่าจะดี กับเขาทั้งสองคน$4",
+            "Sat6": "ฉันได้ยินมาว่า แซมมักจะไปซาลูนกับเพื่อนๆ$3#$e#ฉันแทบไม่เคยไปเลย แต่...$3#$b#...จากนี้คงต้องหัดไปบ้างแล้ว$4"
 			}
 },
 //Sam and Penny dialogue | 2 hearts event
@@ -52,8 +52,8 @@
 	"HasSeenEvent": "59020003"
 		},
 "Entries": {
-            "Mon2": "Do you get along with Penny?$0#$e#She's actually pretty cool!$1",
-            "Sat2": "Lately I haven't been able to compose any good songs.$2#$b#Luckily, Penny recommended me a book that has served as inspiration.$1"
+            "Mon2": "เธอสนิทกับเพนนีมั้ย?$0#$e#จริงๆ แล้วเธอเจ๋งไม่เบาเลยนะ!$1",
+            "Sat2": "พักหลังนี่แต้งเพลงดีๆ ไม่ออกเลย$2#$b#โชคดีที่เพนนีแนะนำหนังสือ ที่เป็นแรงบันดาลใจให้น่ะ$1"
 			}
 },
 {
@@ -64,8 +64,8 @@
 	"HasSeenEvent": "59020003"
 		},
 "Entries": {
-            "Thu2": "Did you know that Sam likes Paradise Horizon?$1#$e#Oh... You don't know what that is...$2",
-            "Sat2": "The passion that Sam puts into making music is truly impressive.$0#$b#I admire him for that.$1"
+            "Thu2": "คุณรู้มั้ยคะว่าแซมชอบพาราไดซ์ ฮอริซัน?$1#$e#อ่า... คุณไม่รู้ว่ามันคืออะไรเหรอ ...$2",
+            "Sat2": "แพชชันในการทำเพลง ของแซมน่าประทับใจมากจริง ๆ ค่ะ$0#$b#ฉันชื่นชมเขาตรงนั้นมากเลย$1"
 			}
 },
 //Sam and Penny dialogue | 4 hearts event
@@ -77,9 +77,9 @@
 	"HasSeenEvent": "59020004"
 		},
 "Entries": {
-            "Wed4": "Have you seen Penny?$0#$e#I wanted her to recommend me another book on music.$0",
-            "Thu4": "Penny and I are really similar in many ways?$0#$e#It was a surprise for me too!$1",
-            "Fri4": "Lately I've been spending more time with Penny.$0#$b#She's really cool once you get to know her!$1"
+            "Wed4": "เห็นเพนนีมั่งป่าว?$0#$e#ฉันอยากให้เธอแนะนำหนังสือ เกี่ยวกับเพลงเพิ่มซะหน่อย$0",
+            "Thu4": "ฉันกับเพนนีมีอะไรเหมือนกัน หลายอย่างเนี่ยนะ?$0#$e#ฉันยังแปลกใจเลย!$1",
+            "Fri4": "ช่วงนี้ฉันอยู่กับเพนนีบ่อยขึ้นล่ะ$0#$b#เธอเจ๋งจริงๆ นะ พอสนิทกันแล้วน่ะ!$1"
 			}
 },
 {
@@ -90,9 +90,9 @@
 	"HasSeenEvent": "59020004"
 		},
 "Entries": {
-			"Mon4": "Uhm... Have you seen Sam by any chance, @?$3#$e#Oh, it’s nothing like that.$0#$b#I just want to talk about how Vincent is doing.$3",
-            "Fri4": "I hope Sam gets to give his own concert someday.$0",
-            "Sun4": "The other day Sam showed me a new song he's composing.$0#$b#It was really good!$1"
+			"Mon4": "เอ่อ... คุณเห็นแซมบ้างมั้ยคะ @?$3#$e#อ้อ ไม่ใช่อย่างนั้นหรอกค่ะ$0#$b#แค่อยากจะบอกเขา ว่าวินเซนท์เป็นยังไงแล้วบ้าง$3",
+            "Fri4": "ฉันหวังว่าสักวันแซมจะ เปิดคอนเสิร์ตของตัวเองนะ$0",
+            "Sun4": "วันก่อนแซมเอาเพลง ที่แต่งอยู่มาให้ดูค่ะ$0#$b#เพราะมากเลย!$1"
 			}
 },
 //Dialogues | 8 hearts event
@@ -105,34 +105,34 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon8": "You know, I'm relieved that Penny made the first move.$1#$e#Sebastian used to tell me that I would never be able to ask her out.$0#$b#Guess he was right.$10",
-            "Tue8": "Hey, @. Have you seen Penny?$1",
-            "Wed8": "It's nice that Vincent likes Penny so much.$1#$b#But obviously I love her more!$4",
-            "Thu8": "Pam may be overprotective with Penny.$0#$b#But that shows how much she cherishes her.$0",
-            "Fri8": "At first Pam disapproved my relationship with Penny.$2#$b#But I'm glad I was able to show her I'm serious about Penny.$1",
-            "Sat8": "Penny is so nice to my mother, I think that I love her more day by day.$4",
-            "Sun8": "I knew Penny was the one the very first moment I met her.$4#$b#I was just too nervous to approach her first.$10",
-            "spring_Mon8": "I feel like the luckiest person alive with Penny by my side.$4",
-            "spring_Wed8": "This might sound weird to you but...$0#$b#I always miss Penny even when I have just seen her.$4",
-            "spring_Thu8": "I can't even imagine how my life was before Penny.$4#$e#She's so important to me...$4",
-            "summer_Wed8": "Sometimes I feel like I should be more open with Penny about how much I care about her...$2",
-            "summer_Sat8": "Penny and I took Vincent and Jas to the park the other day.$0#$e#They started arguing over some small thing.$2#$b#Her job sure is hard sometimes.$0",
-            "summer_Sun8": "Seb thinks that Penny is really cool.$0#$b#I'm glad that my two best friends get along.$1",
-            "fall_Mon8": "Do you think I would be a good parent, @?$7#$e#Penny sure would be.$1",
-            "fall_Thu8": "Penny has made me realise that I wasn't spending enough time with Vincent.$0#$b#You know, he'll be grown up soon.$0",
-            "fall_Fri8": "Penny is going to have dinner with us tonight.$0#$b#I'm so excited!$1",
-            "winter_Tue8": "My mother absolutely loves Penny.$1#$b#She's just the perfect girlfriend and would be a great daughter-in-law.$0",
-            "winter_Wed8": "It's crazy how much I enjoy the time I spend with Penny...$4#$b#So this is what being in love feels like?$10",
-            "winter_Fri8": "What kind of song do you think Penny would like the most?$1#$e#I wanted to make something special for her.$10",
-            "winter_Sun8": "I'm looking forward to spending more time with Penny next year.$4",
-            "spring_12": "Vincent keeps talking about the Egg Hunt.$0#$b#He even asked Penny and I to join him.$0#$b#But I think we're going to leave it for another year.$0",
-            "spring_23": "Penny is excited for the Flower Festival.$0#$e#I'm sure she'll look beautiful as always.$4",
-            "fall_2": "Yesterday I asked my mother to help me make some muffins.$0#$b#You know, for Penny's birthday.$0#$b#But it didn't end very well...$2#$b#So I decided to buy a poppy from Pierre's.$0",
-            "winter_7": "Penny and I are going to build a snowman tomorrow at the Festival of Ice.$1#$e#Are you going to join the fishing competition, @?$0",
-            "spring_12_2": "Vincent keeps talking about the Egg Hunt.$0#$b#He even asked Penny and I to join him.$0#$b#But I think we're going to leave it for another year.$0",
-            "spring_23_2": "Penny is excited for the Flower Festival.$0#$e#I'm sure she'll look beautiful as always.$4",
-            "fall_2_2": "Yesterday I asked my mother to help me make some muffins.$0#$b#You know, for Penny's birthday.$0#$b#But it didn't end very well...$2#$b#So I decided to buy a poppy from Pierre's.$0",
-            "winter_7_2": "Penny and I are going to build a snowman tomorrow at the Festival of Ice.$1#$e#Are you going to join the fishing competition, @?$0"
+            "Mon8": "รู้ป่าว ฉันนี่อย่างโล่งใจเลย ที่เพนนีเป็นคนจีบก่อน$1#$e#เซบาสเตียนเคยบอกตลอด เลยว่าฉันคงไม่มีวันขอเธอ เป็นแฟนสำเร็จหรอก$0#$b#เขาก็คงพูดถูกอะนะ$10",
+            "Tue8": "ไง @ เห็นเพนนีบ้างมั้ย?$1",
+            "Wed8": "ดีที่วินเซนท์ชอบเพนนี มากขนาดนี้$1#$b#แต่แน่ละว่าฉันชอบมากกว่า!$4",
+            "Thu8": "แพมอาจจะหวงเพนนีไปหน่อย$0#$b#แต่นั่นก็แสดงให้เห็นว่า เพนนีสำคัญ กับแพมมากแค่ไหน$0",
+            "Fri8": "ตอนแรกแพมไม่เห็นด้วย ที่ฉันคบกับเพนนี$2#$b#แต่ฉันดีใจนะ ที่แสดงให้เธอเห็นได้ ว่าฉันจริงจังกับเพนนี$1",
+            "Sat8": "เพนนีดีกับแม่ฉันมากเลย ฉันว่า ฉันรักเพนนีมากขึ้น ทุกวันเลยล่ะ$4",
+            "Sun8": "ฉันรู้ว่าเพนนีเป็นคนที่ใช่ ตั้งแต่แรกเจอเลย$4#$b#ฉันแค่มัวแต่ประหม่า เกินกว่าจะเข้าหาเธอก่อน$10",
+            "spring_Mon8": "ฉันรู้สึกเป็นคนที่โชคดีที่สุด ในโลกเลยอะ ที่มีเพนนีเคียงข้าง$4",
+            "spring_Wed8": "เธออาจจะคิดว่ามันแปลกนะ แต่ว่า...$0#$b#ฉันคิดถึงเพนนีตลอดเลย ถึงจะเพิ่งเจอกันไปก็เหอะ$4",
+            "spring_Thu8": "ฉันนึกไม่ออกด้วยซ้ำ ว่าชีวิตเป็นยังไงก่อนมีเพนนี$4#$e#เธอสำคัญกับฉันมากเหลือเกิน...$4",
+            "summer_Wed8": "บางทีฉันก็คิดว่าฉันควร แสดงออกกับเพนนีมากกว่านี้ ว่าฉันแคร์เธอแค่ไหน...$2",
+            "summer_Sat8": "วันก่อนฉันกับเพนนีพาวินเซนท์ กับแจสไปสวนสาธารณะ$0#$e#แล้วพวกเด็กๆ ก็เริ่มทะเลาะกัน เรื่องไม่เป็นเรื่อง$2#$b#งานเธอนี่บางทีก็หินจริงๆ แหะ$0",
+            "summer_Sun8": "เซบคิดว่า เพนนีนี่อย่างเจ๋งเลยแหละ$0#$b#ฉันดีใจที่เพื่อนรักที่สุด ของฉันสองคนเข้ากันได้$1",
+            "fall_Mon8": "Dธอว่าฉันจะเป็นพ่อที่ดีได้มั้ย @?$7#$e#เพนนีเป็นแม่ที่ดีได้แน่ล่ะ$1",
+            "fall_Thu8": "เพนนีทำให้ฉันรู้ตัวว่า ฉันให้เวลากับวินเซนท์ น้อยเกินไป$0#$b#เธอเก็ตปะ อีกไม่นานเขาก็โตแล้วอะ$0",
+            "fall_Fri8": "เพนนีจะมากินข้าวเย็น กับพวกเราคืนนี้ล่ะ$0#$b#ตื่นเต้นชะมัด!$1",
+            "winter_Tue8": "แม่ฉันรักเพนนีสุดๆ ไปเลย$1#$b#เธอเป็นแฟนที่สมบูรณ์แบบ แล้วก็คงจะเป็นลุกสะใภ้ ที่เยี่ยมยอดด้วย$0",
+            "winter_Wed8": "มันบ้าไปแล้ว ว่าฉันชอบเวลาที่ได้อยู่กับ เพนนีขนาดไหน...$4#$b#คนคลั่งรัก เขารู้สึกกันแบบนี้เองสินะ?$10",
+            "winter_Fri8": "เธอว่าเพนนี ชอบเพลงแบบไหนที่สุด?$1#$e#ฉันอยากทำอะไร เป็นพิเศษให้เธอน่ะ$10",
+            "winter_Sun8": "ฉันตั้งตารอ ใช้เวลาร่วมกับเพนนี มากกว่านี้ในปีหน้าล่ะ$4",
+            "spring_12": "วินเซนท์พูดเรื่องเกมล่าไข่ ไม่หยุดเลย$0#$b#ยังมาขอให้ฉันกับเพนนี ไปเล่นด้วยอีก$0#$b#แต่ฉันว่าเราคง รอดูอีกสักปีก่อนล่ะนะ$0",
+            "spring_23": "เพนนีตื่นเต้นเรื่อง งานเทศกาลดอกไม้ล่ะ$0#$e#ฉันมั่นใจเลยว่า เธอก็คงสวยเหมือนทุกวัน$4",
+            "fall_2": "เมื่อวานฉันขอให้แม่ ช่วยทำมัฟฟินล่ะ$0#$b#แบบว่า สำหรับวันเกิดเพนนีอะ$0#$b#แต่จบไม่ค่อยสวย...$2#$b#ฉันเลยตัดสินใจว่า จะไปซื้อดอกป็อปปี้ จากร้านปิแอร์แทน$0",
+            "winter_7": "พรุ่งนี้ฉันกับเพนนี จะไปทำตุ๊กตาหิมะ ที่เทศกาลสลักน้ำแข็งกันแหละ$1#$e#เธอจะลงแข่งตกปลาป่าว @?$0",
+            "spring_12_2": "วินเซนท์พูดเรื่องเกมล่าไข่ ไม่หยุดเลย$0#$b#ยังมาขอให้ฉันกับเพนนี ไปเล่นด้วยอีก$0#$b#แต่ฉันว่าเราคง รอดูอีกสักปีก่อนล่ะนะ$0",
+            "spring_23_2": "เพนนีตื่นเต้นเรื่อง งานเทศกาลดอกไม้ล่ะ$0#$e#ฉันมั่นใจเลยว่า เธอก็คงสวยเหมือนทุกวัน$4",
+            "fall_2_2": "เมื่อวานฉันขอให้แม่ ช่วยทำมัฟฟินล่ะ$0#$b#แบบว่า สำหรับวันเกิดเพนนีอะ$0#$b#แต่จบไม่ค่อยสวย...$2#$b#ฉันเลยตัดสินใจว่า จะไปซื้อดอกป็อปปี้ จากร้านปิแอร์แทน$0",
+            "winter_7_2": "พรุ่งนี้ฉันกับเพนนี จะไปทำตุ๊กตาหิมะ ที่เทศกาลสลักน้ำแข็งกันแหละ$1#$e#เธอจะลงแข่งตกปลาป่าว @?$0"
 			}
 },   
      //Penny
@@ -144,33 +144,33 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon8": "I hope Mom is being nice to Sam.$3#$b#She's kind of overprotective with me.$3",
-            "Tue8": "I wonder what Sam is doing right now...$4#$e#We do see each other a lot, but I still miss him everyday.$0",
-            "Wed8": "Since Sam and I started dating, Vincent hasn't stop asking us all kinds of questions.$0#$e#It's kind of embarrassing sometimes...$2",
-            "Thu8": "I'm glad Vincent is Sam's little brother.$0#$b#It means I can spend even more time with Sam!$1",
-            "Fri8": "Mom has probably been more lonely now that I'm spending more time with Sam.$2#$b#I just hope she has not started going to the saloon more often.$2",
-            "Sat8": "I was nervous about how Sam's parents were going to react to our relationship...$3#$e#But they're both really nice to me!$1",
-            "Sun8": "Sam gave me an idea about a musical activity for Jas and Vincent.$0#$b#They are going to love it!$1",
-            "spring_Mon8": "I feel so proud of Sam whenever he shows me a new song that he has composed.$0#$b#If he's happy, I'm happy.$4",
-            "spring_Thu8": "...I still can't believe I'm dating the most wonderful man in the world.$4#$e#To be honest, I don't even know how I had the courage to ask him out first.$0",
-            "spring_Fri8": "I'm not fond of the saloon for obvious reasons.$5#$b#But Sam likes to go there with Abigail and Sebastian, so I join him occasionally.$0",
-            "summer_Tue8": "As I'm a teacher, I usually wake up early to arrive at the museum first.$0#$b#On the other hand, Sam is just the opposite, he loves to sleep.$0",
-            "summer_Wed8": "When I would read romance novels I never thought that something similar would happen to me...$4#$e#Sam makes me feel like I'm the only woman in the world.$4",
-            "summer_Sat8": "When Sam and I can't fall asleep, we meet each other at night to look up at the stars.$0#$e#Maru told us where was the best place to go stargazing.",
-            "fall_Mon8": "Sebastian and Sam like to play Solarian Chronicles.$0#$e#They asked me if I wanted to join, but I think I'll just watch for now.$0",
-            "fall_Thu8": "Isn't Stardew Valley the perfect place to raise kids?$0#$e#Of course, not now. Sam and I are still young.$1",
-            "fall_Sun8": "I never dated anyone before Sam, so I was really nervous.$0#$e#Fortunately it all feels natural with him.$4",
-            "winter_Fri8": "I'm looking forward to my future with Sam...$4#$b#Have you ever felt this way, @?",
-            "winter_Sat8": "Do you think Sam would like to get married someday, @?$4#$e#I surely do...$4",
-            "winter_Sun8": "I can't stop thinking about Sam.$4#$e#I just love him so much...$4",
-            "spring_10": "Today is Vincent's birthday and he's very excited.$1#$b#He likes dandelions, so Sam and I are going to pick some up for him later.$0",
-            "spring_12": "Tomorrow's the Egg Festival.$1#$b#Vincent and Jas love participating in the egg hunt, even though Abigail almost always wins.$0#$e#And I can spend more time with Sam.$4",
-            "spring_23": "Sam and I are looking forward to the Flower Dance.$0#$e#I'm a little bit nervous, though.$0#$e#Sam says I'm a good dancer, but I'm not sure...$2",
-            "summer_17": "Today is Sam's birthday.$1#$b#I can't wait to spend it with him and his family!$1#$e#Also, I have a special surprise for him later...$4",
-            "spring_10_2": "Today is Vincent's birthday and he's very excited.$1#$b#He likes dandelions, so Sam and I are going to pick some up for him later.$0",
-            "spring_12_2": "Tomorrow's the Egg Festival.$1#$b#Vincent and Jas love participating in the egg hunt, even though Abigail almost always wins.$0#$e#And I can spend more time with Sam.$4",
-            "spring_23_2": "Sam and I are looking forward to the Flower Dance.$0#$e#I'm a little bit nervous, though.$0#$e#Sam says I'm a good dancer, but I'm not sure...$2",
-            "summer_17_2": "Today is Sam's birthday.$1#$b#I can't wait to spend it with him and his family!$1#$e#Also, I have a special surprise for him later...$4"
+            "Mon8": "ฉันหวังว่าแม่จะไม่ดุแซมนะ$3#$b#แม่น่ะค่อนข้าง เป็นห่วงฉันมากไปหน่อยค่ะ$3",
+            "Tue8": "ฉันสงสัยจังว่า ตอนนี้แซมทำอะไรอยู่...$4#$e#พวกเราอยู่บ้านเดียวกัน แต่ฉันก็ยังคิดถึงเขาตลอดเลยค่ะ$0",
+            "Wed8": "ตั้งแต่ฉันคบกับแซม วินเซนท์ก็มีคำถามมาถามเรา ไม่หยุดหย่อนเลย$0#$e#บางทีก็แอบอายน่ะ...$2",
+            "Thu8": "ดีใจจังที่วินเซนท์ เป็นน้องชายของแซม$0#$b#เพราะมันหมายความว่า ฉันได้ใช้เวลากับแซม มากขึ้นไปอีกค่ะ!$1",
+            "Fri8": "แม่คงเหงากว่าที่เคยเป็นแน่เลย ที่ฉันอยู่กับแซมบ่อยขึ้น$2#$b#ฉันก็ได้แต่หวังว่า เธอคงไม่เริ่มไปซาลูน บ่อยขึ้นหรอกนะคะ$2",
+            "Sat8": "ทีแรกฉันกังวลว่าพ่อแม่แซม จะคิดยังไงกับ ความสัมพันธ์ของเราค่ะ...$3#$e#แต่ท่านทั้งคู่ ดีกับฉันมากเลยค่ะ!$1",
+            "Sun8": "แซมทำให้ฉันเกิดไอเดีย เรื่องจัดกิจกรรมเล่นดนตรี ให้แจสกับวินเซนท์ล่ะ$0#$b#วกเขาต้องชอบแน่ค่ะ!$1",
+            "spring_Mon8": "ทุกครั้งที่แซมเอาเพลงใหม่ ที่แต่งมาให้ดู ฉันก็ภูมิใจในตัวเขา ตลอดเลยค่ะ$0#$b#ถ้าเขามีความสุข ฉันก็มีความสุขค่ะ$4",
+            "spring_Thu8": "...ฉันยังไม่อยากจะเชื่อเลยว่า ฉันคบอยู่กับผู้ชายคนที่ เยี่ยมยอดที่สุดในโลก$4#$e#จะว่าไปแล้ว ฉันไม่รู้ด้วยซ้ำค่ะว่า ไปเอาความกล้าจากไหน ไปชวนเขาเป็นแฟนก่อน$0",
+            "spring_Fri8": "แน่ล่ะค่ะว่าฉันมีเหตุผล ที่จะไม่ชอบซาลูน$5#$b#แต่แซมชอบไปที่นั่นกับอบิเกล และเซบาสเตียนตลอด บางทีฉันเลยไปด้วยค่ะ$0",
+            "summer_Tue8": "เพราะเป็นครู ฉันเลยมักจะตื่นแต่เช้า จะได้มาถึงพิพิธภัณฑ์ก่อน$0#$b#แต่แซมตรงกันข้ามเลยค่ะ เขาชอบที่จะนอนมาก$0",
+            "summer_Wed8": "เมื่อก่อนอ่าน นิยายโรแมนติกก็ไม่คิดเลยค่ะ ว่าจะมีอะไรคล้ายๆ กันเกิดกับตัวเองได้...$4#$e#แซมทำให้ฉันรู้สึกเหมือนเป็น ผู้หญิงหนึ่งเดียวในโลกเลย$4",
+            "summer_Sat8": "วันไหนฉันกับแซมนอนไม่หลับ เราจะนัดกันไปดูดาวค่ะ$0#$e#มารุบอกที่ที่ เราจะไปดูดาวได้สวยที่สุดค่ะ",
+            "fall_Mon8": "เซบาสเตียนกับแซมชอบ เล่นเกมปกรณัมโซโลเรียนค่ะ$0#$e#พวกเขามาถามฉันด้วย ว่าอยากเล่นด้วยกันมั้ย แต่ฉันว่าขอดูอย่างเดียว ก่อนดีกว่า$0",
+            "fall_Thu8": "ไม่ใช่ว่าสตาร์ดิวแวลลี่เหมาะ เลี้ยงลูกมากเลยเหรอคะ?$0#$e#แต่ไม่ใช่ตอนนี้แน่นอนค่ะ ฉันกับแซมยังอายุน้อยอยู่$1",
+            "fall_Sun8": "ฉันไม่เคยมีแฟนคนอื่นเลย นอกจากแซมค่ะ ฉันเลยประหม่ามากเลย$0#$e#แต่ดีที่ทุกอย่างกับเขารู้สึก เป็นธรรมชาติหมดเลยค่ะ$4",
+            "winter_Fri8": "ฉันเฝ้ารออนาคต ที่จะได้ใช้ร่วมกับแซมล่ะ ...$4#$b#คุณเคยรู้สึกแบบนี้มั้ยคะ @?",
+            "winter_Sat8": "คุณว่าสักวันหนึ่ง แซมจะอยากแต่งงานมั้ยคะ @?$4#$e#ฉันคนหนึ่งละที่อยาก...$4",
+            "winter_Sun8": "ฉันหยุดคิดถึงแซมไม่ได้เลยค่ะ$4#$e#ฉันรักเขาจังเลย...$4",
+            "spring_10": "วันนี้วันเกิดวินเซนท์ค่ะ แล้วเขาก็ตื่นเต้นมากเลย$1#$b#เขาชอบดอกแดนดิไลออน ฉันกับแซมเลยไว้จะ ไปเก็บให้เขาทีหลังค่ะ$0",
+            "spring_12": "พรุ่งนี้เป็น เทศกาลไข่อีสเตอร์ค่ะ$1#$b#วินเซนท์กับแจสชอบที่จะ แข่งในเกมล่าไข่มากๆ เลย ถึงอบิเกลจะชนะ เกือบตลอดก็เถอะค่ะ$0#$e#และฉันก็ได้ใช้เวลา กับแซมมากขึ้นด้วย$4",
+            "spring_23": "ฉันกับแซมตั้งตารองานเต้นรำ เทศกาลดอกไม้อยู่ล่ะ$0#$e#แต่ฉันประหม่าหน่อยๆ ค่ะ$0#$e#แซมบอกว่าฉันเต้นเก่ง แต่ฉันไม่แน่ใจ...$2",
+            "summer_17": "วันนี้วันเกิดแซมค่ะ$1#$b#รอใช้เวลาวันนี้กับเขาและ ครอบครัวเขาไม่ไหวเลย!$1#$e#แล้วก็ฉันมีเซอร์ไพรส์พิเศษ ให้เขาทีหลังด้วยล่ะ...$4",
+            "spring_10_2": "วันนี้วันเกิดวินเซนท์ค่ะ แล้วเขาก็ตื่นเต้นมากเลย$1#$b#เขาชอบดอกแดนดิไลออน ฉันกับแซมเลยไว้จะ ไปเก็บให้เขาทีหลังค่ะ$0",
+            "spring_12_2": "พรุ่งนี้เป็น เทศกาลไข่อีสเตอร์ค่ะ$1#$b#วินเซนท์กับแจสชอบที่จะ แข่งในเกมล่าไข่มากๆ เลย ถึงอบิเกลจะชนะ เกือบตลอดก็เถอะค่ะ$0#$e#และฉันก็ได้ใช้เวลา กับแซมมากขึ้นด้วย$4",
+            "spring_23_2": "ฉันกับแซมตั้งตารองานเต้นรำ เทศกาลดอกไม้อยู่ล่ะ$0#$e#แต่ฉันประหม่าหน่อยๆ ค่ะ$0#$e#แซมบอกว่าฉันเต้นเก่ง แต่ฉันไม่แน่ใจ...$2",
+            "summer_17_2": "วันนี้วันเกิดแซมค่ะ$1#$b#รอใช้เวลาวันนี้กับเขาและ ครอบครัวเขาไม่ไหวเลย!$1#$e#แล้วก็ฉันมีเซอร์ไพรส์พิเศษ ให้เขาทีหลังด้วยล่ะ...$4"
 			}
 },   
      //Pam
@@ -182,16 +182,16 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon2": "Hey, kid. Penny told me that she started dating Sam.$4#$b#I hope he treats my baby girl well.$4#$b#... Or he’ll have to deal with me.$4",
-            "Mon10": "Hi, kid.$0#$e#I've been thinking 'bout buying something nice for Penny and Sam.$0#b#If only I could afford it...$2",
-            "Tue4": "Penny is really happy these days.$0#$b#Guess my little talk with Sam has paid off.$1",
-            "Tue6": "Looks like Penny has found a fine lookin' young man.$0",
-            "Wed8": "It's so lonely at home these days...$2#$b#Well, at least my little girl seems to be enjoying herself.$0",
-            "Thu2": "Sam better be treatin' Penny right and not be like that that ex-husband o' mine.$4",
-            "Fri6": "Maybe Sam is a good guy after all.$0#$b#I just don't want Penny getting hurt.$2",
-            "Fri10": "Hi there, farmer.$0#$e#Jodi and me ain't got similar tastes.$0#$b#But we're family now!$1",
-            "Sat8": "Hey, kid.$1#$b#Penny seems to have long term plans with Sam. He better treat her well!$1",
-            "Sun10": "You know, Penny's father abandoned us when she was little.$2#$e#I'm pleased that she grew up fine and found herself a decent man like Sam."
+            "Mon2": "ไง เจ้าหนู เพนนีบอกฉันว่า เธอเพิ่งคบกับแซม$4#$b#หวังว่าเขาจะดูแล หนูน้อยของฉันดีๆ นะ$4#$b#... ไม่งั้นเขาเจอฉันแน่$4",
+            "Mon10": "ไง เจ้าหนู$0#$e#ฉันกำลังคิดว่า จะซื้ออะไรดีๆ ให้เพนนีกับแซมสักหน่อย$0#b#ถ้ามีเงินพอน่ะนะ...$2",
+            "Tue4": "เดี๋ยวนี้เพนนีมีความสุขมากเลย$0#$b#สงสัยว่าที่คุยกับแซมไปเบาๆ ไม่เสียเปล่าสินะ$1",
+            "Tue6": "ดูท่าว่าเพนนีจะเจอ เด็กหนุ่มที่ดูไม่เลวสินะ$0",
+            "Wed8": "เดี๋ยวนี้ที่บ้านเหงามาก...$2#$b#เอาเถอะ อย่างน้อยหนูน้อยของฉัน ก็มีความสุขดี$0",
+            "Thu2": "หวังว่าแซมจะดูแลเพนนีให้ดี ไม่เหมือนกับอดีตสามีฉันนะ$4",
+            "Fri6": "ดูท่าแซมจะเป็นคนดีจริงๆ ล่ะนะ$0#$b#ฉันแค่ไม่อยาก ให้เพนนีต้องเจ็บปวด$2",
+            "Fri10": "ว่าไง ชาวไร่$0#$e#ฉันกับโจดี้ไม่ได้มีรสนิยมอะไร ตรงกันเท่าไหร่หรอกนะ$0#$b#แต่ตอนนี้เป็น ครอบครัวเดียวกันแล้ว!$1",
+            "Sat8": "ไง เจ้าหนู$1#$b#เพนนีดูจะวาดหวังอนาคต ไว้กับแซมนะ เจ้าหนุ่มนั่นต้องดูแลเธอดีๆ นะ!$1",
+            "Sun10": "รู้มั้ย พ่อของเพนนีทิ้งเรา ตั้งแต่เพนนียังเล็ก$2#$e#ฉันดีใจที่เธอเติบโตมา เป็นคนดีแล้วก็ได้เจอ ผู้ชายดีๆ แบบแซม"
 			}
 },
      //Vincent
