@@ -203,21 +203,21 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon2": "Miss Penny gave me a haircut.$1#$e#She also gave my brother a haircut.$1",
-            "Mon6": "I saw Miss Penny with my brother at the beach yesterday.$3#$b#They were hugging each other.$3#$e#It is normal for grown-ups to do that?$3",
-            "Tue6": "My brother told me that he was going to marry Miss Penny someday.$2#$b#That's not fair, I wanted to marry her first!$2",
-            "Tue8": "I saw my brother trying to cook a poppyseed muffin earlier.$3#$b#Maybe he is going to give it to Miss Penny.$0#$e#But I don't think it'll taste good.$3",
-            "Wed4": "I asked Miss Penny about my brother.$3#$e#Her face turned red like a tomato!$1",
-            "Wed8": "Maybe it would be cool if Sam and Miss Penny get married.$3#$b#We would spend more time together!$1",
-            "Thu6": "I heard my brother playing a new song.$0#$b#He told me it was a song for Miss Penny.$1",
-            "Thu8": "I think mom really likes Miss Penny.$1#$e#I do, too!$1",
-            "Fri2": "Miss Penny told me that my brother will become a rock star someday.$1",
-            "Fri10": "My brother has changed a lot. He's nicer to me these days.$1#$e#Maybe Miss Penny told him to...?$3",
-            "Sat2": "My brother sometimes comes with me to the museum.$0#$e#I think it's because he wants to see Miss Penny.$3",
-            "Sat8": "Miss Penny came to our house the other day.$0#$b#I thought she wanted to play with me, but she went to my brother's room.$2",
-            "Sat10": "Mister @, do you think Miss Penny and my brother are in love?^Miss @, do you think Miss Penny and my brother are in love?$3",
-            "Sun8": "Do you know how to make bracelets?$3#$e#I want make a gift for Miss Penny and my brother.$0",
-            "Sun10": "Last night Miss Penny came to have dinner with us.$1#$b#I'm so happy that my brother and her are good friends!$1"
+            "Mon2": "คณุเพนนีตัดผมให้ผมด้วย$1#$e#ครูตัดให้พี่ผม ด้วยเหมือนกันฮะ$1",
+            "Mon6": "เมื่อวานผมเห็นครูเพนนี อยู่กับพี่ผมที่ชายหาดด้วยฮะ$3#$b#พวกเขากอดกันด้วยแหละ$3#$e#เป็นเรื่องปกติ ของพวกผู้ใหญ่เหรอฮะ?$3",
+            "Tue6": "พี่ผมบอกว่า วันนึงจะแต่งงานกับครูเพนนี$2#$b#ไม่ยุติธรรมเลย ผมอยากแต่งงานกับครูก่อน!$2",
+            "Tue8": "ผมเพิ่งเห็นพี่ผมพยายาม ทำมัฟฟินเมล็ดป๊อบปี้ล่ะฮะ$3#$b#บางทีพี่เขาอาจ จะเอาไปให้ครูเพนนีก็ได้$0#$e#แต่ผมว่าไม่อร่อยหรอกฮะ$3",
+            "Wed4": "ผมถามครูเพนนีเรื่องพี่ผมด้วย$3#$e#หน้าครูแดงเป็นมะเขือเทศเลย !$1",
+            "Wed8": "ถ้าพี่แซมกับครูเพนนี แต่งงานกัน อาจจะเจ๋งก็ได้ฮะ$3#$b#พวกเราจะได้อยู่ด้วยกัน บ่อยขึ้นไงฮะ!$1",
+            "Thu6": "ผมได้ยินพี่ผมเล่นเพลงใหม่$0#$b#เขาบอกว่าแต่งให้ครูเพนนีฮะ$1",
+            "Thu8": "ผมว่าแม่ชอบครูเพนนีมากเลย$1#$e#ผมก็ด้วย!$1",
+            "Fri2": "ครูเพนนีบอกผมว่า วันนึงพี่ผมจะได้เป็น ซุปเปอร์สตาร์ขาร็อคแหละฮะ$1",
+            "Fri10": "พี่ผมเปลี่ยนไปเยอะเลย เดี๋ยวนี้ดีกับผมมากขึ้นฮะ$1#$e#หรือครูเพนนี บอกให้เขาทำงั้นนะ...?$3",
+            "Sat2": "บางทีพี่ผมก็มาพิพิธภัณฑ์ กับผมด้วยแหละฮะ$0#$e#ผมว่าพี่อยากไปเจอ ครูเพนนีแน่เลย$3",
+            "Sat8": "วันก่อนครูเพนนีมาบ้านเราฮะ$0#$b#ผมนึกว่าครูจะมาเล่นกับผม แต่ครูเข้าไป ในห้องพี่ผมเฉยเลย$2",
+            "Sat10": "พี่ @ ฮะ พี่ชายว่าครูเพนนีกับพี่ผม รักกันเหรอรึเปล่าฮะ?^พี่ @ ฮะ พี่สาวว่าครูเพนนีกับพี่ผม รักกันเหรอรึเปล่าฮะ?$3",
+            "Sun8": "พี่ทำสร้อยข้อมือ เป็นหรือป่าวฮะ?$3#$e#ผมอยากทำไปให้ครูเพนนี กับพี่ผมเป็นของขวัญฮะ$0",
+            "Sun10": "เมื่อคืนครูเพนนีมากินข้าวเย็น กับพวกเราด้วยฮะ$1#$b#ผมดีใจจังเลย ที่พี่ผมกับครู เป็นเพื่อนสนิทกัน!$1"
 			}
 },
      //Kent
@@ -229,19 +229,19 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon4": "Sam was just a child when I left...$0#$b#... And now he even has a girlfriend.$1",
-            "Mon6": "When I came back, Jodi told me that Penny was Vincent's teacher.$0#$b#... I guess that's how she and Sam grew close.$2",
-            "Tue4": "Sometimes I ask Penny about Sam's life.$2#$b#It's sad...$2",
-            "Wed2": "Was Penny already living here when I left?$2#$e#I can't remember...$2",
-            "Wed8": "Sometimes it's difficult not to think of Sam as the little kid he was when I left.$0#$b#I would have never imagined that he would have a girlfriend so soon.$0",
-            "Thu2": "So Sam has found a girlfriend...$2#$b#Her name was Penny?$2",
-            "Thu10": "I hope I'm a good father-in-law to Penny.$1",
-            "Fri8": "Seeing Sam with wedding plans makes me feel so surprised.$0#$e#...In a good way.$1",
-            "Fri10": "I'm actually hoping that Sam and Penny have kids sooner rather than later.$1#$b#Since I couldn't be there for my sons, I at least want to see my grandchildren grow up.$1",
-            "Sat2": "Jodi says Penny is a good girl...$0#$b#I haven't spoken with her that much, but I guess she is.$1",
-            "Sat10": "Once in a while Penny comes to our house to have dinner.$1#$b#We have a good time, especially Sam and Vincent.$1",
-            "Sun8": "Penny has helped me to get closer to Sam.$1#$b#...I'll be forever grateful to her for that.$1",
-            "Sun10": "Seeing Sam dating Penny was surprising at first for Jodi and me.$0#$b#But now she's like our daughter too.$1"
+            "Mon4": "ตอนผมไป แซมยังเป็นเด็กอยู่เลย...$0#$b#... ตอนนี้เขามีแฟนสาว เป็นตัวเป็นตนแล้ว$1",
+            "Mon6": "ตอนผมกลับมา โจดี้บอกว่าเพนนีเป็นครู ของวินเซนท์$0#$b#... เพราะงั้นเลยได้ใกล้ชิด กับแซมสินะ$2",
+            "Tue4": "บางครั้งผมต้องถามเพนนี เรื่องชีวิตของแซม$2#$b#น่าเศร้าแท้...$2",
+            "Wed2": "ตอนผมไป เพนนีก็อยู่ที่นี่แล้วเหรอ?$2#$e#ผมจำไม่ได้...$2",
+            "Wed8": "บางครั้งจะไม่ให้มองแซม เป็นเด็กตัวน้อย แบบตอนที่ผมจากไป มันก็ยากนะ$0#$b#ผมไม่เคยนึกเลยว่า เขาจะมีแฟนเร็วขนาดนี้$0",
+            "Thu2": "งั้นแซมก็มีแฟนแล้ว...$2#$b#ชื่อเพนนีสินะ?$2",
+            "Thu10": "ผมหวังว่าผมเป็น พ่อสามีของเพนนีที่ดีนะ$1",
+            "Fri8": "ผมแปลกใจมากที่ได้เห็นแซม วางแผนแต่งงาน$0#$e#...ในทางที่ดีน่ะ$1",
+            "Fri10": "จริงๆ ผมหวังให้แซมกับเพนนี มีลูกกันเร็วๆ นะ$1#$b#เพราะผมไม่ได้อยู่เลี้ยงลูกๆ อย่างน้อยก็อยากอยู่เห็นหลาน ๆ โตน่ะ$1",
+            "Sat2": "โจดี้บอกว่าเพนนีเป็นเด็กดี...$0#$b#ผมยังไม่ค่อย ได้คุยกับเธอเท่าไหร่ แต่ผมก็เห็นด้วยแหละ$1",
+            "Sat10": "นานๆที เพนนีก็จะมากินข้าวเย็น กับเราที่บ้าน$1#$b#ก็เป็นช่วงเวลาที่ดีนะ โดยเฉพาะสำหรับแซม กับวินเซนท์$1",
+            "Sun8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
+            "Sun10": "ตอนแรกผมกับโจดี้ก็แปลกใจ ที่เห็นแซมคบกับเพนนี$0#$b#แต่ตอนนี้เธอก็เป็นเหมือน ลูกสาวของเราอีกคนด้วย$1"
 			}
 },    
      //Jodi
@@ -253,7 +253,7 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon4": "Penny is a lovely girl.$1#$b#I'm glad Sam found someone like her.$1",
+            "Mon4": "เพนนีเป็นเด็กน่ารักเลยPenny is a lovely girl.$1#$b#I'm glad Sam found someone like her.$1",
             "Mon6": "Yesterday I prayed to Yoba for happiness for Sam and Penny.$0",
             "Tue8": "It feels like just yesterday when Sam was a little baby.$0#$b#And now he's planning on getting married!$2",
             "Wed4": "I heard Sam talking with Penny earlier.$0#$e#I didn't know he could be so sweet!$1",
