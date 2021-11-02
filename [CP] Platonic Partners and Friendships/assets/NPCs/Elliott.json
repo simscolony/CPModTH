@@ -102,13 +102,13 @@
             "Target": "Characters/Dialogue/Elliott",
             "Entries":
             {
-                "NPC.cs.4442": "I feel ill this morning...I think it's my nerves about the adoption paperwork. I hope I filled it out correctly.$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I was up late writing out my fears surrounding parenthood, as a form of catharsis...$s#$b#I hope the adoption agency gets back to us soon.$7",
+                "NPC.cs.4442": "เมื่อเช้าผมรู้สึกป่วย...ผมคิดว่ามันน่าจะเป็นเรื่อง เอกสารรับเลี้ยง บุตรบุญธรรม หวังว่าผมจะกรอกข้อมูลถูกต้องนะ$s",
+                "NPC.cs.4446": "วันนี้ผมง่วงมากครับ เมื่อคืนผมเลยนอนดึก เขียนเรื่องความกลัวของผม เกี่ยวกับการเป็นพ่อคน เป็นการปลดปล่อย จากความเครียดน่ะครับ...$s#$b#ผมหวังว่า หน่วยงานรับบัตรบุญธรรม จะติดต่อกลับมาเร็วๆนี้นะ$7",
                 "NPC.cs.4443": "I'm tired... could you make your own breakfast?$s",
-                "NPC.cs.4444": "My dearest friend... There's no one I'd rather raise a child with than you.#$e#Do you think I should write a short story about a writer who adopts a baby? ...No, too obvious.$s",
-                "NPC.cs.4447": "My dearest friend... There's no one I'd rather raise a child with than you.#$e#Do you think I should write a short story about a writer who adopts a baby? ...No, too obvious.$s",
-                "NPC.cs.4445": "{{TermofEndearment}}, between my affinity for the fine arts and yours for the natural world, we can't help but raise a well-rounded child. Don't you think so?$h",
-                "NPC.cs.4448": "{{TermofEndearment}}, between my affinity for the fine arts and yours for the natural world, we can't help but raise a well-rounded child. Don't you think so?$h",
+                "NPC.cs.4444": "เพื่อนคนสำคัญของผม... ไม่มีใครที่ผมอยากเลี้ยงลูกของเรา มากกว่ากับคุณอีกแล้ว$l#$e#คุณคิดว่า ผมควรแต่งเรื่องสั้น เกี่ยวกับนักประพันธ์ ที่รับเลี้ยงเด็กดีมั้ยครับ? ...ไม่ดีกว่า มันชัดเจนเกินไป$s",
+                "NPC.cs.4447": "เพื่อนคนสำคัญของผม... ไม่มีใครที่ผมอยากเลี้ยงลูกของเรา มากกว่ากับคุณอีกแล้ว$l#$e#คุณคิดว่า ผมควรแต่งเรื่องสั้น เกี่ยวกับนักประพันธ์ ที่รับเลี้ยงเด็กดีมั้ยครับ? ...ไม่ดีกว่า มันชัดเจนเกินไป$s",
+                "NPC.cs.4445": "{{TermofEndearment}}, ระหว่างความรัก ที่ผมมีต่อศิลปะ และความรัก ที่คุณมีต่อธรรมชาติ เราก็อดไม่ได้ ที่จะเลี้ยงลูก ให้โตมาเป็นคนที่ดี คุณคิดแบบผมมั้ยครับ?$h",
+                "NPC.cs.4448": "{{TermofEndearment}}, ระหว่างความรัก ที่ผมมีต่อศิลปะ และความรัก ที่คุณมีต่อธรรมชาติ เราก็อดไม่ได้ ที่จะเลี้ยงลูก ให้โตมาเป็นคนที่ดี คุณคิดแบบผมมั้ยครับ?$h",
             },
             "When":
             {
@@ -121,8 +121,8 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Elliott0": "The farm will be such a lovely place to write. I'm really looking forward to this.$h#$e#We're going to make a great pair.",
-                "Elliott1": "This is going to be such an adventure! I'm really excited. Aren't you?$h#$e#We can use my cottage as a beach house.",
+                "Elliott0": "ฟาร์มต้องเป็นที่ที่ดี ในการเขียนงานต่างๆแน่เลยครับ ผมชักจะรอไม่ไหวแล้ว$h#$e#ดราสองคน ต้องเป็นคู่รักที่ยอดเยี่ยม แน่นอน",
+                "Elliott1": "นี่มันต้องเหมือนการผจญภัย แน่ๆเลย! ผมตื่นเต้นมากๆ คุณล่ะ?$h#$e#เราใช้กระท่อมของผม เป็นบ้านพักตากอากาศ ได้นะครับ",
             },
             "When":
             {
