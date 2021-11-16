@@ -23,8 +23,8 @@
 	"HasSeenEvent": "59020021"
 		},
 "Entries": {
-            "Fri2": "Today Abigail, Sam and I are going to the saloon.$0#$b#I think I'll ask Abigail to play Prairie King with me.$1",
-            "Sat2": "Abigail is a great gaming partner.$1#$b#I'm looking forward to playing Solarion Chronicles with her soon.$0"
+            "Fri2": "วันนี้อบิเกล แซม และฉัน จะไปที่ซาลูนกัน$0#$b#ฉันคิดว่าจะชวนอบิเกล เล่นราชาทุ่งหญ้าผจญภัยกับฉัน$1",
+            "Sat2": "อบิเกลเป็นเพื่อนเล่นเกม ที่ยอดเยี่ยม$1#$b#ฉันรอคอยที่จะได้เล่น ปกรณัมโซโลเรียน กับเธออีกเร็วๆนี้$0"
 			}
 },    
 {
@@ -35,8 +35,8 @@
 	"HasSeenEvent": "59020021"
 		},
 "Entries": {
-            "Wed2": "Sebastian's so good at Journey of the Prairie King.$1#$e#I've never played with him before and was so impressed.$0",
-            "Sun2": "I can't wait for it to be Friday already.$0#$b#I'm asking Sebastian to play Journey of the Prairie King with me.$1"
+            "Wed2": "เซบาสเตียนเก่งมาก ในเกมราชาทุ่งหญ้าผจญภัย$1#$e#ฉันไม่เคยเล่นกับเขามาก่อน  และประทับใจมากเลย$0",
+            "Sun2": "ฉันรอให้ถึงวันศุกร์ไม่ไหวแล้ว$0#$b#ฉันขอให้เซบาสเตียน เล่นราชาทุ่งหญ้าผจญภัยกับฉัน$1"
 			}   
 },
 //Abigail and Sebastian dialogue | 4 hearts event
@@ -48,9 +48,9 @@
 	"HasSeenEvent": "59020022"
 		},
 "Entries": {
-            "Tue4": "I've seen that the mines are a dangerous place to go...$0",
-            "Fri4": "I think Abigail's still affected after the incident we had at the cave the other day.$2",
-            "Sat4": "Hey, @.$0#$e#You go to the caves often, right?$0#$b#Maybe you could teach some things to Abigail, she'll appreciate it.$0"
+            "Tue4": "ฉันเห็นแล้ว ว่าเหมืองเป็นสถานที่อันตราย ที่จะไป...$0",
+            "Fri4": "ฉันคิดว่า อบิเกลยังคงได้รับผลกระทบ หลังจากเหตุการณ์ที่เราเจอที่ถ้ำ เมื่อวันก่อน$2",
+            "Sat4": "เฮ้ @.$0#$e#คุณไปที่ถ้ำบ่อยๆ ใช่ไหม?$0#$b#บางที คุณอาจจะสอนบางอย่าง ให้อบิเกลได้นะ เธอจะรู้สึกขอบคุณ$0"
 			}
 },
 {
@@ -61,9 +61,9 @@
 	"HasSeenEvent": "59020022"
 		},
 "Entries": {
-			"Mon4": "@, how are you able to explore the caves so easily?$2",
-            "Wed4": "I have to improve my swordsmanship more...$2",
-            "Sun4": "Ugh... I can't stop thinking about bats...$2"
+			"Mon4": "@, เป็นไปได้ยังไง ที่เธอสำรวจภายในถ้ำ ได้แบบสบายๆ?$2",
+            "Wed4": "ฉันต้องพัฒนา วิชาดาบให้มากขึ้น...$2",
+            "Sun4": "ฮึก... ฉันหยุดคิดถึงพวกค้างคาว ไม่ได้เลย...$2"
 			}
 },
 //Abigail and Sebastian dialogue | 6 hearts event
@@ -75,10 +75,10 @@
 	"HasSeenEvent": "59020023"
 		},
 "Entries": {
-            "Tue6": "I should check on Abigail later...$0",
-            "Wed6": "I hope Abigail can talk to her parents soon, it'll be good for them.$0",
-            "Fri6": "Abigail and I have so much in common.$1",
-            "Sat6": "Hey, @.$0#$b#Could you check on Abigail if you see her?$0"
+            "Tue6": "ฉันควรจะไปดูอบิเกลหน่อย หลังจากนี้...$0",
+            "Wed6": "ฉันหวังว่า อบิเกลจะคุยกับพ่อแม่ของเธอ ได้ในเร็วๆนี้ มันจะดีสำหรับพวกเขา$0",
+            "Fri6": "อบิเกลกับฉัน มีหลายๆอย่างที่เหมือนกัน$1",
+            "Sat6": "เฮ้ @.$0#$b#คุณช่วยดูอบิเกลหน่อยได้ไหม ถ้าคุณเจอเธอ?$0"
 			}
 },
 {
@@ -89,10 +89,10 @@
 	"HasSeenEvent": "59020023"
 		},
 "Entries": {
-			"Tue6": "Sebastian knows how to comfort me.$0#$e#He's a great guy.$1",
-            "Thu6": "*sigh*$2#$e#When should I talk to them...?$2#$e#Oh, hello, @.$6",
-            "Sat6": "I should go and talk to Sebastian again...$2",
-            "Sun6": "Hi, @.$0#$e#You're my friend, so I want to know your opinion too.$0#$b#Sebastian told me I have to talk to my parents about how I feel, but I don't know...$2"
+			"Tue6": "เซบาสเตียนรู้ ว่าควรจะปลอบฉันยังไง$0#$e#เขาเป็นคนดีเนอะ$1",
+            "Thu6": "*sigh*$2#$e#ฉันควรจะคุยกับพวกเขา เมื่อไหร่ดีนะ...?$2#$e#โอ้ สวัสดี @.$6",
+            "Sat6": "ฉันควรจะไปคุยกับเซบาสเตียน อีกครั้ง...$2",
+            "Sun6": "สวัสดี @.$0#$e#เธอเป็นเพื่อนฉัน ฉันก็เลยอยากรู้ ความคิดเห็นของเธอด้วย$0#$b#เซบาสเตียนบอกว่า ฉันต้องคุยกับพ่อแม่ ว่าฉันรู้สึกยังไง แต่ว่า ไม่รู้สิ...$2"
 			}
 },
 //Dialogues | 8 hearts event
@@ -105,33 +105,33 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon8": "Hey, @.$0#$e#I'm having a terrible day...$2#$b#I should go and see Abby to feel better.$7#$e#Bye.$0",
-            "Tue8": "Do you believe in soulmates, @?$0#$e#I thought it was just some stupid belief.$0#$b# But now I can't even imagine living without Abby.$4",
-            "Wed8": "Abby and I have been friends for so long.$0#$e#I kinda regret not telling her how I felt earlier...$2#$b#Guess I thought she wouldn't feel the same and it'd ruin our friendship...$2#$e#But it's cool now, we're really happy together.$1",
-            "Thu8": "Hey, @.$0#$e#I ordered Blue Starfruit to play with Abby.$1#$b#She was really excited when the release was announced.$1#$e#Oh, you can come and play too.$7",
-            "Fri8": "I love being with Abby, even if we just stay in silence.$4#$b#With her not even silences are awkward.$7#$e#It's a weird feeling... but I like it.$4",
-            "Sat8": "It'd be so boring to live here without Abby.$0#$e#Oh, and also Sam and you.$1",
-            "Sun8": "Sometimes my job is really stressful...$2#$e#Luckily Abby knows this and comes around when I most need her.$4",
-            "spring_Thu8": "Before I didn't feel like doing anything...$2#$e#But, you know, I think spending time with Abby has helped me to be more positive towards life in general.$1",
-            "spring_Fri8": "Some days I just want to stay in my bed all day.$2#$b#But Abby wouldn't like that...$0#$e#I should cheer up, I don't want her to be worried.$0",
-            "spring_Sun8": "Hey, @.$0#$e#You know that Abby has always wanted to explore the mines, right?$0#$b#Well, if you happen to see her, take care of her, okay?$0#$e#I don't even want to think about her getting hurt...$2",
-            "summer_Mon8": "I can't wait for it to be fall already. Summer just isn't my thing.$0#$b#But Abby told me she wanted to go swimming, so I guess I'll do it for her.$0",
-            "summer_Tue8": "Summer is the perfect season to focus on my job.$0#$e#But it's difficult sometimes because Abby likes to show up unexpectedly.$0#$e#It's not like I don't like it, though.$4",
-            "summer_Sat8": "Sam hasn't stopped teasing Abby and I...$0#$b#He just keeps complaining about being the third wheel.$0",
-            "fall_Tue8": "Hey, @.$0#$e#Abby and I don't want to move to the city anymore, but we still want to take a trip there sometime.$0#$e#We're going to go on my motorbike, she's excited to ride it again.$1",
-            "fall_Fri8": "Hey, @.$0#$e#Are you coming to the saloon today?$0#$b#Abby and I will play some Prairie King. I think that we'll soon be able to beat it.$1",
-            "fall_Sat8": "Fall brings me so many memories from my childhood...$0#$e#Abby and I used to play near the Wizard's Tower.$0#$b#She's always loved visiting the forest.$1",
-            "winter_Thu8": "Abby's face turns red because of the cold.$7#$b#She looks really cute.$1",
-            "winter_Fri8": "Hey, @.$0#$e#When Abby came to my house the other day she took a hoodie.$0#$b#Should I ask her to give it back to me?$0#$e#No... I think it's better that she keeps it.$0#$e#She looks cute in it.$4",
-            "winter_Sun8": "Hey, @.$0#$e#A new year's coming, huh?$0#$e#I'm sort of uneasy...$2#$b#But it makes me feel better to think Abby'll still be by my side.$4",
-            "spring_23": "Ugh... I don't like the Flower Dance at all...$5#$b#Well, Abby is going to be there with me, so I guess it won't be that bad.$0",
-            "summer_16": "Tomorrow's Sam's birthday.$0#$e#Abby told me I should let him win at pool this Friday.$1",
-            "fall_13": "Abby's birthday is today.$1#$b#I ordered a special amethyst from Clint's for her.$1",
-            "fall_26": "I'm looking forward to the Spirit's Eve, it's my favorite festival.$7#$e#I never enter the haunted maze, though.$0#$b#But Abby told me I should join her, so I guess I will.$1",
-            "spring_23_2": "Ugh... I don't like the Flower Dance at all...$5#$b#Well, Abby is going to be there with me, so I guess it won't be that bad.$0",
-            "summer_16_2": "Tomorrow's Sam's birthday.$0#$e#Abby told me I should let him win at pool this Friday.$1",
-            "fall_13_2": "Abby's birthday is today.$1#$b#I ordered a special amethyst from Clint's for her.$1",
-            "fall_26_2": "I'm looking forward to the Spirit's Eve, it's my favorite festival.$7#$e#I never enter the haunted maze, though.$0#$b#But Abby told me I should join her, so I guess I will.$1"
+            "Mon8": "เฮ้ @.$0#$e#ฉันมีวันที่แย่มาก...$2#$b#ฉันควรไปหาแอ๊บบี้ เพื่อให้รู้สึกดีขึ้น$7#$e#บาย$0",
+            "Tue8": "คุณเชื่อเรื่องเนื้อคู่ไหม @?$0#$e#ฉันเคยคิดนะ ว่ามันเป็นแค่ความเชื่อที่งี่เง่า$0#$b# แต่ตอนนี้ ฉันคิดภาพการมีชีวิตอยู่ โดยที่ขาดแอ๊บบี้ไป ไม่ออกเลยด้วยซ้ำ$4",
+            "Wed8": "ฉันกับแอ๊บบี้ เป็นเพื่อนกันมานานแล้ว$0#$e#ฉันเสียใจที่ไม่ได้บอกเธอ ว่าฉันรู้สึกยังไง ก่อนหน้านี้...$2#$b#ฉันคิดว่า เธอคงไม่ได้รู้สึกเหมือนกัน และมันอาจจะทำลาย มิตรภาพของพวกเรา...$2#$e#แต่ตอนนี้มันเจ๋งมาก เรามีความสุขด้วยกันจริงๆ$1",
+            "Thu8": "เฮ้ @.$0#$e#ฉันสั่งบลูสตาร์ฟรุ๊ต มาไว้เล่นกับแอ๊บบี้$1#$b#เธอตื่นเต้นมาก ตอนที่เกมส์ประกาศเปิดตัว$1#$e#อ้อ คุณก็มาเล่นด้วยกันได้นะ$7",
+            "Fri8": "ฉันชอบอยู่กับแอ๊บบี้ แม้ว่าเราจะอยู่กันแบบเงียบๆ$4#$b#กับเธอน่ะ ถึงจะเป็นความเงียบ ก็ไม่อึดอัด$7#$e#มันเป็นความรู้สึกที่แปลก... แต่ฉันชอบมันนะ$4",
+            "Sat8": "มันคงจะน่าเบื่อมาก ที่จะอาศัยอยู่ที่นี่ โดยไม่มีแอ๊บบี้$0#$e#โอ้ แล้วก็แซมกับคุณด้วย$1",
+            "Sun8": "บางครั้ง งานของฉันก็เครียดมาก...$2#$e#โชคดีที่แอ๊บบี้รู้เรื่องนี้ และคอยอยู่ใกล้ๆ เวลาที่ฉันต้องการเธอที่สุด$4",
+            "spring_Thu8": "ก่อนหน้านี้ ฉันไม่รู้สึกอยากทำอะไรเลย$2#$e#แต่คุณรู้ไหม ฉันคิดว่า การได้ใช้เวลากับแอ๊บบี้ ช่วยให้ฉันคิดบวก กับชีวิตมากขึ้น$1",
+            "spring_Fri8": "บางวัน ฉันแค่อยากจะนอนเฉยๆ อยู่บนเตียงทั้งวัน$2#$b#แต่แอ๊บบี้ไม่ถูกใจสิ่งนี้...$0#$e#ฉันควรจะร่าเริงหน่อย ฉันไม่อยากให้เธอเป็นห่วง$0",
+            "spring_Sun8": "เฮ้ @.$0#$e#คุณก็รู้ว่าแอ๊บบี้น่ะ อยากสำรวจเหมืองเสมอเลย ใช่ไหม?$0#$b#ถ้าคุณบังเอิญเจอเธอ ดูแลเธอด้วยนะ โอเค้?$0#$e#ฉันไม่อยากจะคิดเลย เกิดเธอเจ็บตัวขึ้นมาล่ะ...$2",
+            "summer_Mon8": "ฉันรอให้ถึงใบไม้ร่วง ไม่ไหวแล้ว หน้าร้อนไม่ใช่แนวของฉันเลย$0#$b#แต่แอ๊บบี้บอกฉันว่า เธออยากไปว่ายน้ำ ฉันเลยคิดว่าจะทำเพื่อเธอน่ะ$0",
+            "summer_Tue8": "หน้าร้อน เป็นฤดูที่เหมาะที่สุด ที่จะให้ความสนใจ กับงานของฉัน$0#$e#แต่บางครั้งมันก็ยาก เพราะแอ๊บบี้ชอบโผล่มา แบบไม่ทันได้ตั้งตัว$0#$e#ไม่ใช่ว่าฉันไม่ชอบนะ$4",
+            "summer_Sat8": "แซมน่ะ ยังไม่เลิกล้อแอ๊บบี้กับฉันเลย$0#$b#เขาเอาแต่บ่น เรื่องการเป็นส่วนเกิน$0",
+            "fall_Tue8": "เฮ้ @.$0#$e#ฉันกับแอ๊บบี้ ไม่อยากย้ายไปในเมืองแล้ว แต่เราก็ยังอยากไปเที่ยวที่นั่น เป็นบางครั้งนะ$0#$e#เราจะไปกัน ด้วยมอเตอร์ไซค์ของฉัน เธอตื่นเต้นที่จะได้ขี่มันอีก$1",
+            "fall_Fri8": "เฮ้ @.$0#$e#วันนี้คุณจะมาที่ซาลูนไหม?$0#$b#แอ๊บบี้และฉัน จะเล่นราชาทุ่งหญ้าผจญภัยกัน ฉันคิดว่าอีกไม่นาน เราจะเอาชนะมันได้แล้ว$1",
+            "fall_Sat8": "ฤดูใบไม้ร่วง นำความทรงจำมากมาย ในวัยเด็กกลับมาให้ฉัน...$0#$e#ฉันกับแอบบี้ เคยเล่นกันอยู่ใกล้ๆ หอคอยพ่อมด$0#$b#เธอชอบไปเที่ยวในป่าเสมอ$1",
+            "winter_Thu8": "แอ๊บบี้หน้าแดง เพราะว่าอากาศหนาว$7#$b#เธอดูน่ารักจริงๆเลย$1",
+            "winter_Fri8": "เฮ้ @.$0#$e#ตอนแอ๊บบี้มาที่บ้านฉันวันก่อน เธอเอาเสื้อฮู้ดไปด้วย$0#$b#ฉันควรจะขอให้เธอ คืนมันมาให้ฉันไหมนะ?$0#$e#ไม่ล่ะ... ฉันว่าให้เธอเก็บมันไว้ดีกว่า$0#$e#เธอดูน่ารักตอนที่ใส่มัน$4",
+            "winter_Sun8": "เฮ้ @.$0#$e#ปีใหม่กำลังจะมาถึงใช่มั้ย?$0#$e#ฉันไม่ค่อยสบายใจเลย...$2#$b#แต่มันทำให้ฉันรู้สึกดีขึ้นที่คิดว่า แอ๊บบี้จะยังอยู่เคียงข้างฉัน$4",
+            "spring_23": "ฮึ... ฉันไม่ชอบเทศกาลดอกไม้เลย$5#$b#แอ๊บบี้จะไปที่นั่นกับฉัน ดังนั้นฉันเลยคิดว่า มันก็ไม่ได้แย่มากขนาดนั้น$0",
+            "summer_16": "พรุ่งนี้เป็นวันเกิดของแซม$0#$e#แอ๊บบี้บอกฉันว่า ฉันควรให้เขาเล่นพูลชนะ ในวันศุกร์นี้$1",
+            "fall_13": "วันนี้เป็นวันเกิดของแอ๊บบี้$1#$b#ฉันสั่งแอเมทิสต์ (Amethyst) พิเศษจากคลินท์เพื่อเธอเลย$1",
+            "fall_26": "ฉันเฝ้ารอเทศกาลภูต มันเป็นเทศกาลโปรดฉันเลย$7#$e#ฉันไม่เคยเข้าไป ในเขาวงกตผีสิง$0#$b#แต่แอ๊บบี้บอกฉันว่า ฉันควรเข้าร่วมกับเธอ ดังนั้นฉันเลยคิดว่าจะไป$1",
+            "spring_23_2": "ฮึ... ฉันไม่ชอบเทศกาลดอกไม้เลย$5#$b#แอ๊บบี้จะไปที่นั่นกับฉัน ดังนั้นฉันเลยคิดว่า มันก็ไม่ได้แย่มากขนาดนั้น$0",
+            "summer_16_2": "พรุ่งนี้เป็นวันเกิดของแซม$0#$e#แอ๊บบี้บอกฉันว่า ฉันควรให้เขาเล่นพูลชนะ ในวันศุกร์นี้$1",
+            "fall_13_2": "วันนี้เป็นวันเกิดของแอ๊บบี้$1#$b#ฉันสั่งแอเมทิสต์ (Amethyst) พิเศษจากคลินท์เพื่อเธอเลย$1",
+            "fall_26_2": "ฉันเฝ้ารอเทศกาลภูต มันเป็นเทศกาลโปรดฉันเลย$7#$e#ฉันไม่เคยเข้าไป ในเขาวงกตผีสิง$0#$b#แต่แอ๊บบี้บอกฉันว่า ฉันควรเข้าร่วมกับเธอ ดังนั้นฉันเลยคิดว่าจะไป$1"
 			}
 },
      //Abigail
