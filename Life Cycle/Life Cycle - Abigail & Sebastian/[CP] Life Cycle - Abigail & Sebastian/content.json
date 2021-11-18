@@ -185,7 +185,7 @@
             "Tue8": "ฉันกับอบิเกล คุยเรื่องการสำรวจเหมืองกัน$0#$b#เธออยากจะสำรวจ ส่วนฉันต้องการทำวิจัย เกี่ยวกับแร่ของหุบเขานี้$0#$e#บางที คุณน่าจะเข้าร่วมด้วยนะ @$1",
             "Fri8": "อบิเกลมาที่คลินิกเมื่อวานนี้ และให้กะหล่ำดอกสดๆ จากร้านพ่อของเธอกับฉัน$1#$e#เซบาสเตียน ได้คบกับผู้หญิงที่ดีเนอะ$0",
             "Sun4": "มันค่อนข้างแปลก ที่ได้เห็นเซบาสเตียน กำลังคบกับใครสักคน$0#$b#ฉันคิดว่าเขาจะไม่สนใจซะอีก$0",
-            "Sun8": "แคโรไลน์กับปิแอร์ มาทานอาหารเย็น กับพ่อแม่ของฉัน เมื่อวันพุธที่แล้ว$0#$e#แคโรไลน์ แบ่งปันสูตรกะหล่ำดอกชีส (cheese cauliflower) กับพวกเขา$1"
+            "Sun8": "แคโรไลน์กับปิแอร์ มาทานอาหารเย็น กับพ่อแม่ของฉัน เมื่อวันพุธที่แล้ว$0#$e#แคโรไลน์ แบ่งปันสูตรกะหล่ำดอกอบชีส (cheese cauliflower) กับพวกเขาด้วยล่ะ$1"
 			}
 },    
      //Robin
@@ -197,13 +197,13 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon6": "Abigail comes around often. I'm glad that she cares so much for Sebastian.$0",
-            "Tue10": "Abigail's such a great influence for Sebastian.$1#$b#He's so smiley and has been spending more time outdoors. I'm so thankful to Abigail.$1",
-            "Thu2": "I knew that Abigail and Sebastian were good friends, but I'd never thought about them dating.$0",
-            "Thu6": "Abigail's such a good girl, Caroline must be proud of her.$1",
-            "Fri10": "I couldn't be happier that Sebastian is dating Abigail.$1#$b#She's a great girl and the perfect match for him.$0",
-            "Sun8": "Oh, @.$1#$e#Caroline and Pierre are coming over to have dinner with us today.$0#$b#Caroline said she's making us her special tea.$1",
-            "Sun10": "Caroline and I are delighted that Abigail and Sebastian are together.$0#$b#I hope we officially become family soon.$1"
+            "Mon6": "อบิเกลแวะมาบ่อยๆ ฉันดีใจ ที่เธอใส่ใจเซบาสเตียนมาก$0",
+            "Tue10": "อบิเกลน่ะ เป็นแรงจูงใจที่ดี สำหรับเซบาสเตียน$1#$b#เขายิ้มแย้ม และใช้เวลาอยู่ข้างนอก มากขึ้นกว่าเดิม ฉันรู้สึกขอบคุณอบิเกลมาก$1",
+            "Thu2": "ฉันรู้ว่าอบิเกลกับเซบาสเตียน เป็นเพื่อนที่ดีต่อกัน แต่ฉันไม่เคยคิดเลย ว่าพวกเขาจะออกเดทกันน่ะ$0",
+            "Thu6": "อบิเกลเป็นเด็กดีนะ แคโรไลน์ ต้องภูมิใจในตัวเธอแน่เลย$1",
+            "Fri10": "ฉันดีใจมากเลย ที่เซบาสเตียน กำลังคบกับอบิเกล$1#$b#เธอเป็นผู้หญิงที่ยอดเยี่ยม และเหมาะสมกับเขามากๆ$0",
+            "Sun8": "โอ้ @$1#$e#แคโรไลน์กับปิแอร์ จะมาทานอาหารเย็นวันนี้$0#$b#แคโรไลน์บอกว่า เธอทำชาสูตรพิเศษ มาให้พวกเราด้วย$1",
+            "Sun10": "แคโรไลน์กับฉัน ยินดีที่อบิเกลและเซบาสเตียน อยู่ด้วยกัน$0#$b#ฉันหวังว่า เราจะเป็นครอบครัวกันจริงๆ ในอีกไม่นานนี้$1"
 			}
 }, 	   
      //Demetrius
@@ -215,9 +215,9 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon4": "I'm so relieved that Sebastian has started dating Abigail...$0",
-            "Mon10": "I have to ask Robin when Abigail is coming to our house.$0#$b#Maru and I found an uncommon type of amethyst and we wanted to give it to her.$1",
-            "Sun8": "Hello, @.$0#$b#Sebastian and Abigail are a good match, don't you think?.$1"
+            "Mon4": "ผมโล่งใจมาก ที่เซบาสเตียน เริ่มคบกับอบิเกลแล้ว...$0",
+            "Mon10": "ผมต้องถามโรบิน ว่าเมื่อไหร่ อบิเกลจะมาที่บ้านของเรา$0#$b#ผมกับมารุ พบแอเมทิสต์ (amethyst) ที่ไม่ธรรมดา และเราอยากให้มันกับเธอ$1",
+            "Sun8": "สวัสดีครับ @$0#$b#เซบาสเตียนกับอบิเกล เป็นคู่ที่ดีนะ คุณว่าไหม?$1"
 			}
 },
      //Pierre
@@ -229,14 +229,14 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Tue6": "I hope Abigail's doing well with Sebastian.$0",
-            "Tue10": "I hope Sebastian and his family come to have dinner with us soon.$1#$e#Caroline and I have been looking forward to showing off our special pumpkin soup.$0#$e#I'm going to tell Abigail.$1",
-            "Wed4": "I'm worried about Abigail...$2#$e#I hope she knows what she wants for her future.$2",
-            "Wed10": "I used to worry about Abigail.$0#$b#It's really difficult to be a parent...$2#$e#But now I think she's doing great with Sebastian, they're good to each other.$0",
-            "Thu2": "I've known Sebastian for a long time and I'm not sure about Abigail and him...$2",
-            "Thu8": "Sebastian has offered to help me with the store's inventory.$0#$b#He told me it can be done much more efficiently by creating a internal database.$0",
-            "Sat4": "Sebastian comes to play videogames with Abigail too often.$3",
-            "Sat10": "Hello, @.$1#$e#Demetrius has been coming with Robin on Tuesdays.$0#$b#He's doing research about my products.$1",
+            "Tue6": "ผมหวังว่า อบิเกลจะไปกันได้ดี กับเซบาสเตียนนะ$0",
+            "Tue10": "ผมหวังว่า เซบาสเตียนและครอบครัว จะมาทานมื้อเย็นกับเรา ในเร็วๆ นี้$1#$e#แคโรไลน์กับผม รอคอยที่จะได้แสดงซุปฟักทอง (pumpkin soup) สูตรพิเศษของเรา$0#$e#ผมจะไปบอกกับอบิเกล$1",
+            "Wed4": "ผมกังวลเรื่องของอบิเกล...$2#$e#ผมหวังว่าเธอจะรู้นะ ว่าเธอต้องการอะไร เพื่ออนาคตของตัวเธอเอง$2",
+            "Wed10": "ผมเคยกังวลเรื่องอบิเกล$0#$b#การเป็นพ่อแม่นี่ลำบากจริงๆ ...$2#$e#แต่ตอนนี้ ผมคิดว่าเธอกับเซบาสเตียน ไปกันได้ราบรื่นนะ พวกเขาดีต่อกันและกัน$0",
+            "Thu2": "ผมรู้จักเซบาสเตียนมานาน และผมไม่ค่อยมั่นใจเลย เรื่องอบิเกลกับเขาน่ะ...$2",
+            "Thu8": "เซบาสเตียน เสนอตัวว่าจะช่วยผม เรื่องคลังสินค้าของร้าน$0#$b#เขาบอกว่า ทำให้มีประสิทธิภาพมากขึ้นได้ ด้วยการ สร้างฐานข้อมูลภายใน$0",
+            "Sat4": "เซบาสเตียนมาเล่นวิดีโอเกม กับอบิเกลบ่อยเกินไปแล้วนะ$3",
+            "Sat10": "สวัสดีครับ @$1#$e#ดิมีเทรียสจะมากับโรบิน ในวันอังคาร$0#$b#เขากำลังค้นคว้า เกี่ยวกับผลิตภัณฑ์ของผมน่ะ$1",
 			}
 },   
      //Caroline
@@ -248,14 +248,14 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon2": "I'm afraid that Abigail will want to travel around with Sebastian...$2",
-            "Mon6": "Hello, @.$0#$e#I'm going to cook some sashimi to thank Sebastian for taking care of Abigail.$1",
-            "Tue4": "When did Abigail grow up so much?$2#$e#It seems like yesterday when Robin and I used to take her and Sebastian to the playground.$0",
-            "Tue10": "Hello, @.$0#$e#Robin and I can't stop talking about Abigail and Sebastian.$0#$b#They're so cute to each other.$1",
-            "Fri8": "I had my doubts about the relationship between Abigail and Sebastian, but he actually has helped Abigail to open up to us.$0#$e#I'm thankful to him.$1",
-            "Fri10": "Sebastian will always be welcome in my house.$1#$b#And also his family, of course.$1",
-            "Sun4": "My little girl's all grown up now.$0#$e#It didn't even cross my mind that Abigail would have a boyfriend so soon.$0",
-            "Sun10": "Oh, @, do you think I might have grandkids any time soon?$1"
+            "Mon2": "ฉันกลัวว่า อบิเกลจะอยากไปเที่ยวรอบๆ กับเซบาสเตียนน่ะสิ...$2",
+            "Mon6": "สวัสดีจ้ะ @$0#$e#ฉันจะทำซาซิมิ (sashimi) เพื่อขอบคุณเซบาสเตียน ที่คอยดูแลอบิเกลน่ะ$1",
+            "Tue4": "อบิเกลโตขึ้นมากขนาดนี้ ตั้งแต่เมื่อไหร่กันนะ?$2#$e#เหมือนพึ่งผ่านมาเมื่อวานเอง ตอนที่โรบินและฉัน พาเธอกับเซบาสเตียน ไปที่สนามเด็กเล่น$0",
+            "Tue10": "สวัสดีจ้ะ @$0#$e#ฉันกับโรบินเลิกพูดถึง อบิเกลและเซบาสเตียน ไม่ได้เลยล่ะ$0#$b#พวกเขาน่ารักมากทั้งคู่เลย$1",
+            "Fri8": "ฉันเคยสงสัยในความสัมพันธ์ ของอบิเกลกับเซบาสเตียน แต่เขาน่ะ ช่วยให้อบิเกลเปิดใจกับเรา$0#$e#ฉันต้องขอบคุณเขาจริงๆ$1",
+            "Fri10": "เซบาสเตียน เป็นที่ต้อนรับในบ้านฉันเสมอ$1#$b#และแน่นอน ครอบครัวของเขาด้วยนะ$1",
+            "Sun4": "ในตอนนี้ ลูกสาวตัวน้อยของฉัน โตขึ้นเยอะแล้วสินะ$0#$e#ฉันไม่ได้คิดเลยว่าอบิเกล จะมีแฟนเร็วขนาดนี้น่ะ$0",
+            "Sun10": "โอ้ @ เธอคิดว่าฉันจะมีหลานเร็วๆ นี้ไหม?$1"
 			}
 },
      //Sam
@@ -267,10 +267,10 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon2": "I've been waiting forever for Sebastian and Abigail to start dating.$0#$e#It was so obvious, don't you agree, @?$1",
-            "fall_Wed8": "Hey, @.$0#$e#Lately I've been mastering my third wheeling skills.$1",
-            "Fri6": "Sebastian and Abigail are my friends and I enjoy going with them to the saloon on Fridays.$0#$e#...But since they started dating, sometimes it's awkward to be there with them.$2#$e#Oh, but of course I'm happy for them.$1",
-            "spring_Sun8": "Sebastian comes to my house to play the keyboard more often lately.$0#$b#Maybe he's trying to impress Abigail or something.$1"
+            "Mon2": "ฉันรอมาตลอดเลย ให้เซบาสเตียนกับอบิเกล ออกเดทกันซักทีน่ะ$0#$e#มันออกจะชัดแจ๋วขนาดนี้ คุณไม่เห็นด้วยหรอ @?$1",
+            "fall_Wed8": "เฮ้ @$0#$e#เมื่อเร็วๆ นี้ ฉันได้เรียนรู้ทักษะ การเป็นส่วนเกินล่ะ$1",
+            "Fri6": "เซบาสเตียนกับอบิเกล เป็นเพื่อนของฉัน และฉันชอบที่จะไปซาลูน กับพวกเขาในวันศุกร์$0#$e#...ตั้งแต่พวกเขาเริ่มเดทกัน บางครั้งมันก็อึดอัด ที่จะอยู่กับพวกเขา$2#$e#โอ้ แต่แน่นอนว่า ฉันยินดีกับพวกเขานะ$1",
+            "spring_Sun8": เซบาสเตียน มาที่บ้านของฉัน เพื่อเล่นคีย์บอร์ด บ่อยขึ้นนะช่วงนี้$0#$b#บางที เขาอาจจะพยายาม สร้างความประทับใจ ให้กับอบิเกล หรืออะไรแบบนั้น$1"
 			}
 },
 //Schedules | 8 hearts event
@@ -283,14 +283,14 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries":  {
-            "spring.001": "Oh... What're you doing here, @?$0#$b#I was talking to Abby...$0",
-            "spring.002": "Maybe we'll get to the final boss today.$1",
-            "summer.001": "Abby was right, this place is so peaceful.$0",
-            "summer.002": "Maybe we'll see the Wizard someday, Abby.$1",
-            "fall.001": "Do you want to go to the desert with me someday, Abby?$1",
-            "fall.002": "Don't tell Sam, but I'm glad he was busy today.$1",
-            "winter.001": "Are you cold, Abby?$0#$b#Come here...$4",
-            "winter.002": "I'm saving up money to travel around with Abby.$1"
+            "spring.001": "โอ้... คุณมาทำอะไรที่นี่น่ะ @?$0#$b#ฉันกำลังคุยกับแอ๊บบี้อยู่นะ...$0",
+            "spring.002": "บางทีพวกเรา อาจจะไปถึงบอสตัวสุดท้าย ในวันนี้$1",
+            "summer.001": "แอ๊บบี้พูดถูก ที่นี่มันสงบมากเลย$0",
+            "summer.002": "บางที เราอาจจะได้เจอกับพ่อมด ในสักวันหนึ่งนะ แอ๊บบี้$1",
+            "fall.001": "เธออยากไปทะเลทรายกับฉัน ในสักวันหนึ่งไหม แอ๊บบี้?$1",
+            "fall.002": "อย่าบอกแซมนะ แต่ฉันดีใจที่วันนี้เขาไม่ว่าง$1",
+            "winter.001": "หนาวมั้ยแอ๊บบี้?$0#$b#มานี่สิ...$4",
+            "winter.002": "ฉันกำลังเก็บเงิน ไว้ไปเที่ยวกับแอ๊บบี้น่ะ$1"
             },
 },
 {
@@ -320,14 +320,14 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries":  {
-            "spring.001": "Seb's house is in the most beautiful place in the valley.$0",
-            "spring.002": "I think we got this, Seb!$1",
-            "summer.001": "Hi, @.$0#$b#Do you think it's kinda weird to hang out here...?",
-            "summer.002": "Seb's always caring for me...$4",
-            "fall.001": "It'd be fun to explore the desert.$1",
-            "fall.002": "Seb's teaching me how to play Solarion Chronicles.$1",
-            "winter.001": "Maybe I'll take another of Seb's hoodies.$1",
-            "winter.002": "I really want to travel abroad with Seb someday.$4"
+            "spring.001": "บ้านของเซบ อยู่ในที่ที่สวยงามที่สุด ในหุบเขาแห่งนี้$0",
+            "spring.002": "ฉันว่าเราเอาอยู่น่าเซบ!$1",
+            "summer.001": "ไง @$0#$b#เธอคิดว่าการมาเที่ยวที่นี่ มันแปลกไหม...?",
+            "summer.002": "เซบน่ะ ห่วงใยฉันตลอดเลย...$4",
+            "fall.001": "มันคงจะสนุกดีนะ ถ้าเกิดได้สำรวจทะเลทราย$1",
+            "fall.002": "เซบกำลังสอนฉันเล่น ปกรณัมโซโลเรียน$1",
+            "winter.001": "บางที ฉันอาจจะ เอาเสื้อฮู้ดของเซบมาอีก$1",
+            "winter.002": "ฉันอยากไปเที่ยวต่างประเทศ กับเซบในสักวัน$4"
             },
 },
 {
@@ -354,7 +354,7 @@
 "Action": "EditData",
 "Target": "Data/Events/Town",
 "Entries": {
-            "59020021/f Sebastian 500/f Abigail 500/t 1100 1200": "breezy/14 89/farmer 24 97 2 Sebastian 400 1000 1 Abigail 44 90 3 Penny 18 94 3 Vincent 16 94 1 Jas 17 95 0/skippable/pause 1800/playSound doorClose/pause 250/warp Sebastian 10 86/faceDirection Sebastian 2/pause 600/speak Sebastian \"*sigh*$2\"/pause 800/move Sebastian 0 4 1/viewport move 2 0 8000/move Sebastian 19 0 0/pause 200/emote Abigail 16/pause 200/speak Abigail \"Hi, Sebastian!$1\"/pause 500/faceDirection Sebastian 1/pause 600/speak Sebastian \"Oh, hey, Abigail.$0\"/pause 280/move Abigail 0 1 3/move Abigail -13 0 0/move Abigail 0 -1 3/pause 700/speak Abigail \"Oh, you seem in a bad mood. What's wrong?$6\"/pause 720/speak Sebastian \"I was going to play Journey of the Prairie King with Sam today.$0#$b#But he said he's not feeling well and is going to rest for the rest of the day.$2\"/pause 500/emote Sebastian 28/pause 500/speak Sebastian \"I don't want to sound unsympathetic, but I was really looking forward to it...$2#$b#I'm going to be really busy with work, so I don't know when I'll have time again...$2\"/pause 600/speak Abigail \"Um... Sebastian, you know I'm your friend too, right?$0\"/pause 600/speak Sebastian \"Yeah, of course, what kind of question is that?$0\"/pause 580/speak Abigail \"Well, I'm pretty sure you also know I like to play videogames.$0\"/pause 720/speak Sebastian \"...$0\"/pause 580/speak Abigail \"Ugh, Sebastian, what I'm saying is that we can play together.$1#$b#I've been trying to beat Prairie King since its release!$1\"/pause 380/speak Abigail \"I don't even know how many times I've tried, it's just too difficult...$5#$b#I usually play alone, so maybe together we'll do better.$0#$b#So what do you say?$1\"/pause 720/speak Sebastian \"Oh... Okay, let's go to your house then.$0\"/pause 600/globalFade .007/viewport -1000 -1000/changeLocation SeedShop/warp Sebastian 2 6/warp Abigail 3 6/showFrame Abigail 20/showFrame Sebastian 41/playMusic distantBanjo/viewport 7 7 true/pause 1200/speak Abigail \"Okay, are you ready?$0\"/pause 650/speak Sebastian \"Yeah, let's start.$7\"/pause 900/playSound Cowboy_Secret/pause 800/specificTemporarySprite abbyvideoscreen/pause 300/playMusic Cowboy_OVERWORLD/pause 1000/speak Abigail \"Be careful, Sebastian. They're coming!$7\"/pause 800/speak Sebastian \"Don't worry, I got this.$1\"/pause 600/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 180/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 220/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 180/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 220/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 600/playSound cowboy_dead/pause 380/speak Abigail \"Ugh... I died...$5\"/pause 320/emote Abigail 12/pause 280/speak Abigail \"It's in your h...$2#$b#Watch out, on your left!$7\"/pause 500/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 600/emote Sebastian 52/pause 380/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 500/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 600/speak Abigail \"Whoa, I didn't know you were that good.$1\"/pause 600/emote Sebastian 32/pause 200/emote Abigail 16/pause 200/speak Abigail \"They're coming again!$7\"/pause 180/emote Sebastian 16/pause 700/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 500/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound cowboy_dead/pause 380/speak Sebastian \"...$5\"/pause 380/emote Abigail 28/pause 900/showFrame Abigail 12/pause 800/showFrame Sebastian 4/pause 350/speak Abigail \"I can't believe you died too...$2#$b#You nearly completed the level, what happened...?$2\"/pause 580/emote Sebastian 60/pause 620/speak Abigail \"Well, there's nothing more we can do about it.$9#$b#We can always play another day.$0#$b#Let's do something else now.$1\"/pause 1500/end dialogue Abigail \"I can't wait to play Prairie King with Sebastian again.$1\""
+            "59020021/f Sebastian 500/f Abigail 500/t 1100 1200": "breezy/14 89/farmer 24 97 2 Sebastian 400 1000 1 Abigail 44 90 3 Penny 18 94 3 Vincent 16 94 1 Jas 17 95 0/skippable/pause 1800/playSound doorClose/pause 250/warp Sebastian 10 86/faceDirection Sebastian 2/pause 600/speak Sebastian \"*เฮ้อ*$2\"/pause 800/move Sebastian 0 4 1/viewport move 2 0 8000/move Sebastian 19 0 0/pause 200/emote Abigail 16/pause 200/speak Abigail \"สวัสดี เซบาสเตียน!$1\"/pause 500/faceDirection Sebastian 1/pause 600/speak Sebastian \"โอ้ เฮ้ อบิเกล$0\"/pause 280/move Abigail 0 1 3/move Abigail -13 0 0/move Abigail 0 -1 3/pause 700/speak Abigail \"โอ้ นายดูอารมณ์ไม่ดีนะ เป็นอะไรไป?$6\"/pause 720/speak Sebastian \"วันนี้ฉันกำลังจะเล่น ราชาทุ่งหญ้าผจญภัย กับแซมน่ะ$0#$b#แต่เขาบอกว่า เขารู้สึกไม่ค่อยสบาย และอยากจะพักผ่อนทั้งวัน$2\"/pause 500/emote Sebastian 28/pause 500/speak Sebastian \"ฉันไม่ได้อยากให้ มันฟังดูเหมือน ไม่เห็นใจนะ แต่ว่าฉันตั้งตารอจริงๆ...$2#$b#เดี๋ยวฉันก็จะยุ่งกับงานมากๆ เลยไม่รู้ว่าจะว่างอีกเมื่อไหร่$2\"/pause 600/speak Abigail \"อืม... เซบาสเตียน นายรู้ว่าฉัน ก็เป็นเพื่อนของนายด้วย ใช่ไหม?$0\"/pause 600/speak Sebastian \"ใช่ แน่นอนสิ ถามอะไรของเธอน่ะ?$0\"/pause 580/speak Abigail \"ฉันแน่ใจว่านายเองก็รู้นะ ว่าฉันชอบเล่นวิดีโอเกม$0\"/pause 720/speak Sebastian \"...$0\"/pause 580/speak Abigail \"เอ่อ... เซบาสเตียน ที่ฉันจะพูดก็คือ เรามาเล่นด้วยกันได้นะ$1#$b#ฉันพยายามจะเอาชนะ ราชาทุ่งหญ้าผจญภัย ตั้งแต่ตอนที่มันเปิดตัว!$1\"/pause 380/speak Abigail \"ฉันพยายามไปไม่รู้ตั้งกี่ครั้ง มันยากเกินไปน่ะ...$5#$b#ฉันมักจะเล่นคนเดียว บางทีเราอาจจะทำได้ดีกว่า ถ้าเกิดว่าเล่นด้วยกันน่ะ$0#$b#แล้ว นายจะว่าไง?$1\"/pause 720/speak Sebastian \"โอ้... โอเค งั้นก็ไปที่บ้านของเธอกัน$0\"/pause 600/globalFade .007/viewport -1000 -1000/changeLocation SeedShop/warp Sebastian 2 6/warp Abigail 3 6/showFrame Abigail 20/showFrame Sebastian 41/playMusic distantBanjo/viewport 7 7 true/pause 1200/speak Abigail \"โอเค นายพร้อมมั้ย?$0\"/pause 650/speak Sebastian \"ใช่ มาเริ่มกันเลย$7\"/pause 900/playSound Cowboy_Secret/pause 800/specificTemporarySprite abbyvideoscreen/pause 300/playMusic Cowboy_OVERWORLD/pause 1000/speak Abigail \"ระวังนะ เซบาสเตียน พวกมันกำลังมาแล้ว!$7\"/pause 800/speak Sebastian \"อย่าห่วงเลย ฉันเอาอยู่น่า$1\"/pause 600/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 180/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 220/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 150/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 180/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 220/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/playSound Cowboy_gunshot/pause 600/playSound cowboy_dead/pause 380/speak Abigail \"อึก... ฉันตายแล้ว...$5\"/pause 320/emote Abigail 12/pause 280/speak Abigail \"มันอยู่ใน...$2#$b#ระวังนะ ทางซ้าย!$7\"/pause 500/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 600/emote Sebastian 52/pause 380/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 500/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 600/speak Abigail \"ว้าว ฉันไม่รู้เลย ว่านายจะเก่งขนาดนี้$1\"/pause 600/emote Sebastian 32/pause 200/emote Abigail 16/pause 200/speak Abigail \"พวกมันมากันอีกแล้ว!$7\"/pause 180/emote Sebastian 16/pause 700/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 200/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/pause 500/playSound Cowboy_gunshot/playSound Cowboy_monsterDie/playSound cowboy_dead/pause 380/speak Sebastian \"...$5\"/pause 380/emote Abigail 28/pause 900/showFrame Abigail 12/pause 800/showFrame Sebastian 4/pause 350/speak Abigail \"ฉันไม่อยากจะเชื่อเลย นายก็ตายเหมือนกัน...$2#$b#นายเกือบจะผ่านด่านอยู่แล้ว เกิดอะไรขึ้นน่ะ...?$2\"/pause 580/emote Sebastian 60/pause 620/speak Abigail \"เราทำอะไรมากกว่านี้ ไม่ได้แล้วล่ะนะ$9#$b#เราเล่นกันอีกวันหลังก็ได้$0#$b#ทีนี้ มาทำอย่างอื่นกันเถอะ$1\"/pause 1500/end dialogue Abigail \"ฉันแทบรอไม่ไหวที่จะเล่น ราชาทุ่งหญ้าผจญภัย กับเซบอีกครั้ง$1\""
             },
       },
      //Mountain I | 4 hearts
