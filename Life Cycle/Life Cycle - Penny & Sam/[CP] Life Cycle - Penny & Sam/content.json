@@ -23,7 +23,7 @@
 	"HasSeenEvent": "59020001"
 		},
 "Entries": {
-            "Tue6": "เฮ้ @$0#$b#พอรู้ป่าวว่าเพนนี น่าจะชอบของขวัญอะไร?$4#$e#เอ้อ อย่าเข้าใจผิดนะ$8#$b#แค่อยากขอบคุณเธอ ที่ใจดีกับวินเซนท์น่ะ$10",
+            "Tue6": "เฮ้ @$0#$b#พอรู้ป่าวว่าเพนนี น่าจะชอบของขวัญอะไร?$4#$e#เอ้อ อย่าเข้าใจผิดนะ$8#$b#แค่อยากขอบคุณที่เธอ ใจดีกับวินเซนท์น่ะ$10",
             "Thu6": "ฉันไม่ค่อยชอบ อ่านหนังสือหรอก$0#$b#แต่เพนนีพูดแล้วดูน่าสนใจ... ฉันอาจจะลองอ่านดูสักหน่อย$1",
             "Fri6": "สงสัยจังแหะ ว่าเพนนีทำอะไรอยู่...$0#$e#หือ? อ้าว ไม่เห็นเธอเลย @$0#$b#เป็นไงมั่ง?$1",
             "Sat6": "ไง @!$1#$b#จะเจอเธอที่ซาลูนมั้ยวันนี้?$0#$e#เธอคิดว่า เพนนีจะอยากมากับเรามั้ย?$0"
@@ -53,7 +53,7 @@
 		},
 "Entries": {
             "Mon2": "เธอสนิทกับเพนนีมั้ย?$0#$e#จริงๆ แล้วเธอเจ๋งไม่เบาเลยนะ!$1",
-            "Sat2": "พักหลังนี่แต้งเพลงดีๆ ไม่ออกเลย$2#$b#โชคดีที่เพนนีแนะนำหนังสือ ที่เป็นแรงบันดาลใจให้น่ะ$1"
+            "Sat2": "พักหลังนี่แต่งเพลงดีๆ ไม่ออกเลย$2#$b#โชคดีที่เพนนีแนะนำหนังสือ ที่เป็นแรงบันดาลใจให้น่ะ$1"
 			}
 },
 {
@@ -65,7 +65,7 @@
 		},
 "Entries": {
             "Thu2": "คุณรู้มั้ยคะว่าแซมชอบพาราไดซ์ ฮอริซัน?$1#$e#อ่า... คุณไม่รู้ว่ามันคืออะไรเหรอ ...$2",
-            "Sat2": "แพชชันในการทำเพลง ของแซมน่าประทับใจมากจริง ๆ ค่ะ$0#$b#ฉันชื่นชมเขาตรงนั้นมากเลย$1"
+            "Sat2": "แพชชันในการทำเพลง ของแซมน่าประทับใจมากจริง ๆ ค่ะ$0#$b#ฉันชื่นชมเขา เรื่องนั้นมากเลย$1"
 			}
 },
 //Sam and Penny dialogue | 4 hearts event
@@ -253,19 +253,19 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon4": "เพนนีเป็นเด็กน่ารักเลยPenny is a lovely girl.$1#$b#I'm glad Sam found someone like her.$1",
-            "Mon6": "Yesterday I prayed to Yoba for happiness for Sam and Penny.$0",
-            "Tue8": "It feels like just yesterday when Sam was a little baby.$0#$b#And now he's planning on getting married!$2",
-            "Wed4": "I heard Sam talking with Penny earlier.$0#$e#I didn't know he could be so sweet!$1",
-            "Wed8": "Penny truly is a good influence for both Vincent and Sam.$0",
-            "Thu8": "Vincent told me that Sam was composing a song for Penny.$1#$b#Isn't it sweet?$1",
-            "Thu10": "I've come to think of Penny as a member of our family.$1",
-            "Fri8": "Do you think Sam and Penny will have kids someday?$0#$b#I don't know if he will be prepared...$2#$b#Well, I would love to help them.$1",
-            "Fri10": "To be honest, I'm afraid of Sam moving away with Penny someday...$2",
-            "Sat2": "Penny helped me with the garden yesterday.$1#$b#I wish Sam could learn something from her.$0",
-            "Sat10": "We invited Penny to have dinner with us last night.$0#$b#I can see why Sam and Vincent like her so much.$0#$b#She even offered to help wash the dishes!$1",
-            "Sun8": "Don't you think Sam and Penny are a really good couple?$1#$e#They might have different personalities, but they complement each other very well.$1",
-            "Sun10": "To be honest with you, @...$0#$b#At first I wasn't sure about Penny and Sam, but now it makes me so happy to see them together.$0"
+            "Mon4": "เพนนีเป็นเด็กน่ารัก$1#$b#ฉันดีใจที่แซม ได้เจอคนแบบเธอ$1",
+            "Mon6": "เมื่อวานฉันสวดมนต์ถึง เทพโยบะให้ แซมกับเพนนีได้มีความสุขล่ะ$0",
+            "Tue8": "ยังรู้สึกเหมือน เพิ่งเมื่อวานนี้เอง ที่แซมยังเป็นเด็กตัวน้อยๆ$0#$b#แล้วตอนนี้เขา วางแผนจะแต่งงานแล้ว!$2",
+            "Wed4": "ก่อนหน้านี้ ฉันได้ยินแซมคุยกับเพนนีด้วย$0#$e#ไม่รู้เลยว่าเขาจะ พูดจาน่ารักได้ขนาดนั้น!$1",
+            "Wed8": "เพนนีทำให้ทั้งวินเซนท์กับแซม ดีขึ้นจริงๆ$0",
+            "Thu8": "วินเซนท์บอกฉันว่า แซมแต่งเพลงให้เพนนีด้วย$1#$b#น่ารักมากเลยใช่มั้ยล่ะ?$1",
+            "Thu10": "ฉันมองเพนนีเป็นสมาชิกอีกคน ของครอบครัวแล้วล่ะ$1",
+            "Fri8": "เธอว่าวันหนึ่ง แซมกับเพนนีจะมีลูกมั้ย?$0#$b#ฉันไม่รู้เลยว่าเขาจะพร้อมมั้ย ...$2#$b#แต่เอาเถอะ ฉันเต็มใจช่วยอยู่แล้ว$1",
+            "Fri10": "จริงๆ แล้ว ฉันก็กลัววันที่แซม จะย้ายไปอยู่กับเพนนีล่ะ...$2",
+            "Sat2": "เมื่อวานเพนนีมาช่วยฉันทำสวนล่ะ$1#$b#หวังว่าเจ้าแซมจะหัดเรียนรู้ อะไรจากเพนนีบ้างนะ$0",
+            "Sat10": "เมื่อคืนเราชวนเพนนี มากินข้าวเย็นด้วยกันล่ะ$0#$b#ฉันรู้แล้วว่าทำไมแซม กับวินเซนท์ถึงชอบเธอมากนัก$0#$b#เธอเสนอตัวมาช่วย ฉันล้างจานเลยด้วยซ้ำ!$1",
+            "Sun8": "เธอไม่คิดเหรอว่า แซมกับเพนนีเหมาะกันมาก?$1#$e#พวกเขาอาจจะ นิสัยไม่เหมือนกัน แต่ก็เติมเต็มซึ่งกันและกัน ได้เป็นอย่างดีเลย$1",
+            "Sun10": "ให้บอกเธอตรงๆ แล้วล่ะก็นะ @...$0#$b#ทีแรกฉันก็ไม่มั่นใจนักหรอก เรื่องเพนนีกับแซม แต่เดี๋ยวนี้ ฉันมีความสุขมากเลย พอได้เห็นพวกเขาอยู่ด้วยกัน$0"
 			}
 },
 //Schedules | 8 hearts event
@@ -318,14 +318,14 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries":  {
-            "spring.001": "I'm a little embarrassed to say it but...$4#$b#...Penny is my muse.$10",
-            "spring.002": "Penny is truly a good teacher.$1",
-            "summer.001": "Watching Penny play with Vincent makes me so happy.$1",
-            "summer.002": "Penny...$4#$b#...I love you.$4",
-            "fall.001": "I wonder if Penny and I will ever bring our own kids here...$4",
-            "fall.002": "Penny always encourages me to chase my dreams.$0#$b#I really like that about her.$1",
-            "winter.001": "It feels good to help Penny with the kids.$1",
-            "winter.002": "This is a special place for Penny and me...$4"
+            "spring.001": "พูดแล้วก็แอบเขินนะ แต่...$4#$b#...เพนนีน่ะเป็น แรงบันดาลใจของฉัน$10",
+            "spring.002": "เพนนีเป็นครูที่ดีจริงๆ$1",
+            "summer.001": "ได้มองดูเพนนีเล่นกับวินเซนท์ ฉันก็มีความสุขมากเลยล่ะ$1",
+            "summer.002": "เพนนี...$4#$b#...รักนะ$4",
+            "fall.001": "สงสัยแหะว่าฉันกับเพนนี จะได้พาลูกๆ เรามาที่นี่บ้างมั้ย...$4",
+            "fall.002": "เพนนีสนับสนุนให้ฉัน ไล่ตามความฝันตลอดเลย$0#$b#ฉันชอบมากเลยที่เธอ ทำแบบนั้น$1",
+            "winter.001": "รู้สึกดีที่ได้ช่วยเพนนี ดูแลเด็กๆ น่ะ$1",
+            "winter.002": "ที่นี่ เป็นที่พิเศษของฉันกับเพนนีล่ะ...$4"
             },
 },
     //Penny
@@ -387,7 +387,7 @@
 "Action": "EditData",
 "Target": "Data/Events/Town",
 "Entries": {
-            "59020001/e 59020004/f Penny 1500/f Sam 1500/o Sam/o Penny/w sunny/z winter/t 1000 1230": "sweet/30 90/farmer 31 79 2 Penny 35 89 2 Sam 14 90 1 Vincent 14 91 1/skippable/pause 2000/emote Penny 32/pause 650/showFrame Penny 17/pause 80/showFrame Penny 18/pause 80/showFrame Penny 19/pause 3000/playSound crickets/pause 800/emote Penny 8/pause 500/speak Penny \"Huh?$3#$b#A bird?$3\"/pause 700/showFrame Penny 18/pause 80/showFrame Penny 17/pause 650/playSound grassyStep/playSound grassyStep/move Penny 0 1 1/move Penny 1 0 1/playSound crickets/pause 650/speak Penny \"Oh, no! Poor little thing.$2#$b#You must have fallen from your nest.$2\"/pause 380/speak Penny \"Let me help you.$0\"/pause 750/showFrame Penny 22/playSound shwip/playSound crickets/pause 900/move Penny -2 0 0/pause 700/playSound stairsdown/move Penny 0 -2 0/pause 700/playSound crickets/pause 600/speak Penny \"There you are!$1\"/pause 350/emote Penny 32/move Sam 15 0 1/pause 350/emote Sam 8/speak Sam \"Whoa, hello, Penny.$1#$b#I didn't know you liked to climb trees!$1\"/pause 500/showFrame Penny 34/pause 600/speak Penny \"Oh... Hello, Sam.$3\"/pause 380/speak Penny \"I was helping this little bird that fell from its nest.$0\"/pause 850/speak Sam \"Well, that's kind of you, Penny.$1#$b#If you’re about done up there, I was hoping to hang out with you.$0\"/pause 1000/showFrame Penny 26/pause 80/showFrame Penny 27/pause 600/shake Penny 1000/pause 390/speak Penny \"I-I didn’t know I had climbed this high...$2#$b#I don’t know how I'll get down...$2\"/pause 500/showFrame Penny 34/pause 800/speak Sam \"Uhm...$2\"/pause 800/speak Sam \"I-I can help you, if you want...$4\"/pause 650/emote Penny 16/pause 700/speak Penny \"I guess I have no choice...$3\"/pause 700/move Sam 5 0 0/move Sam 0 -1 0/pause 300/speak Sam \"Okay... Just jump and I’ll catch you, Penny.$7\"/move Vincent 7 0 1/speak Sam \"Are you ready?$0\"/pause 600/speak Penny \"I think so...$3\"/pause 650/jump Penny/showFrame Sam 9/pause 700/speak Sam \"See? I got you!$1\"/pause 390/emote Sam 32/pause 700/speak Penny \"Y-Yeah...$4\"/pause 500/speak Penny \"Um, Sam... Could you put me down now...?$4\"/pause 390/emote Sam 16/pause 390/speak Sam \"Oh! I’m sorry, I didn’t mean to make you uncomfortable...$10\"/pause 600/move Sam -2 0 1/move Penny 0 1 3/pause 500/speak Penny \"Don’t worry, Sam. It’s okay.$0\"/speak Penny \"Then, shall we spend some time together?$1\"/pause 350/emote Penny 32/pause 1500/end dialogue Penny \"Have you seen Sam?$0#$e#...Oh, I just wanted to thank him for... something.$4\""
+            "59020001/e 59020004/f Penny 1500/f Sam 1500/o Sam/o Penny/w sunny/z winter/t 1000 1230": "sweet/30 90/farmer 31 79 2 Penny 35 89 2 Sam 14 90 1 Vincent 14 91 1/skippable/pause 2000/emote Penny 32/pause 650/showFrame Penny 17/pause 80/showFrame Penny 18/pause 80/showFrame Penny 19/pause 3000/playSound crickets/pause 800/emote Penny 8/pause 500/speak Penny \"เอ๊ะ?$3#$b#นกเหรอ?$3\"/pause 700/showFrame Penny 18/pause 80/showFrame Penny 17/pause 650/playSound grassyStep/playSound grassyStep/move Penny 0 1 1/move Penny 1 0 1/playSound crickets/pause 650/speak Penny \"โอ้ ไม่นะ! เจ้านกน้อยน่าสงสาร$2#$b#คงตกลงมาจากรังสินะ$2\"/pause 380/speak Penny \"ให้ฉันช่วยนะจ๊ะ$0\"/pause 750/showFrame Penny 22/playSound shwip/playSound crickets/pause 900/move Penny -2 0 0/pause 700/playSound stairsdown/move Penny 0 -2 0/pause 700/playSound crickets/pause 600/speak Penny \"เอาล่ะ!$1\"/pause 350/emote Penny 32/move Sam 15 0 1/pause 350/emote Sam 8/speak Sam \"เหวอ ไง เพนนี$1#$b#ไม่รู้มาก่อนเลย ว่าเธอชอบปีนต้นไม้!$1\"/pause 500/showFrame Penny 34/pause 600/speak Penny \"อ้าว... สวัสดีจ๊ะ แซม$3\"/pause 380/speak Penny \"ฉันกำลังช่วยลูกนกน้อย ที่พลัดตกจากรังน่ะค่ะ$0\"/pause 850/speak Sam \"อ้อ เธอใจดีจังเลย เพนนี$1#$b#ถ้าเธอช่วยมันเสร็จแล้ว ฉันกำลังหวังว่า ฉันจะได้อยู่กับเธอน่ะ$0\"/pause 1000/showFrame Penny 26/pause 80/showFrame Penny 27/pause 600/shake Penny 1000/pause 390/speak Penny \"ฉะ-ฉันไม่รู้เลยว่า ปีนขึ้นมาสูงขนาดนี้...$2#$b#ฉันไม่รู้ว่าจะลงไปยังไง...$2\"/pause 500/showFrame Penny 34/pause 800/speak Sam \"อ่า...$2\"/pause 800/speak Sam \"ฉะ-ฉันช่วยเธอได้นะ ถ้าเธออยากให้ช่วย...$4\"/pause 650/emote Penny 16/pause 700/speak Penny \"ฉันคงไม่มีทางเลือกแล้วล่ะค่ะ ...$3\"/pause 700/move Sam 5 0 0/move Sam 0 -1 0/pause 300/speak Sam \"โอเค... กระโดดเลยเดี๋ยวฉันรับเอง เพนนี$7\"/move Vincent 7 0 1/speak Sam \"พร้อมมั้ย?$0\"/pause 600/speak Penny \"คิดว่านะคะ...$3\"/pause 650/jump Penny/showFrame Sam 9/pause 700/speak Sam \"เห็นมั้ย? ฉันรับเธอได้แล้ว!$1\"/pause 390/emote Sam 32/pause 700/speak Penny \"คะ-ค่ะ...$4\"/pause 500/speak Penny \"เอ่อ แซม... ตอนนี้ช่วยวางฉันลงได้มั้ยคะ...?$4\"/pause 390/emote Sam 16/pause 390/speak Sam \"อ่อ! ขอโทษที ฉันไม่ได้ตั้งใจ จะทำให้เธออึดอัดนะ...$10\"/pause 600/move Sam -2 0 1/move Penny 0 1 3/pause 500/speak Penny \"อย่าคิดมากเลยค่ะแซม ไม่เป็นไร$0\"/speak Penny \"งั้น ไปหาอะไรทำด้วยกันมั้ยคะ?$1\"/pause 350/emote Penny 32/pause 1500/end dialogue Penny \"เห็นแซมบ้างมั้ยคะ?$0#$e#...อ๋อ ฉันแค่อยากจะขอบคุณเขาเรื่อง... อะไรนิดหน่อยน่ะ$4\""
             },
       },
      //Beach | 8 hearts
@@ -395,7 +395,7 @@
 "Action": "EditData",
 "Target": "Data/Events/Beach",
 "Entries": {
-            "59020002/e 59020001/f Penny 2000/f Sam 2000/o Sam/o Penny/w sunny/t 2000 2300": "moonlightJellies/11 38/farmer 38 3 2 Sam 11 30 2 Penny 13 38 1/skippable/pause 1800/move Sam 0 8 1/pause 700/speak Sam \"Hello, Penny.$0\"/pause 800/faceDirection Penny 3/speak Penny \"There you are... I was worried you wouldn't come, Sam.$0\"/pause 800/speak Sam \"You know I would never do that, Penny.$2\"/pause 800/speak Sam \"Not to you...$4\"/pause 800/speak Penny \"Oh...$4\"/pause 1600/speak Penny \"Well, it looks like we're alone.$0\"/pause 900/faceDirection Penny 2/pause 1000/speak Penny \"The sea breeze feels refreshing, don't you think?$0\"/pause 500/faceDirection Sam 2/pause 1380/speak Sam \"Yeah...$3\"/pause 1800/speak Penny \"I love living by the sea.$0\"/pause 2000/speak Penny \"Um... Sam...$0\"/pause 1000/speak Penny \"Do you know why I asked you to meet me here tonight?$0\"/pause 800/faceDirection Penny 3/pause 600/faceDirection Sam 1/pause 500/speak Sam \"I bet you just wanted to see my handsome face.$1\"/pause 700/speak Penny \"Of course not, silly.$5\"/pause 390/faceDirection Penny 2/pause 2200/emote Sam 8/pause 1700/faceDirection Penny 3/pause 800/speak Penny \"How do I say this...$3\"/pause 1000/speak Penny \"I've been meaning to tell you for a while now...$4#$b#...about how I feel.$4\"/pause 1000/speak Penny \"I can't stop thinking about you, Sam...$4\"/pause 390/emote Sam 16/pause 650/speak Penny \"I've never felt this way about anyone.$4\"/pause 1600/speak Sam \"I-I...$8\"/pause 1500/speak Penny \"...Oh? I-I see... So you don't feel the same...$2\"/pause 390/emote Penny 28/pause 500/speak Sam \"No, Penny!$8\"/pause 200/speak Sam \"That's not what I meant...$2\"/pause 1500/playMusic musicboxsong/speak Sam \"I...$4\"/pause 500/speak Sam \"...feel the same about you.$4\"/pause 300/emote Penny 16/pause 600/speak Penny \"Really?$4\"/pause 500/speak Penny \"Sam, I...$4\"/pause 1800/move Sam 1 0 1/pause 1000/showFrame Penny 20/showFrame Sam 36/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/specificTemporarySprite heart 14 38/pause 500/viewport move 0 -1 3000/pause 3200/end dialogue Sam \"Hey, @.$1#$b#You know what?$4#$e#I'm not a single old man anymore!$10\""
+            "59020002/e 59020001/f Penny 2000/f Sam 2000/o Sam/o Penny/w sunny/t 2000 2300": "moonlightJellies/11 38/farmer 38 3 2 Sam 11 30 2 Penny 13 38 1/skippable/pause 1800/move Sam 0 8 1/pause 700/speak Sam \"Hello, Penny.$0\"/pause 800/faceDirection Penny 3/speak Penny \"อยู่นี่เอง... ฉันกำลังกังวลว่า คุณจะไม่มาเลย แซม$0\"/pause 800/speak Sam \"เธอก็รู้ว่าฉันจะไม่มีวัน เบี้ยวนี่นา เพนนี$2\"/pause 800/speak Sam \"ไม่เบี้ยวเธอแน่นอน...$4\"/pause 800/speak Penny \"อ่อ...$4\"/pause 1600/speak Penny \"ว่าแต่ เหมือนว่าจะมีแค่พวกเรานะคะ$0\"/pause 900/faceDirection Penny 2/pause 1000/speak Penny \"ลมทะเลสดชื่นมากเลย ว่ามั้ยคะ?$0\"/pause 500/faceDirection Sam 2/pause 1380/speak Sam \"ช่าย...$3\"/pause 1800/speak Penny \"ฉันชอบอยู่ข้างทะเลค่ะ$0\"/pause 2000/speak Penny \"เอ่อ... แซมคะ...$0\"/pause 1000/speak Penny \"รู้มัยคะว่าทำไมคืนนี้ ฉันขอให้คุณมาเจอที่นี่?$0\"/pause 800/faceDirection Penny 3/pause 600/faceDirection Sam 1/pause 500/speak Sam \"พนันได้เลย ว่าเธออยากเห็นหน้าหล่อๆ ของฉันใช่มั้ยล่า$1\"/pause 700/speak Penny \"ไม่ใช่ซะหน่อยค่ะ คนบ้า$5\"/pause 390/faceDirection Penny 2/pause 2200/emote Sam 8/pause 1700/faceDirection Penny 3/pause 800/speak Penny \"จะว่ายังไงดี...$3\"/pause 1000/speak Penny \"ฉันตั้งใจจะบอกคุณ มาสักพักแล้วค่ะ...$4#$b#...เกี่ยวกับความรู้สึกของฉัน$4\"/pause 1000/speak Penny \"ฉันหยุดคิดถึงคุณไม่ได้เลยค่ะ แซม...$4\"/pause 390/emote Sam 16/pause 650/speak Penny \"ฉันไม่เคยรู้สึกแบบนี้ กับใครมาก่อนเลย$4\"/pause 1600/speak Sam \"ฉะ-ฉัน...$8\"/pause 1500/speak Penny \"...คะ? ฉะ-ฉันเข้าใจแล้ว... งั้นคุณก็ไม่ได้รู้สึก แบบเดียวกันสินะคะ...$2\"/pause 390/emote Penny 28/pause 500/speak Sam \"ไม่ใช่นะ เพนนี!$8\"/pause 200/speak Sam \"ฉันไม่ได้หมายความ อย่างงั้นซะหน่อย...$2\"/pause 1500/playMusic musicboxsong/speak Sam \"ฉัน...$4\"/pause 500/speak Sam \"... รู้สึกกับเธอแบบนั้นเหมือนกัน$4\"/pause 300/emote Penny 16/pause 600/speak Penny \"จริงๆ เหรอคะ?$4\"/pause 500/speak Penny \"แซม ฉัน...$4\"/pause 1800/move Sam 1 0 1/pause 1000/showFrame Penny 20/showFrame Sam 36/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/specificTemporarySprite heart 14 38/pause 500/viewport move 0 -1 3000/pause 3200/end dialogue Sam \"ไง @$1#$b#รู้อะไรมั้ย?$4#$e#ฉันไม่ใช่ตาแก่ หัวเดียว กระเทียมลีบอีกแล้ว!$10\""
             },
       },    
      //Museum | 2 hearts
@@ -403,7 +403,7 @@
 "Action": "EditData",
 "Target": "Data/Events/ArchaeologyHouse",
 "Entries": {
-            "59020003/f Penny 500/f Sam 500/d Mon Thu Sat Sun/t 1000 1400": "libraryTheme/13 10/farmer 29 13 3 Sam 3 17 0 Penny 17 9 2 Jas 19 10 3 Vincent 16 10 1 Gunther 3 8 2/skippable/showFrame Penny 18/showFrame Vincent 24/showFrame Jas 22/pause 3500/playSound doorOpen/move Sam 0 -7 0/pause 800/emote Sam 40/pause 700/emote Gunther 40/pause 700/emote Sam 40/pause 1800/move Sam 4 0 2/move Sam 0 4 1/move Sam 4 0 0/move Sam 0 -5 1/move Sam 2 0 1/pause 750/speak Sam \"Oh, hello, Penny!$0#$b#How are Vincent and Jas doing?$1\"/pause 800/showFrame Penny 17/pause 80/showFrame Penny 16/pause 300/faceDirection Penny 3/pause 500/move Penny -2 0 3/pause 600/speak Penny \"Hello, Sam.$0#$b#We were doing some math exercises.$0\"/pause 700/speak Penny \"What brings you here today?$0\"/pause 800/speak Sam \"Well, I've been having a creative block...$2\"/pause 500/speak Sam \"...and I was hoping to find some books about my favorite band, Paradise Horizon, to inspire me.$2\"/pause 600/speak Sam \"I've asked Gunther but he doesn't seem to have heard of them.$2\"/pause 500/emote Penny 16/pause 500/speak Penny \"Did you say Paradise Horizon?$0\"/pause 200/speak Penny \"I love them!$1\"/pause 380/speak Penny \"Their last album was incredible.$1\"/pause 500/emote Sam 16/pause 500/speak Sam \"Whoa, you like them, Penny?$8\"/pause 200/speak Sam \"I never would have imagined it.$8\"/pause 800/emote Sam 32/emote Penny 32/pause 700/speak Penny \"I can help you if you want.$1#$b#There're a couple of interesting books about them.$1\"/pause 600/speak Penny \"Just a moment, Sam.$0\"/pause 500/faceDirection Penny 1/pause 550/speak Penny \"Vincent, Jas, finish exercises 5 and 8.$0#$b#I'm going to help Sam and then we will go over them, okay?$1\"/pause 600/faceDirection Penny 3/pause 550/speak Penny \"Come with me.$1\"/pause 750/viewport move 0 -1 3700/move Penny -1 0 0/move Penny 0 -4 1/move Penny 3 0 0/move Sam 1 0 0/move Sam 0 -4 1/move Sam 2 0 0/pause 900/emote Penny 56/pause 600/emote Sam 56/pause 2000/end dialogue Sam \"Penny is so kind, don't you think, @?\""
+            "59020003/f Penny 500/f Sam 500/d Mon Thu Sat Sun/t 1000 1400": "libraryTheme/13 10/farmer 29 13 3 Sam 3 17 0 Penny 17 9 2 Jas 19 10 3 Vincent 16 10 1 Gunther 3 8 2/skippable/showFrame Penny 18/showFrame Vincent 24/showFrame Jas 22/pause 3500/playSound doorOpen/move Sam 0 -7 0/pause 800/emote Sam 40/pause 700/emote Gunther 40/pause 700/emote Sam 40/pause 1800/move Sam 4 0 2/move Sam 0 4 1/move Sam 4 0 0/move Sam 0 -5 1/move Sam 2 0 1/pause 750/speak Sam \"อ้าว สวัสดี เพนนี!$0#$b#วินเซนท์กับแจ๊สเป็นไงบ้างล่ะ?$1\"/pause 800/showFrame Penny 17/pause 80/showFrame Penny 16/pause 300/faceDirection Penny 3/pause 500/move Penny -2 0 3/pause 600/speak Penny \"สวัสดีค่ะ แซม$0#$b#พวกเรากำลังทำโจทย์เลข กันอยู่ค่ะ$0\"/pause 700/speak Penny \"วันนี้คุณมาทำอะไร ที่นี่เหรอคะ?$0\"/pause 800/speak Sam \"อ่า คือฉันอยู่ในช่วง สมองตันอ่ะ...$2\"/pause 500/speak Sam \"...แล้วฉันก็หวังว่าจะมาหาหนังสือ ที่เกี่ยวกับวงโปรดฉัน พาราไดซ์ ฮอริซันน่ะ มาเป็นแรงบันดาลใจ$2\"/pause 600/speak Sam \"ฉันไปถามกันเธอร์แล้ว แต่เหมือนเขาไม่เคยได้ยิน ชื่อวงมาก่อนเลยน่ะสิ$2\"/pause 500/emote Penny 16/pause 500/speak Penny \"คุณหมายถึงวงพาราไดซ์ ฮอริซันเหรอคะ?$0\"/pause 200/speak Penny \"ฉันชอบมากเลยค่ะ!$1\"/pause 380/speak Penny \"อัลบั้มล่าสุดของพวกเรา เยี่ยมยอดไปเลยค่ะ$1\"/pause 500/emote Sam 16/pause 500/speak Sam \"เฮ้ย เธอชอบพวกเขาเหรอ เพนนี?$8\"/pause 200/speak Sam \"นึกไม่ถึงเลยนะเนี่ย$8\"/pause 800/emote Sam 32/emote Penny 32/pause 700/speak Penny \"ฉันช่วยคุณได้นะคะ ถ้าคุณต้องการ$1#$b#มีหนังสือน่าสนใจ เกี่ยวกับพวกเขาหลายเล่มเลย$1\"/pause 600/speak Penny \"แปปนึงนะคะ แซม$0\"/pause 500/faceDirection Penny 1/pause 550/speak Penny \"วินเซนท์ แจ๊ส ทำแบบฝึกหัดที่ 5 กับ 8 นะ$0#$b#ครูจะไปช่วยแซม แล้วเรากลับมา เฉลยไปด้วยกันนะ ตกลงมั้ย?$1\"/pause 600/faceDirection Penny 3/pause 550/speak Penny \"มากับฉันสิคะ$1\"/pause 750/viewport move 0 -1 3700/move Penny -1 0 0/move Penny 0 -4 1/move Penny 3 0 0/move Sam 1 0 0/move Sam 0 -4 1/move Sam 2 0 0/pause 900/emote Penny 56/pause 600/emote Sam 56/pause 2000/end dialogue Sam \"เพนนีใจดีมากเลย ว่ามั้ย @?\""
             },
       },
      //Sam's House | 4 hearts
@@ -411,7 +411,7 @@
 "Action": "EditData",
 "Target": "Data/Events/SamHouse",
 "Entries": {
-            "59020004/e 59020003/f Penny 1000/f Sam 1000/t 1300 1600": "jaunty/5 15/farmer 7 5 2 Sam 4 14 2 Penny 4 26 0/skippable/pause 1500/playSound doorOpen/move Penny 0 -10 0/pause 800/speak Penny \"Hello, Sam.$0\"/pause 700/speak Sam \"Hi, Penny.$0\"/pause 800/speak Penny \"I've come to give Vincent a new book.$0\"/pause 380/speak Sam \"Vincent?$0#$b#He's not home now. I think he went to visit Jas.$0\"/pause 800/speak Penny \"Oh...$2#$b#Well, then I'm going to come by later.$2\"/pause 300/speak Penny \"See you, Sam.$0\"/pause 380/faceDirection Penny 2/pause 100/emote Sam 16/pause 200/speak Sam \"Wait, Penny!$8\"/pause 500/faceDirection Penny 0/pause 300/emote Penny 8/pause 300/speak Sam \"Actually...$0#$b#I was hoping you would give me your opinion about a new song that I've been working on.$1\"/pause 380/speak Sam \"You know, you helped me a lot by recommending that book.$1\"/pause 800/speak Penny \"I would love to, Sam.$1\"/pause 380/emote Sam 32/pause 300/speak Sam \"Cool!$1\"/pause 380/speak Sam \"Come to my room, I've my guitar there.$0\"/pause 650/viewport move 2 0 5000/move Sam 0 1 1/move Sam 8 0 0/doAction 12 14/move Sam 0 -2 1/move Sam 5 0 2/move Sam 0 2 1/move Penny 0 -1 1/move Penny 8 0 0/move Penny 0 -2 1/move Penny 7 0 2/move Penny 0 2 3/pause 500/playMusic sampractice/animate Sam false true 200 22 23/pause 500/emote Sam 56/pause 550/emote Penny 20/pause 2000/end dialogue Penny \"Sam plays the guitar very well.$1\""
+            "59020004/e 59020003/f Penny 1000/f Sam 1000/t 1300 1600": "jaunty/5 15/farmer 7 5 2 Sam 4 14 2 Penny 4 26 0/skippable/pause 1500/playSound doorOpen/move Penny 0 -10 0/pause 800/speak Penny \"สวัสดีค่ะ แซม$0\"/pause 700/speak Sam \"หวัดดี เพนนี$0\"/pause 800/speak Penny \"ฉันเอาหนังสือใหม่ มาให้วินเซนท์ค่ะ$0\"/pause 380/speak Sam \"วินเซนท์เหรอ?$0#$b#ตอนนี้ไม่อยู่บ้านหรอก ฉันว่าเขาไปหาแจ๊สน่ะ$0\"/pause 800/speak Penny \"อ่อ...$2#$b#งั้น ไว้ฉันแวะมาใหม่แล้วกันนะคะ$2\"/pause 300/speak Penny \"ไว้พบกันใหม่ค่ะ แซม$0\"/pause 380/faceDirection Penny 2/pause 100/emote Sam 16/pause 200/speak Sam \"เดี๋ยวก่อน เพนนี!$8\"/pause 500/faceDirection Penny 0/pause 300/emote Penny 8/pause 300/speak Sam \"จริงๆ แล้ว...$0#$b#ฉันกำลังอยากให้เธอ ช่วยวิจารณ์เพลงใหม่ ที่ฉันกำลังแต่งอยู่หน่อยอ่ะ$1\"/pause 380/speak Sam \"รู้มั้ย เธอช่วยฉันไว้มากเลย ที่แนะนำหนังสือเล่มนั้นให้$1\"/pause 800/speak Penny \"ยินดีเลยค่ะ แซม$1\"/pause 380/emote Sam 32/pause 300/speak Sam \"เจ๋ง!$1\"/pause 380/speak Sam \"มาที่ห้องฉันสิ กีต้าร์ฉันอยู่นั่น$0\"/pause 650/viewport move 2 0 5000/move Sam 0 1 1/move Sam 8 0 0/doAction 12 14/move Sam 0 -2 1/move Sam 5 0 2/move Sam 0 2 1/move Penny 0 -1 1/move Penny 8 0 0/move Penny 0 -2 1/move Penny 7 0 2/move Penny 0 2 3/pause 500/playMusic sampractice/animate Sam false true 200 22 23/pause 500/emote Sam 56/pause 550/emote Penny 20/pause 2000/end dialogue Penny \"แซมเล่นกีต้าร์เก่งมากเลยค่ะ$1\""
             },
       },
   
@@ -445,7 +445,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Sam",
 "Entries": {
-            "PennySamWedding": "I never imagined I'd get married so soon.$0#$b#Right now I'm on cloud nine!$4"
+            "PennySamWedding": "ไม่เคยคิดว่าจะแต่งงาน เร็วขนาดนี้เลย$0#$b#ตอนนี้เหมือน อยู่สวรรค์ชั้นเจ็ดเลย!$4"
            }
 },
     //Penny
@@ -453,7 +453,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Penny",
 "Entries": {
-            "PennySamWedding": "Hello, @.$0#$e#The wedding was beautiful, don't you think?$0#$b#Sam and I were really nervous, but it all went great!$1"
+            "PennySamWedding": "สวัสดีค่ะ @$0#$e#งานแต่งงานสวยมากเลยว่ามั้ยคะ?$0#$b#แซมกับฉันประหม่ามากเลย แต่ทุกอย่างก็ผ่านไปได้ด้วยดี!$1"
            }
 },
     //Vincent
@@ -461,7 +461,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Vincent",
 "Entries": {
-            "PennySamWedding": "Mmm...$0#$b#If Miss Penny is married to my brother, does that mean I can't marry her anymore?$2"
+            "PennySamWedding": "อืมม...$0#$b#ถ้าครูเพนนี แต่งงานกับพี่ผมแล้ว แปลว่าผมก็แต่งงาน กับครูไม่ได้แล้วสิฮะ?$2"
            }
 },
     //Jodi
