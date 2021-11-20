@@ -468,7 +468,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Jas",
 "Entries": {
-            "AbigailSebastianWedding": "งานแต่งงานสนุกมาก มี Pink Cake เต็มไปหมดเลยค่ะ!$1"
+            "AbigailSebastianWedding": "งานแต่งงานสนุกมาก มีเค้กชมพู (pink cake) เต็มไปหมดเลยค่ะ!$1"
            }
 }, 
     //Vincent
@@ -561,22 +561,22 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon8": "Hey, @.$0#$e#I'm having a terrible day...$2#$b#I should go and see Abby to feel better.$7#$e#Bye.$0",
-            "Tue8": "Do you believe in soulmates, @?$0#$e#I thought it was just some stupid belief.$0#$b# But now I can't even imagine living without Abby.$4",
-            "Thu8": "Hey, @.$0#$e#I ordered Blue Starfruit to play with Abby.$1#$b#She was really excited when the release was announced.$1#$e#Oh, you can come and play too.$7",
-            "Sat8": "It'd be so boring to live here without Abby.$0#$e#Oh, and also Sam and you.$1",
-            "spring_Fri8": "Some days I just want to stay in my bed all day.$2#$b#But Abby wouldn't like that...$0#$e#I should cheer up, I don't want her to be worried.$0",
-            "spring_Sun8": "Hey, @.$0#$e#You know that Abby has always wanted to explore the mines, right?$0#$b#Well, if you happen to see her, take care of her, okay?$0#$e#I don't even want to think about her getting hurt...$2",
-            "summer_Mon8": "I can't wait for it to be fall already. Summer just isn't my thing.$0#$b#But Abby told me she wanted to go swimming, so I guess I'll do it for her.$0",
-            "summer_Sat8": "Sam hasn't stopped teasing Abby and I...$0#$b#He just keeps complaining about being the third wheel.$0",
-            "fall_Fri8": "Hey, @.$0#$e#Are you coming to the saloon today?$0#$b#Abby and I will play some Prairie King. I think that we'll soon be able to beat it.$1",
-            "winter_Fri8": "Hey, @.$0#$e#When Abby came to my house the other day she took a hoodie.$0#$b#Should I ask her to give it back to me?$0#$e#No... I think it's better that she keeps it.$0#$e#She looks cute in it.$4",
-            "summer_16": "Tomorrow's Sam's birthday.$0#$e#Abby told me I should let him win at pool this Friday.$1",
-            "fall_13": "Abby's birthday is today.$1#$b#I ordered a special amethyst from Clint's for her.$1",
-            "fall_26": "I'm looking forward to the Spirit's Eve, it's my favorite festival.$7#$e#I never enter the haunted maze, though.$0#$b#But Abby told me I should join her, so I guess I will.$1",
-            "summer_16_2": "Tomorrow's Sam's birthday.$0#$e#Abby told me I should let him win at pool this Friday.$1",
-            "fall_13_2": "Abby's birthday is today.$1#$b#I ordered a special amethyst from Clint's for her.$1",
-            "fall_26_2": "I'm looking forward to the Spirit's Eve, it's my favorite festival.$7#$e#I never enter the haunted maze, though.$0#$b#But Abby told me I should join her, so I guess I will.$1"
+            "Mon8": "เฮ้ @$0#$e#ฉันมีวันที่แย่มาก...$2#$b#ฉันควรไปหาแอ๊บบี้ จะได้รู้สึกดีขึ้น$7#$e#บาย$0",
+            "Tue8": "คุณเชื่อเรื่องเนื้อคู่ไหม @?$0#$e#ฉันเคยคิดนะ ว่ามันเป็นแค่ความเชื่อที่งี่เง่า$0#$b# แต่ตอนนี้ ฉันคิดภาพการมีชีวิตอยู่ โดยที่ขาดแอ๊บบี้ไป ไม่ออกเลยด้วยซ้ำ$4",
+            "Thu8": "เฮ้ @$0#$e#ฉันสั่งบลูสตาร์ฟรุ๊ต มาไว้เล่นกับแอ๊บบี้$1#$b#เธอตื่นเต้นมาก ตอนที่เกมส์ประกาศเปิดตัว$1#$e#อ้อ คุณก็มาเล่นด้วยกันได้นะ$7",
+            "Sat8": "มันคงน่าเบื่อมาก ที่จะอาศัยอยู่ที่นี่ โดยไม่มีแอ๊บบี้$0#$e#โอ้ แล้วก็แซมกับคุณด้วย$1",
+            "spring_Fri8": "บางวัน ฉันแค่อยากจะนอนเฉยๆ อยู่บนเตียงทั้งวัน$2#$b#แต่แอ๊บบี้น่ะ ไม่ถูกใจสิ่งนี้...$0#$e#ฉันควรจะร่าเริงหน่อย ฉันไม่อยากให้เธอเป็นห่วง$0",
+            "spring_Sun8": "เฮ้ @$0#$e#คุณก็รู้ ว่าแอ๊บบี้น่ะ อยากสำรวจเหมืองเสมอเลย ใช่ไหม?$0#$b#ถ้าคุณบังเอิญเจอเธอ ดูแลเธอด้วยนะ โอเค้?$0#$e#ฉันไม่อยากจะคิดเลย เกิดเธอเจ็บตัวขึ้นมาล่ะ$2",
+            "summer_Mon8": "ฉันรอให้ถึงใบไม้ร่วง ไม่ไหวแล้ว หน้าร้อนเนี่ย ไม่ใช่แนวของฉันเลย$0#$b#แต่แอ๊บบี้บอกฉันว่า เธออยากไปว่ายน้ำ ฉันเลยคิดว่าจะทำเพื่อเธอน่ะ$0",
+            "summer_Sat8": "แซมน่ะ ยังไม่เลิกล้อแอ๊บบี้กับฉันเลย$0#$b#เขาเอาแต่พูด เรื่องการเป็นส่วนเกิน$0",
+            "fall_Fri8": "เฮ้ @$0#$e#วันนี้ คุณจะมาที่ซาลูนไหม?$0#$b#แอ๊บบี้และฉัน จะเล่นราชาทุ่งหญ้าผจญภัยกัน ฉันคิดว่าอีกไม่นาน เราจะเอาชนะมันได้แล้ว$1",
+            "winter_Fri8": "เฮ้ @$0#$e#ตอนที่แอ๊บบี้ มาบ้านฉันวันก่อน เธอเอาเสื้อฮู้ดไปด้วย$0#$b#ฉันควรจะขอให้เธอ คืนมันมาให้ฉันไหมนะ?$0#$e#ไม่ล่ะ... ฉันว่า ให้เธอเก็บมันไว้ดีกว่า$0#$e#เธอดูน่ารัก ตอนที่ใส่มัน$4",
+            "summer_16": "พรุ่งนี้ เป็นวันเกิดของแซม$0#$e#แอ๊บบี้บอกฉันว่า ฉันควรให้เขาเล่นพูลชนะ ในวันศุกร์นี้$1",
+            "fall_13": "วันนี้ เป็นวันเกิดของแอ๊บบี้$1#$b#ฉันสั่งแอเมทิสต์ (Amethyst) เป็นพิเศษจากคลินท์ เพื่อให้เธอเลย$1",
+            "fall_26": "ฉันเฝ้ารอเทศกาลภูต มันเป็นเทศกาลโปรดฉันเลย$7#$e#ฉันไม่เคยเข้าไป ในเขาวงกตผีสิง$0#$b#แต่แอ๊บบี้บอกฉันว่า ฉันควรเข้าร่วมกับเธอ ดังนั้นฉันเลยคิดว่าจะไป$1",
+            "summer_16_2": "พรุ่งนี้ เป็นวันเกิดของแซม$0#$e#แอ๊บบี้บอกฉันว่า ฉันควรให้เขาเล่นพูลชนะ ในวันศุกร์นี้$1",
+            "fall_13_2": "วันนี้ เป็นวันเกิดของแอ๊บบี้$1#$b#ฉันสั่งแอเมทิสต์ (Amethyst) เป็นพิเศษจากคลินท์ เพื่อให้เธอเลย$1",
+            "fall_26_2": "ฉันเฝ้ารอเทศกาลภูต มันเป็นเทศกาลโปรดฉันเลย$7#$e#ฉันไม่เคยเข้าไป ในเขาวงกตผีสิง$0#$b#แต่แอ๊บบี้บอกฉันว่า ฉันควรเข้าร่วมกับเธอ ดังนั้นฉันเลยคิดว่าจะไป$1"
 			}
 },
      //Sebastian after wedding
@@ -588,16 +588,16 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Wed8": "Abby and I have been friends for so long.$0#$e#I kinda regret not telling her how I felt earlier...$2#$b#Guess I thought she wouldn't feel the same and it'd ruin our friendship...$2#$e#But it's cool now, we're happily married.$4",
-            "Fri8": "I love being with Abby, even if we just stay in silence.$4#$b#With her not even silences are awkward.$7#$e#It's a weird feeling... but I like it.$4#$b#Are all married couples like us?$4",
-            "Sun8": "Sometimes my job is really stressful...$2#$e#Luckily Abby knows this and comes around when I most need her.$4#$b#It feels like a dream to be married to her...$4",
-            "spring_Thu8": "Before I didn't feel like doing anything...$2#$e#But, you know, I think spending time with Abby and marrying her has helped me to be more positive towards life in general.$1",
-            "summer_Tue8": "Summer is the perfect season to focus on my job.$0#$e#But it's difficult sometimes because Abby likes to show up unexpectedly.$0#$e#She says that as my wife she has the right to come whenever she wants.$1",
-            "fall_Tue8": "Hey, @.$0#$e#Abby and I don't want to move to the city anymore, but we still decided to go there for our honeymoon.$0#$e#It was a really special trip.$1",
-            "fall_Sat8": "Fall brings me so many memories from my childhood...$0#$e#Abby and I used to play near the Wizard's Tower.$0#$b#She's always loved visiting the forest.$1#$e#Now that we are married, we're thinking of moving there together.$1",
-            "winter_Thu8": "Abby's face turns red because of the cold.$7#$b#My wife is just too cute.$1",
-            "winter_Sun8": "Hey, @.$0#$e#Looks like a new year is coming, huh?$0#$e#I'm sort of uneasy...$2#$b#But I feel better when I think I'm married to Abby and she'll be by my side.$4",
-            "spring_23_2": "Ugh... I don't like the Flower Dance at all...$5#$e#Well, Abby is going to be there with me, so I guess it won't be that bad.$1#$e#The benefits of marriage...$4"
+            "Wed8": "ฉันกับแอ๊บบี้ เป็นเพื่อนกันมานานแล้ว$0#$e#ฉันเสียใจ ที่ไม่ได้บอกเธอ ว่าฉันรู้สึกยังไง ก่อนหน้านี้...$2#$b#ฉันคิดว่า เธอคงไม่ได้รู้สึกเหมือนกัน และมันอาจจะทำลาย มิตรภาพของพวกเรา...$2#$e#แต่ตอนนี้มันเจ๋งมาก เรามีความสุขด้วยกันจริงๆ$4",
+            "Fri8": "ฉันน่ะ ชอบอยู่กับแอ๊บบี้ แม้ว่าเราจะอยู่กันแบบเงียบๆ$4#$b#กับเธอน่ะ ถึงจะเป็นความเงียบ ก็ไม่อึดอัด$7#$e#มันเป็นความรู้สึกที่แปลก... แต่ฉันชอบมันนะ$4#$b#คู่แต่งงานทุกคู่ เหมือนกับพวกเรามั้ยนะ?$4",
+            "Sun8": "บางครั้ง งานของฉันก็เครียดมาก...$2#$e#โชคดี ที่แอ๊บบี้รู้เรื่องนี้ และคอยอยู่ใกล้ๆ ในเวลาที่ฉันต้องการเธอที่สุด$4#$b#อย่างกับความฝันเลย ที่ได้แต่งงานกับเธอ...$4",
+            "spring_Thu8": "ก่อนหน้านี้ ฉันไม่รู้สึกอยากทำอะไรเลย...$2#$e#แต่คุณรู้ไหม ฉันคิดว่า การได้ใช้เวลากับแอ๊บบี้ ช่วยให้ฉันคิดบวก กับชีวิตมากขึ้น$1",
+            "summer_Tue8": "หน้าร้อน เป็นฤดูที่เหมาะที่สุด ที่ฉันจะให้ความสนใจ กับงานของฉัน$0#$e#ซึ่งบางครั้งมันก็ยาก เพราะแอ๊บบี้ชอบโผล่มา แบบไม่ทันได้ตั้งตัว$0#$e#เธอบอกว่า ในฐานะภรรยาของฉัน เธออยากจะมาตอนไหนก็ได้ ที่เธอต้องการ$1",
+            "fall_Tue8": "เฮ้ @$0#$e#ฉันกับแอ๊บบี้ ไม่อยากย้ายไปในเมืองแล้ว แต่เราตัดสินใจว่า จะไปฮันนีมูนกันที่นั่น$0#$e#มันเป็นการเดินทาง ที่วิเศษจริงๆ$1",
+            "fall_Sat8": "ฤดูใบไม้ร่วง นำความทรงจำมากมาย ในวัยเด็กกลับมาให้ฉัน...$0#$e#ฉันกับแอบบี้ เคยเล่นกันอยู่ใกล้ๆ หอคอยพ่อมด$0#$b#เธอน่ะ ชอบไปเที่ยวในป่าเสมอเลย$1#$e#ตอนนี้เราแต่งงานแล้ว เรากำลังคิดว่า จะย้ายไปอยู่ที่นั่นด้วยกัน$1",
+            "winter_Thu8": "แอ๊บบี้หน้าแดง เพราะว่าอากาศหนาว$7#$b#ภรรยาของฉันนี่น่ารักเกินไป$1",
+            "winter_Sun8": "เฮ้ @$0#$e#ปีใหม่กำลังจะมาถึง ใช่มั้ย?$0#$e#ฉันไม่ค่อยสบายใจเลย...$2#$b#แต่มันทำให้ฉันรู้สึกดีขึ้น เมื่อคิดว่า ฉันแต่งงานกับแอ๊บบี้ และเธอยังอยู่เคียงข้างฉัน$4",
+            "spring_23_2": "ฮึ... ฉันไม่ชอบเทศกาลดอกไม้เลย...$5#$e#แอ๊บบี้จะไปที่นั่นกับฉัน ดังนั้นฉันเลยคิดว่า มันก็ไม่ได้แย่มากขนาดนั้น$1#$e#ข้อดีของการแต่งงานสินะ...$4"
 			}
 },
      //Abigail before wedding
@@ -609,20 +609,20 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon8": "I used to think Pelican Town was a boring place.$0#$b#My dream was to move to the city and live some adventures.$1#$e#But now I don't know anymore...$0#$b#I feel like this is the ideal place for Sebastian and me to live.",
-            "Fri8": "I love Fridays.$1#$b#Today I'm going to play Prairie King with Seb.$0#$b#Maybe we'll finally beat it!$1",
-            "Sat8": "I've been planning on exploring the mines with Seb since forever.$0#$b#But he doesn't seem convinced, I think he's worried about me...$2",
-            "spring_Mon8": "Ugh... Hi, @...$3#$e#I didn't sleep well... Seb and I played Solarion Chronicles all night...$3#$e#But it was totally worth it! We had so much fun.$1",
-            "spring_Tue8": "Hi, @.$1#$e#Oh, why am I so happy? It's because last night Seb appeared in my dream.$1#$b#But don't ask me more, I can't tell you what happened...$4",
-            "spring_Wed8": "You know, @, I feel that since I started dating Seb, my relationship with my parents has also improved.$0#$e#I think they're finally understanding that I'm not a child anymore.$0",
-            "summer_Tue8": "I'm glad Seb lives on the mountain.$0#$b#The air up there is refreshing on summer days.$1#$e#Also, when it rains, frogs appear by the lake. Maybe Seb and I should adopt one.$1",
-            "fall_Mon8": "I hope it rains soon.$0#$b#The lake by Seb's house is the best place to hang out on rainy days.$0#$e#Anyway, I'm visiting him today.$1",
-            "fall_Sun8": "Seb's going to help me dye my hair later.$1#$b#I was thinking of sticking to purple, but Seb said blue would also look cool.$0",
-            "winter_Wed8": "Winters here in town are so cold.$0#$b#Seb and I like to drink a hot cup of coffee in the morning to warm up for the day.$1",
-            "spring_23": "Hi, @.$0#$e#Do you remember? Tomorrow's the Flower Dance.$1#$e#I don't really like wearing dresses, but dancing with Seb is fun.$1",
-            "fall_26": "I can't wait for the Spirit's Eve Festival.$1#$b#Seb and I are going to share Gus's special pumpkin pie.$1#$e#And maybe he'll want to join me in the haunted maze later.$0",
-            "spring_23_2": "Hi, @.$0#$e#Do you remember? Tomorrow's the Flower Dance.$1#$e#I don't really like wearing dresses, but dancing with Seb is fun.$1",
-            "fall_26_2": "I can't wait for the Spirit's Eve Festival.$1#$b#Seb and I are going to share Gus's special pumpkin pie.$1#$e#And maybe he'll want to join me in the haunted maze later.$0"
+            "Mon8": "ฉันเคยคิดว่า เมืองเพลิแกน เป็นสถานที่ที่น่าเบื่อ$0#$b#ความฝันของฉัน คือการย้ายไปอยู่ในเมือง และใช้ชีวิตกับการผจญภัย$1#$e#แต่ตอนนี้ ฉันไม่รู้แล้ว...$0#$b#ฉันรู้สึกว่าที่นี่ เป็นที่ที่เหมาะ กับเซบาสเตียนและฉัน",
+            "Fri8": "ฉันชอบวันศุกร์นะ$1#$b#นนี้น่ะ ฉันจะไปเล่น ราชาทุ่งหญ้าผจญภัย กับเซบ$0#$b#ไม่แน่ว่า เราอาจจะเอาชนะได้ซักที!$1",
+            "Sat8": "ฉันน่ะ วางแผนจะไปสำรวจเหมือง กับเซบมาตลอดเลย$0#$b#แต่เขาดูไม่ค่อยแน่ใจเท่าไหร่ ฉันคิดว่า เขาคงจะเป็นห่วงฉัน...$2",
+            "spring_Mon8": "อ๊ะ... ว่าไง @...$3#$e#ฉันนอนไม่ค่อยหลับ... ฉันกับเซบ เล่นปกรณัมโซโลเรียน กันทั้งคืน...$3#$e#แต่ว่ามันก็คุ้มค่านะ! เราสนุกกันมากๆ เลยล่ะ$1",
+            "spring_Tue8": "สวัสดี @$1#$e#โอ้ ทำไมฉันถึงมีความสุข งั้นหรอ? นั่นเป็นเพราะว่า เมื่อคืนนี้ เซบน่ะ มาปรากฏตัว ในความฝันของฉัน$1#$b#แต่ว่า อย่าถามมากไปกว่านี้ ฉันเล่าให้เธอฟังไม่ได้หรอก ว่าเกิดอะไรขึ้นน่ะ...$4",
+            "spring_Wed8": "คุณรู้ไหม @ ฉันรู้สึกว่า ตั้งแต่เริ่มคบกับเซบ ความสัมพันธ์ระหว่างฉัน กับพ่อแม่ ก็ดีขึ้นด้วย$0#$e#ฉันคิดว่า ในที่สุดพวกเขาก็เข้าใจ ว่าฉันน่ะ ไม่ใช่เด็กอีกต่อไปแล้ว$0",
+            "summer_Tue8": "ฉันดีใจ ที่เซบอาศัยอยู่บนภูเขา$0#$b#อากาศบนนั้น ทำให้รู้สึกสดชื่น ในฤดูร้อน$1#$e#อีกทั้ง เวลาฝนตก พวกกบจะปรากฏขึ้น ที่ริมทะเลสาบ บางที ฉันกับเซบ น่าจะเอาไปเลี้ยงสักตัวนะ$1",
+            "fall_Mon8": "ฉันหวังว่าฝนจะตกในไม่ช้า$0#$b#ทะเลสาบข้างบ้านของเซบ เป็นที่ที่ดีที่สุด ที่จะออกไปเที่ยว ในวันที่ฝนตก$0#$e#ยังไงก็ตาม วันนี้ฉันจะไปเยี่ยมเขา$1",
+            "fall_Sun8": "เซบจะมาช่วยฉันย้อมผมทีหลัง$1#$b#ฉันคิดว่าจะทำสีม่วงเหมือนเดิม แต่เซบบอกว่า สีน้ำเงินก็ดูเท่ดีเหมือนกัน$0",
+            "winter_Wed8": "ฤดูหนาว ในเมืองนี้มันหนาวมาก$0#$b#ฉันกับเซบชอบดื่มกาแฟร้อนๆ ในตอนเช้า เพื่ออบอุ่นร่างกาย สำหรับวันใหม่$1",
+            "spring_23": "ไง @$0#$e#คุณจำได้ไหม? พรุ่งนี้มีงานเต้นรำ ในเทศกาลดอกไม้$1#$e#ฉันไม่ชอบใส่ชุดเดรสเลย แต่การเต้นกับเซบน่ะสนุกดี$1",
+            "fall_26": "ฉันน่ะ ทนรอเทศกาลภูตไม่ไหวแล้ว$1#$b#เซบกับฉัน จะแบ่งพายฟักทอง (pumpkin pie) สูตรพิเศษของกัสกัน$1#$e#และบางที เขาอาจจะเข้าร่วมกับฉัน ในเขาวงกตผีสิง หลังจากนั้น$0",
+            "spring_23_2": "ไง @$0#$e#คุณจำได้ไหม? พรุ่งนี้มีงานเต้นรำ ในเทศกาลดอกไม้$1#$e#ฉันไม่ชอบใส่ชุดเดรสเลย แต่การเต้นกับเซบน่ะสนุกดี$1",
+            "fall_26_2": "ฉันน่ะ ทนรอเทศกาลภูตไม่ไหวแล้ว$1#$b#เซบกับฉัน จะแบ่งพายฟักทอง (pumpkin pie) สูตรพิเศษของกัสกัน$1#$e#และบางที เขาอาจจะเข้าร่วมกับฉัน ในเขาวงกตผีสิง หลังจากนั้น$0"
 			}
 },
      //Abigail after wedding
