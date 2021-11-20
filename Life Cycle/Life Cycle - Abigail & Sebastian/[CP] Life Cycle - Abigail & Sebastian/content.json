@@ -634,19 +634,19 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Tue8": "After our wedding Seb and I have been thinking about having kids.$0#$e#Of course, we'll make sure they can be whatever they want.$0#$b#The most important thing is that they're happy with their lives.$1",
-            "Wed8": "I don't know how many times I've wished to have been born in the city...$2#$b#But, on second thought, I wouldn't have met Seb that way.$0#$e#Our wedding was the most special day in my life, I wouldn't change it for anything.$1",
-            "Thu8": "Seb's a really reserved person, you know.$0#$b#That's why I'm extra glad he opens up to me.$0#$b#Communication is important for a good marriage.$1",
-            "Sun8": "Seb and I basically grew up together.$0#$e#Our mothers were good friends and we ended up being being really close.$0#$b#At the wedding my mom told me she always knew we had a special connection.#$e#I don't know what I'd do without him...$4",
-            "summer_Thu8": "Hi, @.$1#$e#Don't think Seb and I are weirdos, but we love to hang out at the cementery.$0#$b#It's almost the only place in town where you can be alone.$0#$e#But now that we're married, we aare going to move in together soon.$1",
-            "summer_Fri8": "I asked Seb to come with me to the beach as a joke. You know, he doesn't really like the heat.$0#$b#But he actually told me he'd come if that's what I wanted.$1#$e#He's the cutest husband...$4",
-            "fall_Sat8": "I love fall days.$0#$b#I wish this season could last forever, it reminds me of when Seb and I played in the forest as kids.$0#$e#Now that we're married, we should start thinking about having our own children, don't you think?$0",
-            "winter_Fri8": "I should visit Seb today.$0#$b#You know, if he's alone for too long, he gets kind of lost in himself.$2#$e#But it's true that since we got married he has been more lively.$1",
-            "winter_Sat8": "A new year is coming...$0#$e#This was a great year, I made so many memories with Seb.$0#$b#Married couples can also have fun, you know.$1#$e#I hope next year is even better for us.$4",
-            "spring_12": "The Egg Hunt's tomorrow.$1#$e#Guess you'll be joining this year too.$0#$b#Good luck, @, but this year I feel extra confident because Seb will be cheering me on.$0#$b#He's the best husband in the world.$1",
-            "winter_10": "My mother helped me cook some sashimi for Seb's birthday.$0#$b#Now that we're married, I want to learn how to cook his favorite dishes.$1",
-            "spring_12_2": "The Egg Hunt's tomorrow.$1#$e#Guess you'll be joining this year too.$0#$b#Good luck, @, but this year I feel extra confident because Seb will be cheering me on.$0#$b#He's the best husband in the world.$1",
-            "winter_10_2": "My mother helped me cook some sashimi for Seb's birthday.$0#$b#Now that we're married, I want to learn how to cook his favorite dishes.$1"
+            "Tue8": "หลังจากแต่งงาน เซบกับฉันต่างก็คิดจะมีลูกน่ะ$0#$e#แน่นอนว่า พวกเราจะทำให้แน่ใจ ว่าลูกจะเป็นอะไรก็ได้ ที่พวกเขาต้องการ$0#$b#สิ่งสำคัญที่สุด คือพวกเขาได้มีความสุข กับชีวิตของตัวเอง$1",
+            "Wed8": "ไม่รู้กี่ครั้งแล้ว ที่ฉันคิดว่า อยากจะเกิดในเมือง...$2#$b#แต่มาลองคิดดูอีกที ถ้าเป็นแบบนั้น ฉันก็จะไม่ได้เจอกับเซบน่ะสิ$0#$e#งานแต่งงานของเรา เป็นวันพิเศษสุดในชีวิตของฉัน ฉันจะไม่ยอมเปลี่ยนมัน เพื่ออะไรทั้งนั้น$1",
+            "Thu8": "คุณรู้ไหม ว่าเซบน่ะ เป็นคนที่เงียบขรึม$0#$b#นั่นเป็นเหตุผล ว่าทำไมฉันดีใจมากเป็นพิเศษ ที่เขายอมเปิดใจให้ฉัน$0#$b#การสื่อสารเป็นสิ่งสำคัญ สำหรับการแต่งงานที่ดี$1",
+            "Sun8": "เซบกับฉัน โตมาด้วยกัน$0#$e#แม่ของพวกเรา เป็นเพื่อนที่ดีต่อกัน สุดท้ายเราเลยสนิทกันมาก$0#$b#ในงานแต่งงาน แม่บอกฉันว่า เธอรู้อยู่เสมอว่า เรามีสายสัมพันธ์ที่พิเศษ#$e#ฉันไม่รู้เลย ว่าจะทำยังไง ถ้าเกิดไม่มีเขา...$4",
+            "summer_Thu8": "สวัสดี @$1#$e#อย่าคิดว่าฉันกับเซบ เป็นพวกประหลาดล่ะ แต่เราชอบออกไปเที่ยว กันที่สุสาน$0#$b#มันแทบจะเป็นที่เดียวในเมือง ที่จะได้อยู่กันตามลำพัง$0#$e#แต่ตอนนี้ เราแต่งงานกันแล้ว เราจะย้ายไปอยู่ด้วยกันเร็วๆ นี้$1",
+            "summer_Fri8": "ฉันแกล้งชวนเซบมาที่ชายหาด คุณรู้มั้ย เขาน่ะ เกลียดความร้อนสุดๆ$0#$b#แต่เขาบอกว่าเขาจะมา ถ้านั่นคือสิ่งที่ฉันต้องการ$1#$e#เขาเป็นสามีที่น่ารักที่สุด...$4",
+            "fall_Sat8": "ฉันรักฤดูใบไม้ร่วง$0#$b#ขอให้ฤดูกาลนี้คงอยู่ตลอดไป มันทำให้นึกถึง ช่วงที่ฉันกับเซบ เล่นอยู่ในป่าตอนยังเด็ก$0#$e#ตอนนี้เราแต่งงานแล้ว เราควรคิดจะมีลูกกันได้แล้ว คุณว่างั้นมั้ย?$0",
+            "winter_Fri8": "วันนี้ ฉันน่าจะไปเยี่ยมเซบ$0#$b#รู้ไหม ถ้าเขาอยู่คนเดียวนานเกินไป เขาจะลืมสนใจสิ่งต่างๆ รอบตัวน่ะ$2#$e#แต่ความจริง ตั้งแต่เราแต่งงานกัน เขาก็มีชีวิตชีวาขึ้นมากเลย$1",
+            "winter_Sat8": "ปีใหม่กำลังจะมาถึงแล้ว...$0#$e#ปีนี้เป็นปีที่ดีนะ ฉันได้สร้างความทรงจำมากมาย ร่วมกันกับเซบ$0#$b#คู่แต่งงานก็สนุกสนานได้นะ$1#$e#ฉันหวังว่าปีหน้า จะดียิ่งขึ้นกว่านี้อีก สำหรับพวกเราน่ะ$4",
+            "spring_12": "พรุ่งนี้ จะมีการล่าไข่$1#$e#เดาว่า คุณก็จะเข้าร่วมในปีนี้ด้วย$0#$b#ขอให้โชคดีนะ @ แต่ในปีนี้ ฉันมั่นใจมากเป็นพิเศษ เพราะเซบคอยเชียร์ฉันไงล่ะ$0#$b#เขาเป็นสามีที่ดีที่สุดในโลก$1",
+            "winter_10": "แม่ช่วยฉันทำซาซิมิ (sashimi) สำหรับวันเกิดของเซบน่ะ$0#$b#ตอนนี้เราแต่งงานกันแล้ว ฉันอยากเรียนรู้วิธีทำ อาหารจานโปรดของเขา$1",
+            "spring_12_2": "พรุ่งนี้ จะมีการล่าไข่$1#$e#เดาว่า คุณก็จะเข้าร่วมในปีนี้ด้วย$0#$b#ขอให้โชคดีนะ @ แต่ในปีนี้ ฉันมั่นใจมากเป็นพิเศษ เพราะเซบคอยเชียร์ฉันไงล่ะ$0#$b#เขาเป็นสามีที่ดีที่สุดในโลก$1",
+            "winter_10_2": "แม่ช่วยฉันทำซาซิมิ (sashimi) สำหรับวันเกิดของเซบน่ะ$0#$b#ตอนนี้เราแต่งงานกันแล้ว ฉันอยากเรียนรู้วิธีทำ อาหารจานโปรดของเขา$1"
 			}
 },
      //Maru before wedding
@@ -658,8 +658,8 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Tue8": "Abigail and I talked about exploring the mines.$0#$b#She wants to explore and I want to do research on the minerals of the valley.$0#$e#Maybe you could join too, @.$1",
-            "Sun8": "Caroline and Pierre came to have dinner with my parents last Wednesday.$0#$e#Caroline shared her cheese cauliflower recipe with them.$1"
+            "Tue8": "ฉันกับอบิเกล คุยเรื่องการสำรวจเหมืองกัน$0#$b#เธออยากจะสำรวจ ส่วนฉันต้องการทำวิจัย เกี่ยวกับแร่ของหุบเขานี้$0#$e#บางที คุณน่าจะเข้าร่วมด้วยนะ @$1",
+            "Sun8": "แคโรไลน์กับปิแอร์ มาทานอาหารเย็น กับพ่อแม่ของฉัน เมื่อวันพุธที่แล้ว$0#$e#แคโรไลน์ แบ่งปันสูตรกะหล่ำดอกอบชีส (cheese cauliflower) กับพวกเขาด้วยล่ะ$1"
 			}
 },    
      //Maru after wedding
@@ -671,9 +671,9 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Mon6": "My relationship with Sebastian has improved so much lately.$0#$b#He's been in a better mood since he married Abigail.$1",
-            "Fri8": "Abigail came to the clinic yesterday and gave me a fresh cauliflower from her dad's store.$1#$e#Sebastian is married to a great woman.$0",
-            "Sat6": "It's weird to see Sebastian married.$0#$b#I thought he wasn't interested in that kind of relationship.$0",
+            "Mon6": "ความสัมพันธ์ของฉัน กับเซบาสเตียน ดีขึ้นมากในช่วงนี้$0#$b#เขาอารมณ์ดีขึ้น ตั้งแต่แต่งงานกับอบิเกล$1",
+            "Fri8": "อบิเกลมาที่คลินิกเมื่อวานนี้ และให้กะหล่ำดอกสดๆ จากร้านพ่อของเธอกับฉัน$1#$e#เซบาสเตียน ได้แต่งงานกับผู้หญิงที่ดีเนอะ$0",
+            "Sat6": "มันค่อนข้างแปลก ที่ได้เห็นเซบาสเตียนแต่งงาน$0#$b#ฉันคิดว่าเขาจะไม่สนใจ ความสัมพันธ์แบบนั้นซะอีก$0",
 			}
 },    
      //Robin before wedding
@@ -685,12 +685,12 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon6": "Abigail comes around often. I'm glad that she cares so much for Sebastian.$0",
-            "Thu2": "I knew that Abigail and Sebastian were good friends, but I'd never thought about them dating.$0",
-            "Thu6": "Abigail's such a good girl, Caroline must be proud of her.$1",
-            "Fri2": "I couldn't be happier that Sebastian is dating Abigail.$1#$b#She's a great girl and the perfect match for him.$0",
-            "Sat8": "Oh, @.$1#$e#Caroline and Pierre are coming over to have dinner with us today.$0#$b#Caroline said she's making us her special tea.$1",
-            "Sun2": "Caroline and I are delighted that Abigail and Sebastian are together.$0#$b#I hope we officially become family soon.$1"
+            "Mon6": "อบิเกลแวะมาบ่อยๆ ฉันดีใจ ที่เธอใส่ใจเซบาสเตียนมาก$0",
+            "Thu2": "ฉันรู้ว่าอบิเกลกับเซบาสเตียน เป็นเพื่อนที่ดีต่อกัน แต่ฉันไม่เคยคิดเลย ว่าพวกเขาจะออกเดทกันน่ะ$0",
+            "Thu6": "อบิเกลเป็นเด็กดีนะ แคโรไลน์ ต้องภูมิใจในตัวเธอแน่เลย$1",
+            "Fri2": "ฉันดีใจมากเลย ที่เซบาสเตียน กำลังคบกับอบิเกล$1#$b#เธอเป็นผู้หญิงที่ยอดเยี่ยม และเหมาะสมกับเขามาก$0",
+            "Sat8": "โอ้ @$1#$e#แคโรไลน์กับปิแอร์ จะมาทานอาหารเย็นวันนี้$0#$b#แคโรไลน์บอกว่า เธอทำชาสูตรพิเศษ มาให้พวกเราด้วย$1",
+            "Sun2": "แคโรไลน์กับฉัน ยินดีที่อบิเกลและเซบาสเตียน อยู่ด้วยกัน$0#$b#ฉันหวังว่า เราจะเป็นครอบครัวกันจริงๆ ในอีกไม่นานนี้$1"
 			}
 }, 	  
      //Robin after wedding
@@ -702,10 +702,10 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Tue10": "Abigail's such a great influence for Sebastian.$1#$b#He's so smiley and has been spending more time outdoors.$0#$b#I'm so glad they ended up getting married.$1",
-            "Thu4": "I knew that Abigail and Sebastian were doing great, but I'd never thought about them getting married so soon.$0",
-            "Fri4": "I couldn't be happier that Sebastian is married to Abigail.$1#$b#She's a great girl and the perfect match for him.$0",
-            "Sun4": "Caroline and I are delighted that Abigail and Sebastian are together.$0#$b#And now we're officially a family.$1"
+            "Tue10": "อบิเกลน่ะ เป็นแรงจูงใจที่ดี สำหรับเซบาสเตียน$1#$b#เขายิ้มแย้ม และใช้เวลาอยู่ข้างนอก มากขึ้นกว่าเดิม$0#$b#ฉันดีใจมาก ที่พวกเขาแต่งงานกัน$1",
+            "Thu4": "ฉันรู้ว่าอบิเกลกับเซบาสเตียน ไปกันได้ด้วยดี แต่ฉันไม่เคยคิดเลยว่า พวกเขาจะแต่งงานเร็วแบบนี้$0",
+            "Fri4": ""ฉันดีใจมากเลย ที่เซบาสเตียน แต่งงานกับอบิเกล$1#$b#เธอเป็นผู้หญิงที่ยอดเยี่ยม และเหมาะสมกับเขามากๆ$0",
+            "Sun4": "แคโรไลน์กับฉัน ยินดีที่อบิเกลและเซบาสเตียน อยู่ด้วยกัน$0#$b#และตอนนี้ เราก็เป็นครอบครัวเดียวกัน อย่างเป็นทางการแล้ว$1"
 			}
 }, 	  
      //Demetrius before wedding
@@ -717,9 +717,9 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon2": "I'm so relieved that Sebastian has started dating Abigail...$0",
-            "Wed8": "I have to ask Robin when Abigail is coming to our house.$0#$b#Maru and I found an uncommon type of amethyst and we wanted to give it to her.$1",
-            "Sun8": "Hello, @.$0#$b#Sebastian and Abigail are a good match, don't you think?.$1"
+            "Mon2": "ผมโล่งใจมาก ที่เซบาสเตียน เริ่มคบกับอบิเกลแล้ว...$0",
+            "Wed8": "ผมต้องถามโรบิน ว่าเมื่อไหร่ อบิเกลจะมาที่บ้านของเรา$0#$b#ผมกับมารุ พบแอเมทิสต์ (amethyst) ที่ไม่ธรรมดา และเราอยากให้มันกับเธอ$1",
+            "Sun8": "สวัสดีครับ @$0#$b#เซบาสเตียนกับอบิเกล เป็นคู่ที่ดีนะ คุณว่าไหมครับ?$1"
 			}
 },
      //Demetrius after wedding
@@ -731,7 +731,7 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Mon4": "I'm so relieved that Sebastian married Abigail...$0"
+            "Mon4": "ผมโล่งใจมาก ที่เซบาสเตียน แต่งงานกับอบิเกลแล้ว...$0"
 			}
 },
      //Pierre before wedding
@@ -743,12 +743,12 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon6": "I hope Abigail's doing well with Sebastian.$0",
-            "Tue10": "I hope Sebastian and his family come to have dinner with us soon.$1#$e#Caroline and I have been looking forward to showing off our special pumpkin soup.$0#$e#I'm going to tell Abigail.$1",
-            "Wed2": "I'm worried about Abigail...$2#$e#I hope she knows what she wants for her future.$2",
-            "Thu2": "I've known Sebastian for a long time and I'm not sure about Abigail and him...$2",
-            "Sat4": "Sebastian comes to play videogames with Abigail too often.$3",
-            "Sat6": "Hello, @.$1#$e#Demetrius has been coming with Robin on Tuesdays.$0#$b#He's doing research about my products.$1",
+            "Mon6": "ผมหวังว่า อบิเกลจะไปกันได้ดี กับเซบาสเตียนนะ$0",
+            "Tue10": "ผมหวังว่า เซบาสเตียนและครอบครัว จะมาทานมื้อเย็นกับเรา ในเร็วๆ นี้$1#$e#แคโรไลน์กับผม รอคอยที่จะได้แสดงซุปฟักทอง (pumpkin soup) สูตรพิเศษของเรา$0#$e#ผมจะไปบอกกับอบิเกล$1",
+            "Wed2": "ผมกังวลเรื่องของอบิเกล...$2#$e#ผมหวังว่าเธอจะรู้นะ ว่าเธอต้องการอะไร เพื่ออนาคตของตัวเธอเอง$2",
+            "Thu2": "ผมรู้จักเซบาสเตียนมานาน และผมไม่ค่อยมั่นใจเลย เรื่องอบิเกลกับเขาน่ะ...$2",
+            "Sat4": "เซบาสเตียนมาเล่นวิดีโอเกม กับอบิเกลบ่อยเกินไปแล้วนะ$3",
+            "Sat6": "สวัสดีครับ @$1#$e#ดิมีเทรียสจะมากับโรบิน ในวันอังคาร$0#$b#เขากำลังค้นคว้า เกี่ยวกับผลิตภัณฑ์ของผมน่ะ$1",
 			}
 },
      //Pierre after wedding
@@ -760,10 +760,10 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Tue6": "I hope Abigail's doing well with Sebastian.$0",
-            "Tue10": "I hope Sebastian and his family come to have dinner with us soon.$1#$e#Caroline and I have been looking forward to showing off our special pumpkin soup.$0#$e#I'm going to tell Abigail.$1",
-            "Wed4": "I used to worry about Abigail.$0#$b#It's really difficult to be a parent...$2#$e#But now I think she's doing great with Sebastian, she was so happy at her wedding day.$1",
-            "Thu4": "Sebastian has offered to help me with the store's inventory.$0#$b#He told me it can be done much more efficiently by creating a internal database.$0#$b#I don't really understand what he explained to me, so I guess I'll have to trust my son-in-law.$1"
+            "Tue6": "ผมหวังว่า อบิเกลจะไปกันได้ดี กับเซบาสเตียนนะ$0",
+            "Tue10": "ผมหวังว่า เซบาสเตียนและครอบครัว จะมาทานมื้อเย็นกับเรา ในเร็วๆ นี้$1#$e#แคโรไลน์กับผม รอคอยที่จะได้แสดงซุปฟักทอง (pumpkin soup) สูตรพิเศษของเรา$0#$e#ผมจะไปบอกกับอบิเกล$1",
+            "Wed4": "ผมเคยกังวลเรื่องอบิเกล$0#$b#การเป็นพ่อแม่นี่ลำบากจริงๆ...$2#$e#แต่ตอนนี้ ผมคิดว่าเธอกับเซบาสเตียน ไปกันได้ราบรื่นนะ เธอมีความสุขมาก ในวันแต่งงาน$1",
+            "Thu4": "เซบาสเตียน เสนอตัวว่าจะช่วยผม เรื่องคลังสินค้าของร้าน$0#$b#เขาบอกว่า ทำให้มีประสิทธิภาพมากขึ้นได้ ด้วยการ สร้างฐานข้อมูลภายใน$0#$b#ผมไม่เข้าใจจริงๆ ที่เขาอธิบายให้ฟัง ดังนั้น ผมจะเชื่อใจลูกเขยของผม$1"
 			}
 },
      //Caroline before wedding
@@ -775,11 +775,11 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon2": "I'm afraid that Abigail will want to travel around with Sebastian...$2",
-            "Tue4": "When did Abigail grow up so much?$2#$e#It seems like yesterday when Robin and I used to take her and Sebastian to the playground.$0",
-            "Thu8": "Oh, @, do you think I might have grandkids any time soon?$1",
-            "Fri8": "I had my doubts about the relationship between Abigail and Sebastian, but he actually has helped Abigail to open up to us.$0#$e#I'm thankful to him.$1",
-            "Sun4": "My little girl's all grown up now.$0#$e#It didn't even cross my mind that Abigail would have a boyfriend so soon.$0",
+            "Mon2": "ฉันกลัวว่า อบิเกลจะอยากไปเที่ยวรอบๆ กับเซบาสเตียนน่ะสิ...$2",
+            "Tue4": "อบิเกลโตขึ้นมากขนาดนี้ ตั้งแต่เมื่อไหร่กันนะ?$2#$e#เหมือนพึ่งผ่านมาเมื่อวานเอง ตอนที่โรบินและฉัน พาเธอกับเซบาสเตียน ไปที่สนามเด็กเล่น$0",
+            "Thu8": "โอ้ @ เธอคิดว่าฉันจะมีหลานเร็วๆ นี้ไหม?$1",
+            "Fri8": "ฉันเคยสงสัยในความสัมพันธ์ ของอบิเกลกับเซบาสเตียน แต่เขาน่ะ ช่วยให้อบิเกลเปิดใจกับเรา$0#$e#ฉันต้องขอบคุณเขาจริงๆ$1",
+            "Sun4": "ในตอนนี้ ลูกสาวตัวน้อยของฉัน โตขึ้นเยอะแล้วสินะ$0#$e#ฉันไม่ได้คิดเลยว่าอบิเกล จะมีแฟนเร็วขนาดนี้น่ะ$0",
 			}
 },
      //Caroline before wedding
@@ -791,12 +791,12 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Mon6": "Hello, @.$0#$e#I'm going to cook some sashimi to thank Sebastian for taking care of Abigail.$1#$e#Abigail has been asking me to teach her how to cook.$0#$b#Since they got married, she has been trying really hard to cook his favorite dishes.$1",
-            "Tue10": "Hello, @.$0#$e#Robin and I can't stop talking about Abigail and Sebastian.$0#$b#Even thought they're married now, they're still so cute to each other.$1",
-            "Thu10": "Oh, @, do you think I might have grandkids any time soon?$0#$b#I hope they're thinking of having kids now that they're married.$1",
-            "Fri8": "I had my doubts about the relationship between Abigail and Sebastian, but he actually has helped Abigail to open up to us.$0#$e#I'm thankful to him.$1",
-            "Sat6": "Sebastian will always be welcome in my house.$1#$b#I couldn't hope for a best son-in-law.$1",
-            "Sun6": "My little girl's all grown up now.$0#$e#It didn't even cross my mind that Abigail would get married so soon.$0",
+            "Mon6": "สวัสดีจ้ะ @$0#$e#ฉันจะทำซาซิมิ (sashimi) เพื่อขอบคุณเซบาสเตียน ที่คอยดูแลอบิเกลน่ะ$1#$e#อบิเกลขอให้ฉัน สอนเธอทำอาหาร$0#$b#ตั้งแต่พวกเขาแต่งงานกัน เธอพยายามหนักมากที่จะทำ อาหารจานโปรดของเขา$1",
+            "Tue10": "สวัสดีจ้ะ @$0#$e#ฉันกับโรบินเลิกพูดถึง อบิเกลและเซบาสเตียน ไม่ได้เลยล่ะ$0#$b#แม้ว่าตอนนี้ พวกเขาจะแต่งงานกันแล้ว พวกเขายังน่ารักต่อกันและกัน$1",
+            "Thu10": "โอ้ @ เธอคิดว่าฉันจะมีหลานเร็วๆ นี้ไหม?$0#$b#ฉันหวังว่าพวกเขา กำลังคิดที่จะมีลูกกัน ตอนนี้พวกเขาแต่งงานแล้วนะ$1",
+            "Fri8": "ฉันเคยสงสัยในความสัมพันธ์ ของอบิเกลกับเซบาสเตียน แต่เขาน่ะ ช่วยให้อบิเกลเปิดใจกับเรา$0#$e#ฉันต้องขอบคุณเขาจริงๆ$1",
+            "Sat6": "เซบาสเตียน เป็นที่ต้อนรับในบ้านฉันเสมอ$1#$b#ฉันไม่สามารถหวัง ลูกเขยที่ดีกว่านี้ได้อีก$1",
+            "Sun6": "ในตอนนี้ ลูกสาวตัวน้อยของฉัน โตขึ้นเยอะแล้วสินะ$0#$e#ฉันไม่ได้คิดเลยว่าอบิเกล จะแต่งงานเร็วขนาดนี้น่ะ$0",
 			}
 },
      //Sam before wedding
@@ -808,10 +808,10 @@
 	"HasSeenEvent": "59020024"
 		},
 "Entries": {
-            "Mon2": "I've been waiting forever for Sebastian and Abigail to start dating.$0#$e#It was so obvious, don't you agree, @?$1",
-            "fall_Wed8": "Hey, @.$0#$e#Lately I've been mastering my third wheeling skills.$1",
-            "Fri4": "Sebastian and Abigail are my friends and I enjoy going with them to the saloon on Fridays.$0#$e#...But since they started dating, sometimes it's awkward to be there with them.$2#$e#Oh, but of course I'm happy for them.$1",
-            "spring_Sun8": "Sebastian comes to my house to play the keyboard more often lately.$0#$b#Maybe he's trying to impress Abigail or something.$1"
+            "Mon2": "ฉันรอมาตลอดเลย ให้เซบาสเตียนกับอบิเกล ออกเดทกันซักทีน่ะ$0#$e#มันออกจะชัดแจ๋วขนาดนี้ คุณไม่เห็นด้วยหรอ @?$1",
+            "fall_Wed8": "เฮ้ @$0#$e#เมื่อเร็วๆ นี้ ฉันได้เรียนรู้ทักษะ การเป็นส่วนเกินล่ะ$1",
+            "Fri4": "เซบาสเตียนกับอบิเกล เป็นเพื่อนของฉัน และฉันชอบที่จะไปซาลูน กับพวกเขาในวันศุกร์$0#$e#...ตั้งแต่พวกเขาเริ่มเดทกัน บางครั้งมันก็อึดอัด ที่จะอยู่กับพวกเขา$2#$e#โอ้ แต่แน่นอนว่า ฉันยินดีกับพวกเขานะ$1",
+            "spring_Sun8": "เซบาสเตียน มาที่บ้านของฉัน เพื่อเล่นคีย์บอร์ด บ่อยขึ้นนะช่วงนี้$0#$b#บางที เขาอาจจะพยายาม สร้างความประทับใจ ให้กับอบิเกล หรืออะไรแบบนั้น$1"
 			}
 },
      //Sam after wedding
@@ -823,8 +823,8 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries": {
-            "Mon4": "I waited forever for Sebastian and Abigail to start dating.$0#$b#It's cool that they got married in the end.$1",
-            "Fri6": "Sebastian and Abigail are my friends and I enjoy going with them to the saloon on Fridays.$0#$e#...But since they got married, sometimes it's awkward to be there with them.$2#$e#Oh, but of course I'm happy for them.$1"
+            "Mon4": "ฉันรอมาตลอดเลย ให้เซบาสเตียนกับอบิเกล ออกเดทกันซักทีน่ะ$0#$b#เป็นเรื่องที่เจ๋งไปเลย ในที่สุดพวกเขาก็แต่งงานกัน$1",
+            "Fri6": "เซบาสเตียนกับอบิเกล เป็นเพื่อนของฉัน และฉันชอบที่จะไปซาลูน กับพวกเขาในวันศุกร์$0#$e#...ตั้งแต่พวกเขาแต่งงานกัน บางครั้งมันก็อึดอัด ที่จะอยู่กับพวกเขา$2#$e#โอ้ แต่แน่นอนว่า ฉันยินดีกับพวกเขานะ$1"
 			}
 },
 //Schedule strings
@@ -837,14 +837,14 @@
 	"HasSeenEvent": "59020048"
 		},
 "Entries":  {
-            "spring.001": "Seb's house is in the most beautiful place in the valley.$0#$b#Maybe we could build a little house up on the mountains.$0#$b#We really want to move in together since we'r married now.$1",
-            "spring.002": "I think we got this, Seb!$1",
-            "summer.001": "Hi, @.$0#$b#Do you think it's kinda weird to hang out here...?",
-            "summer.002": "Seb's always caring for me.$4#$b#He's the best husband in the world...$4",
-            "fall.001": "It'd be fun to explore the desert.$1#$b#We should have visited it on our honeymoon, don't you think Seb?",
-            "fall.002": "Seb's teaching me how to play Solarion Chronicles.$1",
-            "winter.001": "Maybe I'll take another of Seb's hoodies.$0#$b#You know, as his wife I think it's my right to do so.$1",
-            "winter.002": "I really want to travel abroad with Seb someday.$4"
+            "spring.001": "บ้านของเซบ อยู่ในที่ที่สวยงามที่สุด ในหุบเขาแห่งนี้$0#$b#บางที เราอาจสร้างบ้านหลังเล็กๆ บนภูเขาได้นะ$0#$b#เราอยากย้ายมาอยู่ด้วยกันจริงๆ เพราะตอนนี้เราแต่งงานกันแล้ว$1",
+            "spring.002": "ฉันว่าเราเอาอยู่น่าเซบ!$1",
+            "summer.001": "ไง @$0#$b#เธอคิดว่าการมาเที่ยวที่นี่ มันแปลกไหม...?",
+            "summer.002": "เซบน่ะ ห่วงใยฉันตลอดเลย$4#$b#เขาเป็นสามีที่ดีที่สุดในโลก..$4",
+            "fall.001": "คงจะสนุกดี ถ้าได้สำรวจทะเลทราย$1#$b#เราควรจะไปเที่ยวชม ในฮันนีมูนของเรา นายว่าไหมเซบ?",
+            "fall.002": "เซบกำลังสอนฉันเล่น ปกรณัมโซโลเรียน$1",
+            "winter.001": "บางที ฉันอาจจะ เอาเสื้อฮู้ดของเซบมาอีก$0#$b#รู้ไหม ในฐานะภรรยาของเขา มันเป็นสิทธิ์ของฉัน ที่จะทำแบบนั้น$1",
+            "winter.002": "ฉันอยากไปเที่ยวต่างประเทศ กับเซบในสักวัน$4"
             },
 },
    ]
