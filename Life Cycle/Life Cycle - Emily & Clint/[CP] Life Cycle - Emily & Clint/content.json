@@ -29,8 +29,8 @@
 	"HasSeenEvent": "59020010"
 		},
 "Entries": {
-            "Tue4": "You should go to the Grampleton Carnival.$0#$b#I went with Clint and it has so many fun things to do!$1",
-            "Sat4": "Clint got the high score on the Smashing Stone at the Grampleton Carnival.$1#$b#Impressive, right?$1"
+            "Tue4": "เธอควรไปงาน แกรมเพิลตันคาร์นิวัลนะ$0#$b#ฉันเคยไปกับคลินท์ มีกิจกรรมสนุกๆ ให้ทำเยอะเลยล่ะ!$1",
+            "Sat4": "คลินท์ทำคะแนนได้สูง จากการทุบหิน ที่งานแกรมเพิลตันคาร์นิวัล $1#$b#น่าประทับใจมาก ใช่ไหมล่ะ?$1"
 			}
 },
 {
@@ -41,8 +41,8 @@
 	"HasSeenEvent": "59020010"
 		},
 "Entries": {
-			"Mon4": "Hello, @.$1#$e#I have to thank you for pushing me to ask Emily to go to the Grampleton Carnival.$0#$b#She loved it!$1",
-            "Wed4": "Maybe Emily is too good for me...$2"
+			"Mon4": "สวัสดี @$1#$e#ฉันต้องขอบคุณเธอนะ ที่ผลักดันให้ฉันชวนเอมิลี่ ไปงานแกรมเพิลตันคาร์นิวัล$0#$b#เธอรักมันเลยล่ะ!$1",
+            "Wed4": "บางที เอมิลี่อาจจะดีเกินไป สำหรับฉันน่ะ...$2"
 			}
 },
 //Emily and Clint dialogue | 7 hearts event
@@ -54,10 +54,10 @@
 	"HasSeenEvent": "59020011"
 		},
 "Entries": {
-            "Mon6": "Two souls do not meet by chance...$4",
-            "Tue6": "Clint appeared in a dream I had recently.$0#$b#Perhaps this is a sign...$4",
-            "Fri6": "Clint and I are friends, but I think that we're not as close as Yoba would like us to be.$2#$e#I should stop by the blacksmith to say hi to him.$0",
-            "Sun6": "I feel that a big change in my life is approaching...$3"
+            "Mon6": "สองดวงวิญญาน ไม่ได้พบกันโดยบังเอิญ...$4",
+            "Tue6": "คลินท์ปรากฏตัว ในความฝันของฉัน ไม่นานมานี้$0#$b#บางที นี่อาจเป็นสัญญาณ...$4",
+            "Fri6": "ฉันกับคลินท์เป็นเพื่อนกัน แต่ฉันคิดว่า เราไม่ได้สนิทกัน อย่างที่โยบะอยากให้เป็น$2#$e#ฉันควรแวะไป ที่ร้านช่างตีเหล็ก เพื่อทักทายเขา$0",
+            "Sun6": "ฉันรู้สึกว่า การเปลี่ยนแปลงครั้งใหญ่ ในชีวิต กำลังใกล้เข้ามา...$3"
 			}
 },
 {
@@ -68,10 +68,10 @@
 	"HasSeenEvent": "59020011"
 		},
 "Entries": {
-			"Mon6": "I don't think I'll ever have the courage to ask Emily on a date again...$2#$e#At least I can still be her friend...$2",
-            "Thu6": "If you see Emily, could you give her this Topaz, @?[68]$0#$b#But don't tell her it was me!$0",
-            "Fri6": "I would go to the saloon more if I could.$0#$b#Gus is so lucky to see Emily everyday.$3",
-            "Sun6": "When I went to the saloon last Friday, Emily seemed to be avoiding me...$2#$b#Maybe she didn't like going to the Grampleton Carnival with me...$2"
+			"Mon6": "ฉันไม่คิดว่า จะกล้าชวนเอมิลี่ ไปเดทอีกแล้วล่ะ...$2#$e#อย่างน้อย ฉันก็ยังเป็นเพื่อนเธอได้...$2",
+            "Thu6": "ถ้าคุณเจอเอมิลี่ คุณช่วยมอบบุษราคัม (Topaz) ให้เธอได้ไหม @?[68]$0#$b#แต่อย่าบอกเธอ ว่ามาจากฉันนะ!$0",
+            "Fri6": "ฉันอยากจะไปที่ซาลูน บ่อยมากกว่านี้ ถ้าทำได้น่ะ$0#$b#กัสโชคดีมาก ที่ได้เจอเอมิลี่ทุกวัน$3",
+            "Sun6": "เมื่อวันศุกร์ที่แล้ว ฉันไปซาลูนมา เหมือนเอมิลี่ จะหลบหน้าฉัน...$2#$b#สงสัยว่าเธอ อาจจะไม่ชอบไป งานแกรมเพิลตันคาร์นิวัล กับฉัน...$2"
 			}
 },
 //Dialogues | 8 hearts event
@@ -84,33 +84,33 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Mon8": "Now that Clint and I are walking together in the journey of life, I've realised that something was missing before.$0#$b#I've never felt so blissful in my entire life.$4",
-            "Tue8": "Clint and I aren't planning on having kids anytime soon.$0#$e#But when the day comes, we'll ensure that they grow up to be kind and considerate.$1#$b#We believe those are the most important qualities of a person.$1",
-            "Wed8": "Hi there, @.$1#$e#Last night I was talking to Clint, and he suggested me that I should open a boutique here in the town.$0#$b#I never really thought about it, but it's a sensational idea!$1#$b#I'm sure that everyone would love it, but I have to save some money first.$0",
-            "Thu8": "Clint and I should have a bonfire when we both have the time.$0#$b#We could even dance and meditate!$1",
-            "Fri8": "Sandy looks forward to meeting Clint soon.$0#$e#Wouldn't it be wonderful? They are both my best friends.$0#$e#I believe they'll get along.$0#$e#Also, she has a lot of Omni Geodes that Clint could break open.$1",
-            "Sat8": "Hello, @.$0#$e#Some people can't get along no matter how much they try because their auras don't match.$0#$b#But thanks to Yoba, Clint's and mine blend together the perfect way.$1",
-            "Sun8": "Maybe in the near future I'll stop working as a barmaid to focus on tailoring.$0#$e#But I'll never forget how important was working there for me.$0#$b#After all, that's where I met Clint...$4",
-            "spring_Mon8": "I enjoy working with Gus, but my real dream is to dedicate myself to tailoring.$0#$e#Clint always tells me that I have a natural talent for it.$1#$b#He even told me that I should open a boutique here in the town.$1",
-            "spring_Tue8": "The spiritual journey is individual.$0#$b#But you can always find someone to accompany you on that path.$1",
-            "spring_Fri8": "I don't know when my parents will come back from their trip, but I've wanted them to meet Clint for a while.$0",
-            "summer_Mon8": "Clint is so kind to me.$4#$b#Last week I told him that I needed more cloth for a dress that I've been working on, and yesterday he brought me some!$1",
-            "summer_Wed8": "Clint's spiritual connection with me is the strongest I've ever had with anyone.$4",
-            "summer_Thu8": "Hello, @.$0#$e#Lately I've been trying to meditate with Clint.$0#$b#But it's difficult for him to clear his mind...$2",
-            "fall_Tue8": "Hello, @.$0#$e#Do you ever think about the future?$3#$e#I used to be quite carefree and wait for destiny to make its magic.$0#$b#But now that I have Clint in my life, we should both settle down.$0",
-            "fall_Fri8": "Hello, @.$0#$e#You may not know it, but everyone has his own spiritual energy.$0#$b#And Clint's spiritual energy perfectly complements mine...$4",
-            "fall_Sun8": "Hi, @.$0#$e#Have I told you that Clint likes to make necklaces and earrings for me out of his gems?$0#$b#Well, they were beautiful but some didn't match my style, so now we're working together.$1#$b#I design them and he finishes the work.$1",
-            "winter_Wed8": "Every day with Clint is a blessing from Yoba.$4#$e#Oh, @, how's your day going?$0",
-            "winter_Sat8": "I believe that my destiny is to be with Clint forever.$4#$e#Do you feel the same about anyone?$0",
-            "winter_Sun8": "I love being around Clint, he has so much positive energy to share!$1",
-            "spring_12": "I love the Egg Hunt but I've never participated.$0#$b#Maybe I should join in with Clint.$1",
-            "fall_15": "I'm sure that the tourists will love Clint's display tomorrow at the fair.$1",
-            "winter_7": "Clint and I love the Festival of Ice.$1#$b#By the way, good luck on the fishing competition, @.$0",
-            "winter_26": "It's good that Clint's birthday is just after the Feast of the Winter Star.$0#$b#Happiness comes in pairs!$1#$e#I wonder what should I give him...$0",
-            "spring_12_2": "I love the Egg Hunt but I've never participated.$0#$b#Maybe I should join in with Clint.$1",
-            "fall_15_2": "I'm sure that the tourists will love Clint's display tomorrow at the fair.$1",
-            "winter_7_2": "Clint and I love the Festival of Ice.$1#$b#By the way, good luck on the fishing competition, @.$0",
-            "winter_26_2": "It's good that Clint's birthday is just after the Feast of the Winter Star.$0#$b#Happiness comes in pairs!$1#$e#I wonder what should I give him...$0"
+            "Mon8": "ตอนนี้ คลินท์และฉัน กำลังเดินไปด้วยกัน ในเส้นทางแห่งชีวิต ฉันรู้ว่ามีบางอย่าง ขาดหายไปก่อนหน้านี้$0#$b#ฉันไม่เคยรู้สึกมีความสุข มากขนาดนี้มาก่อนเลย ตลอดทั้งชีวิต$4",
+            "Tue8": "คลินท์กับฉัน ไม่ได้วางแผน ว่าจะมีลูกกันในเร็วๆ นี้หรอก$0#$e#แต่เมื่อถึงวันนั้น เราจะดูแลให้เด็กๆ เติบโตขึ้นไป เป็นคนที่ใจดีและมีน้ำใจ$1#$b#เราเชื่อว่าสิ่งเหล่านี้ เป็นคุณสมบัติที่สำคัญที่สุด ของคนเราน่ะ$1",
+            "Wed8": "สวัสดีจ้ะ @$1#$e#เมื่อคืนฉันคุยกับคลินท์ และเขาแนะนำให้ฉัน เปิดร้านขายเสื้อผ้า ในเมืองนี้$0#$b#ฉันไม่เคยคิดถึงมันเลย แต่เป็นไอเดียที่น่าตื่นเต้นนะ!$1#$b#ฉันแน่ใจว่า ทุกคนจะชอบมัน แต่ฉันต้องเก็บเงินก่อน$0",
+            "Thu8": "คลินท์กับฉัน น่าจะมีกองไฟ เมื่อเราทั้งคู่มีเวลา$0#$b#เราสามารถเต้นรำ และนั่งสมาธิได้!$1",
+            "Fri8": "แซนดี้ ตั้งตารอพบกับคลินท์ ในไม่ช้านี้$0#$e#จะไม่วิเศษไปเลยเหรอ? พวกเขาทั้งคู่ เป็นเพื่อนที่ดีที่สุดของฉัน$0#$e#ฉันเชื่อว่า พวกเขาจะเข้ากันได้ดีเลย$0#$e#นอกจากนี้ เธอยังมี Omni Geodes จำนวนมาก ที่คลินท์จะเปิดออกได้$1",
+            "Sat8": "สวัสดีจ้ะ @$0#$e#บางคนก็เข้ากันไม่ได้ ต่อให้พยายามแค่ไหน เพราะออร่าของพวกเขา ไม่ตรงกันน่ะ$0#$b#แต่ต้องขอบคุณโยบะ ออร่าของคลินท์และฉัน ผสมผสานกันอย่างลงตัว$1",
+            "Sun8": "บางทีนะ ในอนาคตอันใกล้นี้ ฉันจะเลิกทำงาน เป็นพนักงานเสิร์ฟ เพื่อโฟกัสการตัดเย็บเสื้อผ้า$0#$e#แต่ฉันจะไม่มีวันลืม ว่าการทำงานที่นั่น สำคัญกับฉันยังไง$0#$b#เพราะนั่นคือที่ที่ฉัน ได้เจอกับคลินท์...$4",
+            "spring_Mon8": "ฉันสนุกที่ได้ทำงานกับกัสนะ แต่ความฝันจริงๆ ของฉันน่ะ คือทุ่มเทให้กับ การตัดเย็บเสื้อผ้า$0#$e#คลินท์บอกเสมอว่า ฉันมีพรสวรรค์โดยธรรมชาติ สำหรับมัน$1#$b#เขาถึงกับบอกว่า ฉันควรเปิดร้านเสื้อผ้า ในเมืองนี้$1",
+            "spring_Tue8": "การเดินทางของจิตวิญญาณ เป็นเรื่องเฉพาะบุคคลนะ$0#$b#แต่เธอสามารถ หาคนที่จะไปด้วยกันกับเธอ บนเส้นทางนั้นได้เสมอจ้ะ$1",
+            "spring_Fri8": "“ฉันไม่รู้ว่าพ่อกับแม่ จะกลับจากท่องเที่ยวเมื่อไหร่ แต่ฉันอยากให้พวกเขา ได้เจอกับคลินท์ซักหน่อยน่ะ$0",
+            "summer_Mon8": "คลินท์ใจดีกับฉันมากเลยจ้ะ$4#$b#สัปดาห์ก่อน ฉันบอกเขาว่า อยากจะได้ผ้ามาเพิ่ม สำหรับชุดที่ฉันทำอยู่น่ะ แล้วเมื่อวาน เขาก็เอามาให้ฉันบางส่วน!$1",
+            "summer_Wed8": "การเชื่อมต่อทางจิตวิญญาณ ของคลินท์กับฉัน เป็นอะไรที่แข็งแกร่งที่สุด ที่ฉันเคยมีกับใครเลยจ้ะ$4",
+            "summer_Thu8": "สวัสดีจ้ะ @$0#$e#ช่วงนี้ ฉันพยายามนั่งสมาธิกับคลินท์$0#$b#แต่มันยากสำหรับเขา ที่จะทำใจให้ว่างเปล่า...$2",
+            "fall_Tue8": "สวัสดีจ้ะ @$0#$e#เธอเคยคิดถึง เรื่องของอนาคตบ้างไหม?$3#$e#ฉันเคยไร้กังวล และเฝ้ารอให้โชคชะตา สร้างสิ่งมหัศจรรย์$0#$b#แต่ตอนนี้ ฉันมีคลินท์อยู่ในชีวิต เราทั้งคู่ควรจะปักหลักกัน$0",
+            "fall_Fri8": "สวัสดีจ้ะ @$0#$e#เธออาจจะไม่รู้นะ แต่ทุกคนมีพลังจิตของตัวเอง $0#$b#และพลังจิตของคลินท์ ช่วยเติมเต็มของฉันได้ อย่างสมบูรณ์แบบ...$4",
+            "fall_Sun8": "ไงจ๊ะ @$0#$e#ฉันบอกเธอหรือยัง คลินท์ชอบทำสร้อยคอ และต่างหูให้ฉัน จากอัญมณีของเขา?$0#$b#มันสวยดีนะ แต่บางอันก็ไม่เข้ากับสไตล์ฉัน ตอนนี้เราเลยร่วมงานกัน$1#$b#ฉันเป็นคนออกแบบ และเขาก็ทำมันให้สำเร็จน่ะ$1",
+            "winter_Wed8": "ทุกๆ วันกับคลินท์ คือพรจากโยบะ$4#$e#โอ้ @ วันนี้เธอเป็นไงบ้างจ๊ะ?$0",
+            "winter_Sat8": "ฉันเชื่อว่า โชคชะตาของฉัน คือการได้อยู่กับคลินท์ ตลอดไป$4#$e#เธอรู้สึกแบบนี้กับใครบ้างมั้ย?$0",
+            "winter_Sun8": "ฉันชอบอยู่ใกล้คลินท์ เขาให้พลังงานบวกมากมาย!$1",
+            "spring_12": "ฉันชอบการล่าไข่ แต่ฉันไม่เคยเข้าร่วมเลย$0#$b#บางที ฉันน่าจะเข้าร่วมกับคลินท์$1",
+            "fall_15": "ฉันมั่นใจว่านักท่องเที่ยว จะชอบการแสดงของคลินท์ ในงานวันพรุ่งนี้$1",
+            "winter_7": "คลินท์กับฉันน่ะ ชอบเทศกาลสลักน้ำแข็ง$1#$b#ยังไงก็ขอให้โชคดี กับการแข่งขันตกปลานะ @$0",
+            "winter_26": "เป็นเรื่องดีนะ ที่วันเกิดของคลินท์ อยู่หลังจากวันงาน เทศกาลแห่งดวงดาวฤดูหนาว$0#$b#ความสุขนั้นมาเป็นคู่!$1#$e#ฉันสงสัยว่า จะให้อะไรกับเขาดี...$0",
+            "spring_12_2": "ฉันชอบการล่าไข่ แต่ฉันไม่เคยเข้าร่วมเลย$0#$b#บางที ฉันน่าจะเข้าร่วมกับคลินท์$1",
+            "fall_15_2": "ฉันมั่นใจว่านักท่องเที่ยว จะชอบการแสดงของคลินท์ ในงานวันพรุ่งนี้$1",
+            "winter_7_2": "คลินท์กับฉันน่ะ ชอบเทศกาลสลักน้ำแข็ง$1#$b#ยังไงก็ขอให้โชคดี กับการแข่งขันตกปลานะ @$0",
+            "winter_26_2": เป็นเรื่องดีนะ ที่วันเกิดของคลินท์ อยู่หลังจากวันงาน เทศกาลแห่งดวงดาวฤดูหนาว$0#$b#ความสุขนั้นมาเป็นคู่!$1#$e#ฉันสงสัยว่า จะให้อะไรกับเขาดี...$0"
 			}
 },
      //Clint
@@ -122,29 +122,29 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Mon10": "Emily saw a letter I wrote to her a long time ago but never gave her.$0#$b#It was so embarrassing...$2",
-            "Tue10": "When Emily told me she liked me, I thought it was a joke.$2#$e#Thank goodness it wasn't.$1",
-            "Wed10": "Emily comes to visit me often.$1#$b#I think she's afraid I might get lonely.$0",
-            "Thu10": "Hello, @.$0#$e#You should come by and upgrade your tools.$0#$b#I'm trying to save up money to help Emily open her own boutique.$1",
-            "Fri10": "I'm not really close to most people here in town.$0#$b#But, when I met Emily, I knew she was different.$1",
-            "Sat10": "I'm still nervous when I talk to Emily.#$e#Good thing is she told me she finds it adorable.$4",
-            "Sun10": "Emily is so precious to me.$1#$b#I wish I could be with her all the time. She makes me so happy.$1",
-            "spring_Wed10": "Emily is the most important thing to me.$1#$e#She is the one who gives meaning to my life.$4",
-            "spring_Thu10": "I asked Emily to teach me how to dance.$0#$e#I'm not really interested but I would get to spend more time with her.$4",
-            "spring_Sun10": "Hello, @.$0#$e#Today I'm going to watch a movie with Emily.$0#$b#She's really excited, I think the main character is her favorite actress.$1",
-            "summer_Tue10": "I know I can be grumpy sometimes, that's why I'm so lucky that Emily is always understanding with me.$1",
-            "summer_Thu10": "Waking up knowing that Emily is my girlfriend feels like a dream.$4",
-            "summer_Sat10": "Do you think Emily would like some jade earrings, @?$1",
-            "fall_Mon10": "Now that I'm dating Emily, I want to work on myself and be a better person for her.$1",
-            "fall_Fri10": "With Emily I've found what true happiness means.$4#$b#I feel like the sun shines brighter every morning.$1",
-            "fall_Sun10": "One of the reasons why I love Emily is for her kindness.$1",
-            "winter_Wed10": "This has been a great and rewarding year.$0#$e#I think it's all thanks to Emily.$1",
-            "winter_Fri10": "I suggested to Emily that we should go to the Grampleton Carnival again.$1#$b#You know, to recall good times.$1",
-            "winter_Sun10": "You know, I love aquamarines because they remind me of Emily, not because I'm a blacksmith.$4",
-            "spring_23": "Finally I can dance with Emily at the Flower Dance!$1",
-            "spring_27": "It's great that Emily loves jewels and I'm a blacksmith.$0#$b#I made jade and emerald jewelry for her birthday.$1",
-            "spring_23_2": "Finally I can dance with Emily at the Flower Dance!$1",
-            "spring_27_2": "It's great that Emily loves jewels and I'm a blacksmith.$0#$b#I made jade and emerald jewelry for her birthday.$1"
+            "Mon10": "เอมิลี่เห็นจดหมาย ที่ฉันเขียนถึงเธอ เมื่อนานมาแล้ว แต่ไม่เคยส่งให้เธอเลย$0#$b#น่าอายชะมัด...$2",
+            "Tue10": "ตอนเอมิลี่บอกว่าเธอชอบฉัน ฉันคิดว่าเป็นแค่เรื่องล้อเล่น$2#$e#ขอบคุณพระเจ้า ที่มันไม่ใช่น่ะ$1",
+            "Wed10": "เอมิลี่มาเยี่ยมฉันบ่อยๆ$1#$b#ฉันคิดว่า เธอคงกลัวฉันจะเหงาน่ะ$0",
+            "Thu10": "สวัสดี @$0#$e#เธอควรมา และอัพเกรดเครื่องมือนะ$0#$b#ฉันกำลังพยายามเก็บเงิน เพื่อจะช่วยเอมิลี่ เปิดร้านขายเสื้อผ้าน่ะ$1",
+            "Fri10": "ฉันไม่ค่อยสนิทกับคนส่วนใหญ่ ในเมืองนี้$0#$b#แต่ตอนเจอกับเอมิลี่ ฉันรู้ว่าเธอน่ะแตกต่าง$1",
+            "Sat10": "ฉันยังประหม่าอยู่เลย เวลาที่คุยกับเอมิลี่#$e#สิ่งที่ดีคือเธอบอกฉัน เธอพบว่ามันน่ารัก$4",
+            "Sun10": "เอมิลี่มีค่ามากสำหรับฉัน$1#$b#ฉันหวังว่า จะได้อยู่กับเธอตลอดเวลา เธอทำให้ฉันมีความสุขมาก$1",
+            "spring_Wed10": "เอมิลี่ คือสิ่งสำคัญที่สุด สำหรับฉัน$1#$e#เธอคือคนที่มอบความหมาย ให้กับชีวิตของฉัน$4",
+            "spring_Thu10": "ฉันขอให้เอมิลี่ ช่วยสอนวิธีการเต้น$0#$e#ฉันไม่ค่อยสนใจหรอกนะ แต่ฉันจะได้ใช้เวลา กับเธอมากขึ้น$4",
+            "spring_Sun10": "สวัสดี @$0#$e#วันนี้ฉันจะไป ดูหนังกับเอมิลี่$0#$b#เธอตื่นเต้นมากเลย ฉันคิดว่าตัวละครหลัก คือนักแสดงหญิงคนโปรด ของเธอน่ะ$1",
+            "summer_Tue10": "ฉันรู้ว่าบางครั้ง ฉันอาจจะอารมณ์ร้อน นั่นเป็นเหตุผลที่ฉันโชคดีมาก เอมิลี่เข้าใจฉันเสมอเลย$1",
+            "summer_Thu10": "ตื่นมาได้รู้ว่า เอมิลี่เป็นแฟนฉัน รู้สึกเหมือนฝันเลยล่ะ$4",
+            "summer_Sat10": "เธอคิดว่าเอมิลี่ อยากได้ต่างหูหยกมั้ย @?$1",
+            "fall_Mon10": "ตอนนี้ฉันกำลังคบกับเอมิลี่ ฉันอยากทำงานด้วยตัวเอง และเป็นคนที่ดีขึ้นเพื่อเธอ$1",
+            "fall_Fri10": "กับเอมิลี่ ฉันได้ค้นพบว่า ความสุขที่แท้จริงนั้น หมายถึงอะไร$4#$b#ฉันรู้สึกเหมือนดวงอาทิตย์ ส่องแสงสว่างสดใส ทุกเช้าเลยล่ะ$1",
+            "fall_Sun10": "เหตุผลหนึ่งที่ฉันรักเอมิลี่ ก็เพราะความใจดีของเธอ$1",
+            "winter_Wed10": "ปีนี้เป็นปีที่ดีและคุ้มค่า$0#$e#ฉันคิดว่าทั้งหมด ต้องขอบคุณเอมิลี่นะ$1",
+            "winter_Fri10": "ฉันแนะนำเอมิลี่ ว่าเราน่าจะไปงาน แกรมเพิลตันคาร์นิวัลกันอีก$1#$b#เพื่อระลึกถึงช่วงเวลาดีๆ น่ะ$1",
+            "winter_Sun10": "เธอรู้มั้ย ฉันชอบพลอยสีฟ้า (Aquamarines) เพราะทำให้ฉันนึกถึงเอมิลี่ ไม่ใช่เพราะว่าฉัน เป็นช่างตีเหล็ก$4",
+            "spring_23": "ในที่สุด ฉันก็ได้เต้นรำกับเอมิลี่ ที่งานเทศกาลดอกไม้!$1",
+            "spring_27": "มันดีมากที่เอมิลี่ชอบอัญมณี และฉันเป็นช่างตีเหล็ก$0#$b#ฉันทำเครื่องประดับหยก (Jade) และมรกต (Emerald) สำหรับวันเกิดของเธอ$1",
+            "spring_23_2": "ในที่สุด ฉันก็ได้เต้นรำกับเอมิลี่ ที่งานเทศกาลดอกไม้!$1",
+            "spring_27_2": "มันดีมากที่เอมิลี่ชอบอัญมณี และฉันเป็นช่างตีเหล็ก$0#$b#ฉันทำเครื่องประดับหยก (Jade) และมรกต (Emerald) สำหรับวันเกิดของเธอ$1"
 			}
 },    
      //Haley
@@ -156,16 +156,16 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Mon2": "Ugh... I hope Clint doesn't come to our house often.$2#$b#Or at least that he takes a shower before coming.$2",
-            "Mon8": "I never thought I'd miss Emily so much.$2#$b#We live together, but now she's spending a lot of time with Clint.$2#$e#But of course I'm happy for her.$0",
-            "Tue4": "Emily should give Clint a makeover.$0#$b#And he should shave too.$0",
-            "Wed8": "The other day Clint came to our house, and I've never seen Emily happier!$1",
-            "Thu2": "I can't believe Emily is dating Clint.$3#$b#His taste in clothing is horrible!$3",
-            "Thu8": "Hey, @.$0#$e#I was thinking... I shouldn't have judged Clint when he started dating Emily...$2#$b#He makes Emily really happy and I was so rude to him at first...$2",
-            "Fri8": "Clint gave Emily and I matching necklaces.$1#$b#He told us that he made them himself.$1",
-            "Sat2": "Clint's job is kind of gross...$3#$e#I don't know what Emily saw in him.$3",
-            "Sat6": "Clint and Emily see each other almost every day.$0#$e#I don't know if that's good or not.$0",
-            "Sun4": "I told Emily that she should make some clothes for Clint.$7#$b#But she said that she likes him the way he is.$0",
+            "Mon2": "ฮึ... ฉันหวังว่า คลินท์จะไม่มาที่บ้านเราบ่อยๆ$2#$b#หรืออย่างน้อย ก็อาบน้ำก่อนจะมาสิยะ$2",
+            "Mon8": "ฉันไม่เคยคิดว่า จะคิดถึงเอมิลี่มากขนาดนี้$2#$b#เราอยู่ด้วยกัน แต่ตอนนี้ เธอใช้เวลากับคลินท์ เยอะมากเลยน่ะสิ$2#$e#แต่แน่นอนว่า ฉันยินดีกับเธอนะ$0",
+            "Tue4": "เอมิลี่ควรให้คลินท์แปลงโฉม$0#$b#และเขาควรจะโกนหนวดด้วย$0",
+            "Wed8": "วันก่อน คลินท์มาที่บ้านของเรา และฉันไม่เคยเห็นมาก่อนเลย เอมิลี่มีความสุขมากขึ้น!$1",
+            "Thu2": "ฉันไม่อยากจะเชื่อเลย ว่าเอมิลี่กำลังเดทกับคลินท์$3#$b#รสนิยมการแต่งตัวของเขา น่ากลัวมากเลยอ่ะ!$3",
+            "Thu8": "เฮ้ @$0#$e#ฉันกำลังคิดว่า... ฉันไม่ควรตัดสินคลินท์ เมื่อเขาเดทกับเอมิลี่...$2#$b#เขาทำให้เอมิลี่มีความสุขมาก และตอนแรก ฉันหยาบคายกับเขามาก...$2",
+            "Fri8": "คลินท์ให้สร้อยคอที่เข้าคู่กัน กับเอมิลี่และฉัน$1#$b#เขาบอกเราว่า เขาสร้างมันขึ้นมาเองเลยล่ะ$1",
+            "Sat2": "งานของคลินท์ค่อนข้างแย่..$3#$e#ฉันไม่รู้ว่าเอมิลี่ เห็นอะไรในตัวเขากันแน่$3",
+            "Sat6": "คลินท์และเอมิลี่ เจอหน้ากันแทบทุกวัน$0#$e#ฉันไม่รู้ว่า มันดีหรือไม่ดีกันแน่$0",
+            "Sun4": "ฉันบอกเอมิลี่ว่า เธอควรทำเสื้อผ้าให้คลินท์$7#$b#แต่เธอบอกว่า เธอชอบเขาอย่างที่เขาเป็น$0",
 			}
 },
      //Festivals
@@ -176,7 +176,7 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Clint": "Emily looks so beautiful today.$4"
+            "Clint": "วันนี้เอมิลี่ดูสวยจังเลย$4"
 			}
 },
 {
@@ -186,8 +186,8 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Clint": "Emily and I have named this little guy Shanti.$0#$b#He's like our child!$1",
-            "Emily": "@!$1#$e#Come here and meet our little Shanti.$1"
+            "Clint": "ฉันกับเอมิลี่ ตั้งชื่อให้เด็กน้อยคนนี้ว่า Shanti$0#$b#เขาเหมือนลูกของเราเลย!$1",
+            "Emily": "@!$1#$e#มานี่สิ พบกับเด็กน้อยของเรา Shanti$1"
 			}
 },
 {
@@ -197,7 +197,7 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Clint": "This festival always made me gloomy.$2#$b#But now I have Emily.$1"
+            "Clint": "เทศกาลนี้ทำให้ฉันหดหู่ตลอด$2#$b#แต่ตอนนี้ฉันมีเอมิลี่$1"
 			}
 },
 //Schedules | 8 hearts event
