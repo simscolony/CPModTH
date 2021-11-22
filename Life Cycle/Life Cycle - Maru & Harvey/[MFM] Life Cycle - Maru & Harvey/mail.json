@@ -3,8 +3,8 @@
 {
     "Id": "LifeCycle.MaruHarvey", 
     "GroupID": "LifeCycle.Wedding",
-    "Text": " ^ ^      Dear @,^      we invite you to celebrate our marriage^      today, 7th of fall, at 5 in the town^      square.", 
-    "Title": "Maru and Harvey wedding invitation", 
+    "Text": " ^ ^      เรียนคุณ @^      เรามีความยินดี ที่จะเชิญคุณร่วมเป็นสัขขีพยาน ในงานแต่งงานของพวกเรา^      ในวันนี้ วันที่ 7 ของฤดูใบไม้ร่วง เวลา 5 โมงเย็น ณ จัตุรัสกลางเมือง", 
+    "Title": "จดหมายเชิญร่วมงานแต่งงาน ของมารุและฮาร์วีย์", 
     "LetterBG": "MaruHarvey.png",
     "TextColor": 4,
     "Repeatable": false,
