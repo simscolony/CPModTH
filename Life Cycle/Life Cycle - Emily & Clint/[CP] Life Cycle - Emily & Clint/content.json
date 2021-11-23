@@ -197,7 +197,7 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries": {
-            "Clint": "เทศกาลนี้ทำให้ฉันหดหู่ตลอด$2#$b#แต่ตอนนี้ฉันมีเอมิลี่$1"
+            "Clint": "เทศกาลนี้ ทำฉันหดหู่ตลอดเลย$2#$b#แต่ตอนนี้ ฉันมีเอมิลี่แล้ว$1"
 			}
 },
 //Schedules | 8 hearts event
@@ -210,14 +210,14 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries":  {
-            "spring.001": "Clint and I are connecting with nature.$0",
-            "spring.002": "This place has spiritual energy with healing effects.$0#$b#That's why I asked Clint to come here with me.$0",
-            "summer.001": "I talked to Gus and he told me I could go to work a little later.$1",
-            "summer.002": "I should take a day off and spend it with Clint at the beach.$0#$b#The wonders of nature also include the ocean.$1",
-            "fall.001": "Let's walk to the saloon together later, Clint.$1",
-            "fall.002": "This time of the year is perfect for camping.$0#$b#Right, Clint?$1",
-            "winter.001": "Clint can be jealous sometimes, I should talk about it with him...$3",
-            "winter.002": "Oh, hello, @...$4"
+            "spring.001": "คลินท์กับฉัน เชื่อมต่อกันโดยธรรมชาติ$0",
+            "spring.002": "สถานที่แห่งนี้ มีพลังแห่งจิตวิญญาณ พร้อมผลการรักษา$0#$b#นั่นเป็นเหตุผล ที่ฉันชวนคลินท์มากับฉัน$0",
+            "summer.001": "ฉันคุยกับกัสแล้ว เขาบอกว่า ฉันไปทำงานได้นิดหน่อย หลังจากนี้น่ะ$1",
+            "summer.002": ฉันน่าจะหยุดสักวัน และใช้เวลากับคลินท์ ที่ชายหาดนะ$0#$b#ความอัศจรรย์ของธรรมชาติ นั้นยังรวมถึงมหาสมุทรด้วย$1",
+            "fall.001": "ค่อยเดินไปซาลูนด้วยกัน ทีหลังนะคลินท์$1",
+            "fall.002": "ช่วงเวลานี้ของปีน่ะ เหมาะกับการตั้งแคมป์$0#$b#ใช่ไหมจ๊ะ คลินท์?$1",
+            "winter.001": "คลินท์อาจจะหึงในบางครั้ง ฉันควรคุยกับเขา ให้รู้เรื่อง...$3",
+            "winter.002": "โอ้ สวัสดีจ้ะ @...$4"
             },
 },
 {
@@ -247,14 +247,14 @@
 	"HasSeenEvent": "59020012"
 		},
 "Entries":  {
-            "spring.001": "Most days I'd rather not be outside.$0#$b#But you know, Emily loves nature.$1",
-            "spring.002": "Emily likes the nature.$0#$b#I didn't spend much time outside before... but now I do.$0",
-            "summer.001": "Hello, @.$1#$b#I'm sorry if you wanted me to break some geodes.$0#$b#I'm taking the day off to be with Emily.$0",
-            "summer.002": "I don't really like to come the beach, but Emily insisted.$0",
-            "fall.001": "Emily's eyes are so beautiful...$4",
-            "fall.002": "We should go camping sometime soon.$1#$b#And we could even have a bonfire.$1",
-            "winter.001": "What are you doing here, @?$3#$b#This is Emily's room.$3",
-            "winter.002": "Oh, @.$0#$b#If you need anything, could you come by tomorrow?$4"
+            "spring.001": "ส่วนใหญ่ ฉันไม่อยากอยู่ข้างนอก$0#$b#แต่เธอก็รู้ เอมิลี่น่ะ รักธรรมชาติ$1",
+            "spring.002": "เอมิลี่น่ะ ชอบธรรมชาติ$0#$b#ก่อนหน้านี้ ฉันไม่ค่อยออกไปไหน... แต่ตอนนี้ฉันไปแล้ว$0",
+            "summer.001": "สวัสดี @$1#$b#ขอโทษทีนะ ถ้าเธออยากให้ฉัน ทำลายผลึกโพรง (Geodes)$0#$b#ฉันลาหยุด เพื่ออยู่กับเอมิลี่น่ะ$0",
+            "summer.002": "ฉันไม่ค่อยชอบมาที่ชายหาด แต่เอมิลี่เรียกร้องน่ะ$0",
+            "fall.001": "ดวงตาของเอมิลี่ มันสวยมากเลย...$4",
+            "fall.002": "เราควรไปตั้งแคมป์กันเร็วๆ นี้$1#$b#และเรายังมีกองไฟด้วยนะ$1",
+            "winter.001": "เธอมาทำอะไรที่นี่ @?$3#$b#นี่มันห้องของเอมิลี่นะ$3",
+            "winter.002": "โอ้ @$0#$b#ถ้าเธอต้องการอะไร มาใหม่พรุ่งนี้ได้ไหม?$4"
             },
 },
 {
@@ -281,7 +281,7 @@
 "Action": "EditData",
 "Target": "Data/Events/HaleyHouse",
 "Entries": {
-            "59020011/e 59020010/f Emily 1750/f Clint 1750/o Emily/t 1900 2000": "nightTime/-1000 -1000/Clint -100 -100 0 Emily 20 4 3 farmer 1000 1000 0/skippable/showFrame Emily 33/specificTemporarySprite EmilySleeping/viewport 19 4 true/pause 3000/emote Emily 24/pause 2000/emote Emily 24/pause 1500/viewport move 0 -1 3900/pause 900/globalFade .004/viewport -1000 -1000/playMusic EmilyDream/changeToTemporaryMap EmilyDreamscape false/viewport -1000 -1000/pause 1000/warp Emily 21 11/warp Clint 22 15/animate Emily false true 500 24 25/globalFadeToClear .005 true/viewport move 0 -1 7000/viewport 21 18/pause 5000/speak Emily \"Muuui-wah...$7\"/pause 3000/speak Emily \"Muuui-wah...$7\"/pause 5000/playSound yoba/move Clint -2 0 0/pause 1000/stopAnimation Emily/pause 500/showFrame Emily 26/jump Emily/shake Emily 850/pause 900/showFrame Emily 0/pause 800/move Emily -1 0 2/move Emily 0 1 2/pause 800/emote Emily 8/pause 500/speak Emily \"Clint?$6#$b#Why are you here?$4\"/pause 1000/move Emily 0 2 2/viewport move 0 1 2500/move Emily -1 0 2/move Emily 0 1 1/pause 600/faceDirection Clint 3/pause 1000/emote Emily 40/pause 1200/speak Emily \"Didn't something similar happen with @?$3\"/pause 1000/faceDirection Emily 3/pause 800/speak Emily \"Was I wrong...?$3\"/pause 1000/faceDirection Emily 1/pause 800/speak Emily \"Clint...$4\"/pause 700/speak Emily \"Muuui-wah...$7\"/pause 1000/speak Emily \"Winds of destiny blow when we least expect them...$3\"/pause 1200/playSound coin/warp Clint -1000 -1000/pause 500/emote Emily 16/pause 350/faceDirection Emily 2/pause 120/faceDirection Emily 3/pause 120/faceDirection Emily 0/pause 250/faceDirection Emily 1/pause 700/viewport move 0 1 3800/pause 900/globalFade .005/viewport -2000 -2000/pause 2000/changeLocation HaleyHouse/warp Emily 20 4/globalFadeToClear .005 true/viewport 19 4/pause 2800/move Emily -4 0 2/move Emily 0 1 2/pause 2000/speak Emily \"The winds of destiny cannot be denied...$3\"/pause 2000/end dialogue Emily \"Some things are destined to be...$4\""
+            "59020011/e 59020010/f Emily 1750/f Clint 1750/o Emily/t 1900 2000": "nightTime/-1000 -1000/Clint -100 -100 0 Emily 20 4 3 farmer 1000 1000 0/skippable/showFrame Emily 33/specificTemporarySprite EmilySleeping/viewport 19 4 true/pause 3000/emote Emily 24/pause 2000/emote Emily 24/pause 1500/viewport move 0 -1 3900/pause 900/globalFade .004/viewport -1000 -1000/playMusic EmilyDream/changeToTemporaryMap EmilyDreamscape false/viewport -1000 -1000/pause 1000/warp Emily 21 11/warp Clint 22 15/animate Emily false true 500 24 25/globalFadeToClear .005 true/viewport move 0 -1 7000/viewport 21 18/pause 5000/speak Emily \"Muuui-wah...$7\"/pause 3000/speak Emily \"Muuui-wah...$7\"/pause 5000/playSound yoba/move Clint -2 0 0/pause 1000/stopAnimation Emily/pause 500/showFrame Emily 26/jump Emily/shake Emily 850/pause 900/showFrame Emily 0/pause 800/move Emily -1 0 2/move Emily 0 1 2/pause 800/emote Emily 8/pause 500/speak Emily \"คลินท์?$6#$b#ทำไมคุณถึงอยู่ที่นี่?$4\"/pause 1000/move Emily 0 2 2/viewport move 0 1 2500/move Emily -1 0 2/move Emily 0 1 1/pause 600/faceDirection Clint 3/pause 1000/emote Emily 40/pause 1200/speak Emily \"Didn't something similar happen with @?$3\"/pause 1000/faceDirection Emily 3/pause 800/speak Emily \"Was I wrong...?$3\"/pause 1000/faceDirection Emily 1/pause 800/speak Emily \"Clint...$4\"/pause 700/speak Emily \"Muuui-wah...$7\"/pause 1000/speak Emily \"Winds of destiny blow when we least expect them...$3\"/pause 1200/playSound coin/warp Clint -1000 -1000/pause 500/emote Emily 16/pause 350/faceDirection Emily 2/pause 120/faceDirection Emily 3/pause 120/faceDirection Emily 0/pause 250/faceDirection Emily 1/pause 700/viewport move 0 1 3800/pause 900/globalFade .005/viewport -2000 -2000/pause 2000/changeLocation HaleyHouse/warp Emily 20 4/globalFadeToClear .005 true/viewport 19 4/pause 2800/move Emily -4 0 2/move Emily 0 1 2/pause 2000/speak Emily \"The winds of destiny cannot be denied...$3\"/pause 2000/end dialogue Emily \"Some things are destined to be...$4\""
             },
 },
      //Secret Woods | 8 hearts
