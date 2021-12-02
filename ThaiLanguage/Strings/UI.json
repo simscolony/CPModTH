@@ -18,7 +18,7 @@
     "content": {
         "LearnedRecipe_cooking": "อาหาร",
         "LearnedRecipe_crafting": "คราฟ",
-        "LearnedRecipe": "คุณได้เรียนสูตร {0} ชนิดใหม่: {1}",
+        "LearnedRecipe": "คุณได้เรียนสูตร{0}ชนิดใหม่: {1}",
         "FarmerFile_1": "บันทึก: {0}\nก้าวทั้งหมด: {1}\nของขวัญที่ให้: {2}\nวันในสตาร์ดิวแวลลี่: {3}\nดินที่ขุด: {4}\nไอเท็มที่ประดิษฐ์: {5}\nอาหารที่ทำ: {6}\nขยะที่รีไซเคิล: {7}",
         "FarmerFile_2": "มอนสเตอร์ที่ฆ่า: {0}\nปลาที่จับได้: {1}\nเบ็ดที่เหวี่ยง: {2}\nเมล็ดที่หว่าน: {3}\nของที่ขาย: {4} ",
         "NotEnoughMoney1": "คุณมีเงินไม่พอ",
@@ -497,7 +497,7 @@
         "Profile_Gift_Neutral": "ของที่เฉยๆ",
         "Profile_Gift_Disliked": "ของที่ไม่ชอบ",
         "Profile_Gift_Hated": "ของที่เกลียด",
-        "Profile_Gift_Category_LikedGifts": "ของโปรดของ {0}",
+        "Profile_Gift_Category_LikedGifts": "ของโปรดของ{0}",
         "Profile_Gift_Category_FruitsAndVegetables": "ผักและผลไม้",
         "Profile_Gift_Category_AnimalProduce": "ผลิตภัณฑ์จากสัตว์",
         "Profile_Gift_Category_ArtisanItems": "ของแปรรูป",
@@ -818,7 +818,6 @@
         "ParrotPlatform_Question": "ต้องการใช้เส้นทางด่วนสายนกแก้วหรือไม่?",
         "PlayerLimit": "จำกัดจำนวนผู้เล่น",
         "DisplayAdjustmentText": "กด ขึ้น/ลง เพื่อปรับขนาดหน้าจอ ให้พอดีกับหน้าจอของคุณ",
-        /* Mobile */
         "About_Credit_Mobile": "\n= สร้างโดย ConcernedApe\n< เผยแพร่โดย Chucklefish\n= พอร์ทโดย Sickhead Games\n< กระจายท้องที่ โดย Playism & LocalizeDirect\n= เวอร์ชันมือถือ โดย The Secret Police\n      ",
         "mobile_options_vertical_toolbar": "แถบเครื่องมือแนวตั้ง",
         "mobile_options_menu_side_margin": "เลื่อนในเมนู",

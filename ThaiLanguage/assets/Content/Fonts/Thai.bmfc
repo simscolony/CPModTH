@@ -1,0 +1,67 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=BoonJot
+fontFile=
+charSet=222
+fontSize=48
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=1
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=1
+useHinting=1
+renderFromOutline=0
+useClearType=1
+autoFitNumPages=0
+autoFitFontSizeMin=0
+autoFitFontSizeMax=0
+
+# character alignment
+paddingDown=0
+paddingUp=0
+paddingRight=0
+paddingLeft=0
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+widthPaddingFactor=0.00
+
+# output file
+outWidth=512
+outHeight=512
+outBitDepth=32
+fontDescFormat=1
+fourChnlPacked=0
+textureFormat=png
+textureCompression=0
+alphaChnl=0
+redChnl=4
+greenChnl=4
+blueChnl=4
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=0
+
+# selected chars
+chars=32-126,160-299,302-305,308-329,332-333,336-357,360-382,399,402,416-417,431-432,461-476,486-487,490
+chars=491,536-539,567,593,601,609,699-700,702-703,710-716,728-733,768-783,785-788,795,803-804,806-809
+chars=814,817,849,855-856,960,3585-3642,3647-3675,7692-7695,7712-7713,7716-7717,7722-7723,7734-7739,7746
+chars=7747-7753,7770-7779,7788-7791,7808-7813,7822-7823,7826-7827,7831,7838,7840-7929,8199,8201-8208,8210
+chars=8211-8213,8216-8218,8220-8222,8224-8226,8230,8240,8242-8243,8249-8250,8260,8288,8304,8308-8313,8317
+chars=8318-8329,8333-8334,8353,8356,8358-8359,8363-8364,8369-8370,8373,8377-8378,8381,8467,8471,8480,8482
+chars=8486,8494,8531-8532,8539-8542,8592-8595,8706,8710,8719,8721-8722,8725,8729-8730,8734,8747,8776,8800
+chars=8804-8805,9632,9650-9651,9654-9655,9660-9661,9664-9665,9670,9674,9676,63616-63618,63642,63646,64257
+chars=64258
+
+# imported icon images
