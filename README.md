@@ -16,7 +16,7 @@ Stardew Valley Expanded           | [✓](SVE/Stardew%20Valley%20Expanded/)     
 Grandpa's Farm (SVE)              | [✓](SVE/Grandpa's%20Farm/)                                     |
 Immersive Farm 2 Remastered (SVE) | [✓](SVE/Immersive%20Farm%202%20Remastered/)                    |
 Life Cycle                        | ❑                                                              |
-Looking for Love                  | [✓](Looking%20for%20Love/)                                     | [↻ รอ Merge](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
+Looking for Love                  | [✓](Looking%20for%20Love/)                                     |
 Ridgeside Village                 | [↻ แปลบางส่วน](Ridgeside%20Village/)                            |
 Raised Garden Beds                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       |
 Platonic Partners and Friendships | [↻ แปลบางส่วน]([CP]%20Platonic%20Partners%20and%20Friendships/) |
