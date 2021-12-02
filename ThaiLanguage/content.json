@@ -47,13 +47,6 @@
             "Target": "Fonts/Thai_0, Fonts/Thai_1",
             "FromFile": "assets/Content/{{Target}}.png"
         },
-        {
-            "Action": "EditData",
-            "Target": "Strings/StringsFromCSFiles",
-            "Entries": {
-                "Farmer.cs.1918": "คุณได้รับเมล็ดหัวผักกาด 15 เมล็ด!^^'นี่เป็นของขวัญเล็กๆ น้อยๆ เพื่อการเริ่มต้นของคุณ^-นายกเทศมนตรีเลวิส'"
-            }
-        },
 
         // Fonts
         {
