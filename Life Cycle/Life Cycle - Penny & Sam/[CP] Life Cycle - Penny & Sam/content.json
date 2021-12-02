@@ -517,7 +517,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Maru",
 "Entries": {
-            "PennySamWedding": "It was wonderful to accompany Penny at her wedding.$0#$b#She even cried with joy before the ceremony started!$0"
+            "PennySamWedding": "เยี่ยมไปเลยที่ได้เป็น เพื่อนเจ้าสาวเพนนี ในงานแต่งของเธอ$0#$b#ก่อนพิธีเริ่ม เธอร้องไห้อย่างตื้นตันด้วยซ้ำ!$0"
            }
 },
     //Jas
@@ -525,7 +525,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Jas",
 "Entries": {
-            "PennySamWedding": "Miss Penny looked so beautiful at the wedding.$0#$b#I want to wear a wedding dress sometime too!$1"
+            "PennySamWedding": "ครูเพนนีสวยมากเลย ในงานแต่ง$0#$b#สักวันหนูก็อยากใส่ ชุดแต่งงานเหมือนกัน!$1"
            }
 },
     //Caroline
@@ -533,7 +533,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Caroline",
 "Entries": {
-            "PennySamWedding": "Jodi was so excited for the wedding of Penny and Sam.$0#$b#She couldn't stop talking about it!$1"
+            "PennySamWedding": "โจดี้ตื่นเต้นกับงานแต่ง ของเพนนีกับแซมมาก$0#$b#เธอพูดถึงไม่หยุดเลย!$1"
            }
 },
     //Haley
@@ -541,7 +541,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Haley",
 "Entries": {
-            "PennySamWedding": "I don't really know Penny, but her wedding dress was pretty.$0#$b#It really suited her.$0"
+            "PennySamWedding": "ฉันไม่สนิทกับเพนนีหรอกนะ แต่ชุดแต่งงานเธอเริ่ดดี$0#$b#เหมาะกับเธอมากเลย$0"
            }
 },
     //Emily
@@ -549,7 +549,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Emily",
 "Entries": {
-            "PennySamWedding": "Penny actually asked me for help to choose her wedding dress.$0#$b#I also made some alterations, the dress looked wonderful on her!$1"
+            "PennySamWedding": "จริงๆ แล้วเพนนีมาขอให้ฉัน ช่วยเลือกชุดด้วยล่ะ$0#$b#ฉันแก้ไปบางจุดด้วย พอเธอใส่แล้วดูงามยอดเลย!$1"
            }
 },
     //Gus
@@ -557,7 +557,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Gus",
 "Entries": {
-            "PennySamWedding": "Pam stopped coming so often to the saloon when Penny started planning her wedding.$0#$b#She might not be the perfect mother, but she really cares for Penny.$0"
+            "PennySamWedding": "พอเพนนีวางแผนแต่งงาน แพมก็ไม่ได้มาซาลูนบ่อยๆ แล้ว$0#$b#เธออาจจะไม่ใช่ แม่ที่สมบูรณ์แบบ แต่เธอรักเพนนีจริงๆ นะ$0"
            }
 },
     //Evelyn
@@ -565,7 +565,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Evelyn",
 "Entries": {
-            "PennySamWedding": "Hello, dear.$0#$e#Marriage isn't always easy, Penny and Sam will have to overcome many difficulties together.$0#$b#May they become greater people together.$1"
+            "PennySamWedding": "สวัสดีจ้ะ เด็กน้อย$0#$e#การแต่งงานน่ะ ไม่ง่ายเสมอไปหรอกนะ เพนนีกับแซมจะต้อง ฝ่าฟันไปด้วยกันอีกหลายอย่าง$0#$b#ขอให้พวกเขา จงได้เติบโตไปด้วยกันนะ$1"
            }
 },
     //Robin
@@ -573,7 +573,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Robin",
 "Entries": {
-            "PennySamWedding": "I talked to Penny and Sam after the wedding.$0#$b#They said they'd like to move in together soon.$0#$b#I'll gladly help them build their dream house.$1"
+            "PennySamWedding": "ฉันไปคุยกับเพนนีกับแซม หลังจากงานแต่ง$0#$b#พวกเขาบอกว่าอยากจะ ย้ายมาอยู่ด้วยกันเร็วๆ นี้$0#$b#ฉันจะช่วยพวกเขาสร้าง บ้านในฝันด้วยความยินดีเลย$1"
            }
 },
     //Marnie
@@ -581,7 +581,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Marnie",
 "Entries": {
-            "PennySamWedding": "I love weddings, they're so romantic.$0#$b#I hope Penny and Sam can live a long happy life together.$1"
+            "PennySamWedding": "ฉันรักงานแต่งงาน เพราะมันโรแมนติคมากเลย$0#$b#หวังว่าเพนนีกับแซม จะได้ใช้ชีวิตอยู่ด้วยกัน อย่างมีความสัขไปนานๆ นะ$1"
            }
 },
     //Elliott
@@ -589,7 +589,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Elliott",
 "Entries": {
-            "PennySamWedding": "Ah... weddings...$0#$e#They remind me of this poem...$0#$e#'May you take on the world together with all your hopes and dreams$0#$b#May you be each other's sun and moon as your destinies unfold$0#$b#And should you lose sight of each other and start to drift apart$0#$b#May you circle back by following the compass of your hearts'$0"
+            "PennySamWedding": "อ้า... งานแต่งงาน...$0#$e#ทำให้ผมนึกถึง กลอนบทหนึ่ง...$0#$e#'ขอเจ้าจง เคียงคู่กัน เผชิญโลก   เติมผ้าโพก หอบหิ้ว หวังและฝัน$0#$b#ขอเจ้าเป็น ดุจจันทรา สุริยัน    แห่งกันและกัน ยามชะตา ปรากฏหงาย$0#$b#และจำไว้ หากคราใด แลไม่พบ    ไม่บรรจบ กันและกัน เหินห่างหาย$0#$b#ขอเจ้าจง หาหนทาง ขยันพาย    วนเวียนว่าย ตามดวงใจ ชี้นำเทอญ'$0"
            }
 },
     //Harvey
