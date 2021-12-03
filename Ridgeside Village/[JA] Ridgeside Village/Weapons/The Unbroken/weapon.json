@@ -1,6 +1,6 @@
 {
 	"Name": "The Unbroken",
-	"Description": "An ancient blade named after the legends that surround it. The blade is said to have been wielded by thousands of different users, never failing to serve them. Made of a strange, unbreakable material rumored to be related to the ancient dwarves.",
+	"Description": "(ดาบคงกระพัน) ดาบโบราณ ที่ถูกตั้งชื่อตามตำนาน เล่าขานของมัน ว่าเป็นดาบที่ถูกใช้ โดยผู้ถือครองมากว่า 1000 คน และมันไม่เคยบกพร่องในหน้าที่ ทำมาจากวัสดุแปลกๆ ที่ไม่มีวันแตกหักได้ ลือกันว่า น่าจะมีความเกี่ยวข้อง กับชนเผ่าคนแคระโบราณด้วย",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 100,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
