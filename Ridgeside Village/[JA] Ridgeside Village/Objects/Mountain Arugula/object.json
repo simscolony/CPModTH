@@ -1,6 +1,6 @@
 {
   "Name": "Mountain Arugula",
-  "Description": "A cool-weather crop found in mountain ridges. According to the locals, it gives a temporary boost in luck.",
+  "Description": "(อารูกูล่าภูเขา) ผักเมืองหนาวที่พบได้ที่สันเขา ชาวบ้านบอกว่า มันสามารถเพิ่มโชคได้ชั่วคราว",
   "Category": "Vegetable",
   "Edibility": 15,
   "EdibleBuffs": {
@@ -26,7 +26,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -42,7 +42,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
