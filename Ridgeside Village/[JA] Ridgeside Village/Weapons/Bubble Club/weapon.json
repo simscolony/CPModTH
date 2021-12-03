@@ -1,6 +1,6 @@
 {
 	"Name": "Bubble Club",
-	"Description": "A heavy-hitting club that somehow produces bubbles when swung.",
+	"Description": "(ตะบองฟอง) กระบองที่ฟาดได้อย่างรุนแรง บางทีจะมีฟองเกิดขึ้น เมื่อเหวี่ยงมัน",
 	"Type": "club",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 40,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
