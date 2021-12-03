@@ -1,6 +1,6 @@
 {
 	"Name": "Fried Fish a la Ridge",
-	"Description": "A Pika special! The rich umami flavor is paired with crispy and salty breading.",
+	"Description": "(ปลาทอด อะ ลา ริดจ์) สูตรเด็ดของปิก้า! รสอูมามิเข้มข้น จับคู่มากับ ขนมปังกรอบรสเค็ม",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -52,7 +52,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -68,7 +68,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
