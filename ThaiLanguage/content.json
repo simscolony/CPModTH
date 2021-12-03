@@ -130,7 +130,7 @@
         // Data
         {
             "Action": "Load",
-            "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/PaintData, Data/Quests, Data/SecretNotes, Data/weapons",
+            "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/CookingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/PaintData, Data/Quests, Data/SecretNotes, Data/weapons",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
