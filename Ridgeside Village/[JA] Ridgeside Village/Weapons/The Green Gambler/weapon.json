@@ -1,6 +1,6 @@
 {
 	"Name": "The Green Gambler",
-	"Description": "A curved dagger that is named for its mysterious properties. It is able to deal either high amounts of damage, or no damage at all.",
+	"Description": "(นักพนันสีเขียว) กริชโค้งที่ได้ชื่อ มาจากความสามารถลึกลับ ที่ต้องพนันเอาว่า จะสร้างความเสียหายได้มาก หรือ ไม่สร้างความเสียหายเลย แม้แต่นิดเดียว",
 	"Type": "dagger",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 1,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 1,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
