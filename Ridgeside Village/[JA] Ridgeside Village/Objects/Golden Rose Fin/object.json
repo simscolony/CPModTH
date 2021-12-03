@@ -1,6 +1,6 @@
 {
 	"Name": "Golden Rose Fin",
-	"Description": "A small fish with wide, yet thin fins. As it swims, the movement of these unique fins lend an appearance of dancing as it twirls and moves across the water.",
+	"Description": "(ครีบกุหลาบสีทอง) เจ้าปลาตัวน้อย ที่มีครีบใหญ่แต่บาง ขณะที่มันว่ายน้ำ การเคลื่อนไหวของครีบที่ใหญ่ และยาวของมัน ทำให้ดูเหมือนว่า มันกำลังเต้นรำ หมุนตัว และเคลื่อนที่ไปพร้อมกัน",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
