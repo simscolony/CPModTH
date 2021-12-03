@@ -1,6 +1,6 @@
 {
 	"Name": "Bladebane",
-	"Description": "A huge waraxe with a pale ribbon wrapped around the middle. It appears to have been left unused for a long time.",
+	"Description": "(คมหายนะ) ขวานศึกขนาดใหญ่ ที่มีริบบิ้นสีซีด ผูกอยู่ตรงกลาง มันดูเหมือนจะ ไม่ได้ถูกใช้งานมานาน",
 	"Type": "club",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 120,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
