@@ -1,6 +1,6 @@
 {
   "Name": "Autumn Dew Drop Juice",
-  "Description": "The flavor of the mountains, contained in a single drink!",
+  "Description": "(หยดน้ำค้างในฤดูใบไม้ร่วง) น้ำผลไม้ที่ทำให้คุณลิ้มรสำ ไปกับรสชาดแห่งภูเขา ได้ในหนึ่งแก้ว!",
   "Category": "Cooking",
   "Price": 200,
   "Edibility": 51,
@@ -45,7 +45,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -61,7 +61,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
