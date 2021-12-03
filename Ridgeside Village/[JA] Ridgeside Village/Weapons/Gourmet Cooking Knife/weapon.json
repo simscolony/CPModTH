@@ -1,6 +1,6 @@
 {
 	"Name": "Gourmet Cooking Knife",
-	"Description": "A sharp knife used for fancy, quality dishes! Doubles as a deadly weapon when not used for cooking.",
+	"Description": "(มีดทำครัวหัวป่าก์) มีดที่คมมาก สำหรับการทำอาหารรสเลิศ สารพัดเมนู! แต่ถ้าไม่ได้ใช้ทำอาหารละก็ สามารถทำให้ถึงตายได้ มากกว่าเดิม 2 เท่า",
 	"Type": "dagger",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 60,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 3,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
