@@ -1,6 +1,6 @@
 {
 	"Name": "The Wild Whip",
-	"Description": "A spiked whip infamous for the skill required to wield it. The whip itself is made of an elastic material forged with bits of iridium.",
+	"Description": "(แส้พิโรธ) แส้ขึ้นชื่อที่มีหนามแหลม ต้องใช้ความชำนาญในการควง ตัวแส้ทำมาจากวัสดุยืดหยุ่น ที่หลอมด้วยอิริเดียมเล็กน้อย",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 100,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 1,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
