@@ -1,6 +1,6 @@
 {
 	"Name": "Pebble Back Crab",
-	"Description": "The pebbles adorning its back are collected by the fish while young, serving as defense and camouflage. Some accidentally collect gemstones, and thus are overhunted by humans.",
+	"Description": "(ปูก้อนกรวด) ก้อนกรวดที่อยู่ บนกระดองของมัน เป็นก้อนกรวดจริงๆ ที่มันเก็บไว้ก่อนโตเต็มวัย เพื่อใช้เป็นสิ่งป้องกัน และอำพรางตัว บางตัวดันไปเก็บอัญมณีมา ก็เลยเป็นเหตุให้ ถูกล่ามากเกินไป",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -14,7 +14,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
