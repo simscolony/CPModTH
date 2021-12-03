@@ -1,6 +1,6 @@
 {
 	"Name": "Battle Dancer's Fan",
-	"Description": "A fan of sharp golden blades. Legend has it that this weapon was used by the alluring but deadly battle dancers of the past.",
+	"Description": "(พัดระบำศึก) พัดที่ใบมีดสีทองคมกริบ ตำนานเล่าว่าอาวุธนี้ ถูกใช้โดยนางรำทรงเสน่ห์ แต่โหดเหี้ยม เมื่อในอดีต",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 90,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
