@@ -30,26 +30,26 @@
 			"Action": "EditData",
 			"Target": "Characters/Dialogue/Clint",
 			"Entries": {
-				"give_flowersA": "Flowers...for me...$9#$b#I had no idea you felt that way... I accept!$4#$b#...I guess this means I'm your boyfriend...$h",
-				"give_flowersB": "Really? Even after how I ignored you in favor of Emily?$9#$b#Absolutely. I never would have thought...$4#$b#I'm so happy to be your boyfriend.$h",
-				"give_pendant": "...! I...are you serious? Yes!$11#$b#This is too good to be true... I'm not sure I didn't accidentally give myself a concussion with my tools, but...$6#$b#I'm so happy. I'll talk to the mayor. Everything should be ready in three days.",
-				"stardrop_gift": "@, my gem, you have always been so good to me.$4#$b#I thought that this stardrop would be a wonderful way to show my affection and gratitude.$1#$b#Thank you so much, my jewel of a husband.$4^Thank you so much, my jewel of a wife.$4",
-				"rejectNPCA": "...$9#$e#%Clint is frozen... I don't think he knows what to do....",
-				"rejectNPCB": "...$9#$e#%Clint is frozen... I don't think he knows what to do....",
-				"reject_two_heartA": "I just upgrade the tools, @.$8",
-				"reject_two_heartB": "That's... nice. But... no.$8",
-				"reject_four_heartA": "I'm sorry... I like someone else.$4",
-				"reject_four_heartB": "Oh... I mean.. well...$8#$b#I think we should just be friends.$2",
-				"engageA": "Aren't you getting married?$2",
-				"engageB": "What?$4",
-				"marriedA": "Aren't you married to %spouse?",
-				"marriedB": "I'm sure %spouse is at home being faithful to you.  You should do the same.$3",
-				"refusal_knownA": "%Clint looks terrified.",
-				"refusal_knownB": "I'm sorry, no.$8",
-				"refusal_botherA": "%Clint looks annoyed.",
-				"refusal_botherB": "Stop it. I've made myself clear.$3",
-				"refusal_no_heartsA": "Duuhhhhhhhh$9#$b#%Clint cannot even say yes or no...",
-				"refusal_no_heartsB": "Duuhhhhhhhh$9#$b#%Clint cannot even say yes or no...",
+				"give_flowersA": "ดอกไม้...ของฉัน...$9#$b#ฉันไม่รู้เลยว่า เธอก็รู้สึกเหมือนกัน... ฉันตกลง!$4#$b#...ถ้าให้ฉันคิด นี่ก็หมายความว่า ฉันเป็นแฟนของเธอ...$h",
+				"give_flowersB": "จริงหรอ? ทั้งที่หลังจากนั้น ฉันก็หลีกทางให้เธอ เพื่อเอมิลี่?$9#$b#ฉันไม่เคยคิดเลยว่า...$4#$b#ฉันมีความสุขมาก ที่ได้เป็นแฟนของเธอ$h",
+				"give_pendant": "...! ฉัน...นี่เธอจริงจังหรอเนี่ย? ตกลง!$11#$b#นี่มันดีจน แทบจะไม่เชื่อเป็นเรื่องจริง... ฉันไม่เผลอทำเครื่องมือ กระทกใส่ตัวเองใช่มั้ยเนี่ย แต่ว่า...$6#$b#ฉันมีความสุขจัง ฉันจะไปคุยกับท่านเทศมนตรีเอง ทุกอย่างจะพร้อมในอีก 3 วัน",
+				"stardrop_gift": "@ อัญมณีของผม คุณช่างดีกับผมเหลือเกิน$4#$b#ผมหวังว่า สตาร์ดรอป นี้ จะเป็นวิธีที่ยอดเยี่ยมที่สุด ที่ผมจะได้แสดงถึง ความรักและซาบซึ้งของผม$1#$b#ขอบคุณมากนะ แก้วตาของผม$4^ขอบคุณมากนะ แก้วตาของผม$4",
+				"rejectNPCA": "...$9#$e#%คลินท์ตัวแข็งทื่อ... ฉันคิดว่าเขาคงไม่รู้ ว่าจะทำยังไงดี....",
+				"rejectNPCB": "...$9#$e#%คลินท์ตัวแข็งทื่อ... ฉันคิดว่าเขาคงไม่รู้ ว่าจะทำยังไงดี....",
+				"reject_two_heartA": "ฉันแค่อยากจะ อัพเกรดอุปกรณ์น่ะ @$8",
+				"reject_two_heartB": "นั่น... ก็ดี แต่ ... ไม่ล่ะ$8",
+				"reject_four_heartA": "ขอโทษที... ฉันมีคนที่ชอบแล้ว$4",
+				"reject_four_heartB": "โอ้... ฉันหมายถึง.. เอ่อ...$8#$b#ฉันคิดว่า เราควรเป็นแค่เพื่อนกัน$2",
+				"engageA": "เธอไม่ได้แต่งงานแล้วหรอ?$2",
+				"engageB": "อะไรนะ?$4",
+				"marriedA": "เธอแต่งงานกับ %spouse แล้วนี่?",
+				"marriedB": "ฉันมั่นใจว่า %spouse อยู่ที่บ้าน และเชื่อมั่นในตัวคุณ คุณก็ควรจะทำแบบนั้นนะ$3",
+				"refusal_knownA": "%คลินท์ดูหวาดกลัว",
+				"refusal_knownB": "ขอโทษ ไม่ล่ะ$8",
+				"refusal_botherA": "%คลินท์ดูรำคาญ",
+				"refusal_botherB": "หยุดนะ ฉันบอกไปชัดเจนแล้วนี่$3",
+				"refusal_no_heartsA": "เฮ้ออออออ$9#$b#%คลินท์ไม่แม้แต่จะตอบ ว่าตกลงหรือไม่...",
+				"refusal_no_heartsB": "เฮ้ออออออ$9#$b#%คลินท์ไม่แม้แต่จะตอบ ว่าตกลงหรือไม่...",
 			},
 			"When": { "HasMod": "misscoriel.courtship"},
 		},
@@ -57,13 +57,13 @@
 			"Action": "EditData",
 			"Target": "Characters/Dialogue/Clint",
 			"Entries": {
-				"give_flowersA": "Flowers... they still don't compare to you, gem.$4",
-				"give_flowersB": "I'm very glad you asked me out. I never would have imagined our life now.$4",
-				"give_pendant": "Did you just have more than one on hand?.$9",
-				"engageA": "I... think it would send the wrong message if I wore more than one.$9",
-				"engageB": "I only need the one, my gem.$4",
-				"marriedA": "We're already happily married. I don't need more proof of our love.$h",
-				"marriedB": "Where did you get another, gem?$9",
+				"give_flowersA": "ดอกไม้... มันเทียบไม่ได้กับ การมีคุณหรอก แก้วตาของผม$4",
+				"give_flowersB": "ผมดีใจที่คุณเป็นแฟนผมนะ แต่ผมจะยังไม่จินตนาการ ชีวิตคู่ของเราตอนนี้หรอก$4",
+				"give_pendant": "นี่คุณมีมันสำรองไว้ หลายอันหรอ?.$9",
+				"engageA": "ผม... คิดว่า มันคงจะทำให้ช่วยเข้าใจผิดนะ ถ้ามีสวมมันมากกว่า 1 อัน$9",
+				"engageB": "ผมต้องการมันแค่อันเดียว ที่รัก$4",
+				"marriedA": "เรามีชีวิตแต่งงาน ที่แสนสุขแล้วนี่นา ผมไม่ต้องการสิ่งอื่น เพื่อยืนยันความรักของเราแล้ว$h",
+				"marriedB": "คุณไปหามันมาจากไหนอีกน่ะ แก้วตา?$9",
 			},
 			"When": {
 				"HasMod": "misscoriel.courtship",
@@ -184,15 +184,15 @@
 			"Action": "EditData",
 			"Target": "Data/mail",
 			"Entries": {
-			    "winter_6_1": "I've got an unusual request. Could you keep this a secret?^ I want you to deliver an amethyst to Emily. It's her favorite stone. Tell her it's from me.^  -Clint %item quest 110 %% [#]Clint's Unusual Request",
-			    "emilythyst": "Oh. Almost forgot. Here you go.^^  -Clint %item object 66 1 %%"
+			    "winter_6_1": "ฉันมีเรื่องที่อยากจะ รบกวนหน่อย เธอช่วยเก็บเป็นความรับได้มั้ย?^ ฉันต้องการให้เธอ นำอเมทิสต์ไปให้เอมิลี มันเป็นหินที่เธอชอบน่ะ และฝากบอกว่า ฉันเป็นคนให้เอง^  -คลินท์ %item quest 110 %% [#]Clint's Unusual Request",
+			    "emilythyst": "โอ้ เกือบลืมน่ะ เอ้านี่^^  -Clint %item object 66 1 %%"
 			},
 		},
 		{
 			"Action": "EditData",
 			"Target": "Data/mail",
 			"Entries": {
-				"winter_6_1": "I've got an unusual request, @. But I know you won't judge me for it.^ I want you to deliver an amethyst to Emily. It's her favorite stone. And she's been a good friend to me.^    -Clint %item quest 110 %% [#]Clint's Unusual Request"
+				"winter_6_1": "ฉันมีเรื่องที่อยากจะ รบกวนหน่อย @ แต่เธออย่างพึ่งเข้าใจฉันผิดไป^ ฉันต้องการให้เธอ นำอเมทิสต์ไปให้เอมิลี มันเป็นหินที่เธอชอบน่ะ และเธอเป็นเพื่อนรักของฉัน^    -คลินท์ %item quest 110 %% [#]Clint's Unusual Request"
 			},
 			"When": {
 				"Relationship:Clint": "Dating",
@@ -202,7 +202,7 @@
 			"Action": "EditData",
 			"Target": "Data/mail",
 			"Entries": {
-				"winter_6_1": "I get I should have asked you this in person, but I've got an unusual request, my gem.^ I want you to deliver an amethyst to Emily. Yes... the woman I used to like. It's her favorite stone. And she's been a good friend to me.^ Say it's from the two of us, won't you?^   -Clint %item quest 110 %% [#]Clint's Unusual Request"
+				"winter_6_1": "ผมรู้ว่า ที่จริงแล้วผมควรจะขอร้องกับคุณโดยตรง แต่มีเรื่องที่อยากจะ รบกวนหน่อย แก้วตาของผม^ ผมต้องการให้คุณ นำอเมทิสต์ไปให้เอมิลี ใช่แล้ว ผู้หญิงที่ผมเคยชอบ มันเป็นหินที่เธอชอบน่ะ และเธอก็เป็นเพื่อนรักของผม^ ช่วยบอกเธอว่า มันมาจากเราทั้งคู่ ได้มั้ย?^   -คลินท์ %item quest 110 %% [#]Clint's Unusual Request"
 			},
 			"When": {
 				"Spouse": "Clint"
