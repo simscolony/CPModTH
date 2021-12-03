@@ -1,6 +1,6 @@
 {
 	"Name": "Fixer Eel",
-	"Description": "A close relative of the electric eel. This variant is rarely found in rivers. It got its name from a local belief that its meat can heal any kind of sickness or sadness. Because of this belief, it suffers from overfishing.",
+	"Description": "(ปลาไหลบำบัด) หนึ่งในสายพันธุ์ใกล้ชิด กับปลาไหลไฟฟ้า พบได้ยากมากในแม่น้ำ ชื่่อของมันมาจาก ความเชื่อในท้องถิ่นที่ว่า เนื้อของมันนั้น สามารถบำบัดอาการป่วย หรือความเศร้าได้ทุกอย่าง เพราะความเชื่อนี้เอง พวกมันแทบจะสูบพันธุ์ จากการจับที่มากเกินไป",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -14,7 +14,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
