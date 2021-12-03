@@ -1,6 +1,6 @@
 {
 	"Name": "Laborforce",
-	"Description": "An honest man's trusty mace.",
+	"Description": "(ดุจกำลัง) เพื่อนคู่ใจของชายผู้ซื่อสัตย์",
 	"Type": "club",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 80,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
