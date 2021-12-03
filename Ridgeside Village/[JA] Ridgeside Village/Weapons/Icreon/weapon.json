@@ -1,6 +1,6 @@
 {
 	"Name": "Icreon",
-	"Description": "An ancient blade used by a band of cultists worshipping a deity with a red tail. Discovered to be commonly used in their rituals.",
+	"Description": "(ไอครีออน) ดาบโบราณที่ถูกใช้โดย กลุ่มลัทธิบูชาเทพเจ้า ที่มีหางสีแดง จากกาาค้นพบ มันมักถูกใช้งานทั่วไป ในพิธีกรรมของพวกเขา",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 70,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
