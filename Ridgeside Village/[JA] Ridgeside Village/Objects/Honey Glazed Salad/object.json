@@ -1,6 +1,6 @@
 {
 	"Name": "Honey Glazed Salad",
-	"Description": "Pika's special salad, glazed with homemade honey. Super sweet!",
+	"Description": "(สลัดเคลือบน้ำผึ้ง) สลัดผักสูตรพิเศษของปิก้า เคลือบไปด้วยน้ำผึ้งที่เลี้ยงเอง! หวานฝุดฝุด!",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -48,7 +48,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -64,7 +64,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
