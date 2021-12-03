@@ -1,6 +1,6 @@
 {
 	"Name": "Snow Bowl Surprise",
-	"Description": "Local wild fruit, paired with clean ice shavings, syrup and cherries.",
+	"Description": "(น้ำแข็งไสตะลึงงัน) ผลไม้ป่าในท้องถิ่น มาคู่กับน้ำใสแข็งวิบวับ น้ำเชื่อม และเชอร์รี่",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -44,7 +44,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -60,7 +60,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
