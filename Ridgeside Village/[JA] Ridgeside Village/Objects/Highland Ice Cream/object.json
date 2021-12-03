@@ -1,6 +1,6 @@
 {
   "Name": "Highland Ice Cream",
-  "Description": "Special ice cream made in Ridgeside Village. A treat best enjoyed while admiring the mountainside view.",
+  "Description": "(ไอติมภูเขา) ไอศกรีมพิเศษ ที่ทำในหมู่บ้านริดจ์ไซด์ เอร็ดอร่อยได้ ไปพร้อมกับวิวภูเขา",
   "Category": "Cooking",
   "Price": 100,
   "Edibility": 51,
@@ -41,7 +41,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -57,7 +57,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
