@@ -1,6 +1,6 @@
 {
   "Name": "Ridge Cherry",
-  "Description": "A type of cherry found near mountain ridges. Presents a tangy, sweet flavor.",
+  "Description": "(เชอร์รี่ริดจ์) เชอร์รี่ชนิดหนึ่ง ที่พบได้ใกล้กับสันเขา ให้รสหวานอมเปรี้ยว",
   "Category": "Fruit",
   "Edibility": 10,
   "Price": 50,
@@ -13,7 +13,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
