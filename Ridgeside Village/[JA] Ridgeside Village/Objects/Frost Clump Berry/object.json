@@ -1,6 +1,6 @@
 {
   "Name": "Frost Clump Berry",
-  "Description": "A strange berry that only seems to ripen when covered in snow. It tastes like grape with a hint of melon.",
+  "Description": "(เบอร์รี่ก้อนน้ำแข็ง) เบอร์รี่แปลกๆ ที่ดูเหมือนว่ามันจะสุก ต่อเมื่อถูกหิมะปกคลุมเท่านั้น รสชาดคล้ายองุ่น แต่ก็เหมือนเมล่อนนิดๆ",
   "Category": "Fruit",
   "Edibility": 15,
   "Price": 30,
@@ -13,7 +13,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
