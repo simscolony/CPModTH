@@ -1,6 +1,6 @@
 {
 	"Name": "Princess of Green",
-	"Description": "A blade made of magic. It seems that the plants that make up this blade are alive, and capable of changing shape to adapt. Truly an interesting weapon.",
+	"Description": "(เจ้าหญิงสีเขียว) ดาบที่สร้างจากเวทมนตร์? ดูเหมือนว่าพืช ที่ใช้เป็นองค์ประกอบ ในการสร้างดาบนี้ จะยังคงมีชีวิตอยู่ และสามารถเปลี่ยนรูปร่าง ให้เหมาะสมได้ เป็นอาวุธที่น่าสนใจจริงๆ",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 90,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
