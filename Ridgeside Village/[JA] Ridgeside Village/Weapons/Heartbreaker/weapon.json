@@ -1,6 +1,6 @@
 {
 	"Name": "Heartbreaker",
-	"Description": "Spiked brass knuckles that deliver devastating force. It got its name from the usual knockback enemies suffer when hit by one of these.",
+	"Description": "(ขยี้หัวใจ) สนับมือทองเหลือง ปลายหนาม มีพลังทำลายล้างสูง ชื่อนี้ได้มาจาก การใช้มันจัดการศัตรู ที่ถูกชกด้วยเจ้านี่",
 	"Type": "dagger",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 30,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
