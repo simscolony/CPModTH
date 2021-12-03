@@ -1,6 +1,6 @@
 {
 	"Name": "Arugula Roll",
-	"Description": "Fresh arugula, bathing in spicy sauce and resting in a tortilla wrap.",
+	"Description": "(อารูกูล่า โรล) อารูกูล่าสดๆ หรือผักร็อกเก็ต ชุ่มฉ่ำไปด้วยซอสรสเผ็ด ห่อด้วยแป้งตอร์ตียา",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -40,7 +40,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -56,7 +56,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
