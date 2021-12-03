@@ -1,6 +1,6 @@
 {
 	"Name": "Sword of Idols",
-	"Description": "An ancient sword believed to be passed down different generations of heroes and leaders. Better take care of it.",
+	"Description": "(ดาบแห่งผู้เป็นเยี่ยงอย่าง) ดาบโบราณที่เชื่อว่า ถูกส่งต่อกันมาจากรุ่นสู่รุ่น ของบรรดาวีรบุรุษ หรือเหล่าผู้นำ ต้องดูแลมันเป็นอย่างดี",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 90,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 3,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
