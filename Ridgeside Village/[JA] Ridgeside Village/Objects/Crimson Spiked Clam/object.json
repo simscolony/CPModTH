@@ -1,6 +1,6 @@
 {
 	"Name": "Crimson Spiked Clam",
-	"Description": "An endangered species of clam, covered with sharp red spikes. Fetches a mighty high price due to the ruby-like pearls it creates.",
+	"Description": "(หอยหนามแดง) เป็นหอยที่ใกล้สูญพันธุ์ มันถูกปกคลุม ด้วยหนามแหลมสีแดง ได้ราคาสูงลิ่บลิ่ว เพราะให้ไข่มุก ที่มีลักษณะคล้ายทับทิม",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -14,7 +14,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
