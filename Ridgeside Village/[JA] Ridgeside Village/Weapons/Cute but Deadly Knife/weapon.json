@@ -1,6 +1,6 @@
 {
 	"Name": "Cute but Deadly Knife",
-	"Description": "A cute but deadly knife.",
+	"Description": "(มีดน่ารักแต่ตายได้นะ) มีดที่ดูน่ารัก แต่ก็ทำให้ตายได้เช่นกัน",
 	"Type": "dagger",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 40,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 3,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
