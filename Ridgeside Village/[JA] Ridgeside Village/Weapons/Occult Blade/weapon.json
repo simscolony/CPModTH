@@ -1,6 +1,6 @@
 {
 	"Name": "Occult Blade",
-	"Description": "A double-edged blade with a structure similar to a katana. The small red hilt depicts a woman with a tail wrapping around her.",
+	"Description": "(ดาบที่ถูกลงอาคม) ดาบสองคมที่มีลักษณ์คล้ายคาตานะ มีด้ามจับสีแดงขนาดเล็ก ที่มีสัญลักษณ์ รูปผู้หญิงมีหางพันรอบตัวเธอ",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 80,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
