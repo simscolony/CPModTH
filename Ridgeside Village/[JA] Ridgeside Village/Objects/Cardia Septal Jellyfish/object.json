@@ -1,6 +1,6 @@
 {
 	"Name": "Cardia Septal Jellyfish",
-	"Description": "Truly a biological wonder. It bears a striking resemblance to the septum of a heart and the ventricles that connect it. Though poisonous, it is endangered because of its lack of mobility.",
+	"Description": "(กระพรุนห้องหัวใจ) นี่คือสิ่งมหัศจรรย์ ทางชีววิทยาอย่างแท้จริง มีความคล้ายคลึงกับ ลักษณะผนังกั้นห้องหัวใจ และหัวใจห้องล่าง ที่ถูกเชื่อมติดกัน อย่างไม่น่าเชื่อ แม้จะมีพิษ แต่ก็ใกล้สูญพันธุ์ เพราะเคลื่อนที่ไม่ค่อยได้",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
