@@ -1,6 +1,6 @@
 {
 	"Name": "Daggerkin",
-	"Description": "A dagger long enough to almost be considered a sword. It seems to be a popular weapon choice of skilled professional assassins.",
+	"Description": "(กริชวงศา) เป็นกริชยาวแทบจะเป็นดาบ ดูเหมือนว่า มันจะเป็นที่นิยม ในการใช้เพื่อลอบสังหาร จากเหล่าผู้มีฝีมือ",
 	"Type": "dagger",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 40,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 5,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
