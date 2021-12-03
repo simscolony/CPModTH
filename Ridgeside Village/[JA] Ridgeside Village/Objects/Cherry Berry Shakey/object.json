@@ -1,6 +1,6 @@
 {
   "Name": "Cherry Berry Shakey",
-  "Description": "A sweet, cherry-rich drink beloved by both kids and adults!",
+  "Description": "(เชอร์รี่เบอรี่ เชค) ความหวานของเชอร์รี่แบบเด็มๆ เป็นที่ชื่นชอบของทั้งเด็ก และผู้ใหญ่!",
   "Category": "Cooking",
   "Price": 200,
   "Edibility": 51,
@@ -41,7 +41,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -57,7 +57,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
