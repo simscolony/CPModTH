@@ -1,6 +1,6 @@
 {
 	"Name": "Harvester Trout",
-	"Description": "It got its name for 'harvesting' crops and plants that grow near water. This destructive behavior has led to this fish being regarded as a pest. Despite this, it remains popular due to its tender, oily meat.",
+	"Description": "(เทราต์จอมเกี่ยว) มันได้ชื่อมาจากการ 'เก็บเกี่ยว' ดึงทึ้งพืชผล ที่โตอยู่ใกล้กับแหล่งน้ำ พฤติกรรมการทำลายล้างนี้ ทำให้มันถูกมองว่า เป็นศัตรูพืช ถึงแม้ว่าจะเป็นที่นิยม เพราะเนื้อนุ่ม ที่มีไขมันแทรกก็ตาม",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -14,7 +14,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
