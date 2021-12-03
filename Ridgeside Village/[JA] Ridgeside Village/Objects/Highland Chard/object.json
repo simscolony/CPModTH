@@ -1,6 +1,6 @@
 {
   "Name": "Highland Chard",
-  "Description": "A leafy green mostly found along mountain ridges. Has a delicate, yet sharp taste that turns bitter when the weather gets too hot. Commonly used in salads.",
+  "Description": "(ผักชาร์ดดอย) จะมีรสขมเมื่ออากาศร้อนเกินไป มีรสละมุนแต่เด่นชัด ส่วนมากใช้ทำสลัด พบได้มากตามภูเขาริดจ์",
   "Category": "Fruit",
   "Edibility": 20,
   "EdibleBuffs": {
@@ -26,7 +26,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -42,7 +42,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
