@@ -1,6 +1,6 @@
 {
 	"Name": "Golden Key Blade",
-	"Description": "A strangely shaped sword meant to resemble a golden key. Due to the sword's material, it fetches a high price",
+	"Description": "(ดาบกุญแจทองคำ) ดาบรูปทรงแปลกประหลาด ดูเหมือนจะจำลองมาจาก ลูกกุญแจทองคำ แน่นอนว่า มีราคาค่อนข้างแพง เพราะวัสดุที่ใช้สร้างมัน",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 60,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
