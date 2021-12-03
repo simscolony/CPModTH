@@ -1,6 +1,6 @@
 {
   "Name": "Autumn Drop Berry",
-  "Description": "Tastes like rainy autumn nights. Commonly found near mountain ridges. Has a nutty, yet sweet taste.",
+  "Description": "(เบอรี่หยาด แห่งฤดูใบไม้ร่วง) รสชาดที่เปรียบได้ดั่ง หยาดฝนในคืนฤดูใบไม้ร่วง พบได้ทั่วไปใกล้กับแนวสันเขา ให้ความรู้สึกเหมือนถั่ว แต่มีรสหวาน",
   "Category": "Fruit",
   "Edibility": 10,
   "Price": 55,
@@ -13,7 +13,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
