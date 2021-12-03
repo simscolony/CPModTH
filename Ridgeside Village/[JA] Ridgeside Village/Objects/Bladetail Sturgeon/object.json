@@ -1,6 +1,6 @@
 {
 	"Name": "Bladetail Sturgeon",
-	"Description": "A very dangerous fish, with a tail as sharp as a blade. Overfishing caused this species' population to dwindle. Their tail may have served as arrowheads in ancient times.",
+	"Description": "(สเตอร์เจียนหางดาบ) เป็นปลาที่อันตรายสุดๆ หางของมันคมดั่งใบมีด การล่าพวกมันมากเกิน ไปทำให้จำนวนประชากร ของสายพันธุ์นี้ลดน้อยลง หางของพวกมัน เคยเป็นหัวลูกศร ในสมัยโบราณ",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
