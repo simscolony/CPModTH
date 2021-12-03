@@ -1,6 +1,6 @@
 {
 	"Name": "The Lucky Penny",
-	"Description": "Rumor has it the blade was smelted from several proclaimed 'lucky' pennies from different people. If that were the case, who was motivated to steal so many of these pennies to make a dagger?",
+	"Description": "(เหรียญเพนนีให้โชค) ลือกันว่ามีดนี่ ถูกหลอมขึ้นมาจาก เหรียญเพนนีนำโชค ของคนหลายๆ คนรวมกัน และถ้านั่นเป็นเรื่องจริง แล้วใครล่ะ ที่มีแรงจูงใจพอ ที่จะขโมยเหรียญเพนนี มากมายขนาดนั้นมาทำมีด?",
 	"Type": "dagger",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 110,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 4,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
