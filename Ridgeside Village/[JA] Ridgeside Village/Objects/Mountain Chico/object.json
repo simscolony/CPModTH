@@ -1,6 +1,6 @@
 {
   "Name": "Mountain Chico",
-  "Description": "An unusual fruit that differs from its relatives. This variety grows on wild bushes instead of trees.",
+  "Description": "(ชิโคภูเขา) ผลไม้แปลกๆ ที่ต่างไปสายพันธุ์อื่น ในตระกูลของมัน ให้ผลจากต้นที่มีลักษณะ เป็นพุ่มไม้ป่า แทนที่จะเป็นไม้ยืนต้น",
   "Category": "Fruit",
   "Edibility": 15,
   "Price": 70,
@@ -14,7 +14,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
