@@ -1,6 +1,6 @@
 {
 	"Name": "The Prankster",
-	"Description": "A heavy, hooked blade. It got its name for being too unstable and unpredictable to use in combat, yet it can be deadly when used properly. The blade's strange design is an acquired taste.",
+	"Description": "(จอมพิเรนทร์) ดาบหนักทรงตะขอ ที่ได้ชื่อมาจาก ความไม่เสถียร และการคาดเดาล่วงหน้าไม่ได้ เมื่อใช้ในการต่อสู้ การออกแบบประหลาดๆ นี้มาจากรสนิยมล้วนๆ และทำให้ถึงตายได้ถ้าใช้ถูกวิธี",
 	"Type": "sword",
 	"PurchasePrice": 50000,
 	"MinimumDamage": 100,
@@ -16,7 +16,7 @@
 	"CritMultiplier": 3,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
