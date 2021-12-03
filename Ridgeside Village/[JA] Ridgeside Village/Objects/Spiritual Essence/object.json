@@ -1,6 +1,6 @@
 {
 	"Name": "Spiritual Essence",
-	"Description": "A mysterious collection of pebbles glowing dim.",
+	"Description": "(แก่นวิญญาณ) หนึ่งในพวก ก้อนกรวดปริศนา มีแสงเรืองสลัวๆ",
 	"Category": "MonsterLoot",
 	"Edibility": -300,
 	"EdibleIsDrink": false,
@@ -10,7 +10,7 @@
 	"IsColored": false,
 
 	    "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -26,7 +26,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
