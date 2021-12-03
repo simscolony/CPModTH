@@ -1,6 +1,6 @@
 {
   "Name": "Snowball Slurpee",
-  "Description": "A mix of different winter fruits. A cool and sweet winter treat.",
+  "Description": "(สเลอปี้บอลหิมะ) ผลไม้ฤดูหนาวหลายชนิดปั่น เป็นของกินเล่นหวานเย็น ของหน้าหนาวเลยล่ะ",
   "Category": "Cooking",
   "Price": 230,
   "Edibility": 51,
@@ -45,7 +45,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -61,7 +61,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
