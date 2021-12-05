@@ -30142,18 +30142,6 @@
 	     "BusStop.1": "` ป้ายรถบัส^> เมืองเพลิแกน^= {{FarmName}} ฟาร์ม^@ {{FarmName}} ฟาร์ม",
 	    }
     },
-
-    /* TIS-620
-
-         Data/BigCraftablesInformation
-         Data/objectinformation
-         Data/SecretNotes
-         Data/Weapons
-         _Name":
-         Chat_Eternal3
-         [#]
-
-    */
-
+	
   ]
 }
