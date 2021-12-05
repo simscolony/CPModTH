@@ -10143,7 +10143,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-	    "Victor": "teen/polite/neutral/positive/male/datable/null/Town/summer 23//Custom_JenkinsHouse 31 5/Victor"
+	    "Victor": "teen/polite/neutral/positive/male/datable/null/Town/summer 23//Custom_JenkinsHouse 31 5/วิคเตอร์"
 	  }
     },
 
@@ -10902,7 +10902,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Olivia": "adult/polite/neutral/positive/female/datable/null/Town/spring 15//Custom_JenkinsHouse 18 5/Olivia"
+        "Olivia": "adult/polite/neutral/positive/female/datable/null/Town/spring 15//Custom_JenkinsHouse 18 5/โอลิเวีย"
       }
     },
 	{
@@ -11928,7 +11928,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Andy": "adult/rude/neutral/negative/male/non-datable/null/Other/spring 23//Custom_AndyHouse 9 6/Andy"
+        "Andy": "adult/rude/neutral/negative/male/non-datable/null/Other/spring 23//Custom_AndyHouse 9 6/แอนดี้"
       }
     },
 
@@ -12277,7 +12277,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-      "Susan": "adult/polite/neutral/positive/female/not-datable/null/Other/fall 28//Custom_SusanHouse 4 15/Susan"
+      "Susan": "adult/polite/neutral/positive/female/not-datable/null/Other/fall 28//Custom_SusanHouse 4 15/ซูซาน"
       }
     },
 
@@ -12687,7 +12687,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-      "Sophia": "teen/polite/shy/positive/female/datable/null/Town/winter 27//Custom_SophiaHouse 23 6/Sophia"
+      "Sophia": "teen/polite/shy/positive/female/datable/null/Town/winter 27//Custom_SophiaHouse 23 6/โซเฟีย"
       }
 },
 
@@ -14042,7 +14042,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-      "MarlonFay": "adult/polite/neutral/positive/male/not-datable/null/Other/winter 19//AdventureGuild 4 11/Marlon"
+      "MarlonFay": "adult/polite/neutral/positive/male/not-datable/null/Other/winter 19//AdventureGuild 4 11/มาร์ลอน"
       }
     },
 
@@ -14051,7 +14051,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-      "Marlon": "adult/polite/neutral/positive/male/not-datable/null/Other/winter 19//AdventureGuild -50 -50/Marlon"
+      "Marlon": "adult/polite/neutral/positive/male/not-datable/null/Other/winter 19//AdventureGuild -50 -50/มาร์ลอน"
       }
     },
 
@@ -14470,7 +14470,7 @@
 	  "When": { "HasSeenEvent": "5978924" },
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Morgan": "child/polite/shy/neutral/null/non-datable/null/Other/fall 7//Custom_Morgan_WarpRoom 3 3/Morgan",
+        "Morgan": "child/polite/shy/neutral/null/non-datable/null/Other/fall 7//Custom_Morgan_WarpRoom 3 3/มอร์แกน",
       }
     },
 
@@ -15097,7 +15097,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Wizard": "adult/rude/neutral/negative/male/datable/null/Other/winter 17//WizardHouse 3 17/Wizard",
+        "Wizard": "adult/rude/neutral/negative/male/datable/null/Other/winter 17//WizardHouse 3 17/พ่อมด",
       }
     },
 
@@ -15107,7 +15107,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "Hearts:Wizard": "4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14" },
       "Entries": {
-        "Wizard": "adult/rude/neutral/negative/male/datable/null/Other/winter 17//WizardHouse 3 17/Magnus",
+        "Wizard": "adult/rude/neutral/negative/male/datable/null/Other/winter 17//WizardHouse 3 17/แมกนัส",
       }
     },
 
@@ -16600,7 +16600,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "ApplesHere": "true" },
       "Entries": {
-        "Apples": "child/polite/shy/neutral/null/non-datable/null/Other/null//Custom_Apples_WarpRoom 3 3/Apples",
+        "Apples": "child/polite/shy/neutral/null/non-datable/null/Other/null//Custom_Apples_WarpRoom 3 3/แอปเปิล",
         }
     },
 
@@ -17052,7 +17052,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent |contains=7776006": true },
       "Entries": {
-        "Peaches": "child/polite/shy/neutral/female/non-datable/null/Other/null//Custom_Peaches_WarpRoom 3 3/Peaches",
+        "Peaches": "child/polite/shy/neutral/female/non-datable/null/Other/null//Custom_Peaches_WarpRoom 3 3/พีช",
         }
     },
 
@@ -17117,7 +17117,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent |contains=3900074": true },  //Player must have seen Shane's 8 heart event for Charlie to spawn into the game.
       "Entries": {
-        "CharlieChicken": "child/polite/shy/neutral/male/non-datable/null/Other/null//Custom_Charlie_WarpRoom 3 3/Charlie",
+        "CharlieChicken": "child/polite/shy/neutral/male/non-datable/null/Other/null//Custom_Charlie_WarpRoom 3 3/ชาร์ลี",
         }
     },
 
@@ -17197,7 +17197,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Claire": "adult/polite/shy/neutral/female/datable/null/Other/fall 8//Custom_Claire_WarpRoom 3 3/Claire",
+        "Claire": "adult/polite/shy/neutral/female/datable/null/Other/fall 8//Custom_Claire_WarpRoom 3 3/แคลร์",
         }
     },
 
@@ -19237,7 +19237,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Camilla": "adult/rude/outgoing/neutral/female/non-datable/null/Other/null//Custom_Camilla_WarpRoom 3 3/Camilla"
+        "Camilla": "adult/rude/outgoing/neutral/female/non-datable/null/Other/null//Custom_Camilla_WarpRoom 3 3/คามิลล่า"
         }
     },
 
@@ -19320,7 +19320,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Lance": "adult/polite/outgoing/positive/male/non-datable/null/Other/null//Custom_Lance_WarpRoom 3 3/Lance",
+        "Lance": "adult/polite/outgoing/positive/male/non-datable/null/Other/null//Custom_Lance_WarpRoom 3 3/แลนซ์",
         }
     },
 
@@ -19453,7 +19453,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Alesia": "adult/polite/neutral/neutral/female/non-datable/null/Other/null//Custom_Alesia_WarpRoom 3 3/Alesia",
+        "Alesia": "adult/polite/neutral/neutral/female/non-datable/null/Other/null//Custom_Alesia_WarpRoom 3 3/อลีเซีย",
         }
     },
 
@@ -19519,7 +19519,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent":"1305677", "DayEvent": "stardew valley fair" },
       "Entries": {
-        "Isaac": "adult/rude/neutral/negative/male/non-datable/null/Other/null//Custom_Isaac_WarpRoom 3 3/Isaac",
+        "Isaac": "adult/rude/neutral/negative/male/non-datable/null/Other/null//Custom_Isaac_WarpRoom 3 3/ไอแซค",
         }
     },
 
@@ -19529,7 +19529,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent":"1305677", "DayEvent": "spirit's eve" },
       "Entries": {
-        "Isaac": "adult/rude/neutral/negative/male/non-datable/null/Other/null//Custom_Isaac_WarpRoom 3 3/Isaac",
+        "Isaac": "adult/rude/neutral/negative/male/non-datable/null/Other/null//Custom_Isaac_WarpRoom 3 3/ไอแซค",
         }
     },
 
@@ -19594,7 +19594,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Jadu": "adult/polite/neutral/neutral/male/non-datable/null/Other/null//Custom_Jadu_WarpRoom 3 3/Jadu",
+        "Jadu": "adult/polite/neutral/neutral/male/non-datable/null/Other/null//Custom_Jadu_WarpRoom 3 3/จาดู",
         }
     },
 
@@ -19644,7 +19644,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent":"8185295", "DayEvent": "stardew valley fair" },
       "Entries": {
-        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/Scarlett",
+        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/สการ์เล็ต",
         }
     },
 
@@ -19656,7 +19656,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "Season": "Fall", "DayOfWeek": "Monday, Tuesday, Wednesday", "Weather |contains=rain, storm": false },
       "Entries": {
-        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/Scarlett",
+        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/สการ์เล็ต",
         }
     },
 
@@ -19666,7 +19666,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent":"8185295", "DayEvent": "luau" },
       "Entries": {
-        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/Scarlett",
+        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/สการ์เล็ต",
         }
     },
 
@@ -19676,7 +19676,7 @@
       "Target": "Data/NPCDispositions",
 	  "When": { "HasSeenEvent":"8185295", "DayEvent": "spirit's eve" },
       "Entries": {
-        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/Scarlett",
+        "Scarlett": "teen/polite/outgoing/positive/female/non-datable/null/Other/null//Custom_Scarlett_WarpRoom 3 3/สการ์เล็ต",
         }
     },
 
@@ -19807,7 +19807,7 @@
     "Target": "Data/NPCDispositions",
 	"When": { "GuntherUnlocked": "true" },
     "Entries": {
-    "GuntherSilvian": "adult/polite/neutral/positive/male/not-datable/null/Other/winter 12//ArchaeologyHouse 5 8/Gunther"
+    "GuntherSilvian": "adult/polite/neutral/positive/male/not-datable/null/Other/winter 12//ArchaeologyHouse 5 8/กันเธอร์"
       }
 },
 
@@ -19817,7 +19817,7 @@
     "Target": "Data/NPCDispositions",
 	"When": { "GuntherUnlocked": "false" },
     "Entries": {
-    "GuntherSilvian": "adult/polite/neutral/positive/male/not-datable/null/Other/null//ArchaeologyHouse 5 8/Gunther"
+    "GuntherSilvian": "adult/polite/neutral/positive/male/not-datable/null/Other/null//ArchaeologyHouse 5 8/กันเธอร์"
       }
 },
 
@@ -20273,7 +20273,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Martin": "teen/neutral/neutral/neutral/male/non-datable/null/Other/summer 6//Custom_Martin_WarpRoom 3 3/Martin",
+        "Martin": "teen/neutral/neutral/neutral/male/non-datable/null/Other/summer 6//Custom_Martin_WarpRoom 3 3/มาร์ติน",
         }
     },
 
@@ -20999,7 +20999,7 @@
     "Target": "Data/NPCDispositions",
 	"When": { "HasSeenEvent |contains=191393": false },
     "Entries": {
-    "MorrisTod": "adult/polite/neutral/positive/male/not-datable/null/Other/spring 2//Town 95 43/Morris"
+    "MorrisTod": "adult/polite/neutral/positive/male/not-datable/null/Other/spring 2//Town 95 43/มอร์ริส"
       }
 },
 
@@ -21899,7 +21899,7 @@
      "Action": "EditData",
      "Target": "Data/NPCDispositions",
      "Entries": {
-	 "Sandy": "adult/neutral/outgoing/positive/female/not-datable/null/Desert/fall 15/Emily ''/SandyHouse 2 5/Sandy"
+	 "Sandy": "adult/neutral/outgoing/positive/female/not-datable/null/Desert/fall 15/Emily ''/SandyHouse 2 5/แซนดี้"
 	 }
 },
 
@@ -30142,6 +30142,6 @@
 	     "BusStop.1": "` ป้ายรถบัส^> เมืองเพลิแกน^= {{FarmName}} ฟาร์ม^@ {{FarmName}} ฟาร์ม",
 	    }
     },
-	
+
   ]
 }
