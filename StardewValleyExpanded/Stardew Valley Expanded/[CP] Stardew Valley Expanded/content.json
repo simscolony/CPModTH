@@ -1807,7 +1807,7 @@
 	"Y": 492,
 	"Width": 112,
 	"Height": 100,
-	"PrimaryText": "Blue Moon Vineyard"
+	"PrimaryText": "ไร่องุ่นบลูมูน"
 	}
    },
 
@@ -1832,7 +1832,7 @@
 	"Y": 520,
 	"Width": 280,
 	"Height": 200,
-	"PrimaryText": "Cindersap Forest"
+	"PrimaryText": "ป่าซินเดอร์แซป"
 	}
    },
 
@@ -1857,7 +1857,7 @@
 	"Y": 406,
 	"Width": 76,
 	"Height": 66,
-	"PrimaryText": "Old Community Garden"
+	"PrimaryText": "สวนเก่าของชุมชน"
 	}
    },
 
@@ -1882,7 +1882,7 @@
 	"Y": 0,
 	"Width": 307,
 	"Height": 158,
-	"PrimaryText": "Calico Desert"
+	"PrimaryText": "ทะเลทรายคาลิโก้"
 	}
    },
 
@@ -1907,7 +1907,7 @@
 	"Y": 359,
 	"Width": 104,
 	"Height": 66,
-	"PrimaryText": "Shearwater Bridge"
+	"PrimaryText": "สะพานเชียร์วอเทอร์"
 	}
    },
 
@@ -1932,7 +1932,7 @@
 	"Y": 556,
 	"Width": 240,
 	"Height": 104,
-	"PrimaryText": "Beach"
+	"PrimaryText": "ชายหาด"
 	}
    },
 
@@ -1957,7 +1957,7 @@
 	"Y": 60,
 	"Width": 56,
 	"Height": 46,
-	"PrimaryText": "Adventurer Guild"
+	"PrimaryText": "กิลด์นักผจญภัย"
 	}
    },
 
@@ -1968,7 +1968,7 @@
 	"Y": 32,
 	"Width": 96,
 	"Height": 52,
-	"PrimaryText": "Emerald Farm"
+	"PrimaryText": "ฟาร์มมรกต"
 	}
    },
 
@@ -1979,7 +1979,7 @@
 	"Y": 32,
 	"Width": 32,
 	"Height": 20,
-	"PrimaryText": "Susan's House"
+	"PrimaryText": "บ้านของซูซาน"
 	}
    },
 
@@ -1990,7 +1990,7 @@
 	"Y": 552,
 	"Width": 32,
 	"Height": 36,
-	"PrimaryText": "Elliott's House"
+	"PrimaryText": "บ้านของเอลเลียต"
 	}
    },
 
@@ -2001,7 +2001,7 @@
 	"Y": 616,
 	"Width": 32,
 	"Height": 36,
-	"PrimaryText": "Willy's House"
+	"PrimaryText": "บ้านของวิลลี่"
 	}
    },
 
@@ -2012,7 +2012,7 @@
 	"Y": 488,
 	"Width": 39,
 	"Height": 36,
-	"PrimaryText": "Sophia's House"
+	"PrimaryText": "บ้านของโซเฟีย"
 	}
    },
 
@@ -2023,7 +2023,7 @@
 	"Y": 468,
 	"Width": 60,
 	"Height": 32,
-	"PrimaryText": "Community Garden"
+	"PrimaryText": "สวนชุมชน"
 	}
    },
 
@@ -2034,7 +2034,7 @@
 	"Y": 457,
 	"Width": 20,
 	"Height": 24,
-	"PrimaryText": "Sewer"
+	"PrimaryText": "ท่อระบายน้ำ"
 	}
    },
 
@@ -2045,7 +2045,7 @@
 	"Y": 341,
 	"Width": 60,
 	"Height": 48,
-	"PrimaryText": "Park"
+	"PrimaryText": "สวน"
 	}
    },
 
@@ -2056,7 +2056,7 @@
 	"Y": 220,
 	"Width": 48,
 	"Height": 48,
-	"PrimaryText": "Memorial"
+	"PrimaryText": "อนุสรณ์สถาน"
 	}
    },
 
@@ -2067,7 +2067,7 @@
 	"Y": 288,
 	"Width": 48,
 	"Height": 32,
-	"PrimaryText": "Jenkins' Residence"
+	"PrimaryText": "บ้านพักของเจนกินส์"
 	}
    },
 
@@ -2078,7 +2078,7 @@
 	"Y": 360,
 	"Width": 20,
 	"Height": 24,
-	"PrimaryText": "Dusty"
+	"PrimaryText": "ดัสตี้"
 	}
    },
 
@@ -2089,7 +2089,7 @@
 	"Y": 544,
 	"Width": 39,
 	"Height": 32,
-	"PrimaryText": "Andy's House"
+	"PrimaryText": "บ้านของแอนดี้"
 	}
    },
 
@@ -2100,7 +2100,7 @@
 	"Y": 540,
 	"Width": 48,
 	"Height": 48,
-	"PrimaryText": "Fairhaven Farm"
+	"PrimaryText": "ฟาร์มแฟร์เฮเว่น"
 	}
    },
 
@@ -2111,7 +2111,7 @@
 	"Y": 436,
 	"Width": 48,
 	"Height": 36,
-	"PrimaryText": "Marnie's Farm"
+	"PrimaryText": "ฟาร์มของมานี"
 	}
    },
   },
@@ -2129,7 +2129,7 @@
 	"Y": 48,
 	"Width": 60,
 	"Height": 60,
-	"PrimaryText": "Enchanted Grove"
+	"PrimaryText": "พงไพรเวทย์"
 	}
    },
   },
@@ -2149,7 +2149,7 @@
 	"Y": 341,
 	"Width": 60,
 	"Height": 48,
-	"PrimaryText": "Parking Lot"
+	"PrimaryText": "ลานจอดรถ"
 	}
    },
 
@@ -2160,7 +2160,7 @@
 	"Y": 220,
 	"Width": 48,
 	"Height": 48,
-	"PrimaryText": "Joja Emporium"
+	"PrimaryText": "โจจ้า เอ็มโพเรียม"
 	}
    },
   },
@@ -2192,7 +2192,7 @@
 	"Y": 288,
 	"Width": 80,
 	"Height": 56,
-	"PrimaryText": "Grandpa's Shed"
+	"PrimaryText": "กระท่อมของคุณปู่"
 	}
    },
  },
@@ -2213,7 +2213,7 @@
 	"Y": 218,
 	"Width": 282,
 	"Height": 172,
-	"PrimaryText": "Farm"
+	"PrimaryText": "ฟาร์ม"
     }
 },
 
@@ -2224,7 +2224,7 @@
 	"Y": 200,
 	"Width": 84,
 	"Height": 72,
-	"PrimaryText": "Bus Stop"
+	"PrimaryText": "ป้ายรถเมล์"
 	}
    },
  },
@@ -2241,7 +2241,7 @@
 	"Y": 276,
 	"Width": 48,
 	"Height": 32,
-	"PrimaryText": "Grandpa's Shed"
+	"PrimaryText": "กระท่อมของคุณปู่"
 	}
    },
   },
@@ -2258,7 +2258,7 @@
 	"Y": 218,
 	"Width": 69,
 	"Height": 42,
-	"PrimaryText": "Grandpa's Shed"
+	"PrimaryText": "กระท่อมของคุณปู่"
 	}
    },
   },
@@ -2290,7 +2290,7 @@
 	"Y": 406,
 	"Width": 76,
 	"Height": 66,
-	"PrimaryText": "Old Community Garden"
+	"PrimaryText": "สวนเก่าของชุมชน"
 	}
    },
   },
