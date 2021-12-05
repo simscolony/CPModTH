@@ -1,0 +1,11 @@
+{
+    "Name": "Stardew Valley Expanded - THAI",
+    "Author": "Translator Army x 'ELL",
+    "Version": "2.1.10",
+    "Description": "Thai Language For Stardew Valley Expanded 1.13.13",
+    "UniqueID": "TranslatorArmy.ModTHSVE",
+    "UpdateKeys": [ "Nexus:7255" ],
+    "ContentPackFor": {
+        "UniqueID": "FlashShifter.StardewValleyExpandedCP"
+    }
+}
