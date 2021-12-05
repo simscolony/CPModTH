@@ -2562,8 +2562,6 @@
 	  "Shiny Lunaloo": "color_blue, fish_ocean, fish_shiny_lunaloo",
 	  "Bonefish": "color_white, fish_river, fish_bonefish",
 	  "Undeadfish": "color_green, fish_river, fish_undeadfish",
-	  "{{spacechase0.JsonAssets/ObjectId:Grampleton Orange Chicken}}": "color_orange, food_pantry",
-	  "{{spacechase0.JsonAssets/ObjectId:Void Salmon Sushi}}": "color_black, food_sushi",
 	  "Radioactive Bass": "color_green, fish_river, fish_radioactive_bass",
 	  "Void Shard": "color_black",
 	  "Void Pebble": "color_black",
