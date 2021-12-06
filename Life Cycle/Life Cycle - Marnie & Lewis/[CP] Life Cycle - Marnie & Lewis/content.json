@@ -31,8 +31,8 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "Tue4": "It's so wonderful to be finally free to spend all the time I want with Lewis.$1",
-            "Fri4": "I'm so glad that you moved here, @.$0#$b#You really have helped Lewis and I.$1",
+            "Tue4": "มันดีมากเลยที่ได้ ใช้เวลาร่วมกับเลวิส แบบเปิดเผยแบบนี้$1",
+            "Fri4": "ฉันดีใจนะ ที่เธอย้ายมาอยู่ที่นี้ @$0#$b#เธอช่วยเลวิสกับฉัน เยอะเลย$1",
 			}
 },
      //Lewis
@@ -45,8 +45,8 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "Mon4": "I don't even know why I thought you would all react badly to me and Marnie dating.$0",
-            "Wed4": "Hello, @.$0#$e#I can't thank you enough for encouraging me to admit my relationship publicly.$0",
+            "Mon4": "ฉันไม่รู้ด้วยซ้ำ ว่าทำไมฉันถึงคิดว่า เธอจะมีปฏิกิริยาไม่ดีด้วย ถ้ารู้ว่าฉันคบกับมานี$0",
+            "Wed4": "สวัสดี @$0#$e#ฉันไม่รู้จะขอบคุณ เธอยังไงถึงจะพอ ที่เธอช่วยให้ฉัน มีความกล้าที่จะเปิดเผย ความสัมพันธ์ของฉันกับมานี ให้ทุกคนรู้$0",
 			}
 },
      //Shane
@@ -59,10 +59,10 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "Tue4": "It's still a little awkward to see Lewis all day at our house...$2",
-            "Wed2": "I don’t know if it’s good for Jas to spend so much time with Lewis when not too long ago they were kind of strangers.$2",
-            "Sat6": "Lewis will probably come by again today...$3",
-            "Sun4": "Jas really likes playing with Lewis.$3#$b#Guess he's a better influence than me.$3"
+            "Tue4": "มันก็ยังรู้สึกอึดอัดอยู่ดี เวลาที่เลวิส มาอยู่ที่บ้านเราทั้งวัน...$2",
+            "Wed2": "ฉันไม่รู้ว่ามันดีกับแจสรึเปล่า ที่ใช้เวลากับเลวิสขนาดนี้ ทั้งที่ก่อนหน้านี้ยังเหมือน เป็นคนแปลกหน้าด้วยซ้ำ$2",
+            "Sat6": "สงสัยวันนี้เลวิสจะมาอีก...$3",
+            "Sun4": "แจสชอบเล่นกับเลวิสมาก$3#$b#สงสัยเขาคงจะ โน้มน้าวเก่งกว่าฉัน$3"
 			}
 },
      //Jas
@@ -75,17 +75,17 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "Mon6": "Hello, Mister @.^Hello Miss @.$0#$e#Do you think Uncle Lewis will live with us someday?$3",
-            "Tue4": "Are you looking for Aunt Marnie?$0#$e#Or maybe for Uncle Lewis?$1",
-            "Tue10": "I like Uncle Lewis, he always plays with me when he visits Aunt Marnie.$1",
-            "Wed6": "Shane and Aunt Marnie are always busy, but now I can play with Uncle Lewis!$1",
-            "Wed8": "I'm going to ask Uncle Lewis if he could expand the park.$0#$b#It's enough for Vincent and I, but I want other kids to come and play with us!$1",
-            "Thu6": "I should ask Uncle Lewis and Aunt Marnie to bake a pink cake with me.$1#$e#Bye!$1",
-            "Fri8": "I like when Uncle Lewis comes to our house.$0#$b#He always brings me pretty fairy roses.$1",
-            "Fri10": "Guess what?$0#$b#Uncle Lewis gave me a new doll yesterday.$1#$b#Do you want to play together?$0",
-            "Sat8": "Tomorrow I'm going to watch the new Minsa the Fairy movie with Shane, Aunt Marnie, and Uncle Lewis!$1",
-            "Sun4": "I always thought it was weird that Uncle Lewis always came to our house late at night.$3",
-            "Sun10": "Uncle Lewis promised that he would take me to Zuzu City someday with Aunt Marnie.$1"
+            "Mon6": "สวัสดีค่ะ พี่ @^สวัสดีค่ะ พี่ @$0#$e#พี่คิดว่า สักวันนึง ลุงเลวิสจะมาอยู่กับเรามั้ย?$3",
+            "Tue4": "พี่มาหาป้ามานีหรอคะ?$0#$e#หรือว่ามาหาลุงเลวิสล่ะ?$1",
+            "Tue10": "หนูชอบลุงเลวิส เขาจะเล่นกับหนูเสมอ เวลาที่มาหาป้ามานี$1",
+            "Wed6": "เชน กับป้ามานียุ่งตลอด แต่ตอนนี้หนูเล่น กับลุงเลวิสได้!$1",
+            "Wed8": "หนูว่าจะขอลุงเลวิส ถ้าเขาสามารถขยาย สวนสาธารณะได้$0#$b#มันกว้างพอ สำหรับวินเซนท์กับหนู แต่หนูอยากให้มีเด็กคนอื่นมา แล้วก็เล่นกับเราด้วย!$1",
+            "Thu6": "หนูจะขอให้ลุงเลวิส กับป้ามานีทำเค้กชมพูให้หนู$1#$e#บ๊ายบาย!$1",
+            "Fri8": "หนูชอบเวลาที่ ลุงเลวิสมาที่บ้าน$0#$b#เขามักจะเอา ดอกแฟรี่โรสแสนสวย มาให้หนูด้วย$1",
+            "Fri10": "รู้มั้ยคะ?$0#$b#เมื่อวานลุงเลวิส เอาตุ๊กตาใหม่มาให้หนูด้วย$1#$b#อยากจะเล่นด้วยกันมั้ยคะ?$0",
+            "Sat8": "พรุ่งนี้หนูจะไปดูหนังใหม่ เรื่องนางฟ้ามินซ่า กับเชน ป้ามานีและลุงเลวิส!$1",
+            "Sun4": "หนูคิดว่ามันแปลกๆนะ ที่ลุงเลวสิชอบมาบ้านเรา ตอนดึกๆ$3",
+            "Sun10": "ลุงเลวิสสัญญาว่า วันนึงจะพาหนูกับป้ามานี ไปเมืองซูซูล่ะ$1"
 			}
 },
      //Townsfolk
@@ -98,10 +98,10 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "spring_20": "It's good to see Marnie and Lewis together.$1",
-            "summer_28": "Hello, @.$0#$e#Don't tell Lewis and Marnie but...$0#$b#Everyone here in town already knew about them.$1",
-            "spring_20_2": "It's good to see Marnie and Lewis together.$1",
-            "summer_28_2": "Hello, @.$0#$e#Don't tell Lewis and Marnie but...$0#$b#Everyone here in town already knew about them.$1"
+            "spring_20": "มันดีจริงๆ นะ ที่ได้เห็นมานี กับเลวิสอยู่ด้วยกัน$1",
+            "summer_28": "สวัสดีจ้ะ @$0#$e#อย่าบอกเลวิสกับมานีนะ แต่ว่า...$0#$b#ทุกคนในเมืองก็รู้กันหมด เรื่องพวกเขาสองคนน่ะ$1",
+            "spring_20_2": "มันดีจริงๆ นะ ที่ได้เห็นมานี กับเลวิสอยู่ด้วยกัน$1",
+            "summer_28_2": "สวัสดีจ้ะ @$0#$e#อย่าบอกเลวิสกับมานีนะ แต่ว่า...$0#$b#ทุกคนในเมืองก็รู้กันหมด เรื่องพวกเขาสองคนน่ะ$1"
 			}
 },
 {
@@ -113,10 +113,10 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "summer_3": "Pierre and I used to talk sometimes about Marnie and Lewis.$0#$b#Turns out we were right about them.$0#$e#They make a good couple.$1",
-            "winter_19": "Hello, @.$0#$e#I was thinking... why were Lewis and Marnie even trying to hide their relationship?$0#$b#It wasn't even a secret to most people in town.$0",
-            "summer_3_2": "Pierre and I used to talk sometimes about Marnie and Lewis.$0#$b#Turns out we were right about them.$0#$e#They make a good couple.$1",
-            "winter_19_2": "Hello, @.$0#$e#I was thinking... why were Lewis and Marnie even trying to hide their relationship?$0#$b#It wasn't even a secret to most people in town.$0"
+            "summer_3": "ปิแอร์กับฉันก็เคยคุยกัน เรื่องมานีกับเลวิสบ้างนะ$0#$b#แล้วก็กลายเป็นว่า พวดเราคิดถูก$0#$e#พวกเขาเป็นคู่ที่ดีนะ$1",
+            "winter_19": "สวัสดี @$0#$e#ฉันเคยคิดนะ... ว่าทำไมเลวิสกับมานี ต้องปิดบังความสัมพันธ์ด้วย?$0#$b#มันแทบไม่เป็นความลับ กับคนในเมืองส่วนใหญ่ ซะด้วยซ้ำ$0",
+            "summer_3_2": "ปิแอร์กับฉันก็เคยคุยกัน เรื่องมานีกับเลวิสบ้างนะ$0#$b#แล้วก็กลายเป็นว่า พวดเราคิดถูก$0#$e#พวกเขาเป็นคู่ที่ดีนะ$1",
+            "winter_19_2": "สวัสดี @$0#$e#ฉันเคยคิดนะ... ว่าทำไมเลวิสกับมานี ต้องปิดบังความสัมพันธ์ด้วย?$0#$b#มันแทบไม่เป็นความลับ กับคนในเมืองส่วนใหญ่ ซะด้วยซ้ำ$0"
 			}
 },
 {
@@ -128,10 +128,10 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "summer_23": "It's nice that Lewis has finally admitted his relationship with Marnie.$0#$b#I thought that they would be hiding forever.$0",
-            "winter_15": "Hello, dear.$0#$e#Your grandfather would be pleased to see Marnie and Lewis finally together.$0#$b#He and I always thought that they were a good couple.",
-            "summer_23_2": "It's nice that Lewis has finally admitted his relationship with Marnie.$0#$b#I thought that they would be hiding forever.$0",
-            "winter_15_2": "Hello, dear.$0#$e#Your grandfather would be pleased to see Marnie and Lewis finally together.$0#$b#He and I always thought that they were a good couple."
+            "summer_23": "มันดีมากเลยล่ะ ที่เลวิสยอมรับว่าเขา มีความสัมพันธ์กับมานี$0#$b#ฉันคิดว่าพวกเขาจะปิดมัน ไปตลอดซะอีก$0",
+            "winter_15": "สวัสดีจ้ะ ที่รัก$0#$e#ปู่ของเธอคงจะดีใจ ที่ได้เห็นมานีกับเลวิสคบกัน$0#$b#ปู่ของเธอกับฉัน คิดว่าพวกเขาเป็นคู่ที่ดีน่ะ",
+            "summer_23_2": "มันดีมากเลยล่ะ ที่เลวิสยอมรับว่าเขา มีความสัมพันธ์กับมานี$0#$b#ฉันคิดว่าพวกเขาจะปิดมัน ไปตลอดซะอีก$0",
+            "winter_15_2": "สวัสดีจ้ะ ที่รัก$0#$e#ปู่ของเธอคงจะดีใจ ที่ได้เห็นมานีกับเลวิสคบกัน$0#$b#ปู่ของเธอกับฉัน คิดว่าพวกเขาเป็นคู่ที่ดีน่ะ"
 			}
 },
 {
@@ -143,10 +143,10 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "spring_10": "Marnie and Lewis were so obvious.$0#$b#They come to the saloon every Friday and just talk to each other.$1",
-            "fall_21": "I always knew that Lewis had something with Marnie.$0#$b#You know, the benefits of being a bartender.$1",
-            "spring_10_2": "Marnie and Lewis were so obvious.$0#$b#They come to the saloon every Friday and just talk to each other.$1",
-            "fall_21_2": "I always knew that Lewis had something with Marnie.$0#$b#You know, the benefits of being a bartender.$1"
+            "spring_10": "มานีกับเลวิสน่ะ เห็นอยู่ชัดๆ เลยครับ$0#$b#พวกเขามาซาลูนกัน ทุกวันศุกร์ แล้วก็พูดคุยกัน 2 คน$1",
+            "fall_21": "ผมรู้อยู่แล้ว ว่าเลวิสต้องซัมติง กับมานีแน่ๆ$0#$b#คุณก็รู้ เป็นบาร์เทนเดอร์ ก็ดีตรงนี้แหละครับ$1",
+            "spring_10_2": "มานีกับเลวิสน่ะ เห็นอยู่ชัดๆ เลยครับ$0#$b#พวกเขามาซาลูนกัน ทุกวันศุกร์ แล้วก็พูดคุยกัน 2 คน$1",
+            "fall_21_2": "ผมรู้อยู่แล้ว ว่าเลวิสต้องซัมติง กับมานีแน่ๆ$0#$b#คุณก็รู้ เป็นบาร์เทนเดอร์ ก็ดีตรงนี้แหละครับ$1"
 			}
 },
      //Festivals
@@ -157,7 +157,7 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries": {
-            "Marnie": "Love is in the air...$0#$b#Maybe Lewis will ask me to dance with him later...$1",
+            "Marnie": "ความรัก ล่องลอยอยู่ทุกหนแห่ง...$0#$b#บางทีเลวิส คงจะขอฉันเต้นรำทีหลัง...$1",
 			}
 },
 //Schedules | 4 hearts event
@@ -171,14 +171,14 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries":  {
-            "spring.001": "Caroline shared some of her tea recipes with me.$0#$b#Lewis loves tea.$1",
-            "spring.002": "I've asked Lewis to teach me some gardening.$0#$b#But I don't know if I'll have time to take care of a garden.$2",
-            "summer.001": "Lewis does an excellent job as the Mayor.$1",
-            "summer.002": "After exercising, it's relaxing to walk along the beach.$1",
-            "fall.001": "Lewis and I fed the cows earlier.$0",
-            "fall.002": "@!?$4#$b#W-What are you doing here?!$4",
-            "winter.001": "@!?$4#$b#T-This is Lewis's bedroom!$4",
-            "winter.002": "@!?$4#$b#C-Could you leave?$4"
+            "spring.001": "แคโรไลน์บอกสูตรชงชา กับฉันด้วยล่ะ$0#$b#เลวิสชอบดื่มชาจ้ะ$1",
+            "spring.002": "ฉันขอให้เลวิส สอนวิธีทำสวน$0#$b#แต่ฉันก็ไม่รู้ว่าจะมีเวลา ดูแลสวนรึเปล่า$2",
+            "summer.001": "เลวิสทำงานในฐานะ นายกเทศมนตรี ได้อย่างยอดเยี่ยม$1",
+            "summer.002": "หลังจากออกกำลังกายแบบนี้ การเดินไปตามชายหาด จะช่วยให้ผ่อนคลายนะ$1",
+            "fall.001": "ก่อนหน้านี้ เลวิสกัยฉัน ให้อาหารวัวด้วยกันล่ะจ้ะ$0",
+            "fall.002": "@!?$4#$b#ธ-เธอมาทำอะไรที่นี่?!$4",
+            "winter.001": "@!?$4#$b#น-นี่มันห้องนอนของเลวิสนะ!$4",
+            "winter.002": "@!?$4#$b#ก-กรุณาออกไปได้มั้ย?$4"
             },
 },
 {
@@ -210,14 +210,14 @@
 	"HasSeenEvent": "59020016"
 		},
 "Entries":  {
-            "spring.001": "Marnie makes the best green tea.$1",
-            "spring.002": "I'm glad that Marnie thinks so highly of my garden.$1",
-            "summer.001": "I love coming to Marnie's house.$1#$b#Mine is too quiet since I live alone.$0",
-            "summer.002": "Marnie wants to come to the beach with Jas someday.$0#$b#Maybe Shane could also come with us.$0",
-            "fall.001": "The forest looks beautiful this time of the year.$1",
-            "fall.002": "How did you get in here, @?!$4#$b#Leave, please!$4",
-            "winter.001": "What is this?!$4#$b#Leave, @!$4",
-            "winter.002": "This is my bedroom, @!$4#$b#Please leave!$4"
+            "spring.001": "มานีชงชาได้เยี่ยมที่สุด$1",
+            "spring.002": "ฉันดีใจจัง ที่มานีชอบสวนของฉัน$1",
+            "summer.001": "ฉันชอบมาบ้านมานีน่ะ$1#$b#บ้านฉันมันเงียบไปหน่อย ตั้งแต่อยู่ที่นั่นคนเดียว$0",
+            "summer.002": "บางวันมานีกับแจส ก็อยากมาทะเลน่ะ$0#$b#เชนน่าจะมากับเราบ้าง$0",
+            "fall.001": "ป่าช่างดูสวยงาม ในช่วงเวลานี้ของปี$1",
+            "fall.002": "เธอเข้ามาในนี้ได้ไง @?!$4#$b#ออกไปซะ ขอร้องล่ะ!$4",
+            "winter.001": "อะไรเนี่ย?!$4#$b#ออกไปนะ @!$4",
+            "winter.002": "นี่ห้องนอนฉันนะ @!$4#$b#ขอร้องล่ะ ออกไปซะ!$4"
             },
 },
 {
@@ -277,8 +277,8 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "Tue4": "It's so wonderful to be finally free to spend all the time I want with Lewis.$1",
-            "Fri4": "I'm so glad that you moved here, @.$0#$b#You really have helped Lewis and I.$1",
+            "Tue4": "มันดีมากเลยที่ได้ ใช้เวลาร่วมกับเลวิส แบบเปิดเผยแบบนี้$1",
+            "Fri4": "ฉันดีใจนะ ที่เธอย้ายมาอยู่ที่นี้ @$0#$b#เธอช่วยเลวิสกับฉัน เยอะเลย$1",
 			}
 },
      //Lewis
@@ -291,8 +291,8 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "Mon4": "I don't even know why I thought you would all react badly to me and Marnie dating.$0",
-            "Wed4": "Hello, @.$0#$e#I can't thank you enough for encouraging me to admit my relationship publicly.$0",
+            "Mon4": "ฉันไม่รู้ด้วยซ้ำ ว่าทำไมฉันถึงคิดว่า เธอจะมีปฏิกิริยาไม่ดีด้วย ถ้ารู้ว่าฉันคบกับมานี$0",
+            "Wed4": "สวัสดี @$0#$e#ฉันไม่รู้จะขอบคุณ เธอยังไงถึงจะพอ ที่เธอช่วยให้ฉัน มีความกล้าที่จะเปิดเผย ความสัมพันธ์ของฉันกับมานี ให้ทุกคนรู้$0",
 			}
 },
      //Shane
@@ -305,10 +305,10 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "Tue4": "It's still a little awkward to see Lewis all day at our house...$2",
-            "Wed2": "I don’t know if it’s good for Jas to spend so much time with Lewis when not too long ago they were kind of strangers.$2",
-            "Sat6": "Lewis will probably come by again today...$3",
-            "Sun4": "Jas really likes playing with Lewis.$3#$b#Guess he's a better influence than me.$3"
+            "Tue4": "มันก็ยังรู้สึกอึดอัดอยู่ดี เวลาที่เลวิส มาอยู่ที่บ้านเราทั้งวัน...$2",
+            "Wed2": "ฉันไม่รู้ว่ามันดีกับแจสรึเปล่า ที่ใช้เวลากับเลวิสขนาดนี้ ทั้งที่ก่อนหน้านี้ยังเหมือน เป็นคนแปลกหน้าด้วยซ้ำ$2",
+            "Sat6": "สงสัยวันนี้เลวิสจะมาอีก...$3",
+            "Sun4": "แจสชอบเล่นกับเลวิสมาก$3#$b#สงสัยเขาคงจะ โน้มน้าวเก่งกว่าฉัน$3"
 			}
 },
      //Jas
@@ -321,17 +321,17 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "Mon6": "Hello, Mister @.^Hello Miss @.$0#$e#Do you think Uncle Lewis will live with us someday?$3",
-            "Tue4": "Are you looking for Aunt Marnie?$0#$e#Or maybe for Uncle Lewis?$1",
-            "Tue10": "I like Uncle Lewis, he always plays with me when he visits Aunt Marnie.$1",
-            "Wed6": "Shane and Aunt Marnie are always busy, but now I can play with Uncle Lewis!$1",
-            "Wed8": "I'm going to ask Uncle Lewis if he could expand the park.$0#$b#It's enough for Vincent and I, but I want other kids to come and play with us!$1",
-            "Thu6": "I should ask Uncle Lewis and Aunt Marnie to bake a pink cake with me.$1#$e#Bye!$1",
-            "Fri8": "I like when Uncle Lewis comes to our house.$0#$b#He always brings me pretty fairy roses.$1",
-            "Fri10": "Guess what?$0#$b#Uncle Lewis gave me a new doll yesterday.$1#$b#Do you want to play together?$0",
-            "Sat8": "Tomorrow I'm going to watch the new Minsa the Fairy movie with Shane, Aunt Marnie, and Uncle Lewis!$1",
-            "Sun4": "I always thought it was weird that Uncle Lewis always came to our house late at night.$3",
-            "Sun10": "Uncle Lewis promised that he would take me to Zuzu City someday with Aunt Marnie.$1"
+            "Mon6": "สวัสดีค่ะ พี่ @^สวัสดีค่ะ พี่ @$0#$e#พี่คิดว่า สักวันนึง ลุงเลวิสจะมาอยู่กับเรามั้ย?$3",
+            "Tue4": "พี่มาหาป้ามานีหรอคะ?$0#$e#หรือว่ามาหาลุงเลวิสล่ะ?$1",
+            "Tue10": "หนูชอบลุงเลวิส เขาจะเล่นกับหนูเสมอ เวลาที่มาหาป้ามานี$1",
+            "Wed6": "เชน กับป้ามานียุ่งตลอด แต่ตอนนี้หนูเล่น กับลุงเลวิสได้!$1",
+            "Wed8": "หนูว่าจะขอลุงเลวิส ถ้าเขาสามารถขยาย สวนสาธารณะได้$0#$b#มันกว้างพอ สำหรับวินเซนท์กับหนู แต่หนูอยากให้มีเด็กคนอื่นมา แล้วก็เล่นกับเราด้วย!$1",
+            "Thu6": "หนูจะขอให้ลุงเลวิส กับป้ามานีทำเค้กชมพูให้หนู$1#$e#บ๊ายบาย!$1",
+            "Fri8": "หนูชอบเวลาที่ ลุงเลวิสมาที่บ้าน$0#$b#เขามักจะเอา ดอกแฟรี่โรสแสนสวย มาให้หนูด้วย$1",
+            "Fri10": "รู้มั้ยคะ?$0#$b#เมื่อวานลุงเลวิส เอาตุ๊กตาใหม่มาให้หนูด้วย$1#$b#อยากจะเล่นด้วยกันมั้ยคะ?$0",
+            "Sat8": "พรุ่งนี้หนูจะไปดูหนังใหม่ เรื่องนางฟ้ามินซ่า กับเชน ป้ามานีและลุงเลวิส!$1",
+            "Sun4": "หนูคิดว่ามันแปลกๆนะ ที่ลุงเลวสิชอบมาบ้านเรา ตอนดึกๆ$3",
+            "Sun10": "ลุงเลวิสสัญญาว่า วันนึงจะพาหนูกับป้ามานี ไปเมืองซูซูล่ะ$1"
 			}
 },
      //Townsfolk
@@ -344,10 +344,10 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "spring_20": "It's good to see Marnie and Lewis together.$1",
-            "summer_28": "Hello, @.$0#$e#Don't tell Lewis and Marnie but...$0#$b#Everyone here in town already knew about them.$1",
-            "spring_20_2": "It's good to see Marnie and Lewis together.$1",
-            "summer_28_2": "Hello, @.$0#$e#Don't tell Lewis and Marnie but...$0#$b#Everyone here in town already knew about them.$1"
+            "spring_20": "มันดีจริงๆ นะ ที่ได้เห็นมานี กับเลวิสอยู่ด้วยกัน$1",
+            "summer_28": "สวัสดีจ้ะ @$0#$e#อย่าบอกเลวิสกับมานีนะ แต่ว่า...$0#$b#ทุกคนในเมืองก็รู้กันหมด เรื่องพวกเขาสองคนน่ะ$1",
+            "spring_20_2": "มันดีจริงๆ นะ ที่ได้เห็นมานี กับเลวิสอยู่ด้วยกัน$1",
+            "summer_28_2": "สวัสดีจ้ะ @$0#$e#อย่าบอกเลวิสกับมานีนะ แต่ว่า...$0#$b#ทุกคนในเมืองก็รู้กันหมด เรื่องพวกเขาสองคนน่ะ$1"
 			}
 },
 {
@@ -359,10 +359,10 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "summer_3": "Pierre and I used to talk sometimes about Marnie and Lewis.$0#$b#Turns out we were right about them.$0#$e#They make a good couple.$1",
-            "winter_19": "Hello, @.$0#$e#I was thinking... why were Lewis and Marnie even trying to hide their relationship?$0#$b#It wasn't even a secret to most people in town.$0",
-            "summer_3_2": "Pierre and I used to talk sometimes about Marnie and Lewis.$0#$b#Turns out we were right about them.$0#$e#They make a good couple.$1",
-            "winter_19_2": "Hello, @.$0#$e#I was thinking... why were Lewis and Marnie even trying to hide their relationship?$0#$b#It wasn't even a secret to most people in town.$0"
+            "summer_3": "ปิแอร์กับฉันก็เคยคุยกัน เรื่องมานีกับเลวิสบ้างนะ$0#$b#แล้วก็กลายเป็นว่า พวดเราคิดถูก$0#$e#พวกเขาเป็นคู่ที่ดีนะ$1",
+            "winter_19": "สวัสดี @$0#$e#ฉันเคยคิดนะ... ว่าทำไมเลวิสกับมานี ต้องปิดบังความสัมพันธ์ด้วย?$0#$b#มันแทบไม่เป็นความลับ กับคนในเมืองส่วนใหญ่ ซะด้วยซ้ำ$0",
+            "summer_3_2": "ปิแอร์กับฉันก็เคยคุยกัน เรื่องมานีกับเลวิสบ้างนะ$0#$b#แล้วก็กลายเป็นว่า พวดเราคิดถูก$0#$e#พวกเขาเป็นคู่ที่ดีนะ$1",
+            "winter_19_2": "สวัสดี @$0#$e#ฉันเคยคิดนะ... ว่าทำไมเลวิสกับมานี ต้องปิดบังความสัมพันธ์ด้วย?$0#$b#มันแทบไม่เป็นความลับ กับคนในเมืองส่วนใหญ่ ซะด้วยซ้ำ$0"
 			}
 },
 {
@@ -374,10 +374,10 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "summer_23": "It's nice that Lewis has finally admitted his relationship with Marnie.$0#$b#I thought that they would be hiding forever.$0",
-            "winter_15": "Hello, dear.$0#$e#Your grandfather would be pleased to see Marnie and Lewis finally together.$0#$b#He and I always thought that they were a good couple.",
-            "summer_23_2": "It's nice that Lewis has finally admitted his relationship with Marnie.$0#$b#I thought that they would be hiding forever.$0",
-            "winter_15_2": "Hello, dear.$0#$e#Your grandfather would be pleased to see Marnie and Lewis finally together.$0#$b#He and I always thought that they were a good couple."
+            "summer_23": "มันดีมากเลยล่ะ ที่เลวิสยอมรับว่าเขา มีความสัมพันธ์กับมานี$0#$b#ฉันคิดว่าพวกเขาจะปิดมัน ไปตลอดซะอีก$0",
+            "winter_15": "สวัสดีจ้ะ ที่รัก$0#$e#ปู่ของเธอคงจะดีใจ ที่ได้เห็นมานีกับเลวิสคบกัน$0#$b#ปู่ของเธอกับฉัน คิดว่าพวกเขาเป็นคู่ที่ดีน่ะ.",
+            "summer_23_2": "มันดีมากเลยล่ะ ที่เลวิสยอมรับว่าเขา มีความสัมพันธ์กับมานี$0#$b#ฉันคิดว่าพวกเขาจะปิดมัน ไปตลอดซะอีก$0",
+            "winter_15_2": "สวัสดีจ้ะ ที่รัก$0#$e#ปู่ของเธอคงจะดีใจ ที่ได้เห็นมานีกับเลวิสคบกัน$0#$b#ปู่ของเธอกับฉัน คิดว่าพวกเขาเป็นคู่ที่ดีน่ะ"
 			}
 },
 {
@@ -389,10 +389,10 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "spring_10": "Marnie and Lewis were so obvious.$0#$b#They come to the saloon every Friday and just talk to each other.$1",
-            "fall_21": "I always knew that Lewis had something with Marnie.$0#$b#You know, the benefits of being a bartender.$1",
-            "spring_10_2": "Marnie and Lewis were so obvious.$0#$b#They come to the saloon every Friday and just talk to each other.$1",
-            "fall_21_2": "I always knew that Lewis had something with Marnie.$0#$b#You know, the benefits of being a bartender.$1"
+            "spring_10": "มานีกับเลวิสน่ะ เห็นอยู่ชัดๆ เลยครับ$0#$b#พวกเขามาซาลูนกัน ทุกวันศุกร์ แล้วก็พูดคุยกัน 2 คน$1",
+            "fall_21": "ผมรู้อยู่แล้ว ว่าเลวิสต้องซัมติง กับมานีแน่ๆ$0#$b#คุณก็รู้ เป็นบาร์เทนเดอร์ ก็ดีตรงนี้แหละครับ$1",
+            "spring_10_2": "มานีกับเลวิสน่ะ เห็นอยู่ชัดๆ เลยครับ$0#$b#พวกเขามาซาลูนกัน ทุกวันศุกร์ แล้วก็พูดคุยกัน 2 คน$1",
+            "fall_21_2": "ผมรู้อยู่แล้ว ว่าเลวิสต้องซัมติง กับมานีแน่ๆ$0#$b#คุณก็รู้ เป็นบาร์เทนเดอร์ ก็ดีตรงนี้แหละครับ$1"
 			}
 },
      //Festivals
@@ -403,7 +403,7 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries": {
-            "Marnie": "Love is in the air...$0#$b#Maybe Lewis will ask me to dance with him later...$1",
+            "ความรัก ล่องลอยอยู่ทุกหนแห่ง...$0#$b#บางทีเลวิส คงจะขอฉันเต้นรำทีหลัง...$1",
 			}
 },
 //Schedules | 4 hearts event
@@ -417,14 +417,14 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries":  {
-            "spring.001": "Caroline shared some of her tea recipes with me.$0#$b#Lewis loves tea.$1",
-            "spring.002": "I've asked Lewis to teach me some gardening.$0#$b#But I don't know if I'll have time to take care of a garden.$2",
-            "summer.001": "Lewis does an excellent job as the Mayor.$1",
-            "summer.002": "After exercising, it's relaxing to walk along the beach.$1",
-            "fall.001": "Lewis and I fed the cows earlier.$0",
-            "fall.002": "@!?$4#$b#W-What are you doing here?!$4",
-            "winter.001": "@!?$4#$b#T-This is Lewis's bedroom!$4",
-            "winter.002": "@!?$4#$b#C-Could you leave?$4"
+            "spring.001": "แคโรไลน์บอกสูตรชงชา กับฉันด้วยล่ะ$0#$b#เลวิสชอบดื่มชาจ้ะ$1",
+            "spring.002": "ฉันขอให้เลวิส สอนวิธีทำสวน$0#$b#แต่ฉันก็ไม่รู้ว่าจะมีเวลา ดูแลสวนรึเปล่า$2",
+            "summer.001": "เลวิสทำงานในฐานะ นายกเทศมนตรี ได้อย่างยอดเยี่ยม$1",
+            "summer.002": "หลังจากออกกำลังกายแบบนี้ การเดินไปตามชายหาด จะช่วยให้ผ่อนคลายนะ$1",
+            "fall.001": "ก่อนหน้านี้ เลวิสกัยฉัน ให้อาหารวัวด้วยกันล่ะจ้ะ$0",
+            "fall.002": "@!?$4#$b#ธ-เธอมาทำอะไรที่นี่?!$4",
+            "winter.001": "@!?$4#$b#น-นี่มันห้องนอนของเลวิสนะ!$4",
+            "winter.002": "@!?$4#$b#ก-กรุณาออกไปได้มั้ย?$4"
             },
 },
 {
@@ -456,14 +456,14 @@
 	"HasSeenEvent": "639373"
 		},
 "Entries":  {
-            "spring.001": "Marnie makes the best green tea.$1",
-            "spring.002": "I'm glad that Marnie thinks so highly of my garden.$1",
-            "summer.001": "I love coming to Marnie's house.$1#$b#Mine is too quiet since I live alone.$0",
-            "summer.002": "Marnie wants to come to the beach with Jas someday.$0#$b#Maybe Shane could also come with us.$0",
-            "fall.001": "The forest looks beautiful this time of the year.$1",
-            "fall.002": "How did you get in here, @?!$4#$b#Leave, please!$4",
-            "winter.001": "What is this?!$4#$b#Leave, @!$4",
-            "winter.002": "This is my bedroom, @!$4#$b#Please leave!$4"
+            "spring.001": "มานีชงชาได้เยี่ยมที่สุด$1",
+            "spring.002": "ฉันดีใจจัง ที่มานีชอบสวนของฉัน$1",
+            "summer.001": "ฉันชอบมาบ้านมานีน่ะ$1#$b#บ้านฉันมันเงียบไปหน่อย ตั้งแต่อยู่ที่นั่นคนเดียว$0",
+            "summer.002": "บางวันมานีกับแจส ก็อยากมาทะเลน่ะ$0#$b#เชนน่าจะมากับเราบ้าง$0",
+            "fall.001": "ป่าช่างดูสวยงาม ในช่วงเวลานี้ของปี$1",
+            "fall.002": "เธอเข้ามาในนี้ได้ไง @?!$4#$b#ออกไปซะ ขอร้องล่ะ!$4",
+            "winter.001": "อะไรเนี่ย?!$4#$b#ออกไปนะ @!$4",
+            "winter.002": "นี่ห้องนอนฉันนะ @!$4#$b#ขอร้องล่ะ ออกไปซะ!$4"
             },
 },
 {
@@ -521,9 +521,9 @@
 	"HasSeenEvent": "59020013"
 		},
 "Entries": {
-            "Tue6": "Oh, @, I'm so thankful that you convinced Lewis that night.$1#$b#If you ever need anything, just tell me!$1",
-            "Thu6": "Caroline invited Lewis and I to have tea with her.$0#$b#I'm looking forward to it, her sunroom is beautiful.$1",
-            "Sun6": "Lewis sometimes comes and helps me with the animals.$0"
+            "Tue6": "โอ้ @ ขอบคุณมาก ที่ช่วยโน้มน้าวเลวิส เมื่อคืนนี้นะ$1#$b#ถ้าเธอต้องการอะไรละก็ บอกฉันได้เลยจ้ะ!$1",
+            "Thu6": "แคโรไลน์ชวนเลวิส และฉันไปดื่มชากับเธอ$0#$b#ฉันตั้งตาคอยเลยล่ะจ้ะ เรือนกระจกของเธอสวยมาก$1",
+            "Sun6": "บางครั้งเลวิสก็มาหา แล้วช่วยฉันดูแลสัตว์ด้วยล่ะจ้ะ$0"
 			}
 },
      //Lewis
@@ -535,9 +535,9 @@
 	"HasSeenEvent": "59020013"
 		},
 "Entries": {
-            "Tue6": "I regret hiding my relationship with Marnie for so long.$2#$b#I knew Marnie was hurting but I was a coward...$2",
-            "Thu6": "Hello, @.$0#$bMarnie has been giving me ideas on how to improve our town.$1",
-            "Sun6": "Hello, @$0#$e#I have never had animals on my own, but I think Marnie's like me.$1"
+            "Tue6": "ฉันเสียใจที่ปิดบัง ความสัมพันธ์ของฉันกับมานี มาตั้งนาน$2#$b#ฉันรู้ว่ามานีต้องเจ็บปวด เพราะความขี้ขลาดของฉัน...$2",
+            "Thu6": "สวัสดี @$0#$bมานีช่วยเสนอ ไอเดียใหม่ให้ฉันเกี่ยวกับ พัฒนาเมืองของเราด้วยล่ะ$1",
+            "Sun6": "สวัสดี @$0#$e#ฉันไม่เคยเลี้ยงสัตว์มาก่อน แต่ฉันว่าสัตว์เลี้ยงของมานี จะชอบฉันนะ$1"
 			}
 },
     
@@ -551,31 +551,31 @@
 	"HasSeenEvent": "59020015"
 		},
 "Entries": {
-            "Mon10": "Lewis is so kind to Jas, I love that side of him.$1#$b#And Jas adores to play with Lewis.$1",
-            "Tue10": "Lewis can easily get stressed over his work as Mayor.$0#$b#When that happens, I invite him to come over and we have dinner with Shane and Jas.$1",
-            "Wed10": "Truth is, between Shane, Jas and the animals, I don’t get much time alone with Lewis.$2",
-            "Thu10": "Lewis loves me just the way I am.$1#$b#That's one of the reasons I think he's the one for me.$1",
-            "Fri10": "Shane loves pizza, so Lewis is trying to learn how to make it.$1#$b#I think he is going to ask Gus for help.$1",
-            "Sat10": "Sometimes I get behind on my household chores.$0#$b#Now that I can freely be with Lewis, I've been distracted from everything else.$0",
-            "Sun10": "Lewis's house is so peaceful...$0#$e#Oh, it's not like I don't like having Jas and Shane around.$0#$b#Sometimes I just need some time to relax.$0",
-            "spring_Mon10": "Hello, @.$0#$e#Spring is the season of love.$1#$e#I should visit Lewis more often.$1",
-            "spring_Wed10": "Jas went with Vincent to play in the forest last week.$0#$b#She picked up daffodils for Lewis, Shane and me.$1#$e#She is such a good kid.$1",
-            "spring_Thu10": "Hello, @.$0#$e#Yesterday Lewis brought me a bouquet of flowers.$1#$e#He's so romantic...$1",
-            "summer_Tue10": "Maybe I'll go to the beach with Jas and Lewis today.$0#$b#Vincent should come with us too, I'll tell Jodi.$1",
-            "summer_Wed10": "If we were just younger, maybe Lewis and I would think about having kids.$3",
-            "summer_Fri10": "I think the animals are getting very attached to Lewis.$1#$b#Especially our cow Chenny.$1#$e#Have a good day!$1",
-            "fall_Tue10": "Hello, @.$0#$e#Don't forget to store enough hay for the winter.$0#$e#Lewis is helping me to prepare everything I need.$0#$e#But he's kind of clumsy with the animals.$1",
-            "fall_Sat10": "Lewis has a lot of work during Fall.$0#$b#The fair is an important event for the town because it brings in a lot of tourists.$1",
-            "fall_Sun10": "Lewis helped Jas with her homework yesterday.$0#$e#Also, he bought a new book for her to read.$1#$e#They're getting along really well.$1",
-            "winter_Mon10": "I have so many things to be grateful for this year.$0#$b#I'm looking forward to spending the next year with the ones I love.$1",
-            "winter_Thu10": "Winter is one of my favorite seasons.$0#$e#Well... it's when I spend the most time with Lewis.$1",
-            "winter_Sat10": "Hello, @.$0#$e#Our cow Lulu gave birth last night.$0#$b#Lewis told me to name the baby after him.$1",
-            "spring_7": "Hello, @.$0#$e#Jas is going to help me bake a cake for Lewis.$1#$b#You didn't know? It's his birthday today.$1",
-            "summer_10": "Lewis and I already chose the ingredients for tomorrow.$0#$b#I'm sure you'll bring something excellent too.$1",
-            "fall_15": "I'm going to gather my best products for tomorrow's fair.$0#$b#I hope I can win.$0#$b#Oh, but don't worry, Lewis is going to be fair.$0",
-            "spring_7_2": "Hello, @.$0#$e#Jas is going to help me bake a cake for Lewis.$1#$b#You didn't know? It's his birthday today.$1",
-            "summer_10_2": "Lewis and I already chose the ingredients for tomorrow.$0#$b#I'm sure you'll bring something excellent too.$1",
-            "fall_15_2": "I'm going to gather my best products for tomorrow's fair.$0#$b#I hope I can win.$0#$b#Oh, but don't worry, Lewis is going to be fair.$0"
+            "Mon10": "เลวิสใจดีกับแจสมาก ฉันชอบมุมนี้ของเค้าจัง$1#$b#และแจสก็ ชอบเล่นกับเลวิสด้วย$1",
+            "Tue10": "เลวิสคงจะเครียดง่าย กับงานของเขา ในฐานะนายกเทศมนตรี$0#$b#พอเป็นแบบนั้น ฉันก็จะชวนเขามาที่บ้าน และทานมื้อค่ำด้วยกัน กับเชนและแจส$1",
+            "Wed10": "ความจริงแล้ว ทั้งเชน ทั้งแจส ทั้งพวกสัตว์ ฉันก็เลยไม่ค่อยมีเวลา อยู่กับเลวิสซักเท่าไหร่$2",
+            "Thu10": "เลวิสรักฉัน ในแบบที่ฉันเป็น$1#$b#ฉันเป็นเหตุผลที่ฉันคิดว่า เค้าคือคนเดียวสำหรับฉัน$1",
+            "Fri10": "เชนชอบพิซซ่า เพราะงั้นเวิสก็เลยหัดทำมัน$1#$b#ฉันว่าเขาคงจะขอให้กัสช่วย$1",
+            "Sat10": "บางทีฉันไม่ทัน ได้ทำงานบ้านเลย$0#$b#ตอนนี้ฉันสามารถอยู่กับ เลวิสได้แบบเปิดเผย ก่อนหน้านี้มีแต่เรื่อง ให้ว่อกแว่กตลอด$0",
+            "Sun10": "บ้านของเลวิส ช่างเงียบสงบ...$0#$e#โอ้ ไม่ใช่ว่าฉันไม่พอใจ ที่เชนกับแจสอยู่ด้วยนะ$0#$b#บางทีฉันก็แค่ ต้องการเวลาเพื่อพักผ่อน$0",
+            "spring_Mon10": "สวัสดี @$0#$e#ฤดูใบไม้ผลิ คือฤดูแห่งความรัก$1#$e#ฉันจะไปหาเลวิส บ่อยขึ้นละกัน$1",
+            "spring_Wed10": "แจสไปเล่นกัยวินเซนท์ในป่า เมื่ออาทิตย์ที่แล้ว$0#$b#เธอเก็บดอกแดฟโฟดิล มาให้เลวิส เชน แล้วก็ฉัน$1#$e#เธอช่างแสนดีอะไรอย่างนี้$1",
+            "spring_Thu10": "สวัสดีจ้ะ @$0#$e#เมื่อวานเลวิส ให้ช่อดอกไม้กับฉันด้วยล่ะ$1#$e#เขาโรแมนติกมากเลย...$1",
+            "summer_Tue10": "วันนี้ฉันอาจจะไป ชายหาดกับแจส และเลวิส$0#$b#วินเซนท์คงจะมากับเราด้วย ฉันจะบอกโจดี้ไว้ซักหน่อย$1",
+            "summer_Wed10": "ถ้าพวกเรายังหนุ่สาวกว่านี้ ไม่แน่นะว่าเลวิสกับฉัน คงจะมีลูกด้วยกัน$3",
+            "summer_Fri10": "ฉันว่าพวกสัตว์ ดูจะสนใจเลวิสนะ$1#$b#โดยเฉพาะวัวของเราที่ชื่อเชนนีย์$1#$e#ขอให้มีวันที่ดีนะจ๊ะ!$1",
+            "fall_Tue10": "สวัสดีจ้ะ @$0#$e#อย่าลืมกักตุนฟางไว้ ให้พอสำหรับฤดูหนาวล่ะ$0#$e#เลวิสช่วยฉัน เตรียมทุกอย่างไว้แล้ว$0#$e#แต่เขาออกจะเงอะงะไปหน่อย กับพวกสัตว์น่ะจ้ะ$1",
+            "fall_Sat10": "เลวิสมีงานต้องทำมากมาย ในช่วงฤดูใบไม้ร่วง$0#$b#งานแสดงสินค้าเป็นเทศกาล ที่สำคัญมากของเมือง ที่จะช่วยดึงดูด นักท่องเที่ยวมากมาย$1",
+            "fall_Sun10": "เลวิสช่วยแจส ทำการบ้านเมื่อวานนี้น่$0#$e#แล้วก็ เขาซื้อหนังสือใหม่ มาให้เธออ่าน$1#$e#พวกเขาเข้ากัน ได้ดีมากจริงๆ$1",
+            "winter_Mon10": "ฉันมีสิ่งดีๆ มากมายเกินขึ้นในปีนี้$0#$b#ฉันจะตั้งตาคอยปีถัดไป ที่ฉันจะได้ใช้เวลา ร่วมกันคนที่ฉันรัก$1",
+            "winter_Thu10": "ฤดูหนาว เป็นฤดูที่ฉันชอบมากที่สุด$0#$e#ก็... เป็นช่วงเวลาที่ฉัน จะได้ใช้เวลากับเลวิส มากที่สุดน่ะจ้ะ$1",
+            "winter_Sat10": "สวัสดี @$0#$e#วัวของเรา เจ้าลูลู่ คลอดลูกเมื่อคืนนี้ล่ะ$0#$b#เลวิสบอกให้ฉัน ตั้งชื่อตามเขา$1",
+            "spring_7": "สวัสดี @$0#$e#แจสจะช่วยฉัน อบขนมเค้กให้เลวิสล่ะ$1#$b#คุณรู้รู้เปล่า? วันนี้เป็นวันเกิดของเขาน่ะ$1",
+            "summer_10": "เลวิสกับฉัน เลือกวัตถุดิบ สำหรับวันพรุ่งนี้ไว้แล้ว$0#$b#ฉันเชื่อว่าเธอก็คง เอาวัตถุดิบคุณภาพเยี่ยม ไปเหมือนกันใช่มั้ยจ๊ะ$1",
+            "fall_15": "ฉันจะรวบรวม วัตถุดิบที่ดีที่สุด เพื่องานวันพรุ่งนี้เลย$0#$b#ฉันว่า ฉํนต้องชนะ$0#$b#โอ้ ไม่ต้องห่วงนะจ๊ะ เลวิสจะตัดสินอย่างยุติธรรม$0",
+            "spring_7_2": "สวัสดี @$0#$e#แจสจะช่วยฉัน อบขนมเค้กให้เลวิสล่ะ$1#$b#คุณรู้รู้เปล่า? วันนี้เป็นวันเกิดของเขาน่ะ$1",
+            "summer_10_2": "เลวิสกับฉัน เลือกวัตถุดิบ สำหรับวันพรุ่งนี้ไว้แล้ว$0#$b#ฉันเชื่อว่าเธอก็คง เอาวัตถุดิบคุณภาพเยี่ยม ไปเหมือนกันใช่มั้ยจ๊ะ$1",
+            "fall_15_2": "ฉันจะรวบรวม วัตถุดิบที่ดีที่สุด เพื่องานวันพรุ่งนี้เลย$0#$b#ฉันว่า ฉํนต้องชนะ$0#$b#โอ้ ไม่ต้องห่วงนะจ๊ะ เลวิสจะตัดสินอย่างยุติธรรม$0"
 			}
 },
      //Lewis
@@ -587,31 +587,31 @@
 	"HasSeenEvent": "59020015"
 		},
 "Entries": {
-            "Mon10": "I love visiting Marnie, her house is always so lively.$1#$e#I've realised that it's upsetting sometimes to live alone.$2",
-            "Tue10": "Hello, @!$1#$e#I have a special date with Marnie today, that's why I'm so pleased.$1#$e#I was nice talking to you. I have to leave now, have a good day!$1",
-            "Wed10": "Jas asked me to expand the park so that she and Vincent don't argue anymore about who can ride on the swing first.$0#$b#Kids are so adorable.$1",
-            "Thu10": "I remember when Marnie moved in like it was yesterday.$0#$b#She looked so beautiful in that yellow dress.$1",
-            "Fri10": "Hello, @.$0#$e#Marnie and I are going to meet in the saloon later.$0#$b#Shane will also be there.$1#$e#You should come, too.$1",
-            "Sat10": "Marnie tells me that Penny is a great teacher for the kids.$0#$e#Maybe I should think of building a school in town.$0",
-            "Sun10": "Jas and Shane are good kids.$0#$b#They always welcome me when I go to their house.$1",
-            "spring_Tue10": "Marnie and I are going to take Jas to the forest this weekend.$0#$e#She said that she wanted to look for dandelions.$1",
-            "spring_Wed10": "Hello, @.$0#$e#Spring is such a romantic season.$0#$b#Right, @?$1",
-            "spring_Fri10": "It was around this time of year I asked Marnie on our first date...$0#$b#We went to the Secret Woods and had a picnic.$1",
-            "summer_Mon10": "Hello, @.$0#$e#I'm going to have dinner at Marnie's house today.$0#$b#We are making a pizza!$1#$b#Shane is going to love it.$1",
-            "summer_Wed10": "I don't think Marnie and I will ever have kids.$0#$b#We're just too old for it.$0#$b#Plus Jas is already like our kid.$1",
-            "summer_Thu10": "Jas likes to go to the beach these days.$1#$b#She plays with Vincent while Marnie and I sunbathe.$1",
-            "fall_Tue10": "Marnie and I have talked about moving in together, but I don't think we're going to.$0",
-            "fall_Sat10": "Hello, @.$0#$e#Shane and I helped Marnie with the chickens yesterday.$1#$b#Now that winter is coming, she's really busy preparing everything.$0",
-            "fall_Sun10": "Hello, @.$0#$e#I've been very busy these days because of the fair.$0#$e#I miss Marnie...$2",
-            "winter_Thu10": "Hello, @.$0#$e#Winter is the best season to be with your partner.$1",
-            "winter_Fri10": "What a wonderful day.$0#$b#I should visit Marnie today.$1",
-            "winter_Sun10": "Hello, @.$0#$e#You know, your grandfather always knew that Marnie and I had something special.$0",
-            "spring_23": "If I weren't so old, I would ask Marnie to dance with me at the Flower Dance.$1",
-            "fall_18": "Hello, @.$0#$e#Today's is Marnie's birthday, so I'll invite her over for dinner.$1",
-            "winter_24": "Hello, @.$0#$e#Are you ready for the Feast of the Winter Star?$0#$b#Marnie and I bought a doll house for Jas and some beers for Shane.$1",
-            "spring_23_2": "If I weren't so old, I would ask Marnie to dance with me at the Flower Dance.$1",
-            "fall_18_2": "Hello, @.$0#$e#Today's is Marnie's birthday, so I'll invite her over for dinner.$1",
-            "winter_24_2": "Hello, @.$0#$e#Are you ready for the Feast of the Winter Star?$0#$b#Marnie and I bought a doll house for Jas and some beers for Shane.$1"
+            "Mon10": "ฉันชอบไปหามานี บ้านของเธอ มีชีวิตชีวาเสมอ$1#$e#ฉันรู้สึกว่าบางทีมันก็เศร้าๆ ที่ต้องอยู่คนเดียว$2",
+            "Tue10": "สวัสดี @!$1#$e#วันนี้ ฉันมีเดตแสนพิเศษกับมานี ฉันก็เลยมีความสุขอย่างงี้น่ะ$1#$e#ดีจริงๆ นะ ที่ได้คุยกับเธอ ฉันต้องไปก่อนล่ะ ขอให้มีวันที่ดี!$1",
+            "Wed10": "แจสขอให้ฉัน ขยายสวนสาธารณะ เพื่อที่เธอกับวินเซนท์ จะได้ไม่ต้องทะเลาะกันว่า ใครจะได้เล่นชิงช้าก่อน$0#$b#เด็กๆ ช่างน่าเอ็นดูจริงๆ$1",
+            "Thu10": "ฉันจำได้ เมื่อตอนที่มานีย้ายเข้ามา อย่างกับพึ่งเกิดขึ้นเมื่อวาน$0#$b#เธอดูสวยมาก ในชุดกระโปรงสีเหลือง$1",
+            "Fri10": "สวัสดี @$0#$e#มานีกับฉัน จะไปเจอกันที่ซาลูน หลังจากนี้น่ะ$0#$b#เชนก็น่าจะอยู่ที่นั่นด้วย$1#$e#เธอก็มาด้วยกันสิ$1",
+            "Sat10": "มานีเล่าให้ฉันฟังว่า เพนนีเป็นครูที่ยอมเยี่ยม สำหรับพวกเด็กๆ$0#$e#บางทีฉันว่าฉันควรจะ สร้างโรงเรียนในเมือง$0",
+            "Sun10": "แจสกับเชนเป็นเด็กดีนะ$0#$b#พวกเขาต้อนรับฉันเสมอ เวลาที่ฉันไปบ้านพวกเขา$1",
+            "spring_Tue10": "มานีกับฉัน จะพาแจสไปเที่ยวในป่า ในวันสุดสัปดาห์นี้$0#$e#เธอบอกว่า เธออยากจะไดดู ดอกแดนดิไลออน$1",
+            "spring_Wed10": "สวัสดี @$0#$e#ฤดูใบไม้ผลิ เป็นฤดูที่โรแมนติกนะ$0#$b#ใช่มั้ยล่ะ @?$1",
+            "spring_Fri10": "มันเป็นช่วงเวลานี้ของปีล่ะ ที่ฉันขอมานี ออกเดตครั้งแรก...$0#$b#เราไปปิกนิกที่ป่าลึกลับกันน่ะ$1",
+            "summer_Mon10": "สวัสดี @$0#$e#ฉันกำลังจะไปทานมื้อค่ำ ที่บ้านของมานีวันนี้น่ะ$0#$b#เราจะทำพิซซ่ากัน!$1#$b#เชนต้องชอบมันแน่ๆ$1",
+            "summer_Wed10": "ฉันไม่คิดว่า มานีกับฉันจะมีลูกกันได้$0#$b#เราแก่เกินไป สำหรับเรื่องนั้นW$0#$b#แล้วแจสก็เหมือน ลูกของเราอยู่แล้วด้วย$1",
+            "summer_Thu10": "แจสชอบจะไปชายหาด ในวันแบบนี้แหละ$1#$b#เธอจะเล่นกับวินเซนท์ ส่วนมานีกับฉันจะอาบแดด$1",
+            "fall_Tue10": "มานีกับฉัน คุยกันเรื่องที่เรา จะย้ายไปอยู่ด้วยกัน แต่ฉันว่า เราคงจะทำไม่ได้น่ะ$0",
+            "fall_Sat10": "สวสัดี @$0#$e#เชนกับฉันช่วยมานี จัดการกับพวกไก่ เมื่อวานน่ะ$1#$b#ฤดูหนาวกับลังจะมาแล้ว เธอง่วนกับการเตรียมพร้อม ทุกอย่างไปหมด$0",
+            "fall_Sun10": "สวัสดี @$0#$e#ช่วงนี้ฉันกำลังยุ่ง เพราะงานแสดงสินค้าน่ะ$0#$e#คิดถึงมานีจัง...$2",
+            "winter_Thu10": "สวัสดี @$0#$e#ฤดูหนาว เป็นฤดูที่ดีที่สุด ในการอยู่กับคนรักของเธอนะ$1",
+            "winter_Fri10": "เป็นวันที่พิเศษจริงๆ$0#$b#วันนี้ไปหามานีดีมั้ยนะ$1",
+            "winter_Sun10": "สวัสดี @$0#$e#เธอรู้รึเปล่า ปู่ของเธอรู้มาตลอดว่า มานีกับฉันมีอะไรพิเศษๆ ต่อกัน$0",
+            "spring_23": "ถ้าฉันยังไม่แก่เกินไป ฉันจะขอมานีเต้นรำกับฉัน ในวันเทศกาลดอกไม้$1",
+            "fall_18": "สวัสดี @$0#$e#วันนี้เป็นวันเกิดของมานี เพราะงั้นฉันจะชวนเธอ มาทานมื้อค่ำที่บ้าน$1",
+            "winter_24": "สวัสดี @$0#$e#เธอพร้อมสำหรับงาน เทศกาลแห่งดวงดาวฤดูหนาว รึยังล่ะ?$0#$b#มานีกับฉันซื้อบ้านตุ๊กตาให้แจส แล้วก็ซื้อเบียร์ให้เชน$1",
+            "spring_23_2": "ถ้าฉันยังไม่แก่เกินไป ฉันจะขอมานีเต้นรำกับฉัน ในวันเทศกาลดอกไม้$1",
+            "fall_18_2": "สวัสดี @$0#$e#วันนี้เป็นวันเกิดของมานี เพราะงั้นฉันจะชวนเธอ มาทานมื้อค่ำที่บ้าน$1",
+            "winter_24_2": "สวัสดี @$0#$e#เธอพร้อมสำหรับงาน เทศกาลแห่งดวงดาวฤดูหนาว รึยังล่ะ?$0#$b#มานีกับฉันซื้อบ้านตุ๊กตาให้แจส แล้วก็ซื้อเบียร์ให้เชน$1"
 			}
 },
 //Dialogues | 8 hearts event
@@ -624,10 +624,10 @@
 	"HasSeenEvent": "59020014"
 		},
 "Entries": {
-            "Mon8": "Shane and Lewis have gotten closer these days.$0#$b#Lewis thinks of him like his son.$0",
-            "Wed8": "Looking back, maybe it was noticeable that there was something between me and Lewis...$2",
-            "Fri8": "Lewis's house is always tidy and neat.$0#$e#I could never manage that with Jas and Shane around.$3",
-            "Sat8": "It’s really embarrassing to think about how Lewis and I used to meet in secret...$2#$b#I can't help you enough for your help, @.$0",
+            "Mon8": "เชนกับเลวิส ดูสนิทกันตั้งแต่วันนั้นมา$0#$b#เลวิสคงคิดกับเขา เหมือนลูก$0",
+            "Wed8": "ถ้าลองมองย้อนกลับไป บางทีคงจะมีอะไร ให้สังเกตได้ว่า มีอะไรบางอย่างระหว่างฉัน กับเลวิสเนอะ...$2",
+            "Fri8": "บ้านของเลวิสนั้น สะอาดและเป็นระเบียบอยู่เสมอ$0#$e#ฉันคงจัดการแบบนั้นไม่ได้ ถ้าแจสและเชนอยู่ด้วย$3",
+            "Sat8": "มันน่าอายเหมือนกันนะ พอคิดว่าเลวิสกับฉัน ต้องเจอกันแบบแอบๆ ซ่อนๆ...$2#$b#ฉันไม่รู้จะตอบแทน เธอยังไงดี@$0",
 			}
 },
      //Lewis
@@ -639,10 +639,10 @@
 	"HasSeenEvent": "59020014"
 		},
 "Entries": {
-            "Tue8": "Hello, @.$0#$e#Have you seen Marnie today? She looks beautiful.$1",
-            "Fri8": "Hello, @.$0#$e#Marnie and I like to go to the saloon on Fridays.$1#$b#You should join us today.$1",
-            "Sat8": "@, if you ever need help you can come to Marnie or me.$0#$b#We will gladly help you.$1",
-            "Sun8": "Marnie wants to learn some gardening.$0#$e#Luckily she has the best teacher in town.$1",
+            "Tue8": "สวัสดี @$0#$e#วันนี้เธอเจอมานีรึยัง? เธอช่างส๊วยสวยซะจริง$1",
+            "Fri8": "สวัสดี @$0#$e#มานีกับฉัน จะไปซาลูนทุกวันศุกร์น่ะ$1#$b#เธอก็ไปด้วยกันวันนี้สิ$1",
+            "Sat8": "@ ถ้าเธอต้องการให้ช่วยละก็ มาหามานีหรือฉันได้ตลอดนะ$0#$b#พวกเราเต็มใจ ที่จะช่วยเธอนะ$1",
+            "Sun8": "มานีอยากจะเรียน วิธีการทำสวนน่ะ$0#$e#เธอโชคดีมาก ที่มีครูที่เก่งที่สุดในเมือง$1",
 			}
 },
      //Shane
@@ -654,11 +654,11 @@
 	"HasSeenEvent": "59020014"
 		},
 "Entries": {
-            "Mon8": "Marnie seems happier with Lewis.$0#$e#She deserves some time for herself, after having to raise Jas so unexpectedly.$0",
-            "Tue8": "It's good that Jas spends time with Marnie and Lewis.$0#$e#They're good influences for her.$0",
-            "Wed8": "Lewis has helped me to be a better person for Marnie and Jas.$3#$b#I'm thankful for that, I really need some encouragement to keep my mind focused.$0",
-            "Thu8": "Now it feels natural for Jas and me to have dinner with Lewis.$0",
-            "Sun8": "I guess Marnie, Jas, Lewis and I are some kind of weird family now.$0#$e#Feels good, though.$0"
+            "Mon8": "ป้ามานี ดูจะมีความสุขกับเลวิสนะ$0#$e#เธอควรจะได้หาความสุข ให้กับตัวเองบ้าง หลังจากที่ต้องรับแจสมาดูแล อย่างกระทันหันน่ะ$0",
+            "Tue8": "มันเป็นสิ่งที่ดี ที่แจสได้ใช้เวลากับป้ามานี และเลวิส$0#$e#พวกเขาจะเป็น แบบอย่างทีดีให้กับเธอ$0",
+            "Wed8": "เลวิสช่วยให้ฉันเป็นคนดีขึ้น เพื่อป้ามานีและแจส$3#$b#ฉันขอบคุณในเรื่องนั้น แต่ฉันก็ยังต้องการ กำลังใจอีกหน่อย เพื่อช่วยให้ยังคง ฉันทำตามเป้าหมายได้$0",
+            "Thu8": "ตอนนี้มันเป็นเรื่องธรรมดา สำหรับแจสและฉัน ที่กินมื้อเย็นด้วยกันกับเลวิส$0",
+            "Sun8": "ฉันว่าป้ามานี แจส เลวิส และฉัน ออกจะดูเป็นครอบครัวแปลกๆ$0#$e#แต่ยังไง มันก็ดีอยู่นะ$0"
 			}
 },
     
@@ -668,8 +668,8 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Lewis",
 "Entries": {
-			"Town_Event1": "Please don't tell anyone, the town can't know this...$2",
-			"Town_Event2": "No... the town can't know this...$2",
+			"Town_Event1": "ได้โปรด อย่าบอกคนอื่นในเมืองเลย ทั้งเมืองจะรู้เรื่องนี้ไม่ได้นะ...$2",
+			"Town_Event2": "ไม่... ทั้งเมืองจะรู้เรื่องนี้ไม่ได้นะ...$2",
 			}
 },
      //Saloon | 8 hearts
