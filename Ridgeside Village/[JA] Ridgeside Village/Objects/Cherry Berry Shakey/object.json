@@ -8,7 +8,7 @@
   "EdibleBuffs": {
     "Duration": 420,
     "Luck": 0,
-    "Speed": 3,
+    "Speed": 2,
     "MaxStamina": 0,
     "Farming": 0,
     "Fishing": 0,
@@ -20,14 +20,54 @@
   },
   "IsColored": false,
   "GiftTastes":{
-    "Love": ["Sam", "Sebastian", "Shane", "Alex", "Harvey", "Elliott", "Vincent", "Jas", "Keahi", "Trinnie"],
+    "Love": ["Sam", "Sebastian", "Shane", "Alex", "Harvey", "Elliott", "Vincent", "Jas", "Keahi", "Trinnie", "Ariah", "Faye"],
     "Like": ["Abigail", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Jodi", "Sandy", "Demetrius", "Gus", "Pierre"],
     "Dislike": ["Krobus", "Dwarf"]
   },
-  "NameLocalization":
+  "Recipe":
     {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Ridge Cherry",
+            "Count": 1,
+        },
+        {
+            "Object": 638,
+            "Count": 1,
+        },
+        ],
+        "CanPurchase": false,
+    },
+
+    "NameLocalization":
+    {
+      //remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
     },
     "DescriptionLocalization":
     {
+      //remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
     }
 }

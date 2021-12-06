@@ -159,10 +159,10 @@
             "fall_Sun8": "อ้าว @!$1#$e#ฉันซื้อไวน์มาจากร้านปิแอร์ ไว้สำหรับมื้อค่ำในคืนนี้ กับเอมิลีและเฮลีย์น่ะ$1",
             "winter_Tue8": "ฉันดีใจมาก ที่เฮลีย์อยู่ใกล้กับฉัน$0#$e#เพราะงั้นฉันก็เลย ไปหาเธอได้บ่อยๆ โดยเฉพาะในวันที่หนาวๆ แบบนี้$1",
             "winter_Thu8": "เฮลีย์ไม่ค่อยชอบ ฤดูหนาวเท่าไหร่ เพราะงั้น วันนี้ฉันจะใช้เวลา อยู่กับเธอให้มากๆ$0",
-            "winter_Sat8": "วันนี้ เป็นปีที่ดีที่สุด ในชีวิตของฉันเฉย ได้เห็นผลงานศิลปะของฉัน เข้าถึงผู้คนได้มากขึ้น ได้อยู่กับเฮลีย์ ได้มีมิตรภาพดีๆ กับชาวเมืองคนอื่นๆ... จะมีอะไรไม่พอใจได้อีกล่ะ?$0",
+            "winter_Sat8": "ปีนี้ เป็นปีที่ดีที่สุด ในชีวิตของฉันเฉย ได้เห็นผลงานศิลปะของฉัน เข้าถึงผู้คนได้มากขึ้น ได้อยู่กับเฮลีย์ ได้มีมิตรภาพดีๆ กับชาวเมืองคนอื่นๆ... จะมีอะไรไม่พอใจได้อีกล่ะ?$0",
             "spring_14": "ฉันจะใช้เวลา ในเดือนสุดท้ายนี้ วาดภาพให้เฮลีย์ เป็นของขวัญวันเกิด$0#$b#ชื่อภาพว่า 'เจ้าทานตะวันของฉัน'$4",
             "summer_10": "เฮลีย์จะเอากล้องถ่ายรูป ไปงานเทศกาลลัวร์ด้วย เธอดูตื่นเต้นมากเลย$1",
-            "fall_28": "การได้เห็นวินเซนท์กับแจส เล่นกัยสนุกสนาน ในงานเทศกาลภูติเมื่อวาน ทำให้ฉันอยากมีลูกบ้างเลย$0#$e#ฉันอยากรู้จังว่า เฮลีย์จะคิดเหมือนกันมั้ย...$4",
+            "fall_28": "การได้เห็นวินเซนท์กับแจส เล่นกันสนุกสนาน ในงานเทศกาลภูติเมื่อวาน ทำให้ฉันอยากมีลูกบ้างเลย$0#$e#ฉันอยากรู้จังว่า เฮลีย์จะคิดเหมือนกันมั้ย...$4",
             "spring_14_2": "ฉันจะใช้เวลา ในเดือนสุดท้ายนี้ วาดภาพให้เฮลีย์ เป็นของขวัญวันเกิด$0#$b#ชื่อภาพว่า 'เจ้าทานตะวันของฉัน'$4",
             "summer_10_2": "เฮลีย์จะเอากล้องถ่ายรูป ไปงานเทศกาลลัวร์ด้วย เธอดูตื่นเต้นมากเลย$1",
             "fall_28_2": "การได้เห็นวินเซนท์กับแจส เล่นกัยสนุกสนาน ในงานเทศกาลภูติเมื่อวาน ทำให้ฉันอยากมีลูกบ้างเลย$0#$e#ฉันอยากรู้จังว่า เฮลีย์จะคิดเหมือนกันมั้ย...$4"
@@ -180,7 +180,7 @@
             "Tue4": "ฉันดีใจจริงๆ ที่เฮลีย์เริ่มมีความเป็นผู้ใหญ่ มากขึ้นแล้ว$0",
             "Tue6": "บ้านของลีอา ตั้งอยู่บนสถานที่ ที่มีพลังงานบวกมากมาย$0#$b#เพราะงั้นก็รู้ได้เลยว่า ทำไมเฮลีย์ถึงได้มีความสุข$0",
             "Wed2": "ฉันไม่รู้ว่าเฮลีย์ จะมีความสัมพันธ์จริงจัง กับใครได้รึเปล่า...$2",
-            "Wed8": "ตอนแรกฉํนก็ไม่มั่นใจหรอก แต่ว่าตอนนี้ฉันเห็นชัดเลยว่า จิตวิญญาณของเฮลีย์และลีอา ถูกสร้างมาให้คู่กัน$0",
+            "Wed8": "ตอนแรกฉันก็ไม่มั่นใจหรอก แต่ว่าตอนนี้ฉันเห็นชัดเลยว่า จิตวิญญาณของเฮลีย์และลีอา ถูกสร้างมาให้คู่กัน$0",
             "Fri4": "ฉันไม่คิดเลยว่า ลีอาจะสนใจเฮลีย์เลยนะ$3#$e#ฉันเห็นเธอคุยกับเอเลียต ตลอดเวลาอยู่ที่ซาลูนน่ะ$3",
             "Fri8": "ลีอามอบภาพวาดแสนสวย ให้เฮลีย์เมื่อเดือนที่แล้ว$0#$b#พวกเราแขวนมัน ไว้ที่ห้องรับแขก$1",
             "Sat2": "ลีอาเป็นหญิงสาวที่ดีมาก แต่ฉันไม่รู้หรอกว่า จิตวิญญาณของเธอ จะเข้ากันได้ดี กับของเฮลีย์รึเปล่า...$2",
@@ -325,7 +325,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Leah",
 "Entries": {
-            "HaleyLeahWedding": "Hey, @.$0#$e#Thanks for coming to the wedding!$0#$b#I can't wait to move in with Haley.$4"
+            "HaleyLeahWedding": "นี่ @$0#$e#ขอบใจที่มาร่วม งานแต่งงานนะ!$0#$b#ฉันรอจะย้ายไปอยู่กับเฮลีย์ แทบจะไม่ไหวแล้ว$4"
            }
 },
     //Haley
@@ -333,7 +333,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Haley",
 "Entries": {
-            "HaleyLeahWedding": "Emily and I worked really hard on the wedding dresses.$0#$b#DId you like them, @?$1"
+            "HaleyLeahWedding": "เอมิลีกับฉันทำงานอย่างหนัก เพื่อเตรียมชุดในวันแต่งงาน$0#$b#เธอชอบมันมั้ย @?$1"
            }
 },
     //Penny
@@ -341,7 +341,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Penny",
 "Entries": {
-            "HaleyLeahWedding": "Hello, @.$0#$e#Haley and Leah are such a cute couple, don't you think?$0"
+            "HaleyLeahWedding": "สวัสดี @$0#$e#เฮลีย์กับลีอา เป็นคู่ที่น่ารักมากเลย คุณคิดเหมือนกันมั้ย?$0"
            }
 },
     //Vincent
@@ -349,7 +349,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Vincent",
 "Entries": {
-            "HaleyLeahWedding": "I always have so much fun at weddings.$0#$b#There's food and I can play with Jas.$1"
+            "HaleyLeahWedding": "ผมสนุกมากในพิธีแต่งงาน$0#$b#มีของกิน แล้วก็ได้เล่นกับแจสด้วย$1"
            }
 },
     //Jodi
@@ -357,7 +357,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Jodi",
 "Entries": {
-            "HaleyLeahWedding": "Hello, @.$0#$e#I was really surprised when I received the invitation for the wedding of Haley and Leah.$0#$b#I didn't think they'd get married so soon.$0"
+            "HaleyLeahWedding": "สวัสดีจ้ะ @$0#$e#ฉันประหลาดใจมาก เมื่อได้รับจดหมายเชิญ ร่วมงานแต่งงานของเฮลีย์ กับลีอา$0#$b#ฉันไม่คิดเลยว่าพวกเขา จะแต่งงานกันเร็วขนาดนี้$0"
            }
 },
     //Pam
@@ -365,7 +365,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Pam",
 "Entries": {
-            "HaleyLeahWedding": "Leah sometimes talks to me at the saloon.$0#$b#She's a nice girl, I'm happy she found love.$1"
+            "HaleyLeahWedding": "บางทีลีอาก็มาพูดคุยกับฉัน ที่ซาลูนบ้างน่ะนะ$0#$b#เธอเป็นเด็กดี ฉันดีใจที่เธอได้มีความรัก$1"
            }
 },
     //Lewis
@@ -373,7 +373,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Lewis",
 "Entries": {
-            "HaleyLeahWedding": "I hope I can officiate another wedding soon.$0#$b#We could even build a little banquet.$1"
+            "HaleyLeahWedding": "ฉันหวังว่า ฉันจะได้จัดงานแต่งงาน แบบเป็นทางการอีกครั้ง เร็วๆ นี้$0#$b#เราจะได้จัดงานเลี้ยงเล็กๆ แบบนี้อีก$1"
            }
 },
     //Sebastian
@@ -381,7 +381,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Sebastian",
 "Entries": {
-            "HaleyLeahWedding": "I should wish Leah luck dealing with Haley for the rest of their lives...$0#$e#Well, actually Haley has grown to be nicer thanks to Leah.$0"
+            "HaleyLeahWedding": "ฉันขอให้ลีอาโชคดี ที่ได้มีเฮลีย์อยู่ด้วย ในชีวิตหลังจากนี้ ของพวกเธอ...$0#$e#แล้วก็ เฮลีย์ก็เติบโตขึ้นทางที่ดี ต้องขอบคุณลีอา$0"
            }
 },
     //Sam
@@ -389,7 +389,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Sam",
 "Entries": {
-            "HaleyLeahWedding": "The wedding got me thinking...$0#$b#I'm not really into ballads, but it'd be cool to sing at a wedding.$1"
+            "HaleyLeahWedding": "การแต่งงานทำให้ฉันคิดว่า...$0#$b#ฉันไม่ชอบเพลงบัลลาต แตมันก็เจ๋งดีนะ เวลาที่ได้ร้องเพลงในงานแต่ง$1"
            }
 },
     //Elliott
@@ -397,7 +397,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Elliott",
 "Entries": {
-            "HaleyLeahWedding": "Leah was my first friend when I arrived here.$0#$b#I'm delighted to have seen her getting married.$1#$e#She invited me to have dinner with her and Haley, I'll make sure to bring some good wine for the newlyweds.$1"
+            "HaleyLeahWedding": "ลีอาเป็นเพื่อนคนแรกของผม ตอนที่ผมมาอาศัยอยู่ที่นี่$0#$b#ผมปลื้มใจมาก ที่ได้เห็นเธอแต่งงาน$1#$e#เธอชวนผมให้ไปทานมื้อค่ำ กับเธอและเฮลีย์ด้วย ผมจะต้องหาไวน์ดีๆ ไปให้คู่ข้าวใหม่ ปลามันด้วย$1"
            }
 },
     //Jas
@@ -405,7 +405,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Jas",
 "Entries": {
-            "HaleyLeahWedding": "Do you think Miss Haley's dress was the prettier or Miss Leah's?$0#$b#I liked Miss Haley's more.$1"
+            "HaleyLeahWedding": "พี่คิดว่า ชุดของคุณเฮลีย์ ดูสวยกว่าของคุณลีอามั้ยคะ?$0#$b#หนูชอบชุดของคุณเฮลีย์ มากกว่า$1"
            }
 },
     //Caroline
@@ -413,7 +413,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Caroline",
 "Entries": {
-            "HaleyLeahWedding": "I heard Leah saying they her and Haley were thinking of celebrating their wedding at the beach.$0#$b#That'd have been perfect for a summer wedding.$1"
+            "HaleyLeahWedding": "ฉันได้ยินลีอาบอกว่า เธอและเฮลีย์จะฉลอง งานแต่งงานกันที่ชายหาด$0#$b#นั้นต้องเป็นงานแต่งงาน ในฤดูร้อน ที่ยอดเยี่ยมที่สุด$1"
            }
 },
     //Marnie
@@ -421,7 +421,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Marnie",
 "Entries": {
-            "HaleyLeahWedding": "I always saw Haley visiting Leah and taking pictures near her house.$0#$b#They're a wonderful couple.$1"
+            "HaleyLeahWedding": "ฉันมักจะเห็นเฮลีย์ไปหาลีอา และถ่ายรูปกันใกล้ๆ บ้านของเธอ$0#$b#พวกเขาเป็นคู่ที่แสนวิเศษ$1"
            }
 },
     //Emily
@@ -429,7 +429,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Emily",
 "Entries": {
-            "HaleyLeahWedding": "Hello, @.$0#$e#It was hard for me to speak at Haley's wedding.$0#$b#We never really talk about our feelings, and I thought it was the perfect moment to tell her how proud I am to be her sister.$0"
+            "HaleyLeahWedding": "หวัดดี @$0#$e#มันก็ยากเหมือนกันนะ ที่ต้องกล่าวสุนทรพจน์ ในงานแต่งของเฮลีย์$0#$b#เราไม่เคยบอกความในใจกัน และฉันว่ามันก็เป็น ช่วงเวลาที่ยอดเยี่ยม ที่จะได้บอกเธอว่า ฉันภูมิใจแค่ไหน ที่ได้เป็นพี่สาวของเธอ$0"
            }
 },
     //Gus
@@ -437,7 +437,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Gus",
 "Entries": {
-            "HaleyLeahWedding": "Leah always talks about Haley when she comes to the saloon.$0#$b#I can they really love each other.$1"
+            "HaleyLeahWedding": "ลีอามักจะพูดถึงเฮลีย์เสมอ เวลาที่แวะมาซาลูน$0#$b#ผมรู้เลยว่าพวกเขารักกัน มากขนาดไหน$1"
            }
 },
     //Evelyn
@@ -445,7 +445,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Evelyn",
 "Entries": {
-            "HaleyLeahWedding": "I rearranged the town's flowers for the wedding of Haley and Leah.$0#$b#Alex told me Haley likes sunflowers.$1"
+            "HaleyLeahWedding": "ยายจัดดอกไม้ในเมืองใหม่ สำหรับงานแต่งงานของเฮลีย์ และลีอาเลยนะจ๊ะ$0#$b#อเล็กซ์บอกยายว่า เฮลีย์ชอบดอกทานตะวัน$1"
            }
 },
     //Robin
@@ -453,7 +453,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Robin",
 "Entries": {
-            "HaleyLeahWedding": "Leah and Haley told me about their plans of moving in together after the wedding.$0#$b#They want to remodel Leah's cabin.$0"
+            "HaleyLeahWedding": "ลีอากับเฮลีย์บอกฉันว่า พวกเธอมีแผนว่าจะ ย้ายไปอยู่ด้วยกัน หลังจากแต่งงานแล้ว$0#$b#พวกเธออยากจะให้ปรับปรุง กระท่อมของลีอาน่ะ$0"
            }
 },
     //George
@@ -461,7 +461,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/George",
 "Entries": {
-            "HaleyLeahWedding": "What's so great about weddings?$0"
+            "HaleyLeahWedding": "งานแต่งมันมีอะไรดีนักหนา?$0"
            }
 },
     //Willy
@@ -469,7 +469,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Willy",
 "Entries": {
-            "HaleyLeahWedding": "Lewis won't stop talking about how special is to officiate a wedding.$0#$b#Maybe I should become a wedding officiant apart from being a fisherman.$1"
+            "HaleyLeahWedding": "เลวิสไม่ยอมหยุดพูด เรื่องความพิเศษของ การได้เป็นผู้ทำพิธีแต่งงาน อย่างเป็นทางการเลย$0#$b#หรือนอกจากจะเป็น ชาวประมงแล้ว ฉันควรจะไปเป็นพิธีกร ในงานแต่งงานดูมั่ง$1"
            }
 },
     //Harvey
@@ -477,7 +477,7 @@
 "Action": "EditData",
 "Target": "Characters/Dialogue/Harvey",
 "Entries": {
-            "HaleyLeahWedding": "The key to a healthy marriage is communication, to share thoughts and feelings with each other.$0#$b#But I think Haley and Leah won't have any problems with it.$0"
+            "HaleyLeahWedding": "กุญแจสำคัญของ งานแต่งงานที่สมบูรณ์ คือการสื่อสาร และการแบ่งปันความคิด และความรู้สึกซึ่งกันและกัน$0#$b#แต่ผมว่าถ้าเป็นเฮลีย์และลีอา คงจะไม่มีปัญหาอะไรหรอก$0"
            }
 },
     
@@ -492,24 +492,24 @@
 	"HasSeenEvent": "59020020"
 		},
 "Entries": {
-            "Mon8": "Hi, @.$0#$#I want to go to Zuzu City soon with Leah.$0#$e#There's this new shopping mall that has a temporary art exhibition.$1",
-            "Thu8": "Leah has talked to me about a photography contest going on in Grampleton.$0#$b#We’re going to choose the pictures later.$1#$e#...or I could directly send in a picture where she's the model, it would win for sure.$4",
-            "Fri8": "Watching the sunset with Leah is one of my favorite things in this world.$4",
-            "Sat8": "Meeting Leah has led to a major change in my life.$0#$b#Before, I used to despise rural life, but now I wouldn't move for anything in the world.$1",
-            "spring_Mon8": "Emily told me that there's a new merchant in the desert.$0#$b#Maybe he sells unique works of art by foreign painters.$0#$e#Leah and I should stop by one day.$0",
-            "spring_Thu8": "Leah's hair is super soft.$0#$b#I love to style it in different ways.$1",
-            "spring_Sat8": "I'm going to ask Leah to do a photo shoot on the beach.$0#$b#It's going to be so fun!$4#$e#And I'll also get to see Leah in a bikini...$4",
-            "summer_Wed8": "Leah and I are going to get some ice cream later.$0#$b#You should come too, @.$1",
-            "summer_Fri8": "Hi, @.$0#$b#I'm going to ask Leah to go to the beach with me later, when there's no one else.$4",
-            "fall_Mon8": "Emily is teaching me how to knit.$0#$b#I want to make a scarf for Leah for the winter.$1",
-            "fall_Sun8": "I miss summer and going to the beach with Leah...$2",
-            "winter_Tue8": "Hi, @.$1#$e#Don't tell Leah, but I've been saving money to buy a Lupini painting for her at the Night Market.$1#$b#She's going to love it!$1",
-            "winter_Thu8": "I'm looking forward to another wonderful year with Leah.$4#$e#I feel like I'm a much better version of my past self now, thanks to her.$1",
-            "winter_Sat8": "Leah has a fireplace at her place.$0#$b#I love to sit in front of it and cuddle with her.$4",
-            "summer_27": "I usually would take tons of picture at the Dance of the Moonlight Jellies tomorrow, but I think this time I will just enjoy the moment with Leah.$0",
-            "winter_23": "Today's a very special day, it's Leah's birthday!$1#$b#I have prepared a surprise birthday party for her.$1",
-            "summer_27_2": "I usually would take tons of picture at the Dance of the Moonlight Jellies tomorrow, but I think this time I will just enjoy the moment with Leah.$0",
-            "winter_23_2": "Today's a very special day, it's Leah's birthday!$1#$b#I have prepared a surprise birthday party for her.$1"
+            "Mon8": "หวัดดี @$0#$#ฉันอยากจะไป เมืองซูซูกีบลีอาเร็วๆ แล้วล่ะ$0#$e#ห้างสรรพสินค้าที่เปิดใหม่ มีการจัดงาน นิทรรศการศิลปะชั่วคราว ด้วยล่ะ$1",
+            "Thu8": "ลีอาบอกฉันเกี่ยวกับ งานประกวดภาพถ่าย ที่จัดขึ้น ในเมืองแกรมเพิลตัน$0#$b#เดี๋ยวเราจะเลือก ภาพถ่ายกันอีกที$1#$e#...หรือฉันควรจะส่งรูป ที่มีลีอาเป็นนางแบบไปเลยดี ต้องชนะใสๆ แน่นอน$4",
+            "Fri8": "การได้ดู พระอาทิตย์ตกดินกับลีอา เป็นกิจกรรมที่ฉัน ชอบมากที่สุดในโลกเลย$4",
+            "Sat8": "การได้เจอกับลีอา ทำให้ชีวิตฉันเปลี่ยนแปลงไป อย่างมากเลยล่ะ$0#$b#ก่อนหน้านั้น ฉันรังเกียจชีวิตในชนบทนี้ แต่ตอนนี้ ฉันจะไม่ย้ายไปที่ไหน ในโลกนี้อีกแล้ว$1",
+            "spring_Mon8": "เอมิลีบอกว่า มีพ่อค้ามาใหม่ ในทะเลทราย$0#$b#บางทีเขาอาจจะมีงานศิลปะ ที่ไม่เหมือนกับที่อื่น จากศิลปินชาวต่างชาติ ก็ได้นะ$0#$e#ไว้ซักวัน ลีอากับฉันจะลองไปดูบ้าง$0",
+            "spring_Thu8": "ผมของลีอานุ่มสุดๆ เลย$0#$b#ฉันชอบทำผมทรงอื่นๆ ให้เธอด้วย$1",
+            "spring_Sat8": "ฉันว่าจะลองขอให้ลีอา เป็นางแบบที่ชายหาด$0#$b#มันจะต้องสนุกมากแน่ๆ!$4#$e#และฉันจะได้เห็นลีอา ในชุดบิกินี่ด้วย...$4",
+            "summer_Wed8": "ลีอากับฉันว่าจะ ไปซื้อไอติมซักหน่อย$0#$b#เธออยากจะไปด้วยกันมั้ยล่ะ @$1",
+            "summer_Fri8": "ไง @$0#$b#ฉันว่า เดี๋ยวฉันจะลองชวนลีอา ไปที่ชายหาดกัยฉันดูน่ะ ตอนที่ไม่มีใครอยู่แล้ว$4",
+            "fall_Mon8": "เอมิลีสอนฉันถักไหมพรมล่ะ$0#$b#ฉันอยากจะถักผ้าพันคอ ให้ลีอา ในฤดูหนาว$1",
+            "fall_Sun8": "ฉันคิดถึงฤดูร้อน และการได้ไปชายหาด กับลีอา...$2",
+            "winter_Tue8": "ดีจ้า @$1#$e#อย่าไปบอกลีอานะ ฉันกำลังเก็บเงินเพื่อที่จะ ซื้อภาพวาดของลูปินี่ ที่ขายที่ตลาดกลางคืน ในเธอล่ะ$1#$b#เธอต้องชอบมากแน่ๆ!$1",
+            "winter_Thu8": "ฉันจะตั้งตาคอย ปีหน้าที่แสนวิเศษ ของฉันกับลีอา$4#$e#ฉันรู้สึกได้เลยล่ะ ว่านี่คืออีกเวอร์ชั่นนึงของฉัน ที่ดีกว่าในอดีตที่ผ่านมา ต้องขอบคุณลีอา$1",
+            "winter_Sat8": "ที่บ้านของลีอา มีเตาผิงด้วยนะ$0#$b#ฉันชอบการนั่งอยู่หน้าเตาผิง และได้โอบกอดกับเธอจัง$4",
+            "summer_27": "ปกติแล้ว ในงานเทศกาล ระบำแมงกระพรุนแสงจันทร์ คืนพรุ่งนี้ ฉันจะถ่ายรูปจำนวนมหาศาล แต่ฉันคิดว่าครั้งนี้ ฉันจะใช้เวลาแห่งความสุขนี้ กับลีอาแทนดีกว่า$0",
+            "winter_23": "วันนี้คือวันพิเศษ มันคือวันเกิดของลีอา!$1#$b#ฉันเตรียมปาร์ตี้ เซอร์ไพรส์วันเกิด ให้เธอไว้ด้วย$1",
+            "summer_27_2": "ปกติแล้ว ในงานเทศกาล ระบำแมงกระพรุนแสงจันทร์ คืนพรุ่งนี้ ฉันจะถ่ายรูปจำนวนมหาศาล แต่ฉันคิดว่าครั้งนี้ ฉันจะใช้เวลาแห่งความสุขนี้ กับลีอาแทนดีกว่า$0",
+            "winter_23_2": "วันนี้คือวันพิเศษ มันคือวันเกิดของลีอา!$1#$b#ฉันเตรียมปาร์ตี้ เซอร์ไพรส์วันเกิด ให้เธอไว้ด้วย$1"
 			}
 },
         //Haley after wedding
@@ -521,12 +521,12 @@
 	"HasSeenEvent": "59020035"
 		},
 "Entries": {
-            "Wed8": "Hi, @.$0#$e#I always thought that I wasn't doing anything productive with my life...$2#$b#You know, I just hung out with Alex from time to time, took some pictures here and there. I didn't even have a job like Emily.$2#$e#But thanks to Leah I've grown so much as a person, I was so happy when she proposed to me.$4#$b#Now I know exactly what I want my future to be.$4",
-            "Tue8": "I never really thought about having kids.$0#$b#I was kind of a child myself...$2#$e#But I think that Leah has helped me mature a lot.$0#$b#And we've been talking about kids a lot since our wedding.$1",
-            "Sun8": "I decided to stay here because Leah loves the valley and it's a great source of inspiration to her.$0#$b#But now I can't even imagine living elsewhere.$0#$b#I'm looking forward to moving in with Leah soon.$4#$e#I'm going to hang our wedding photos all over our house!$1",
-            "fall_Fri8": "Alex and I are good friends, that's why people used to say we were dating.$0#$b#But he's just a friend, he was so happy to hear Leah and I were getting married.$1",
-            "summer_Sat8": "After our wedding, Leah and I talked about moving in together.$0#$b#I'd love to live in her house, it's so cozy.$1#$e#We'd have to make some reforms, though.$0",
-            "winter_24_2": "Hi, @.$0#$e#The Feast of the Winter Star makes me feel really close to this community, we're like a big happy family.$1#$e#It was good talking to you, I have to leave now and prepare Leah's gift for tomorrow.$1"
+            "Wed8": "ไง @$0#$e#ฉันคิดเสมอเลยนะ ว่าในชีวิตนี้ ฉันคงจะไม่สามารถทำอะไร เป็นชิ้นเป็นอันได้...$2#$b#เธอรู้รึเปล่า ฉันน่ะ เอาแต่เกาะติดกับอเล็กซ์ อยู่ตลอด แล้วก็ถ่ายรูปนู้นบ้าง นี่บ้าง ฉันไม่ได้มีงานทำแบบเอมิลี$2#$b#แต่ต้องขอบคุณลีอา ตอนนี้ฉันเลยได้รู้ว่า อนาคตของฉัน ควรจะเป็นแบบไหน$4",
+            "Tue8": "ฉันไม่เคยนึกถึง การมีลูกมาก่อนเลย$0#$e#เธอก็รู้ ฉันเป็นพวกชอบ ทำตัวเป็นเด็กนี่...$2#$b#แต่ฉันคิดว่า ลีอาคงจะช่วยให้ฉัน เป็นผู้ใหญ่มากขึ้น$0#$b#และเราได้คุยกันเรื่องลูก เยอะเลย ตั้งแต่ที่เราแต่งงานกัน$1",
+            "Sun8": "เหตุผลเดียวที่ฉัน ยังอาศัยอยู่ที่นี่ เพราะว่าลีอารักหุบเขานี้ และมันก็เป็นแหล่งรวม แรงบันดาลใจของเธอ$0#$b#แต่ตอนนี้ฉันคิดถึง การไปอยู่ที่อื่นอีกแล้ว$0#$b#ฉันตั้งตาคอยที่จะ ได้มาอยู่กับลีอา$4#$e#ฉันจะแขวนภาพวันแต่งงานของเรา ไว้ทั่วบ้านเลย!$1",
+            "fall_Fri8": "อเล็กซ์กับฉัน เป็นเพื่อนรักกัน เพราะงั้น หลายคนก็เลยคิดว่า เราคบกันอยู่$0#$b#แต่เรา เป็นแแค่เพื่อนกันจริงๆ เขามีความสุขมาก ตอนที่ได้ยินว่าฉันกับลีอา จะแต่งงานกัน$1",
+            "summer_Sat8": "หลังจากงานแต่งงาน ลีอากับฉันคุยกัน เรื่องที่จะย้ายไปอยู่ด้วยกัน$0#$b#ฉันอยากจะย้ายไปอยู่บ้านลีอานะ เพราะมันน่ารักอบอุ่นมาก$1#$e#แต่ยังไง เราก็ต้องปรับปรุงมันก่อน$0",
+            "winter_24_2": "หวัดดี @$0#$e#เทศกาลแห่งดวงดาวฤดูหนาว ทำให้ฉันรู้สึกว่า ได้เป็นส่วนหนึ่งของชุมชนนี้ เหมือนพวกเรา เป็นครอบครัวใหญ่$1#$e#ดีเหมือนกันนะ ที่ได้คุยกับเธอ แต่ฉันต้องไปแล้วล่ะ ต้องไปเตรียมของขวัญ ให้ลีอาในวันพรุ่งนี้น่ะ$1"
 			}
 },   
     //Leah
@@ -539,25 +539,25 @@
 	"HasSeenEvent": "59020020"
 		},
 "Entries": {
-            "Mon8": "I'd love to draw a portrait of Haley sometime.$0#$e#She'd be the most beautiful model ever.$4",
-            "Tue8": "Hi, @.$1#$e#You know, it’s thanks to you and Haley that I was able to come this far with my art.$0#$e#You should come over and have dinner with us sometime, @.$1",
-            "Sat8": "My career as an artist was not going very well when I first moved here...$2#$e#Fortunately, Haley has always believed in me.$0#$b#She is really supportive.$1",
-            "Sun8": "I usually see Jas playing near my house.$0#$b#It got me thinking about if Haley'd like to have kids anytime soon...$0",
-            "spring_Mon8": "Hey, @.$1#$e#Haley and I have thought about putting on a joint exhibition.$1#$e#You know, we'd display my sculptures and paintings along with Haley's photographs.$0",
-            "summer_Wed8": "Haley absolutely loves summer.$0#$b#Every day she calls me to go sunbathing with her.$1",
-            "summer_Fri8": "On summer days Haley and I love to go for a swim.$1#$b#We usually go to the beach, but actually the river could also be a good option.$1",
-            "summer_Sat8": "I should take my watercolors with me the next time I go to the beach.$0#$b#I'd like to do some quick sketches of Haley.$1",
-            "fall_Mon8": "I've been having a terrible artistic block...$2#$e#I should go see Haley for some inspiration...$7",
-            "fall_Fri8": "I love walking in the forest with Haley in the fall.$0#$b#The breeze is very pleasant and Haley enjoys taking pictures of the river.$1",
-            "fall_Sun8": "Hey, @!$1#$e#I bought some wine from Pierre's for the dinner I'm having tonight with Emily and Haley.$1",
-            "winter_Tue8": "I'm glad that Haley lives so close to me.$0#$e#This way I can visit her often, especially on cold days like this.$1",
-            "winter_Thu8": "Haley doesn't like winter much, so I try to spend more time with her these days.$0",
-            "spring_14": "I've spent the last month painting a picture for Haley's birthday.$0#$b#It's titled 'My Sunflower'.$4",
-            "summer_10": "Haley is going to bring her camera to the Luau, she's really excited.$1",
-            "fall_28": "Seeing Vincent and Jas having fun at the Spirit's Eve yesterday made me think about having kids.$0#$e#I wonder if Haley has thought about it too...$4",
-            "spring_14_2": "I've spent the last month painting a picture for Haley's birthday.$0#$b#It's titled 'My Sunflower'.$4",
-            "summer_10_2": "Haley is going to bring her camera to the Luau, she's really excited.$1",
-            "fall_28_2": "Seeing Vincent and Jas having fun at the Spirit's Eve yesterday made me think about having kids.$0#$e#I wonder if Haley has thought about it too...$4"
+            "Mon8": "บางครั้ง ฉันก็ชอบที่จะวาดภาพเหมือน ของเฮลีย์$0#$e#ก็เธอเป็นนางแบบ ที่งดงามที่สุด$4",
+            "Tue8": "ไง @$1#$e#รู้มั้ย ต้องของคุณเธอและเฮลีย์ด้วย ที่ทำให้ผลงานศิลปะของฉัน มาไกลได้ขนาดนี้$0#$e#เธอน่าจะแวะมา ทานมื้อค่ำกับพวกเราบ้างนะ @$1",
+            "Sat8": "อาชีพการเป็นศิลปินของฉัน ไปได้ไม่ค่อยดีเท่าไหร่ ในช่วงแรกๆ ที่ฉันย้ายมาที่นี่...$2#$e#โชคดีจริงๆ ที่เฮลีย์ เชื่อมั่นในตัวฉันเสมอ$0#$b#เธอคอยสนับสนุนเป็นอย่างดี$1",
+            "Sun8": "ฉันมักจะเห็นแจส เล่นอยู่แถวๆ บ้านฉัน$0#$b#มันทำให้ฉันคิดถึงว่า ถ้าเกิดเฮลีย์อยากจะมีลูก ขึ้นมาบ้างล่ะ...$0",
+            "spring_Mon8": "ไง @$1#$e#เฮลีย์กับฉันกำลังคิดเรื่อง การจัดนิทรรศการร่วมอยู่เลย$1#$e#รู้เปล่า เราจะได้แสดงงานปั้น และภาพวาดของฉัน คู่กับภาพถ่ายของเฮลีย์ ไปเลยไง$0",
+            "summer_Wed8": "เฮลีย์ชอบฤดูร้อนมากๆ$0#$b#เธอชวนฉันไปอาบแดดกับเธอ แทบทุกวัน$1",
+            "summer_Fri8": "ฉันและเฮลีย์ ชอบไปว่ายน้ำด้วยกัน ในฤดูร้อนน่ะ$1#$b#พวกเรามักจะไปทะเลเสมอ แต่ว่าที่จริง แม่น้ำก็เป็นตัวเลือก ที่ไม่เลวนะ$1",
+            "summer_Sat8": "ฉันว่า ฉันจะเอาเซตสีน้ำของฉัน ติดไปด้วย ตอนไปเที่ยวทะเลครั้งหน้า$0#$b#ฉันจะได้สเก็ตภาพสีน้ำ ของเฮลีย์ได้ด้วย$1",
+            "fall_Mon8": "ตอนนี้หัวศิลป์ของฉัน คือตันสุดๆ ...$2#$e#ฉันน่าจะไปเฮลีย์ จะได้มีแรงบันดาลใจขึ้นมา...$7",
+            "fall_Fri8": "ฉันชอบการเดินเล่นในป่า กับเฮลีย์ในฤดูใบไม้ร่วงนะ$0#$b#สายลมเย็นๆ และเฮลีย์ก็ได้สนุก กับการถ่ายรูปแม่น้ำ$1",
+            "fall_Sun8": "อ้าว @!$1#$e#ฉันซื้อไวน์มาจากร้านปิแอร์ ไว้สำหรับมื้อค่ำในคืนนี้ กับเอมิลีและเฮลีย์น่ะ$1",
+            "winter_Tue8": "ฉันดีใจมาก ที่เฮลีย์อยู่ใกล้กับฉัน$0#$e#เพราะงั้นฉันก็เลย ไปหาเธอได้บ่อยๆ โดยเฉพาะในวันที่หนาวๆ แบบนี้$1",
+            "winter_Thu8": "เฮลีย์ไม่ค่อยชอบ ฤดูหนาวเท่าไหร่ เพราะงั้น วันนี้ฉันจะใช้เวลา อยู่กับเธอให้มากๆ$0",
+            "spring_14": "ฉันจะใช้เวลา ในเดือนสุดท้ายนี้ วาดภาพให้เฮลีย์ เป็นของขวัญวันเกิด$0#$b#ชื่อภาพว่า 'เจ้าทานตะวันของฉัน'$4",
+            "summer_10": "เฮลีย์จะเอากล้องถ่ายรูป ไปงานเทศกาลลัวร์ด้วย เธอดูตื่นเต้นมากเลย$1",
+            "fall_28": "การได้เห็นวินเซนท์กับแจส เล่นกันสนุกสนาน ในงานเทศกาลภูติเมื่อวาน ทำให้ฉันอยากมีลูกบ้างเลย$0#$e#ฉันอยากรู้จังว่า เฮลีย์จะคิดเหมือนกันมั้ย...$$4",
+            "spring_14_2": "ฉันจะใช้เวลา ในเดือนสุดท้ายนี้ วาดภาพให้เฮลีย์ เป็นของขวัญวันเกิด$0#$b#ชื่อภาพว่า 'เจ้าทานตะวันของฉัน'$4",
+            "summer_10_2": "เฮลีย์จะเอากล้องถ่ายรูป ไปงานเทศกาลลัวร์ด้วย เธอดูตื่นเต้นมากเลย$1",
+            "fall_28_2": "การได้เห็นวินเซนท์กับแจส เล่นกันสนุกสนาน ในงานเทศกาลภูติเมื่อวาน ทำให้ฉันอยากมีลูกบ้างเลย$0#$e#ฉันอยากรู้จังว่า เฮลีย์จะคิดเหมือนกันมั้ย...$4"
 			}
 },
         //Leah after wedding
@@ -569,12 +569,12 @@
 	"HasSeenEvent": "59020035"
 		},
 "Entries": {
-            "Wed8": "Hey, @.$0#$e#You know, I'd never move back to the city even though it was difficult to leave everything behind.$0#$b#I love living in the valley, and now that Haley and I are married, I have so many plans for us for the future.$1",
-            "Thu8": "I've realised that when I moved here, I wasn't really trying to make new friends because I was still processing all the changes.$0#$b#But, now, I have made some really good friends and have a beautiful wife.$1",
-            "Fri8": "I was afraid that I was rushing too much with Haley...$2#$b#You know that my previous relationship ended pretty badly and I had no plans to be with anybody when I moved here.$2#$b#But then Haley came and ruined my plans.$0#$e#I'm glad she did, I love her so much.$4#$b#I still can't believe she's my wife.$4",
-            "spring_Thu8": "Oh, hey, @.$1#$e#Haley wanted me to help her developing some photos.$0#$e#I wonder... when will she move in with me now that we're married?$4",
-            "spring_Sat8": "An old friend of mine from Zuzu City has told me that he's going to present his first art exhibition next month.$1#$b#I'm going with Haley, maybe she could met my parents while we're there.$1#$b#They couldn't come to the wedding and are really looking forward to meeting her.$0",
-            "winter_Sat8": "This year has been the best in my life so far. Seeing how my art reaches more people, being married to Haley, having a good relationship with the other townsfolk... What's not to like?$0"
+            "Wed8": "นี่ @$0#$e#รู้รึเปล่า ฉันไม่ได้กลับไปที่เมืองอีกเลย ถึงแม้ว่ามันยาก ที่ต้องทิ้งทุกอย่างไว้เบื้องหลัง$0#$b#ฉันชอบการใช้ชีวิตในหุบเขา และตอนนี้เฮลีย์กับฉัน ก็แต่งงานกันแล้ว และฉันมีแผนมากมาย สำหรับพวกเราที่จะทำ ในอนาคตแล้วด้วย$1",
+            "Thu8": "ฉันก็รู้ตัวตั้งแต่ เมื่อตอนที่ย้ายมาที่นี่แล้วล่ะ ว่าฉันไม่ได้มีเพื่อนใหม่ เพราะฉันเอาแต่จัดการ กับการเปลี่ยนแปลงต่างๆ$0#$b#แต่ว่าตอนนี้ ฉันมีเพื่อนดีๆ มากมาย และยังมีภรรยาแสนสวยอีก$1",
+            "Fri8": "ฉันก็กลัวนะ ว่าจะเร่งรัดเฮลีย์ มากไปรึเปล่า...$2#$b#เธอก็รู้ว่าความสัมพันธ์ ครั้งก่อนของฉัน มันจบไม่ค่อยสวยเท่าไหร่ และฉันก็ยังไม่ได้คิด เรื่องที่จะมีใครใหม่ เมื่อฉันย้ายมาอยู่ที่นี่$2#$b#แต่แล้วเฮลีย์ก็เข้ามา และทำให้แผนการของ ฉันพังทลาย$0#$e#ฉันดีใจที่เธอทำแบบนั้น ฉันรักเธอมากจริงๆ$4#$b#ฉันยังไม่อยากจะเชื่อเลย ว่าตอนนี้เธอเป็น ภรรยาของฉันแล้ว$4",
+            "spring_Thu8": "โอ้ ไง @$1#$e#เฮลีย์อยากจะให้ฉันช่วย พัฒนาการถ่ายภาพน่ะ$0#$e#ฉันสงสัยจัง... ว่าเมื่อไหร่ เธอจะย้ายมาอยู่กับฉัน เราแต่งงานกันแล้วนี่นา?$4",
+            "spring_Sat8": "เพื่อนเก่าของฉันที่เมืองซูซู บอกว่าเขาจะจัด นิทรรศการศิลปะ เป็นครั้งแรกในเดือนหน้านี้$1#$b#ฉันจะไปกับเฮลีย์ ไม่แน่ว่า เธออาจจะได้ไปแนะนำตัว กับพ่อแม่ของฉัน ตอนที่เราไปที่นั่น$1#$b#พวกม่านไม่สามารถ มาร่วมงานแต่งงานได้ และได้แต่ตั้งตารอ พบกับเธออยู่น่ะ$0",
+            "winter_Sat8": "ปีนี้ เป็นปีที่ดีที่สุด ในชีวิตของฉันเลย ได้เห็นผลงานศิลปะของฉัน เข้าถึงผู้คนได้มากขึ้น ได้แต่งงานกับเฮลีย์ ได้มีมิตรภาพดีๆ กับชาวเมืองคนอื่นๆ... จะมีอะไรไม่พอใจได้อีกล่ะ?$0"
 			}
 },   
     //Emily
@@ -587,12 +587,12 @@
 	"HasSeenEvent": "59020020"
 		},
 "Entries": {
-            "Tue6": "Leah's house is located in a place with a lot of positive energy.$0#$b#Maybe that's why I see Haley happier lately.$0",
-            "Wed8": "At first I wasn't sure, but now I clearly see that the souls of Haley and Leah were made to be together.$0",
-            "Fri6": "Leah gave Haley a beautiful painting last month.$0#$b#We've hung it in the living room.$1",
-            "Sat6": "Haley has changed a lot since she started dating Leah, she seems like a completely different person.$0#$b#In the good sense, of course.$1",
-            "Sun6": "Leah showed me some of her sculptures the other day.$0#$b#She is very talented.$1",
-            "Sun8": "Leah has a really unique energy, I think she's a good influence on Haley.$0"
+            "Tue6": "บ้านของลีอา ตั้งอยู่บนสถานที่ ที่มีพลังงานบวกมากมาย$0#$b#เพราะงั้นก็รู้ได้เลยว่า ทำไมเฮลีย์ถึงได้มีความสุข$0",
+            "Wed8": "ตอนแรกฉันก็ไม่มั่นใจหรอก แต่ว่าตอนนี้ฉันเห็นชัดเลยว่า จิตวิญญาณของเฮลีย์และลีอา ถูกสร้างมาให้คู่กัน$0",
+            "Fri6": "ลีอามอบภาพวาดแสนสวย ให้เฮลีย์เมื่อเดือนที่แล้ว$0#$b#พวกเราแขวนมัน ไว้ที่ห้องรับแขก$1",
+            "Sat6": "เฮลีย์เปลี่ยนไปมาก ตั้งแต่เริ่มเป็นแฟนกับลีอา อย่างกับเธอ กลายเป็นคนละคน$0#$b#แน่นอนสิ เป็นไปในทางที่ดีด้วย$1",
+            "Sun6": "ลีอาเอางานประติมากรรม ของเธอใช้ฉันดูเมื่อวันก่อน$0#$b#เธอมีพรสวรรค์เลยล่ะ$1",
+            "Sun8": "ลีอามีคลื่นพลังงาน ที่เฉพาะตัวสุดๆ ฉันคิดว่ามันอิทธิพลที่ดี ส่งต่อไปถึงเฮลีย์$0"
 			}
 },
         //Emily after wedding
@@ -604,9 +604,9 @@
 	"HasSeenEvent": "59020035"
 		},
 "Entries": {
-            "Tue8": "Leah's house is located in a place with a lot of positive energy.$0#$b#I'm sure it'd be good for Haley if they moved in together.$1",
-            "Fri8": "Leah gave us a beautiful painting some time ago.$0#$b#We hung it in the living room, but Haley now says she wants to change it for one of their wedding photos.$0",
-            "Sat8": "Haley has changed a lot, she seems like a completely different person.$0#$e#At first I thought it was a temporal effect of their blooming love, but it was not.$0#$b#I'm glad I could tell her how proud I'm of the person she has become."
+            "Tue8": "บ้านของลีอา ตั้งอยู่บนสถานที่ ที่มีพลังงานบวกมากมาย$0#$b#ฉันมั่นใจเลยว่า มันต้องดีกับเฮลีย์ด้วย ถ้าทั้งสองคน ได้ย้ายไปอยู่ด้วยกัน$1",
+            "Fri8": "ลีอามอบภาพวาดแสนสวย ให้เฮลีย์เมื่อนานมาแล้ว$0#$b#พวกเราแขวนมัน ไว้ที่ห้องรับแขก แต่เฮลีย์บอกว่า เธอจะเปลี่ยนเป็นภาพ วันแต่งงานของเธอแทน$0",
+            "Sat8": "เฮลีย์เปลี่ยนไปมาก ตั้งแต่เริ่มเป็นแฟนกับลีอา อย่างกับเธอ กลายเป็นคนละคน$0#$e#ตอนแรกฉันคิดว่า คงจะเป็นแค่ผลชั่วคราว ของคนที่กำลังมีความรัก แต่มันไม่ใช่เลย$0#$b#ฉันดีใจจริงๆ ที่ฉันสามารถบอกเธอ ได้เต็มปากเลยว่า ฉันภูมิใจมาก ที่เธอเป็นแบบตอนนี้"
 			}
 },
    ]

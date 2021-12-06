@@ -1,5 +1,5 @@
 {
-	"Name": "Occult Blade", 
+	"Name": "Occult Blade",
 	"Description": "(ดาบที่ถูกลงอาคม) ดาบสองคมที่มีลักษณ์คล้ายคาตานะ มีด้ามจับสีแดงขนาดเล็ก ที่มีสัญลักษณ์ รูปผู้หญิงมีหางพันรอบตัวเธอ",
 	"Type": "sword",
 	"PurchasePrice": 50000,
@@ -14,12 +14,35 @@
 	"ExtraSwingArea": -1,
 	"CritChance": 0.60,
 	"CritMultiplier": 2,
-	"NameLocalization":
-	{
-		/*Information goes here*/
-	},
-	"DescriptionLocalization":
-	{
-		/*Information goes here*/
-	}
+
+    "NameLocalization":
+    {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    },
 }

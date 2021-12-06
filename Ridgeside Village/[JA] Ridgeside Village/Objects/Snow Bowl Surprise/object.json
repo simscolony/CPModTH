@@ -10,9 +10,9 @@
     "Mining": 0,
     "Luck": 0,
 	"Foraging": 0,
-	"MaxStamina": 3,
-    "MagnetRadius": 3,
-	"Speed": 1,
+	"MaxStamina": 2,
+    "MagnetRadius": 2,
+	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
     "Duration": 300,
@@ -23,13 +23,54 @@
 	{
 		"Love": ["Shiro", "Bert"],
 	},
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Ridge Cherry",
+            "Count": 1,
+        },
+        {
+            "Object": "Frost Clump Berry",
+            "Count": 2,
+        },
+        {
+            "Object": 340,
+            "Count": 1,
+        },
+        ],
+        "CanPurchase": false,
+    },
 
-	"NameLocalization":
-	{
-		//
-	},
-	"DescriptionLocalization":
-	{
-		//
-	},
+    "NameLocalization":
+    {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    },
+    "DescriptionLocalization":
+    {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    }
 }

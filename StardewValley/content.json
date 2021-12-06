@@ -1,0 +1,186 @@
+{
+    "Format": "1.24.0",
+    "ConfigSchema": {
+        "ThaiInterface": {
+            "AllowValues": "true, false",
+            "Default": "true",
+            "Description": "เปิดใช้งาน Interface ภาษาไทย"
+        }
+    },
+
+    "Changes": [
+        // define language
+        {
+            "Action": "EditData",
+            "Target": "Data/AdditionalLanguages",
+            "Entries": {
+                "TranslatorArmy.ModTH": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
+                    "ID": "TranslatorArmy.ModTH",
+                    "LanguageCode": "th",
+                    "ButtonTexture": "Mods/TranslatorArmy.ModTH/Button",
+                    "UseLatinFont": false,
+                    "FontFile": "Fonts/Thai",
+                    "FontPixelZoom": 1,
+                    "FontApplyYOffset": true,
+                    "TimeFormat": "[HOURS_12]:[MINUTES] [AM_PM]",
+                    "ClockTimeFormat": "[HOURS_12]:[MINUTES] [AM_PM]",
+                    "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
+                }
+            }
+        },
+
+        // load button texture
+        {
+            "Action": "Load",
+            "Target": "Mods/TranslatorArmy.ModTH/Button",
+            "FromFile": "assets/button.png"
+        },
+
+        // load font files
+        {
+            "Action": "Load",
+            "Target": "Fonts/Thai",
+            "FromFile": "assets/Content/{{Target}}.fnt"
+        },
+        {
+            "Action": "Load",
+            "Target": "Fonts/Thai_0, Fonts/Thai_1",
+            "FromFile": "assets/Content/{{Target}}.png"
+        },
+
+        // Fonts
+        {
+            "Action": "Load",
+            "Target": "Fonts/SmallFont, Fonts/SpriteFont1",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+      // Billboard
+       {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Billboard",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "ThaiInterface": true,
+                "Language": "th",
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface, zazizu.darkUICP": false
+            }
+        },
+
+        // JojaCDForm
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/JojaCDForm",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "ThaiInterface": true,
+                "Language": "th",
+                "HasMod |contains=IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface": false
+            }
+        },
+
+        // Intro
+        {
+            "Action": "EditImage",
+            "Target": "Minigames/Intro",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "ThaiInterface": true,
+                "Language": "th"
+            }
+        },
+
+        // TitleButtons
+        {
+            "Action": "EditImage",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "ThaiInterface": true,
+                "Language": "th",
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
+            }
+        },
+
+        // Dialogue
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Rainy
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/rainy",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Marriage
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Data
+        {
+            "Action": "Load",
+            "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/PaintData, Data/Quests, Data/SecretNotes, Data/weapons",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Concessions, Movies & MoviesReactions
+        {
+            "Action": "Load",
+            "Target": "Data/Concessions, Data/Movies, Data/MoviesReactions",
+            "FromFile": "assets/Content/{{Target}}.json",
+            "When": { "Language": "th" }
+        },
+
+        // Events
+        {
+            "Action": "Load",
+            "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_big, Data/Events/WizardHouse, Data/Events/Woods",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Festivals
+        {
+            "Action": "Load",
+            "Target": "Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // TV
+        {
+            "Action": "Load",
+            "Target": "Data/TV/CookingChannel, Data/TV/InterviewShow, Data/TV/TipChannel",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Strings
+        {
+            "Action": "Load",
+            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        },
+
+        // Schedules
+        {
+            "Action": "Load",
+            "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": { "Language": "th" }
+        }
+    ]
+}

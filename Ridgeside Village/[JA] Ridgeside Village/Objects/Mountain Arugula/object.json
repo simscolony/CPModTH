@@ -1,7 +1,7 @@
 {
   "Name": "Mountain Arugula",
   "Description": "(อารูกูล่าภูเขา) ผักเมืองหนาวที่พบได้ที่สันเขา ชาวบ้านบอกว่า มันสามารถเพิ่มโชคได้ชั่วคราว",
-  "Category": "Fruit",
+  "Category": "Vegetable",
   "Edibility": 15,
   "EdibleBuffs": {
     "Farming": 0,
@@ -24,4 +24,35 @@
   "Love": ["Ysabelle", "Jeric"],
   "Like": ["Ian", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
+
+      "NameLocalization":
+    {
+      //remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    },
+    "DescriptionLocalization":
+    {
+      //remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    }
 }
