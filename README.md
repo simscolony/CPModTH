@@ -37,6 +37,8 @@ Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/th.json)         
 Junimo Dialog                     | [✓](JunimoDialog/i18n/th.json)                                 | [↻ รอ Merge](https://github.com/ceruleandeep/CeruleanStardewMods/pull/1)
 Lookup Anything                   | [✓](LookupAnything/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/541)
 The Love of Cooking               | [✓](LoveOfCooking/i18n/th.json)                                | [↻ รอ Merge](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
+Multiple Spouse Dialogs           | ❑                                                              |
+Multiple Spouses                  | ❑                                                              |
 Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [✓](https://www.nexusmods.com/stardewvalley/mods/3900)
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/th.json)                              | [↻ รอ Merge](https://github.com/bouhm/stardew-valley-mods/pull/82)
 SMAPI                             | [✓](smapi-internal/i18n/th.json)                               | [✓](https://smapi.io/)
