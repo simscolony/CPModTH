@@ -1363,13 +1363,13 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon6": "Penny is a lovely girl.$1#$b#I'm glad Sam found someone like her.$1",
-            "Tue10": "It feels like just yesterday when Sam was a little baby.$0#$b#And now he's married!$1",
-            "Wed8": "I heard Sam talking with Penny earlier.$0#$e#I didn't know he could be so sweet!$1",
-            "Thu8": "Vincent told me that Sam was composing a song for Penny.$1#$b#Isn't it sweet?$1",
-            "Fri8": "Do you think Sam and Penny will have kids someday?$0#$b#I don't know if he will be prepared...$2#$b#Well, I would love to help them.$1",
-            "Sat8": "Penny helped me with the garden yesterday.$1#$b#I wish Sam could learn something from her.$0",
-            "Sun10": "Don't you think Sam and Penny are a really good couple?$1#$e#They might have different personalities, but they complement each other very well.$1"
+            "Mon6": "เพนนีเป็นเด็กน่ารัก$1#$b#ฉันดีใจที่แซม ได้เจอคนแบบเธอ$1",
+            "Tue10": "ยังรู้สึกเหมือน เพิ่งเมื่อวานนี้เอง ที่แซมยังเป็นเด็กตัวน้อยๆ$0#$b#แล้วตอนนี้เขาแต่งงานแล้ว!$1",
+            "Wed8": "ก่อนหน้านี้ ฉันได้ยินแซมคุยกับเพนนีด้วย$0#$e#ไม่รู้เลยว่าเขาจะ พูดจาน่ารักได้ขนาดนั้น!$1",
+            "Thu8": "วินเซนท์บอกฉันว่า แซมแต่งเพลงให้เพนนีด้วย$1#$b#น่ารักมากเลยใช่มั้ยล่ะ?$1",
+            "Fri8": "เธอว่าวันหนึ่ง แซมกับเพนนีจะมีลูกมั้ย?$0#$b#ฉันไม่รู้เลยว่าเขาจะพร้อมมั้ย ...$2#$b#แต่เอาเถอะ ฉันเต็มใจช่วยอยู่แล้ว$1",
+            "Sat8": "เมื่อวานเพนนีมาช่วยฉันทำสวนล่ะ$1#$b#หวังว่าเจ้าแซมจะหัดเรียนรู้ อะไรจากเพนนีบ้างนะ$0",
+            "Sun10": "เธอไม่คิดเหรอว่า แซมกับเพนนีเหมาะกันมาก?$1#$e#พวกเขาอาจจะ นิสัยไม่เหมือนกัน แต่ก็เติมเต็มซึ่งกันและกัน ได้เป็นอย่างดีเลย$1"
 			}
 },
         //Yes children
@@ -1383,13 +1383,13 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon6": "Penny is a lovely girl.$1#$b#I'm glad Sam found someone like her.$1",
-            "Tue10": "It feels like just yesterday when Sam was a little baby.$0#$b#And now he's married and has a child!$1",
-            "Wed8": "I heard Sam talking with Penny earlier.$0#$e#I didn't know he could be so sweet!$1",
-            "Thu8": "Vincent told me that Sam was composing a song for Penny.$1#$b#Isn't it sweet?$1",
-            "Fri8": "Eve's so different from Sam when he was a kid.$0#$b#Sam liked mischief as a kid, it was hard sometimes without Kent here...$2#$e#But Eve's so well-behaved.$1",
-            "Sat8": "Penny helped me with the garden yesterday.$1#$b#She should bring Eve sometime.$1",
-            "Sun10": "Don't you think Sam and Penny are a really good couple?$1#$e#They might have different personalities, but they complement each other very well.$1"
+            "Mon6": "เพนนีเป็นเด็กน่ารัก$1#$b#ฉันดีใจที่แซม ได้เจอคนแบบเธอ$1",
+            "Tue10": "Iยังรู้สึกเหมือน เพิ่งเมื่อวานนี้เอง ที่แซมยังเป็นเด็กตัวน้อยๆ$0#$b#แล้วตอนนี้ เขาแต่งงานมีลูกแล้ว!$1",
+            "Wed8": "ก่อนหน้านี้ ฉันได้ยินแซมคุยกับเพนนีด้วย$0#$e#ไม่รู้เลยว่าเขาจะ พูดจาน่ารักได้ขนาดนั้น!$1",
+            "Thu8": "วินเซนท์บอกฉันว่า แซมแต่งเพลงให้เพนนีด้วย$1#$b#น่ารักมากเลยใช่มั้ยล่ะ?$1",
+            "Fri8": "อีฟต่างจากแซมตอนเป็นเด็กมากเลย$0#$b#แซมชอบซนแล้วก็เกเร พอเคนท์ไม่อยู่ บางครั้งเลยลำบาก...$2#$e#แต่อีฟเป็นเด็กดีมากเลย$1",
+            "Sat8": "เมื่อวานเพนนีมาช่วยฉันทำสวนล่ะ$1#$b#เธอน่าจะพาอีฟมาบ้างนะ$1",
+            "Sun10": "เธอไม่คิดเหรอว่า แซมกับเพนนีเหมาะกันมาก?$1#$e#พวกเขาอาจจะ นิสัยไม่เหมือนกัน แต่ก็เติมเต็มซึ่งกันและกัน ได้เป็นอย่างดีเลย$1"
 			}
 },
     //Kent
@@ -1404,13 +1404,13 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon8": "Sam was just a child when I left...$0#$b#...and now he's married.$0",
-            "Tue6": "Sometimes I ask Penny about Sam's life.$2#$b#It's sad...$2",
-            "Wed10": "Sometimes it's difficult not to think of Sam as the little kid he was when I left.$0#$b#I'd have never imagined that he'd be married so soon.$0",
-            "Thu6": "I hope I'm a good father-in-law to Penny.$1",
-            "Fri10": "I'm actually hoping that Sam and Penny have kids sooner rather than later.$1#$b#Since I couldn't be there for my sons, I at least want to see my grandchildren grow up.$1",
-            "Sat8": "Penny has helped me to get closer to Sam.$1#$b#...I'll be forever grateful to her for that.$1",
-            "Sun10": "Seeing Sam dating Penny was surprising at first for Jodi and me.$0#$b#But now she's our daughter too.$1"
+            "Mon8": "ตอนผมไป แซมยังเป็นเด็กอยู่เลย...$0#$b#... ตอนนี้เขาแต่งงานแล้ว$0",
+            "Tue6": "บางครั้งผมต้องถามเพนนี เรื่องชีวิตของแซม$2#$b#น่าเศร้าแท้...$2",
+            "Wed10": "บางครั้งจะไม่ให้มองแซม เป็นเด็กตัวน้อย แบบตอนที่ผมจากไป มันก็ยากนะ$0#$b#ผมไม่เคยนึกเลยว่า เขาจะแต่งงานเร็วขนาดนี้$0",
+            "Thu6": "ผมหวังว่าผมเป็น พ่อสามีของเพนนีที่ดีนะ$1",
+            "Fri10": "จริงๆ ผมหวังให้แซมกับเพนนี มีลูกกันเร็วๆ นะ$1#$b#เพราะผมไม่ได้อยู่ เลี้ยงลูกชายทั้งสอง อย่างน้อยก็อยากอยู่ เห็นหลาน ๆ โตน่ะ$1",
+            "Sat8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
+            "Sun10": "ตอนแรกผมกับโจดี้ก็แปลกใจ ที่เห็นแซมคบกับเพนนี$0#$b#แต่ตอนนี้เธอก็เป็น ลูกสาวของเราอีกคนแล้ว$1"
 			}
 },   
         //Yes children
@@ -1424,13 +1424,13 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon8": "Sam was just a child when I left...$0#$b#...and now he's married and has a precious daughter.$0",
-            "Tue6": "Yesterday Eve came to our house.$1#$b#She's such a sweet child.$1",
-            "Wed10": "Sometimes it's difficult not to think of Sam as the little kid he was when I left.$0#$b#I'd have never imagined that he'd have his own family so soon.$0",
-            "Thu6": "I hope I'm a good father-in-law and grandfather.$1#$e#It's still strange to say 'grandfather' out loud...$0",
-            "Fri10": "Since I couldn't be there for my sons, I'm excited to see Eve grow up.$1",
-            "Sat8": "Penny has helped me to get closer to Sam.$1#$b#...I'll be forever grateful to her for that.$1",
-            "Sun10": "I was thinking of buying something nice for Eve.$0#$b#I'll ask Penny about it...$1"
+            "Mon8": "ตอนผมไป แซมยังเป็นเด็กอยู่เลย...$0#$b#... ตอนนี้เขาแต่งงาน แล้วก็มีลูกสาวที่น่ารักแล้ว$0",
+            "Tue6": "เมื่อวานอีฟมาบ้านเราล่ะ$1#$b#ช่างเป็นเด็กดีจริงๆ$1",
+            "Wed10": "บางครั้งจะไม่ให้มองแซม เป็นเด็กตัวน้อย แบบตอนที่ผมจากไป มันก็ยากนะ$0#$b#ผมไม่เคยนึกเลยว่า เขาจะมีครอบครัวของตัวเอง เร็วขนาดนี้$0",
+            "Thu6": "ผมหวังว่าผมเป็น พ่อสามีและปู่ที่ดีนะ$1#$e#ยังรู้สึกแปลกๆ อยู่เลยเวลาพูดว่า 'ปู่' ออกมาดังๆ น่ะ...$0",
+            "Fri10": "เพราะผมอยู่เลี้ยง ลูกชายทั้งคู่ไม่ได้ ผมเลยตื่นเต้นที่จะ ได้อยู่เห็นอีฟโต$1",
+            "Sat8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
+            "Sun10": "ผมกำลังคิดว่าจะซื้ออะไรดีๆ ให้อีฟสักหน่อย$0#$b#ไว้ผมจะถามเพนนี...$1"
 			}
 }, 
     //Vincent
@@ -1445,12 +1445,12 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon8": "I saw Miss Penny with my brother at the beach yesterday.$3#$b#They were hugging each other.$3#$e#It is normal for grown-ups to do that?$3",
-            "Tue10": "Yesterday I visited my brother and he tried to cook a poppyseed muffin.$3#$b#Maybe he's going to give it to Miss Penny.$0#$e#But I don't think it'll taste good.$3",
-            "Thu10": "I think mom and dad really likes Miss Penny.$1#$e#I do, too!$1",
-            "Fri8": "Miss Penny told me that my brother will become a rock star someday.$1",
-            "Sat8": "My brother sometimes comes to the museum.$0#$e#I think it's because he wants to see Miss Penny.$3",
-            "Sun10": "Do you know how to make bracelets?$3#$e#I want make a gift for Miss Penny and my brother.$0"
+            "Mon8": "เมื่อวานผมเห็นครูเพนนี อยู่กับพี่ผมที่ชายหาดด้วยฮะ$3#$b#พวกเขากอดกันด้วยแหละ$3#$e#เป็นเรื่องปกติ ของพวกผู้ใหญ่เหรอฮะ$3",
+            "Tue10": "เมื่อวานตอนไปเยี่ยมพี่ ผมเห็นพี่ผมพยายาม ทำมัฟฟินเมล็ดป๊อบปี้ล่ะฮะ$3#$b#บางทีพี่เขาอาจ จะเอาไปให้ครูเพนนีก็ได้$0#$e#แต่ผมว่าไม่อร่อยหรอกฮะ$3",
+            "Thu10": "ผมว่าแม่กับพ่อ ชอบครูเพนนีมากเลย$1#$e#ผมก็ด้วย!$1",
+            "Fri8": "ครูเพนนีบอกผมว่า วันนึงพี่ผมจะได้เป็น ซุปเปอร์สตาร์ขาร็อคแหละฮะ$1",
+            "Sat8": "บางทีพี่ผมก็มาพิพิธภัณฑ์ กับผมด้วยแหละฮะ$0#$e#ผมว่าพี่อยากไปเจอ ครูเพนนีแน่เลย$3",
+            "Sun10": "พี่ทำสร้อยข้อมือ เป็นหรือป่าวฮะ?$3#$e#ผมอยากทำไปให้ครูเพนนี กับพี่ผมเป็นของขวัญฮะ$0"
 			}
 },
         //Yes children
@@ -1464,12 +1464,12 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon8": "Eve and I saw Miss Penny with my brother at the beach yesterday.$3#$b#They were hugging each other.$3#$e#It is normal for grown-ups to do that?$3",
-            "Tue10": "Yesterday I visited my brother and he tried to cook a poppyseed muffin.$3#$b#Maybe he's going to give it to Miss Penny.$0#$e#But I don't think it'll taste good.$3",
-            "Thu10": "I love to play with Eve!$1#$e#But it's weird that I'm her uncle...$3",
-            "Fri8": "Miss Penny told me that my brother will become a rock star someday.$1",
-            "Sat8": "Do you think Eve will play with me today?$3#$b#Yesterday she was upset because I ate all the cookies...$2",
-            "Sun10": "Do you know how to make bracelets?$3#$e#I want make a gift for Eve.$0"
+            "Mon8": "ผมกับอีฟห็นครูเพนนี อยู่กับพี่ผมที่ชายหาด เมื่อวานฮะ$3#$b#วกเขากอดกันด้วยแหละ$3#$e#เป็นเรื่องปกติ ของพวกผู้ใหญ่เหรอฮะ?$3",
+            "Tue10": "เมื่อวานตอนไปเยี่ยมพี่ ผมเห็นพี่ผมพยายาม ทำมัฟฟินเมล็ดป๊อบปี้ล่ะฮะ$3#$b#บางทีพี่เขาอาจ จะเอาไปให้ครูเพนนีก็ได้$0#$e#แต่ผมว่าไม่อร่อยหรอกฮะ$3",
+            "Thu10": "ผมชอบเล่นกับอีฟ มากเลยล่ะฮะ!$1#$e#แต่มันพิลึกที่ ผมเป็นลุงเธอ...$3",
+            "Fri8": "ครูเพนนีบอกผมว่า วันนึงพี่ผมจะได้เป็น ซุปเปอร์สตาร์ขาร็อคแหละฮะ$1",
+            "Sat8": "พี่ว่าวันนี้ อีฟจะเล่นกับผมมั้ยฮะ?$3#$b#เมื่อวานเธอโกรธ เพราะผมกินคุ้กกี้เองหมด คนเดียว...$2",
+            "Sun10": "พี่ทำสร้อยข้อมือ เป็นหรือป่าวฮะ?$3#$e#ผมอยากทำให้อีฟ เป็นของขวัญฮะ$0"
 			}
 },
     //Pam
@@ -1484,11 +1484,11 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon8": "Hi, kid.$0#$e#I've been thinking 'bout buying something nice for Penny and Sam.$0#b#If only I could afford it...$2",
-            "Wed10": "It's so lonely at home these days...$2#$b#Well, at least my little girl seems to be enjoying the married life.$0#$e#She has found a fine lookin' young man, huh?",
-            "Thu6": "Sam better be treatin' Penny right and not be like that that ex-husband o' mine.$4",
-            "Fri10": "Hi there, farmer.$0#$e#Jodi and me ain't got similar tastes.$0#$e#But we're family now!$1",
-            "Sun8": "You know, Penny's father abandoned us when she was little.$2#$e#I'm pleased that she grew up fine and married a decent man like Sam."
+            "Mon8": "ไง เจ้าหนู$0#$e#ฉันกำลังคิดว่า จะซื้ออะไรดีๆ ให้เพนนีกับแซมสักหน่อย$0#b#ถ้ามีเงินพอน่ะนะ...$2",
+            "Wed10": "เดี๋ยวนี้ที่บ้านเหงามาก...$2#$b#เอาเถอะ อย่างน้อยหนูน้อยของฉัน ก็มีความสุขกับ ชีวิตแต่งงานดี$0#$e#เธอได้เจอกับ หนุ่มน้อยหน้ามนแล้วสินะ?",
+            "Thu6": "หวังว่าแซมจะดูแลเพนนีให้ดี ไม่เหมือนกับอดีตสามีฉันนะ$4",
+            "Fri10": "ว่าไง ชาวไร่$0#$e#ฉันกับโจดี้ไม่ได้มีรสนิยมอะไร ตรงกันเท่าไหร่หรอกนะ$0#$b#แต่ตอนนี้เป็น ครอบครัวเดียวกันแล้ว!$1",
+            "Sun8": "รู้มั้ย พ่อของเพนนีทิ้งเรา ตั้งแต่เพนนียังเล็ก$2#$e#ฉันดีใจที่ เธอเติบโตมาเป็นคนดีแล้วก็ ได้แต่งงานกับผู้ชายดีๆ แบบแซม"
 			}
 },
         //No children
@@ -1502,11 +1502,11 @@
     "HasSeenEvent": "59020025"
         },
 "Entries": {
-            "Mon8": "Hi, kid.$0#$e#I've been thinking 'bout buying something nice for Penny and her little family.$0#b#If only I could afford it...$2",
-            "Wed10": "It's so lonely at home these days...$2#$b#Well, at least my little girl seems to be enjoying the married life.$0#$e#She has found a fine lookin' young man, huh?$0#$b#And my other little girl's growing up just fine.$1",
-            "Thu6": "Sam better be treatin' Penny right and not be like that that ex-husband o' mine.$4",
-            "Fri10": "Hi there, farmer.$0#$e#Jodi and me ain't got similar tastes.$0#$e#But we're family now!$1",
-            "Sun8": "You know, Penny's father abandoned us when she was little.$2#$e#I'm pleased that she grew up fine and married a decent man like Sam.$0#$e#I should visit them soon, I really want to see little Eve.$1"
+            "Mon8": "ไง เจ้าหนู$0#$e#ฉันกำลังคิดว่า จะซื้ออะไรดีๆ ให้เพนนีกับครอบครัวน้อยๆ ของเธอสักหน่อย$0#b#ถ้ามีเงินพอน่ะนะ...$2",
+            "Wed10": "เดี๋ยวนี้ที่บ้านเหงามาก...$2#$b#เอาเถอะ อย่างน้อยหนูน้อยของฉัน ก็มีความสุขกับ ชีวิตแต่งงานดี$0#$e#เธอได้เจอกับ หนุ่มน้อยหน้ามนแล้วสินะ?$0#$b#แล้วแม่หนูน้อยอีกคนของฉัน ก็เติบโตอย่างดี$1",
+            "Thu6": "หวังว่าแซมจะดูแลเพนนีให้ดี ไม่เหมือนกับอดีตสามีฉันนะ$4",
+            "Fri10": "ว่าไง ชาวไร่$0#$e#ฉันกับโจดี้ไม่ได้มีรสนิยมอะไร ตรงกันเท่าไหร่หรอกนะ$0#$b#แต่ตอนนี้เป็น ครอบครัวเดียวกันแล้ว!$1",
+            "Sun8": "รู้มั้ย พ่อของเพนนีทิ้งเรา ตั้งแต่เพนนียังเล็ก$2#$e#ฉันดีใจที่ เธอเติบโตมาเป็นคนดีแล้วก็ ได้แต่งงานกับผู้ชายดีๆ แบบแซม$0#$e#ฉันน่าจะไปเยี่ยมพวกเขาสักที อยากเจอหนูน้อยอีฟจริงๆ$1"
 			}
 },
 
