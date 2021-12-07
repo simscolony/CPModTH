@@ -2897,7 +2897,6 @@
 {
 "Action": "EditData",
 "Target": "Data/Locations",
-"When": { "HasSeenEvent": "5553210" },
 "TextOperations": [
 
 {  //Shearwater Bridge - Fall
@@ -10963,7 +10962,7 @@
       "FromFile": "assets/CharacterFiles/OverworldSprites/Olivia/Olivia_Beach.png"
     },
 	{
-      //"Olivia's Schedule
+      //Olivia's Schedule
       "Action": "Load",
       "Target": "Characters/schedules/Olivia",
       "FromFile": "assets/CharacterFiles/Schedules/Olivia/Schedule.json"
@@ -15263,7 +15262,7 @@
 	{
 	 "Action": "EditData",
 	 "Target": "Characters/Schedules/Wizard",
-	 "When": { "Spouse |contains=Olivia, Wizard": false, "Season |contains=Summer": true, "Day |contains=25": true },
+	 "When": { "Spouse |contains=Olivia, Wizard": false, "Relationship:Wizard |contains=Dating": false, "Season |contains=Summer": true, "Day |contains=25": true },
 	 "Entries": {
      "25": "630 WizardHouse 10 17 2 Wizard_Meditate/1210 WizardHouse 10 29 0/1240 WizardHouse 11 32 1/1300 WizardHouse 7 32 3/1320 WizardHouse 2 29 0/1340 WizardHouse 2 29 3/1400 WizardHouse 5 17 2/2230 WizardHouse 7 21 1 \"Strings\\schedules\\Wizard:OliviaVisitWhichTotallyIsNotWhatYouThinkItIs.001\"/2250 WizardHouse 2 4 1 Wizard_Sleep \"Strings\\schedules\\Wizard:OliviaVisitWhichTotallyIsNotWhatYouThinkItIs.002\""
         },
@@ -15271,7 +15270,7 @@
 	{
 	 "Action": "EditData",
 	 "Target": "Strings/Schedules/Wizard",
-	 "When": { "Spouse |contains=Olivia, Wizard": false, "Season |contains=Summer": true, "Day |contains=25": true },
+	 "When": { "Spouse |contains=Olivia, Wizard": false, "Relationship:Wizard |contains=Dating": false, "Season |contains=Summer": true, "Day |contains=25": true },
 	 "Entries": {
      "OliviaVisitWhichTotallyIsNotWhatYouThinkItIs.001": "อ-อ้า @... ขอความกรุณาคุณ ช่วยย้ายตัวเอง ออกไปจากบ้าน ของฉันได้มั้ยจ๊ะ?$3",
 	 "OliviaVisitWhichTotallyIsNotWhatYouThinkItIs.002": "%เขากำลังหลับ"
@@ -15282,7 +15281,7 @@
 	{
 	 "Action": "EditData",
 	 "Target": "Characters/Schedules/Olivia",
-	 "When": { "Spouse |contains=Olivia, Wizard": false, "Season |contains=Summer": true, "Day |contains=25": true },
+	 "When": { "Spouse |contains=Olivia, Wizard": false, "Relationship:Olivia |contains=Dating": false, "Season |contains=Summer": true, "Day |contains=25": true },
 	 "Entries": {
      "25": "0 Custom_JenkinsHouse 19 5 0/610 Custom_JenkinsHouse 5 8 0/700 Custom_JenkinsHouse 34 37 0 Olivia_Wash/1030 Custom_JenkinsHouse 16 12 0 Olivia_Art/1310 Town 24 72 3/1600 Custom_JenkinsHouse 32 37 2 Olivia_Wine2/1910 WizardHouse 9 21 3 \"Strings\\schedules\\Olivia:WizardVisitWhichTotallyIsNotWhatYouThinkItIs.001\"/2250 WizardHouse 3 4 1 Olivia_Sleep \"Strings\\schedules\\Olivia:WizardVisitWhichTotallyIsNotWhatYouThinkItIs.002\""
         },
@@ -15290,7 +15289,7 @@
 	{
 	 "Action": "EditData",
 	 "Target": "Strings/Schedules/Olivia",
-	 "When": { "Spouse |contains=Olivia, Wizard": false, "Season |contains=Summer": true, "Day |contains=25": true },
+	 "When": { "Spouse |contains=Olivia, Wizard": false, "Relationship:Olivia |contains=Dating": false, "Season |contains=Summer": true, "Day |contains=25": true },
 	 "Entries": {
      "WizardVisitWhichTotallyIsNotWhatYouThinkItIs.001": "จ-เจ้าเข้ามาที่นี่ได้ยังไง!? ออกไปเดี๋ยวนี้!$7",
 	 "WizardVisitWhichTotallyIsNotWhatYouThinkItIs.002": "%เธอหลับอยู่"
