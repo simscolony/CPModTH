@@ -23,8 +23,8 @@
 	"HasSeenEvent": "59020031"
 		},
 "Entries": {
-            "Mon2": "It's natural to feel discouraged.$0#$b#I just hope Leah can find herself again, she's a diamond in the rough as an artist.$0",
-            "Thu2": "I should ask Leah how she's doing.$0#$b#She was having a hard time the last time I saw her.$2"
+            "Mon2": "เป็นเรื่องปกติที่จะท้อนะ$0#$b#ผมแค่หวังว่าลีอาจะค้นพบตัวเองอีกครั้ง เธอเป็นเหมือน เพชรในโคลนตม ในฐานะศิลปินเลย$0",
+            "Thu2": "ผมควรไปถามลีอา ว่าเป็นยังไงบ้าง$0#$b#ครั้งสุดท้ายที่ผมเจอเธอ เธอดูเหมือนกำลังอยู่ใน ช่วงเวลาที่ยากลำบากเลย$2"
 			}
 },
 {
@@ -35,8 +35,8 @@
 	"HasSeenEvent": "59020031"
 		},
 "Entries": {
-            "Tue2": "Ugh, @...$2#$b#I think I lost my watercolor box, I can't seem to find it anywhere...$2",
-            "Sat2": "Take inspiration from the ocean...?$0#$b#Maybe it'll work...$0"
+            "Tue2": "เฮ้อ @...$2#$b#ฉันว่าฉันทำ กล่องสีน้ำของฉันหาย หาไม่เจอเลย...$2",
+            "Sat2": "เอาทะเลเป็นแรงบัลดาลใจเหรอ...?$0#$b#อาจจะได้ผลก็ได้...$0"
 			}
 },
 //Dialogues | 4 hearts event
@@ -48,9 +48,9 @@
 	"HasSeenEvent": "59020032"
 		},
 "Entries": {
-            "Wed4": "The best thing about living by the sea is how much inspiration I can take from it.$0#$b#I hope Leah feels the same.$0",
-            "Fri4": "I actually do enjoy playing the piano.$0#$b#I think that music is on the same level of revelation as writing.$0#$e#Leah might start to feel the same way, she has been coming to my house to play the piano lately.",
-            "Sun4": "Drinking good wine in good company is one of life’s most civilized pleasures.$0"
+            "Wed4": "สิ่งที่ดีที่สุด ของการอาศัยอยู่ข้างทะเล ก็คือปริมาณแรงบันดาลใจ ที่ผมได้จากมัน$0#$b#หวังว่าลีอา จะรู้สึกเหมือนกันนะ$0",
+            "Fri4": "จริงๆ แล้วผมห็ชอบเล่นเปียโน$0#$b#ผมว่าดนตรีนั้น แสดงตัวตนพอๆ กับการเขียนเลย$0#$e#ลีอาคงเริ่มรู้สึกเหมือนกันแน่ๆ เพราะพักหลังมานี่ เธอมาเล่นเปียโน ที่บ้านผมประจำเลย",
+            "Sun4": "ได้ดื่มไวน์กับคนรู้ใจ เป็นหนึ่งใน ความเพลิดเพลินที่ดีเยี่ยม อันมีอารยธรรมของชีวิตล่ะ$0"
 			}
 },
 {
@@ -61,9 +61,9 @@
 	"HasSeenEvent": "59020032"
 		},
 "Entries": {
-			"Mon4": "It turns out I'm not that bad at playing the piano.$1",
-            "Tue4": "Elliott must be running out of wine.$0#$b#Everytime I go to his house he opens a new bottle for us to share.$0#$e#I should buy him something nice...$0",
-            "Thu4": "Do you know Lang Lang, @?$0#$e#He's a really talented pianist.$0#$b#Elliott has been showing me some of his best pieces of music.$1"
+			"Mon4": "ดูเหมือนฉันก็ไม่ได้ เล่นเปียโนแย่ขนาดนั้น$1",
+            "Tue4": "ไวน์ของเอลเลียตต้องใกล้เกลี้ยงแล้วแน่ๆ เลย$0#$b#ฉันไปบ้านเขาทีไร เขาก็เปิดขวดใหม่ มาดื่มด้วยกันตลอด$0#$e#ฉันควรซื้ออะไรดีๆ ให้เขาแหะ...$0",
+            "Thu4": "คุณรู้จักหลาง หล่างมั้ย @?$0#$e#เขาเป็นนักเปียโน ที่มีพรสวรรค์มาก$0#$b#เอลเลียดเอา ดนตรีชิ้นโบว์แดงของเขา หลายชิ้นมาให้ดูล่ะ$1"
 			}
 },
 //Dialogues | 6 hearts event
@@ -75,10 +75,10 @@
 	"HasSeenEvent": "59020033"
 		},
 "Entries": {
-            "Mon6": "Leah asked me to be her model again yesterday.$0#$b#I must admit I feel a little bit timid about it...$2",
-            "Thu6": "Leah has been helping me with my latest novel.$0#$b#I'll let you know once I've finished the first chapters.$1",
-            "Sat6": "Leah wants to take me foraging someday.$0#$b#Do you think we'll be able to find some fresh vegetables?$1",
-            "Sun6": "I've been working on the rowboat that's been sitting by my house lately.$1"
+            "Mon6": "เมื่อวานลีอาขอให้ผม ช่วยเป็นแบบอีกแล้ว$0#$b#ต้องยอมรับว่า ผมก็แอบขวยเขินอยู่...$2",
+            "Thu6": "ช่วงนี้ลีอาช่วยผมเรื่อง นิยายเล่มล่าสุดล่ะ$0#$b#ผมจะบอกคุณอีกทีนะ ถ้าเขียนบทแรกๆ เสร็จ$1",
+            "Sat6": "สักวันลีอาอยากพาผม ไปเก็บของป่า$0#$b#คุณว่าพวกเราจะเก็บ ผักสดๆ ได้บ้างมั้ย?$1",
+            "Sun6": "พักนี้ผมกำลังซ่อมเรือพาย ที่อยู่ข้างบ้านอยู่ล่ะ$1"
 			}
 },
 {
@@ -89,10 +89,10 @@
 	"HasSeenEvent": "59020033"
 		},
 "Entries": {
-			"Tue6": "I never thought about asking Elliott to be my model, but he's actually of great help.$1",
-            "Wed6": "I bought some crab cakes from Gus earlier.$0#$b#It's a gift for Elliott, he's been so nice to me.$1",
-            "Fri6": "I'm going to the saloon later, I hope Elliott goes too.$1",
-            "Sun6": "I haven't had any creative blocks lately.$0#$b#Elliott always teaches me a new source of inspiration when I run out of ideas.$1"
+			"Tue6": "ฉันไม่เคยคิดจะขอให้ เอลเลียตมาเป็นแบบ มาก่อนเลย แต่จริงๆ แล้วเขาช่วยได้มากเลยนะ$1",
+            "Wed6": "ก่อนหน้านี้ ฉันไปซื้อเค้กปู (Crab cake) จากกัสมาหลายชิ้นเลย$0#$b#เป็นของขวัญให้เอลเลียดน่ะ เขาดีกับฉันมาตลอดเลย$1",
+            "Fri6": "เดี๋ยวฉันจะไปซาลูน หวังว่าเอลเลียต ก็ไปเหมือนกันนะ$1",
+            "Sun6": "ช่วงนี้ฉันไม่มีหัวตันเลย$0#$b#เอลเลียตคอยสอนเรื่อง แหล่งแรงบันดาลใจใหม่ๆ ให้ตลอด เวลาฉันนึกอะไรไม่ออกน่ะ$1"
 			}
 },
 //Dialogues | 8 hearts event
@@ -105,13 +105,13 @@
 	"HasSeenEvent": "59020034"
 		},
 "Entries": {
-            "Mon8": "I became independent at a young age and have lived on my own since then.$0#$b#But ever since I met Leah, I've realized how lonely I am when she isn't with me.$2",
-            "Tue8": "Leah and I both moved to Pelican Town to pursue our artistic dreams.$0#$b#I'm lucky to have someone that understands me so well.$1",
-            "Wed8": "Whenever I write I can't help thinking of Leah.$4#$b#I'm afraid all my characters will end up being different versions of her...$2",
-            "Thu8": "When I came to Pelican Town, I was pursuing inspiration for my art.$0#$b#I'd never have guessed my muse was waiting for me here.$4",
-            "Fri8": "Hello, @.$0#$e#I was working on a new poem, it's a surprise for Leah.$0#$b#Do you want to hear it?$1#$e#When I behold thy wondrous face, a precious jewel of form and grace, my heart...torn by the dread of night, is purified with golden light.$0#$b#Poetry is the only way I can begin to describe my feelings for you.$1#$e#So, what do you think?$1",
-            "Sat8": "I've started writing a journal.$0#$b#Now that I have the pleasure to make so many beautiful memories with Leah, I want to treasure all of them.$1",
-            "Sun8": "I have always focused more on prose ever since I started writing.$0#$b#But now I've come to prefer poetry thanks to Leah.$1",
+            "Mon8": "ผมพึ่งตัวเองมาตั้งแต่เด็ก แล้วก็เลยอยู่ด้วยตัวเอง มาตั้งแต่นั้น$0#$b#แต่ตั้งแต่ผมได้พบลีอา ผมก็ได้รู้ว่า เวลาเธอไม่อยู่ด้วย แล้วผมรู้สึกเหงาแค่ไหน$2",
+            "Tue8": "ลีอาและผมต่างก็ย้าย มาเมืองเพลิแกน เพื่อไล่ตามความฝัน ทางศิลปะทั้งคู่$0#$b#ผมโชคดีที่ได้มี คนที่เข้าใจผมขนาดนี้$1",
+            "Wed8": "เวลาผมเขียนทีไร ก็อดนึกถึงลีอาไม่ได้$4#$b#ผมชักเกรงว่า ตัวละครทั้งหมดของผม จะลงเอยกลายเป็น ลีอาร่างต่างๆ จัง...$2",
+            "Thu8": "ตอนที่ผมมาเมืองเพลิแกน ผมมาตามหาแรงบันดาลใจ ในศิลปะของผม$0#$b#ผมไม่มีวันนึกเลยว่า จะได้พบกับแรงบันดาลใจ ตัวเป็นๆ ของผม รออยู่ที่นี่$4",
+            "Fri8": "สวัสดี @$0#$e#ผมกำลังแต่งกลอนบทใหม่อยู่ เป็นเซอร์ไพรส์ให้ลีอาน่ะ$0#$b#อยากฟังมั้ย?$1#$e#When I behold thy wondrous face, a precious jewel of form and grace, my heart...torn by the dread of night, is purified with golden light.$0#$b#Poetry is the only way I can begin to describe my feelings for you.$1#$e#บทกวีเป็นหนทางเดียว ที่ผมจะเอ่ยอธิบาย ความรู้สึกของผม ที่มีต่อคุณได้$1#$e#เป็นไง คุณคิดว่าไงบ้าง?$1",
+            "Sat8": "ผมเริ่มเขียนบันทึก ประจำวันแล้วล่ะ$0#$b#เมื่อผมมีโอกาสอันน่ายินดี ในการสร้างความทรงจำ ที่สวยงามมากมาย ร่วมกับลีอาแล้ว ผมก็อยากจะเก็บรักษา พวกมันทั้งหมดไว้ให้ดีที่สุด$1",
+            "Sun8": "ตั้งแต่ผมเริ่มเขียนผมก็มุ่งเน้น แต่งแต่ร้อยแก้วมาตลอด$0#$b#แต่ตอนนี้เพราะลีอา ผมชอบร้อยกรองมากกว่าแล้ว$1",
             "spring_Mon8": "In springtime, love is carried on the breeze.$0#$b#It reminds me of how lucky I am to have Leah in my life.$4",
             "spring_Wed8": "Spring breathes new life into the world around us.$0#$b#This morning, as I was walking by the sea with Leah, I could feel how inspiration rushed through me.$1",
             "spring_Fri8": "Leah and I went foraging yesterday.$0#$b#We were lucky and found enough vegetables to make a salad.$1",
