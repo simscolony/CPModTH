@@ -1,7 +1,7 @@
 {
    "Entries": {
             "Mon8": "บางครั้งฮาร์วีย์ ก็ดูเงอะงะอยู่นะ$0#$b#แต่มันก็เป็นอะไรที่ น่ารักไปอีกแบบ$4",
-            "Tue8": "ฮาร์วีมักมีจะไอเดีย สิ่งประดิษฐ์ใหม่มาให้ฉัน และฉันก็จะทำ ตามแบบของเขา$0#$e#เราเป็นทีมที่เพอร์เฟค!$1",
+            "Tue8": "ฮาร์วีย์มักมีจะไอเดีย สิ่งประดิษฐ์ใหม่มาให้ฉัน และฉันก็จะทำ ตามแบบของเขา$0#$e#เราเป็นทีมที่เพอร์เฟค!$1",
             "Wed8": "ฉันเป็นคนรักความอิสระ$0#$b#...แต่ตอนนี้มันก็ยากเหมือนกัน ถ้าต้องคิดถึงชีวิตที่ไม่มี ฮาร์วีย์ โอไรออน และซีลัม$0#$b#ฉันรักครอบครัวของฉันจริงๆ$1",
             "Thu8": "ฉันกำลังลองทำเครื่องมือ ที่ช่วยเพิ่มคุณภาพของผักดอง$0#$b#ฮาร์วีย์ กับโอไรออน ตื่นเต้นกันสุดๆ ก็พวกเขาชอบผักน่ะสิ$1",
             "Fri8": "ถ้าฉันค้นพบดาวดวงใหม่ ฉันจะตั้งชื่อว่า ฮาร์วีย์$4#$e#คุณคิดว่ามันเฉิ่มไปหรอ...?$0",
@@ -12,16 +12,16 @@
             "spring_Sun8": "พ่อตื่นเต้นมากตอนที่ฉันบอกว่า ฉันท้อง$0#$b#แต่แม่ดูเหมือนจะรู้อยู่แล้ว$0",
             "summer_Tue8": "ฮาร์วีย์อยากจะปรับปรุงคอมพิวเตอร์ ของคลินิกให้ทันสมัยมากขึ้น$0#$b#บางทีเซบาสเตียน น่าจะช่วยเขาได้นะ$0",
             "summer_Thu8": "ซีลัมและโอไรออน ถูกตั้งชื่อตามกลุ่มดาวกลุ่มแรก ที่ฮาร์วีย์กับฉันมองเห็นด้วยกัน จากกล้องโทรทรรศน์น่ะ$4",
-            "summer_Sat8": "Harvey is a great cook.$1#$b#And he always makes healthy meals.$0",
-            "fall_Mon8": "I was surprised to hear that Harvey also goes to Caroline's to exercise on Tuesdays, along with my mother.$0#$b#It's good that he wants to stay healthy.$0",
-            "fall_Thu8": "Some married couples just can't work together.$0#$b#Luckily Harvey and I aren't one of them.$1",
-            "fall_Sat8": "Harvey and I want to go on a road trip and explore new places.$0#$b#The kids also want to travel around.$1#$e#But I don't think we'll be able to do it anytime soon, the clinic would have to close at least for a few weeks...$2",
-            "winter_Tue8": "In the past I seriously considered building a robotic husband.$0#$b#But now I have Harvey and he's a much better husband than a robot would be.$4",
-            "winter_Wed8": "Harvey and I ordered some books for the boys.$0#$b#They love reading.$1",
-            "winter_Sun8": "Time seems to stop when I look at Harvey...$4#$e#Maybe he's traveling at the speed of light.$1",
-            "summer_27_2": "I'm looking forward to watching the Moonlight Jellies with Harvey tomorrow.$4",
-            "fall_8_2": "Today's the twins' birthday.$0#$b#They've been so excited about it.$1",
-            "fall_26_2": "I've been talking with Harvey about our strategy to complete the Haunted Maze.$0#$e#Maybe this year we can be the first to find the treasure!$1",
-            "winter_14_2": "Today is Harvey's birthday.$1#$e#I've have designed a special model plane for him.$0#$b#I hope he likes it.$1"
+            "summer_Sat8": "ฮาร์วีย์ทำอาหารเก่งมาก$1#$b#และเขามักจะทำอาหาร เพื่อสุขภาพเสมอ$0",
+            "fall_Mon8": "ฉันประหลาดใจสุดๆ ตอนที่ได้ยินว่า ฮาร์วีย์ไปคลาสออกกำลังกาย ของแคโรไลน์ทุกวันศุกร์ แถมอยู่กับแม่ฉันด้วย$0#$b#มันก็ดีแหละ ที่เขาจะดูแลสุขภาพแบบนี้$0",
+            "fall_Thu8": "มีคู่แต่งงานบางคู่นะ ที่ไม่สามารถทำงานด้วยกันได้$0#$b#โชคดีที่ฮาร์วีย์กับฉัน ไม่ได้เป็นหนึ่งในนั้น$1",
+            "fall_Sat8": "ฮาร์วีกับฉันว่าจะขับรถแล้ว และลองหาสถานที่ใหม่ๆ บ้าง$0#$b#พวกเด็กๆ อยากเที่ยวเล่นรอบๆ นี้น่ะ$1#$e#แต่ฉันว่าคงยังไม่ใช่เร็วๆ นี้หรอก เพราะคลินิกคงต้องปิด อย่างน้อยเป็นอาทิตย์เลย...$2",
+            "winter_Tue8": "ในอดีต ฉันตั้งใจจะสร้าง หุ่นยนต์สามีเลยนะ$0#$b#แต่ตอนนี้มีฮาร์วีย์ และเขาเป็นสามีที่ดีกว่า ที่หุ่นยนต์จะเป็นได้$4",
+            "winter_Wed8": "ฮาร์วีย์กับฉัน สั่งหนังสือมาให้พวกเด็กๆ$0#$b#พวกเขาชอบอ่านหนังสือ$1",
+            "winter_Sun8": "เวลาที่ฉันมองฮาร์วีย์ เหมือนเวลามันหยุดเลย...$4#$e#หรือว่า เขาจะเดินทางไปมา ด้วยความเร็วแสง$1",
+            "summer_27_2": "ฉันตั้งตารอที่จะได้ดู แมงกระพรุนแสงจันทร์ กับฮาร์วีย์ในวันพรุ่งนี้เลยล่ะ$4",
+            "fall_8_2": "วันนี้เป็นวันเกิดของฝาแฝด$0#$b#พวกเขาตื่นเต้นกันมาก$1",
+            "fall_26_2": "ฉันคุยกับฮาร์วีย์ เพื่อวางแผนกลยุทธ์ พิชิตเขาวงกตสยองขวัญ$0#$e#ไม่แน่นะ ปีนี้เราอาจจะเป็นกลุ่มแรก ที่เจอสมบัติก็ได้!$1",
+            "winter_14_2": "วันนี้เป็นวันเกิดของฮาร์วีย์$1#$e#ฉันออกแบบโมเดล เครื่องบินพิเศษให้เขา$0#$b#หวังว่าเขาจะชอบนะ$1"
    },
 }
