@@ -863,14 +863,14 @@
 	"HasSeenEvent": "59020025"
 		},
 "Entries":  {
-            "spring.001": "I'm a little embarrassed to say it but...$4#$b#...Penny is my muse.$10",
-            "spring.002": "Penny is truly a good teacher.$1",
-            "summer.001": "Watching Penny play with Vincent makes me so happy.$1#$b#I wonder when we'll have kids on our own...$0",
-            "summer.002": "Penny...$4#$b#...I love you.$4",
-            "fall.001": "I wonder if Penny and I will ever bring our own kids here...$4",
-            "fall.002": "Penny always encourages me to chase my dreams.$0#$b#I really like that about her.$1",
-            "winter.001": "It feels good to help Penny with the kids.$1",
-            "winter.002": "This is a special place for Penny and me...$4"
+            "spring.001": "จะให้พูดก็แอบอายนะ แต่...$4#$b#...เพนนีน่ะเป็น แรงบันดาลใจของฉัน$10",
+            "spring.002": "เพนนีเป็นครูที่ดีจริงๆ$1",
+            "summer.001": "ได้ดูเพนนีเล่นกับวินเซนท์ ฉันมีความสุขมาก$1#$b#สงสัยจังว่า เราจะมีลูกกันเมื่อไหร่...$0",
+            "summer.002": "เพนนี...$4#$b#...ฉันรักเธอ$4",
+            "fall.001": "สงสัยจังแหะ ว่าฉันกับเพนนี จะได้พาลูกมาที่นี่บ้างมั้ย...$4",
+            "fall.002": "เพนนีคอยเป็นกำลังใจ ให้ฉันตามฝันตลอดเลย$0#$b#ฉันชอบที่เธอทำงั้นมาก$1",
+            "winter.001": "รู้สึกดีจังที่ได้ช่วยเพนนีดูเด็กๆ$1",
+            "winter.002": "ที่ตรงนี้เป็นที่พิเศษ ของฉันกับเพนนีล่ะ...$4"
             },
 },
     //Penny
@@ -882,14 +882,14 @@
 	"HasSeenEvent": "59020025"
 		},
 "Entries":  {
-            "spring.001": "Sam is so talented, don't you think, @?$1",
-            "spring.002": "Sam is so cute when he comes to see me at my classes.$1#$b#But I have to confess it makes me a little nervous...$4",
-            "summer.001": "Sam looks handsome today...$4#$b#Well, he always does.$4",
-            "summer.002": "Um... @...$3#$b#Would you mind leaving us alone?$4",
-            "fall.001": "I love that I can be myself with Sam.$4",
-            "fall.002": "Sam told me that he was composing a song for me.$0#$b#Isn't he the sweetest?$4",
-            "winter.001": "Sam always makes the classes more interesting.$1",
-            "winter.002": "This is where I told Sam how I felt.$4#$b#I still can't believe we're married now...$4"
+            "spring.001": "แซมมีพรสวรรค์มากเลย ว่ามั้ยคะ @?$1",
+            "spring.002": "แซมน่ารักมากเลยค่ะ เวลามาหาฉันตอนฉันสอน$1#$b#แต่ต้องสารภาพว่า ฉันประหม่าหน่อยๆ...$4",
+            "summer.001": "วันนี้แซมหล่อจังค่ะ...$4#$b#แต่ก็ หล่อทุกวันอยู่แล้ว$4",
+            "summer.002": "เอ่อ... @ คะ...$3#$b#ให้พวกเราอยู่กันลำพัง ได้มั้ยคะ?$4",
+            "fall.001": "ฉันชอบมากเลย ที่เวลาอยู่กับแซมแล้ว เป็นตัวของตัวเองได้$4",
+            "fall.002": "แซมบอกว่าเขาแต่งเพลงให้ฉัน$0#$b#น่ารักที่สุดเลยว่ามั้ยคะ?$4",
+            "winter.001": "แซมทำให้แต่ละคาบที่ฉันสอน น่าสนใจขึ้นตลอดเลยค่ะ$1",
+            "winter.002": "ที่นี่เป็นที่ที่ฉัน สารภาพรักกับแซมค่ะ$4#$b#ฉันยังไม่อยากเชื่อเลย ว่าตอนนี้เราแต่งงานกันแล้ว...$4"
             },
 },
 
@@ -1011,7 +1011,7 @@
     "Version": "family"
         },
 "Entries": {
-    "Eve": "Wow! I love this, thank you!/221 651 417 372 90/Oh, for me? Thank you! I really like this./18 22 394 376/Oh... Thank you.../283 218 219 456/Um... Is this supposed to be a gift...?/346 348 303 459 307 395 253/Thank you!//"
+    "Eve": "ว้าว! หนูชอบมากๆ เลยค่ะ ขอบคุณนะคะ!/221 651 417 372 90/ให้หนูเหรอคะ? ขอบคุณค่ะ! หนูชอบมากเลย/18 22 394 376/อ่า... ขอบคุณค่ะ.../283 218 219 456/เอ่อ... อันนี้คือของขวัญเหรอคะ...?/346 348 303 459 307 395 253/ขอบคุณค่ะ!//"
            }
 },
     //Rainy Day Dialogue
@@ -1026,7 +1026,7 @@
     "Version": "family"
         },
 "Entries": {
-    "Eve": "Rainy days are so much fun.$0#$b#Vincent and I play the Goose game and Parchis all day.$1"
+    "Eve": "วันฝนตก มีแต่เรื่องสนุกๆ ค่ะ$0#$b#หนูกับพี่วินเซนท์จะเล่น เกมทอยเต๋าแข่งกันเดิน แล้วก็บันไดงูทั้งวันเลย$1"
             }
 },
     //Animations
@@ -1186,16 +1186,16 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "spring.001": "Sam is so talented, don't you think, @?$1",
-            "spring.002": "Sam is so cute when he comes to see me at my classes.$1#$b#But I have to confess it makes me a little nervous...$4",
-            "summer.001": "Sam looks handsome today...$4#$b#Well, he always does.$4",
-            "summer.002": "Um... @...$3#$b#Would you mind leaving us alone?$4",
-            "fall.001": "I love that I can be myself with Sam.$4",
-            "fall.002": "Sam told me that he was composing a song for me.$0#$b#Isn't he the sweetest?$4",
-            "winter.001": "Sam always makes the classes more interesting.$1",
-            "winter.002": "This is where I told Sam how I felt.$4#$b#I still can't believe we're married now...$4",
-            "familydinner.001": "Sam, we need two more glasses.$0",
-            "familydinner.002": "Vincent, do you want more cranberry candy?$1"
+            "spring.001": "แซมมีพรสวรรค์มากเลย ว่ามั้ยคะ @?$1",
+            "spring.002": "แซมน่ารักมากเลยค่ะ เวลามาหาฉันตอนฉันสอน$1#$b#แต่ต้องสารภาพว่า ฉันประหม่าหน่อยๆ...$4",
+            "summer.001": "วันนี้แซมหล่อจังค่ะ...$4#$b#แต่ก็ หล่อทุกวันอยู่แล้ว$4",
+            "summer.002": "เอ่อ... @ คะ...$3#$b#ให้พวกเราอยู่กันลำพัง ได้มั้ยคะ?$4",
+            "fall.001": "ฉันชอบมากเลย ที่เวลาอยู่กับแซมแล้ว เป็นตัวของตัวเองได้$4",
+            "fall.002": "แซมบอกว่าเขาแต่งเพลงให้ฉัน$0#$b#น่ารักที่สุดเลยว่ามั้ยคะ?$4",
+            "winter.001": "แซมทำให้แต่ละคาบที่ฉันสอน น่าสนใจขึ้นตลอดเลยค่ะ$1",
+            "winter.002": "ที่นี่เป็นที่ที่ฉัน สารภาพรักกับแซมค่ะ$4#$b#ฉันยังไม่อยากเชื่อเลย ว่าตอนนี้เราแต่งงานกันแล้ว...$4",
+            "familydinner.001": "แซมคะ ขอแก้วเพิ่มสองใบ$0",
+            "familydinner.002": "วิทเซนท์จ๊ะ อยากกิน ลูกอมแครนเบอร์รี่อีกมั้ย?$1"
             },
 },
     //Sam
@@ -1210,16 +1210,16 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "spring.001": "I'm a little embarrassed to say it but...$4#$b#...Penny is my muse.$10",
-            "spring.002": "Penny is truly a good teacher.$1",
-            "summer.001": "Watching Penny play with Vincent makes me so happy.$1#$b#I wonder when we'll have kids on our own...$0",
-            "summer.002": "Penny...$4#$b#...I love you.$4",
-            "fall.001": "I wonder if Penny and I will ever bring our own kids here...$4",
-            "fall.002": "Penny always encourages me to chase my dreams.$0#$b#I really like that about her.$1",
-            "winter.001": "It feels good to help Penny with the kids.$1",
-            "winter.002": "This is a special place for Penny and me...$4",
-            "familydinner.001": "Mom, do you need help?$0",
-            "familydinner.002": "Pam, you're not a bad cook at all.$1"
+            "spring.001": "จะให้พูดก็แอบอายนะ แต่...$4#$b#...เพนนีน่ะเป็น แรงบันดาลใจของฉัน$10",
+            "spring.002": "เพนนีเป็นครูที่ดีจริงๆ$1",
+            "summer.001": "ได้ดูเพนนีเล่นกับวินเซนท์ ฉันมีความสุขมาก$1#$b#สงสัยจังว่า เราจะมีลูกกันเมื่อไหร่...$0",
+            "summer.002": "เพนนี...$4#$b#...ฉันรักเธอ$4",
+            "fall.001": "สงสัยจังแหะ ว่าฉันกับเพนนี จะได้พาลูกมาที่นี่บ้างมั้ย...$4",
+            "fall.002": "เพนนีคอยเป็นกำลังใจ ให้ฉันตามฝันตลอดเลย$0#$b#ฉันชอบที่เธอทำงั้นมาก$1",
+            "winter.001": "รู้สึกดีจังที่ได้ช่วยเพนนีดูลูก$1",
+            "winter.002": "ที่ตรงนี้เป็นที่พิเศษ ของฉันกับเพนนีล่ะ...$4",
+            "familydinner.001": "แม่ ให้ผมช่วยมั้ย?$0",
+            "familydinner.002": "แม่แพมครับ ทำอาหารเก่งมากเลยครับ$1"
             },
 },
         //Yes children
@@ -1233,16 +1233,16 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "spring.001": "I'm a little embarrassed to say it but...$4#$b#...Penny is my muse.$10",
-            "spring.002": "Penny is truly a good teacher.$1",
-            "summer.001": "Watching Penny play with Vincent and Eve makes me so happy.$1#$b#We've a nice family.$1",
-            "summer.002": "Penny...$4#$b#...I love you.$4",
-            "fall.001": "Eve, be careful, sweetheart.$0",
-            "fall.002": "Penny always encourages me to chase my dreams.$0#$b#I really like that about her.$1",
-            "winter.001": "It feels good to help Penny with the kids.$1",
-            "winter.002": "This is a special place for Penny and me...$4",
-            "familydinner.001": "Mom, do you need help?$0",
-            "familydinner.002": "Pam, you're not a bad cook at all.$1"
+            "spring.001": "จะให้พูดก็แอบอายนะ แต่...$4#$b#...เพนนีน่ะเป็น แรงบันดาลใจของฉัน$10",
+            "spring.002": "เพนนีเป็นครูที่ดีจริงๆ$1",
+            "summer.001": "ได้ดูเพนนีเล่น กับวินเซนท์กับอีฟ ฉันมีความสุขมาก$1#$b#พวกเราเป็นครอบครัวที่น่ารัก$1",
+            "summer.002": "เพนนี...$4#$b#...ฉันรักเธอ$4",
+            "fall.001": "อีฟ ระวังด้วย ลูกรัก$0",
+            "fall.002": "เพนนีคอยเป็นกำลังใจ ให้ฉันตามฝันตลอดเลย$0#$b#ฉันชอบที่เธอทำงั้นมาก$1",
+            "winter.001": "รู้สึกดีจังที่ได้ช่วยเพนนีดูเด็กๆ $1",
+            "winter.002": "ที่ตรงนี้เป็นที่พิเศษ ของฉันกับเพนนีล่ะ...$4",
+            "familydinner.001": "แม่ ให้ผมช่วยมั้ย?$0",
+            "familydinner.002": "แม่แพมครับ ทำอาหารเก่งมากเลยครับ$1"
             },
 },
     //Pam
@@ -1255,8 +1255,8 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "familydinner.001": "Don't worry, Jodi, let me cook the parsnip soup.$1",
-            "familydinner.002": "Next time Imma bring some beer for you, Kent.$1"
+            "familydinner.001": "อย่าห่วงเลยโจดี้ ให้ฉันทำซุปหัวผักกาดเถอะ$1",
+            "familydinner.002": "คราวหน้าเดี๋ยวฉัน เอาเบียร์มาฝากคุณนะ เคนท์$1"
             },
 },
     //Jodi
@@ -1269,8 +1269,8 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "familydinner.001": "Where did I put the eggplants...?$2",
-            "familydinner.002": "Should I help you wash the dishes, Penny?$1"
+            "familydinner.001": "ฉันเอามะเขือม่วง ไปไว้ไหนนะ...?$2",
+            "familydinner.002": "ให้ช่วยล้างจากมั้ยจ๊ะ เพนนี?$1"
             },
 },
     //Kent
@@ -1283,8 +1283,8 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "familydinner.001": "Vincent loves to visit Sam and Penny.$1",
-            "familydinner.002": "I've missed these moments with the family...$1"
+            "familydinner.001": "วิทเซน์ชอบไปเยี่ยม แซมกับเพนนีมาก$1",
+            "familydinner.002": "ผมพลาดช่วงเวลาเหล่านี้ กับครอบครัวไป...$1"
             },
 },
     //Vincent
@@ -1297,8 +1297,8 @@
     "HasSeenEvent": "59020025"
         },
 "Entries":  {
-            "familydinner.001": "My brother told me I can stay here tonight if I want to.$1",
-            "familydinner.002": "The dinner is delicious!$1"
+            "familydinner.001": "พี่บอกว่า ถ้าผมอยากก็ค้างที่นี่ได้ฮะ$1",
+            "familydinner.002": "ข้าวเย็นอร่อยมากเลย!$1"
             },
 },
 
