@@ -11,10 +11,10 @@
 
 &nbsp;                            | สถานะการแปล                                                    | รวมเข้ากับ mod หลัก                                                           | ผู้แปล
 --------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------
-Stardew Valley                    | [✓](StardewValley/)                                            |                                                                            |
+Stardew Valley                    | [✓](StardewValley/)                                            |                                                                            | [@MemeeThechoco](https://github.com/MemeeThechoco), [@MemoLiza](https://github.com/MemoLiza), [@Pookhao23](https://github.com/Poopoo2002), [@RushingOn](https://github.com/RushingOn), [@SabiMiyato](https://github.com/SabiMiyato), [@Tomyamkung](https://github.com/Hipster1707)
 Stardew Valley Expanded           | [✓](StardewValleyExpanded/Stardew%20Valley%20Expanded/)        |
-Grandpa's Farm (SVE)              | [✓](StardewValleyExpanded/Grandpa's%20Farm/)                   |                                                                            | @SabiMiyato
-Immersive Farm 2 Remastered (SVE) | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  |                                                                            | @SabiMiyato
+Grandpa's Farm (SVE)              | [✓](StardewValleyExpanded/Grandpa's%20Farm/)                   |                                                                            | [@SabiMiyato](https://github.com/SabiMiyato)
+Immersive Farm 2 Remastered (SVE) | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  |                                                                            | [@SabiMiyato](https://github.com/SabiMiyato)
 Life Cycle                        | ❑                                                              |
 Looking for Love                  | [✓]([CP]%20Looking%20for%20Love/)                              |
 Ridgeside Village                 | [↻ แปลบางส่วน](Ridgeside%20Village/)                            |
