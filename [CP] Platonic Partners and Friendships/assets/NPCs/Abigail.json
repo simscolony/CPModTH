@@ -353,17 +353,17 @@
             "Target": "Characters/Dialogue/MarriageDialogueAbigail",
             "Entries":
             {
-                "Rainy_Day_0": "#$c .5#I think I'll bust out my good ol' sketchbook today. I've got some ideas for mythical beasts that could be fun.#The dark... the rain... it gets me excited.$h",
-                "Rainy_Day_1": "Hey, remember when we played that duet by the lake? This weather reminds me of that day.#$e#$c .5#Do you still carry around that mini harp? That one kind of surprised me. Where'd you learn to play, anyway?#You really surprised me with that mini-harp... I never expected that. I guess that's why I like you so much!$h",
-                "Rainy_Day_3": "#$c .5#Hehe, I did some sword training in the rainy darkness. You've gotta admit, your best friend is pretty epic.$h#It might be a good day to visit the caves, huh? Just be careful out there, and if you go, bring a Life Elixir or two.",
-                "Rainy_Night_1": "#$c .5#It's a good night to see a ghost...#Hey! You look like you've been hard at work. Can I get you something to eat?",
-                "Indoor_Day_4": "#$c .5#Sure, I can do some cleaning today, no problem. You work so hard on the farm, it's the least I can do.#You don't mind if I do some re-decorating now and then, do you? I'm still excited to have a place of my own to work on.",
-                "Indoor_Night_0": "#$c .5#Hey, you look really good tonight! Teach me your secrets!$l#I had a good day, today. There's always something interesting going on around here, if you look close enough.",
-                "Outdoor_0": "#$c .5#What an awesome morning! I can't believe how many of these I missed before we were {{RelationshipLabel}}.$h#The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage.",
-                "TwoKids_3": "#$c .5#We adopted young, but look on the bright side! At least we won't be super old when our kids are grown up.#A cool old house, a couple kids, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started.$h",
-                "spring_16": "Will you get mad at me if I go for an all-day video game binge today?#$b#Sorry, it just... sounds really nice.$h",
-                "summer_23": "Some of my old online classmates squeed when they found out you and I became {{RelationshipLabel}}. It's good to keep in touch with them.",
-                "winter_19": "Tonight's supposed to be a Saloon night again. Think you can make it?#$e#You'll always be my priority, but it's fun to get the whole friend group together.$h",
+                "Rainy_Day_0": "#$c .5#ฉันว่าวันนี้จะเอาสมุดสเก็ตช์ออกมาปัดฝุ่นหน่อยละนะเพราะพึ่งได้ไอเดียสัตว์ในเทพนิยายมา#ความมืด... สายฝน... มันทำให้ฉันตื่นเต้นอย่างบอกไม่ถูกเลยละ$h",
+                "Rainy_Day_1": "นี่ๆจำตอนนั้นได้มั้ยตอนที่ฝนตกลงมาแล้วเราก็เล่นเพลงด้วยกันพอฝนตกแบบนี้ก็ทำให้ย้อนคิดขึ้นมาน่ะ#$e#$c .5#เธอยังพกพิณอยู่กับตัวอยู่รึเปล่าอะตอนนั้นมันทำให้ฉันตกใจมากเลยนะแต่ว่าเธอไปเรียนที่จะเล่นมันมากับใครหรอยังไงก็เถอะ#เธอทำให้ฉันตะลึงจริงๆเลยนะเนี่ยถึงว่าทำไมฉันถึงชอบเธอได้ขนาดนี้!$h",
+                "Rainy_Day_3": "#$c .5#ฉันไปฝึกฟันดาบกลางสายฝนมาน่ะอิอิเธอต้องภูมิใจนะว่าเพื่อนเธอน่ะเจ๋งที่สุด$h#อาจจะเป็นวันที่ดีในการลงเหมืองนะแต่ว่าระวังตัวหน่อยล่ะบางทีพกยาไปสักขวดสองขวดก็ดีนะ",
+                "Rainy_Night_1": "#$c .5#ตอนกลางคืนแบบนี้มันเหมาะมากเลยนะที่ได้เจอผี...#นี่!เธอดูเหนื่อยๆนะให้ฉันทำอะไรให้กินมั้ย?",
+                "Indoor_Day_4": "#$c .5#วันนี้ฉันจะทำความสะอาดบ้านหน่อยล่ะนะเพราะว่างานในฟามเธอคงหนักน่าดูถึงแม้ว่ามันจะเป็นสิ่งที่ฉันช่วยทำได้แค่นี้ก็เถอะ#เธอจะว่าอะไรมั้ย?ถ้าฉันจะจัดห้องใหม่นิดหน่อย",
+                "Indoor_Night_0": "#$c .5#นี่ๆเธอดูดีมากเลยนะวันนี้มีเคล็ดลับอะไรหรอบอกฉันหน่อยสิ$l#วันนี้ฉันรู้สึกดีสุดๆไปเลยถ้าเธอลองดูดีๆเธอจะเห็นว่าสิ่งรอบตัวมันน่าทึ่งแค่ไหน",
+                "Outdoor_0": "#$c .5#ว้าวเป็นเช้าที่สดใสสุดๆไปเลยนะเนี่ยฉันพลาดอะไรดีๆไปเยอะเลยนะเนี่ยก่อนจะที่จะมาเป็น{{RelationshipLabel}}$h#สายลมเย็นๆคอยพัดพากลิ่นต้นสนอ่อนๆมาที่หุบเขาที่นี่",
+                "TwoKids_3": "#$c .5#เรารับเลี้ยงเด็กๆมาเร็วไปมั้ยเนี่ยแต่มองในแง่ดีนะเราจะได้ไม่แก่เกินไปตอนที่เด็กๆโตกันแล้ว#มีทั้งบ้านสุดเจ๋งกับเด็กๆที่น่ารักและก็ฟาร์มที่เจ๋งเหมือนกันฉันไม่นึกเลยนะว่าชีวิตจะมีอะไรดีๆแบบนี้ได้แต่อันนี้ก็แค่เริ่มต้นล่ะ$h",
+                "spring_16": "เธอจะว่าอะไรฉันมั้ยถ้าเกิดวันนี้ฉันจะเล่นเกมทั้งวัน..?#$b#แต่ก็นะ...มันก็ฟังดูน่าสนุกดีน่ะ$h",
+                "summer_23": "เพื่อนๆทางออนไลน์ของฉันตกใจกันมากเลยล่ะพอรู้ว่าพวกเราเป็น{{RelationshipLabel}} ",
+                "winter_19": "คืนนี้จะเป็นคืนที่ทุกๆคนมาสังสรรค์กันฉันหวังว่าเธอจะมาจอยกันนะ?#$e#ได้เจอกับกลุ่มเพื่อนก็เป็นอะไรที่ดีนะ$h",
             },
             "When":
             {
@@ -376,18 +376,18 @@
             "Target": "Characters/Dialogue/MarriageDialogueAbigail",
             "Entries":
             {
-                "Rainy_Day_0": "#$c .5#I think I'll bust out my good ol' sketchbook today. I've got some ideas for mythical beasts that could be fun.#The dark... the rain... it gets me excited.$h",
-                "Rainy_Day_1": "Hey, remember when we played that duet by the lake? This weather reminds me of that day.#$e#$c .5#Do you still carry around that mini harp? That one kind of surprised me. Where'd you learn to play, anyway?#You really surprised me with that mini-harp... I never expected that. I guess that's why I like you so much!$h",
-                "Rainy_Day_3": "#$c .5#Hehe, I did some sword training in the rainy darkness. You've gotta admit, your best friend is pretty epic.$h#It might be a good day to visit the caves, huh? Just be careful out there, and if you go, bring a Life Elixir or two.",
-                "Rainy_Night_1": "#$c .5#It's a good night to see a ghost...#Hey! You look like you've been hard at work. Can I get you something to eat?",
-                "Indoor_Day_4": "#$c .5#Sure, I can do some cleaning today, no problem. You work so hard on the farm, it's the least I can do.#You don't mind if I do some re-decorating now and then, do you? I'm still excited to have a place of my own to work on.",
-                "Indoor_Night_0": "#$c .5#Hey, you look really good tonight! Teach me your secrets!$h#I had a good day, today. There's always something interesting going on around here, if you look close enough.",
-                "Outdoor_0": "#$c .5#What an awesome morning! I can't believe how many of these I missed before we were {{RelationshipLabel}}.$h#The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage.",
-                "TwoKids_3": "#$c .5#We adopted young, but look on the bright side! At least we won't be super old when our kids are grown up.#A cool old house, a couple kids, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started.$h",
-                "spring_16": "Will you get mad at me if I go for an all-day video game binge today?#$b#Sorry, it just... sounds really nice.$h",
-                "summer_23": "Some of my old online classmates squeed when they found out you and I became {{RelationshipLabel}}. It's good to keep in touch with them.",
-                "winter_19": "Tonight's supposed to be a Saloon night again. Think you can make it?#$e#You'll always be my priority, but it's fun to get the whole friend group together.$h",
-                "summer_22": "Ugh... Didn't sleep well, and my back is killing me. I can't adult today...$s#$e#...But, yeah, I'll try. Sorry.#$e#I know it hasn't been that much time since we first met, but in some respects, I feel like I was still just a little kid then.$s#$b#I feel like I've grown up a lot since then. But I also feel such a long way off from... my parents' level of maturity, for example.$u#$e#Heh. Who knew entering adulthood would be just as scary as entering the mines?$h#$b#I'm glad you're with me.",
+                "Rainy_Day_0": "#$c .5#ฉันว่าวันนี้จะเอาสมุดสเก็ตช์ออกมาปัดฝุ่นหน่อยละนะเพราะพึ่งได้ไอเดียสัตว์ในเทพนิยายมา#ความมืด... สายฝน... มันทำให้ฉันตื่นเต้นอย่างบอกไม่ถูกเลยละ$h",
+                "Rainy_Day_1": "นี่ๆจำตอนนั้นได้มั้ยตอนที่ฝนตกลงมาแล้วเราก็เล่นเพลงด้วยกันพอฝนตกแบบนี้ก็ทำให้ย้อนคิดขึ้นมาน่ะ#$e#$c .5#เธอยังพกพิณอยู่กับตัวอยู่รึเปล่าอะตอนนั้นมันทำให้ฉันตกใจมากเลยนะแต่ว่าเธอไปเรียนที่จะเล่นมันมากับใครหรอยังไงก็เถอะ#เธอทำให้ฉันตะลึงจริงๆเลยนะเนี่ยถึงว่าทำไมฉันถึงชอบเธอได้ขนาดนี้!$h",
+                "Rainy_Day_3": "#$c .5#ฉันไปฝึกฟันดาบกลางสายฝนมาน่ะอิอิเธอต้องภูมิใจนะว่าเพื่อนเธอน่ะเจ๋งที่สุด$h#อาจจะเป็นวันที่ดีในการลงเหมืองนะแต่ว่าระวังตัวหน่อยล่ะบางทีพกยาไปสักขวดสองขวดก็ดีนะ",
+                "Rainy_Night_1": "#$c .5#ตอนกลางคืนแบบนี้มันเหมาะมากเลยนะที่ได้เจอผี...#นี่!เธอดูเหนื่อยๆนะให้ฉันทำอะไรให้กินมั้ย?",
+                "Indoor_Day_4": "#$c .5#วันนี้ฉันจะทำความสะอาดบ้านหน่อยล่ะนะเพราะว่างานในฟามเธอคงหนักน่าดูถึงแม้ว่ามันจะเป็นสิ่งที่ฉันช่วยทำได้แค่นี้ก็เถอะ#เธอจะว่าอะไรมั้ย?ถ้าฉันจะจัดห้องใหม่นิดหน่อย",
+                "Indoor_Night_0": "#$c .5#นี่ๆเธอดูดีมากเลยนะวันนี้มีเคล็ดลับอะไรหรอบอกฉันหน่อยสิ$l#วันนี้ฉันรู้สึกดีสุดๆไปเลยถ้าเธอลองดูดีๆเธอจะเห็นว่าสิ่งรอบตัวมันน่าทึ่งแค่ไหน",
+                "Outdoor_0": "#$c .5#ว้าวเป็นเช้าที่สดใสสุดๆไปเลยนะเนี่ยฉันพลาดอะไรดีๆไปเยอะเลยนะเนี่ยก่อนจะที่จะมาเป็น{{RelationshipLabel}}$h#สายลมเย็นๆคอยพัดพากลิ่นต้นสนอ่อนๆมาที่หุบเขาที่นี่",
+                "TwoKids_3": "#$c .5#เรารับเลี้ยงเด็กๆมาเร็วไปมั้ยเนี่ยแต่มองในแง่ดีนะเราจะได้ไม่แก่เกินไปตอนที่เด็กๆโตกันแล้ว#มีทั้งบ้านสุดเจ๋งกับเด็กๆที่น่ารักและก็ฟาร์มที่เจ๋งเหมือนกันฉันไม่นึกเลยนะว่าชีวิตจะมีอะไรดีๆแบบนี้ได้แต่อันนี้ก็แค่เริ่มต้นล่ะ$h",
+                "spring_16": "เธอจะว่าอะไรฉันมั้ยถ้าเกิดวันนี้ฉันจะเล่นเกมทั้งวัน..?#$b#แต่ก็นะ...มันก็ฟังดูน่าสนุกดีน่ะ$h",
+                "summer_23": "เพื่อนๆทางออนไลน์ของฉันตกใจกันมากเลยล่ะพอรู้ว่าพวกเราเป็น{{RelationshipLabel}} ",
+                "winter_19": "คืนนี้จะเป็นคืนที่ทุกๆคนมาสังสรรค์กันฉันหวังว่าเธอจะมาจอยกันนะ?#$e#ได้เจอกับกลุ่มเพื่อนก็เป็นอะไรที่ดีนะ$h",
+                "summer_22": "โอย... เมื่อคืนนอนไม่ค่อยหลับเลยแถมหลังก็ปวดมากๆด้วยฉันว่าวันนี้ฉันคงทำอะไรไม่ได้เลย...$s#$e#...แต่ฉันจะพยายามละกันนะ#$e#ฉันรู้นะว่ามันพึ่งผ่านมาไม่นานตอนที่ฉันพึ่งเจอกับเธอแต่ตอนนี้ฉันก็ยังทำตัวเป็นผ฿้ใหญ่ไม่ได้สักที$s#$b#ฉันรู้สึกว่าตัวเองโตขึ้นเยอะนะแต่ว่าก็ยังไม่เท่าพ่อแม่ฉันเลย$u#$e#ใครจะไปรู้ละว่าการโตเป็นผู้ใหญ่มันจะน่ากลัวพอๆกับไปบุกเหมือง$h#$b#แต่ฉันดีใจนะที่มีเธออยู่ข้างๆ",
             },
             "When":
             {
@@ -400,7 +400,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueAbigail",
             "Entries":
             {
-                "Indoor_Night_1": "#$c .5#I can't wait to curl up under the old electric blanket.#Hey! Tell me about your day. Did anything exciting happen?$h",
+                "Indoor_Night_1": "#$c .5#รอไม่ไหวแล้วที่จะไปซุกตัวใต้ผ้าห่มไฟฟ้า#ว่าแต่บอกฉันหน่อยสิว่าวันนี้มีอะไรน่าสนใจเกินขึ้นมั้ย?$h",
             },
             "When":
             {
@@ -413,8 +413,8 @@
             "Target": "Characters/Dialogue/Pierre",
             "Entries":
             {
-                "fall_Mon_inlaw_Abigail": "Hello, @. How are things with you and Abigail?",
-                "winter_Mon_inlaw_Abigail": "Hello, @. How are things with you and Abigail?",
+                "fall_Mon_inlaw_Abigail": "สวัสดี @ เดี๋ยวนี้เป็นไงบ้าง?",
+                "winter_Mon_inlaw_Abigail": "สวัสดี @ เดี๋ยวนี้เป็นไงบ้าง?",
             },
         },
         //COMPATIBILITY: SPOUSES REACT TO PLAYER 'DEATH' v1.1.0
@@ -424,7 +424,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Mine",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, wake up!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"Oh! You're awake!\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"So, weird story... Earlier, I got this random feeling that something terrible had happened, and I just knew it was about you.#$b#Don't ask me how I knew. It really just came to me.#$b#Wherever it came from, though, it led me to find you. I can't complain.\"/pause 1000/speak Marlon \"And I simply came along to clear a path for Abigail while we brought you back up to the surface.#$b#At first, I was to venture in alone, but she insisted on coming along.#$b#You're blessed to have ended up sharing your life with someone so courageous.\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"'Courageous', huh...? I like the sound of that. Sounds like you're buttering me up to recruit me for the Guild.$4\"/pause 1000/speak Marlon \"It's in my nature to be frank. I'm simply stating the fact of what I saw. You did well, standing by my side.\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"At any rate, it's best to leave for now. @ needs to rest and recuperate. You two shouldn't linger.\"/pause 500/textAboveHead Marlon \"Farewell.\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \"Hey, @... I know I don't sound like it, but I really was worried for you.#$b#I got to explore the mines, but it wasn't so exciting when all I could think of was you in danger somewhere.$2#$b#I'm glad we made it in time to find you. And, I'm glad I got to swing my sword a few times, too.#$b#Just you wait until I get stronger. We'll conquer the mines as a dream team together!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"Hey there! I just finished practicing with my sword. Next time you go into the mines, I want to come with so I can watch your back!$1#$c 0.7#Well... maybe it's a little early for something like that. I can't give up, though. Not now, not ever.$1#$b#I was about to have a post-training snack. Would you like to share it with me? You look like you could use it.[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 10 2 {{Spouse}} 19 10 1 Marlon 18 10 3/skippable/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {{TermofEndearment}}, ตื่นเร็ว!\"/viewport 19 10 true/pause 1500/speak {{Spouse}} \"อ้ะ! ตื่นแล้วนิ!\"/pause 500/emote farmer 40/pause 500/faceDirection farmer 1/faceDirection farmer 3/pause 500/emote farmer 8/pause 1000/speak {{Spouse}} \"แปลกมากๆเลยอะตอนนั้นฉันรู้สึกถึงอะไรไม่ดีและฉันก็รู้ทันทีเลยว่าต้องเป็นเธอแน่นอน#$b#ไม่ต้องถามนะว่ารู้ได้ไงแค่อยู่ดีๆมันก็แว้บเข้ามา#$b#แต่ไม่ว่ามันคืออะไรก็คงเป็นอะไรดีๆละนะเพราะว่ามันพาให้มาเจอเธอ\"/pause 1000/speak Marlon \และฉันก็เลยมากับอบิเกลเพื่อเคลีย์ทางให้น่ะ#$b#ตอนแรกฉันก็อยู่คนเดียวนะแต่อบิเกลขอฉันร่วมเดินทางมาด้วย#$b#เธอโชคดีนะที่มีคนแบบอบิเกลเป็นเพื่อน\"/emote {{Spouse}} 16/pause 500/speak {{Spouse}} \"แบบที่กล้าหาญอะหรอฉันชอบนะเหมือนนายกำลังจะชวนฉันไปอยู่กิลด์ด้วยเลย.$4\"/pause 1000/speak Marlon \"ป่าวหรอกฉันแค่เห็นอะไรก็พูดไปงั้นเพราะว่าเธอกล้าหาญจริงๆ\"/pause 500/move Marlon 0 0 1/pause 500/faceDirection Marlon 3/speak Marlon \"แต่ตอนนี้มันสมควรออกจากที่นี่ได้แล้วล่ะ @ ต้องพักสักหน่อยนะเอาล่ะรีบไปได้แล้ว\"/pause 500/textAboveHead Marlon \"ลาก่อน\"/move Marlon 0 4 0/warp Marlon -100 -100/pause 1500/speak {{Spouse}} \นี่ @...รู้มั้ยฉันเป็นห่วงเธอมากๆเลยนะ.#$b#ตอนฉันลงไปที่เหมืองฉันไม่ค่อยสนุกเลยพอคิดอย่างเดียวว่าเธอกำลังตกอยู่ในอันตราย$2#$b#ฉันดีใจมากๆเลยที่มาช่วยเธอได้ทัน#$b#รอฉันก่อนนะจนถึงวันนั้นไว้เราไปผจญภัยด้วยกันนะ!$1\"/pause 500/emote farmer 20/faceDirection farmer 2/showFrame 0/pause 500/minedeath/end dialogue {{Spouse}} \"นี่ๆฉันพึ่งซ้อมฟันดาบเสร็จน่ะคราวหลังตอนเธอไปลงเหมือนเราจะได้ไปด้วยกันแล้วนะ!$1#$c 0.7#แต่ว่าคงไม่เร็วไปหรอกนะฉันคงต้องฝึกให้เยอะกว่านี้แล้ว$1#$b#ฉันกำลังจะพักกินขนมอยู่พอดีมากินด้วยกันมั้ยละ[210 215 223 228 232 243 403 406 613 618 636 651]$1\"",
     		},
 		    "When": {
 		        "Spouse": "Abigail",
@@ -436,7 +436,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"Oh gosh, are you okay? Don't get up too quickly.$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"I'm so glad you're looking better. Dr. Harvey really worked a miracle on you, huh?#$b#I was seriously on edge while waiting for Dr. Harvey to let me into the room. I hated not knowing how you were doing...$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"You know, @... I'm still training every day to become stronger, like you.#$b#One day, I want to be able to stand by your side and protect you, like you protect me.#$b# So until that day comes... Please don't go where I can't follow.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"There you are! Sit down and relax for today. I'll take care of you until you're totally back on your feet.#$c 0.7#... I'll have to work ten times harder from now on to become strong enough to protect you. Just wait for me a little longer, {{Lowercase:{{TermofEndearment}}}}.$2#$b#I got this for you, too. Hope you feel better soon. [237 241 203 204 220 244]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"เอาล่ะค่อยๆลืมตานะ\"/viewport 20 12 true/pause 1000/speak Harvey \"ไง  @ ฉันดีใจนะที่คุณตื่นขึ้นมา#$b#มีคนพาคุณมาที่นี่ตอนนั้นสภาพคุณดูไม่ได้เลยล่ะฉันต้องพาคุณเข้ารับการผ่าตัดด่วนเลยด้วย!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"โอ้พระเจ้าค่อยๆลุกนะ$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"ฉันดีใจจริงๆที่เธอดูดีขึ้นหมอฮาร์วีย์คงรักษาเธออย่างสุดความสามารถเลยสินะ#$b#ตอนที่ฉันรออยู่ข้างนอกฉันกระวนการวายใจมากๆเลยล่ะ...$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"ตอนนี้รา่งกายคุณดีขึ้นมากแล้วนะครับ @ แต่คราวหลังต้องระวังตัวมากกว่านี้นะครับ$2\"/pause 500/speak Harvey \"ผมจะให้ทั้งคู่คุยกันเป็นการส่วนตัวนะครับ\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \" @ รู้มั้ย... ตอนนี้ฉันก็ยังฝึกซ้อมดาบให้เก่งพอๆกับเธออยู่นะ#$b#สักวันฉันจะยืนเคียงข้างเธอและจะปกป้องเธอให้ได้เลย#$b#จนถึงตอนนั้นอย่าจากฉันไปไหนก่อนนะ$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"เอาล่ะนั่งตรงนี้และผักผ่อนไปนะฉันจะดูแลเธอจนกว่าเธอจะกลับมาดีขึ้น#$c 0.7#... ฉันจะต้องฝคกซ้อมให้มากกว่านี้เพื่อที่จะไปป้องเธอให้ได้ {{Lowercase:{{TermofEndearment}}}}.$2#$b#ฉันเอานี่มาให้ด้วยขอให้ดีขึ้นเร็วๆนะ [237 241 203 204 220 244]\"",  
             },
             "When": {
 		        "Spouse": "Abigail",
@@ -467,7 +467,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Goodness, @, is that really you? Something got you good out there!$7#$b#Sorry for freaking out, it's just... you're covered in soot and burns and I'm not sure what you need right now...$2#$b#Oh, you're okay? That's a relief.$6#$b#The day I'm strong enough to go out there with you, those monsters will regret ever coming after you, I swear.\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, ตื่นเร็ว!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เธอเป็นอะไรมั้ย?ฉันเห็นเธอนอนหน้าคว่ำอยู่ในทรายนึกว่าจะเกิดอะไรไม่ดีสะอีก\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"เธอควรจะระวังตัวหน่อยนะเวลาเข้าไปที่ภูเขาไฟนั่น#$b#เจ้าหนูลีโอก็ย้ายไปที่เมืองเราแล้วก็จะไม่มีใครมาเจอเธอแบบนี้นะเธอโชคดีที่มีชั้นอยู่#$b#เสื้อเธอเละไปหมดเลยแฮะหวังว่าตอนกลับไปเธอจะไม่ทำให้ {{SocialMenuLabel}} ตกใจนะ$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"ตายแล้ว @ เธอไปโดนอะไรมาน่ะ!$7#$b#ขอโทษนะที่สติแตกแต่ว่าเธอสภาพดูไม่จืดเลย...$2#$b#แต่เธอไม่เป็นไรก็ดีแล้วล่ะ$6#$b#ในวันที่ฉันเก่งพอฉันจะไปผจญภัยกับเธอแล้วก็ให้พวกมอนเตอร์พวกนั้นกลัวหัวหดไปเลย\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -484,10 +484,10 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Abigail",
 		"Entries": {
-			"marriage_bus4": "@, want to hang out with me for a bit this morning?#$b#{{Random: I know! Let me try practicing my palm reading again on you.$h, Hmm... How about you critique me on my sword skills?}}",		
-			"marriage_forest": "My dad would be freaking out if he knew I was here.#$b#This is the most alive I've felt since our commitment ceremony.$l",
-			"marriage_13": "They said I can only come in with you.$9#$b#I have a hunch that they started allowing the kids to roam free while they hide the eggs.#$b#I guess a certain couple of {{RelationshipLabel}} had to do with that.$h",
-			"marriage_16": "Let's walk in together. I wanna show my Dad who he's up against.$h",
+			"marriage_bus4": "อยากมาใช้เวลาด้วยกันสักหน่อยมั้ย @?#$b#{{Random: รู้แล้วๆขอฉันอ่านลายมือเธอหน่อยละกันนะ$h, เอเอาเป็นมาชมฉันดีกว่านะ?}}",		
+			"marriage_forest": "พ่อฉันจะต้องสติแตกแน่เลยถ้ารู้ว่าฉันมาที่นี่#$b#อยู่ที่นี่แล้วรู้สึกมีชีวิตชีวาที่สุดเลย$l",
+			"marriage_13": "พวกเขาบอกว่าฉันมาได้แต่ต้องมากับเธอเท่านั้น$9#$b#ฉันรู้สึกตะหงิดใจมากเพราะเดี๋ยวนี้เค้าให้เด็กๆเข้าไปเดินดูตอนพวกเค้าซ่อนไข่ได้#$b#ฉันว่าคู่ {{RelationshipLabel}}หลายคนๆน่าจะทำแบบนั้นกัน$h",
+			"marriage_16": "ไปด้วยกันเถอะฉันอยากให้พ่อเห็นว่าฉันพาใครมา$h",
 			},
 		    "When": {
 			"UseLovePortraits": "true",
@@ -498,10 +498,10 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Abigail",
 		"Entries": {
-			"marriage_bus4": "@, want to hang out with me for a bit this morning?#$b#{{Random: I know! Let me try practicing my palm reading again on you.$h, Hmm... How about you critique me on my sword skills?}}",		
-			"marriage_forest": "My dad would be freaking out if he knew I was here.#$b#This is the most alive I've felt since our commitment ceremony.$h",
-			"marriage_13": "They said I can only come in with you.$9#$b#I have a hunch that they started allowing the kids to roam free while they hide the eggs.#$b#I guess a certain couple of {{RelationshipLabel}} had to do with that.$h",
-			"marriage_16": "Let's walk in together. I wanna show my Dad who he's up against.$h",
+			"marriage_bus4": "อยากมาใช้เวลาด้วยกันสักหน่อยมั้ย @?#$b#{{Random: รู้แล้วๆขอฉันอ่านลายมือเธอหน่อยละกันนะ$h, เอเอาเป็นมาชมฉันดีกว่านะ?}}",		
+			"marriage_forest": "พ่อฉันจะต้องสติแตกแน่เลยถ้ารู้ว่าฉันมาที่นี่#$b#อยู่ที่นี่แล้วรู้สึกมีชีวิตชีวาที่สุดเลย$l",
+			"marriage_13": "พวกเขาบอกว่าฉันมาได้แต่ต้องมากับเธอเท่านั้น$9#$b#ฉันรู้สึกตะหงิดใจมากเพราะเดี๋ยวนี้เค้าให้เด็กๆเข้าไปเดินดูตอนพวกเค้าซ่อนไข่ได้#$b#ฉันว่าคู่ {{RelationshipLabel}}หลายคนๆน่าจะทำแบบนั้นกัน$h",
+			"marriage_16": "ไปด้วยกันเถอะฉันอยากให้พ่อเห็นว่าฉันพาใครมา$h",
 			},
 		    "When": {
 			"UseLovePortraits": "false",
@@ -512,7 +512,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Abigail",
 		"Entries": {
-			"marriage_forest2": "Do you think that weird guy in that tower would come out if he heard screaming?#$b#Actually, who cares? I got this, I'm not going to need his help!$h",
+			"marriage_forest2": เธอคิดว่าถ้าฉันกรี้ดออกมาดังๆตาลุงที่ยอู่บนหอคอยนั่นจะออกมาดูมั้ย?#$b#แต่เอาจริงๆฉันคงไม่ต้องการความช่วยจากตาลุงนั่นหรอก!$h",
 			},
 		    "When": {
 			"EnableAsexuality": "true",
@@ -523,7 +523,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueAbigail",
 		"Entries": {
-			"spring_4": "Oh joy. {{TermofEndearment}}, if you need me today I'll be at the doctor's for my check-up."
+			"spring_4": "โอ้ไง {{TermofEndearment}} ถ้าต้องการอะไรก็มาหาที่คลินิกได้นะ"
 		},
 		    "When": {
                 	"HasMod |contains=iss.immersivespouses": "true"
