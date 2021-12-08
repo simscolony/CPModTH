@@ -20,9 +20,9 @@ Looking for Love                  | [✓]([CP]%20Looking%20for%20Love/)         
 Ridgeside Village                 | [↻ แปลบางส่วน](Ridgeside%20Village/)                            |
 Raised Garden Beds                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       |                                                                            | [@SabiMiyato](https://github.com/SabiMiyato)
 Platonic Partners and Friendships | [↻ แปลบางส่วน]([CP]%20Platonic%20Partners%20and%20Friendships/) |
-ATM                               | [✓](ATM/i18n/th.json)                                          | [✓ (รอ Merge)](https://github.com/Platonymous/Stardew-Valley-Mods/pull/121)
-Better Junimos                    | [✓](BetterJunimos/i18n/th.json)                                | [✓ (รอ Merge)](https://github.com/hawkfalcon/Stardew-Mods/pull/12)
-Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/518)
+ATM                               | [✓](ATM/i18n/th.json)                                          | [✓ (รอ Merge)](https://github.com/Platonymous/Stardew-Valley-Mods/pull/121)| [@SabiMiyato](https://github.com/SabiMiyato)
+Better Junimos                    | [✓](BetterJunimos/i18n/th.json)                                | [✓ (รอ Merge)](https://github.com/hawkfalcon/Stardew-Mods/pull/12)         | [@SabiMiyato](https://github.com/SabiMiyato)
+Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/518)                      | [@SabiMiyato](https://github.com/SabiMiyato)
 CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/th.json)                                | [✓ (รอ Merge)](https://github.com/CJBok/SDV-Mods/pull/159)
 CJB Cheats Menu (Grandpa's Farm)  | [✓](CJBCheatsMenu_GrandpasFarm/i18n/th.json)                   |
 CJB Cheats Menu (IF2R)            | [✓](CJBCheatsMenu_IF2R/i18n/th.json)                           |
