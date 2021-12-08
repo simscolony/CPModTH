@@ -5,18 +5,18 @@
 */
 {
     "SectionOrder": [
-	    "¿ÒΓÁ", // ฟาร์ม
-        "̃Ò¹ˤÒ", // ร้านค้า
+	    "ฟาร์ม",
+        "ร้านค้า",
         "warp-section.town",
 		"warp-section.forest",
         "warp-section.mountain",
 		"warp-section.beach",
         "warp-section.desert",
-		"à¡ÒÐŢ§", // เกาะขิง
+		"เกาะขิง",
     ],
 
     "Warps": {
-        "¿ÒΓÁ": [ // ฟาร์ม
+        "ฟาร์ม": [
             {
                 "DisplayText": "ฟาร์ม",
                 "Location": "Farm",
@@ -28,7 +28,7 @@
                 "Tile": "22, 17",
             }
         ],
-        "̃Ò¹ˤÒ": [ // ร้านค้า
+        "ร้านค้า": [
             {
                 "DisplayText": "ร้านช่างไม้โรบิน",
                 "Location": "Mountain",
@@ -73,7 +73,7 @@
                 "DisplayText": "ร้านคนแคระ",
                 "Location": "Mine",
                 "Tile": "43, 7",
-                
+
             },
             {
                 "DisplayText": "กิลด์นักผจญภัย",
@@ -327,7 +327,7 @@
                 "Tile": "10, 12",
             },
 		],
-		"à¡ÒÐŢ§": [ // เกาะขิง
+		"เกาะขิง": [
             {
                 "DisplayText": "warp.island-farm",
                 "Location": "IslandWest",
