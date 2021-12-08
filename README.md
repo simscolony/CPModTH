@@ -9,12 +9,12 @@
 
 (❑ = ยังไม่ได้แปล, ↻ = แปลบางส่วน, ✓ = แปลเสร็จแล้ว)
 
-&nbsp;                            | สถานะการแปล                                                    | รวมเข้ากับ mod หลัก
---------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------
-Stardew Valley                    | [✓](StardewValley/)                                            |
+&nbsp;                            | สถานะการแปล                                                    | รวมเข้ากับ mod หลัก                                                           | ผู้แปล
+--------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------
+Stardew Valley                    | [✓](StardewValley/)                                            |                                                                            |
 Stardew Valley Expanded           | [✓](StardewValleyExpanded/Stardew%20Valley%20Expanded/)        |
-Grandpa's Farm (SVE)              | [✓](StardewValleyExpanded/Grandpa's%20Farm/)                   |
-Immersive Farm 2 Remastered (SVE) | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  |
+Grandpa's Farm (SVE)              | [✓](StardewValleyExpanded/Grandpa's%20Farm/)                   |                                                                            | @SabiMiyato
+Immersive Farm 2 Remastered (SVE) | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  |                                                                            | @SabiMiyato
 Life Cycle                        | ❑                                                              |
 Looking for Love                  | [✓]([CP]%20Looking%20for%20Love/)                              |
 Ridgeside Village                 | [↻ แปลบางส่วน](Ridgeside%20Village/)                            |
