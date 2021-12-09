@@ -9,7 +9,7 @@
 
 (❑ = ยังไม่ได้แปล, ↻ = แปลบางส่วน, ✓ = แปลเสร็จแล้ว)
 
-&nbsp;                            | สถานะการแปล                                                    | รวมเข้ากับ mod หลัก                                                           | ผู้แปล
+&nbsp;                            | สถานะการแปล                                                    | รวมเข้ากับ mod หลัก                                                           | รายชื่อผู้แปล
 --------------------------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------
 Stardew Valley                    | [✓](StardewValley/)                                            |                                                                            | [@MemeeThechoco](https://github.com/MemeeThechoco), [@MemoLiza](https://github.com/MemoLiza), [@Pookhao23](https://github.com/Poopoo2002), [@RushingOn](https://github.com/RushingOn), [@SabiMiyato](https://github.com/SabiMiyato), [@Tomyamkung](https://github.com/Hipster1707).
 Stardew Valley Expanded           | [✓](StardewValleyExpanded/Stardew%20Valley%20Expanded/)        |                                                                            | [@MemeeThechoco](https://github.com/MemeeThechoco), [@MemoLiza](https://github.com/MemoLiza), [@Pookhao23](https://github.com/Poopoo2002), [@RushingOn](https://github.com/RushingOn), [@SabiMiyato](https://github.com/SabiMiyato), [@Tomyamkung](https://github.com/Hipster1707).
