@@ -17,9 +17,9 @@ Grandpa's Farm (SVE)              | [✓](StardewValleyExpanded/Grandpa's%20Farm
 Immersive Farm 2 Remastered (SVE) | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  |                                                                            | [@SabiMiyato](https://github.com/SabiMiyato)
 Life Cycle                        | ❑                                                              |                                                                            | [@Perrywinkle](https://github.com/xPerrywinkle), [@RushingOn](https://github.com/RushingOn), [@SabiMiyato](https://github.com/SabiMiyato).
 Looking for Love                  | [✓]([CP]%20Looking%20for%20Love/)                              | [✓](https://www.nexusmods.com/stardewvalley/mods/10206)                    | [@Daitsuku](https://github.com/Daitsuku), [@MemeeThechoco](https://github.com/MemeeThechoco), [@MemoLiza](https://github.com/MemoLiza), [@piyalucktm](https://github.com/piyalucktm), [@RushingOn](https://github.com/RushingOn), [@SabiMiyato](https://github.com/SabiMiyato).
-Ridgeside Village                 | [↻ แปลบางส่วน](Ridgeside%20Village/)                            |
+Ridgeside Village                 | [↻](Ridgeside%20Village/)                            |
 Raised Garden Beds                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       |                                                                            | [@SabiMiyato](https://github.com/SabiMiyato)
-Platonic Partners and Friendships | [↻ แปลบางส่วน]([CP]%20Platonic%20Partners%20and%20Friendships/) |
+Platonic Partners and Friendships | [↻]([CP]%20Platonic%20Partners%20and%20Friendships/) |
 ATM                               | [✓](ATM/i18n/th.json)                                          | [✓ (รอ Merge)](https://github.com/Platonymous/Stardew-Valley-Mods/pull/121)| [@SabiMiyato](https://github.com/SabiMiyato)
 Better Junimos                    | [✓](BetterJunimos/i18n/th.json)                                | [✓ (รอ Merge)](https://github.com/hawkfalcon/Stardew-Mods/pull/12)         | [@SabiMiyato](https://github.com/SabiMiyato)
 Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/518)                      | [@SabiMiyato](https://github.com/SabiMiyato)
