@@ -23,8 +23,8 @@
 	"HasSeenEvent": "59020005"
 		},
 "Entries": {
-            "Fri2": "@, if you ever have any problems with your farm machinery, you can tell Maru and she'll fix it.$0#$b#The other day she helped me with my radio.$0#$e#She's a great help for me.$1",
-            "Sat2": "I should show Maru how much I appreciate her help.$0#$b#The clinic would be a mess without her.$0"
+            "Fri2": "@ ถ้าคุณมีปัญหา เกี่ยวกับเครื่องจักรในฟาร์ม คุณบอกมารุได้นะ เธอซ่อมมันได้$0#$b#เมื่อวันก่อนช่วยซ่อม วิทยุให้ผมด้วยครับ$0#$e#ได้ช่วยผมได้เยอะเลยล่ะ$1",
+            "Sat2": "ผมคงจะต้องแสดงให้มารุเห็นว่า ผมซาบซึ้งที่เธอช่วยผมจริงๆ$0#$b#คลินิกคงจะวุ่นวายมาก ถ้าไม่มีเธอ$0"
 			}
 },
 {
@@ -35,8 +35,8 @@
 	"HasSeenEvent": "59020005"
 		},
 "Entries": {
-            "Wed2": "I didn't know that Dr. Harvey wanted to be a pilot.$0#$b#I can't really imagine it... but it's good that he didn't abandon his dream completely.$0",
-            "Sun2": "As a kid, I never thought that I would end up working at a clinic.$0#$e#It's not my dream job, but this way I can contribute to the community.$0#$b#Also, Dr. Harvey and I make a good team.$1"
+            "Wed2": "คุณรู้มั้ยว่าคุณหมอฮาร์วีย์ เคยอยากเป็นนักบินด้วย$0#$b#ฉันจินตนาการ ไม่ออกเลยแฮะ... แต่ก็ยังดีนะ ที่เขาไม่ได้ทิ้งความฝัน ไปซะทั้งหมด$0",
+            "Sun2": "ตอนฉันเป็นเด็ก ฉันไม่เคยคิดเลยว่า จะได้ทำงานในคลินิก$0#$e#มันไม่ใช่อาชีพในฝันสักนิด แต่มันก็ช่วยให้ฉัน ได้ทำงานเพื่อชุมชน$0#$b#แล้วคุณหมอฮาร์วีย์กับฉัน ก็เป็นทีมที่ดีด้วย$1"
 			}
 },
 //Maru and Harvey dialogue | 4 hearts event
@@ -48,9 +48,9 @@
 	"HasSeenEvent": "59020006"
 		},
 "Entries": {
-            "Tue4": "I'm helping Maru to study the history of medicine.$0#$b#It's great that she's such a hardworking girl.$1",
-            "Fri4": "I'm glad that Maru and I have common interests.$0#$e#It's beneficial for your mental wellbeing to share the things you love with others.$1",
-            "Sat4": "When I went to the museum before I couldn't really talk to anyone.$2#$e#Penny is usually there but we don't have much in common.$2#$e#But with Maru, I feel like I really have a friend here.$1"
+            "Tue4": "ผมกำลังช่วยมารุ ในการเรียนประวัติศาสตร์ ทางกาแพทย์อยู่น่ะครับ$0#$b#เป็นเรื่องที่ดีมากนะ ที่เธอเป็นหญิงสาว ที่ขยันมากแบบนี้$1",
+            "Fri4": "ผมดีใจที่มารุกับผม ชอบอะไรคล้ายๆ กัน$0#$e#มันเป็นสิ่งที่ดีต่อ สุขภาพจิตนะ ถ้าคุณได้แบ่งปัน สิ่งที่คุณชอบกับคนอื่น$1",
+            "Sat4": "เมื่อก่อน เวลาที่ผมไปพิพิธภัณฑ์ ผมไม่ค่อยได้คุย กับใครหรอกครับ$2#$e#เพนนีก็อยู่ที่นั่นตลอด แต่ว่าเราไม่ได้มี เรื่องที่สนใจเหมือนๆ กัน$2#$e#แต่ถ้ากับมารุ ผมรู้สึกเหมือนมีเพื่อนอยู่ด้วย$1"
 			}
 },
 {
@@ -61,9 +61,9 @@
 	"HasSeenEvent": "59020006"
 		},
 "Entries": {
-			"Mon4": "I think I'm becoming more interested in medicine day by day.$0#$b#Of course, that doesn't mean I'm going to neglect my other projects.$1",
-            "Wed4": "Harvey is so patient with me when he explains things.$0#$b#Even though I understand most things quickly, some are just too complicated.$0",
-            "Sun4": "Harvey seems to be in a good mood lately.$0#$b#I don't know why, though, because the clinic isn't doing that well...$2"
+			"Mon4": "ฉันว่าฉันเริ่มสนใจ ด้านการแพทย์ขึ้นทุกวัน$0#$b#ใช่แล้ว แต่ก็ไม่ได้หมายความว่า ฉันจะล้มเลิกโปรเจคอื่น ของฉันหรอกนะ$1",
+            "Wed4": "ฮาร์วีย์ใจเย็นมาก ตอนที่เขาพยายามอธิบาย สิ่งต่างๆ ให้ฉันฟัง$0#$b#ถึงแม้ว่า ฉันจะเข้าใจมันได้เร็วแล้วนะ แต่มันก็ยังซับซ้อนอยู่ดี$0",
+            "Sun4": "ช่วงนี้ดูเหมือนฮาร์วีย์ จะอารมณ์ดีนะ$0#$b#ก็ไม่รู้ว่าทำไม เพราะที่คลินิก ก็ยังไปได้ไม่ค่อยดี...$2"
 			}
 },
 //Maru and Harvey dialogue | 6 hearts event
@@ -75,10 +75,10 @@
 	"HasSeenEvent": "59020007"
 		},
 "Entries": {
-            "Mon6": "I made some rhubarb pie yesterday and there was a little left over.$0#$b#Do you want it, @?[222]$1",
-            "Tue6": "Do you think Maru might like to help me with my model planes, @?$4#$e#I think she would enjoy it as much as I do, but I don't know...$2",
-            "Fri6": "Demetrius came to the clinic last week just to see if Maru was there.$0#$b#I told him no, and he insisted on going upstairs to make sure she wasn't there.$2#$e#Weird, don't you think, @?$2",
-            "Sun6": "Maru invited me to stargaze the other day.$1#$e#I'm glad that my train arrived late...$4"
+            "Mon6": "ผมทำพายรูบาร์บไว้เมื่อวานนี้ และมันก็ยังมีเหลืออยู่อีกนะ$0#$b#คุณอยากชิมดูมั้ย @?[222]$1",
+            "Tue6": "คุณคิดว่ามารุจะยอมช่วยผม ทำโมเดลเครื่องบินมั้ยครับ @?$4#$e#ผมว่าเธอคงสนุกกับมัน มากกว่าผมซะอีก ผมก็ไม่รู้เหมือนกัน...$2",
+            "Fri6": "ดิมีเทรียสมาที่คลินิก เมื่ออาทิตย์ก่อน เพื่อดูว่ามารุอยู่รึเปล่า$0#$b#พอผมบอกว่าไม่อยู่ เขาก็ยืนกรานว่า จะขึ้นไปดูข้างบนให้ได้ ว่าเธอไม่อยู่จริงๆ$2#$e#ประหลาดจัง คุณว่างั้นมั้ยครับ @?$2",
+            "Sun6": "มารุชวนผม ไปดูดาวด้วยกันอีกครับ$1#$e#ผมดีใจจัง ที่วันนั้นรถไฟมาช้า...$4"
 			}
 },
 {
@@ -89,10 +89,10 @@
 	"HasSeenEvent": "59020007"
 		},
 "Entries": {
-			"Wed6": "My father told me that I'm spending too much time with Harvey lately.$0#$e#I don't really see the difference.$0#$b#We're just closer than before, but it's normal since we work together.$0",
-            "Thu6": "I wonder if I could build something to help Harvey at the clinic...$0#$e#Or maybe something related to planes...$0",
-            "Sat6": "Penny asked me about Harvey the other day.$0#$e#I don't know why everyone is so concerned about my relationship with Harvey lately.$5#$e#Even Sebastian has asked me!$5",
-            "Fri6": "I think Harvey goes to the saloon when it rains.$0#$e#My mother asked me if I wanted to go with her and dad someday.$0#$b#I have to think about it...$0"
+			"Wed6": "พ่อบอกฉันว่าเดี๋ยวนี้ ฉันใช้เวลา อยู่กับฮาร์วีย์มากไป$0#$e#ฉันก็ไม่เห็นว่า มันจะต่างจากเดิมตรงไหน$0#$b#เราสนินกัน มากกว่าแต่ก่อนก็จริง แต่มันก็เป็นเรื่องปกติ เพราะเราทำงานด้วยกันนี่$0",
+            "Thu6": "ฉันคิดว่า ถ้าฉันสร้างอะไร เพื่อช่วยฮาร์วีย์ที่คลินิกดี...$0#$e#หรือว่าจะสร้างอะไร ที่เกี่ยวกับเครื่องบินดี...$0",
+            "Sat6": "เพนนีถามฉันเรื่องฮาร์วีย์ เมื่อวันก่อนด้วย$0#$e#ฉันไม่เข้าใจว่า ทำไมทุกคนจต้องสนใจ ว่าช่วงนี้ความสัมพันธ์ ของฉันกับฮาร์วีย์เป็นยังไง$5#$e#ขนาดเซบาสเตียน ยังถามฉันเลย!$5",
+            "Fri6": "ฉันคิดว่าฮาร์วีย์ จะไปซาลูนในวันที่ฝนตก$0#$e#แม่ก็เคยถามฉันว่า วันไหนอยากจะไปซาลูน กับแม่กับพ่อบ้างมั้ย$0#$b#ฉันต้องลองคิดดูบางละ...$0"
 			}
 },
 //Dialogue | 8 hearts event
@@ -105,33 +105,33 @@
 	"HasSeenEvent": "59020009"
 		},
 "Entries": {
-            "Mon8": "I still can't believe I was brave enough to ask Maru out.$0#$b#And in such a public way!$1#$e#I don't think I'll have that confidence ever again.$0",
-            "Tue8": "Maybe after we finish with the history of medicine, I can teach Maru about medicine literature.$0#$b#I'm sure she'll love it!$1",
-            "Wed8": "I think I should remodel my apartment.$0#$b#I want Maru to feel comfortable when she comes to visit me.$4",
-            "Thu8": "I was afraid that Maru and I would talk too much about work...$2#$b#But that's not the case.$1",
-            "Fri8": "Robin offered to expand the clinic when I visited Maru last week.$0#$e#I appreciate it, but I think it's big enough for our community.$0",
-            "Sat8": "Last night I cooked Maru a healthy and nutritious dinner.$0#$b#I think she loved it!$1",
-            "Sun8": "I've prepared a special energy tonic for Maru.$0#$e#I don't want her to feel exhausted.$2#$b#You know, she works too much...$2",
-            "spring_Thu8": "When I first met Maru I didn't know if she would do a good job.$0#$b#But she has proven to be a fully capable nurse.$1#$e#Also, if she hadn't applied for a job, we wouldn't have gotten to know each other.$4",
-            "spring_Fri8": "If Maru and I have kids, do you think they could become pilots one day?$1",
-            "spring_Sat8": "Maru always brightens my day, I love having her around.$4",
-            "summer_Mon8": "Maru and I were thinking of visiting the desert.$0#$b#Maybe we'll go in the fall or winter, when it's cooler.$1",
-            "summer_Wed8": "Summer has become my favorite season because Maru and I go stargazing.$4#$e#The sky over the valley always looks stunning, but in the summer it gets even better!$1",
-            "summer_Sun8": "Maru always comes by to see me, even when she doesn't have to work.$4",
-            "fall_Mon8": "I've been getting better at cooking now that Maru comes to eat at my house.$1#$b#If you want advices on how to make healthy food, don't hesitate to ask me.$0",
-            "fall_Tue8": "I've been improving my massages techniques for Maru.$0#$b#Somedays she's really tired after work, and I want to help her relax a little.$1",
-            "fall_Fri8": "I used to feel down when business was not going well...$2#$b#But now Maru always keeps my spirits up, even on the hard days.$4",
-            "winter_Wed8": "I'm glad that Demetrius has come to accept my relationship with Maru.$1#$b#Otherwise it would be really uncomfortable.$2",
-            "winter_Thu8": "On cold days like this, Maru and I like to share a bottle of wine by the fire.$1",
-            "winter_Sat8": "To be honest, I thought I would be single forever.$2#$I'm so glad that Maru appeared in my life.$4",
-            "spring_23": "I'm feeling confident about the Flower Dance tomorrow.$1#$e#Maru and I have been practising our moves.$1",
-            "summer_10": "Hello, @.$0#$e#I've been improving my cooking skills for Maru's birthday.$1#$b#She told me that she loves cheese cauliflower and pepper poppers so I'm going to invite her to have dinner at my place later.$1",
-            "summer_27": "The Dance of the Moonlight Jellies is so beautiful.$0#$e#I’m looking forward to enjoying it with Maru tomorrow.$1",
-            "fall_26": "I always get lost in the Haunted Maze.$2#$e#Maybe if Maru and I go together, we'll be able to reach the exit.$0",
-            "spring_23_2": "I'm feeling confident about the Flower Dance tomorrow.$1#$e#Maru and I have been practising our moves.$1",
-            "summer_10_2": "Hello, @.$0#$e#I've been improving my cooking skills for Maru's birthday.$1#$b#She told me that she loves cheese cauliflower and pepper poppers so I'm going to invite her to have dinner at my place later.$1",
-            "summer_27_2": "The Dance of the Moonlight Jellies is so beautiful.$0#$e#I’m looking forward to enjoying it with Maru tomorrow.$1",
-            "fall_26_2": "I always get lost in the Haunted Maze.$2#$e#Maybe if Maru and I go together, we'll be able to reach the exit.$0"
+            "Mon8": "ผมยังไม่อยากจะเชื่อเลยว่า ผมจะกล้าขอมารุเป็นแฟน$0#$b#แบบเป็นทางการด้วยนะครับ!$1#$e#ผมไม่คิดว่าจะมีความกล้า ทำแบบนั้นอีกครั้ง$0",
+            "Tue8": "ไม่แน่ว่า หลังจากที่เราจบเรื่อง ประวัติศาสตาร์การแพทย์แล้ว ผมน่าจะสอนเธอเกี่ยวกับ วรรณกรรมทางการแพทย์ ต่อได้$0#$b#ผมมั่นใจเลยว่า เธอต้องชอบแน่ๆ!$1",
+            "Wed8": "ผมคิดว่าผมควรจะต้อง ปรับปรุงอพาร์ทเม้นท์แล้วล่ะ$0#$b#ผมอยากให้มารุอยู่สบายๆ เวลาที่เธอมาหาผม$4",
+            "Thu8": "ผมก็กลัวนะครับ ว่าจะคุยกับมารุเรื่องงาน มากจนเกินไป...$2#$b#แต่คงจะ ไม่เป็นอย่างนั้นหรอกครับ$1",
+            "Fri8": "โรบินเสนอว่าจะขยายคลินิก ตอนที่ผมแวะไปหามารุ เมื่อสัปดาห์ที่แล้ว$0#$e#ผมก็ยินดีนะครับ แต่ผมคิดว่าตอนนี้มันก็ใหญ่พอ สำหรับชุมชนของเราแล้ว$0",
+            "Sat8": "เมื่อคืน ผมทำอาหารที่ดีต่อสุขภาพ และมีคุณค่าทางโภชนาการ ให้มารุ$0#$b#ผมว่าเธอชอบมันนะ!$1",
+            "Sun8": "ผมเตรียมน้ำยาเพิ่มพลัง สูตรพิเศษ ไว้ให้มารุด้วยครับ$0#$e#ผมไม่อยากให้เธอเหนื่อย$2#$b#คุณก็รู้นี่ครับ เธอทำงานเยอะมาก...$2",
+            "spring_Thu8": "ตอนแรกที่ผมได้พบกับมารุ ผมก็ไม่รู้เลยว่า เธอจะทำงานได้ดีรึเปล่า$0#$b#แต่เธอก็พิสูจน์ให้เห็นว่า ทำหน้าที่ของพยาบาล ได้อย่างดีเยี่ยม$1#$e#แล้วก็ ถ้าเธอไม่ได้มาสมัครงานละก็ เราคงจะไม่ได้รู้จักกัน และแต่งงานกันแบบนี้$4",
+            "spring_Fri8": "ถ้ามารุกับผมมีลูกด้วยกัน คุณคิดว่าซักวันนึง เขาหรือเธอจะได้เป็น นักบินมั้ยครับ?$1",
+            "spring_Sat8": "มารุทำให้วันของผม สดใสเสมอ ผมดีใจที่มีเธอใกล้ๆ$4",
+            "summer_Mon8": "มารุกับผมกำลังคิดว่า อยากจะไปเที่ยว ทะเลทรายน่ะครับ$0#$b#บางทีเราอาจจะไปกัน ในช่วงฤดูใบไม้ร่วง หรือฤดูหนาว ช่วงที่อากาศเย็นหน่อย$1",
+            "summer_Wed8": "ตอนนี้ฤดูร้อน เป็นฤดูที่ผมชอบมากที่สุด เพราะว่ามารุกับผม จะได้ไปดูดาวกันน่ะครับ$4#$e#ท้องฟ้าเหนือหุบเขาน่าทึ่งมาก ยิ่งในฤดูร้อน ยิ่งสวยกว่าเดิมอีกครับ!$1",
+            "summer_Sun8": "มารุมักจะมาหาผมเสมอ ถึงแม้ว่าวันนั้น จะเป็นวันหยุดของเธอด้วย$4",
+            "fall_Mon8": "ผมต้องพัฒนาฝีมือทำอาหาร ให้ดีขึ้นไปอีก เพราะมามารุจะมา ทานอาหารที่บ้านของผม$1#$b#ถ้าคุณต้องการคำแนะนำ เกี่ยวกับการทำอาหาร เพื่อสุขภาพ ไม่ต้องเกรงใจนะครับ ถามผมได้เลย$0",
+            "fall_Tue8": "ผมจะฝึกฝีมือการนวด เพื่อมารุน่ะครับ$0#$b#ถ้าวันไหนที่เธอ เหนื่อยล้าจากการทำงาน ผมจะได้ช่วยเธอ ให้ผ่อนคลายได้อีกหน่อยนึง$1",
+            "fall_Fri8": "ผมเคยท้อแท้นะครับ ตอนที่ธุรกิจไปได้ไม่ค่อยดี...$2#$b#แต่ตออนนี้มารุ ช่วยให้จิตวิญญาณ ของผมเข้มแข็ง แม้ในวันที่ยากลำบาก$4",
+            "winter_Wed8": "ผมดีใจมาก ที่ดิมีเทรียสยอมรับ ความสัมพันธ์ระหว่าง ผมกับมารุ$1#$b#ไม่งั้นมันคงจะอึดอัดน่าดู$2",
+            "winter_Thu8": "ในวันหนาวๆ แบบนี้ มารุกับผมจะดื่มไวน์ด้วยกัน หน้าเตาผิงครับ$1",
+            "winter_Sat8": "บอกตามตรง ผมคิดว่าผมคงต้องโสด ไปตลอดชีวิต$2#$b#ผมดีใจที่มารุก้าวเข้ามา ในชีวิตของผม$4",
+            "spring_23": "ผมมั่นใจมาก กับงานเต้นรำดอกไม้วันพรุ่งนี้$1#$e#มารุกับผม ซ้อมเต้นกันแล้วครับ$1",
+            "summer_10": "สวัสดีครับ @$0#$e#ผมพัฒนาฝีมือทำอาหาร เพื่อวันเกิดของมารุน่ะครับ$1#$b#เธอบอกผมว่า เธอชอบดอกกระหล่ำอบชีส และพริกยัดไส้ แล้วผมก็จะชวนเธอ มาทานมื้อค่ำ ที่บ้านของผมครับ$1",
+            "summer_27": "ระบำแมงกระพรุนแสงจันทร์ งดงามจริงๆ ครับ$0#$e#ผมตั้งตารอที่จะได้ เพลิดเพลินกับพวกมัน ร่วมกับมารุในวันพรุ่งนี้$1",
+            "fall_26": "ผมมักจะหลงทางใน เขาวงกตสยองขวัญ ตลอดเลย$2#$e#ถ้ามารุกับผมเขาไปด้วยกัน เราน่าจะไปถึงทางออกได้$0",
+            "spring_23_2": "ผมมั่นใจมาก กับงานเต้นรำดอกไม้วันพรุ่งนี้$1#$e#มารุกับผม ซ้อมเต้นกันแล้วครับ$1",
+            "summer_10_2": "สวัสดีครับ @$0#$e#ผมพัฒนาฝีมือทำอาหาร เพื่อวันเกิดของมารุน่ะครับ$1#$b#เธอบอกผมว่า เธอชอบดอกกระหล่ำอบชีส และพริกยัดไส้ แล้วผมก็จะชวนเธอ มาทานมื้อค่ำ ที่บ้านของผมครับ$1",
+            "summer_27_2": "ระบำแมงกระพรุนแสงจันทร์ งดงามจริงๆ ครับ$0#$e#ผมตั้งตารอที่จะได้ เพลิดเพลินกับพวกมัน ร่วมกับมารุในวันพรุ่งนี้$1",
+            "fall_26_2": "ผมมักจะหลงทางใน เขาวงกตสยองขวัญ ตลอดเลย$2#$e#ถ้ามารุกับผมเขาไปด้วยกัน เราน่าจะไปถึงทางออกได้$0"
 			}
 },
      //Maru
@@ -143,31 +143,31 @@
 	"HasSeenEvent": "59020009"
 		},
 "Entries": {
-            "Mon8": "Harvey is so clumsy sometimes.$0#$b#But it's actually kind of cute.$4",
-            "Tue8": "Harvey likes to give me new gadgets ideas and I help him with his models.$0#$e#We're the perfect team!$1",
-            "Wed8": "I've always been pretty independent.$0#$b#...but now it's hard to imagine my life without Harvey.$4",
-            "Thu8": "I've been working on a machine that improves the quality of pickles.$0#$b#It's a surprise for Harvey.$1",
-            "Fri8": "If I ever discover a new star, I'm going to name it Harvey.$4#$e#Do you think that's too cheesy...?$0",
-            "Sat8": "Harvey and I have thought about visiting Zuzu City together.$0#$b#He goes there every month to buy medical supplies.$0",
-            "Sun8": "My mother asked me if we should invite Harvey over for dinner sometime.$0#$b#But I don't think dad will be as happy with that idea as she is.$2",
-            "spring_Wed8": "Harvey and I are practising for the Flower Dance.$0#$b#We're so excited!$1",
-            "spring_Fri8": "The relationship between Harvey and me has been like the contact of two chemicals, we reacted with each other and now we form a new element.$1",
-            "spring_Sun8": "My father used to harass Harvey with all sorts of questions when he saw him.$2#$b#Luckily he has stopped now.$1#$e#...Or maybe he's just thinking of more questions.$0",
-            "summer_Tue8": "Harvey wants to modernise the clinic's computers.$0#$b#Maybe Sebastian can help him.$0",
-            "summer_Thu8": "I've been doing some research about the Valley and, scientifically, this an excellent place to raise children.$0#$e#I'm going to compile everything and show it to Harvey.$1",
-            "summer_Sat8": "I didn't expect it, but Harvey is a great cook.$1#$b#And he always makes healthy meals.$0",
-            "fall_Mon8": "I was surprised to hear that Harvey also goes to Caroline's to exercise on Tuesdays, along with my mother.$0#$b#It's good that he wants to stay healthy.$0",
-            "fall_Thu8": "I never know whether or not I should keep it professional with Harvey when we're working.$0#$b#Well, it's not like our patients don't know about us.$0",
-            "fall_Sat8": "Harvey and I want to go on a road trip and explore new places.$0#$b#But I don't think we'll be able to do it anytime soon, the clinic would have to close at least for a few weeks...$2",
-            "winter_Tue8": "In the past I seriously considered building a robotic husband.$0#$b#But now I have Harvey and he is more than enough.$4",
-            "winter_Wed8": "I hope my father is okay now that I'm spending more time with Harvey.$2#$e#Even though I'm still living with him, I'm afraid he'll get lonely...$2",
-            "winter_Sun8": "Time seems to stop when I look at Harvey...$4#$e#Maybe he's traveling at the speed of light.$1",
-            "summer_27": "I'm looking forward to watching the Moonlight Jellies with Harvey tomorrow.$4",
-            "fall_26": "I've been talking with Harvey about our strategy to complete the Haunted Maze.$0#$e#Maybe this year we can be the first to find the treasure!$1",
-            "winter_14": "Today's is Harvey's birthday.$1#$e#I've have designed a special model plane for him.$0#$b#I hope he likes it.$1",
-            "summer_27_2": "I'm looking forward to watching the Moonlight Jellies with Harvey tomorrow.$4",
-            "fall_26_2": "I've been talking with Harvey about our strategy to complete the Haunted Maze.$0#$e#Maybe this year we can be the first to find the treasure!$1",
-            "winter_14_2": "Today's is Harvey's birthday.$1#$e#I've have designed a special model plane for him.$0#$b#I hope he likes it.$1"
+            "Mon8": "บางครั้งฮาร์วีย์ ก็ดูเงอะงะอยู่นะ$0#$b#แต่มันก็เป็นอะไรที่ น่ารักไปอีกแบบ$4",
+            "Tue8": "ฮาร์วีย์มักมีจะไอเดีย สิ่งประดิษฐ์ใหม่มาให้ฉัน และฉันก็จะทำ ตามแบบของเขา$0#$e#เราเป็นทีมที่เพอร์เฟค!$1",
+            "Wed8": "ฉันเป็นคนรักความอิสระ$0#$b#...แต่ตอนนี้มันก็ยากเหมือนกัน ถ้าต้องคิดถึงชีวิตที่ไม่มี ฮาร์วีย์$4",
+            "Thu8": "ฉันกำลังลองทำเครื่องมือ ที่ช่วยเพิ่มคุณภาพของผักดอง$0#$b#เป็นเซอร์ไพรส์ให้ฮาร์วีย์น่ะ$1",
+            "Fri8": "ถ้าฉันค้นพบดาวดวงใหม่ ฉันจะตั้งชื่อว่า ฮาร์วีย์$4#$e#คุณคิดว่ามันเฉิ่มไปหรอ...?$0",
+            "Sat8": "ฮาร์วีย์กับฉัน คิดว่าจะไปเที่ยวเมืองซูซูกัน$0#$b#เขาต้องเข้าเมือง เพื่อซื้ออุปกรณ์การแพทย์ ทุกเดือนอยู่แล้ว$0",
+            "Sun8": "แม่บอกว่า เราควรจะชวนฮาร์วีย์ มาทานอาหารเย็น ด้วยกันบ้างน่ะ$0#$b#แต่ฉันว่าพ่อคงจะไม่ปลื้ม กับไอเดียของแม่แน่ๆ$2",
+            "spring_Wed8": "ฮาร์วีย์กับฉันกำลังฝึก เพื่อวันเทศกาลดอกไม้$0#$b#ตื่นเต้นจัง!$1",
+            "spring_Fri8": "ความสัมพันธ์ของฮาร์วีย์กับฉัน ก็เหมือนกับสารเคมี 2 ตัวมาเจอกัน เราทำปฏิกิริยา แล้วก็เกิดเป็นสิ่งใหม่ขึ้นมา$1",
+            "spring_Sun8": "พ่อของฉันเคยก่อกวนฮาร์วีย์ โดยการยิงคำถามทุกรูปแบบ ใส่เขาทันทีที่เห็น$2#$b#ดีนะที่เดี๋ยวนี้ พ่อเลิกทำแบบนั้นแล้ว$1#$e#...หรือบางทีพ่ออาจจะ กำลังคิดคำถามอื่นอีก$0",
+            "summer_Tue8": "ฮาร์วีย์อยากจะปรับปรุงคอมพิวเตอร์ ของคลินิกให้ทันสมัยมากขึ้น$0#$b#บางทีเซบาสเตียน น่าจะช่วยเขาได้นะ$0",
+            "summer_Thu8": "ฉันก็ค้นคว้าเกี่ยวกับ หุบเขานี้มาบ้างนะ และในทางวิทยาศาสตร์แล้ว มันเป็นสถานที่ยอดเยี่ยม ในการเลี้ยงเด็กเลย$0#$e#เดี๋ยวฉันจะทำสรุปทุกอย่าง แล้วลองเอาให้ฮาร์วีย์$1",
+            "summer_Sat8": "ฉันคิดไม่ถึงเลยล่ะ ว่าฮาร์วีย์ทำอาหารเก่งมาก$1#$b#และเขามักจะทำอาหาร เพื่อสุขภาพเสมอ$0",
+            "fall_Mon8": "ฉันประหลาดใจสุดๆ ตอนที่ได้ยินว่า ฮาร์วีย์ไปคลาสออกกำลังกาย ของแคโรไลน์ทุกวันศุกร์ แถมอยู่กับแม่ฉันด้วย$0#$b#มันก็ดีแหละ ที่เขาจะดูแลสุขภาพแบบนี้$0",
+            "fall_Thu8": "ฉันก็ไม่รู้ว่าจะดีมั้ย ที่ฉันต้องรักษาภาพพจน์ แบบมืออาชีพกับฮาร์วีย์ ตอนที่เราทำงานด้วยกัน$0#$b#ที่จริงก็ไม่ใช่ว่า คนไข้จะไม่รู้เรื่อง เกี่ยวกับพวกเราสักหน่อย$0",
+            "fall_Sat8": "ฮาร์วีกับฉันว่าจะขับรถแล้ว และลองหาสถานที่ใหม่ๆ บ้าง$0#$b#แต่ฉันว่าคงยังไม่ใช่เร็วๆ นี้หรอก เพราะคลินิกคงต้องปิด อย่างน้อยเป็นอาทิตย์เลย...$2",
+            "winter_Tue8": "เมื่อก่อนฉันตั้งใจจะสร้าง หุ่นยนต์สามีเลยนะ$0#$b#แต่ตอนนี้มีฮาร์วีย์ แล้วเขาก็ดีกว่ามาก$4",
+            "winter_Wed8": "ฉันหวังว่าตอนนี้พ่อ คงจะโอเคแล้ว ที่ฉันมาใช้เวลากับฮาร์วีย์มาก$2#$e#ถึงแม้ว่าฉันจะยังอยู่กับพ่อ แต่ฉันก็ยังกลัวว่าพ่อจะเหงา......$2",
+            "winter_Sun8": "เวลาที่ฉันมองฮาร์วีย์ เหมือนเวลามันหยุดเลย...$4#$e#หรือว่า เขาจะเดินทางไปมา ด้วยความเร็วแสง$1",
+            "summer_27": "ฉันตั้งตารอที่จะได้ดู แมงกระพรุนแสงจันทร์ กับฮาร์วีย์ในวันพรุ่งนี้เลยล่ะ$4",
+            "fall_26": "ฉันคุยกับฮาร์วีย์ เพื่อวางแผนกลยุทธ์ พิชิตเขาวงกตสยองขวัญ$0#$e#ไม่แน่นะ ปีนี้เราอาจจะเป็นกลุ่มแรก ที่เจอสมบัติก็ได้!$1",
+            "winter_14": "วันนี้เป็นวันเกิดของฮาร์วีย์$1#$e#ฉันออกแบบโมเดล เครื่องบินพิเศษให้เขา$0#$b#หวังว่าเขาจะชอบนะ$1",
+            "summer_27_2": "ฉันตั้งตารอที่จะได้ดู แมงกระพรุนแสงจันทร์ กับฮาร์วีย์ในวันพรุ่งนี้เลยล่ะ$4",
+            "fall_26_2": "ฉันคุยกับฮาร์วีย์ เพื่อวางแผนกลยุทธ์ พิชิตเขาวงกตสยองขวัญ$0#$e#ไม่แน่นะ ปีนี้เราอาจจะเป็นกลุ่มแรก ที่เจอสมบัติก็ได้!$1",
+            "winter_14_2": "วันนี้เป็นวันเกิดของฮาร์วีย์$1#$e#ฉันออกแบบโมเดล เครื่องบินพิเศษให้เขา$0#$b#หวังว่าเขาจะชอบนะ$1"
 			}
 },
      //Demetrius
@@ -179,20 +179,20 @@
 	"HasSeenEvent": "59020009"
 		},
 "Entries": {
-            "Mon2": "I still don't trust Harvey's intentions with Maru...$4",
-            "Mon6": "Harvey cooked bean hotpot for us yesterday.$0#$b#Maybe I'm starting to like him a little bit more...$3",
-            "Tue4": "Maru is my little girl, so it's natural that I'm cautious of Harvey.$4",
-            "Tue10": "I know I've been harsh with Harvey in the past...$2#$b#But now it's different!$1",
-            "Wed6": "Robin had a serious conversation with me about how I've been acting toward Harvey...$2#$b#Maybe she is right...$2",
-            "Wed8": "Hello, @.$0#$e#Actually, Harvey has been working really hard to be a part of our family.$0#$e#So maybe I should be nicer to him...$3",
-            "Thu2": "I should go check on Harvey and Maru today...$3#$b#...just in case.$3",
-            "Thu8": "Hmm... perhaps Harvey is a good man after all...$3",
-            "Fri8": "Well, Maru seems really happy with Harvey, so I guess that's what is important.$0",
-            "Fri10": "It has been hard, but I've come to accept Harvey as a member of our family.$1",
-            "Sat2": "Hello, farmer.$0#$e#Would you mind keeping an eye on Harvey and Maru?$5#$b#I'm worried about their relationship going wrong...$",
-            "Sat8": "Harvey came by yesterday and helped Maru and me with our experiments.$0#$b#He's a really good scientist!$1",
-            "Sun4": "I'm just worried that Harvey will break Maru's heart...$2#$e#Isn't it normal for a father?$2",
-            "Sun10": "I'm relieved that Harvey doesn't hold a grudge for the way I treated him in the past.$0#$b#He's a good man and I'm happy that he's with Maru."
+            "Mon2": "ผมยังไม่เชื่อหรอก ว่าฮาร์วีย์จะจริงจังกับมารุ...$4",
+            "Mon6": "เมื่อวานฮาร์วีย์ทำ ถั่วหม้อไฟให้พวกเร$0#$b#ผมว่าผมคงจะเริ่มชอบเขา ขึ้นมานิดนึงแล้วล่ะ...$3",
+            "Tue4": "มารุเป็นเด็กสาวน้อยของผม เพราะงั้นก็เป็นธรรมดา ที่ผมต้องคอยระแวดระวัง ฮาร์วีย์ไว้$4",
+            "Tue10": "ผมก็รู้ว่าผมเคยทำไม่ดี กับฮาร์วีย์ไว้เมื่อก่อน...$2#$b#แต่ตอนนี้ มันเปลี่ยนไปแล้ว!$1",
+            "Wed6": "โรบินพูดกับผมจริงจังมาก เกี่ยวกับการที่ผม ทำกิริยาต่างๆ ใส่ฮาร์วีย์แบบนั้น...$2#$b#ผมว่าเธอคงพูดถูก...$2",
+            "Wed8": "สวัสดี @$0#$e#อันที่จริง ฮาร์วีย์ก็เตรียมตัวอย่างหนัก เพื่อที่จะเข้ามาเป็นส่วนหนึ่ง ของครอบครัวเรา$0#$e#เพราะงั้น ผมจะดีกับเขามากขึ้นละกัน...$3",
+            "Thu2": "วันนี้ ผมจะไปดูฮาร์วีย์กับมารุ สักหน่อย...$3#$b#...ก็แค่เผื่อไว้น่ะ$3",
+            "Thu8": "หืมมม... บางทีฮาร์วีย์อาจจะเป็นคนดี กว่าที่คิดนะ...$3",
+            "Fri8": "เอ่อก็ มารุดูจะมีความสุขกับฮาร์วีย์ นั่นคือสิ่งที่ผม มองว่ามันเป็นสิ่งสำคัญ$0",
+            "Fri10": "มันก็ทำใจยาก แต่ผมก็ยอมรับฮาร์วีย์ มาเป็นสมาชิกครอบครัวของเรา$1",
+            "Sat2": "สวัสดี ชาวไร่$0#$e#คุณช่วยจับตาดู ฮาร์วีย์กับมารุได้มั้ยครับ?$5#$b#ผมกังวลว่า ความสัมพันธ์ของพวก จะดำเนินไปในทางที่ไม่ดี...$",
+            "Sat8": "ฮาร์วีย์แวะมาเมื่อวานนี้ เพื่อทำช่วยการทดลอง ของมารุกับผม$0#$b#เขาเป็นนักวิทยาศาสตร์ ที่ดีเลยนะ!$1",
+            "Sun4": "ผมแค่กลัวว่าฮาร์วีย์ จะทำให้มารุเสียใจ...$2#$e#มันไม่ใช่เรื่องปกติ ของคนเป็นพ่อหรอ?$2",
+            "Sun10": "ผมโล่งใจนะ ที่ฮาร์วีย์ไม่เคียดแค้น กับสิ่งที่ผมทำกับเขาในอดีต$0#$b#เขาเป็นคนดี และผมก็ดีใจที่เขาคบกับมารุ"
 			}
 },
      //Robin
@@ -204,20 +204,20 @@
 	"HasSeenEvent": "59020009"
 		},
 "Entries": {
-            "Mon2": "I don't talk to Harvey much, but he sometimes comes to exercise with us on Tuesdays.$0",
-            "Mon6": "Unlike Demetrius, I know that Harvey is taking care of our daughter, so I'm not worried at all.$1",
-            "Tue4": "Demetrius is just being unreasonable with Harvey.$3#$b#Can't he see that Maru is happy and that's what truly matters...?$2",
-            "Tue8": "I'm relieved that Demetrius has changed his attitude towards Harvey at least a little.$0#$e#Sometimes he is just too stubborn.$2",
-            "Wed6": "Time goes by so quickly...$0#$e#I was talking to Jodi after our exercise class and we both can't believe how much our children have grown.$0",
-            "Wed10": "If Maru and Harvey wants to move together someday, I will help them to build the perfect house!$1",
-            "Thu8": "I can see that Harvey loves Maru.$0#$b#I'm so happy for them!$1",
-            "Thu10": "I'm delighted that Maru and Harvey are together.$0#$b#I knew that they would make a good couple.$1",
-            "Fri4": "Maybe I should talk to Demetrius about his behaviour towards Harvey...$2",
-            "Fri10": "I'm going to drop by the clinic later.$0#$b#I've prepared some picked tomato for Harvey.$1",
-            "Sat2": "I can't say it was a surprise for me that Maru and Harvey started dating.$0#$e#In fact, I was hoping for it!$1",
-            "Sat8": "I'm not sure, but I think Sebastian also thinks highly of Harvey.$1",
-            "Sun6": "I was thinking of inviting Harvey over for dinner...$0#$b#...but Demetrius will surely disagree.$2",
-            "Sun8": "Maru and Harvey remind me of when Demetrius and I started dating...$0#$e#We were so young back in the day.$0"
+            "Mon2": "ฉันก็ไม่ค่อยได้คุย กับฮาร์วีย์นักหรอก แต่บางครั้งเขาก็ มาออกกำลังกายกับเรา ในวันอังคาร$0",
+            "Mon6": "ฉันรู้ว่าฮาร์วีย์ จะดูแลลูกสาวของเราได้ เพราะงั้นฉันก็เลย ไม่ได้กังวลอะไร ไม่เหมือนกันดิมีเทรียสหรอก$1",
+            "Tue4": "ดิมีเทรียสทำตัวไม่มีเหตุผล กับฮาร์วีย์ตลอด$3#$b#เขาไม่เห็นรึไง ว่ามารุออกจะมีความสุข นั่นถึงจะเป็น สิ่งสำคัญไม่ใช่หรอ...?$2",
+            "Tue8": "ฉันโล่งใจจัง ที่ดิมีเทรียสเริ่มเปลี่ยนแปลง ทัศนะคติกับฮาร์วีย์หน่อยนึง$0#$e#บางที่เขาก็แค่หัวรั้น$2",
+            "Wed6": "เวลาผ่านไปไวจังนะ...$0#$e#ฉันได้คุยกับโจดี้ หลังจากที่เรา ออกกำลังกายกันเสร็จ พวกเราไม่อยากจเชื่อเลยว่า พวกเด็กๆ โตขึ้นมากขนาดไหน$0",
+            "Wed10": "ถ้าวันถึงมารุกับฮาร์วีย์ อยากจะย้ายไปอยู่ด้วยกัน ฉันจะช่วยพวกเขา สร้างบ้านสุดเพอร์เฟคเอง!$1",
+            "Thu8": "ฉันรู้ได้เลยว่า ฮาร์วีย์รักมารุขนาดไหน$0#$b#ฉันดีใจกับพวกเขาจัง!$1",
+            "Thu10": "ฉันปลื้มใจจัง ที่มารุกับฮาร์วีย์ลงเอยกัน$0#$b#พวกเขาต้องเป็นคู่ที่ดีแน่ๆ$1",
+            "Fri4": "บางทีฉันคงต้องคุย กับดิมีเทรียส เรื่องกิริยาแบบนั้นใส่ฮาร์วีย์ สักหน่อยแล้ว...$2",
+            "Fri10": "เดี๋ยวฉันจะไปแวะ ที่คลินิกสักหน่อย$0#$b#ฉันทำมะเขือเทศดอง ไว้ให้ฮาร์วีย์ด้วย$1",
+            "Sat2": "ฉันคงจะบอกไม่ได้ว่า ฉันประหลาดใจที่เห็น มารุกับฮาร์วีย์เริ่มคบกัน$0#$e#ความจริง ฉันลุ้นใหม่เป็นแบบนั้นแหละ!$1",
+            "Sat8": "ฉํนไม่มั่นใจนะ แต่ฉันคิดว่า เซบาสเตียนคาดหวัง กับฮาร์วีย์เหมือนกัน$1",
+            "Sun6": "ฉันเคยคิดว่าจะชวน ฮาร์วีย์มาทานมื้อค่ำกับเรา...$0#$b#...แต่ดิมีเทรียส ต้องไม่ยอมแน่ๆ$2",
+            "Sun8": "มารุกับฮาร์วีย์ ทำให้ฉันนึกถึง ตอนที่ดิมีเทรียสกับฉัน พึ่งจะคบกัน...$0#$e#ตอนนั้น พวกเรายังเด็กอยู่เลย$0"
 			}
 },
      //Sebastian
@@ -229,14 +229,14 @@
 	"HasSeenEvent": "59020009"
 		},
 "Entries": {
-            "Mon6": "I guess I'm kind of happy for Maru and Harvey.$0",
-            "Tue8": "Harvey asked me for help when he came to our house the other day.$0#$b#He told me that he wanted to create an internal database for the clinic.$0#$e#It feels good when someone values your work.$1",
-            "Wed2": "I don't really care about who Maru is dating.$0",
-            "Wed6": "Guess it was natural for Maru and Harvey to get together.$0#$b#Besides working at the clinic, I think they have the same interests.$0",
-            "Thu8": "Harvey comes around somedays.$0#$b#We don't really talk, but he's shown interest in my work and I appreciate that.$1",
-            "Fri8": "Harvey is actually pretty cool, he brought me sashimi the other day!$1",
-            "Sat4": "The house is quieter now that Maru's spending more time with Harvey.$1",
-            "Sun2": "Was it really necessary for Harvey to put on a show to ask Maru out?$0",
+            "Mon6": "ฉันก็ดีใจกับ มารุและฮาร์วีย์นะ$0",
+            "Tue8": "ฮาร์วีย์ขอให้ฉันช่วย ตอนที่เขาแวะมาที่บ้านเรา เมื่อวันก่อน$0#$b#เขาบอกฉันว่าอยากจะ สร้างฐานข้อมูลภายใน ของคลินิกน่ะ$0#$e#มันรู้สึกดีสุดๆ ที่มีคนเห็นความสำคัญ ในงานที่คุณทำ$1",
+            "Wed2": "ฉันไม่สนใจหรอก ว่ามารุจะคบกับใคร$0",
+            "Wed6": "ก็ธรรมดาออก ที่มารุกับฮาร์วีย์จะคบกันนะ$0#$b#นอกจากจะ ทำงานที่คลินิกด้วยกันอีก ฉันว่าเขาคงสนใจอะไรคล้ายๆ กันด้วย$0",
+            "Thu8": "บางวันฮาร์วีย์ก็มานะ$0#$b#เราไม่ค่อยได้คุยกันหรอก แต่ว่าเขาแสดงออกว่า สนใจงานของฉันมาก และฉันก็รู้สึกดีนะ$1",
+            "Fri8": "ฮาร์วีย์เป็นคนดีเว่อร์ เขาเอาซาซิมิมาให้ฉัน เมื่อวันก่อนด้วย!$1",
+            "Sat4": "ตอนนี้บ้านเงียบขึ้น เพราะว่ามารุไปอยู่กับฮาร์วีย์ ซะส่วนใหญ่$1",
+            "Sun2": "มันจำเป็นขนาดนั้นเลยหรอ ที่ฮาร์วีย์ต้องของอนุญาต เพื่อคบกับมารุWas it really necessary for Harvey to put on a show to ask Maru out?$0",
             "Sun4": "Demetrius still is kind of annoyed when Harvey comes around...$0" 
 			}
 },
