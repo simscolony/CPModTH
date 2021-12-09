@@ -34,7 +34,7 @@ Data Layers                       | [✓](DataLayers/i18n/th.json)              
 Debug Mode                        | [✓](DebugMode/i18n/th.json)                                    | [✓](https://www.nexusmods.com/stardewvalley/mods/679)
 Error Handler                     | [✓](ErrorHandler/i18n/th.json)                                 | [✓](https://smapi.io/)
 Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/th.json)                              | [✓ (รอ Merge)](https://github.com/tstaples/GiftTasteHelper/pull/24)
-Junimo Dialog                     | [✓](JunimoDialog/i18n/th.json)                                 | [✓ (รอ Merge)](https://github.com/ceruleandeep/CeruleanStardewMods/pull/1)
+Junimo Dialog                     | [✓](JunimoDialog/i18n/th.json)                                 | [✓ (รอ Merge)](https://github.com/ceruleandeep/CeruleanStardewMods/pull/1) | [@MemoLiza](https://github.com/MemoLiza)
 Lookup Anything                   | [✓](LookupAnything/i18n/th.json)                               | [✓](https://www.nexusmods.com/stardewvalley/mods/541)
 The Love of Cooking               | [✓](LoveOfCooking/i18n/th.json)                                | [✓ (รอ Merge)](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
 Multiple Spouse Dialogs           | ❑                                                              |
