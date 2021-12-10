@@ -11,9 +11,9 @@
 		    },
     },
 "Changes": [
-         
+
         //      D   A   T   I   N   G       V   E   R   S   I   O   N
-    
+
 //Abigail and Sebastian dialogue | 2 hearts event
 {
 "Action": "EditData",
@@ -26,7 +26,7 @@
             "Fri2": "วันนี้ อบิเกล แซม และฉัน จะไปที่ซาลูนกัน$0#$b#ฉันคิดว่า จะชวนอบิเกล เล่นราชาทุ่งหญ้าผจญภัย กับฉัน$1",
             "Sat2": "อบิเกลน่ะ เป็นเพื่อนเล่นเกม ที่ยอดเยี่ยม$1#$b#ฉันรอคอย ที่จะได้เล่น ปกรณัมโซโลเรียน กับเธออีกเร็วๆ นี้$0"
 			}
-},    
+},
 {
 "Action": "EditData",
 "Target": "Characters/Dialogue/Abigail",
@@ -37,7 +37,7 @@
 "Entries": {
             "Wed2": "เซบาสเตียนเก่งมาก ในเกมราชาทุ่งหญ้าผจญภัย$1#$e#ฉันไม่เคยเล่นกับเขามาก่อน  และประทับใจมากเลย$0",
             "Sun2": "ฉันรอให้ถึงวันศุกร์ไม่ไหวแล้ว$0#$b#ฉันขอให้เซบาสเตียน เล่นราชาทุ่งหญ้าผจญภัยกับฉัน$1"
-			}   
+			}
 },
 //Abigail and Sebastian dialogue | 4 hearts event
 {
@@ -187,7 +187,7 @@
             "Sun4": "มันค่อนข้างแปลก ที่ได้เห็นเซบาสเตียน กำลังคบกับใครสักคน$0#$b#ฉันคิดว่าเขาจะไม่สนใจซะอีก$0",
             "Sun8": "แคโรไลน์กับปิแอร์ มาทานอาหารเย็น กับพ่อแม่ของฉัน เมื่อวันพุธที่แล้ว$0#$e#แคโรไลน์ แบ่งปันสูตรกะหล่ำดอกอบชีส (cheese cauliflower) กับพวกเขาด้วยล่ะ$1"
 			}
-},    
+},
      //Robin
 {
 "Action": "EditData",
@@ -205,7 +205,7 @@
             "Sun8": "โอ้ @$1#$e#แคโรไลน์กับปิแอร์ จะมาทานอาหารเย็นวันนี้$0#$b#แคโรไลน์บอกว่า เธอทำชาสูตรพิเศษ มาให้พวกเราด้วย$1",
             "Sun10": "แคโรไลน์กับฉัน ยินดีที่อบิเกลและเซบาสเตียน อยู่ด้วยกัน$0#$b#ฉันหวังว่า เราจะเป็นครอบครัวกันจริงๆ ในอีกไม่นานนี้$1"
 			}
-}, 	   
+},
      //Demetrius
 {
 "Action": "EditData",
@@ -238,7 +238,7 @@
             "Sat4": "เซบาสเตียนมาเล่นวิดีโอเกม กับอบิเกลบ่อยเกินไปแล้วนะ$3",
             "Sat10": "สวัสดีครับ @$1#$e#ดิมีเทรียสจะมากับโรบิน ในวันอังคาร$0#$b#เขากำลังค้นคว้า เกี่ยวกับผลิตภัณฑ์ของผมน่ะ$1",
 			}
-},   
+},
      //Caroline
 {
 "Action": "EditData",
@@ -270,7 +270,7 @@
             "Mon2": "ฉันรอมาตลอดเลย ให้เซบาสเตียนกับอบิเกล ออกเดทกันซักทีน่ะ$0#$e#มันออกจะชัดแจ๋วขนาดนี้ คุณไม่เห็นด้วยหรอ @?$1",
             "fall_Wed8": "เฮ้ @$0#$e#เมื่อเร็วๆ นี้ ฉันได้เรียนรู้ทักษะ การเป็นส่วนเกินล่ะ$1",
             "Fri6": "เซบาสเตียนกับอบิเกล เป็นเพื่อนของฉัน และฉันชอบที่จะไปซาลูน กับพวกเขาในวันศุกร์$0#$e#...ตั้งแต่พวกเขาเริ่มเดทกัน บางครั้งมันก็อึดอัด ที่จะอยู่กับพวกเขา$2#$e#โอ้ แต่แน่นอนว่า ฉันยินดีกับพวกเขานะ$1",
-            "spring_Sun8": เซบาสเตียน มาที่บ้านของฉัน เพื่อเล่นคีย์บอร์ด บ่อยขึ้นนะช่วงนี้$0#$b#บางที เขาอาจจะพยายาม สร้างความประทับใจ ให้กับอบิเกล หรืออะไรแบบนั้น$1"
+            "spring_Sun8": "เซบาสเตียน มาที่บ้านของฉัน เพื่อเล่นคีย์บอร์ด บ่อยขึ้นนะช่วงนี้$0#$b#บางที เขาอาจจะพยายาม สร้างความประทับใจ ให้กับอบิเกล หรืออะไรแบบนั้น$1"
 			}
 },
 //Schedules | 8 hearts event
@@ -364,7 +364,7 @@
 "Entries": {
             "59020022/e 59020021/f Sebastian 1000/f Abigail 1000/d Mon Tue Wed Thu Fri/w sunny/z spring/z fall/z winter/t 1800 2000": "AbigailFlute/49 32/farmer 1000 1000 2 Sebastian 32 31 1 Abigail 49 31 1/skippable/pause 1500/move Sebastian 15 0 1/pause 500/speak Sebastian \"เฮ้ อบิเกล$1\"/pause 800/faceDirection Abigail 3/pause 500/speak Abigail \"ไง เซบาสเตียน$1\"/pause 280/speak Abigail \"นายอาศัยอยู่ในที่ที่สวยแบบนี้$0#$b#และมันก็สงบด้วย$0\"/pause 650/speak Sebastian \"ใช่ ฉันชอบมาที่นี่ และอยู่ตามลำพัง$0#$b#แต่ฉันไม่ว่าอะไรหรอก ถ้าเป็นเธอน่ะ$1\"/pause 580/speak Abigail \"*หัวเราะ*$1#$b#ฉันดีใจที่ได้ยินแบบนั้น นี่มันดีมากเลย $1\"/pause 1000/speak Abigail \"ในวันที่ฝนตก ฉันก็มาเป่าขลุ่ยที่นี่ ฉันคิดว่ามันดึงดูด พวกกบจากทะเลสาบ$1\"/pause 750/speak Sebastian \"โอ้ ฉันอยากได้กบมาตลอดเลยล่ะ$1#$b#พวกมัน เป็นสัตว์ที่น่าสนใจจริงๆ$1\"/pause 600/speak Abigail \"ใช่มั้ยล่ะ?$1#$b#ในที่สุดก็มีคนเข้าใจฉันซักที$1\"/pause 1000/emote Abigail 40/pause 500/speak Abigail \"เฮ้ เซบาสเตียน... นายอยากไปดูที่ถ้ำไหม?$0#$b#ฉันน่ะ อยากไปมาตลอดเลย$1\"/pause 700/speak Sebastian \"อ้อ... โอเค ทำไมจะไม่ล่ะ?$7\"/pause 1200/globalFade/viewport -1000 -1000/changeLocation Mine/warp Sebastian 22 9/warp Abigail 23 8/faceDirection Abigail 2/faceDirection Sebastian 1/playMusic Upper_Ambient/showFrame Abigail 27/showFrame Sebastian 17/viewport 20 9 true/pause 1350/speak Abigail \"นี่มันช่างมหัศจรรย์!$1\"/pause 750/speak Abigail \"นายคิดว่า มีอะไรอยู่ข้างล่างนั่นกัน?$0#$b#ตอนนี้ ฉันอยากสำรวจเหมืองจริงๆ$1\"/pause 800/speak Sebastian \"ระวังหน่อย มันอันตรายนะ ที่ไปอยู่ใกล้ทางเข้าน่ะ...$0\"/pause 600/speak Abigail \"ไม่ต้องห่วง! ตรงนี้เราปลอดภัย$1\"/pause 800/playSound batFlap/pause 500/playSound batFlap/pause 500/playSound batFlap/pause 500/playSound batFlap/pause 380/speak Sebastian \"เธอได้ยินนั่นมั้ย?$0\"/pause 650/emote Abigail 8/pause 1600/specificTemporarySprite abbyManyBats/playSound batScreech/showFrame Abigail 32/shake Abigail 2000/pause 1300/showFrame Abigail 0/emote Sebastian 16/pause 500/speak Sebastian \"เธอโอเคมั้ย?!$2\"/pause 800/speak Abigail \"นั่นมันน่ากลัวจัง...$7\"/pause 900/speak Abigail \"บางที ฉันอาจจะยังไม่พร้อม ในเรื่องนี้...$2\"/pause 500/emote Abigail 28/pause 800/speak Abigail \"กลับกันเถอะนะ ได้มั้ย?$2#$b#ฉันต้องการเวลาฟื้นตัว จากเรื่องพวกนี้...$2\"/pause 500/emote Sebastian 28/pause 1600/end dialogue Abigail \"ทำไมคุณ ถึงกล้าลงเหมืองนะ...?$2\""
             },
-      }, 
+      },
      //Forest | 6 hearts
 {
 "Action": "EditData",
@@ -380,8 +380,8 @@
 "Entries": {
             "59020024/e 59020023/f Sebastian 2000/f Abigail 2000/o Sebastian/o Abigail/w sunny/t 2000 2130": "nightTime/-1000 -1000/farmer -1200 1000 0 Abigail 18 35 0 Sebastian -100 -100 0/skippable/specificTemporarySprite sebastianOnBike/viewport 17 30/pause 1000/move Abigail 0 -5 0/pause 800/speak Abigail \"สวัสดี เซบ$1#$b#ฉันดีใจที่ได้มา ฉันน่ะอยากจะเห็น มอเตอร์ไซค์นายมานานแล้ว$0\"/pause 650/speak Sebastian \"เฮ้ แอ๊บบี้$7\"/pause 900/speak Abigail \"ฉันอยากมาบอกนาย ว่าฉันคุยกับพ่อแม่แล้วล่ะ$0\"/pause 500/speak Abigail \"มันผ่านไปด้วยดี!$1#$b#นายพูดถูก การบอกกับพวกเขา ว่าฉันรู้สึกยังไง และสิ่งที่ฉันอยากเปลี่ยนแปลง คือสิ่งที่พวกเราต้องการ$0#$b#ฉันไม่รู้ว่าจะขอบคุณยังไงดี$1\"/pause 750/speak Sebastian \"นั่นมันเจ๋งไปเลย!$1\"/pause 1000/speak Sebastian \"อืม... บางที ฉันอาจรู้วิธี ว่าเธอจะขอบคุณฉันยังไง...$7\"/pause 650/speak Sebastian \"ฉันกำลังจะไปข้างนอก$0#$b#ทำไมเธอไม่โดดขึ้นมาล่ะ? ฉันมีบางอย่างจะให้เธอดู$7\"/pause 500/emote Abigail 32/pause 1000/move Abigail 0 -1 0/move Abigail 1 0 0 true/pause 120/globalFade/viewport -1000 -1000/warp Abigail -100 -100/changeToTemporaryMap SebastianRide/specificTemporarySprite sebastianRide/viewport 15 8 true/pause 8000/globalFade/viewport -1000 -1000/changeToTemporaryMap SebastianMountain/warp Abigail 15 18/warp Sebastian 16 18/playMusic echos/viewport 15 14 true/pause 5000/speak Sebastian \"นั่นคือเมืองซูซู ที่อยู่ห่างไกลออกไป...$0\"/pause 700/speak Sebastian \"กี่ครั้งแล้วนะ ที่เราคุยกันเรื่องไปที่นั่น และเริ่มต้นชีวิตใหม่...?$7\"/pause 900/speak Sebastian \"ฉันมาที่นี่ เวลาอยากจะหนีจากทุกสิ่ง และเพียงแค่...คิดทบทวน$0\"/pause 1800/speak Sebastian \"แล้ว เธอคิดว่าไง?$7\"/pause 800/speak Abigail \"มันสวยนะ แต่กลับทำให้รู้สึก เศร้าแปลกๆ น่ะ...$6\"/pause 800/speak Sebastian \"ใช่... นั่นคือสิ่งที่ฉันรู้สึกเหมือนกัน$0\"/pause 1200/speak Sebastian \"เธอยังอยากย้ายออกไป จากหุบเขาอยู่ไหม?$0\"/pause 750/speak Abigail \"ฉันไม่รู้อีกต่อไปแล้ว...$2#$b#ตั้งแต่ยังเด็ก ฉันอยากมีประสบการณ์ใหม่ๆ ท่องเที่ยวไปรอบโลก...$0\"/pause 800/speak Abigail \"แต่ตอนนี้ บางอย่างเปลี่ยนไปแล้ว...$0#$b#ฉันมีความสุขจริงๆ ที่ได้อยู่ที่นี่ ฉันมีความสุข ที่เราทั้งคู่อาศัยอยู่ที่นี่$4\"/pause 900/faceDirection Abigail 1/pause 600/faceDirection Sebastian 3/pause 1500/speak Sebastian \"ฉันคิดว่า ฉันเองก็มีความสุขมากขึ้น ในหุบเขาด้วยเหมือนกัน$7#$b#ในเมืองน่ะ... มันไม่ดึงดูดฉัน เหมือนแต่ก่อนแล้ว...$4\"/pause 1200/speak Sebastian \"แอ๊บบี้...$4#$b#ฉันยังไม่เคย พาใครมาที่นี่มาก่อนเลย$4#$b#เธอรู้ว่าเพราะอะไร ใช่มั้ย?$4\"/pause 700/emote Abigail 20/pause 390/showFrame Sebastian 40/showFrame Abigail 30/positionOffset Sebastian -2 0/pause 100/positionOffset Sebastian -2 0/pause 80/positionOffset Sebastian -2 0/pause 80/positionOffset Sebastian -2 0/pause 80/positionOffset Sebastian -2 0/pause 80/positionOffset Sebastian -2 0/pause 80/positionOffset Sebastian -2 0/pause 80/positionOffset Abigail 2 0/pause 80/positionOffset Abigail 2 0/pause 80/positionOffset Abigail 2 0/pause 80/positionOffset Abigail 2 0/pause 80/positionOffset Abigail 2 0/specificTemporarySprite heart 16 18/pause 2500/viewport move 1 -1 6000/pause 5000/globalFade/viewport -1000 -1000/changeLocation Mountain/pause 500/end dialogue Abigail \"...$4\""
             },
-      }, 
-        
+      },
+
         //      M   A   R   R   I   E   D       V   E   R   S   I   O   N
 
 //Event that activates wedding invitation
@@ -438,7 +438,7 @@
 "Entries": {
             "AbigailSebastianWedding": "บางครั้งฉันก็คิดว่า แซมเหมาะกับอบิเกล มากกว่าเซบาสเตียน$0#$e#...ฉันแค่ล้อเล่นน่ะ$1#$b#เซบาสเตียน เป็นเด็กหนุ่มที่ดี$1"
            }
-},  
+},
     //Sam
 {
 "Action": "EditData",
@@ -446,7 +446,7 @@
 "Entries": {
             "AbigailSebastianWedding": "ฉันรู้มาตลอดแหละนะ ว่ามีบางอย่างเกิดขึ้น ระหว่างอบิเกลและเซบ$0#$b#สัญชาตญาณของแซมน่ะ ไม่เคยพลาดอยู่แล้ว$1"
            }
-}, 
+},
     //Maru
 {
 "Action": "EditData",
@@ -454,7 +454,7 @@
 "Entries": {
             "AbigailSebastianWedding": "ฉันรู้ว่า เซบาสเตียนกับฉัน ไม่ค่อยจะเข้ากันได้ แต่ฉันมีความสุขจริงๆ กับเขาและอบิเกล$0"
            }
-}, 
+},
     //Jodi
 {
 "Action": "EditData",
@@ -462,7 +462,7 @@
 "Entries": {
             "AbigailSebastianWedding": "แคโรไลน์ประหม่า มากกว่าอบิเกลซะอีก ในงานแต่งงานน่ะ$0#$b#ตอนเธอกล่าวสุนทรพจน์ ฉันเห็นเธอตัวสั่นล่ะ!$1"
            }
-}, 
+},
     //Jas
 {
 "Action": "EditData",
@@ -470,7 +470,7 @@
 "Entries": {
             "AbigailSebastianWedding": "งานแต่งงานสนุกมาก มีเค้กชมพู (pink cake) เต็มไปหมดเลยค่ะ!$1"
            }
-}, 
+},
     //Vincent
 {
 "Action": "EditData",
@@ -478,7 +478,7 @@
 "Entries": {
             "AbigailSebastianWedding": "สองสามวันก่อนงานแต่งงาน เซบาสเตียน มาที่บ้านของเราด้วยฮะ$0#$e#ผมเห็นเขาคุยกับพี่ชาย...$3#$b#เขาปลื้มปริ่ม ที่กำลังจะได้แต่งงาน จนน้ำตาซึมเลยฮะ!$3"
            }
-}, 
+},
     //Lewis
 {
 "Action": "EditData",
@@ -661,7 +661,7 @@
             "Tue8": "ฉันกับอบิเกล คุยเรื่องการสำรวจเหมืองกัน$0#$b#เธออยากจะสำรวจ ส่วนฉันต้องการทำวิจัย เกี่ยวกับแร่ของหุบเขานี้$0#$e#บางที คุณน่าจะเข้าร่วมด้วยนะ @$1",
             "Sun8": "แคโรไลน์กับปิแอร์ มาทานอาหารเย็น กับพ่อแม่ของฉัน เมื่อวันพุธที่แล้ว$0#$e#แคโรไลน์ แบ่งปันสูตรกะหล่ำดอกอบชีส (cheese cauliflower) กับพวกเขาด้วยล่ะ$1"
 			}
-},    
+},
      //Maru after wedding
 {
 "Action": "EditData",
@@ -675,7 +675,7 @@
             "Fri8": "อบิเกลมาที่คลินิกเมื่อวานนี้ และให้กะหล่ำดอกสดๆ จากร้านพ่อของเธอกับฉัน$1#$e#เซบาสเตียน ได้แต่งงานกับผู้หญิงที่ดีเนอะ$0",
             "Sat6": "มันค่อนข้างแปลก ที่ได้เห็นเซบาสเตียนแต่งงาน$0#$b#ฉันคิดว่าเขาจะไม่สนใจ ความสัมพันธ์แบบนั้นซะอีก$0",
 			}
-},    
+},
      //Robin before wedding
 {
 "Action": "EditData",
@@ -692,7 +692,7 @@
             "Sat8": "โอ้ @$1#$e#แคโรไลน์กับปิแอร์ จะมาทานอาหารเย็นวันนี้$0#$b#แคโรไลน์บอกว่า เธอทำชาสูตรพิเศษ มาให้พวกเราด้วย$1",
             "Sun2": "แคโรไลน์กับฉัน ยินดีที่อบิเกลและเซบาสเตียน อยู่ด้วยกัน$0#$b#ฉันหวังว่า เราจะเป็นครอบครัวกันจริงๆ ในอีกไม่นานนี้$1"
 			}
-}, 	  
+},
      //Robin after wedding
 {
 "Action": "EditData",
@@ -707,7 +707,7 @@
             "Fri4": ""ฉันดีใจมากเลย ที่เซบาสเตียน แต่งงานกับอบิเกล$1#$b#เธอเป็นผู้หญิงที่ยอดเยี่ยม และเหมาะสมกับเขามากๆ$0",
             "Sun4": "แคโรไลน์กับฉัน ยินดีที่อบิเกลและเซบาสเตียน อยู่ด้วยกัน$0#$b#และตอนนี้ เราก็เป็นครอบครัวเดียวกัน อย่างเป็นทางการแล้ว$1"
 			}
-}, 	  
+},
      //Demetrius before wedding
 {
 "Action": "EditData",
