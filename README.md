@@ -36,7 +36,7 @@ Error Handler                     | [✓](ErrorHandler/i18n/th.json)            
 Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/th.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/24)
 Junimo Dialog                     | [✓](JunimoDialog/i18n/th.json)                                 | [↻](https://github.com/ceruleandeep/CeruleanStardewMods/pull/1)           | [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)
 Lookup Anything                   | [✓](LookupAnything/i18n/th.json)                               | [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/541)
-The Love of Cooking               | [✓](LoveOfCooking/i18n/th.json)                                | [↻](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
+Love of Cooking               | [✓](LoveOfCooking/i18n/th.json)                                | [↻](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
 Multiple Spouse Dialogs           | ❑                                                              |
 Multiple Spouses                  | ❑                                                              |
 Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/3900)
