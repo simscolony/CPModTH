@@ -152,7 +152,7 @@
      //Festivals
 {
 "Action": "EditData",
-"Target": "Data/Festivals/spring24.xnb",
+"Target": "Data/Festivals/spring24",
 "When": {
 	"HasSeenEvent": "59020016"
 		},
@@ -398,7 +398,7 @@
      //Festivals
 {
 "Action": "EditData",
-"Target": "Data/Festivals/spring24.xnb",
+"Target": "Data/Festivals/spring24",
 "When": {
 	"HasSeenEvent": "639373"
 		},

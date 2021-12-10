@@ -171,7 +171,7 @@
      //Festivals
 {
 "Action": "EditData",
-"Target": "Data/Festivals/spring24.xnb",
+"Target": "Data/Festivals/spring24",
 "When": {
 	"HasSeenEvent": "59020012"
 		},
@@ -181,7 +181,7 @@
 },
 {
 "Action": "EditData",
-"Target": "Data/Festivals/winter8.xnb",
+"Target": "Data/Festivals/winter8",
 "When": {
 	"HasSeenEvent": "59020012"
 		},
@@ -192,7 +192,7 @@
 },
 {
 "Action": "EditData",
-"Target": "Data/Festivals/winter25.xnb",
+"Target": "Data/Festivals/winter25",
 "When": {
 	"HasSeenEvent": "59020012"
 		},
