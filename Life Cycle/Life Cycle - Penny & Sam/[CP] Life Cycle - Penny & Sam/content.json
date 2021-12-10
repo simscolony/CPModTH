@@ -11,9 +11,9 @@
 		    },
     },
 "Changes": [
-    
+
         //      D   A   T   I   N   G       V   E   R   S   I   O   N
-    
+
 //Sam and Penny dialogue | 6 hearts event
 {
 "Action": "EditData",
@@ -134,7 +134,7 @@
             "fall_2_2": "เมื่อวานฉันขอให้แม่ ช่วยทำมัฟฟินล่ะ$0#$b#แบบว่า สำหรับวันเกิดเพนนีอะ$0#$b#แต่จบไม่ค่อยสวย...$2#$b#ฉันเลยตัดสินใจว่า จะไปซื้อดอกป็อปปี้ จากร้านปิแอร์แทน$0",
             "winter_7_2": "พรุ่งนี้ฉันกับเพนนี จะไปทำตุ๊กตาหิมะ ที่เทศกาลสลักน้ำแข็งกันแหละ$1#$e#เธอจะลงแข่งตกปลาป่าว @?$0"
 			}
-},   
+},
      //Penny
 {
 "Action": "EditData",
@@ -172,7 +172,7 @@
             "spring_23_2": "ฉันกับแซมตั้งตารองานเต้นรำ เทศกาลดอกไม้อยู่ล่ะ$0#$e#แต่ฉันประหม่าหน่อยๆ ค่ะ$0#$e#แซมบอกว่าฉันเต้นเก่ง แต่ฉันไม่แน่ใจ...$2",
             "summer_17_2": "วันนี้วันเกิดแซมค่ะ$1#$b#รอใช้เวลาวันนี้กับเขาและ ครอบครัวเขาไม่ไหวเลย!$1#$e#แล้วก็ฉันมีเซอร์ไพรส์พิเศษ ให้เขาทีหลังด้วยล่ะ...$4"
 			}
-},   
+},
      //Pam
 {
 "Action": "EditData",
@@ -243,7 +243,7 @@
             "Sun8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
             "Sun10": "ตอนแรกผมกับโจดี้ก็แปลกใจ ที่เห็นแซมคบกับเพนนี$0#$b#แต่ตอนนี้เธอก็เป็นเหมือน ลูกสาวของเราอีกคนด้วย$1"
 			}
-},    
+},
      //Jodi
 {
 "Action": "EditData",
@@ -397,7 +397,7 @@
 "Entries": {
             "59020002/e 59020001/f Penny 2000/f Sam 2000/o Sam/o Penny/w sunny/t 2000 2300": "moonlightJellies/11 38/farmer 38 3 2 Sam 11 30 2 Penny 13 38 1/skippable/pause 1800/move Sam 0 8 1/pause 700/speak Sam \"Hello, Penny.$0\"/pause 800/faceDirection Penny 3/speak Penny \"อยู่นี่เอง... ฉันกำลังกังวลว่า คุณจะไม่มาเลย แซม$0\"/pause 800/speak Sam \"เธอก็รู้ว่าฉันจะไม่มีวัน เบี้ยวนี่นา เพนนี$2\"/pause 800/speak Sam \"ไม่เบี้ยวเธอแน่นอน...$4\"/pause 800/speak Penny \"อ่อ...$4\"/pause 1600/speak Penny \"ว่าแต่ เหมือนว่าจะมีแค่พวกเรานะคะ$0\"/pause 900/faceDirection Penny 2/pause 1000/speak Penny \"ลมทะเลสดชื่นมากเลย ว่ามั้ยคะ?$0\"/pause 500/faceDirection Sam 2/pause 1380/speak Sam \"ช่าย...$3\"/pause 1800/speak Penny \"ฉันชอบอยู่ข้างทะเลค่ะ$0\"/pause 2000/speak Penny \"เอ่อ... แซมคะ...$0\"/pause 1000/speak Penny \"รู้มัยคะว่าทำไมคืนนี้ ฉันขอให้คุณมาเจอที่นี่?$0\"/pause 800/faceDirection Penny 3/pause 600/faceDirection Sam 1/pause 500/speak Sam \"พนันได้เลย ว่าเธออยากเห็นหน้าหล่อๆ ของฉันใช่มั้ยล่า$1\"/pause 700/speak Penny \"ไม่ใช่ซะหน่อยค่ะ คนบ้า$5\"/pause 390/faceDirection Penny 2/pause 2200/emote Sam 8/pause 1700/faceDirection Penny 3/pause 800/speak Penny \"จะว่ายังไงดี...$3\"/pause 1000/speak Penny \"ฉันตั้งใจจะบอกคุณ มาสักพักแล้วค่ะ...$4#$b#...เกี่ยวกับความรู้สึกของฉัน$4\"/pause 1000/speak Penny \"ฉันหยุดคิดถึงคุณไม่ได้เลยค่ะ แซม...$4\"/pause 390/emote Sam 16/pause 650/speak Penny \"ฉันไม่เคยรู้สึกแบบนี้ กับใครมาก่อนเลย$4\"/pause 1600/speak Sam \"ฉะ-ฉัน...$8\"/pause 1500/speak Penny \"...คะ? ฉะ-ฉันเข้าใจแล้ว... งั้นคุณก็ไม่ได้รู้สึก แบบเดียวกันสินะคะ...$2\"/pause 390/emote Penny 28/pause 500/speak Sam \"ไม่ใช่นะ เพนนี!$8\"/pause 200/speak Sam \"ฉันไม่ได้หมายความ อย่างงั้นซะหน่อย...$2\"/pause 1500/playMusic musicboxsong/speak Sam \"ฉัน...$4\"/pause 500/speak Sam \"... รู้สึกกับเธอแบบนั้นเหมือนกัน$4\"/pause 300/emote Penny 16/pause 600/speak Penny \"จริงๆ เหรอคะ?$4\"/pause 500/speak Penny \"แซม ฉัน...$4\"/pause 1800/move Sam 1 0 1/pause 1000/showFrame Penny 20/showFrame Sam 36/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/showFrame Sam 36/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/positionOffset Sam 0 2/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/pause 50/positionOffset Sam 2 0/specificTemporarySprite heart 14 38/pause 500/viewport move 0 -1 3000/pause 3200/end dialogue Sam \"ไง @$1#$b#รู้อะไรมั้ย?$4#$e#ฉันไม่ใช่ตาแก่ หัวเดียว กระเทียมลีบอีกแล้ว!$10\""
             },
-      },    
+      },
      //Museum | 2 hearts
 {
 "Action": "EditData",
@@ -414,9 +414,9 @@
             "59020004/e 59020003/f Penny 1000/f Sam 1000/t 1300 1600": "jaunty/5 15/farmer 7 5 2 Sam 4 14 2 Penny 4 26 0/skippable/pause 1500/playSound doorOpen/move Penny 0 -10 0/pause 800/speak Penny \"สวัสดีค่ะ แซม$0\"/pause 700/speak Sam \"หวัดดี เพนนี$0\"/pause 800/speak Penny \"ฉันเอาหนังสือใหม่ มาให้วินเซนท์ค่ะ$0\"/pause 380/speak Sam \"วินเซนท์เหรอ?$0#$b#ตอนนี้ไม่อยู่บ้านหรอก ฉันว่าเขาไปหาแจ๊สน่ะ$0\"/pause 800/speak Penny \"อ่อ...$2#$b#งั้น ไว้ฉันแวะมาใหม่แล้วกันนะคะ$2\"/pause 300/speak Penny \"ไว้พบกันใหม่ค่ะ แซม$0\"/pause 380/faceDirection Penny 2/pause 100/emote Sam 16/pause 200/speak Sam \"เดี๋ยวก่อน เพนนี!$8\"/pause 500/faceDirection Penny 0/pause 300/emote Penny 8/pause 300/speak Sam \"จริงๆ แล้ว...$0#$b#ฉันกำลังอยากให้เธอ ช่วยวิจารณ์เพลงใหม่ ที่ฉันกำลังแต่งอยู่หน่อยอ่ะ$1\"/pause 380/speak Sam \"รู้มั้ย เธอช่วยฉันไว้มากเลย ที่แนะนำหนังสือเล่มนั้นให้$1\"/pause 800/speak Penny \"ยินดีเลยค่ะ แซม$1\"/pause 380/emote Sam 32/pause 300/speak Sam \"เจ๋ง!$1\"/pause 380/speak Sam \"มาที่ห้องฉันสิ กีต้าร์ฉันอยู่นั่น$0\"/pause 650/viewport move 2 0 5000/move Sam 0 1 1/move Sam 8 0 0/doAction 12 14/move Sam 0 -2 1/move Sam 5 0 2/move Sam 0 2 1/move Penny 0 -1 1/move Penny 8 0 0/move Penny 0 -2 1/move Penny 7 0 2/move Penny 0 2 3/pause 500/playMusic sampractice/animate Sam false true 200 22 23/pause 500/emote Sam 56/pause 550/emote Penny 20/pause 2000/end dialogue Penny \"แซมเล่นกีต้าร์เก่งมากเลยค่ะ$1\""
             },
       },
-  
+
         //      M   A   R   R   I   E   D       V   E   R   S   I   O   N
-    
+
 //Event that activates wedding invitation
 {
 "Action": "EditData",
@@ -600,7 +600,7 @@
             "PennySamWedding": "กุญแจสู่ชีวิตแต่งงานที่ดี คือการสื่อสารครับ เพื่อแบ่งปันความคิดความรู้สึก ซึ่งกันและกัน$0#$b#ผมหวังว่า เพนนีกับแซมจะไม่ลืม$0"
            }
 },
-    
+
 //Dialogues
     //Sam before wedding
 {
@@ -630,7 +630,7 @@
             "fall_2_2": "เมื่อวานฉันขอให้แม่ ช่วยทำมัฟฟินล่ะ$0#$b#แบบว่า สำหรับวันเกิดเพนนีอะ$0#$b#แต่จบไม่ค่อยสวย...$2#$b#ฉันเลยตัดสินใจว่า จะไปซื้อดอกป็อปปี้ จากร้านปิแอร์แทน$0",
             "winter_7_2": "พรุ่งนี้ฉันกับเพนนี จะไปทำตุ๊กตาหิมะ ที่เทศกาลสลักน้ำแข็งกันแหละ$1#$e#เธอจะลงแข่งตกปลาป่าว @?$0"
 			}
-},   
+},
     //Sam after wedding
 {
 "Action": "EditData",
@@ -649,7 +649,7 @@
             "winter_Tue8": "แม่ฉันรักเพนนีสุดๆ ไปเลย$1#$b#เธอเป็นภรรยาและลูกสะใภ้ ที่สมบูรณ์แบบน่ะ$0",
             "spring_23_2": "เพนนีตื่นเต้นเรื่อง งานเทศกาลดอกไม้ล่ะ$0#$e#ฉันมั่นใจเลยว่า เธอก็คงสวยเหมือนทุกวัน$4#$e#เธอเป็นภรรยาของฉันนี่นา...$4"
 			}
-},   
+},
     //Penny before wedding
 {
 "Action": "EditData",
@@ -682,7 +682,7 @@
             "spring_23_2": "ฉันกับแซมตั้งตารองานเต้นรำ เทศกาลดอกไม้อยู่ล่ะ$0#$e#แต่ฉันประหม่าหน่อยๆ ค่ะ$0#$e#แซมบอกว่าฉันเต้นเก่ง แต่ฉันไม่แน่ใจ...$2",
             "summer_17_2": "วันนี้วันเกิดแซมค่ะ$1#$b#รอใช้เวลาวันนี้กับเขาและ ครอบครัวเขาไม่ไหวเลย!$1#$e#แล้วก็ฉันมีเซอร์ไพรส์พิเศษ ให้เขาทีหลังด้วยล่ะ...$4"
 			}
-},   
+},
     //Penny after wedding
 {
 "Action": "EditData",
@@ -698,7 +698,7 @@
             "Fri8": "แม่คงเหงากว่าที่เคยเป็นแน่เลย พอตอนนี้ฉันแต่งงาน แล้วก็ย้ายมาอยู่กับแซมแล้ว$2#$b#ฉันก็ได้แต่หวังว่า เธอคงไม่เริ่มไปซาลูน บ่อยขึ้นหรอกนะคะ$2",
             "Sun8": "...ฉันยังไม่อยากจะเชื่อเลยว่า ฉันแต่งงานกับผู้ชายคนที่ เยี่ยมยอดที่สุดในโลก$4#$e#จะว่าไปแล้ว ฉันไม่รู้ด้วยซ้ำค่ะว่า ไปเอาความกล้าจากไหน ไปชวนเขาเป็นแฟนก่อน$0"
 			}
-},   
+},
     //Pam before wedding
 {
 "Action": "EditData",
@@ -782,7 +782,7 @@
 	"HasSeenEvent": "59020002"
 		},
 "Entries": {
-            "Mon4": ตอนผมไป แซมยังเป็นเด็กอยู่เลย...$0#$b#... ตอนนี้เขามีแฟนสาว เป็นตัวเป็นตนแล้ว$1",
+            "Mon4": "ตอนผมไป แซมยังเป็นเด็กอยู่เลย...$0#$b#... ตอนนี้เขามีแฟนสาว เป็นตัวเป็นตนแล้ว$1",
             "Mon6": "ตอนผมกลับมา โจดี้บอกว่าเพนนีเป็นครู ของวินเซนท์$0#$b#... เพราะงั้นเลยได้ใกล้ชิด กับแซมสินะ$2",
             "Tue4": "บางครั้งผมต้องถามเพนนี เรื่องชีวิตของแซม$2#$b#น่าเศร้าแท้...$2",
             "Wed2": "ตอนผมไป เพนนีก็อยู่ที่นี่แล้วเหรอ?$2#$e#ผมจำไม่ได้...$2",
@@ -795,7 +795,7 @@
             "Sun6": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
             "Sun8": "ตอนแรกผมกับโจดี้ก็แปลกใจ ที่เห็นแซมคบกับเพนนี$0#$b#แต่ตอนนี้เธอก็เป็นเหมือน ลูกสาวของเราอีกคนด้วย$1"
 			}
-},    
+},
     //Kent after wedding
 {
 "Action": "EditData",
@@ -813,7 +813,7 @@
             "Sat8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
             "Sun10": "Sตอนแรกผมกับโจดี้ก็แปลกใจ ที่เห็นแซมคบกับเพนนี$0#$b#แต่ตอนนี้เธอเป็นลูกสาว ของเราอีกคนแล้ว$1"
 			}
-},    
+},
     //Jodi before wedding
 {
 "Action": "EditData",
@@ -894,7 +894,7 @@
 },
 
         //      F   A   M   I   L   Y       V   E   R   S   I   O   N
-    
+
 //Children
     //Portraits
 {
@@ -911,8 +911,8 @@
 },
     //Portraits summer
 /*
-{		
-"LogName": "Sam and Penny child portraits summer", 
+{
+"LogName": "Sam and Penny child portraits summer",
 "Action": "                             EditImage/Load??",
 "Target": "Portraits/Eve",
 "FromFile": "assets/Portraits/Eve_Summer.png",
@@ -924,7 +924,7 @@
 		}
 },
 */
-    
+
     //Sprites
 {
 "LogName": "Sam and Penny child portraits",
@@ -991,8 +991,8 @@
     "HasSeenEvent": "59020025",
     "Version": "family"
         },
-"Entries": { 
-    "Eve": "child/polite/neutral/positive/female/not-datable/null/Town/spring 22/Sam 'dad' Penny 'mom' Kent 'grandpa' Jodi 'grandma' Pam 'grandma' Vincent ''/House1AC 6 12/Eve"	
+"Entries": {
+    "Eve": "child/polite/neutral/positive/female/not-datable/null/Town/spring 22/Sam 'dad' Penny 'mom' Kent 'grandpa' Jodi 'grandma' Pam 'grandma' Vincent ''/House1AC 6 12/Eve"
            }
 },
     //Gift tastes
@@ -1000,7 +1000,7 @@
         //Like: Daffodil, Dandelion, Rainbow Shell, Poppy
         //Dislikes: Holly, Trout Soup, Algae Soup, Tom Kha Soup
         //Hates: Beer, Wine, Pale Ale, Mead, Duck Mayonnaise, Coffee, Triple Shot Espresso
-{		
+{
 "LogName": "Sam and Penny child gift tastes",
 "Action": "EditData",
 "Target": "Data/NPCGiftTastes",
@@ -1015,7 +1015,7 @@
            }
 },
     //Rainy Day Dialogue
-{	
+{
 "LogName": "Sam and Penny child rainy dialogue",
 "Action": "EditData",
 "Target": "Characters/Dialogue/rainy",
@@ -1059,11 +1059,11 @@
     "Version": "family"
         },
 },
-    
+
 //Schedules
     //Penny
         //No town school
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/schedules/Penny",
  "FromFile": "assets/Schedule/Penny.json",
@@ -1074,7 +1074,7 @@
 		},
 },
         //Yes town school
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/schedules/Penny",
  "FromFile": "assets/Schedule/PennySchool.json",
@@ -1087,7 +1087,7 @@
 },
     //Sam
         //No town school
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/schedules/Sam",
  "FromFile": "assets/Schedule/Sam.json",
@@ -1098,7 +1098,7 @@
 		},
 },
         //Yes town school
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/schedules/Sam",
  "FromFile": "assets/Schedule/SamSchool.json",
@@ -1147,7 +1147,7 @@
 "Entries":  {
             "1": "800 SamHouse 6 5 0 jodi_dishes/940 SamHouse 5 5 0/1000 SamHouse 7 5 0/1020 SamHouse 4 5 0/1040 SamHouse 6 5 0 jodi_dishes/1130 SamHouse 4 12 2 jodi_sit_down/1330 Town 22 72 1/1600 House1AC 11 14 0 \"Strings\\schedules\\Jodi:familydinner.001\"/2030 House1AC 15 15 2 \"Strings\\schedules\\Jodi:familydinner.002\"/2210 SamHouse 22 5 1 jodi_sleep"
             },
-}, 
+},
     //Kent
 {
 "Action": "EditData",
@@ -1160,7 +1160,7 @@
 "Entries":  {
             "1": "700 Town 42 102 2/1030 SamHouse 8 12 2/1400 Town 6 72 1/1630 House1AC 2 14 1 \"Strings\\schedules\\Kent:familydinner.001\"/2030 House1AC 13 15 2 \"Strings\\schedules\\Kent:familydinner.002\"/2210 SamHouse 21 5 3 kent_sleep"
             },
-},  
+},
     //Vincent
 {
 "Action": "EditData",
@@ -1304,7 +1304,7 @@
 
 //Dialogues
     //Penny no child
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/Dialogue/Penny",
  "FromFile": "assets/Dialogue/Penny.json",
@@ -1316,7 +1316,7 @@
         }
 },
     //Penny yes child
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/Dialogue/Penny",
  "FromFile": "assets/Dialogue/PennyChild.json",
@@ -1328,7 +1328,7 @@
         }
 },
     //Sam no child
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/Dialogue/Sam",
  "FromFile": "assets/Dialogue/Sam.json",
@@ -1340,7 +1340,7 @@
 		},
 },
     //Sam yes child
-{ 
+{
  "Action": "EditData",
  "Target": "Characters/Dialogue/Sam",
  "FromFile": "assets/Dialogue/SamChild.json",
@@ -1350,7 +1350,7 @@
     "HaveChildren": "true",
     "Version": "family"
 		},
-},  
+},
     //Jodi
         //No children
 {
@@ -1412,7 +1412,7 @@
             "Sat8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
             "Sun10": "ตอนแรกผมกับโจดี้ก็แปลกใจ ที่เห็นแซมคบกับเพนนี$0#$b#แต่ตอนนี้เธอก็เป็น ลูกสาวของเราอีกคนแล้ว$1"
 			}
-},   
+},
         //Yes children
 {
 "Action": "EditData",
@@ -1432,7 +1432,7 @@
             "Sat8": "เพนนีช่วยให้ ผมสนิทกับแซมมากขึ้น$1#$b#...ผมจะไม่ลืมเรื่องนั้นเลย$1",
             "Sun10": "ผมกำลังคิดว่าจะซื้ออะไรดีๆ ให้อีฟสักหน่อย$0#$b#ไว้ผมจะถามเพนนี...$1"
 			}
-}, 
+},
     //Vincent
         //No children
 {
@@ -1511,7 +1511,7 @@
 },
 
 //NPC Dispositions
-{    
+{
  "Action": "EditData",
  "Target": "Data/NPCDispositions",
  "FromFile": "assets/Data/NPCDispositions.json",
