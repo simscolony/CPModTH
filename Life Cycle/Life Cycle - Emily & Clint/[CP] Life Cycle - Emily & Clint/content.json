@@ -15,11 +15,11 @@
 		    },
     },
 "Changes": [
-         
+
         //      D   A   T   I   N   G       V   E   R   S   I   O   N
-    
+
 //  O   L   D       A   N   D       N   E   W       S   A   V   E
-    
+
 //Emily and Clint dialogue | 6 hearts event
 {
 "Action": "EditData",
@@ -110,7 +110,7 @@
             "spring_12_2": "ฉันชอบการล่าไข่ แต่ฉันไม่เคยเข้าร่วมเลย$0#$b#บางที ฉันน่าจะเข้าร่วมกับคลินท์$1",
             "fall_15_2": "ฉันมั่นใจว่านักท่องเที่ยว จะชอบการแสดงของคลินท์ ในงานวันพรุ่งนี้$1",
             "winter_7_2": "คลินท์กับฉันน่ะ ชอบเทศกาลสลักน้ำแข็ง$1#$b#ยังไงก็ขอให้เธอโชคดี กับการแข่งขันตกปลานะจ๊ะ @$0",
-            "winter_26_2": เป็นเรื่องดีนะ ที่วันเกิดของคลินท์ อยู่หลังจากวันงาน เทศกาลแห่งดวงดาวฤดูหนาว$0#$b#ความสุขนั้นมาเป็นคู่!$1#$e#ฉันสงสัยว่า จะให้อะไรกับเขาดี...$0"
+            "winter_26_2": "เป็นเรื่องดีนะ ที่วันเกิดของคลินท์ อยู่หลังจากวันงาน เทศกาลแห่งดวงดาวฤดูหนาว$0#$b#ความสุขนั้นมาเป็นคู่!$1#$e#ฉันสงสัยว่า จะให้อะไรกับเขาดี...$0"
 			}
 },
      //Clint
@@ -146,7 +146,7 @@
             "spring_23_2": "ในที่สุด ฉันก็ได้เต้นรำกับเอมิลี่ ที่งานเทศกาลดอกไม้!$1",
             "spring_27_2": "มันดีมากที่เอมิลี่ชอบอัญมณี และฉันเป็นช่างตีเหล็ก$0#$b#ฉันทำเครื่องประดับหยก (Jade) และมรกต (Emerald) สำหรับวันเกิดของเธอ$1"
 			}
-},    
+},
      //Haley
 {
 "Action": "EditData",
@@ -292,9 +292,9 @@
             "59020012/e 59020011/e 2123243/f Emily 2000/f Clint 2500/o Emily/w sunny/t 1500 1700": "EmilyTheme/-1000 -1000/farmer 1000 1000 2 Clint 29 14 3 Emily 26 14 1/specificTemporarySprite EmilyCamping/viewport 27 15 true/pause 3500/speak Emily \"ฉันดีใจ ที่คุณตัดสินใจ มาตั้งแคมป์กับฉันนะ คลินท์$1\"/pause 700/speak Emily \"ฉันชอบมาที่นี่$0#$b#สถานที่นี้ มีพลังงานแข็งแกร่งสูง$1\"/pause 600/speak Emily \"นั่นเป็นเหตุผล ที่ฉันอยากแสดงให้คุณเห็น$4#$b#คุณชอบมันไหม?$1\"/pause 800/speak Clint \"ชะ ใช่...$4\"/pause 600/emote Emily 32/pause 1700/speak Emily \"อืมม คลินท์... จริงๆ แล้ว มีบางอย่างที่ฉัน อยากจะบอกคุณ...$3\"/pause 900/speak Emily \"สองสามวันที่ผ่านมา ฉันครุ่นคิดและไตร่ตรอง...$3\"/pause 800/speak Emily \"เพราะเมื่อคืนก่อน ฉันฝันเห็นคุณ...$3\"/pause 220/shake Clint 800/pause 180/speak Emily \"...และฉันเชื่อว่า มันเป็นสัญญาณแห่งโชคชะตา$4\"/pause 300/shake Clint 800/pause 150/speak Emily \"ดวงวิญญาณ อย่างคุณกับฉัน ไม่ได้พบกันโดยบังเอิญ คุณรู้ไหม?$4#$b#และของพวกเราน่ะ พิเศษยิ่งกว่านั้น เพราะว่ามันเกี่ยวพันกัน ฉันสัมผัสได้$4\"/pause 800/speak Emily \"ฉันดีใจนะ ที่มีคุณเข้ามาในชีวิต คลินท์$4#$b#ฉันเลยอยากให้เรา เป็นมากกว่าเพื่อน...$4\"/pause 280/emote Clint 16/shake Clint 2500/pause 80/showFrame Clint 43/pause 100/shake Clint 2000/speed Emily 5/pause 80/speak Emily \"คลินท์ คุณโอเคไหม?$6\"/pause 50/move Emily 0 1 1/move Emily 3 0 0/pause 50/speak Emily \"คลินท์?!$6\"/pause 500/speak Clint \"น่ะ... น่ะ... นี่คือความฝันหรอ...?$4\"/pause 380/speak Emily \"ไม่ใช่แน่นอน!$4#$b#มานี่สิคลินท์$4\"/pause 350/showFrame Emily 16/pause 200/showFrame Clint 0/specificTemporarySprite heart 29 14/pause 1800/end dialogue Clint \"น่ะ นั่นมัน เกิดขึ้นจริงๆ งั้นหรอ...?$4\""
             },
 },
-    
+
 //  O   L   D       S   A   V   E
-    
+
 //Events
      //Clint's 6 hearts event
 {
@@ -306,7 +306,7 @@
 "Entries": {
             "59020046/f Clint 1500/e 97/o Emily/t 900 1830/a 0 90": "jaunty/11 90/farmer 5 90 1 Clint 6 92 1 Emily 15 90 1 Caroline 16 90 3/move farmer 1 0 2/skippable/emote farmer 16/faceDirection Clint 0 true/emote Clint 16/speak Clint \"@!$4#$b#...คุณจับฉันได้$s\"/pause 500/move farmer 0 1 2/faceDirection Clint 1/emote Clint 28/pause 500/faceDirection farmer 1/pause 200/faceDirection farmer 2/pause 800/speak Clint \"ฉันตั้งใจจะชวนเอมิลี่ไปเดท ฉันอยู่ที่หน้าประตูของเธอ และทุกอย่าง... แต่ฉันได้ยินเธอกำลังมา แล้วฉันก็มาแอบในพุ่มไม้นี่$s#$b#ตอนนี้ฉันรอจนกว่า เธอจะคุยกับแคโรไลน์เสร็จ จะได้แอบกลับบ้านตัวเอง$s\"/pause 800/emote farmer 12/pause 800/pause 500/faceDirection Clint 0/speak Clint \"เมื่อกี้พูดว่าอะไรนะ? จะไม่อัปเกรดเครื่องมืออีก ถ้าฉันไม่ชวนเธอไปข้างนอก?$s\"/faceDirection Clint 1/pause 1500/speak Clint \"คุณนี่ตัวร้ายชัดๆ @#$b#*เฮ้อ* ...ก็ได้ ฉันจะทำ$s\"/pause 600/move farmer 1 0 1/move Clint 0 -2 1/speak Clint \"ฉันจะจำคำแนะนำนั้นไว้ @ มาให้ฉันในซาลูนนะ\"/move Clint 8 0 1/stopMusic/pause 500/speak Clint \"อืม... เอมิลี่?\"/pause 800/faceDirection Emily 3/pause 800/faceDirection Emily 1/speak Emily \"ขอโทษนะแคโรไลน์ ฉันขอตัวสักแปปได้ไหม?\"/pause 500/move Caroline 7 0 0/faceDirection Emily 3/pause 400/speak Emily \"ว่าไงคลินท์?\"/pause 500/faceDirection Clint 2/pause 400/faceDirection Clint 1/speak Clint \"คือฉันสงสัยว่า เธอจะไป กะ... กับ... ฉัน พรุ่งนี้... *อึก*$4\"/pause 200/faceDirection Clint 3/pause 300/emote Emily 8/pause 300/faceDirection Clint 1/pause 500/jump Clint/pause 800/speak Clint \"ฉันมีตั๋วสองใบ สำหรับแกรมเพิลตันคาร์นิวัล ในวันพรุ่งนี้ คือ... เธอจะไปกับฉันไหม? $4\"/jump Emily/pause 800/emote Emily 16/pause 400/playMusic musicboxsong/speak Emily \"แน่นอนคลินท์! ฟังดูน่าสนุกนะ! $h\"/pause 800/speak Clint \"จริงหรอ? ตกลง! ฉันจะไปรับเธอ ตอนห้าโมงนะ$h\"/speak Emily \"ได้เลย! เจอกันพรุ่งนี้!\"/move Emily 7 0 1/faceDirection Caroline 3/speed Clint 4/move Clint -7 0 2/faceDirection farmer 0/speak Clint \"คุณเห็นนั่นมั้ย?! คืนพรุ่งนี้ฉันมีเดทแล้ว!$h\"/pause 500/jump farmer/pause 1000/faceDirection Clint 1/pause 400/faceDirection Clint 2/speak Clint \"ให้ตายสิ... ฉันกังวลชะมัดเลย$s\"/end dialogue Clint \"ขอบคุณนะ ที่บังคับให้ฉันทำแบบนั้น ถึงฉันจะกลัว แต่ก็ดีใจมากเช่นกัน$h\""
             },
-},  
+},
      //Train station | 6 hearts
 {
 "Action": "EditData",
@@ -317,10 +317,10 @@
 "Entries": {
             "59020010/e 59020046/f Emily 1500/f Clint 1500/d Fri/w sunny/t 1900 2100": "event2/39 42/Clint 40 41 3 Emily 38 41 1 farmer 1000 1000 2 Marnie 119 122 3 Pam 117 118 1 Lewis 118 122 1 Pierre 114 122 2 Demetrius 113 123 1 Gus 114 118 2/skippable/pause 2000/speak Emily \"งานคาร์นิวัลนั่น มันเหลือจะเชื่อเลยคลินท์!$1\"/pause 100/speak Emily \"คุณเห็น นักกายกรรมผาดโผน คนนั้นมั้ยล่ะ? เธอเก่งมากเลย!$1#$b#และสกายไรด์ก็ตื่นเต้นมาก! คุณน่าจะได้เห็นหน้าตัวเอง คุณดูกลัวมากเลย$1#$b#ฉันยังได้คุยกับหมอดูด้วย เธอเล่าเรื่องน่าสนใจให้ฟัง$1\"/pause 680/speak Clint \"ยอดไปเลยเอมิลี่$1#$b#ฉันน่ะ กลัวว่าเธอจะไม่สนุก$2\"/pause 500/speak Emily \"ไม่มีทางน่าคลินท์ ฉันสนุกมากเลยล่ะ!$1\"/pause 580/speak Clint \"ถ้างั้น เธออยาก ปะ ไปซาลูนตอนนี้ไหม อะ เอมิลี่?$4\"/pause 500/speak Emily \"โอเค เป็นเรื่องใหม่สำหรับฉัน ที่จะไปเป็นลูกค้านะเนี่ย$1\"/pause 600/globalFade .007/changeLocation Saloon/warp Clint 19 23 3/warp Emily 18 22 2/warp Marnie 7 22 3/warp Pam 7 18 1/warp Lewis 8 22 1/warp Pierre 4 22 2/warp Demetrius 3 23 1/warp Gus 16 18 2/warp farmer 20 19 3/animate Gus false true 250 18 19 20/animate Lewis false true 150 19 19 19 19 19 19 19 19 19 19 19 19 19 19 22 23 23 23/animate Marnie false true 150 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 22 23 23/playMusic Saloon1/faceDirection Emily 2/viewport 14 22/globalFadeToClear .006/pause 1800/speak Emily \"ฮ่าๆๆ คลินท์ คุณนี่ตลกจัง!$1\"/pause 600/speak Clint \"ธะ เธอคิดงั้นเหรอ?$4\"/pause 500/speak Emily \"แน่นอน!$1\"/pause 580/speak Emily \"คุณรู้ไหม เราควรทำแบบนี้บ่อยขึ้นนะ$1#$b#แต่ฉันก็ต้อง ทำงานที่นี่ทุกวัน เพราะงั้น...$3\"/pause 600/speak Emily \"อย่าไปคิดถึงเรื่องนั้น และมาสนุกกับตอนนี้กันเถอะ$0\"/pause 380/faceDirection Emily 0/pause 150/speak Emily \"กัส ขอเบียร์เอลอีก 2 ที่ตรงนี้ค่ะ!$1\"/pause 320/speak Gus \"ได้แล้ว!$1\"/pause 380/faceDirection Emily 2/pause 700/speak Emily \"แล้วคุณพูดอะไร เรื่องเพื่อนของคุณ คนนั้นนะ?$1\"/pause 600/globalFade .006/warp Marnie 119 122 3/warp farmer 120 119 3/warp Lewis 118 122 1/warp Pierre 114 122 2/warp Demetrius 113 123 1/globalFadeToClear .004/pause 800/emote Emily 40/pause 200/emote Clint 40/move Pam -1 0 2/move Pam 0 2 1/move Pam 5 0 2/move Pam 0 1 1/move Pam 3 0 2/move Pam 0 3 0/playSound doorOpen/warp Pam 110 20 0/pause 600/speak Emily \"โอ้ แพมก็ออกไปแล้ว$3#$b#เราควรจะไปเหมือนกัน$0\"/pause 300/speak Clint \"โอเค...$2\"/emote Clint 28/pause 380/speak Emily \"อย่าเศร้าไปสิคลินท์ คุณมาที่นี่ทุกวันนะ$0#$b#คุณพาฉันไปส่งบ้านได้นะ เราจะได้คุยกันต่ออีกสักหน่อย ถ้าคุณต้องการ$1\"/pause 200/emote Clint 16/pause 500/speak Clint \"ฉะ ฉันอยากทำ เอมิลี่!$4\"/pause 500/speak Emily \"ฮ่าๆๆ คุณน่ารักจัง$1\"/pause 270/emote Clint 60/pause 1380/end warpOut"
             },
-},    
-    
+},
+
 //  N   E   W        S   A   V   E
-    
+
 //Events
      //Train station | 6 hearts
 {
@@ -332,7 +332,7 @@
 "Entries": {
             "59020010/e 101/f Emily 1500/f Clint 1500/d Fri/w sunny/t 1900 2100": "event2/39 42/Clint 40 41 3 Emily 38 41 1 farmer 1000 1000 2 Marnie 119 122 3 Pam 117 118 1 Lewis 118 122 1 Pierre 114 122 2 Demetrius 113 123 1 Gus 114 118 2/skippable/pause 2000/speak Emily \"งานคาร์นิวัลนั่น มันเหลือจะเชื่อเลยคลินท์!$1\"/pause 100/speak Emily \"คุณเห็น นักกายกรรมผาดโผน คนนั้นมั้ยล่ะ? เธอเก่งมากเลย!$1#$b#และสกายไรด์ก็ตื่นเต้นมาก! คุณน่าจะได้เห็นหน้าตัวเอง คุณดูกลัวมากเลย$1#$b#ฉันยังได้คุยกับหมอดูด้วย เธอเล่าเรื่องน่าสนใจให้ฟัง$1\"/pause 680/speak Clint \"ยอดไปเลยเอมิลี่$1#$b#ฉันน่ะ กลัวว่าเธอจะไม่สนุก$2\"/pause 500/speak Emily \"ไม่มีทางน่าคลินท์ ฉันสนุกมากเลยล่ะ!$1\"/pause 580/speak Clint \"ถ้างั้น เธออยาก ปะ ไปซาลูนตอนนี้ไหม อะ เอมิลี่?$4\"/pause 500/speak Emily \"โอเค เป็นเรื่องใหม่สำหรับฉัน ที่จะไปเป็นลูกค้านะเนี่ย$1\"/pause 600/globalFade .007/changeLocation Saloon/warp Clint 19 23 3/warp Emily 18 22 2/warp Marnie 7 22 3/warp Pam 7 18 1/warp Lewis 8 22 1/warp Pierre 4 22 2/warp Demetrius 3 23 1/warp Gus 16 18 2/warp farmer 20 19 3/animate Gus false true 250 18 19 20/animate Lewis false true 150 19 19 19 19 19 19 19 19 19 19 19 19 19 19 22 23 23 23/animate Marnie false true 150 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 22 23 23/playMusic Saloon1/faceDirection Emily 2/viewport 14 22/globalFadeToClear .006/pause 1800/speak Emily \"ฮ่าๆๆ คลินท์ คุณนี่ตลกจัง!$1\"/pause 600/speak Clint \"ธะ เธอคิดงั้นเหรอ?$4\"/pause 500/speak Emily \"แน่นอน!$1\"/pause 580/speak Emily \"คุณรู้ไหม เราควรทำแบบนี้บ่อยขึ้นนะ$1#$b#แต่ฉันก็ต้อง ทำงานที่นี่ทุกวัน เพราะงั้น...$3\"/pause 600/speak Emily \"อย่าไปคิดถึงเรื่องนั้น และมาสนุกกับตอนนี้กันเถอะ$0\"/pause 380/faceDirection Emily 0/pause 150/speak Emily \"กัส ขอเบียร์เอลอีก 2 ที่ตรงนี้ค่ะ!$1\"/pause 320/speak Gus \"ได้แล้ว!$1\"/pause 380/faceDirection Emily 2/pause 700/speak Emily \"แล้วคุณพูดอะไร เรื่องเพื่อนของคุณ คนนั้นนะ?$1\"/pause 600/globalFade .006/warp Marnie 119 122 3/warp farmer 120 119 3/warp Lewis 118 122 1/warp Pierre 114 122 2/warp Demetrius 113 123 1/globalFadeToClear .004/pause 800/emote Emily 40/pause 200/emote Clint 40/move Pam -1 0 2/move Pam 0 2 1/move Pam 5 0 2/move Pam 0 1 1/move Pam 3 0 2/move Pam 0 3 0/playSound doorOpen/warp Pam 110 20 0/pause 600/speak Emily \"Oh, even Pam has left.$3#$b#We should get going too.$0\"/pause 300/speak Clint \"Okay...$2\"/emote Clint 28/pause 380/speak Emily \"Come on, don't be sad, Clint, you come here everyday.$0#$b#You can walk me home and we can chat for a little bit longer, if you want.$1\"/pause 200/emote Clint 16/pause 500/speak Clint \"I-I would love to, Emily!$4\"/pause 500/speak Emily \"Hahaha, you're so cute.$1\"/pause 270/emote Clint 60/pause 1380/end warpOut"
             },
-}, 
-    
+},
+
    ]
 }
