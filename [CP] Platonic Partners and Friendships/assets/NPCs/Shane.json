@@ -7,8 +7,8 @@
             {
                 "breakUp": "*อึก* อืม... ไม่คิดว่าจะได้ทำอะไร แบบนี้อีกครั้งนะเนี่ย ผมรู้สึกไร้ค่าตลอดเลย ไม่เหมือนกับเพื่อน ๆ ของตัวเองสักนิด...$s#$b#ผม... อ่า... ว... หวังว่าจะได้เจอกัน ที่ซาลูนนะ.",
                 "event_stadium1": "ว่าไง? ดูใช้ได้เลยนะเนี่ย$6#$b#ผมน่ะเหรอ? บางทีก็แอบ ๆ จะเบื่อเมืองของพวกเรา ขึ้นมาบ้างบางครั้งแหละ#$b#แต่... คุณก็ทำให้ทุกอย่างดูโอเคขึ้น ทุกอย่างลงตัวเมื่อพวกเรา อยู่ด้วยกันเลยนะ$6",
-                "NPC.cs.3985": "I heard you gave someone a gift today.#$e#You're a really thoughtful person, you know that?",
-                "NPC.cs.4425": "Life sure is different since we've been {{RelationshipLabel}}...$s",
+                "NPC.cs.3985": "ได้ยินว่าวันนี้ คุณให้ของขวัญ ใครไปด้วยเหรอ#$e#รู้ตัวมั้ยเนี่ย ว่าคุณเป็นคนที่ดี มากขนาดไหนน่ะ?",
+                "NPC.cs.4425": "ชีวิตของพวกเรา ดูจะเปลี่ยนไปนะตั้งแต่{{RelationshipLabel}}...$s",
                 "NPC.cs.4507": "@",
                 "NPC.cs.4508": "@",
                 "NPC.cs.4509": "@",
@@ -31,11 +31,11 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.3962": "You want to spend *more* time with me? Why would you do that to yourself?$s#$e#No, I... I'm not saying no.$u",
-                "NPC.cs.3963": "You want to get to know me better? ...You'll probably like me less the more you learn about me.$u#$e#But I guess I'd like to know *you* better. For as long as it lasts.$6",
-                "NPC.cs.3980": "...This is for real? You want to be {{RelationshipLabel}} with a washed-up killjoy like me? I'd just drag you down...$10#$b#........$u#$b#You know what? Even if it ends up crashing down around me like everything else... Let's give this a shot.$l#$b#In the valley, we celebrate pacts like this the same way as weddings. I'll set everything up. We'll have the commitment ceremony in 3 days, okay?$n",
+                "NPC.cs.3962": "อยากจะใช้เวลา กับผมให้ *มากขึ้น* กว่านี้อีกเหรอ? ทำไมคุณถึงคิดอย่างนั้นล่ะ?$s#$e#ไม่ ๆ ผ... ผมยังไม่ได้พูดสักหน่อย ว่าไม่ได้น่ะ$u",
+                "NPC.cs.3963": "อยากจะรู้จักผม ให้มากขึ้นกว่านี้งั้นเหรอ? ...กลัวว่าคุณจะชอบผม น้อยลงน่ะสิถ้าเกิด รู้อะไร ๆ มากไปกว่านี้$u#$e#แต่ผมก็อยากจะรู้จัก *คุณ* ให้มากกว่านี้นะ ตลอดชีวิตก็ยอม$6",
+                "NPC.cs.3980": "...ผมไม่ได้ฝันไปใช่มั้ย? คุณอยากจะเป็น {{RelationshipLabel}} กับพวกขวางโลก อย่างผมเนี่ยนะ? ไม่ใช่ว่าผมจะทำให้ทุก ๆ อย่างแย่กว่าเดิมเหรอ...$10#$b#........$u#$b#รู้อะไรมั้ย? ถึงสักวันมันจะต้องจบลง ด้วยดีหรืออะไรก็ตาม... มาลองดูกันสักครั้ง ก็ไม่แย่ใช่มั้ยล่ะ$l#$b#ในหมู่บ้าน เราจะมีธรรมเนียม การจัดงานแต่งงาน ในรูปแบบเดียวกันเสมอ ผมจะเตรียมทุก ๆ อย่างให้พร้อมภายใน 3 วัน โอเคนะ?$n",
                 "NPC.cs.4001": "An old buddy from the JojaMart stockroom hooked me up with that fruit. He works for some rare goods merchant now.#$b#It’s to thank you for helping me, uh... How do I put this.$u#$b#Look, I know I put you in a terrible position that night on the cliffs, and I'm sorry. It's not your job to save me, or fix me.$s#$b#The thing is... when people used to tell me that they loved me, that I wasn’t worthless, I figured that was just because they didn’t know me as well as I knew myself.$s#$b#So the fact that, even after you’d seen everything about me I was so ashamed of, you still wanted me in your life...$u#$b#Well. It got the ball rolling. The rest is up to me.$6#$b#What I'm trying to say is... I love you, @. Thank you for being here.$l",
-                "Event.cs.1736": "$q -1 null#Oh boy...#$r -1 0 danceAsk#(Ask Shane to be your dance partner)#$r -1 0 null#Nevermind...",
+                "Event.cs.1736": "$q -1 null#ว้าว...#$r -1 0 danceAsk#(ชวนเชนมาเป็น คู่เต้นรำด้วยกัน)#$r -1 0 null#ไม่เป็นไรดีกว่า...",
             },
             "When":
             {
@@ -48,11 +48,11 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.3962": "You want to spend *more* time with me? Why would you do that to yourself?$s#$e#No, I... I'm not saying no.$u",
-                "NPC.cs.3963": "You want to get to know me better? ...You'll probably like me less the more you learn about me.$u#$e#But I guess I'd like to know *you* better. For as long as it lasts.$6",
-                "NPC.cs.3980": "...This is for real? You want to be {{RelationshipLabel}} with a washed-up killjoy like me? I'd just drag you down...$10#$b#........$u#$b#You know what? Even if it ends up crashing down around me like everything else... Let's give this a shot.$6#$b#In the valley, we celebrate pacts like this the same way as weddings. I'll set everything up. We'll have the commitment ceremony in 3 days, okay?$n",
+                "NPC.cs.3962": "อยากจะใช้เวลา กับผมให้ *มากขึ้น* กว่านี้อีกเหรอ? ทำไมคุณถึงคิดอย่างนั้นล่ะ?$s#$e#ไม่ ๆ ผ... ผมยังไม่ได้พูดสักหน่อย ว่าไม่ได้น่ะ$u",
+                "NPC.cs.3963": "อยากจะรู้จักผม ให้มากขึ้นกว่านี้งั้นเหรอ? ...กลัวว่าคุณจะชอบผม น้อยลงน่ะสิถ้าเกิด รู้อะไร ๆ มากไปกว่านี้$u#$e#แต่ผมก็อยากจะรู้จัก *คุณ* ให้มากกว่านี้นะ ตลอดชีวิตก็ยอม$6",
+                "NPC.cs.3980": "...ผมไม่ได้ฝันไปใช่มั้ย? คุณอยากจะเป็น {{RelationshipLabel}} กับพวกขวางโลก อย่างผมเนี่ยนะ? ไม่ใช่ว่าผมจะทำให้ทุก ๆ อย่างแย่กว่าเดิมเหรอ...$10#$b#........$u#$b#รู้อะไรมั้ย? ถึงสักวันมันจะต้องจบลง ด้วยดีหรืออะไรก็ตาม... มาลองดูกันสักครั้ง ก็ไม่แย่ใช่มั้ยล่ะ$6#$b#ในหมู่บ้าน เราจะมีธรรมเนียม การจัดงานแต่งงาน ในรูปแบบเดียวกันเสมอ ผมจะเตรียมทุก ๆ อย่างให้พร้อมภายใน 3 วัน โอเคนะ?$n",
                 "NPC.cs.4001": "An old buddy from the JojaMart stockroom hooked me up with that fruit. He works for some rare goods merchant now.#$b#It’s to thank you for helping me, uh... How do I put this.$u#$b#Look, I know I put you in a terrible position that night on the cliffs, and I'm sorry. It's not your job to save me, or fix me.$s#$b#The thing is... when people used to tell me that they loved me, that I wasn’t worthless, I figured that was just because they didn’t know me as well as I knew myself.$s#$b#So the fact that, even after you’d seen everything about me I was so ashamed of, you still wanted me in your life...$u#$b#Well. It got the ball rolling. The rest is up to me.$6#$b#What I'm trying to say is... I love you, @. Thank you for being here.",
-                "Event.cs.1736": "$q -1 null#Oh boy...#$r -1 0 danceAsk#(Ask Shane to be your dance partner)#$r -1 0 null#Nevermind...",
+                "Event.cs.1736": "$q -1 null#ว้าว...#$r -1 0 danceAsk#(ชวนเชนมาเป็น คู่เต้นรำด้วยกัน)#$r -1 0 null#ไม่เป็นไรดีกว่า...",
             },
             "When":
             {
@@ -65,13 +65,13 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.4442": "I feel a little nauseated this morning...What if I messed up the adoption paperwork somehow?$s",
-                "NPC.cs.4446": "I just feel like sleeping today. I was up late spiraling out about the adoption.$u#$e#I hope the agency gets back to us soon.$u",
-                "NPC.cs.4443": "I'm tired... can't you make your own breakfast?$a",
-                "NPC.cs.4444": "{{TermofEndearment}}, I can't believe we're adopting a kid. I know it was my idea, but what if I mess everything up?$10",
-                "NPC.cs.4447": "{{TermofEndearment}}, I can't believe we're adopting a kid. I know it was my idea, but what if I mess everything up?$10",
-                "NPC.cs.4445": "{{TermofEndearment}}, I actually feel optimistic about the adoption. Not a feeling I'm used to!$h",
-                "NPC.cs.4448": "{{TermofEndearment}}, I actually feel optimistic about the adoption. Not a feeling I'm used to!$h",
+                "NPC.cs.4442": "เช้านี้รู้สึก คลื่นไส้แปลก ๆ แหะ ถ้าผมเผลอทำเอกสาร รับอุปการะบุตรผิด ขึ้นมาจะเป็นยังไงเนี่ย?$s",
+                "NPC.cs.4446": "วันนี้รู้สึกง่วง ๆ ทั้งวันวันเลย สงสัยเพราะเมื่อคืน มัวแต่วุ่นเรื่องเอกสาร จนนอนดึกไปเยอะ $u#$e#หวังว่าทางนั้นจะติดต่อ กลับมาหาพวกเราไว ๆ นะ$u",
+                "NPC.cs.4443": "วันนี้ผมเหนื่อยมากเลย... ทำอาหารเช้า ทานเองไปก่อนได้มั้ย?$a",
+                "NPC.cs.4444": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลย ว่าพวกเราจะรับเลี้ยง บุตรบุญธรรม ถ้าผมเผลอทุก ๆ อย่างพังล่ะ?$10",
+                "NPC.cs.4447": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลย ว่าพวกเราจะรับเลี้ยง บุตรบุญธรรม ถ้าผมเผลอทุก ๆ อย่างพังล่ะ?$10",
+                "NPC.cs.4445": "{{TermofEndearment}}, ไม่เชื่อว่าผม จะตื่นเต้นกับการรับเลี้ยง บุตรบุญธรรมขนาดนี้ เลยนะเนี่ย!$h",
+                "NPC.cs.4448": "{{TermofEndearment}}, ไม่เชื่อว่าผม จะตื่นเต้นกับการรับเลี้ยง บุตรบุญธรรมขนาดนี้ เลยนะเนี่ย!$h",
             },
             "When":
             {
@@ -84,7 +84,7 @@
             "Target": "Data/EngagementDialogue",
             "Entries":
             {
-                "Shane0": "Part of me is wondering if this isn't all some elaborate prank.#$e#I can't believe you'd actually want to spend your life with someone like me.",
+                "Shane0": "บางครั้งผมก็นึกนะ ว่าชีวิตตอนนี้มันเป็น ความฝันอยู่หรือเปล่า#$e#ความรู้สึกที่คุณ อยากจะใช้ชีวิตอยู่กับ คนอย่างผมมันช่วยทำให้ รู้สึกดีเอามาก ๆ เลย",
             },
             "When":
             {
@@ -108,10 +108,10 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.3965": "...I think one necklace is enough. But thanks.",
-                "NPC.cs.3966": "...You weren't just messing with me, were you? A second pendant... Is this part of some cruel joke?$s",
-                "NPC.cs.3967": "We're already {{RelationshipLabel}}, right?",
-                "NPC.cs.3968": "Maybe hold onto that in case I lose the first one.$u",
+                "NPC.cs.3965": "...ผมว่าสร้อยคอแค่เส้นเดียว ก็พอแล้วนะ แต่ก็ขอบคุณมาก",
+                "NPC.cs.3966": "...คุณไม่ได้ล้อผมเล่น ใช่มั้ยเนี่ย? สร้อยคอชิ้นที่สอง... นี่แกล้งกันเล่นใช่มั้ย?$s",
+                "NPC.cs.3967": "พวกเราเป็น {{RelationshipLabel}} กันแล้วใช่มั้ยล่ะ?",
+                "NPC.cs.3968": "บางทีอาจจะเก็บไว้ กรณีที่ผมเผลอทำ ชิ้นนี้หายก็ได้นะ$u",
             },
             "When":
             {
