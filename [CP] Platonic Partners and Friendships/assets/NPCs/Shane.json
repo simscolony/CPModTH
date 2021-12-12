@@ -96,7 +96,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Shane": "If I hadn't met you, @... I might not even be here right now.#$b#Which would be a shame, because the bird-watching up here is phenomenal!$h\"/emote farmer 16/pause 1000/speak Shane \"Heh... I... I tend to joke a lot, because...well...$s#$b#I guess keeping things light-hearted makes it so I don't have to open up and make myself vulnerable.\"/emote Shane 28/speak Shane \"But every season that goes by, with you, I get a little more comfortable with myself.#$b#Uh.. I guess what I want to say is...#$b#I have no regrets about sharing my life with you!$h",
+                "SummitEvent_Dialogue3_Shane": "ถ้าผมไม่ได้มา รู้จักกับคุณล่ะก็ @... ผมคงจะไม่ได้มายืน อยู่ตรงจุดนี้ได้แน่ ๆล#$b#และก็คงจะน่าเสียดายมาก ๆ เพราะการได้มาดู เจ้าพวกนกบนนี้ เป็นเรื่องที่วิเศษที่สุด ไปเลยล่ะ!$h\"/emote farmer 16/pause 1000/speak Shane \"แหะ... ผ... ผมชอบเล่นมุขตลก ฝืดประมาณนี้น่ะ ที่จริงแล้ว...นั่นแหละ...$s#$b#ที่ผมเป็นแบบนี้ก็เพราะว่า ไม่จำเป็นที่ตัวเองจะต้อง เปิดใจรับใครเข้ามาก็ตาม รวมไปถึงทำให้คนอื่น ๆ ไม่เห็นความอ่อนแอ ของผมที่ซ่อนเอาไว้ด้วย\"/emote Shane 28/speak Shane \"แต่การมีคุณอยู่ตรงนี้ มันทำให้ผมรู้สึกแตกต่าง ออกไปจากเดิมเลย#$b#เอ่อ.. ที่ผมจะพูดก็คือ...#$b#ผมน่ะนะ ไม่เคยคิดเสียใจสักครั้ง ที่ได้มาใช้ชีวิตร่วมกับคุณ แบบนี้แม้แต่ครั้งเดียวล!$h",
             },
             "When":
             {
@@ -111,7 +111,7 @@
                 "NPC.cs.3965": "...ผมว่าสร้อยคอแค่เส้นเดียว ก็พอแล้วนะ แต่ก็ขอบคุณมาก",
                 "NPC.cs.3966": "...คุณไม่ได้ล้อผมเล่น ใช่มั้ยเนี่ย? สร้อยคอชิ้นที่สอง... นี่แกล้งกันเล่นใช่มั้ย?$s",
                 "NPC.cs.3967": "พวกเราเป็น {{RelationshipLabel}} กันแล้วใช่มั้ยล่ะ?",
-                "NPC.cs.3968": "บางทีอาจจะเก็บไว้ กรณีที่ผมเผลอทำ ชิ้นนี้หายก็ได้นะ$u",
+                "NPC.cs.3968": "บางทีอาจจะเก็บไว้ กรณีที่ผมเผลอทำ ชิ้นแรกหายก็ได้นะ$u",
             },
             "When":
             {
@@ -123,10 +123,10 @@
             "Target": "Characters/Dialogue/Marnie",
             "Entries":
             {
-                "NPC.cs.3965": "Oh, @. You're right that Jas and I will miss having Shane around, but we'll be fine right here. Your place isn't far.",
-                "NPC.cs.3966": "That's very funny, @! I think Jas and I need to stay here and take care of the animals.$h",
-                "NPC.cs.3967": "You want me to move in with my chickens? That's very sweet, but if Shane misses them he's welcome to visit anytime.",
-                "NPC.cs.3968": "I don't think Shane needs his old aunt as a roommate again, dear. The two of you seem to be doing just fine.",
+                "NPC.cs.3965": "อ๊ะ @ เธอพูดถูกแผงเลยล่ะ ว่าฉันกับแจสจะคิดถึง ช่วงเวลาที่มีเชนอยู่ด้วยแน่ ๆ เลย แต่ไม่ต้องเป็นห่วง พวกเราหรอก ฟาร์มของเธอก็ใช่ว่า จะอยู่ไกลจากที่นี่นะ",
+                "NPC.cs.3966": "นั่นฟังดูตลกมากเลยนะ @! ฉันกับแจสคงจะคิดที่จะ คอยดูแลเจ้าพวกสัตว์ ตัวน้อยพวกนั้น อยู่ที่นี่ดีกว่า$h",
+                "NPC.cs.3967": "เธออยากจะให้ฉัน ย้ายเข้าไปพร้อมกับ เจ้าไก่ตัวน้อยของฉันเหรอ? ขอบคุณมากเลยนะ แต่ไว้ถ้าเชนคิดถึง พวกเราเมื่อไหร่ล่ะก็ มาเยี่ยมได้เสมอเลยนะ ไม่ต้องเป็นห่วง",
+                "NPC.cs.3968": "ฉันว่าเชนคงไม่อยากจะมี ป้าแก่ ๆ คนนี้ไปเป็นเพื่อนร่วม บ้านอีกครั้งหรอกนะ อย่ากังวลไปเลย พวกเธอทั้งสองคน จะไม่เป็นอะไรทำใจโล่ง ๆ เข้าไว้",
             },
             "When":
             {
@@ -138,7 +138,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Game1.cs.2782": "I'm glad that's over. I felt kind of ridiculous dressed up like that in front of everyone.#$e#It was worth it, though.$h",
+                "Game1.cs.2782": "ในที่สุดก็จบสักที รู้สึกแปลก ๆ ยังไงไม่รู้ที่ต้อง ออกไปแต่งตัวแบบนั้น ต่อหน้าทุกคน.#$e#แต่ก็ถือว่าไม่เสียเปล่านะ$h",
             },
             "When":
             {
@@ -150,7 +150,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "TwoKids_2": "Ugh... %kid2 is being a little brat today. Must be my influence...",
+                "TwoKids_2": "อึก... %kid2 เริ่มจะดื้อขึ้นเรื่อย ๆ แล้วนะ เหมือนผมตอนเด็ก ๆ ไม่มีผิดเลยนะเนี่ย...",
             },
         },
         {
