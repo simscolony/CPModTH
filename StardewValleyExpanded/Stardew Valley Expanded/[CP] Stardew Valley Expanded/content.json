@@ -1785,6 +1785,11 @@
 	"Custom_BusStop_NoBus": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_GrandpasGrove": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_FakeEnchantedGrove": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	"SophiasRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	"OliviasRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	"VictorsRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	"ClairesRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	"WizardsRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 
     //Map tracking Blue Moon Vineyard
 	"Custom_BlueMoonVineyard": {
@@ -6436,6 +6441,54 @@
 	 "Target": "Strings/Schedules/Marlon",
 	 "FromFile": "assets/XNBs/MarlonFay.xnb"
 },
+
+
+
+
+     //Adds spouse room maps
+
+{
+     "Action": "Load",
+	 "Target": "Maps/Custom_WizardsRoom",
+	 "FromFile": "Assets/Maps/SpouseRooms/WizardsRoom.tbin",
+},
+{
+     "Action": "Load",
+	 "Target": "Maps/Custom_ClairesRoom",
+	 "FromFile": "Assets/Maps/SpouseRooms/ClairesRoom.tbin",
+},
+{
+     "Action": "Load",
+	 "Target": "Maps/Custom_VictorsRoom",
+	 "FromFile": "Assets/Maps/SpouseRooms/VictorsRoom.tbin",
+},
+{
+     "Action": "Load",
+	 "Target": "Maps/Custom_OliviasRoom",
+	 "FromFile": "Assets/Maps/SpouseRooms/OliviasRoom.tbin",
+},
+{
+     "Action": "Load",
+	 "Target": "Maps/Custom_SophiasRoom",
+	 "FromFile": "Assets/Maps/SpouseRooms/SophiasRoom.tbin",
+},
+
+{    //Adds spouse room data
+     "Action": "EditData",
+     "Target": "Data/SpouseRooms",
+     "Entries": {
+	    "Sophia": "Custom_SophiasRoom/0",
+		"Olivia": "Custom_OliviasRoom/0",
+		"Victor": "Custom_VictorsRoom/0",
+		"Claire": "Custom_ClairesRoom/0",
+		"Wizard": "Custom_WizardsRoom/0",
+	 }
+},
+
+
+
+
+
 
     //EXTERIOR MAP LOADS
 
