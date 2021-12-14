@@ -102,7 +102,8 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Intro": true,
-                "Language": "th"
+                "Language": "th",
+                "HasMod |contains=Acerbicon.Recolor": false
             }
         },
 
