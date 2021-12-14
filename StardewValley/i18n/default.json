@@ -1,0 +1,21 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+
+    // Billboard
+    "config.Billboard.name": "Thai Billboard",
+    "config.Billboard.description": "Enable Thai Billboard",
+
+    // JojaCDForm
+    "config.JojaCDForm.name": "Thai JojaCDForm",
+    "config.JojaCDForm.description": "Enable Thai JojaCDForm",
+
+    // Intro
+    "config.Intro.name": "Thai Intro",
+    "config.Intro.description": "Enable Thai Intro",
+
+    // TitleButtons
+    "config.TitleButtons.name": "Thai TitleButtons",
+    "config.TitleButtons.description": "Enable Thai TitleButtons"
+}

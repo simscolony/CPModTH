@@ -1,10 +1,25 @@
 {
     "Format": "1.24.0",
     "ConfigSchema": {
-        "ThaiInterface": {
+        "Billboard": {
             "AllowValues": "true, false",
             "Default": "true",
-            "Description": "เปิดใช้งาน Interface ภาษาไทย"
+            "Description": "เปิดใช้งาน Billboard ภาษาไทย"
+        },
+        "JojaCDForm": {
+            "AllowValues": "true, false",
+            "Default": "true",
+            "Description": "เปิดใช้งาน JojaCDForm ภาษาไทย"
+        },
+        "Intro": {
+            "AllowValues": "true, false",
+            "Default": "true",
+            "Description": "เปิดใช้งาน Intro ภาษาไทย"
+        },
+        "TitleButtons": {
+            "AllowValues": "true, false",
+            "Default": "true",
+            "Description": "เปิดใช้งาน TitleButtons ภาษาไทย"
         }
     },
 
@@ -62,7 +77,7 @@
             "Target": "LooseSprites/Billboard",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "ThaiInterface": true,
+                "Billboard": true,
                 "Language": "th",
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface, zazizu.darkUICP": false
             }
@@ -74,7 +89,7 @@
             "Target": "LooseSprites/JojaCDForm",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "ThaiInterface": true,
+                "JojaCDForm": true,
                 "Language": "th",
                 "HasMod |contains=IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface": false
             }
@@ -86,7 +101,7 @@
             "Target": "Minigames/Intro",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "ThaiInterface": true,
+                "Intro": true,
                 "Language": "th"
             }
         },
@@ -97,7 +112,7 @@
             "Target": "Minigames/TitleButtons",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "ThaiInterface": true,
+                "TitleButtons": true,
                 "Language": "th",
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface": false
             }

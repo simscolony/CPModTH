@@ -1,0 +1,21 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+
+    // Billboard
+    "config.Billboard.name": "Billboard ภาษาไทย",
+    "config.Billboard.description": "เปิดใช้งาน Billboard ภาษาไทย",
+
+    // JojaCDForm
+    "config.JojaCDForm.name": "JojaCDForm ภาษาไทย",
+    "config.JojaCDForm.description": "เปิดใช้งาน JojaCDForm ภาษาไทย",
+
+    // Intro
+    "config.Intro.name": "Intro ภาษาไทย",
+    "config.Intro.description": "เปิดใช้งาน Intro ภาษาไทย",
+
+    // TitleButtons
+    "config.TitleButtons.name": "TitleButtons ภาษาไทย",
+    "config.TitleButtons.description": "เปิดใช้งาน TitleButtons ภาษาไทย"
+}
