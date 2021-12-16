@@ -3118,7 +3118,7 @@
 {
    "Action": "EditImage",
    "Target": "LooseSprites/AquariumFish",
-   "FromFile": "Assets/TileSheets/SVE_AquariumFish_SpriteSpring.png",
+   "FromFile": "Assets/TileSheets/SVE_AquariumFish.png",
    "ToArea": { "X": 168, "Y": 240, "Width": 96, "Height": 48 },
 },
 
