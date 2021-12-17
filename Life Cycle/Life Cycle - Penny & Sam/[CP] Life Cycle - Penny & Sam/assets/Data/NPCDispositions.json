@@ -1,6 +1,12 @@
 {
-"Entries": {
- "Penny": "teen/polite/shy/positive/female/datable/Sam/Town/fall 2/Pam 'แม่' Sam 'สามี'/House1AC 19 5/เพนนี",
- "Sam": "teen/neutral/outgoing/positive/male/datable/Penny/Town/summer 17/Vincent 'น้องชาย' Jodi 'แม่' Kent 'พ่อ' Sebastian '' Penny 'ภรรยา'/House1AC 20 5/แซม"
-   }
+   "Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Data/NPCDispositions",
+    "Entries": {
+        "Penny": "teen/polite/shy/positive/female/not-datable/Sam/Town/fall 2/Pam 'แม่' Sam 'สามี'/House1AC 19 5/เพนนี",
+        "Sam": "teen/neutral/outgoing/positive/male/not-datable/Penny/Town/summer 17/Vincent 'น้องชาย' Jodi 'แม่' Kent 'พ่อ' Sebastian '' Penny 'ภรรยา'/House1AC 20 5/แซม"
+      }
+    }
+  ]
 }

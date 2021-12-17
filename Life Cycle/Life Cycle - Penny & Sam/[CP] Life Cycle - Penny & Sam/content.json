@@ -1,5 +1,5 @@
 {
-"Format": "1.15.0",
+"Format": "1.21.0",
 "ConfigSchema": {
     "Version": {
 			"AllowValues": "dating, married, family",
@@ -1064,8 +1064,7 @@
     //Penny
         //No town school
 {
- "Action": "EditData",
- "Target": "Characters/schedules/Penny",
+ "Action": "Include",
  "FromFile": "assets/Schedule/Penny.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1075,8 +1074,7 @@
 },
         //Yes town school
 {
- "Action": "EditData",
- "Target": "Characters/schedules/Penny",
+ "Action": "Include",
  "FromFile": "assets/Schedule/PennySchool.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1088,8 +1086,7 @@
     //Sam
         //No town school
 {
- "Action": "EditData",
- "Target": "Characters/schedules/Sam",
+ "Action": "Include",
  "FromFile": "assets/Schedule/Sam.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1099,8 +1096,7 @@
 },
         //Yes town school
 {
- "Action": "EditData",
- "Target": "Characters/schedules/Sam",
+ "Action": "Include",
  "FromFile": "assets/Schedule/SamSchool.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1305,8 +1301,7 @@
 //Dialogues
     //Penny no child
 {
- "Action": "EditData",
- "Target": "Characters/Dialogue/Penny",
+ "Action": "Include",
  "FromFile": "assets/Dialogue/Penny.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1317,8 +1312,7 @@
 },
     //Penny yes child
 {
- "Action": "EditData",
- "Target": "Characters/Dialogue/Penny",
+ "Action": "Include",
  "FromFile": "assets/Dialogue/PennyChild.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1329,8 +1323,7 @@
 },
     //Sam no child
 {
- "Action": "EditData",
- "Target": "Characters/Dialogue/Sam",
+ "Action": "Include",
  "FromFile": "assets/Dialogue/Sam.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1341,8 +1334,7 @@
 },
     //Sam yes child
 {
- "Action": "EditData",
- "Target": "Characters/Dialogue/Sam",
+ "Action": "Include",
  "FromFile": "assets/Dialogue/SamChild.json",
  "When": {
 	"HasMod: |contains=nraittanna.LifeCycleAthanaeriMap": "true",
@@ -1512,8 +1504,7 @@
 
 //NPC Dispositions
 {
- "Action": "EditData",
- "Target": "Data/NPCDispositions",
+ "Action": "Include",
  "FromFile": "assets/Data/NPCDispositions.json",
  "When": {
     "Version": "family",
