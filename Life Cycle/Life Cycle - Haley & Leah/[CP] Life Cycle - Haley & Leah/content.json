@@ -202,7 +202,7 @@
             "spring.001": "ฉันน่าจะถ่ายรูปลีอา เยอะๆ กว่านี้$4",
             "spring.002": "จริงๆ แล้ว ในป่าเป็นสถานที่ ที่โรแมนติกดีนะ$4",
             "summer.001": "ลีอา ที่รัก เธอช่วยทาครีมกันแดด ให้ฉันหน่อยได้มั้ย?$4",
-            "summer.002": "ฉันมีความสุขมาก ที่เธอว่าฉันมาที่นี่ ลีอา$1",
+            "summer.002": "ฉันมีความสุขมาก ที่เธอพาฉันมาที่นี่ ลีอา$1",
             "fall.001": "...$4",
             "fall.002": "ฉันกำลังถ่ายรูป เพื่อทำอัลบัมภาพถ่าย ให้ลีอาอยู่$1",
             "winter.001": "เมื่อก่อน ฉันไม่ค่อยจะทำอะไร ในช่วงฤดูหนาว และมันก็น่าเบื่อสุดๆ$0#$b#ตอนนี้ฉันว่ามีดีมาก ที่จะได้ไปาหาลีอา เมื่อไหร่ก็ได้เมื่ออยากจะไป",
@@ -684,7 +684,7 @@
     "HasSeenEvent": "59020035"
         },
 "Entries": { 
-    "Lainey": "child/neutral/outgoing/positive/female/not-datable/null/Town/summer 20/Leah 'mom' Maru 'mommy' Emily 'aunt'/LeahHouse 18 18/Lainey"
+    "Lainey": "child/neutral/outgoing/positive/female/not-datable/null/Town/summer 20/Leah 'แม่' Haley 'แม่จ๋า' Emily 'ป้า'/LeahHouse 18 18/Lainey"
            }
 },
     //Gift tastes
@@ -704,7 +704,7 @@
     "HasSeenEvent": "59020035"
         },
 "Entries": {
-    "Lainey": "This is my favorite! Thank you, I love you./221 18 233 Pancakes/I really like this, thank you./610 651 282 340/What should I do with this...?/203 227 235/My mom says I'm allergic to this.../88 153 228 248/Thank you.//"
+    "Lainey": "นี่ของชอบหนูเลย! ขอบคุณค่ะ หนูรักพี่/221 18 233 211/หนูชอบมากเลย ขอบคุณค่ะ/610 651 282 340/หนูจะทำยังไงกับมันดีล่ะ...?/203 227 235/แม่บอกว่า หนูแพ้อันนี้.../88 153 228 248/ขอบคุณค่ะ//"
            }
 },
     //Rainy Day Dialogue
@@ -718,7 +718,7 @@
     "HasSeenEvent": "59020035"
         },
 "Entries": {
-    "Lainey": "Mom always paints with me when it's raining.$0"
+    "Lainey": "ในวันที่ฝนตก แม่จะวาดรูปกับหนู$0"
             }
 },
     //Animations
@@ -795,15 +795,15 @@
     "HaveChildren": "false"
         },
 "Entries":  {
-            "spring.001": "I should take more photos of Leah.$4",
-            "spring.002": "Actually, the forest is a really romantic place.$4",
-            "summer.001": "Leah, honey, could you apply the sunscreen for me?$4",
-            "summer.002": "I'm glad that you showed me this place, Leah.$1",
+            "spring.001": "ฉันน่าจะถ่ายรูปลีอา เยอะๆ กว่านี้$4",
+            "spring.002": "จริงๆ แล้ว ในป่าเป็นสถานที่ ที่โรแมนติกดีนะ$4",
+            "summer.001": "ลีอา ที่รัก เธอช่วยทาครีมกันแดด ให้ฉันหน่อยได้มั้ย?$4",
+            "summer.002": "ฉันมีความสุขมาก ที่เธอพาฉันมาที่นี่ ลีอา$1",
             "fall.001": "...$4",
-            "fall.002": "I'm taking pictures to make a photo album for Leah.$1",
-            "winter.001": "Before I had nothing to do in the winter and was so bored.$0#$b#I'm glad that now I can visit Leah anytime I want.",
-            "winter.002": "It's difficult to stay still...$2#$b#But I'm doing my best for Leah.$4",
-            "familydinner.001": "I love having dinner together.$1"
+            "fall.002": "ฉันกำลังถ่ายรูป เพื่อทำอัลบัมภาพถ่าย ให้ลีอาอยู่$1",
+            "winter.001": "เมื่อก่อน ฉันไม่ค่อยจะทำอะไร ในช่วงฤดูหนาว และมันก็น่าเบื่อสุดๆ$0#$b#ตอนนี้ฉันว่ามีดีมาก ที่จะได้ไปาหาลีอา เมื่อไหร่ก็ได้เมื่ออยากจะไป",
+            "winter.002": "มันคงยากถ้าจะอยู่เฉยๆ แบบนี้ต่อไป...$2#$b#ฉันจะทำเต็มที่เพื่อลีอา$4",
+            "familydinner.001": "ฉันชอบการที่เรา ได้ทานมื้อค่ำด้วยกันแบบนี้$1
             },
 },
         //Yes children
@@ -816,15 +816,15 @@
     "HaveChildren": "true"
         },
 "Entries":  {
-            "spring.001": "I should take more photos of Leah.$4",
-            "spring.002": "Actually, the forest is a really romantic place.$4",
-            "summer.001": "Leah, honey, could you apply the sunscreen for me?$4",
-            "summer.002": "I'm glad that you showed me this place, Leah.$1",
+            "spring.001": "ฉันน่าจะถ่ายรูปลีอา เยอะๆ กว่านี้$4",
+            "spring.002": "จริงๆ แล้ว ในป่าเป็นสถานที่ ที่โรแมนติกดีนะ$4",
+            "summer.001": "ลีอา ที่รัก เธอช่วยทาครีมกันแดด ให้ฉันหน่อยได้มั้ย?$4",
+            "summer.002": "ฉันมีความสุขมาก ที่เธอพาฉันมาที่นี่ ลีอา$1",
             "fall.001": "...$4",
-            "fall.002": "I'm taking pictures to make a photo album for Leah.$1",
-            "winter.001": "Before I had nothing to do in the winter and was so bored.$0#$b#I'm glad that now I can visit Leah anytime I want.",
-            "winter.002": "It's difficult to stay still...$2#$b#But I'm doing my best for Leah.$4",
-            "familydinner.001": "Lainey are you sleepy?$0"
+            "fall.002": "ฉันกำลังถ่ายรูป เพื่อทำอัลบัมภาพถ่าย ให้ลีอาอยู่$1",
+            "winter.001": "เมื่อก่อน ฉันไม่ค่อยจะทำอะไร ในช่วงฤดูหนาว และมันก็น่าเบื่อสุดๆ$0#$b#ตอนนี้ฉันว่ามีดีมาก ที่จะได้ไปาหาลีอา เมื่อไหร่ก็ได้เมื่ออยากจะไป",
+            "winter.002": "มันคงยากถ้าจะอยู่เฉยๆ แบบนี้ต่อไป...$2#$b#ฉันจะทำเต็มที่เพื่อลีอา$4",
+            "familydinner.001": "เลนนี่ หลับรึยังลูก?$0"
             },
 },
     //Leah
@@ -838,15 +838,15 @@
     "HaveChildren": "false"
         },
 "Entries":  {
-            "spring.001": "Haley wanted to take some pictures of the forest in spring.$0#$b#And I'm drawing some quick sketches of the scenery.$1",
-            "spring.002": "Haley looks so pretty right now, should I paint her...?$4",
-            "summer.001": "Be careful not to get sunburnt, Haley.$2",
-            "summer.002": "Haley, what do you think of this coral? Isn't it too big?$2#$b#I'm going to draw it again...$2",
-            "fall.001": "I love you so much, Haley...$4",
-            "fall.002": "Hey, @.$0#$b#Fall colors are more vivid in Stardew Valley.$1#$b#Haley thinks so too.$1",
-            "winter.001": "Oh, @.$4#$b#Haley and I were talking about something important, would you mind coming later?$4",
-            "winter.002": "I'm painting a portrait of Haley.$1",
-            "familydinner.001": "It's nice of Gus to let you have a day off, Emily.$1"
+            "spring.001": "เฮลีย์อยากจะถ่ายรูปป่า ในฤดูใบไม้ผลิ$0#$b#และฉันเองก็อยากจะ สเก็ตภาพทิวทัศน์$1",
+            "spring.002": "ตอนนี้เฮลีย์ดูสวยจัง ฉันวาดรูปเธอดีมั้ยนะ...?$4",
+            "summer.001": "ระวังอย่าให้ผิวไหม้นะ เฮลีย์$2",
+            "summer.002": "เฮลีย์ เธอคิดว่าปะการังอันนี้เป็นไง? มันใหญ่ไปรึเปล่าเนี่ย?$2#$b#ฉันจะวาดมันอีกที...$2",
+            "fall.001": "ฉันรักเธอที่สุดเลย เฮลีย์...$4",
+            "fall.002": "ไง @$0#$b#ในสตาร์ดิวแวลลีย์ สีสันของฤดูใบไม้ร่วง จะโดดเด่นขึ้นไปอีก$1#$b#เฮลีย์ก็คิดแบบนั้น$1",
+            "winter.001": "โอ้ @$4#$b#เฮลีย์กับฉัน กำลังคุยเรื่องสำคัญกันอยู่ ถ้าเธอไม่ว่าอะไร ค่อยมาอีกทีนึงนะ?$4",
+            "winter.002": "ฉันกำลังวาดภาพเหมือน ของเฮลีย์อยู่$1",
+            "familydinner.001": "ดีจังที่กัสให้เธอหยุดได้นะ เอมิลี$1"
             },
 },
         //Yes children
@@ -859,15 +859,15 @@
     "HaveChildren": "true"
         },
 "Entries":  {
-            "spring.001": "Haley wanted to take some pictures of the forest in spring.$0#$b#And I'm drawing some quick sketches of the scenery.$1",
-            "spring.002": "Haley looks so pretty right now, should I paint her...?$4",
-            "summer.001": "Be careful not to get sunburnt, Haley.$2",
-            "summer.002": "Haley, what do you think of this coral? Isn't it too big?$2#$b#I'm going to draw it again...$2",
-            "fall.001": "I love you so much, Haley...$4",
-            "fall.002": "Hey, @.$0#$b#Fall colors are more vivid in Stardew Valley.$1#$b#Haley thinks so too.$1",
-            "winter.001": "Oh, @.$4#$b#Haley and I were talking about something important, would you mind coming later?$4",
-            "winter.002": "I'm painting a portrait of Haley.$1",
-            "familydinner.001": "Lainey, do you want to go to Aunt Emily's house next time?"
+            "spring.001": "เฮลีย์อยากจะถ่ายรูปป่า ในฤดูใบไม้ผลิ$0#$b#และฉันเองก็อยากจะ สเก็ตภาพทิวทัศน์$1",
+            "spring.002": "ตอนนี้เฮลีย์ดูสวยจัง ฉันวาดรูปเธอดีมั้ยนะ...?$4",
+            "summer.001": "ระวังอย่าให้ผิวไหม้นะ เฮลีย์$2",
+            "summer.002": "เฮลีย์ เธอคิดว่าปะการังอันนี้เป็นไง? มันใหญ่ไปรึเปล่าเนี่ย?$2#$b#ฉันจะวาดมันอีกที...$2",
+            "fall.001": "ฉันรักเธอที่สุดเลย เฮลีย์...$4",
+            "fall.002": "ไง @$0#$b#ในสตาร์ดิวแวลลีย์ สีสันของฤดูใบไม้ร่วง จะโดดเด่นขึ้นไปอีก$1#$b#เฮลีย์ก็คิดแบบนั้น$1",
+            "winter.001": "โอ้ @$4#$b#เฮลีย์กับฉัน กำลังคุยเรื่องสำคัญกันอยู่ ถ้าเธอไม่ว่าอะไร ค่อยมาอีกทีนึงนะ?$4",
+            "winter.002": "ฉันกำลังวาดภาพเหมือน ของเฮลีย์อยู่$1",
+            "familydinner.001": "เลนนี่ คราวหน้า ลูกอยากจะไปเที่ยว บ้านป้าเอมิลีมั้ย?"
             },
 },
     //Emily
@@ -879,7 +879,7 @@
     "HaveChildren": "false"
         },
 "Entries":  {
-            "familydinner.001": "It'd be nice if our parents were here too. Don't you think Haley?$0"
+            "familydinner.001": "มันต้องดีมากแน่เลย ถ้าพ่อกับแม่อยู่นี่ด้วยนะ เธอว่ามั้ยเฮลีย์?$0"
             },
 },
         //Yes children
@@ -890,7 +890,7 @@
     "HaveChildren": "true"
         },
 "Entries":  {
-            "familydinner.001": "Lainey, next time I'll bring you some muffins.$1"
+            "familydinner.001": "เลนนี่ คราวหน้าป้าจะเอา ขนมมัฟฟินมาให้หนูด้วย$1"
             },
 },
 
@@ -946,11 +946,11 @@
     "HaveChildren": "false"
         },
 "Entries": {
-            "Tue8": "Leah's house is located in a place with a lot of positive energy.$0#$b#It's good for her and Haley to live there.$1",
-            "Wed8": "At first I wasn't sure, but now I clearly see that the souls of Haley and Leah were made to be together.$0",
-            "Thu6": "Leah showed me some of her sculptures the other day.$0#$b#She is very talented.$1",
-            "Sat8": "Haley has changed a lot, she seems like a completely different person.$0#$e#At first I thought it was a temporal effect of their blooming love, but it was not.$0#$b#I'm glad I could tell her how proud I'm of the person she has become.",
-            "Sun8": "Leah has a really unique energy, I think she's a good influence on Haley.$0"
+            "Tue8": "บ้านของลีอา ตั้งอยู่บนสถานที่ ที่มีพลังงานบวกมากมาย$0#$b#มันต้องดีกับเฮลีย์ด้วย เมื่อเธออยู่ที่นั่น$1",
+            "Wed8": "ตอนแรกฉันก็ไม่มั่นใจหรอก แต่ว่าตอนนี้ฉันเห็นชัดเลยว่า จิตวิญญาณของเฮลีย์และลีอา ถูกสร้างมาให้คู่กัน$0",
+            "Thu6": "ลีอาเอางานประติมากรรม ของเธอใช้ฉันดูเมื่อวันก่อน$0#$b#เธอมีพรสวรรค์เลยล่ะ$1",
+            "Sat8": "เฮลีย์เปลี่ยนไปมาก ตั้งแต่เริ่มเป็นแฟนกับลีอา อย่างกับเธอ กลายเป็นคนละคน$0#$e#ตอนแรกฉันคิดว่า คงจะเป็นแค่ผลชั่วคราว ของคนที่กำลังมีความรัก แต่มันไม่ใช่เลย$0#$b#ฉันดีใจจริงๆ ที่ฉันสามารถบอกเธอ ได้เต็มปากเลยว่า ฉันภูมิใจมาก ที่เธอเป็นแบบตอนนี้",
+            "Sun8": "ลีอามีคลื่นพลังงาน ที่เฉพาะตัวสุดๆ ฉันคิดว่ามันอิทธิพลที่ดี ส่งต่อไปถึงเฮลีย์$0"
 			}
 },
         //Yes children
@@ -963,11 +963,11 @@
     "HaveChildren": "true"
         },
 "Entries": {
-            "Tue8": "The house of Leah and Haley is located in a place with a lot of positive energy.$0#$b#It's good for Lainey to grow up there.$1",
-            "Wed8": "At first I wasn't sure, but now I clearly see that the souls of Haley and Leah were made to be together.$0",
-            "Thu6": "Lainey has been sculpting with Leah lately.$0#$b#She's so cute.$1",
-            "Sat8": "Haley has changed a lot, she seems like a completely different person.$0#$e#At first I thought it was a temporal effect of their blooming love, but it was not.$0#$b#I'm glad I could tell her how proud I'm of the person she has become.",
-            "Sun8": "I've been working on a dress for Lainey.$0#$b#I'm sure she'll love it.$1"
+            "Tue8": "บ้านของลีอาและเฮลีย์ ตั้งอยู่บนสถานที่ ที่มีพลังงานบวกมากมาย$0#$b#มันต้องดีกับเลนนี่ ที่เธอจะได้เติบโตที่นั่น$1",
+            "Wed8": "ตอนแรกฉันก็ไม่มั่นใจหรอก แต่ว่าตอนนี้ฉันเห็นชัดเลยว่า จิตวิญญาณของเฮลีย์และลีอา ถูกสร้างมาให้คู่กัน$$0",
+            "Thu6": "เมื่อไม่นานนี้ เลนนี่ทำงานประติมากรรม กับลีอาด้วย$0#$b#เธอน่ารักจัง$1",
+            "Sat8": "เฮลีย์เปลี่ยนไปมาก ตั้งแต่เริ่มเป็นแฟนกับลีอา อย่างกับเธอ กลายเป็นคนละคน$0#$e#ตอนแรกฉันคิดว่า คงจะเป็นแค่ผลชั่วคราว ของคนที่กำลังมีความรัก แต่มันไม่ใช่เลย$0#$b#ฉันดีใจจริงๆ ที่ฉันสามารถบอกเธอ ได้เต็มปากเลยว่า ฉันภูมิใจมาก ที่เธอเป็นแบบตอนนี้",
+            "Sun8": "ฉันกำลังตัดชุดในเลนนี่อยู่น่ะ$0#$b#เธอใส่แล้วต้องน่ารักแน่ๆ$1"
 			}
 },
 
@@ -986,13 +986,13 @@
  "Action": "EditData",
  "Target": "Strings/StringsFromMaps",
  "Entries": {	
-            "HaleyLeah1": "'Color Mixing Recipes for Oil & Acrylic'",
-            "HaleyLeah2": "There are some Pancakes.",
-            "HaleyLeah3": "'Capture Your Style: Transform Your Photos'",
-            "HaleyLeah4": "It's Haley's camera.",
-            "HaleyLeah5": "There's all kinds of creams, paints, and powders dotting the vanity's surface.",
-            "HaleyLeah6": "There are some train tickets to Zuzu City.",
-            "HaleyLeah7": "It's a camera for beginners."
+            "HaleyLeah1": "'สูตรการผสมสีน้ำมัน & สีอะคริลิค'",
+            "HaleyLeah2": "มีแพนเค้กวางอยู่",
+            "HaleyLeah3": "'หาสไตล์ของคุณ: การแปลงร่างภาพถ่ายของคุณ",
+            "HaleyLeah4": "กล้องของเฮลีย์",
+            "HaleyLeah5": "มันมีทั้งครีม สี และผงฝุ่ง กระจายอยู่ที่ผิวหน้าโต๊ะเครื่องแป้ง",
+            "HaleyLeah6": "นี่เป็นตั๋วรถไฟไปเมืองซูซู",
+            "HaleyLeah7": "กล้องถ่ายรูปสำหรับมือใหม่"
 		    },
 },
    ]
