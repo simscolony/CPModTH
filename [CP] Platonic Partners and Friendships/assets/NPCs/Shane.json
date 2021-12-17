@@ -309,7 +309,7 @@
                 "HasMod |contains=Poltergeister.SeasonalCuteCharacters": "true",
             }
         },
-        //COMPATIBILITY: IMMERSIVE CHARACTERS - SHANE v2.4.2 
+        //COMPATIBILITY: IMMERSIVE CHARACTERS - SHANE v2.4.2
         //Dialogue and events in this section are based on the originals written by tenthousandcats, used and edited with permission. (Thank you, tenthousandcats!)
         {
             "Action": "EditData",
@@ -775,7 +775,7 @@
 			"Action": "EditData",
 			"Target": "Data/NPCGiftTastes",
 			"Entries": {
-				"Shane": "{{Random: Have I told you that I love you? I love you, this is great. ++ Aw, now you're just spoiling me. ++ Ugh, I just can't get enough of this stuff. Thanks, @! ++ You know me too well, @. ++ You're the best, @. ++ Hell yes, this is the good stuff. Thanks, @! |inputSeparator=++}}/206 215 260/{{Random: Aw, @, you shouldn't have. ++ Thanks, bud! I really like this. ++ Hey, I like this stuff. Thanks! ++ Hey, I was just thinking of this! Thanks, bud. ++ Oh, neat! Thanks, @. ++ Aw, thanks, bud. I really like this. ++ I seriously like this! Thanks, @. |inputSeparator=++}}/203 -5 -79 113 167/{{Random: The trash can's over there, bud. Put your trash there instead. ++ Eugh, why? Did I do something to tick you off? ++ I'll just... throw this away for you, I guess. ++ Don't take this the wrong way, but this is just nasty. ++ Uh... are you asking me to put this in the trash for you? ++ Is this supposed to be a gift? No thanks. ++ *sigh* Why are you giving me this? |inputSeparator=++}}/-81 152 330/{{Random: You've gotta be kidding me. ++ C'mon, @... why do you have to do this? ++ Seriously, @, you gotta stop giving me this stuff. ++ Is this some kinda prank? It's not funny. ++ Yeah, no. Not cool. ++ @, I really need you to stop giving me this junk. |inputSeparator=++}}/80 342 346 348 303 459 873/{{Random: Heh, thanks, @. ++ Oh, you got me something? Thanks, bud. ++ Hey, for me? Thanks, @. ++ Thanks, @. ++ You're giving this to me? Heh, thanks. |inputSeparator=++}}// " 
+				"Shane": "{{Random: Have I told you that I love you? I love you, this is great. ++ Aw, now you're just spoiling me. ++ Ugh, I just can't get enough of this stuff. Thanks, @! ++ You know me too well, @. ++ You're the best, @. ++ Hell yes, this is the good stuff. Thanks, @! |inputSeparator=++}}/206 215 260/{{Random: Aw, @, you shouldn't have. ++ Thanks, bud! I really like this. ++ Hey, I like this stuff. Thanks! ++ Hey, I was just thinking of this! Thanks, bud. ++ Oh, neat! Thanks, @. ++ Aw, thanks, bud. I really like this. ++ I seriously like this! Thanks, @. |inputSeparator=++}}/203 -5 -79 113 167/{{Random: The trash can's over there, bud. Put your trash there instead. ++ Eugh, why? Did I do something to tick you off? ++ I'll just... throw this away for you, I guess. ++ Don't take this the wrong way, but this is just nasty. ++ Uh... are you asking me to put this in the trash for you? ++ Is this supposed to be a gift? No thanks. ++ *sigh* Why are you giving me this? |inputSeparator=++}}/-81 152 330/{{Random: You've gotta be kidding me. ++ C'mon, @... why do you have to do this? ++ Seriously, @, you gotta stop giving me this stuff. ++ Is this some kinda prank? It's not funny. ++ Yeah, no. Not cool. ++ @, I really need you to stop giving me this junk. |inputSeparator=++}}/80 342 346 348 303 459 873/{{Random: Heh, thanks, @. ++ Oh, you got me something? Thanks, bud. ++ Hey, for me? Thanks, @. ++ Thanks, @. ++ You're giving this to me? Heh, thanks. |inputSeparator=++}}// "
 			},
 			"When": {
 				"Relationship:Shane": "Married",
@@ -873,7 +873,7 @@
             "Entries":
             {
                 "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#และก็ไม่เคยมีความคิด ที่จะพัฒนาไปให้มากกว่านี้ ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคนเป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$6",
-                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติกไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$6",
+                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติกไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$6",
                 "fall_Tue10": "มันแปลกที่ผมไม่เคยเบื่อ ที่จะได้เจอคุณบ่อย ๆ เลยสักครั้งเดียวนะ @.#$e#ไม่เคยมีอะไรแบบนี้ เกิดขึ้นมาก่อนเลย ยิ่งกับคนขี้เบื่อแบบผม$6",
             },
             "When":
@@ -888,13 +888,13 @@
             "Entries":
             {
                 "Indoor_Day_2": "#$c .5#รู้อะไรมั้ย? ตั้งแต่ย้ายมาอยู่กับคุณ ผมรู้สึกเหมือนว่าตัวเอง น้ำหนักจะลดลงไปด้วยล่ะ$6#เคยรู้สึกเบื่อ ๆ บ้างมั้ย ที่ผมไม่มีเอเนอร์จี้เทียบ กับคุณได้เลยสักนิด?",
-                "Indoor_Night_3": "เหอะ... หวังว่าผมจะสูง ขึ้นกว่านี้สัก 6 นิ้วนะ และขอให้ตัวเองฉลาด ๆ กว่านี้ด้วย...#$b#แต่คุณก็จะยังชอบผม อยู่เหมือนเดิมใช่มั้ย? บางทีผมก็เจอเรื่องอะไร ต่อมิอะไรที่ทำความเข้าใจ ได้ยากน่ะ...",
+                "Indoor_Night_3": "เหอะ... หวังว่าผมจะสูง ขึ้นกว่านี้สัก 6 นิ้วนะ และขอให้ตัวเองฉลาด ๆ กว่านี้ด้วย...#$b#แต่คุณก็จะยังชอบผม อยู่เหมือนเดิมใช่มั้ย? บางทีผมก็เจอเรื่องอะไร ต่อมิอะไรที่ทำความเข้าใจ ได้ยากน่ะ...",
                 "Outdoor_4": "#$c .5#นี่ @ ก่อนคุณจะตื่นผมลอง ไปเดินเล่นรอบ ๆ ฟาร์มมาล่ะ ทุกอย่างยังดูโอเคดี#ไม่รู้ว่าทำไม แต่เช้านี้รู้สึกดีมาก ๆ เลย เมื่อคืนน่าจะได้หลับ เต็มที่$h",
-                "Good_0": "วันนี้เป็นวันที่ดีมาก ๆ เลย มีอะไรที่ผมอยากจะทำ เต็มไปหมดเลย$6",
-                "Good_1": "คุณเป็นคนที่ดีกว่าผม รู้ตรงจุดนี้ใช่มั้ย? ผมรู้สึกดีมาก ๆ เลย ที่คุณเลือกผม$6",
-                "Neutral_2": "ไว้คุยกันทีหลังดีมั้ย? ตอนนี้ผมกำลังยุ่ง ๆ อยู่น่ะ...",
-                "Outdoor_0": "เมื่อคืนผมนอนไม่ค่อยหลับ หวังว่าอากาศและลม เย็น ๆ พวกนี้จะช่วยทำให้ผม รู้สึกดีขึ้นมาได้บ้าง",
-                "Bad_8": "ใช่... *อึก* ... อ่าหะ ก็ตามที่เห็นอยู่ตอนนี้ นั่นแหละเพื่อน ... *อึก*",
+                "Good_0": "วันนี้เป็นวันที่ดีมาก ๆ เลย มีอะไรที่ผมอยากจะทำ เต็มไปหมดเลย$6",
+                "Good_1": "คุณเป็นคนที่ดีกว่าผม รู้ตรงจุดนี้ใช่มั้ย? ผมรู้สึกดีมาก ๆ เลย ที่คุณเลือกผม$6",
+                "Neutral_2": "ไว้คุยกันทีหลังดีมั้ย? ตอนนี้ผมกำลังยุ่ง ๆ อยู่น่ะ...",
+                "Outdoor_0": "เมื่อคืนผมนอนไม่ค่อยหลับ หวังว่าอากาศและลม เย็น ๆ พวกนี้จะช่วยทำให้ผม รู้สึกดีขึ้นมาได้บ้าง",
+                "Bad_8": "ใช่... *อึก* ... อ่าหะ ก็ตามที่เห็นอยู่ตอนนี้ นั่นแหละเพื่อน ... *อึก*",
             },
             "When":
             {
@@ -908,14 +908,14 @@
             "Entries":
             {
                 "Indoor_Day_2": "#$c .5#รู้อะไรมั้ย? ตั้งแต่ย้ายมาอยู่กับคุณ ผมรู้สึกเหมือนว่าตัวเอง น้ำหนักจะลดลงไปด้วยล่ะ$6#เคยรู้สึกเบื่อ ๆ บ้างมั้ย ที่ผมไม่มีเอเนอร์จี้เทียบ กับคุณได้เลยสักนิด?",
-                "Indoor_Night_3": "เหอะ... หวังว่าผมจะสูง ขึ้นกว่านี้สัก 6 นิ้วนะ และขอให้ตัวเองฉลาด ๆ กว่านี้ด้วย...#$b#แต่คุณก็จะยังชอบผม อยู่เหมือนเดิมใช่มั้ย? บางทีผมก็เจอเรื่องอะไร ต่อมิอะไรที่ทำความเข้าใจ ได้ยากน่ะ...",
+                "Indoor_Night_3": "เหอะ... หวังว่าผมจะสูง ขึ้นกว่านี้สัก 6 นิ้วนะ และขอให้ตัวเองฉลาด ๆ กว่านี้ด้วย...#$b#แต่คุณก็จะยังชอบผม อยู่เหมือนเดิมใช่มั้ย? บางทีผมก็เจอเรื่องอะไร ต่อมิอะไรที่ทำความเข้าใจ ได้ยากน่ะ...",
                 "Outdoor_4": "#$c .5#นี่ @ ก่อนคุณจะตื่นผมลอง ไปเดินเล่นรอบ ๆ ฟาร์มมาล่ะ ทุกอย่างยังดูโอเคดี#ไม่รู้ว่าทำไม แต่เช้านี้รู้สึกดีมาก ๆ เลย เมื่อคืนน่าจะได้หลับ เต็มที่$h",
-                "Good_0": "วันนี้เป็นวันที่ดีมาก ๆ เลย มีอะไรที่ผมอยากจะทำ เต็มไปหมดเลย$6",
-                "Good_1": "คุณเป็นคนที่ดีกว่าผม รู้ตรงจุดนี้ใช่มั้ย? ผมรู้สึกดีมาก ๆ เลย ที่คุณเลือกผม$6",
-                "Neutral_2": "ไว้คุยกันทีหลังดีมั้ย? ตอนนี้ผมกำลังยุ่ง ๆ อยู่น่ะ...",
-                "Outdoor_0": "เมื่อคืนผมนอนไม่ค่อยหลับ หวังว่าอากาศและลม เย็น ๆ พวกนี้จะช่วยทำให้ผม รู้สึกดีขึ้นมาได้บ้าง",
-                "Bad_8": "ใช่... *อึก* ... อ่าหะ ก็ตามที่เห็นอยู่ตอนนี้ นั่นแหละเพื่อน ... *อึก*",
-                "summer_17": "ทำไมคุณกับมานีถึง อยู่ด้วยกันได้ เกือบตลอดเวลาเลย? นึกภาพไม่ออกเลยว่าถ้าผม กับแจสไม่ได้มาร์นีขึ้นมา จะเป็นยังไงต่อ$s#$e#และตอนนี้ คุณก็เข้ามาเติมเต็ม พื้นที่ตรงนี้ของผม$6",
+                "Good_0": "วันนี้เป็นวันที่ดีมาก ๆ เลย มีอะไรที่ผมอยากจะทำ เต็มไปหมดเลย$6",
+                "Good_1": "คุณเป็นคนที่ดีกว่าผม รู้ตรงจุดนี้ใช่มั้ย? ผมรู้สึกดีมาก ๆ เลย ที่คุณเลือกผม$6",
+                "Neutral_2": "ไว้คุยกันทีหลังดีมั้ย? ตอนนี้ผมกำลังยุ่ง ๆ อยู่น่ะ...",
+                "Outdoor_0": "เมื่อคืนผมนอนไม่ค่อยหลับ หวังว่าอากาศและลม เย็น ๆ พวกนี้จะช่วยทำให้ผม รู้สึกดีขึ้นมาได้บ้าง",
+                "Bad_8": "ใช่... *อึก* ... อ่าหะ ก็ตามที่เห็นอยู่ตอนนี้ นั่นแหละเพื่อน ... *อึก*",
+                "summer_17": "ทำไมคุณกับมานีถึง อยู่ด้วยกันได้ เกือบตลอดเวลาเลย? นึกภาพไม่ออกเลยว่าถ้าผม กับแจสไม่ได้มาร์นีขึ้นมา จะเป็นยังไงต่อ$s#$e#และตอนนี้ คุณก็เข้ามาเติมเต็ม พื้นที่ตรงนี้ของผม$6",
             },
             "When":
             {
@@ -929,9 +929,9 @@
             "Entries":
             {
                 "Indoor_Day_3": "#$c .5#ตรงคางคุณ นั่นใช่ซอสมะเขือเทศ หรือเปล่า? เหมือนจะมีใครบางคน ตั้งใจกินพิซซ่าโรล มากเกินไปนะเนี่ย$6#เช้านี้คุณดูสดใส และกระตือรือร้นจังเลย$6",
-                "Indoor_Day_4": "#$c .5#ผมอาจจะชอบคิดอะไร ๆ หรือทำตัวเหมือน ไม่มีความสุขเป็นบางครั้ง... แต่ผมรู้สึกยินดีกับทุก ๆ สิ่งที่คุณทำมากเลยนะ โชคดีมาก ๆ เลยที่มีเพื่อนที่ดี อย่างคุณน่ะ$6#ขอแค่ได้ยินคำว่า อรุณสวัสดิ์ จากคุณก็รู้สึกดีมากเลย; แค่มีคุณอยู่ข้าง ๆ ทำให้ผมรู้สึกมีความสุข แบบนี้ก็เพียงพอแล้ว",
-                "funReturn_Shane": "#$c .5#ฟิ้ว เหนื่อยจัง... เป็นการเดินที่ไม่ใช่เล่น ๆ เลยนะเนี่ย... เฮ้อ สภาพผมคงไม่น่าดูจัด ๆ เลย$6#ไม่เป็นไร ผมเคยทำอะไรแบบนี้แล้ว สบายมาก แค่ขอพักสักนิดนึง",
-                "winter_28": "แล้วอีกปีก็ผ่านไป... เริ่มรู้สึกแก่แล้วสิเนี่ย...#$b#...แต่สำหรับผม คุณก็ยังดูสดใส อยู่เหมือนเดิมเลยนะ$6"
+                "Indoor_Day_4": "#$c .5#ผมอาจจะชอบคิดอะไร ๆ หรือทำตัวเหมือน ไม่มีความสุขเป็นบางครั้ง... แต่ผมรู้สึกยินดีกับทุก ๆ สิ่งที่คุณทำมากเลยนะ โชคดีมาก ๆ เลยที่มีเพื่อนที่ดี อย่างคุณน่ะ$6#ขอแค่ได้ยินคำว่า อรุณสวัสดิ์ จากคุณก็รู้สึกดีมากเลย; แค่มีคุณอยู่ข้าง ๆ ทำให้ผมรู้สึกมีความสุข แบบนี้ก็เพียงพอแล้ว",
+                "funReturn_Shane": "#$c .5#ฟิ้ว เหนื่อยจัง... เป็นการเดินที่ไม่ใช่เล่น ๆ เลยนะเนี่ย... เฮ้อ สภาพผมคงไม่น่าดูจัด ๆ เลย$6#ไม่เป็นไร ผมเคยทำอะไรแบบนี้แล้ว สบายมาก แค่ขอพักสักนิดนึง",
+                "winter_28": "แล้วอีกปีก็ผ่านไป... เริ่มรู้สึกแก่แล้วสิเนี่ย...#$b#...แต่สำหรับผม คุณก็ยังดูสดใส อยู่เหมือนเดิมเลยนะ$6"
             },
             "When":
             {
@@ -958,7 +958,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \" ...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"You're okay! I'm not a believer, but I think I could stand to thank Yoba just this once.$6\"/emote farmer 60/pause 500/speak {{Spouse}} \"Hey, don't give a guy a heart attack like that, okay?#$b#I nearly lost it when I heard you were in the hospital. Been here too many times myself to believe you'd be alright when I got here...$3\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"@... Please be careful the next time you go out there. I can't stop you, but I just want you to know that this all gets to me.$2#$b#Every day's still a struggle, but I'm getting better thanks to all the support you've given me.$2#$b#You really do make life worth living, @, so please don't leave me out here on my own again.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Hey... are you sure you're okay? I'm not trying to be overbearing, but... I really was scared earlier.$2#$c 0.7#Maybe I should turn in early tonight. I don't want to be walking around making noise when you need your sleep the most.$2#$b#Here. Have some leftovers for a quick bite and take it easy for today. [237 241 203 204 220 244 272]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \" ...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"You're okay! I'm not a believer, but I think I could stand to thank Yoba just this once.$6\"/emote farmer 60/pause 500/speak {{Spouse}} \"Hey, don't give a guy a heart attack like that, okay?#$b#I nearly lost it when I heard you were in the hospital. Been here too many times myself to believe you'd be alright when I got here...$3\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"@... Please be careful the next time you go out there. I can't stop you, but I just want you to know that this all gets to me.$2#$b#Every day's still a struggle, but I'm getting better thanks to all the support you've given me.$2#$b#You really do make life worth living, @, so please don't leave me out here on my own again.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Hey... are you sure you're okay? I'm not trying to be overbearing, but... I really was scared earlier.$2#$c 0.7#Maybe I should turn in early tonight. I don't want to be walking around making noise when you need your sleep the most.$2#$b#Here. Have some leftovers for a quick bite and take it easy for today. [237 241 203 204 220 244 272]\"",
             },
             "When": {
 		        "Spouse": "Shane",
