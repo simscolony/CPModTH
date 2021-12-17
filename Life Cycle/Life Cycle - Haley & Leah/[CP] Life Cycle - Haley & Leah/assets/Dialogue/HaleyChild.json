@@ -1,0 +1,33 @@
+{
+   "Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Haley",
+    "Entries": {
+            "Mon8": "Hi, @.$0#$#I want to go to Zuzu City soon with Leah and Lainey.$0#$e#There's this new shopping mall that has a temporary art exhibition.$1",
+            "Tue8": "I never really thought about having kids.$0#$b#I was kind of a child myself...$2#$e#But I think that Leah has helped me mature a lot.$0#$b#I think I'm doing a good job so far with Lainey.$1",
+            "Wed8": "Hi, @.$0#$e#I always thought that I wasn't doing anything productive with my life...$2#$b#You know, I just hung out with Alex from time to time, took some pictures here and there. I didn't even have a job like Emily.$2#$e#But thanks to Leah I've grown so much as a person, I was so happy when we had Lainey.$4#$b#Now I know exactly what I want my future to be.$4",
+            "Thu8": "Leah has talked to me about a photography contest going on in Grampleton.$0#$b#We’re going to choose the pictures later.$1#$e#...or I could directly send in a picture where she's the model, it would win for sure.$4",
+            "Fri8": "Watching the sunset with Leah is one of my favorite things in this world.$4",
+            "Sat8": "Meeting Leah has led to a major change in my life.$0#$b#Before, I used to despise rural life, but now I wouldn't move for anything in the world.$1#$e#Plus, Lainey loves living here.$1",
+            "Sun8": "I decided to stay here because Leah loves the valley and it's a great source of inspiration to her.$0#$b#But now I can't even imagine living elsewhere.$0#$e#I love living together in our cozy cabin.$4",
+            "spring_Mon8": "Emily told me that there's a new merchant in the desert.$0#$b#Maybe he sells unique works of art by foreign painters.$0#$e#Leah, Lainey and I should stop by one day.$0",
+            "spring_Thu8": "Leah's hair is super soft.$0#$b#I love to style it in different ways.$1",
+            "spring_Sat8": "I'm going to ask Leah to do a photo shoot on the beach.$0#$b#It's going to be so fun!$4#$e#And I'll also get to see Leah in a bikini...$4",
+            "summer_Wed8": "Lainey and I are going to get some ice cream later, it's her favorite.$0#$b#You should come too, @.$1",
+            "summer_Fri8": "Hi, @.$0#$b#I'm going to ask Leah to go to the beach with me later, when there's no one else.$4",
+            "summer_Sat8": "Robin really helped us making the reforms to Leah's cabin.$0#$b#It's now perfect for our little family.$1",
+            "fall_Mon8": "Emily is teaching me how to knit.$0#$b#I want to make a scarf for Leah and Lainey for the winter.$1",
+            "fall_Fri8": "Alex and I are good friends, that's why people used to say we were dating.$0#$b#But he's just a friend, he was so happy to hear Leah and I were going to have a child.$1",
+            "fall_Sun8": "I miss summer and going to the beach with Leah and Lainey...$2",
+            "winter_Tue8": "Hi, @.$1#$e#Don't tell Leah, but I've been saving money to buy a Lupini painting for her at the Night Market.$1#$b#She's going to love it!$1",
+            "winter_Thu8": "I'm looking forward to another wonderful year with Leah and Lainey.$4#$e#I feel like I'm a much better version of my past self now, thanks to them.$1",
+            "winter_Sat8": "Our little cabin has a fireplace.$0#$b#I love to sit in front of it and cuddle with Leah.$4",
+            "summer_20_2": "Leah and I have been preparing the best birthday party ever for our little Lainey.$1",
+            "summer_27_2": "I usually would take tons of picture at the Dance of the Moonlight Jellies tomorrow, but I think this time I will just enjoy the moment with Leah.$0",
+            "winter_23_2": "Today's a very special day, it's Leah's birthday!$1#$b#I have prepared a surprise birthday party for her.$1",
+            "winter_24_2": "Hi, @.$0#$e#The Feast of the Winter Star makes me feel really close to this community, we're like a big happy family.$1#$e#It was good talking to you, I have to leave now and prepare the gifts for Leah and Lainey.$1"
+      },
+    }
+  ]
+}

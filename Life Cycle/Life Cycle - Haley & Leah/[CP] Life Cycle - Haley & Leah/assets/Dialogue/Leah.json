@@ -1,0 +1,32 @@
+{
+   "Changes": [
+  {
+    "Action": "EditData",
+    "Target": "Characters/Dialogue/Leah",
+    "Entries": {
+            "Mon8": "I'd love to draw a portrait of Haley sometime.$0#$e#She'd be the most beautiful model ever.$4",
+            "Tue8": "Hi, @.$1#$e#You know, it’s thanks to you and Haley that I was able to come this far with my art.$0#$e#You should come over and have dinner with us sometime, @.$1",
+            "Wed8": "Hey, @.$0#$e#You know, I'd never move back to the city even though it was difficult to leave everything behind.$0#$b#I love living in the valley, and now that Haley and I are married, I have so many plans for us for the future.$1",
+            "Thu8": "I've realised that when I moved here, I wasn't really trying to make new friends because I was still processing all the changes.$0#$b#But, now, I have made some really good friends and have a beautiful wife.$1",
+            "Fri8": "I was afraid that I was rushing too much with Haley...$2#$b#You know that my previous relationship ended pretty badly and I had no plans to be with anybody when I moved here.$2#$b#But then Haley came and ruined my plans.$0#$e#I'm glad she did, I love her so much.$4#$b#I still can't believe she's my wife.$4",
+            "Sat8": "My career as an artist was not going very well when I first moved here...$2#$e#Fortunately, Haley has always believed in me.$0#$b#She is really supportive.$1",
+            "Sun8": "I usually see Jas playing near my house.$0#$b#It got me thinking about if Haley'd like to have kids anytime soon...$0#$b#You know, we've been living together for a while and I can't wait to take the next step.$4",
+            "spring_Mon8": "Hey, @.$1#$e#Haley and I have thought about putting on a joint exhibition.$1#$e#You know, we'd display my sculptures and paintings along with Haley's photographs.$0",
+            "spring_Thu8": "Oh, hey, @.$1#$e#Haley wanted me to help her developing some photos.$0#$e#Since we're living together now, we have dinner with Emily when she has to develop photos.$1",
+            "spring_Sat8": "An old friend of mine from Zuzu City has told me that he's going to present his first art exhibition next month.$1#$b#I'm going with Haley, I think we're visiting my parents while we're there.$1#$b#They adore her.$1",
+            "summer_Wed8": "Haley absolutely loves summer.$0#$b#As soon as we wake up she asks me to go sunbathing with her.$1",
+            "summer_Fri8": "On summer days Haley and I love to go for a swim.$1#$b#We usually go to the beach, but actually the river could also be a good option.$1",
+            "summer_Sat8": "I should take my watercolors with me the next time I go to the beach.$0#$b#I'd like to do some quick sketches of Haley.$1",
+            "fall_Mon8": "I used to have terrible artistic blocks...$2#$e#But it's better now that I live with Haley, she's my biggest inspiration.$4",
+            "fall_Fri8": "I love walking in the forest with Haley in the fall.$0#$b#The breeze is very pleasant and Haley enjoys taking pictures of the river.$1",
+            "fall_Sun8": "Hey, @!$1#$e#I bought some wine from Pierre's for the dinner I'm preparing for Haley.$1",
+            "winter_Tue8": "I'm glad Haley moved in.$0#$b#This way we can cuddle on cold days like this.$4",
+            "winter_Thu8": "Haley doesn't like winter much, so I try to spend more time with her at home these days.$0",
+            "winter_Sat8": "This year has been the best in my life so far. Seeing how my art reaches more people, being married to Haley, having a good relationship with the other townsfolk... What's not to like?$0",
+            "spring_14_2": "I've spent the last month painting a picture for Haley's birthday.$0#$b#It's titled 'My Sunflower'.$4",
+            "summer_10_2": "Haley is going to bring her camera to the Luau, she's really excited.$1",
+            "fall_28_2": "Seeing Vincent and Jas having fun at the Spirit's Eve yesterday made me think about having kids.$0#$e#I wonder if Haley has thought about it too...$4"
+      },
+    }
+  ]
+}
