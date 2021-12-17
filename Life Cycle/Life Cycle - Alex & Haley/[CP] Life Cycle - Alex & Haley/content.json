@@ -23,8 +23,8 @@
 	"HasSeenEvent": "59020026"
 		},
 "Entries": {
-            "Wed2": "Haley might seem rude at first, but she's a great person once you get to know her.$0",
-            "Thu2": "Lately things haven't gone well for me...$2#$e#I'm glad Haley knows how to cheer me up...$2"
+            "Wed2": "ถึงตอนแรกๆ เฮลีย์จะปากร้ายนะ แต่ถ้าได้รู้จัก เธอเป็นคนที่ดีมากนะ$0",
+            "Thu2": "ช่วงนี้ ไม่มีอะไรดี สำหรับฉันเลย...$2#$e#ฉํนดีใจจัง ที่เฮลีย์รู้วิธี ที่ทำให้ฉันรู้สึกดีขึ้นได้...$2"
 			}
 },
 {
@@ -35,8 +35,8 @@
 	"HasSeenEvent": "59020026"
 		},
 "Entries": {
-            "Mon2": "I don't like Alex feeling blue...$2",
-            "Sat2": "I have the perfect idea to cheer Alex up.$1"
+            "Mon2": "ฉันไม่อยากให้อเล็กซ์เศร้าเลย...$2",
+            "Sat2": "ฉันนึกวิธีเด็ดๆ ที่จะทำให้อเล็กซ์ร่าเริงขึ้น$1"
 			}
 },
 //Alex and Haley dialogue | 4 hearts event
@@ -48,9 +48,9 @@
 	"HasSeenEvent": "59020027"
 		},
 "Entries": {
-            "Wed4": "Haley's the best, she took me to a gridball game recently.$1",
-            "Fri4": "I've bought a bouquet of sunflowers for Haley.$0#$b#I want to thank her for being such a good friend.$1",
-            "Sun4": "Haley likes romantic movies, right?$0#$b#I'm thinking of inviting her over.$1"
+            "Wed4": "เฮลีย์เจ๋งที่สุด เธอพาฉันไปดูกริดบอล เมื่อไม่นานมานี้ด้วยล่ะ$1",
+            "Fri4": "ฉันซื้อช่อดอกทานตะวัน ให้เฮลีย์น่ะ$0#$b#ฉันอยากจะขอบคุณ ที่เธอเป็นเพื่อนที่ดีมาก$1",
+            "Sun4": "เฮลีย์ชอบหนังโรแมนติก ใช่ป้ะ?$0#$b#ฉันว่าจะลองชวนเธอดูหนัง$1"
 			}
 },
 {
@@ -61,9 +61,9 @@
 	"HasSeenEvent": "59020027"
 		},
 "Entries": {
-			"Tue4": "I used to despise sports, but actually they're so much fun.$1",
-            "Thu4": "Have you seen Alex?$0#$b#I wanted to hang out with him and maybe play some gridball.$1",
-            "Sun4": "I'm glad Alex seems happier these days.$0"
+			"Tue4": "ฉันเคยเกลียดพวกกีฬานะ แต่ที่จริงมันก็สนุกดี$1",
+            "Thu4": "เธอเห็นอเล็กซ์บ้างรึเปล่า?$0#$b#ฉันอยากจะไปเที่ยวหา เขาสักหน่อย และก็เล่นกริดบอลด้วยกัน$1",
+            "Sun4": "ฉันดีใจจัง ที่เห็นอเล็กซ์มีความสุข มากขึ้นแล้ว$0"
 			}
 },
 //Alex and Haley dialogue | 6 hearts event
@@ -75,10 +75,10 @@
 	"HasSeenEvent": "59020028"
 		},
 "Entries": {
-            "Mon6": "Don't you think Haley looks prettier these days?$4",
-            "Wed6": "My grandmother has been asking me when Haley will come to our house again.$0#$b#I'm glad she likes Haley so much.$1",
-            "Thu6": "I was going to buy tickets for a upcoming gridball game.$0#$b#You know, Haley has been interested in it lately.$0#$b#But they're already sold out.$2",
-            "Sun6": "I wonder what Haley's doing right now...$4"
+            "Mon6": "เธอคิดว่าช่วงนี้ เฮลีย์ดูน่ารักขึ้นป้ะ?$4",
+            "Wed6": "ยายถามฉันว่า เฮลีย์จะมาบ้านอีกทีเมื่อไหร่$0#$b#ฉันดีใจ ที่ยายชอบเฮลีย์นะ$1",
+            "Thu6": "ฉันคิดว่าจะซื้อตั๋ว ไปดูกริดบอล ที่กำลังจะแข่งเร็วๆ นี้$0#$b#เธอรู้เปล่า เฮลีย์เริ่มสนใจมันแล้วนะ$0#$b#แต่ตั๋วดันขายหมดเกลี้ยง$2",
+            "Sun6": "อยากรู้จัง ตอนนี้เฮลีย์กำลังทำอะไรอยู่...$4"
 			}
 },
 {
@@ -89,10 +89,10 @@
 	"HasSeenEvent": "59020028"
 		},
 "Entries": {
-			"Tue6": "Lately I've been been feeling really nervous around Alex...$2",
-            "Thu6": "Do you think dating a friend is a good idea?$0#$e#Oh, it's nothing, I was thinking about a movie I saw last night...$4",
-            "Sat6": "Alex's grandparents are really nice.$0#$b#Still, it's sad he never got to live with his parents...$2",
-            "Sun6": "I'm going to hang out with Alex today.$1#$b#Do I look good?$4"
+			"Tue6": "ช่วงนี้ ฉันรู้สึกประหม่าจัง เวลาอยู่ใกล้ๆ อเล็กซ์...$2",
+            "Thu6": "เธอคิดว่า การเป็นแฟนกับเพื่อน มันจะดีมั้ยอ่ะ?$0#$e#โอ้ ไม่มีอะไรหรอก ฉันแค่นึกถึง หนังที่ฉันดูเมื่อคืน...$4",
+            "Sat6": "คุณตาคุณยาย ของอเล็กซ์ใจดีมากเลย$0#$b#แต่ก็น่าเสียใจนะ ที่เขาไม่ได้อยู่กับพ่อแม่...$2",
+            "Sun6": "วันนี้ฉันจะไปหาอเล็กซ์ล่ะ$1#$b#ฉันดูดีรึยัง?$4"
 			}
 },
 //Dialogues | 8 hearts event
@@ -186,13 +186,13 @@
 	"HasSeenEvent": "59020029"
 		},
 "Entries": {
-            "Mon2": "I don't know if Haley will be able to have a serious relationship...$2",
-            "Mon8": "Haley used to be a judgy person.$2#$b#It was difficult to deal with her sometimes...$2#$b#But since she started dating Alex, she has come to be more understanding.$0#$e#Don't tell her, but I'm proud of her.$1",
-            "Tue4": "It surprises me to see Haley and Alex together.$3#$b#You know, I always thought they were just friends.$3",
-            "Tue8": "I'm happy Haley has Alex.$0#$b#It seems the universe has great plans for both of them.$1",
-            "Wed6": "Alex and Haley have always been good friends.$0#$b#I never thought they'd date, but they're cute together.$1",
-            "Wed8": "At first I wasn't sure, but now I clearly see that the souls of Haley and Alex were made to be together.$0",
-            "Thu2": "Haley and Alex, huh...?$3#$b#I'm not sure if that's what the universe wants...$3",
+            "Mon2": "ฉันก็ไม่รู้เหมือนกัน ว่าเฮลีย์จะมีความสัมพันธ์ จริงจังได้หรือเปล่า...$2",
+            "Mon8": "เฮลีย์เป็นคน ชอบติดสินคนอื่น$2#$b#เพราะงั้นบางครั้ง ก็ทำให้รับมือกับเธอ ได้ยากน่ะนะ...$2#$b#แต่หลังจากที่ เธอเป็นแฟนกับอเล็กซ์ เหมือนเธอจะเริ่ม มีเหตุผลมากขึ้น$0#$e#อย่าบอกเธอล่ะ ฉันภูมิใจในตัวเฮลีย์มาก$1",
+            "Tue4": "ฉันประหลาดใจมาก ที่เฮลีย์กับอเล็กซ์คบกัน$3#$b#ก็ใช่นะสิ ฉันคิดว่าพวกเขา เป็นแค่เพื่อนกันมาตลอด$3",
+            "Tue8": "ฉันดีใจที่เฮลีย์มีอเล็กซ์$0#$b#ดูเหมือนว่าจักรวาล มีแผนการใหญ่ สำหรับพวกเขาไว้อยู่นะ$1",
+            "Wed6": "อเล็กซ์กับเฮลีย์ เป็นเพื่อนที่ดีต่อกันเสมอมา$0#$b#ฉันไม่เคยคิดเลยว่า พวกเขาจะคบกัน แต่พวกเขาทั้งคู่ก็น่ารักนะ$1",
+            "Wed8": "แต่แรก ฉํนก็ไม่มั่นใจหรอกนะ แต่ตอนนี้ฉันรู้ชัดเลยว่า วิญญาณของเฮลีย์ กับอเล็กซ์ ถูกสร้างมาเพื่อคู่กัน$0",
+            "Thu2": "เฮลีย์กับอเล็กซ์นะหรอ...?$3#$b#I'm not sure if that's what the universe wants...$3",
             "Thu8": "Shane taught me how to get tickets for any event, including gridball games.$0#$b#That's why Haley always asks me to buy tickets for her and Alex.$1",
             "Fri6": "Yesterday Haley brought me some cookies.$0#$b#She said Evelyn baked them for her and Alex, but they couldn't eat them all.$0",
             "Fri8": "Haley and I don't always see eye to eye, but I'd really miss her if she moved with Alex.$2#$b#That's inevitable, isn't it?$0#$e#Well, I know they'll be happy together.$0",
@@ -211,13 +211,13 @@
 	"HasSeenEvent": "59020029"
 		},
 "Entries": {
-            "Mon6": "I know Alex and Haley are still young, but I already want some great-grandchildren.$1",
-            "Tue4": "I'm delighted Alex has found a girlfriend, he and Haley are perfect for each other.$1",
-            "Wed8": "Hello, dear.$0#$b#I'm baking some cookies for Alex and Haley today.$0#$b#You can also come over and have some.$1",
-            "Thu6": "I'm going to teach Haley some gardening, I think she'll enjoy it.$0",
-            "Fri10": "Hello, dear.$1#$e#My little Alex had a tough childhood...$2#$b#I'm very glad that he has found Haley.$1",
-            "Sat2": "I wish Haley could have dinner with us everyday, she makes the house so lively.$1",
-            "Sun10": "George doesn't show it much, but he's as glad as me that Alex is dating Haley.$1"
+            "Mon6": "ยายรู้ว่าอเล็กซ์กับเฮลีย์ ก็ยังเด็กอยู่ แต่ยายก็อยากมีเหลนแล้วน่ะ$1",
+            "Tue4": "ยายดีใจที่อเล็กซ์มีแฟนสักที เขากับเฮลีย์เหมาะกันมากๆ$1",
+            "Wed8": "สวัสดีจ้ะ ที่รัก$0#$b#วันนี้ยายอบคุกกี้ ให้อเล็กซ์กับเฮลีย์$0#$b#เธอก็แวะไปเอาด้วยสิจ๊ะ$1",
+            "Thu6": "ยายจะสอนเฮลีย์ปลูกดอกไม้ ยายว่าเธอน่าจะชอบนะ$0",
+            "Fri10": "สวัสดีจ้ะ ที่รัก$1#$e#อเล็กซ์ตัวน้อยของยาย มีช่วงเวลาที่โหดร้ายในวัยเด็ก...$2#$b#ยายดีใจ ที่เขาได้เจอกับเฮลีย์$1",
+            "Sat2": "ยายหวังว่าเฮลีย์ จะมาทานมื้อเย็นกับเรา ได้ทุกวัน เธอทำให้บ้านนี้ มีชีวิตชีวามาก$1",
+            "Sun10": "ถึงจอร์จจะไม่ค่อย ออกอาการเท่าไหร่ แต่เขาก็ดีใจพอๆ กับยายเลย ที่อเล็กซ์เป็นแฟนกับเฮลีย์$1"
 			}
 },
      //George
@@ -229,13 +229,13 @@
 	"HasSeenEvent": "59020029"
 		},
 "Entries": {
-            "Mon2": "Evelyn has been baking cookies more often.$0#$b#Haley really likes them, so that must be the reason.$0",
-            "Tue10": "Alex reminds me of Clara so much...$0#$e#She'd be so excited to see him with Haley.$0#$b#They're both great kids.$1",
-            "Wed8": "I wish I could play gridball with Alex and Haley.$2#$e#Well, I can always watch them from afar.$0",
-            "Thu10": "My daughter passed away some years ago...$2#$b#We're all broken, but Alex was the most affected...$2#$e#I thank Yoba every day he's now managing it well.$0#$b#Haley has helped him, too.$0",
-            "Fri8": "Haley told me I should be more positive...$0#$b#I'm trying, but it's not that easy.$0",
-            "Sat6": "Haley invited me to see a gridball game with her and Alex last week.$0#$b#I felt young again.$1",
-            "Sun4": "Tomorrow I have another doctor appointment...$0#$b#That's all you get when you're as old as me.$0#$e#Oh, but I think Haley and Alex offered to come with me.$0#$b#Then maybe it won't be that bad.$1",
+            "Mon2": "เอเวอร์ลินอบขนม บ่อยกว่าเดิมซะอีก$0#$b#เหตุผลคงจะเพราะว่า เฮลีย์ชอบกินสินะ$0",
+            "Tue10": "อเล็กซ ทำให้ฉันคิดถึงคลาร่ามาก...$0#$e#เธอคงจะตื่นเต้นน่าดู ถ้าได้เห็นอเล็กซ์กับเฮลีย์$0#$b#พวกเขาเป็นเด็กดี$1",
+            "Wed8": "ฉันก็อยากจะเล่นกริดบอล กับอเล็กซ์แล้วก็เฮลีย์$2#$e#ก็นะ ฉันก็ได้แต่ดูพวกเขา เล่นกันอยู่ห่างๆ$0",
+            "Thu10": "ลูกสาวฉัน ตายไปเมื่อหลายอีก่อนแล้ว...$2#$b#พวกเราใจสลาย แต่อเล็กซ์น่ะ น่าจะมากที่สุด...$2#$e#ฉันรู้สึกขอบคุณโยบะทุกวัน ตอนนี้เขาสามารถ ผ่านพ้นมันไปได้แล้ว$0#$b#เฮลีย์ก็ช่วยเขาไว้เยอะเลยเหมือนกัน$0",
+            "Fri8": "เฮลีย์บอกให้ฉัน คิดบวกเข้าไว้...$0#$b#ฉันก็พยายามอยู่ แต่มันไม่ง่ายน่ะสิ$0",
+            "Sat6": "เฮลีย์ชวนฉัน ไปดูการแข่วกริดบอล กับเธอและอเล็กซ์ เมื่อาทิตย์ที่แล้วด้วย$0#$b#ฉันรู้สึกเหมือนกลับมา เป็นหนุ่มอีกครั้งเลย$1",
+            "Sun4": "พรุ่งนี้ฉันมีนัดกับหมออีกแล้ว...$0#$b#เดี๋ยวเธอก็จะ เจอแบบเดียวกัน ตอนที่แก่เหมือนฉัน$0#$e#โอ้ แต่ฉันว่าเฮลีย์กับอเล็กซ์ อาสาจะพาฉันไปด้วย$0#$b#บางทีมันก็อาจจะ ไม่แย่มากนะ$1",
 			}
 },
 //Schedule Alex | 8 hearts event
@@ -247,14 +247,14 @@
 	"HasSeenEvent": "59020029"
 		},
 "Entries":  {
-            "spring.001": "I don't know much about photography, but your pictures are really pretty, Haley.$1",
-            "spring.002": "Would you like to play some gridball later, Haley?$1#$b#Or we can take some pictures, whatever you want.$1",
-            "summer.001": "Oh, Haley! I think I found a shell.$1#$b#Its color reminds me of your eyes.$4",
-            "summer.002": "Do you want some ice cream, Haley?$1",
-            "fall.001": "My grandma asked if you'll be coming over to have dinner today, Haley.$0#$b#She loves you so much.$1",
-            "fall.002": "Haley, you look beautiful today...$4",
-            "winter.001": "I want to see your photos, Haley.$1",
-            "winter.002": "You're always welcome in our house, Haley.$1"
+            "spring.001": "ฉันไม่ค่อยรู้เรื่อง การถ่ายภาพเท่าไหร่อ่ะนะ แต่ว่ารูปที่ถ่ายเธอ สวยมากเลย เฮลีย์$1",
+            "spring.002": "เธออยากจะกริดบอล หลังจากนี้ด้วยมั้ย เฮลีย์?$1#$b#หรือเราจะถ่ายรูป หรืออะไรก็ได้ที่เธออยากทำ$1",
+            "summer.001": "โอ้ เฮลีย์! ฉันว่าฉันเจอเปลือกหอยด้วย$1#$b#สีของมัน ทำให้ฉันนึกถึง ดวงตาของเธอเลย.$4",
+            "summer.002": "เธออยากกินไอติมหน่อยมั้ย เฮลีย์?$1",
+            "fall.001": "คุณยายถามว่า เธอจะไปกินมื้อเย็น ที่บ้านของฉันวันนี้มั้ย เฮลีย์$0#$b#ยายรักเธอมากเลย$1",
+            "fall.002": "เฮลีย์ วันนี้เธอสวยจัง...$4",
+            "winter.001": "ฉันอยากดูรูปที่เธอถ่าย เฮลีย์$1",
+            "winter.002": "บ้านเราต้อนรับเธอเสมอ เฮลีย์$1"
             },
 },
 {
@@ -283,14 +283,14 @@
 	"HasSeenEvent": "59020029"
 		},
 "Entries":  {
-            "spring.001": "Alex, say cheese!$1",
-            "spring.002": "I love summer, but the beach is too crowded.$0#$b#So spring is the perfect season to be alone with Alex...$4",
-            "summer.001": "Come here, Alex. Let me apply some sunscreen on your neck.$0",
-            "summer.002": "Your ice cream is the best, Alex.$1",
-            "fall.001": "Your grandma is the best cook in town.$1",
-            "fall.002": "Alex, let's take a photo together.$1",
-            "winter.001": "I want to show you my dark room, Alex.$4",
-            "winter.002": "Your grandma's cookies are the best.$0#$b#I should ask her for the recipe and try to bake some myself.$1"
+            "spring.001": "อเล็กซ์ พูดคำว่า ชีสสส!$1",
+            "spring.002": "ฉันชอบฤดูร้อนนะ แต่ชายหาดคนเยอะมาก$0#$b#เพราะงั้น ฤดูใบไม้ผลิ ก็เลยเหมาะกับการอยู่ 2 ต่อ 2 กับอเล็กซ์...$4",
+            "summer.001": "มานี่สิ อเล็กซ์ เดี๋ยวฉันทาครีมกันแดด ตรงคอให้นะ$0",
+            "summer.002": "ไอติมของเธอ อร่อยที่สุดเลย อเล็กซ์$1",
+            "fall.001": "คุณยายของเธอ ทำอาหารอร่อยที่สุด ในเมืองแล้ว$1",
+            "fall.002": "อเล็กซ์ มาถ่ายรูปด้วยกันเถอะ$1",
+            "winter.001": "ฉันจะพาเธอไปดูห้องมืดนะ อเล็กซ์$4",
+            "winter.002": "คุ๊กกี้ของคุณยาย อร่อยที่สุด$0#$b#ฉันจะลองขอสูตร แล้วหัดอบเองดูบ้าง$1"
             },
 },
 {
@@ -340,7 +340,7 @@
 "Action": "EditData",
 "Target": "Data/Events/Beach",
 "Entries": {
-            "59020029/e 59020028/f Alex 2000/f Haley 2000/o Alex/o Haley/z spring/z fall/z winter/w sunny/t 1100 1300": "summer3/18 11/Haley 16 10 2 Alex 20 11 2 farmer 1000 1000 2/skippable/pause 1800/speak Haley \"ดีใจจัง ในที่สุดฤดูร้อนก็มาถึงแล้ว ตอนนี้เราอยู่ที่ทะเล ได้ทั้งวันเลย$1\"/pause 800/speak Alex \"ช่าย ฤดูร้อนนี่ ดีที่สุด$1\"/pause 650/speak Alex \"แล้วฉันก็ยังมีเพื่อนดีๆ ตรงนี้ด้วย...$4\"/pause 720/speak Haley \"...$4\"/pause 1000/faceDirection Haley 1/pause 500/speak Haley \"นี่... อเล็กซ์...$0#$b#เธอจะรังเกียจมั้ย ถ้าจะช่วยทาครีมกันแดด ที่หลังให้ฉันหน่อย?$4\"/pause 680/speak Haley \"ธ-เธอก็รู้ ผิวฉันบางมาก แล้วฉันก็ไม่อยากผิวไหม้น่ะ...$4\"/pause 800/faceDirection Alex 3/pause 500/speak Alex \"ได้เลย ไม่มีปัญหา$1\"/pause 800/move Alex -3 0 0/move Alex 0 -1 3/pause 800/faceDirection Haley 3/pause 600/playSound hitEnemy/playSound hitEnemy/pause 380/showFrame Alex 13/pause 1000/speak Alex \"น่าจะทั่วแล้วนะ...$4\"/pause 580/showFrame Alex 12/pause 750/faceDirection Haley 1/pause 750/speak Haley \"ขอบคุณ...$4\"/pause 850/emote Alex 60/pause 1000/playMusic musicboxsong/pause 800/speak Alex \"เฮลีย์ ฉัน...$4\"/pause 500/showFrame Haley 28/pause 80/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 120/emote Alex 16/pause 180/animate Alex true true 100 42/pause 80/positionOffset Alex -2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 850/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/stopAnimation Alex/showFrame Alex 12/showFrame Haley 4/pause 650/speak Alex \"แบบว่า...$4\"/pause 280/speak Haley \"...นี่ดีเกินกว่าที่จะ เป็นเรื่องจริงเลย$4\"/pause 650/speak Alex \"อื้ม...$4\"/pause 1000/speak Alex \"ฉันไม่อยากจะเร่งรัดอะไรนะ แต่ว่าในหัวของฉัน มีแต่เธอวันเวียนตลอด เฮลีย์$4\"/pause 900/speak Alex \"จนในที่สุด ฉันก็รู้สึกตัว ว่าเธอสำคัญกับ ฉันขนาดไหน$4\"/pause 600/speak Alex \"You're beautiful, kind and always there for me.$4#$b#Plus, my grandparents adore you.$1\"/pause 800/speak Alex \"What I mean is...$4#$b#...Haley, I like you much more than a friend.$4\"/pause 500/emote Haley 20/pause 600/speak Haley \"I like you too...$4#$b#I've liked you since forever, Alex...$4\"/pause 800/showFrame Haley 28/animate Alex true true 100 42/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 100/specificTemporarySprite heart 17 10/pause 1650/end dialogue Haley \"I never thought this would happen...$4\""
+            "59020029/e 59020028/f Alex 2000/f Haley 2000/o Alex/o Haley/z spring/z fall/z winter/w sunny/t 1100 1300": "summer3/18 11/Haley 16 10 2 Alex 20 11 2 farmer 1000 1000 2/skippable/pause 1800/speak Haley \"ดีใจจัง ในที่สุดฤดูร้อนก็มาถึงแล้ว ตอนนี้เราอยู่ที่ทะเล ได้ทั้งวันเลย$1\"/pause 800/speak Alex \"ช่าย ฤดูร้อนนี่ ดีที่สุด$1\"/pause 650/speak Alex \"แล้วฉันก็ยังมีเพื่อนดีๆ ตรงนี้ด้วย...$4\"/pause 720/speak Haley \"...$4\"/pause 1000/faceDirection Haley 1/pause 500/speak Haley \"นี่... อเล็กซ์...$0#$b#เธอจะรังเกียจมั้ย ถ้าจะช่วยทาครีมกันแดด ที่หลังให้ฉันหน่อย?$4\"/pause 680/speak Haley \"ธ-เธอก็รู้ ผิวฉันบางมาก แล้วฉันก็ไม่อยากผิวไหม้น่ะ...$4\"/pause 800/faceDirection Alex 3/pause 500/speak Alex \"ได้เลย ไม่มีปัญหา$1\"/pause 800/move Alex -3 0 0/move Alex 0 -1 3/pause 800/faceDirection Haley 3/pause 600/playSound hitEnemy/playSound hitEnemy/pause 380/showFrame Alex 13/pause 1000/speak Alex \"น่าจะทั่วแล้วนะ...$4\"/pause 580/showFrame Alex 12/pause 750/faceDirection Haley 1/pause 750/speak Haley \"ขอบคุณ...$4\"/pause 850/emote Alex 60/pause 1000/playMusic musicboxsong/pause 800/speak Alex \"เฮลีย์ ฉัน...$4\"/pause 500/showFrame Haley 28/pause 80/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 120/emote Alex 16/pause 180/animate Alex true true 100 42/pause 80/positionOffset Alex -2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 850/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/positionOffset Haley -2 0/pause 50/positionOffset Alex 2 0/pause 50/stopAnimation Alex/showFrame Alex 12/showFrame Haley 4/pause 650/speak Alex \"แบบว่า...$4\"/pause 280/speak Haley \"...นี่ดีเกินกว่าที่จะ เป็นเรื่องจริงเลย$4\"/pause 650/speak Alex \"อื้ม...$4\"/pause 1000/speak Alex \"ฉันไม่อยากจะเร่งรัดอะไรนะ แต่ว่าในหัวของฉัน มีแต่เธอวันเวียนตลอด เฮลีย์$4\"/pause 900/speak Alex \"จนในที่สุดฉันก็รู้สึกตัว ว่าเธอสำคัญกับฉัน ขนาดไหน$4\"/pause 600/speak Alex \"เธอทั้งสวย แสนดี และอยู่เคียงข้างฉันเสมอ$4#$b#อีกอย่าง คุณตาคุณยายของฉัน ก็ชอบเธอมาก$1\"/pause 800/speak Alex \"ที่ฉันจะบอกก็คือ...$4#$b#...เฮลีย์ ฉันชอบเธอนะ มากกว่าแบบเพื่อน$4\"/pause 500/emote Haley 20/pause 600/speak Haley \"ฉันก็ชอบเธอเหมือนกัน...$4#$b#ฉันชอบเธอมาตลอด อเล็กซ์...$4\"/pause 800/showFrame Haley 28/animate Alex true true 100 42/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Alex -2 0/pause 100/specificTemporarySprite heart 17 10/pause 1650/end dialogue Haley \"ฉันไม่คิดเลย ว่ามันจะเกิดขึ้นจริงๆ...$4\""
             },
       },
    ]
