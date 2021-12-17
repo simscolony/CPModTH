@@ -4,8 +4,8 @@
     "Action": "EditData",
     "Target": "Data/NPCDispositions",
     "Entries": {
-        "Leah": "adult/polite/neutral/positive/female/not-datable/Elliott/Town/winter 23/Haley 'wife'/LeahHouse 6 18/Leah",
-        "Haley": "adult/rude/outgoing/neutral/female/not-datable/Alex/Town/spring 14/Emily 'sister' Leah 'wife'/LeahHouse 5 18/Haley"
+        "Leah": "adult/polite/neutral/positive/female/not-datable/Elliott/Town/winter 23/Haley 'ภรรยา'/LeahHouse 6 18/Leah",
+        "Haley": "adult/rude/outgoing/neutral/female/not-datable/Alex/Town/spring 14/Emily 'พี่สาว' Leah 'ภรรยา'/LeahHouse 5 18/Haley"
       }
     }
   ]
