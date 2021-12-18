@@ -609,7 +609,7 @@
             "Sat8": "เฮลีย์เปลี่ยนไปมาก ตั้งแต่เริ่มเป็นแฟนกับลีอา อย่างกับเธอ กลายเป็นคนละคน$0#$e#ตอนแรกฉันคิดว่า คงจะเป็นแค่ผลชั่วคราว ของคนที่กำลังมีความรัก แต่มันไม่ใช่เลย$0#$b#ฉันดีใจจริงๆ ที่ฉันสามารถบอกเธอ ได้เต็มปากเลยว่า ฉันภูมิใจมาก ที่เธอเป็นแบบตอนนี้"
 			}
 },
-    
+
         //      F   A   M   I   L   Y       V   E   R   S   I   O   N
 
 //Event that changes LeahHouse.tbin, only used for condition
@@ -636,7 +636,7 @@
     "HasSeenEvent": "59020035"
         }
 },
-    
+
     //Sprites
 {
 "LogName": "Haley and Leah portraits",
@@ -683,7 +683,7 @@
     "HaveChildren": "true",
     "HasSeenEvent": "59020035"
         },
-"Entries": { 
+"Entries": {
     "Lainey": "child/neutral/outgoing/positive/female/not-datable/null/Town/summer 20/Leah 'แม่' Haley 'แม่จ๋า' Emily 'ป้า'/LeahHouse 18 18/Lainey"
            }
 },
@@ -693,8 +693,8 @@
             //Like: Fruit Salad, Poppyseed Muffin, Cranberries, Honey
             //Dislikes: Strange Bun, Sashimi, Autumn's Bounty
             //Hates: Coconut, Green Algae, Maki Roll, Garlic
-  
-{		
+
+{
 "LogName": "Haley and Leah child gift tastes",
 "Action": "EditData",
 "Target": "Data/NPCGiftTastes",
@@ -708,7 +708,7 @@
            }
 },
     //Rainy Day Dialogue
-{	
+{
 "LogName": "Haley and Leah child rainy dialogue",
 "Action": "EditData",
 "Target": "Characters/Dialogue/rainy",
@@ -749,10 +749,10 @@
     "HasSeenEvent": "59020035"
         },
 },
-    
+
 //Schedules
     //Leah
-{ 
+{
  "Action": "Include",
  "FromFile": "assets/Schedule/Leah.json",
  "When": {
@@ -761,7 +761,7 @@
 		},
 },
     //Haley
-{ 
+{
  "Action": "Include",
  "FromFile": "assets/Schedule/Haley.json",
  "When": {
@@ -782,7 +782,7 @@
             "fall_6": "900 HaleyHouse 16 5 2/1000 SeedShop 27 16 2/1300 SeedShop 26 19 2 emily_exercise/1600 LeahHouse 16 8 1 \"Strings\\schedules\\Emily:familydinner.001\"/2230 HaleyHouse 21 4 1 emily_sleep",
             "winter_6": "900 HaleyHouse 16 5 2/1000 SeedShop 27 16 2/1300 SeedShop 26 19 2 emily_exercise/1600 LeahHouse 16 8 1 \"Strings\\schedules\\Emily:familydinner.001\"/2230 HaleyHouse 21 4 1 emily_sleep"
             },
-}, 
+},
 //Schedule strings
     //Haley
         //No children
@@ -803,7 +803,7 @@
             "fall.002": "ฉันกำลังถ่ายรูป เพื่อทำอัลบัมภาพถ่าย ให้ลีอาอยู่$1",
             "winter.001": "เมื่อก่อน ฉันไม่ค่อยจะทำอะไร ในช่วงฤดูหนาว และมันก็น่าเบื่อสุดๆ$0#$b#ตอนนี้ฉันว่ามีดีมาก ที่จะได้ไปาหาลีอา เมื่อไหร่ก็ได้เมื่ออยากจะไป",
             "winter.002": "มันคงยากถ้าจะอยู่เฉยๆ แบบนี้ต่อไป...$2#$b#ฉันจะทำเต็มที่เพื่อลีอา$4",
-            "familydinner.001": "ฉันชอบการที่เรา ได้ทานมื้อค่ำด้วยกันแบบนี้$1
+            "familydinner.001": "ฉันชอบการที่เรา ได้ทานมื้อค่ำด้วยกันแบบนี้$1"
             },
 },
         //Yes children
@@ -896,7 +896,7 @@
 
 //Dialogues
     //Leah no child
-{ 
+{
  "Action": "Include",
  "FromFile": "assets/Dialogue/Leah.json",
  "When": {
@@ -906,7 +906,7 @@
         }
 },
     //Leah yes child
-{ 
+{
  "Action": "Include",
  "FromFile": "assets/Dialogue/LeahChild.json",
  "When": {
@@ -916,7 +916,7 @@
         }
 },
     //Haley no child
-{ 
+{
  "Action": "Include",
  "FromFile": "assets/Dialogue/Haley.json",
  "When": {
@@ -926,7 +926,7 @@
 		},
 },
     //Haley yes child
-{ 
+{
  "Action": "Include",
  "FromFile": "assets/Dialogue/HaleyChild.json",
  "When": {
@@ -934,7 +934,7 @@
     "HasSeenEvent": "59020035",
     "HaveChildren": "true"
 		},
-},  
+},
     //Emily
         //No children
 {
@@ -972,7 +972,7 @@
 },
 
 //NPC Dispositions
-{    
+{
  "Action": "Include",
  "FromFile": "assets/Data/NPCDispositions.json",
  "When": {
@@ -980,12 +980,12 @@
     "HasSeenEvent": "59020035"
 		},
 },
-    
+
 //Map strings
 {
  "Action": "EditData",
  "Target": "Strings/StringsFromMaps",
- "Entries": {	
+ "Entries": {
             "HaleyLeah1": "'สูตรการผสมสีน้ำมัน & สีอะคริลิค'",
             "HaleyLeah2": "มีแพนเค้กวางอยู่",
             "HaleyLeah3": "'หาสไตล์ของคุณ: การแปลงร่างภาพถ่ายของคุณ",
