@@ -79,7 +79,7 @@
             "When": {
                 "Billboard": true,
                 "Language": "th",
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, Lita.StarblueValley, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.TransparentBlueInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
             }
         },
 
@@ -91,7 +91,7 @@
             "When": {
                 "JojaCDForm": true,
                 "Language": "th",
-                "HasMod |contains=IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface": false
+                "HasMod |contains=IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface": false
             }
         },
 
@@ -115,7 +115,7 @@
             "When": {
                 "TitleButtons": true,
                 "Language": "th",
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, SabiMiyato.UImodTH, SabiMiyato.UIJollyRainbow, IYAHO.PinkDustInterface, IYAHO.PinkBlueInterface, Lita.StarblueValley, megmom84.darkwoodinterface, BeneathThePlass.StarrySkyInterfaceCP, Maythorn.VintageInterfaceMultipack, ManaKirel.VMI, ManaKirel.VintageInterface2, ninthalley.TransparentBlueInterface, TrixxedHeart.OmoValley": false
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.TransparentBlueInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
             }
         },
 
