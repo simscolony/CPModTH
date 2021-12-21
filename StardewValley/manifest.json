@@ -1,8 +1,8 @@
 {
     "Name": "Stardew Valley - THAI",
     "Author": "Translator Army x 'ELL",
-    "Version": "2.1.0-beta.20211205",
-    "MinimumApiVersion": "3.14.0",
+    "Version": "2.1.0-beta.20211221",
+    "MinimumApiVersion": "3.13.2",
     "Description": "Thai Language For Stardew Valley 1.5.5",
     "UniqueID": "TranslatorArmy.ModTH",
     "ContentPackFor": {
