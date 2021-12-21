@@ -34,7 +34,7 @@
                 "NPC.cs.3962": "อยากจะใช้เวลา กับผมให้ *มากขึ้น* กว่านี้อีกเหรอ? ทำไมคุณถึงคิดอย่างนั้นล่ะ?$s#$e#ไม่ ๆ ผ... ผมยังไม่ได้พูดสักหน่อย ว่าไม่ได้น่ะ$u",
                 "NPC.cs.3963": "อยากจะรู้จักผม ให้มากขึ้นกว่านี้งั้นเหรอ? ...กลัวว่าคุณจะชอบผม น้อยลงน่ะสิถ้าเกิด รู้อะไร ๆ มากไปกว่านี้$u#$e#แต่ผมก็อยากจะรู้จัก *คุณ* ให้มากกว่านี้นะ ตลอดชีวิตก็ยอม$6",
                 "NPC.cs.3980": "...ผมไม่ได้ฝันไปใช่มั้ย? คุณอยากจะเป็น {{RelationshipLabel}} กับพวกขวางโลก อย่างผมเนี่ยนะ? ไม่ใช่ว่าผมจะทำให้ทุก ๆ อย่างแย่กว่าเดิมเหรอ...$10#$b#........$u#$b#รู้อะไรมั้ย? ถึงสักวันมันจะต้องจบลง ด้วยดีหรืออะไรก็ตาม... มาลองดูกันสักครั้ง ก็ไม่แย่ใช่มั้ยล่ะ$l#$b#ในหมู่บ้าน เราจะมีธรรมเนียม การจัดงานแต่งงาน ในรูปแบบเดียวกันเสมอ ผมจะเตรียมทุก ๆ อย่างให้พร้อมภายใน 3 วัน โอเคนะ?$n",
-                "NPC.cs.4001": "An old buddy from the JojaMart stockroom hooked me up with that fruit. He works for some rare goods merchant now.#$b#It’s to thank you for helping me, uh... How do I put this.$u#$b#Look, I know I put you in a terrible position that night on the cliffs, and I'm sorry. It's not your job to save me, or fix me.$s#$b#The thing is... when people used to tell me that they loved me, that I wasn’t worthless, I figured that was just because they didn’t know me as well as I knew myself.$s#$b#So the fact that, even after you’d seen everything about me I was so ashamed of, you still wanted me in your life...$u#$b#Well. It got the ball rolling. The rest is up to me.$6#$b#What I'm trying to say is... I love you, @. Thank you for being here.$l",
+                "NPC.cs.4001": "เคยมีเพื่อนเก่า จากร้านโจจ้า ชวนให้ผมลองชิม เจ้าผลไม้นั่นดูครั้งหนึ่ง เห็นว่าตอนนี้ไปทำงาน กับพ่อค้าขายของหายาก แล้วล่ะ#$b#ถือว่าเป็นการขอบคุณ ที่ช่วยผมละกันนะ เอ่อ... มันใส่ยังไงล่ะเนี่ย$u#$b#เอาล่ะ ขอโทษนะที่ทำให้ รู้สึกอึดอัดตอนที่อยู่ บนหน้าผาครั้งนั้นน่ะ เลยเผลอทำให้คุณ พลอยลำบากใจไปด้วย$s#$b#เรื่องของเรื่องก็คือ... เวลามีคนบอกรักผม หรือบอกว่าผมไม่ไร้ค่า ผมจะรู้สึกตลอดเวลาเลย ว่าที่พวกเขาพูดอย่างนั้น เพราะไม่รู้จักตัวผมดี เท่าที่ผมรู้จักตัวเอง$s#$b#แล้วความจริงที่ว่า คุณเห็นทุก ๆ ด้านของผมแล้ว แต่ก็ยังรักในสิ่งที่ผมเป็น$u#$b#นั่นแหละ มาทำให้ขาสองคู่นี้ ก้าวต่อไปด้วยกันดีกว่า$6#$b#อยากจะบอกกับคุณ มาตลอดเวลาเลย... รักคุณนะ, @ ขอบคุณที่อยู่ เคียงข้างผมมาตลอด$l",
                 "Event.cs.1736": "$q -1 null#ว้าว...#$r -1 0 danceAsk#(ชวนเชนมาเป็น คู่เต้นรำด้วยกัน)#$r -1 0 null#ไม่เป็นไรดีกว่า...",
             },
             "When":
@@ -51,7 +51,7 @@
                 "NPC.cs.3962": "อยากจะใช้เวลา กับผมให้ *มากขึ้น* กว่านี้อีกเหรอ? ทำไมคุณถึงคิดอย่างนั้นล่ะ?$s#$e#ไม่ ๆ ผ... ผมยังไม่ได้พูดสักหน่อย ว่าไม่ได้น่ะ$u",
                 "NPC.cs.3963": "อยากจะรู้จักผม ให้มากขึ้นกว่านี้งั้นเหรอ? ...กลัวว่าคุณจะชอบผม น้อยลงน่ะสิถ้าเกิด รู้อะไร ๆ มากไปกว่านี้$u#$e#แต่ผมก็อยากจะรู้จัก *คุณ* ให้มากกว่านี้นะ ตลอดชีวิตก็ยอม$6",
                 "NPC.cs.3980": "...ผมไม่ได้ฝันไปใช่มั้ย? คุณอยากจะเป็น {{RelationshipLabel}} กับพวกขวางโลก อย่างผมเนี่ยนะ? ไม่ใช่ว่าผมจะทำให้ทุก ๆ อย่างแย่กว่าเดิมเหรอ...$10#$b#........$u#$b#รู้อะไรมั้ย? ถึงสักวันมันจะต้องจบลง ด้วยดีหรืออะไรก็ตาม... มาลองดูกันสักครั้ง ก็ไม่แย่ใช่มั้ยล่ะ$6#$b#ในหมู่บ้าน เราจะมีธรรมเนียม การจัดงานแต่งงาน ในรูปแบบเดียวกันเสมอ ผมจะเตรียมทุก ๆ อย่างให้พร้อมภายใน 3 วัน โอเคนะ?$n",
-                "NPC.cs.4001": "An old buddy from the JojaMart stockroom hooked me up with that fruit. He works for some rare goods merchant now.#$b#It’s to thank you for helping me, uh... How do I put this.$u#$b#Look, I know I put you in a terrible position that night on the cliffs, and I'm sorry. It's not your job to save me, or fix me.$s#$b#The thing is... when people used to tell me that they loved me, that I wasn’t worthless, I figured that was just because they didn’t know me as well as I knew myself.$s#$b#So the fact that, even after you’d seen everything about me I was so ashamed of, you still wanted me in your life...$u#$b#Well. It got the ball rolling. The rest is up to me.$6#$b#What I'm trying to say is... I love you, @. Thank you for being here.",
+                "NPC.cs.4001": "เคยมีเพื่อนเก่า จากร้านโจจ้า ชวนให้ผมลองชิม เจ้าผลไม้นั่นดูครั้งหนึ่ง เห็นว่าตอนนี้ไปทำงาน กับพ่อค้าขายของหายาก แล้วล่ะ#$b#ถือว่าเป็นการขอบคุณ ที่ช่วยผมละกันนะ เอ่อ... มันใส่ยังไงล่ะเนี่ย$u#$b#เอาล่ะ ขอโทษนะที่ทำให้ รู้สึกอึดอัดตอนที่อยู่ บนหน้าผาครั้งนั้นน่ะ เลยเผลอทำให้คุณ พลอยลำบากใจไปด้วย$s#$b#เรื่องของเรื่องก็คือ... เวลามีคนบอกรักผม หรือบอกว่าผมไม่ไร้ค่า ผมจะรู้สึกตลอดเวลาเลย ว่าที่พวกเขาพูดอย่างนั้น เพราะไม่รู้จักตัวผมดี เท่าที่ผมรู้จักตัวเอง$s#$b#แล้วความจริงที่ว่า คุณเห็นทุก ๆ ด้านของผมแล้ว แต่ก็ยังรักในสิ่งที่ผมเป็น...$u#$b#นั่นแหละ มาทำให้ขาสองคู่นี้ ก้าวต่อไปด้วยกันดีกว่า$6#$b#อยากจะบอกกับคุณ มาตลอดเวลาเลย... รักคุณนะ, @ ขอบคุณที่อยู่ เคียงข้างผมมาตลอด",
                 "Event.cs.1736": "$q -1 null#ว้าว...#$r -1 0 danceAsk#(ชวนเชนมาเป็น คู่เต้นรำด้วยกัน)#$r -1 0 null#ไม่เป็นไรดีกว่า...",
             },
             "When":
@@ -158,14 +158,14 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_0": "Today's a good day. I have a lot more of those than I used to.$6",
-                "Good_1": "You're a better person than me, you know that? I'm glad you put up with me.$6",
-                "Neutral_2": "Why don't you tell me about your day later? I'm kind of busy right now...",
-                "Indoor_Day_3": "Is that tomato sauce on your chin? Someone's been nibbling on pizza rolls.",
-                "Indoor_Day_4": "I may keep to myself a lot, and I may seem unhappy sometimes... but I appreciate all the work you do. I'm lucky to have a friend like you.$l",
-                "Outdoor_4": "Hey, @. I went for a morning walk around the farm before you got up. Everything looks fine.",
-                "Bad_8": "Yeah... *hic* ... Sure, pal. Whatever you say... *hic*",
-                "funReturn_Shane": "Phew, I'm all sweaty... That was quite a walk... Buh, I'm out of shape.$6",
+                "Good_0": "ถือว่าเป็นวัน ที่ดีเลยนะเนี่ย ผมมีเรื่องต้องทำเยอะเลย$6",
+                "Good_1": "คุณเป็นคนดีกว่าผม โขเลยนะรู้ใช่มั้ย? ขอบคุณนะ ที่อดทนกับผมมาตลอด$6",
+                "Neutral_2": "ไว้ค่อยคุยกันทีหลัง ดีมั้ย? ผมแอบ ๆ ยุ่งอยู่น่ะ โทษที...",
+                "Indoor_Day_3": "บนคางคุณนั่น ใช่ซอสมะเขือเทศ หรือเปล่า? ดูเหมือนจะมีใคร ตั้งใจกินมากกว่า ผมอีกนะเนี่ย",
+                "Indoor_Day_4": "ถึงผมจะชอบเก็บตัว ทำสีหน้าอมทุกข์ อยู่ตลอดเวลาเถอะนะ... แต่ซาบซึ้งกับทุกอย่างที่ คุณทำให้เสมอเลยนะ ผมโชคดีที่มีเพื่อน อย่างคุณมาก ๆ เลย$l",
+                "Outdoor_4": "ว่าไง @ ผมเพิ่งไปเดินเล่น รอบ ๆ ฟาร์มมาตอนคุณยัง ไม่ตื่นมาน่ะ ทุกอย่างโอเคดีเลย",
+                "Bad_8": "ใช่... *อึก* ... นั่นแหละเพื่อน ก็อย่างที่บอกไป... *อึก*",
+                "funReturn_Shane": "ฟิ้ว เหนื่อยจังเลย... เดินเหนื่อยน่าดูเลยนะเนี่ย หมดสภาพแล้ว$6",
             },
             "When":
             {
@@ -179,13 +179,13 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_0": "Today's a good day. I have a lot more of those than I used to.$6",
-                "Good_1": "You're a better person than me, you know that? I'm glad you put up with me.$6",
-                "Neutral_2": "Why don't you tell me about your day later? I'm kind of busy right now...",
-                "Indoor_Day_3": "Is that tomato sauce on your chin? Someone's been nibbling on pizza rolls.",
-                "Indoor_Day_4": "I may keep to myself a lot, and I may seem unhappy sometimes... but I appreciate all the work you do. I'm lucky to have a friend like you.$6",
-                "Outdoor_4": "Hey, @. I went for a morning walk around the farm before you got up. Everything looks fine.",
-                "Bad_8": "Yeah... *hic* ... Sure, pal. Whatever you say... *hic*",
+                "Good_0": "ถือว่าเป็นวัน ที่ดีเลยนะเนี่ย ผมมีเรื่องต้องทำเยอะเลย$6",
+                "Good_1": "คุณเป็นคนดีกว่าผม โขเลยนะรู้ใช่มั้ย? ขอบคุณนะ ที่อดทนกับผมมาตลอด$6",
+                "Neutral_2": "ไว้ค่อยคุยกันทีหลัง ดีมั้ย? ผมแอบ ๆ ยุ่งอยู่น่ะ โทษที...",
+                "Indoor_Day_3": "บนคางคุณนั่น ใช่ซอสมะเขือเทศ หรือเปล่า? ดูเหมือนจะมีใคร ตั้งใจกินมากกว่า ผมอีกนะเนี่ย",
+                "Indoor_Day_4": "ถึงผมจะชอบเก็บตัว ทำสีหน้าอมทุกข์ อยู่ตลอดเวลาเถอะนะ... แต่ซาบซึ้งกับทุกอย่างที่ คุณทำให้เสมอเลยนะ ผมโชคดีที่มีเพื่อน อย่างคุณมาก ๆ เลย$6",
+                "Outdoor_4": "ว่าไง @ ผมเพิ่งไปเดินเล่น รอบ ๆ ฟาร์มมาตอนคุณยัง ไม่ตื่นมาน่ะ ทุกอย่างโอเคดีเลย",
+                "Bad_8": "ใช่... *อึก* ... นั่นแหละเพื่อน ก็อย่างที่บอกไป... *อึก*",
             },
             "When":
             {
@@ -200,7 +200,7 @@
             "Entries":
             {
                 "Good_9": "Huh... You're wondering why I have this goofy grin on my face? I was just thinking about how my life turned out.$h#$b#I can't believe I went from that dead-end job at Joja to living on a farm with my best friend, a stone's throw from Jas and Marnie's place.$6#$e#I'm not always in a place to appreciate it, but... yeah. I'm glad I'm here.$l",
-                "Outdoor_0": "I didn't sleep well last night, so I'm hoping this fresh air will get the juices flowing.",
+                "Outdoor_0": "เมื่อคืนนอนไม่ค่อยเต็มอิ่ม สักเท่าไหร่ หวังว่าลมเย็น ๆ ยามเช้าพอจะช่วย ผมได้บ้างนะ",
             },
             "When":
             {
@@ -215,7 +215,7 @@
             "Entries":
             {
                 "Good_9": "Huh... You're wondering why I have this goofy grin on my face? I was just thinking about how my life turned out.$h#$b#I can't believe I went from that dead-end job at Joja to living on a farm with my best friend, a stone's throw from Jas and Marnie's place.$6#$e#I'm not always in a place to appreciate it, but... yeah. I'm glad I'm here.$6",
-                "Outdoor_0": "I didn't sleep well last night, so I'm hoping this fresh air will get the juices flowing.",
+                "Outdoor_0": "เมื่อคืนนอนไม่ค่อยเต็มอิ่ม สักเท่าไหร่ หวังว่าลมเย็น ๆ ยามเช้าพอจะช่วย ผมได้บ้างนะ",
             },
             "When":
             {
@@ -759,9 +759,9 @@
 			"Entries": {
 			//Love
 				//Food
-				"GiftReaction_Hot_Pepper": "See, this is why we're friends... heh, just kidding. Thanks, @!$h",
-				"GiftReaction_Pizza": "See, this is why we're friends... heh, just kidding. Thanks, @!$h",
-				"GiftReaction_Pepper_Poppers~1": "See, this is why we're friends... heh, just kidding. Thanks, @!$h",
+				"GiftReaction_Hot_Pepper": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ล้อเล่นน่า ขอบใจนะ @!$h",
+				"GiftReaction_Pizza": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ล้อเล่นน่า ขอบใจนะ @!$h",
+				"GiftReaction_Pepper_Poppers~1": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ล้อเล่นน่า ขอบใจนะ @!$h",
 			},
 			"When": {
 				"Hearts:Shane": "{{Range: 9, 14}}",
@@ -808,24 +808,24 @@
 				"GiftReaction_Prismatic_Shard": "Thanks, but you know you don't need to shower me in ridiculously expensive gems, right?$6#$b#I mean, I'm not complaining, but I'd be just as happy with a pizza or something.$6",
 				"GiftReaction_Pearl": "Thanks, but you know you don't need to shower me in ridiculously expensive gifts, right?$6#$b#I mean, I'm not complaining, but I'd be just as happy with a pizza or something.$6",
 				"GiftReaction_Golden_Pumpkin": "Huh... so this is what you get from finishing the hedge maze?#$b#Thanks.$6",
-				"GiftReaction_Magic_Rock_Candy": "This is just way too fancy to be real candy. Do rich people seriously eat this?#$b#I mean, I appreciate it. Thanks, @.$6",
-				"GiftReaction_Rabbit's_Foot": "Heh. I do look like I need some luck, don't I?#$b#Thanks, @.$6",
+				"GiftReaction_Magic_Rock_Candy": "เจ้านี่ดูแปลก ๆ เกินกว่าจะเป็นลูกกวาด จริง ๆ ได้นะเนี่ย คนรวย ๆ ชอบกินอะไรแบบนี้งั้นเหรอเนี่ย?#$b#หมายถึงว่า... ดีใจมากเลยน่ะ ขอบคุณนะ @.$6",
+				"GiftReaction_Rabbit's_Foot": "เห๋ หน้าผมดูเหมือนคนที่ ต้องการโชคขนาดนั้น เลยเหรอเนี่ย?#$b#ขอบคุณนะ @.$6",
 			//Like
 				//Eggs
-				"GiftReactionCategory_-5": "Oh hey, is this from your hens? Thanks, @.$6",
+				"GiftReactionCategory_-5": "อ๊ะได้มาจากเจ้าไก่ตัวน้อย ของคุณใช่มั้ยเนี่ย ขอบคุณนะ@.$6",
 				//Loved Ones
-				"GiftReaction_Pink_Cake": "Hey, this is Jas and Marnie's favorite. You mind if I share it with them?$6#$b#Thanks, @.",
-				"GiftReaction_Diamond": "Oh, is this a diamond? Marnie loves these.$6#$b#Is it okay if I pass this to her?$6",
-				"GiftReaction_Farmer's_Lunch": "Hey, I'm pretty sure Marnie loves this dish. Would you mind if I shared?$6",
-				"GiftReaction_Pumpkin_Pie": "Oh man, Marnie loves pumpkin pie. Hope you won't mind if she ends up eating most of this.$6",
-				"GiftReaction_Plum_Pudding": "Hey, is this plum pudding? Jas loves this stuff!$h#$b#I'm gonna share this with her, if you don't mind.$6",
-				"GiftReaction_Fairy_Rose": "Oh, thanks. I think I'll stick these in Jas's room or something. She just loves these.$6",
+				"GiftReaction_Pink_Cake": "ป้ามาร์นีกับแจส ชอบเค้กมาก ๆ เลยล่ะ จะเป็นอะไรมั้ย ถ้าขอไปแบ่งกิน ด้วยกันน่ะ?$6#$b#ขอบใจนะ @.",
+				"GiftReaction_Diamond": "อ๊ะ เพชรงั้นเหรอ? ป้ามาร์นีชอบมาก ๆ เลยรู้มั้ย$6#$b#จะเป็นอะไรมั้ย ถ้าขอเอาไปให้เธอต่อ?$6",
+				"GiftReaction_Farmer's_Lunch": "เฮ้ ผมรับประกันเลยว่า ป้ามาร์นีต้องชอบ อาหารจานนี้มากแน่ ๆ เลย ขอเอาไปแบ่ง กินกับเธอละกันนะ$6",
+				"GiftReaction_Pumpkin_Pie": "เฮ้พวก ป้ามาร์นีชอบพายฟักทอง หวังว่าคุณจะไม่โกรธนะ ถ้าขอเอาไปแบ่งกับเธอ$6",
+				"GiftReaction_Plum_Pudding": "เฮ้ นี่ใช่พุดดิ้งพลัม (Plum Pudding) หรือเปล่า? แจสชอบมันมากเลย!$h#$b#ขอเอาไปแบ่งให้แจส ด้วยได้มั้ย$6",
+				"GiftReaction_Fairy_Rose": "อ๊ะ ขอบใจมาก ขอเก็บไว้ในห้อง ของแจสละกันนะ เธอน่าจะรักมันเลยล่ะ$6",
 			//Dislike
-				"GiftReaction_Void_Egg": "Ugh... where did you even get this messed-up egg?$a",
+				"GiftReaction_Void_Egg": "อึก... ได้ไข่แบบนี้มาจากไหน กันเนี่ย ขอร้องเลยนะ$a",
 			//Hate
-				"GiftReaction_Preserved_Pickle": "...I hate pickles.$s",
-				"GiftReaction_Void_Mayonnaise": "Is this supposed to be mayonnaise? Why does it look...#$b#Ugh, why are you giving me your garbage?$a",
-				"GiftReaction_Poppy": "Ugh. Why?$s",
+				"GiftReaction_Preserved_Pickle": "...ผมเกลียดเจ้านี่$s",
+				"GiftReaction_Void_Mayonnaise": "นี่ใช่มายองเนส หรือเปล่าเนี่ย? ทำไมถึงดู...#$b#อึก เอาขยะของคุณ มาให้ผมทำไมกันเนี่ย?$a",
+				"GiftReaction_Poppy": "อึก ทำไมถึงเป็น เจ้าดอกไม้แบบนี้ล่ะ?$s",
 				//Booze
 				"GiftReaction_Beer": "ขอบคุณ แต่เก็บเอาไว้เถอะ @.$a",
 				"GiftReaction_Beer~1": "พระเจ้า คุณควรจะไปศึกษา หรือไปเรียนรู้อะไร ๆ ให้มากกว่านี้ ในการที่จะให้เจ้านี่กับผมนะ$s",
@@ -858,8 +858,8 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#และก็ไม่เคยมีความคิด ที่จะพัฒนาไปให้มากกว่านี้ ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคนเป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$l",
-                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติกไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$l",
+                "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#และก็ไม่เคยมีความคิด ที่จะพัฒนาไป ให้มากกว่านี้ ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคน เป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$l",
+                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติก ไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$l",
             },
             "When":
             {
@@ -872,8 +872,8 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#และก็ไม่เคยมีความคิด ที่จะพัฒนาไปให้มากกว่านี้ ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคนเป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$6",
-                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติกไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$6",
+                "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#และก็ไม่เคยมีความคิด ที่จะพัฒนาไป ให้มากกว่านี้ ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคนเป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$6",
+                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติก ไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$6",
                 "fall_Tue10": "มันแปลกที่ผมไม่เคยเบื่อ ที่จะได้เจอคุณบ่อย ๆ เลยสักครั้งเดียวนะ @.#$e#ไม่เคยมีอะไรแบบนี้ เกิดขึ้นมาก่อนเลย ยิ่งกับคนขี้เบื่อแบบผม$6",
             },
             "When":
@@ -1008,7 +1008,7 @@
 			"marriage_r": "ผมเคยเกลียดการที่ จะต้องอยู่ข้างนอกนาน ๆ#$b#มันทำให้ผมชอบนึกถึงแต่ เรื่องแย่ ๆ กับตัวเองเสมอ$s#$b#แต่ตอนนี้ไม่ต้องกลัว อีกต่อไปแล้วล่ะ$6",
 			"marriage_r2": "เหอะ... ชีวิตก็เป็นซะอย่างนี้ ใช่มั้ยล่ะ?$h#$b#...#$b#ขอถามได้มั้ย ว่าวันนี้อะไรต่อมิอะไร ใจดีกับคุณมากมั้ย?$6",
 			"marriage_r3": "เฮ้ ผมน่าจะคุยกับคุณ ได้สักแปปนึง#$b#ไม่ต้องพูดอะไร หรือทำอะไรให้ยุ่งยากหรอก แค่มีคุณอยู่ข้าง ๆ ก็เพียงพอแล้ว$6",
-            "marriage_r4": "%รอยยิ้มเจ้าเล่ห์ ปรากฏอยู่บนใบหน้าของเชน ดูเหมือนว่าจะมีความสุข กับอะไรสักอย่างอยู่#$b#เฮ้ @ พอดีผมกำลังนึกถึงเรื่องที่ แจสเคยพูดเมื่อวันก่อนน่ะ$6#$b#เธอเป็นเด็กตลก ฉลาด แถมยังเจ้าเล่ห์ด้วย$h",
+            "marriage_r4": "%รอยยิ้มเจ้าเล่ห์ ปรากฏอยู่บนใบหน้าของเชน ดูเหมือนว่าจะมีความสุข กับอะไรสักอย่างอยู่#$b#เฮ้ @ พอดีผมกำลังนึกถึงเรื่องที่ แจสเคยพูดขึ้นมา เมื่อวันก่อนน่ะ$6#$b#เธอเป็นเด็กตลก ฉลาด แถมยังเจ้าเล่ห์ด้วย$h",
             "marriage_r6": "%เชนมอบอ้อมกอด ที่แสนอบอุ่นให้คุณ#$b#ทำไมผมทำอย่างนี้น่ะเหรอ? ก็อยากทำยังไงล่ะ$6#$b#ใครจะไปรู้ ต่อจากนี้ผมอาจจะกอดคุณ บ่อยมากกว่านี้อีกนะ$h",
 		},
 		    "When": {
