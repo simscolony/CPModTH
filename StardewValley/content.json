@@ -146,9 +146,20 @@
         // Data
         {
             "Action": "Load",
-            "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/PaintData, Data/Quests, Data/SecretNotes, Data/weapons",
+            "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/PaintData, Data/Quests, Data/SecretNotes, Data/weapons",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
+        },
+
+        // load bundles data after junimo event
+        {
+            "Action": "Load",
+            "Target": "Data/Bundles",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "HasSeenEvent": "112"
+            }
         },
 
         // Concessions, Movies & MoviesReactions
