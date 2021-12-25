@@ -31,5 +31,7 @@
   "marriage.006": "ผมกำลังจะไปซาลูนแล้วล่ะครับ เจอกันที่นั่นนะครับ!$1",
   "marriage.007": "ผมตั้งตารอทุกวันศุกร์ ที่พวกเราจะสามารถดื่ม และปล่อยใจกัน ไปตามที่คิดได้จังเลยครับ ผมเกือบจะเอาชนะ เกมนี้ได้แล้วครับ!$1",
   
-  "NightMarket.001": "ผมซื้อโทเทมลึกลับพวกนี่ มาจากคุณคนที่คลุมตัวมิดชิด ตรงนั้น$1"
+  "NightMarket.001": "ผมซื้อโทเทมลึกลับพวกนี่ มาจากคุณคนที่คลุมตัวมิดชิด ตรงนั้น$1",
+  
+  "ShearwaterBridgeRenovation.001": "Oh, hey! How did you get past the barricades?$7#$b#Sorry, honey. I'm quite busy working on the Shearwater Bridge renovation. I'll be back home tonight.$0",
 }
