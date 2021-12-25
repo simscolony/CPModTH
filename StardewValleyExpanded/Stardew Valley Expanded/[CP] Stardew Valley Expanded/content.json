@@ -845,7 +845,7 @@
    "Target": "data/events/backwoods",
    "When": { "Spouse |contains=Wizard": false },
    "Entries": {
-   "908072/e 908071": "continue/-500 -500/farmer 14 20 1 Wizard 17 13 0/showFrame Wizard 17 true/viewport 17 14 clamp true/skippable/move farmer 3 0 0/move farmer 0 -5 0 true/pause 1500/screenFlash 1/glow 255 155 255/playSound healSound/pause 2500/faceDirection Wizard 0 true/pause 850/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 2 true/showFrame Wizard 0 true/pause 500/speak Wizard \"ตามข้ามา  @ อย่าเดินหลงไปไกลนัก\"/pause 600/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 0 true/pause 400/move Wizard 0 -13 0 true/viewport move 0 -1 4000 true/pause 450/move farmer 0 -6 0 true/pause 1000/globalFade/viewport -1000 -1000/halt/changeLocation Custom_FakeEnchantedGrove/faceDirection farmer 0 true/faceDirection Wizard 0 true/warp Wizard 30 36/warp farmer 30 38/viewport 30 35 true/viewport move 0 -1 6500 true/pause 1000/move Wizard 0 -8 0 true/move farmer 0 -8 0 true/pause 6000/speak Wizard \"มีมานาไหลอย่างอิสระ ในป่าอันเงียบสงบนี้ เป็นตำแหน่งที่สมบูรณ์แบบ สำหรับ Nexus ของเจ้า...$0\"/pause 700/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 2 true/pause 400/speak Wizard \"ด้วยการรวมเวทย์ของเรา และการชี้นำของข้า เราสามารถเปลี่ยนกระแส การไหลเวียนของเวลา ได้ที่นี่$0#$b#มา ปรับคลื่นมานาของเจ้า$0\"/pause 800/faceDirection Wizard 3 true/pause 200/move Wizard -1 0 3/pause 200/faceDirection Wizard 2 true/pause 100/move farmer 0 -1 1/move farmer 1 0 0/move farmer 0 -1 0 true/pause 100/showFrame Wizard 18 true/pause 300/showFrame Wizard 20 true/pause 300/faceDirection farmer 1 true/pause 200/faceDirection farmer 2 true/pause 650/showFrame farmer 4 true/pause 400/showFrame farmer 5 true/pause 1000/globalFade/viewport -1000 -1000/pause 500/playSound healSound/glow 255 0 0/pause 1100/playSound healSound/glow 0 255 0/pause 1100/playSound healSound/glow 0 0 255/pause 1000/stopMusic/changeLocation Custom_EnchantedGrove/makeInvisible 26 23 9 7/showFrame farmer 5 true/pause 1000/speak Wizard \"@ ลืมตาขึ้น\"/pause 400/playMusic cm:Nexus/pause 600/faceDirection Wizard 1 true/viewport 30 28 true/pause 1000/showFrame farmer 4 true/pause 500/faceDirection farmer 2 true/pause 500/emote farmer 16 true/pause 2250/faceDirection farmer 1 true/pause 1000/faceDirection farmer 0 true/pause 1000/faceDirection farmer 3 true/pause 750/speak Wizard \"'วิจิตรตระการตา ใช่มั้ย?$1#$b#พงไพรเวทย์  'enchanted grove'ของเจ้า จะปราศจาก การหมนุเวียนของฤดูกาล สภาพอากาศ และการลอบสอดแนม$0\"/pause 1000/speak Wizard \"เรายังไม่เสร็จหรอกนะ เจ้ายังต้องสร้าง จุดวาร์ปแรกก่อน...$0#$b#ข้าว่า ถ้าเป็นที่ Nexus ของข้า น่าจะเป็นจุดที่เหมาะสม$0#$b#งั้นเราออกเดินทาง ไปยังโถงวาร์ปของข้ากัน @$0\"/pause 650/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_WizardBasement/warp Wizard 10 21/warp farmer 8 21/faceDirection farmer 1 true/faceDirection Wizard 3 true/playMusic WizardSong/pause 500/viewport 8 21 true/pause 2250/speak Wizard \"ในระหว่างบทเรียน ข้าจะอธิบายเงื่อนไข ในการเชื่อมต่อสถานที่ ไปยัง Nexus ของเจ้า เจ้าจำเป็นต้องมีของบางอย่าง ที่มาจากสถานที่นั้น$0#$b#วันนี้ ข้าได้ปรุงยานี้ที่หอคอย มันน่าจะเหมาะกับการ ทำให้คาถาสมบูรณ์ได้$0\"/pause 400/move Wizard -1 0 3/pause 600/showFrame Wizard 15 true/shake Wizard 400/pause 100/playSound dwop/pause 400/showFrame Wizard 12 true/pause 100/playSound pickUpItem/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 600/speak Wizard \"วางขวดน้ำยาลงบนฐานนั่น แล้วอัญเชิญ อักขระเคลื่อนย้ายออกมา @$0\"/pause 800/faceDirection farmer 0 true/pause 500/move farmer 0 -1 0 true/pause 300/move Wizard -1 0 0 true/pause 1300/showFrame farmer 15 true/pause 300/playSound stoneStep/addTemporaryActor WizardPotionObject 16 16 8 18 2 false/pause 500/move farmer 0 0 0/pause 1000/showFrame farmer 37 true/pause 800/startJittering/pause 1000/screenFlash 2/warp WizardPotionObject -30 -30/playSound wand/playSound wand/pause 600/playSound secret1/pause 150/stopJittering/pause 500/move farmer 0 0 0/pause 1350/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 700/speak Wizard \"ทำได้ดีมาก ตอนนี้อักขระเคลื่อนย้าย ได้เชื่อมต่อกับ Nexus ของเจ้า อย่างสมบูรณ์แบบ$0#$b#ทำไมไม่ลองเทเลพอร์ต ไปที่นั่นดูล่ะ?  เป็นอะไรที่น่าจับตาดูจริงๆ...$0\"/pause 1000/faceDirection farmer 1 true/pause 200/faceDirection farmer 0 true/pause 500/move farmer 0 -2 0/pause 400/faceDirection farmer 1 true/pause 200/faceDirection farmer 2 true/pause 750/showFrame farmer 3/pause 500/screenFlash 1/playSound wand/warp farmer -20 -20/pause 1000/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_FakeEnchantedGrove2/warp Wizard -10 -10/faceDirection Wizard 2 true/faceDirection farmer 2 true/pause 1000/playMusic cm:Nexus/pause 925/viewport 17 25 clamp true/pause 3750/screenFlash 1/playSound wand/warp farmer 17 25/pause 1000/emote farmer 16 true/pause 500/faceDirection farmer 3 true/pause 1250/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 1000/move farmer 2 0 2 true/pause 800/screenFlash 1/playSound wand/warp Wizard 17 25/showFrame Wizard 16 true/pause 350/faceDirection farmer 3 true/pause 500/showFrame Wizard 0 true/pause 1100/emote Wizard 40/pause 350/speak Wizard \"อ้า... กองตำราเล่มหนา รูปปั้นนกฮูก วงเวทย์ กลิ่นของมอสสดใหม่ จะเป็นอย่างอื่นไปไม่ได้เลย!$0\"/pause 500/faceDirection Wizard 1 true/pause 500/speak Wizard \"มองหา สถานที่น่าสนใจ และขยายขอบเขต Nexus ของเจ้า @ เมื่อถึงเวลาที่สมควร เพื่อนร่วมงานของข้า จะแวะมาเยี่ยมเยียนเจ้า...$0#$b#วันนี้ทำได้ดีมาก ข้ารู้ตั้งแต่แรก ถึงความพิเศษของเจ้า ตั้งแต่วินาทีที่ เจ้าเหยียบเข้ามา ในสตาร์ดิว แวลลีย์แห่งนี้$0\"/pause 650/faceDirection Wizard 2 true/pause 500/showFrame Wizard 16 true/pause 250/shake Wizard 500/pause 400/screenFlash 1/playSound wand/warp Wizard -20 -20/pause 1250/globalFade/viewport -1000 -1000/pause 1000/message \"ฉันอยากรู้จัง ว่าจะมีที่ไหน ที่สามารถอัญเชิญ อักขระเคลื่อนย้ายได้อีก?\"/pause 500/stopMusic/pause 500/addConversationTopic EnchantedGroveHint 14/end position 17 10" 
+   "908072/e 908071": "continue/-500 -500/farmer 14 20 1 Wizard 17 13 0/showFrame Wizard 17 true/viewport 17 14 clamp true/skippable/move farmer 3 0 0/move farmer 0 -5 0 true/pause 1500/screenFlash 1/glow 255 155 255/playSound healSound/pause 2500/faceDirection Wizard 0 true/pause 850/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 2 true/showFrame Wizard 0 true/pause 500/speak Wizard \"ตามข้ามา  @ อย่าเดินหลงไปไกลนัก\"/pause 600/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 0 true/pause 400/move Wizard 0 -13 0 true/viewport move 0 -1 4000 true/pause 450/move farmer 0 -6 0 true/pause 1000/globalFade/viewport -1000 -1000/halt/changeLocation Custom_FakeEnchantedGrove/faceDirection farmer 0 true/faceDirection Wizard 0 true/warp Wizard 30 36/warp farmer 30 38/viewport 30 35 true/viewport move 0 -1 6500 true/pause 1000/move Wizard 0 -8 0 true/move farmer 0 -8 0 true/pause 6000/speak Wizard \"มีมานาไหลอย่างอิสระ ในป่าอันเงียบสงบนี้ เป็นตำแหน่งที่สมบูรณ์แบบ สำหรับ Nexus ของเจ้า...$0\"/pause 700/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 2 true/pause 400/speak Wizard \"ด้วยการรวมเวทย์ของเรา และการชี้นำของข้า เราสามารถเปลี่ยนกระแส การไหลเวียนของเวลา ได้ที่นี่$0#$b#มา ปรับคลื่นมานาของเจ้า$0\"/pause 800/faceDirection Wizard 3 true/pause 200/move Wizard -1 0 3/pause 200/faceDirection Wizard 2 true/pause 100/move farmer 0 -1 1/move farmer 1 0 0/move farmer 0 -1 0 true/pause 100/showFrame Wizard 18 true/pause 300/showFrame Wizard 20 true/pause 300/faceDirection farmer 1 true/pause 200/faceDirection farmer 2 true/pause 650/showFrame farmer 4 true/pause 400/showFrame farmer 5 true/pause 1000/globalFade/viewport -1000 -1000/pause 500/playSound healSound/glow 255 0 0/pause 1100/playSound healSound/glow 0 255 0/pause 1100/playSound healSound/glow 0 0 255/pause 1000/stopMusic/changeLocation Custom_EnchantedGrove/makeInvisible 26 23 9 7/showFrame farmer 5 true/pause 1000/speak Wizard \"@ ลืมตาขึ้น\"/pause 400/playMusic cm:Nexus/pause 600/faceDirection Wizard 1 true/viewport 30 28 true/pause 1000/showFrame farmer 4 true/pause 500/faceDirection farmer 2 true/pause 500/emote farmer 16 true/pause 2250/faceDirection farmer 1 true/pause 1000/faceDirection farmer 0 true/pause 1000/faceDirection farmer 3 true/pause 750/speak Wizard \"'วิจิตรตระการตา ใช่มั้ย?$1#$b#พงไพรเวทย์  'enchanted grove'ของเจ้า จะปราศจาก การหมนุเวียนของฤดูกาล สภาพอากาศ และการลอบสอดแนม$0\"/pause 1000/speak Wizard \"เรายังไม่เสร็จหรอกนะ เจ้ายังต้องสร้าง จุดวาร์ปแรกก่อน...$0#$b#ข้าว่า ถ้าเป็นที่ Nexus ของข้า น่าจะเป็นจุดที่เหมาะสม$0#$b#งั้นเราออกเดินทาง ไปยังโถงวาร์ปของข้ากัน @$0\"/pause 650/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_WizardBasement/warp Wizard 10 21/warp farmer 8 21/faceDirection farmer 1 true/faceDirection Wizard 3 true/playMusic WizardSong/pause 500/viewport 8 21 true/pause 2250/speak Wizard \"ในระหว่างบทเรียน ข้าจะอธิบายเงื่อนไข ในการเชื่อมต่อสถานที่ ไปยัง Nexus ของเจ้า เจ้าจำเป็นต้องมีของบางอย่าง ที่มาจากสถานที่นั้น$0#$b#วันนี้ ข้าได้ปรุงยานี้ที่หอคอย มันน่าจะเหมาะกับการ ทำให้คาถาสมบูรณ์ได้$0\"/pause 400/move Wizard -1 0 3/pause 600/showFrame Wizard 15 true/shake Wizard 400/pause 100/playSound dwop/pause 400/showFrame Wizard 12 true/pause 100/playSound pickUpItem/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 600/speak Wizard \"วางขวดน้ำยาลงบนฐานนั่น แล้วอัญเชิญ อักขระเคลื่อนย้ายออกมา @$0\"/pause 800/faceDirection farmer 0 true/pause 500/move farmer 0 -1 0 true/pause 300/move Wizard -1 0 0 true/pause 1300/showFrame farmer 15 true/pause 300/playSound stoneStep/addTemporaryActor WizardPotionObject 16 16 8 18 2 false/pause 500/move farmer 0 0 0/pause 1000/showFrame farmer 37 true/pause 800/startJittering/pause 1000/screenFlash 2/warp WizardPotionObject -30 -30/playSound wand/playSound wand/pause 600/playSound secret1/pause 150/stopJittering/pause 500/move farmer 0 0 0/pause 1350/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 700/speak Wizard \"ทำได้ดีมาก ตอนนี้อักขระเคลื่อนย้าย ได้เชื่อมต่อกับ Nexus ของเจ้า อย่างสมบูรณ์แบบ$0#$b#ทำไมไม่ลองเทเลพอร์ต ไปที่นั่นดูล่ะ?  เป็นอะไรที่น่าจับตาดูจริงๆ...$0\"/pause 1000/faceDirection farmer 1 true/pause 200/faceDirection farmer 0 true/pause 500/move farmer 0 -2 0/pause 400/faceDirection farmer 1 true/pause 200/faceDirection farmer 2 true/pause 750/showFrame farmer 3/pause 500/screenFlash 1/playSound wand/warp farmer -20 -20/pause 1000/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_FakeEnchantedGrove2/warp Wizard -10 -10/faceDirection Wizard 2 true/faceDirection farmer 2 true/pause 1000/playMusic cm:Nexus/pause 925/viewport 17 25 clamp true/pause 3750/screenFlash 1/playSound wand/warp farmer 17 25/pause 1000/emote farmer 16 true/pause 500/faceDirection farmer 3 true/pause 1250/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 1000/move farmer 2 0 2 true/pause 800/screenFlash 1/playSound wand/warp Wizard 17 25/showFrame Wizard 16 true/pause 350/faceDirection farmer 3 true/pause 500/showFrame Wizard 0 true/pause 1100/emote Wizard 40/pause 350/speak Wizard \"อ้า... กองตำราเล่มหนา รูปปั้นนกฮูก วงเวทย์ กลิ่นของมอสสดใหม่ จะเป็นอย่างอื่นไปไม่ได้เลย!$0\"/pause 500/faceDirection Wizard 1 true/pause 500/speak Wizard \"มองหา สถานที่น่าสนใจ และขยายขอบเขต Nexus ของเจ้า @ เมื่อถึงเวลาที่สมควร เพื่อนร่วมงานของข้า จะแวะมาเยี่ยมเยียนเจ้า...$0#$b#วันนี้ทำได้ดีมาก ข้ารู้ตั้งแต่แรก ถึงความพิเศษของเจ้า ตั้งแต่วินาทีที่ เจ้าเหยียบเข้ามา ในสตาร์ดิว แวลลีย์แห่งนี้$0\"/pause 650/faceDirection Wizard 2 true/pause 500/showFrame Wizard 16 true/pause 250/shake Wizard 500/pause 400/screenFlash 1/playSound wand/warp Wizard -20 -20/pause 1250/globalFade/viewport -1000 -1000/pause 1000/message \"ฉันอยากรู้จัง ว่าจะมีที่ไหน ที่สามารถอัญเชิญ อักขระเคลื่อนย้ายได้อีก?\"/pause 500/stopMusic/pause 500/addConversationTopic EnchantedGroveHint 14/end position 17 10"
    }
 },
 
@@ -888,7 +888,7 @@
 {
     "Action": "EditData",
     "Target": "Characters/Dialogue/Wizard",
-    "Entries": { 
+    "Entries": {
 	"wizardEnchantedGrove": "ข้ารู้สึกเหมือนกับว่า ตอนนี้ พวกเรากลายเป็น ครอบครัวจอมเวทย์แล้ว Nexus ของข้า จะเป็นแบบโบราณๆ หน่อย เพราะข้าชอบแบบนี้น่ะนะ$0#$b#I believe your nexus is suited for 8 warp points, which is more than what mine has.",
 	"EnchantedGroveHint": "I believe your nexus is suited for 8 warp points, which is more than what mine has. I prefer to be old-fashioned.$0",
 	}
@@ -1726,7 +1726,7 @@
 	"ToArea": { "X": 34, "Y": 36, "Width": 12, "Height": 11 },
     "When": { "HasFlag |contains=jojaMember": true },
 	"Update": "OnLocationChange"
-},	
+},
 {   //Joja Emporium - Nexus Light
     "Action": "EditMap",
     "Target": "Maps/Custom_EnchantedGrove",
@@ -1827,7 +1827,7 @@
     "Target": "Maps/Custom_EnchantedGrove",
     "FromFile": "assets/Maps/MapPatches/EnchantedGrove_JunimoWoodsWarp.tbin",
 	"ToArea": { "X": 32, "Y": 31, "Width": 15, "Height": 16 },
-    "When": { "HasSeenEvent |contains=908077, 908091": false }, 
+    "When": { "HasSeenEvent |contains=908077, 908091": false },
 	"Update": "OnLocationChange"
 },
 {   //Junimo Woods - Nexus Light
@@ -1901,7 +1901,7 @@
    "908078/t 600 2400": "none/-500 -500/farmer 64 15 2 Camilla 64 16 0/skippable/pause 1000/playSound stoneStep/playSound stoneStep/pause 500/playSound stoneStep/playSound stoneStep/pause 500/playSound stoneStep/playSound stoneStep/pause 1000/message \"Someone's at the front door.\"/pause 750/playSound doorOpen/changeLocation farm/viewport 64 15 clamp true/pause 1250/emote farmer 8 true/pause 1000/speak Camilla \"Hello, dear.$0\"/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 40/positionOffset Camilla 0 -1 true/pause 250/showFrame Camilla 9 true/pause 250/shake Camilla 250/pause 250/screenFlash 2/playSound wand/warp farmer -30 -30/warp Camilla -30 -30/showFrame Camilla 0 true/pause 2000/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_EnchantedGrove/makeInvisible 26 23 9 7/playMusic cm:Nexus/pause 1500/viewport 30 29 true/pause 2000/screenFlash 1/playSound wand/warp farmer 30 30/faceDirection farmer 0 true/positionOffset farmer -3 22/warp Camilla -30 -30/faceDirection Camilla 2 true/startJittering/pause 1200/stopJittering/pause 1000/faceDirection farmer 1 true/pause 1000/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 1100/faceDirection farmer 0 true/pause 500/playSound cacklingWitch/pause 650/message \"Camilla: *chuckle*...\"/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 800/startJittering/pause 1000/stopJittering/pause 1000/playSound cacklingWitch/pause 400/message \"Camilla: Your Nexus is beautiful... Almost as good as mine.\"/pause 400/faceDirection farmer 3 true/pause 1000/startJittering/pause 600/stopJittering/pause 500/screenFlash 2/playSound wand/warp Camilla 30 27/pause 750/faceDirection farmer 0 true/pause 500/jump farmer/pause 1300/shake Camilla 200/pause 200/showFrame Camilla 16 true/pause 800/speak Camilla \"I'm happy we can meet again, @.$5\"/pause 500/showFrame Camilla 0 true/pause 650/move Camilla 0 1 2/pause 300/speak Camilla \"I hope you don't mind me borrowing you... There's important business we have to attend to.$0\"/pause 500/move Camilla 0 1 2/pause 400/speak Camilla \"Hold my hand...$0\"/pause 1000/startJittering/pause 400/stopJittering/pause 750/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 50/positionOffset farmer 0 -1/pause 800/screenFlash 2/warp Camilla -30 -30/warp farmer -20 -20/playSound wand/pause 2000/globalFade/viewport -1000 -1000/changeLocation Custom_CastleVillageOutpost/playMusic cm:CastleVillageOutpostAmbience/faceDirection farmer 0 true/faceDirection Camilla 0 true/viewport 31 35 true/viewport move 0 -2 8000 true/pause 9500/screenFlash 2/playSound wand/warp farmer 31 20/positionOffset farmer 36 15 true/warp Camilla 30 20/positionOffset Camilla 18 -4 true/faceDirection Camilla 2 true/faceDirection farmer 2 true/pause 1000/emote farmer 16 true/pause 2250/faceDirection Camilla 1 true/pause 650/faceDirection farmer 3 true/pause 650/speak Camilla \"Welcome to the continent of Galdora, a place beset by both miracles and curses.$0#$b#Gaze upon the landscape and become bewitched by the sights before you...$1\"/pause 1000/faceDirection farmer 2 true/pause 850/faceDirection Camilla 2 true/pause 800/globalFade/viewport 64 54 clamp true/viewport move -1 0 6250 true/pause 4000/globalFade/viewport -1000 -1000 true/warp farmer 32 18/warp Camilla 31 18/faceDirection farmer 0 true/faceDirection Camilla 0 true/positionOffset Camilla -26 -20 true/positionOffset farmer -13 -3 true/viewport 0 0 clamp true/viewport move 1 0 6250 true/pause 4000/globalFade/viewport 64 0 clamp true/viewport move -1 0 6250 true/pause 4000/globalFade/viewport -1000 -1000 true/pause 1500/viewport 31 19 true/pause 2000/speak Camilla \"This outpost borders the Crimson Badlands, a magical wasteland formed by the aftermath of ancient dark magic.$0#$b#Scorching heat by day, nights cold as ice, quicksand dunes, lightning sandstorms, hordes of monsters, void zones...$1\"/pause 500/faceDirection farmer 3 true/pause 750/faceDirection Camilla 1 true/pause 600/speak Camilla \"You enjoy swinging your sword so much, why not swing it for me?$0#$b#It'll be the ultimate test of your prowess as an adventurer!$1#$b#Besides... I've already invested too much for you to refuse.$5#$b#Let's get to the fun part. Summon your warp runes.$0\"/pause 1000/screenFlash 2/playSound wand/viewport 39 39/warp farmer 39 39/warp Camilla 37 39/faceDirection farmer 3 true/faceDirection Camilla 1 true/pause 1000/emote farmer 16 true/pause 1000/speak Camilla \"Here. This is called a 'Swirl Stone', one of the many rarities Galdora has to offer. They form naturally in the void zone depths...$0#$b#May it allow you to complete your spell.$1\"/pause 800/move Camilla 1 0 1/pause 400/shake Camilla 750/showFrame Camilla 5 true/pause 150/playSound pickUpItem/pause 650/showFrame Camilla 4 true/pause 400/faceDirection farmer 2 true/pause 300/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 750/faceDirection farmer 3 true/pause 500/speak Camilla \"Show me what Razzy taught you. I'll just watch...$0\"/pause 800/screenFlash 2/playSound wand/warp Camilla 39 31/faceDirection Camilla 2 true/pause 1200/faceDirection farmer 0 true/pause 1000/move farmer 0 -2 0 true/viewport move 0 -1 1500 true/pause 2000/startJittering/pause 200/showFrame farmer 15/pause 300/addTemporaryActor SwirlStoneObject 16 16 39 36 2 false/playSound stoneStep/pause 300/stopJittering/pause 150/showFrame farmer 12 true/pause 800/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 500/move farmer 0 1 2/pause 400/faceDirection farmer 1 true/pause 275/faceDirection farmer 0 true/pause 1000/showFrame farmer 36 true/pause 600/startJittering/pause 750/screenFlash 2/playSound wand/playSound wand/warp SwirlStoneObject -20 -20/pause 300/stopJittering/pause 400/faceDirection farmer 0 true/playSound secret1/pause 2000/viewport move 0 -1 4000 true/pause 2000/showFrame Camilla 17 true/pause 300/showFrame Camilla 19 true/pause 1000/showFrame Camilla 17 true/pause 400/showFrame Camilla 0 true/pause 800/speak Camilla \"My, my. Well done.$1\"/pause 900/screenFlash 2/viewport 39 37 clamp/playSound wand/warp Camilla 39 36/pause 750/faceDirection farmer 0 true/pause 750/speak Camilla \"Well, I suppose I'll return you to that adorable farm of yours.$0#$b#Next time you feel the urge to adventure, consider lending Castle Village your aid.$5\"/pause 800/move Camilla 0 1 2/pause 500/showFrame Camilla 1 true/pause 200/shake Camilla 500/pause 500/screenFlash 2/playSound wand/warp farmer -30 -30/warp Camilla -29 -29/pause 2000/globalFade/viewport -1000 -1000/changeLocation farm/stopMusic/pause 2000/viewport 64 15 clamp true/pause 2500/screenFlash 2/playSound wand/warp farmer 64 15/faceDirection farmer 2 true/startJittering/pause 1650/playSound cacklingWitch/pause 200/stopJittering/pause 300/message \"Camilla: *chuckle*\"/pause 1750/faceDirection farmer 1 true/pause 300/faceDirection farmer 0 true/pause 500/warp farmer -20 -20/playSound doorClose/pause 1500/globalFade/viewport -1000 -1000/pause 1000/end dialogue Wizard \"Ah, I see you've made your acquaintance with Camilla, the Witch of Castle Village.$0#$e#Galdora has many marvels and horrors within its borders. Camilla is just one of them.$0#$e#Inform me if you come across any 'Void Souls' in the badlands. They'd help my arcane studies immensely.$0\""
    }
 },
-{ 
+{
    //(Grandpa's Farm, year 3 default unlock)
    "Action": "EditData",
    "Target": "data/events/farmhouse",
@@ -2116,7 +2116,7 @@
 	"Custom_AuroraVineyardRefurbished": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_ForestWestOld": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_MorrisProperty": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-	
+
 
     //Map tracking Blue Moon Vineyard
 	"Custom_BlueMoonVineyard": {
@@ -2668,7 +2668,7 @@
 	 "MapX": 987,
 	 "MapY": 305
 	}
-   ],	
+   ],
 	"MapTooltip": {
 	"X": 956,
 	"Y": 252,
@@ -2754,7 +2754,7 @@
 
 
         //Future Castle Village NPCs:
-        
+
 		//"Cyrus": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Marley": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Drake": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
@@ -2961,7 +2961,7 @@
 	  "When": { "Season": "Winter" },
     },
 
-{  
+{
      "Action": "EditMap",
 	 "Target": "Maps/Custom_Highlands",
 	 "FromFile": "Assets/Maps/MistEffects/Highlands_Mist.tbin",
@@ -3006,42 +3006,42 @@
 	 "Update": "OnLocationChange"
 },
 
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
 	 "When": { "Season |contains=Spring": true, "Season |contains=Summer, Fall, Winter": false, "Weather |contains=Rain, Storm": false },
 	 "Update": "OnLocationChange",
      "MapProperties": { "Music": "spring_day_ambient" }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
 	 "When": { "Season |contains=Summer": true, "Season |contains=Spring, Fall, Winter": false, "Weather |contains=Rain, Storm": false },
 	 "Update": "OnLocationChange",
      "MapProperties": { "Music": "summer_day_ambient" }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
 	 "When": { "Season |contains=Fall": true, "Season |contains=Spring, Summer, Winter": false, "Weather |contains=Rain, Storm": false },
 	 "Update": "OnLocationChange",
      "MapProperties": { "Music": "fall_day_ambient" }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
 	 "When": { "Season |contains=Winter": true, "Season |contains=Spring, Summer, Fall": false, "Weather |contains=Rain, Storm": false },
 	 "Update": "OnLocationChange",
      "MapProperties": { "Music": "winter_day_ambient" }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
 	 "When": { "Season |contains=Winter": false,  "Weather |contains=Rain, Storm": false, "Time": "{{Range: 1800, 2600}}" },
 	 "Update": "OnLocationChange",
      "MapProperties": { "Music": "spring_night_ambient" }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
 	 "When": { "Weather |contains=Rain, Storm": true },
@@ -3120,13 +3120,13 @@
 	  "Super Joja Cola": "color_orange"
 	}
 },
-  
+
  //Fish and Artifact location data
 {
   "Action": "EditData",
   "Target": "Data/Locations",
   "Entries": {
-  "Custom_ForestWest": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:King Salmon}} -1 145 -1 143 -1 132 -1 136 -1 144 -1 704 -1/{{spacechase0.JsonAssets/ObjectId:King Salmon}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 704 -1 138 -1 143 -1 132 -1 136 -1/140 -1 704 -1 139 -1 143 -1 699 -1 132 -1 136 -1/707 -1 144 -1 136 -1 132 -1/109 1 120 .4 121 .3 119 .4 115 .3 114 .15 581 .3 582 .3 583 .3",      
+  "Custom_ForestWest": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:King Salmon}} -1 145 -1 143 -1 132 -1 136 -1 144 -1 704 -1/{{spacechase0.JsonAssets/ObjectId:King Salmon}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 704 -1 138 -1 143 -1 132 -1 136 -1/140 -1 704 -1 139 -1 143 -1 699 -1 132 -1 136 -1/707 -1 144 -1 136 -1 132 -1/109 1 120 .4 121 .3 119 .4 115 .3 114 .15 581 .3 582 .3 583 .3",
   "Farm": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 145 -1 143 -1 153 -1 137 -1 706 -1 132 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 138 -1 145 -1 153 -1 144 -1 706 -1 132 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 139 -1 699 -1 143 -1 153 -1 137 -1 706 -1 140 -1 132 -1/699 -1 153 -1 707 -1 141 -1 144 -1 132 -1/382 .35 770 .2 390 .75 330 1",
   "Summit": "-1/-1/-1/-1/-1/-1/-1/-1/109 1 120 .3 121 .3 119 .3 115 .3 114 .2 581 .2 582 .1 583 .3",
   "Custom_Garden": "-1/-1/-1/-1/-1/-1/-1/-1/100 .4 101 .3 103 .2 105 .31 106 1 107 .55 114 .21",
@@ -3138,7 +3138,7 @@
   "Custom_ShearwaterBridge": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 143 -1 706 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 138 -1 144 -1 706 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 139 -1 699 -1 143 -1 706 -1 140 -1 269 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 699 -1 153 -1 707 -1 141 -1 144 -1 132 -1 269 -1/100 1 101 .31 103 .8 105 .7 106 .1 107 .65 114 .1",
   "Custom_GrandpasShedOutside": "-1/-1/-1/-1/-1/-1/-1/-1/100 .4 101 .3 103 .2 105 .31 106 1 107 .55 114 .21",
   "Custom_AdventurerSummit": "-1/-1/-1/-1/136 -1 {{spacechase0.JsonAssets/ObjectId:Minnow}} -1 142 -1 153 -1 702 -1 700 -1/136 -1 {{spacechase0.JsonAssets/ObjectId:Minnow}} -1 142 -1 153 -1 138 -1 702 -1 700 -1 698 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 136 -1 140 -1 142 -1 153 -1 702 -1 700 -1 269 -1/136 -1 140 -1 141 -1 153 -1 707 -1 702 -1 700 -1 698 -1 269 -1/382 .06 581 .1 378 .1 102 .15 390 .25 330 1",
-  "Custom_CrimsonBadlands": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/-1",  
+  "Custom_CrimsonBadlands": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/{{spacechase0.JsonAssets/ObjectId:Bonefish}} -1 {{spacechase0.JsonAssets/ObjectId:Undeadfish}} -1/-1",
   "Custom_HighlandsCavern": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Gemfish}} -1 158 -1 156 -1/{{spacechase0.JsonAssets/ObjectId:Gemfish}} -1 158 -1 156 -1/{{spacechase0.JsonAssets/ObjectId:Gemfish}} -1 158 -1 156 -1/{{spacechase0.JsonAssets/ObjectId:Gemfish}} -1 158 -1 156 -1/-1",
   "Custom_MorrisProperty": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 143 -1 706 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 138 -1 144 -1 706 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 {{spacechase0.JsonAssets/ObjectId:Butterfish}} -1 {{spacechase0.JsonAssets/ObjectId:Puppyfish}} -1 139 -1 699 -1 143 -1 706 -1 140 -1 269 -1/{{spacechase0.JsonAssets/ObjectId:Minnow}} -1 699 -1 153 -1 707 -1 141 -1 144 -1 132 -1 269 -1/100 1 101 .31 103 .8 105 .7 106 .1 107 .65 114 .1",
   "Custom_Highlands": "20 .7 16 .5/396 .5 398 .8/404 .4 406 .4 408 .9/414 .85 418 .9 283 .5/136 -1 142 -1 153 -1 702 -1 700 -1/136 -1 142 -1 153 -1 138 -1 702 -1 700 -1 698 -1/136 -1 140 -1 142 -1 153 -1 702 -1 700 -1 269 -1/136 -1 140 -1 141 -1 153 -1 707 -1 702 -1 700 -1 698 -1 269 -1/382 .06 581 .1 378 .1 102 .15 390 .25 330 1"
@@ -4453,27 +4453,27 @@
 {    //GOLDENFISH
 	"Action": "EditData",
 	"Target": "Data/FishPondData",
-	"Entries": { 
+	"Entries": {
 	"Goldenfish": {
 	"RequiredTags": [ "item_goldenfish" ],
 	"SpawnTime": -1,
 	"ProducedItems": [
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.01,
 	"ItemID": 373,
 	"MinQuantity": 1,
 	"MaxQuantity": 1
 	},
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.12,
 	"ItemID": 125,
 	"MinQuantity": 1,
 	"MaxQuantity": 5
 	},
 	{
-	"RequiredPopulation": 5,	
+	"RequiredPopulation": 5,
 	"Chance": 0.20,
 	"ItemID": 336,
 	"MinQuantity": 1,
@@ -4505,27 +4505,27 @@
 {    //METEOR CARP
 	"Action": "EditData",
 	"Target": "Data/FishPondData",
-	"Entries": { 
+	"Entries": {
 	"Meteor Carp": {
 	"RequiredTags": [ "item_meteor_carp" ],
 	"SpawnTime": -1,
 	"ProducedItems": [
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.02,
 	"ItemID": 645,
 	"MinQuantity": 1,
 	"MaxQuantity": 1
 	},
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.10,
 	"ItemID": 337,
 	"MinQuantity": 1,
 	"MaxQuantity": 2
 	},
 	{
-	"RequiredPopulation": 5,	
+	"RequiredPopulation": 5,
 	"Chance": 0.15,
 	"ItemID": 386,
 	"MinQuantity": 1,
@@ -4550,27 +4550,27 @@
 {    //TORPEDO TROUT
 	"Action": "EditData",
 	"Target": "Data/FishPondData",
-	"Entries": { 
+	"Entries": {
 	"Torpedo Trout": {
 	"RequiredTags": [ "item_torpedo_trout" ],
 	"SpawnTime": -1,
 	"ProducedItems": [
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.01,
 	"ItemID": 288,
 	"MinQuantity": 25,
 	"MaxQuantity": 50
 	},
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.15,
 	"ItemID": 288,
 	"MinQuantity": 1,
 	"MaxQuantity": 5
 	},
 	{
-	"RequiredPopulation": 5,	
+	"RequiredPopulation": 5,
 	"Chance": 0.3,
 	"ItemID": 287,
 	"MinQuantity": 1,
@@ -4602,62 +4602,62 @@
 {    //GEMFISH
 	"Action": "EditData",
 	"Target": "Data/FishPondData",
-	"Entries": { 
+	"Entries": {
 	"Gemfish": {
 	"RequiredTags": [ "item_gemfish" ],
 	"SpawnTime": -1,
 	"ProducedItems": [
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.01,
 	"ItemID": 74, //prismatic shard
 	"MinQuantity": 1,
 	"MaxQuantity": 1
 	},
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.15,
 	"ItemID": 72, //diamond
 	"MinQuantity": 1,
 	"MaxQuantity": 3
 	},
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.15,
 	"ItemID": 64, //ruby
 	"MinQuantity": 2,
 	"MaxQuantity": 6
 	},
 	{
-	"RequiredPopulation": 10,	
+	"RequiredPopulation": 10,
 	"Chance": 0.15,
 	"ItemID": 60, //emerald
 	"MinQuantity": 2,
 	"MaxQuantity": 6
 	},
 	{
-	"RequiredPopulation": 7,	
+	"RequiredPopulation": 7,
 	"Chance": 0.35,
 	"ItemID": 64, //ruby
 	"MinQuantity": 1,
 	"MaxQuantity": 2
 	},
 	{
-	"RequiredPopulation": 7,	
+	"RequiredPopulation": 7,
 	"Chance": 0.35,
 	"ItemID": 60, //emerald
 	"MinQuantity": 1,
 	"MaxQuantity": 2
 	},
 	{
-	"RequiredPopulation": 4,	
+	"RequiredPopulation": 4,
 	"Chance": 0.35,
 	"ItemID": 62, //aquamarine
 	"MinQuantity": 1,
 	"MaxQuantity": 2
 	},
 	{
-	"RequiredPopulation": 4,	
+	"RequiredPopulation": 4,
 	"Chance": 0.40,
 	"ItemID": 70, //jade
 	"MinQuantity": 1,
@@ -6784,7 +6784,7 @@
        "Apples_Objective_1_Text": "นำ สตาร์ฟรุ๊ต (Starfruit) ไปวางไว้ บนแผ่นหินของจูนิโม่ ที่ไร่องุ่นออโรร่า",
 	}
 },
-      
+
 {   //Event #1 - The Junimo Tile        <<To start quest: Community Center must be built, player visited Lost Woods at least once, played for 138 days, event triggers in farmhouse at start of day
 	"Action": "EditData",
 	"Target": "data/events/farmhouse",
@@ -8177,7 +8177,7 @@
      "ToArea": { "X": 0, "Y": 0,"Width": 35, "Height": 24 },
 },
 
-{    //Changed NPC warp at bus stop to desert 
+{    //Changed NPC warp at bus stop to desert
      "Action": "EditMap",
      "Target": "Maps/BusStop",
      "MapProperties": { "AllowGrassSurviveInWinter": "T" }
@@ -9018,7 +9018,7 @@
     "Target": "Data/Festivals/spring13",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 32 55 down",
@@ -9355,7 +9355,7 @@
     "Target": "Data/Festivals/spring24",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 21 21 down",
@@ -9613,7 +9613,7 @@
     "Target": "Data/Festivals/summer11",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 49 25 down",
@@ -9749,7 +9749,7 @@
     "Target": "Data/Festivals/summer28",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 81 6 left",
@@ -10016,7 +10016,7 @@
     "Target": "Data/Festivals/fall16",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 20 27 down",
@@ -10250,7 +10250,7 @@
     "Target": "Data/Festivals/fall27",
 	"When": { "IsOddYear": true, "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 23 57 up",
@@ -10495,7 +10495,7 @@
     "Target": "Data/Festivals/fall27",
 	"When": { "IsOddYear": false, "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 236 69 left",
@@ -10740,7 +10740,7 @@
     "Target": "Data/Festivals/winter8",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 101 41 left",
@@ -10917,7 +10917,7 @@
     "Target": "Data/Festivals/winter25",
 	"When": { "Spouse": "Lance" },
     "TextOperations": [
-  {    
+  {
     "Operation": "Append",
     "Target": ["Entries", "Set-Up_additionalCharacters"],
     "Value": "Lance 23 61 down",
@@ -14780,8 +14780,8 @@
 
     //START NPC DATA
 
-    //VICTOR NPC	
-	
+    //VICTOR NPC
+
     {
 	  //Victor's NPC Disposition
       "Action": "EditData",
@@ -15518,7 +15518,7 @@
 	 "FromFile": "Assets/CharacterFiles/OverworldSprites/Animals/Luna.png"
 },
 
-	{ 
+	{
 	  //VICTOR 14 HEART EVENT - part 1 (if it's 12pm~11pm) - ShearwaterBridge renovation
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -15527,8 +15527,8 @@
       "2000008/O Victor/f Victor 3500/u 1 2 3 4 5 6 7/t 1200 2300": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationStart 14/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/showFrame Victor 0 true/animate Victor false true 400 16 17 18 17/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/speak Victor \"Hmm. It need something that'll that allow rotation without damage to the abutment wall.$0#$b#Maybe a neoprene bearing pad could distribute the bearing pressure and seal it?$0\"/pause 500/emote farmer 8/pause 650/stopAnimation Victor/pause 500/showFrame Victor 4 true/pause 300/emote Victor 16/pause 400/speak Victor \"Oh, honey! I have good news to share with you. I got offered my biggest job yet today! I've been contracted to renovate Shearwater Bridge.$1\"/pause 700/jump farmer/pause 900/speak Victor \"The bridge's structural integrity has been damaged over the years. I believe I've pinpointed the cause... Joja cargo trucks coming from Grampleton.$0\"/pause 500/emote farmer 60/pause 500/speak Victor \"Don't worry! I'll have it fixed up in no time.... maybe three weeks!$1#$b#It will, however, be off limits to the public until renovations are complete. I start first thing in the morning tomorrow!$3\"/pause 600/emote farmer 32/pause 150/globalFade/viewport -1000 -1000/pause 1000/message \"Shearwater Bridge will be closed for several weeks as Victor works on its renovation.\"/pause 1000/end dialogue Victor \"If I do a good job on this project, I'll probably be offered even larger opportunities in the future. I can't miss this chance!$3#$e#I was given a very modest budget to work with.$1\""
 	  }
     },
-	
-	{ 
+
+	{
 	  //VICTOR 14 HEART EVENT - part 1 (if it's 11:10pm~2am) - ShearwaterBridge renovation
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -15566,7 +15566,7 @@
      "ShearwaterBridgeRenovationStart": "Hey, @! I heard your husband was tasked with renovating Shearwater Bridge. That's quite the undertaking.$0#$e#$0I've done some repairs on the bridges around town, but I've never tackled anything of that scale!$0"
        },
     },
-	
+
     {    //Map patches a temporary cone barricade in Pelican Town for 2-3 weeks
       "Action": "EditMap",
       "Target": "Maps/Town",
@@ -15612,7 +15612,7 @@
 		"marriage_Sun": "730 Custom_ShearwaterBridge 32 20 2 Victor_Clipboard2 \"Strings\\schedules\\Victor:ShearwaterBridgeRenovation.001\"/1700 BusStop -1 23 3"
 	   }
 	},
-	
+
 	{
 	  //Victor Shearwater Bridge renovation dialogue for 2-3 weeks
       "Action": "EditData",
@@ -15677,9 +15677,9 @@
       "funLeave_Victor": "I have a lot to get done today at Shearwater Bridge. I'll see you tonight.$3",
         }
 	},
-	
-	
-	{ 
+
+
+	{
 	  //VICTOR 14 HEART EVENT - part 2 - Renovations are complete!
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -15687,7 +15687,7 @@
       "2000009/e 2000008/O Victor/u 21 22 23 24 25 26 27 28/t 2000 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationComplete 14/skippable/makeInvisible 7 14 8 1/pause 850/pause 1000/faceDirection Victor 0 true/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/faceDirection Victor 1 true/pause 800/speak Victor  \"Hey! After many tireless nights and more than a few headaches, I'm proud to announce I've finally completed the Shearwater Bridge renovation project.$1#$b#My new design is cost-effective enough that I was well under budget.$3\"/pause 500/emote farmer 20/pause 250/speak Victor \"I have something special planned for us at the newly renovated Shearwater Bridge. Meet me there at 10:00pm tomorrow night.$4#$b#Promise me you won't visit it until then, okay? I want to be there when you see it.$3\"/pause 700/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"Victor has something special planned at Shearwater Bridge at 10:00pm tomorrow. He asked me not to visit it until then!\"/pause 1000/end dialogue Victor \"I can't wait to see the look on your face when you catch your first glimpse of the newly renovated bridge.$3#$e#Oh. Is what I have planned something cheesy? Maybe.$0#$e#Yes.$2#$b#But hey, it's a surprise! You're not getting anything else out of me until then!$1\""
 	  }
     },
-	
+
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Olivia",
@@ -15751,8 +15751,8 @@
      "ShearwaterBridgeRenovationComplete": "Now I can get back to anglin' butterfish!$0"
        },
     },
-	
-	
+
+
     {    //Map patches renovated shearwater bridge
       "Action": "EditMap",
       "Target": "Maps/Custom_ShearwaterBridge",
@@ -15760,7 +15760,7 @@
 	  "When": { "HasSeenEvent": "2000009" },
       "ToArea": { "X": 14, "Y": 17, "Width": 33, "Height": 12 }
     },
-    {    //Patches new bridge light sources 
+    {    //Patches new bridge light sources
       "Action": "EditMap",
       "Target": "Maps/Custom_ShearwaterBridge",
       "When": { "HasSeenEvent": "2000009" },
@@ -15773,8 +15773,8 @@
         }
       ]
     },
-	
-	{ 
+
+	{
 	  //VICTOR 14 HEART EVENT - part 3 - The New Shearwater Bridge
       "Action": "EditData",
       "Target": "Data/Events/Custom_ShearwaterBridge",
@@ -15783,8 +15783,8 @@
       "2000010/O Victor/t 2030 2600/w sunny": "none/-500 -500/farmer 9 21 1 Victor 28 21 0/addTemporaryActor VictorSpaghettiDinnerTable 69 45 26 20 2 false/positionOffset VictorSpaghettiDinnerTable -30 32 true/positionOffset Victor 19 0 true/playMusic moonlightJellies/pause 1250/skippable/viewport 29 30 true/viewport move 0 -1 8500 true/move farmer 16 0 1 true/pause 7750/faceDirection Victor 3 true/pause 500/emote Victor 32/pause 300/faceDirection farmer 2 true/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 1100/faceDirection farmer 1 true/pause 500/jump farmer/pause 850/emote farmer 20/pause 300/speak Victor \"I'm glad you like the new design. It was quite the challenge learning new ways to solve problems I had never before considered.$3#$b#I hope this renovation improves the image of Pelican Town and shows the world we're open to anyone curious enough to explore what Stardew Valley has to offer.$1\"/pause 750/faceDirection Victor 0 true/pause 400/speak Victor \"But hey, what's a bridge renovation without a romantic spaghetti dinner on said bridge? Kudos to Gus for catering the food!$1\"/pause 500/move farmer 2 0 0/pause 1750/faceDirection farmer 1 true/pause 750/faceDirection Victor 3 true/pause 650/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/animate Victor true true 9999 28/animate farmer false true 9999 101/playSound dwop/pause 1000/viewport move 0 -1 8000 true/pause 3000/globalFade/viewport -1000 -1000/end dialogue Victor \"I wonder what other large projects I'll work on in the future...$1\""
 	  }
     },
-	
-	{ 
+
+	{
 	  //VICTOR 14 HEART EVENT - bad weather cancels event until the next sunny day
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -15793,7 +15793,7 @@
       "2000011/e 2000009/k 2000010/O Victor": "continue/-500 -500/farmer 81 17 2 Victor 90 26 2/pause 500/speak Victor \"Ah... the weather today isn't good.$2#$b#We'll try again the next clear night at 10:00pm, okay?$3\"/pause 500/end dialogue Victor \"Promise me you won't sneak a peek at the bridge!$1\""
 	  }
     },
-	
+
       //Loads Victor's Spaghetti Dinner Table (69x45), which is a meal I totally would want to eat. Wouldn't you?
     {
       "Action": "Load",
@@ -15801,8 +15801,8 @@
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/VictorSpaghettiDinnerTable.png"
     },
 
- 
-    {   
+
+    {
 	  //VICTOR - DATING VICTOR - TAG ID
       "Action": "EditData",
       "Target": "Data/Events/farm",
@@ -16827,7 +16827,7 @@
         "8982808/O Olivia/d Mon Wed Thu Fri Sat Sun/w sunny/e 8982807/t 1300 1600": "none/-500 -500/farmer 20 17 1 Olivia 20 16 1 Caroline 27 16 3 Jodi 26 15 2 Marnie 23 20 2 Robin 23 22 0 Harvey 22 21 1 Emily 26 20 1 Haley 28 20 3/skippable/pause 1000/playMusic 50s/pause 1000/viewport 25 17 true/move Olivia 5 0 1 true/move farmer 6 0 0 true/pause 1500/speak Caroline \"สวัสดี โอลิเวีย และก็คุณด้วย @! เดี๋ยวเราจะเริ่มการวอร์มอัพกัน!$0\"/pause 850/faceDirection Caroline 2 true/pause 700/speak Caroline \"โอเคค่ะ ทุกคน! ตั้งท่าเตรียมยืดตัวไว้!$0\"/pause 400/faceDirection Haley 0 true/pause 500/faceDirection Marnie 1 true/pause 200/faceDirection Emily 0 true/pause 100/faceDirection Marnie 0/pause 200/faceDirection Harvey 0 true/pause 300/globalFade/viewport -1000 -1000/warp Caroline 25 16 2/faceDirection Caroline 2 true/warp Robin 23 18/faceDirection Robin 0 true/warp Emily 25 18/faceDirection Emily 0 true/warp Haley 27 18/faceDirection Haley 0 true/warp Jodi 23 20/faceDirection Jodi 0 true/warp Olivia 25 20/faceDirection Olivia 0 true/warp farmer 27 20/faceDirection farmer 0 true/warp Harvey 24 22/showFrame Harvey 26 true/warp Marnie 26 22/faceDirection Marnie 0 true/positionOffset Robin -15 -3/positionOffset Emily 10 5/positionOffset Haley 12 -7/positionOffset Jodi 7 -3/positionOffset Olivia 5 3/positionOffset Harvey -3 -4/positionOffset Marnie 3 -3/pause 800/viewport 25 19 true/pause 1750/move Caroline -1 0 2/pause 1250/move Caroline 2 0 2/pause 1500/move Caroline -1 0 2/pause 500/speak Caroline \"เอาล่ะ! งั้นเราจะเริ่มละนะ?$1\"/stopMusic/pause 1000/speak Caroline \"เอ้า หนึ่ง และสอง และสาม!$1\"/playMusic cm:SDV_Aerobics_Looped/pause 1000/animate Caroline false true 1035 0 4 0 12/animate Robin false true 1035 8 4 8 12/animate Emily false true 1035 8 4 8 12/animate Haley false true 1035 8 4 8 12/animate Jodi false true 1035 8 4 8 12/animate Olivia false true 1035 8 4 8 12/animate Marnie false true 1035 8 4 8 12/animate Harvey false true 1035 26 25 26 27/move farmer 0 0 0 true/pause 980/move farmer 0 0 1 true/pause 980/move farmer 0 0 0 true/pause 980/move farmer 0 0 3 true/pause 980/move farmer 0 0 0 true/pause 980/move farmer 0 0 1 true/pause 980/move farmer 0 0 0 true/pause 980/move farmer 0 0 3 true/pause 980/textAboveHead Caroline \"เยี่ยมมาก! อย่างนั้นแหละ ทุกคน!\"/move farmer 0 0 0 true/pause 980/move farmer 0 0 1 true/pause 980/move farmer 0 0 0 true/pause 980/move farmer 0 0 3 true/pause 980/move farmer 0 0 0 true/pause 980/move farmer 0 0 1 true/pause 980/move farmer 0 0 0 true/stopAnimation Caroline/stopAnimation Robin/stopAnimation Emily/stopAnimation Haley/stopAnimation Jodi/stopAnimation Olivia/stopAnimation Harvey/stopAnimation Marnie/globalFade/viewport -1000 -1000/pause 1000/stopMusic/pause 1000/speak Caroline \"Okay! Great work everybody!$0#$b#Time for individual workouts!...$1\"/pause 1000/playMusic 50s/pause 800/warp Olivia 22 18/faceDirection Olivia 1 true/warp farmer 24 18/faceDirection farmer 3 true/warp Caroline 27 17/faceDirection Caroline 2 true/warp Robin 28 21/faceDirection Robin 2 true/warp Emily 28 19/faceDirection Emily 2 true/warp Haley 30 20/faceDirection Haley 3 true/warp Marnie 26 21/faceDirection Marnie 2 true/warp Jodi 22 21/warp Harvey 24 20/positionOffset Olivia -15 -2/positionOffset Caroline -15 0/positionOffset Emily -25 0/positionOffset Marnie -4 30/positionOffset Harvey -10 40/positionOffset Jodi -15 15/positionOffset Robin -10 10/animate Jodi false true 100 19 19 19 19 20 21 22 23 23 23 23 22 21 20 19 19 20 21 22 23 23 23 23 22 21 20 21 22 23 22 21 20 22 23 22 21 20/animate Robin false true 100 28 28 29 30 30 31/animate Caroline false true 100 16 16 17 17 16 16 18 18/animate Marnie false true 100 24 25 26 27/animate Emily false true 100 16 16 17 17 16 16 17 17 20 20 21 21 20 20 21 21 16 16 17 17 16 16 17 17 22 22 23 23 22 22 23 23/animate Harvey false true 1000 24 25 24 27/viewport 25 25 true/viewport move 0 -1 6000 true/pause 7000/speak Olivia \"เดี๋ยวเรามาเริ่มต้น จากท่าพื้นฐานก่อน$6#$b#ทำตามฉันนะจ้ะ ที่รัก$3\"/pause 750/faceDirection Olivia 2 true/pause 800/showFrame Olivia 27/pause 250/showFrame Olivia 26/pause 500/speak Olivia \"มาจ้ะ งอขาของคุณไว้ในลักษณะนี้...$3\"/pause 1000/move farmer -1 0 3/pause 400/faceDirection farmer 2 true/pause 1000/showFrame farmer 4/pause 1500/animate Olivia false true 1000 26 26 26 27/pause 200/speak Olivia \"โยคะจะนำคุณสู่ หนทางในการค้นพบตัวเอง และสะท้อน สิ่งที่อยู่ในตัวคุณออกมา$3\"/pause 1000/speak Olivia \"$q -1 null#ตอนนี้คุณกำลังตรึกตรองถึงอะไรอยู่ ที่รัก?#$r -1 0 Olivia_event1#สัตว์เลี้ยงในฟาร์ม#$r -1 0 Olivia_event2#นึกถึงคุณปู่ ว่าท่านจะภูมิใจในตัวฉันมั้ยนะ#$r -1 0 Olivia_event3#ความสัมพันธ์กับผู้คนในเมือง ตั้งแต่ที่ย้ายมาอยู่ที่นี่#$r -1 0 Olivia_event4#บ้านเราอยู่ตรงส่วนไหนของโลก\"/pause 1000/speak Olivia \"เอาล่ะ ที่รัก เก็บความนึกคิดพวกนั้นไว้ในหัวของคุณ จากนั้นสูดลมหายใจเข้าลึกๆ แบบนี้$3\"/pause 1000/showFrame farmer 5/globalFade/viewport -1000 -1000/pause 800/stopMusic/pause 500/end dialogue Olivia \"ฉันสนุกกับคลาสโยคะของเรา มากจริงๆ ที่รัก$3#$e#ไว้เรามาเล่นโยคะ ด้วยกันอีกนะ ที่บ้านแสนสุขของเราดีมั้ยจ้ะ?$1\""
 		}
     },
-	
+
 	{  //OLIVIA 14 Heart - part 1 - How about we go on a trip?
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -16836,7 +16836,7 @@
         "8982818/e 8982808/O Olivia/f Olivia 3500/t 700 2200/z spring/u 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27/t 600 2000": "none/-500 -500/farmer 14 14 3 Olivia 7 14 0/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 800/faceDirection Olivia 1 true/pause 500/speak Olivia \"Hello, dear!$1#$b#I've had something on my mind all day. I wanted to speak to you about it.$6\"/pause 500/emote farmer 8/pause 300/speak Olivia \"I want us to take a little trip together. Somewhere new, somewhere outside Stardew Valley.$3#$b#How do you feel about visiting Sakura Vineyard in Grampleton?$1#$b#It's one of the top vineyards in the world that specializes in Gotoran wine. I don't believe you've been there before.$3\"/pause 1000/jump farmer/pause 1000/speak Olivia \"Oh, honey. I'm glad to hear it!$1#$b#You know, it'll be good for you to visit the vineyard since you're a farmer too. Maybe you'll learn a thing or two.$3\"/pause 500/emote farmer 32/pause 500/speak Olivia \"I'll make a reservation for us. I'm so happy we're doing this...$3\"/pause 600/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"Olivia and I are taking a trip to Sakura Vineyard in Grampleton next spring. It'll be fun!\"/pause 1000/end dialogue Olivia \"Sakura Vineyard was founded over 50 years ago. It's become a popular tourist spot, so the owners built a few cottages around their property for visitors.$3#$b#We'll stay a few nights.$1#$e#Isn't it lovely to have something to look forward to? I can't wait for spring, dear!$3\""
 		}
     },
-	
+
 	{  //OLIVIA 14 Heart - part 2 - Today is the day!
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -16852,7 +16852,7 @@
         "8982820/O Olivia/e 8982819/t 1000 1600": "none/-500 -500/farmer 44 40 3 Olivia 43 40 1 Susan 50 48 1 MarlonFay 14 19 0/skippable/animate Susan false true 750 16 17/positionOffset farmer 5 20 true/positionOffset Olivia -5 20 true/playMusic SettlingIn/pause 500/addTemporaryActor GrampletonTrain 650 66 33 44 2 false/positionOffset GrampletonTrain -23 -34/viewport 43 42 clamp true/pause 1500/faceDirection Olivia 1 true/pause 500/faceDirection farmer 3 true/pause 500/speak Olivia \"The train arrived right on time! I can barely contain my excitement!$1\"/pause 650/message \"Conductor: ALL ABOARD!!!\"/pause 500/faceDirection Olivia 2 true/pause 500/faceDirection farmer 2 true/pause 1000/faceDirection Olivia 1 true/pause 600/faceDirection farmer 3 true/pause 500/speak Olivia \"Off we go to Grampleton, dear!$3\"/pause 600/showFrame farmer 97 true/pause 1000/showFrame farmer 6 true/pause 650/faceDirection Olivia 2 true/pause 500/faceDirection farmer 2 true/pause 250/globalFade/viewport -1000 -1000/warp Susan -20 -20/warp MarlonFay -21 -21/warp GrampletonTrain -20 -20/playMusic cm:GrampletonTrainStationArrival/changeLocation Custom_GrampletonTrainStation/addTemporaryActor GenericNPC1 16 32 -30 -30 2/addTemporaryActor GenericNPC1 16 32 -29 -29 2/addTemporaryActor GenericNPC1 16 32 -28 -28 2/addTemporaryActor GenericNPC1 16 32 -27 -27 2/addTemporaryActor GenericNPC1 16 32 -26 -26 2/addTemporaryActor GenericNPC2 16 32 -25 -25 2/addTemporaryActor GenericNPC3 16 32 -24 -24 2/addTemporaryActor GenericNPC4 16 32 -23 -23 2/addTemporaryActor GenericNPC5 16 32 -22 -22 2/addTemporaryActor GenericNPC6 16 32 -21 -21 2/addTemporaryActor GenericNPC7 16 32 -20 -20 2/addTemporaryActor GenericNPC8 16 32 -19 -19 2/pause 14000/playMusic cm:GrampletonTrainStationAmbience/pause 1000/warp GenericNPC8 0 19/speed GenericNPC8 1/advancedMove GenericNPC8 false 60 0/warp GenericNPC2 42 10/advancedMove GenericNPC2 false -60 0/warp GenericNPC1 0 15/advancedMove GenericNPC1 false 60 0/warp GenericNPC4 44 10/speed GenericNPC4 1/advancedMove GenericNPC4 false -60 0/warp Olivia 26 9/faceDirection Olivia 3 true/warp farmer 24 9/faceDirection farmer 1 true/viewport 24 11 clamp true/pause 2250/speak Olivia \"Ah, we've arrived at the Grampleton Train Station, a marvelous hub for train routes across the country.$3\"/pause 1000/emote farmer 32 true/pause 1000/speak Olivia \"This station is always bustling with activity. It's wonderful seeing so many people in one place, each with their own story.$1\"/pause 750/shake Olivia 500/pause 200/speak Olivia \"Oh, Look at the time! Come, dear. I arranged a taxi. It'll take us to our little cottage.$3\"/pause 500/jump farmer/pause 500/globalFade/viewport -1000 -1000/warp GenericNPC2 -10 -10/warp GenericNPC4 -9 -9/warp GenericNPC8 -8 -8/warp GenericNPC1 -90 -90/warp farmer -5 -5/warp Olivia -4 -4/faceDirection farmer 0 true/faceDirection Olivia 0 true/changeLocation Custom_SakuraVineyardCottage/stopMusic/pause 1000/addTemporaryActor GrampletonTaxi 120 60 46 32 2 false/playMusic cm:Taxi/pause 1800/advancedMove GrampletonTaxi false -22 0/viewport 27 30 clamp true/pause 13500/globalFade/viewport -1000 -1000/warp GrampletonTaxi -80 -80/warp farmer 26 29/faceDirection farmer 3 true/warp Olivia 27 29/faceDirection Olivia 3 true/addTemporaryActor Taxi1 30 200 20 32 2 false/addTemporaryActor Taxi2 30 200 22 32 2 false/addTemporaryActor Taxi3 30 200 24 32 2 false/addTemporaryActor Taxi4 30 200 26 32 2 false/positionOffset Taxi1 4 400 true/positionOffset Taxi2 -10 400 true/positionOffset Taxi3 -24 400 true/positionOffset Taxi4 -38 400 true/speed Taxi1 3/advancedMove Taxi1 false -24 0/speed Taxi2 3/advancedMove Taxi2 false -26 0/speed Taxi3 3/advancedMove Taxi3 false -28 0/speed Taxi4 3/advancedMove Taxi4 false -28 0/viewport 27 28 clamp true/pause 6000/playMusic spring_day_ambient/shake Olivia 600/pause 650/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 750/speak Olivia \"It's incredible how quickly the hours go by when you're taking in all the new scenery...$3\"/pause 750/emote farmer 32/pause 300/speak Olivia \"Let's get inside, shall we? You must be exhausted after a long trip. I certainly am.$3\"/pause 500/viewport move 0 -1 18500 true/faceDirection Olivia 0 true/pause 400/faceDirection farmer 0 true/pause 300/move Olivia 0 -11 0 true/pause 200/move farmer 0 -11 0 true/pause 6750/faceDirection Olivia 3 true/pause 750/faceDirection farmer 1 true/pause 500/emote Olivia 32/pause 500/faceDirection Olivia 0 true/pause 500/move Olivia 0 -1 0/pause 350/warp Olivia -10 -10/playSound doorClose/pause 500/move farmer 1 0 0/move farmer 0 -1 0/pause 800/warp farmer -9 -9/playSound doorClose/pause 1500/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_SakuraVineyardCottageInterior/warp farmer 9 10/faceDirection farmer 3 true/warp Olivia 7 10/faceDirection Olivia 1 true/viewport 8 10 true/pause 1500/speak Olivia \"I must say, I rather like this quaint cottage. It has so much personality to it.$3#$b#We can finally relax after travelling across the country.$1\"/pause 750/shake Olivia 750/pause 150/textAboveHead Olivia \"*yawn*\"/pause 2000/speak Olivia \"We have a very busy day tomorrow at Sakura Vineyard. I'm going to start getting ready for bed. Care to join me, dear?$3\"/pause 800/move Olivia 1 0 0/move Olivia 0 -5 0 true/pause 500/faceDirection farmer 0 true/pause 750/move farmer 0 -4 0 true/globalFade/viewport -1000 -1000/pause 500/changeLocation Custom_SakuraVineyard/message \"The next day...\"/pause 1000/speak Olivia \"Oh, my! Sakura Vineyard! It's even more grand in person!$1#$b#Let's check in and start touring the grounds, dear.$3\"/pause 500/playMusic kindadumbautumn/warp GenericNPC3 35 12/faceDirection GenericNPC3 0 true/pause 1000/warp farmer 36 35/faceDirection farmer 0 true/warp Olivia 37 35/faceDirection Olivia 0 true/warp GenericNPC7 38 28/speed GenericNPC7 1/move GenericNPC7 0 10 2 true/viewport 37 32 clamp true/viewport move 0 -1 10500 true/move farmer 0 -9 0 true/move Olivia 0 -9 0 true/pause 6500/faceDirection farmer 1 true/pause 750/faceDirection Olivia 3 true/pause 750/globalFade/viewport -1000 -1000/warp GenericNPC7 -60 -60/warp farmer 36 18/faceDirection farmer 0 true/warp Olivia 37 18/faceDirection Olivia 0 true/viewport 37 14 clamp true/move farmer 0 -4 0 true/move Olivia 0 -4 0 true/pause 1000/faceDirection GenericNPC3 1 true/pause 300/faceDirection GenericNPC3 2 true/pause 500/jump GenericNPC3/pause 850/move GenericNPC3 0 1 1/move GenericNPC3 1 0 2/pause 400/textAboveHead GenericNPC3 \"Ah, greetings! Checking in?\"/pause 2500/globalFade/viewport -1000 -1000/changeLocation Custom_SakuraVineyardCellar/warp GenericNPC3 13 13/faceDirection GenericNPC3 3 true/warp Olivia 11 14/faceDirection Olivia 1 true/warp farmer 11 12/faceDirection farmer 1 true/viewport 17 8 clamp true/viewport move 0 1 8750 true/pause 2000/shake GenericNPC3 750/pause 250/textAboveHead GenericNPC3 \"We age our wine with trademark casks!\"/pause 4000/globalFade/viewport -1000 -1000/changeLocation Custom_SakuraVineyard/warp GenericNPC3 -20 -20/warp farmer 13 27/faceDirection farmer 1 true/warp Olivia 11 27/faceDirection Olivia 1/move farmer 18 0 1 true/move Olivia 18 0 1 true/warp GenericNPC6 10 16/speed GenericNPC6 1/move GenericNPC6 0 10 2 true/viewport 17 27 clamp true/viewport move 1 0 9000 true/pause 7000/globalFade/viewport -1000 -1000/pause 500/warp GenericNPC6 -30 -30/warp GenericNPC5 43 29/speed GenericNPC5 1/move GenericNPC5 12 0 1 true/warp Olivia 58 34/warp farmer 60 34/viewport 58 34 clamp true/viewport move -1 0 9000 true/move Olivia -19 0 3 true/move farmer -19 0 3 true/pause 7000/globalFade/viewport -1000 -1000/warp GenericNPC5 -100 -100/changeLocation Custom_SakuraVineyardDiningRoom/pause 500/warp Olivia 9 8/warp farmer 10 8/faceDirection farmer 1 true/positionOffset Olivia -5 30 true/positionOffset farmer 5 45 true/animate Olivia true true 100 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 19 19 19 19 19 19 19 18 17 16/warp GenericNPC3 12 8/faceDirection GenericNPC3 3 true/viewport 10 10 clamp true/pause 1000/textAboveHead GenericNPC3 \"Enjoy your wine tasting!\"/pause 2500/faceDirection GenericNPC3 2 true/pause 250/speed GenericNPC3 1/move GenericNPC3 0 9 2 true/pause 1000/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 2500/textAboveHead Olivia \"Dear, try the merlot!\"/pause 2000/showFrame farmer 97 true/pause 1000/showFrame farmer 6 /pause 500/globalFade/viewport -1000 -1000/warp GenericNPC3 -20 -20/changeLocation Custom_SakuraVineyard/warp Olivia 37 7/faceDirection Olivia 2 true/stopAnimation Olivia/warp farmer 37 7/positionOffset Olivia -45 -15 true/positionOffset farmer 45 0 true/faceDirection farmer 2 true/faceDirection Olivia 2 true/ambientLight 130 130 130/stopMusic/pause 1000/playMusic spring_night_ambient/pause 1250/viewport 37 6 clamp true/showFrame Olivia 23 true/pause 1200/showFrame Olivia 22/pause 150/showFrame Olivia 21 true/pause 150/showFrame Olivia 20 true/pause 1000/showFrame Olivia 0 true/pause 2500/speak Olivia \"The view from this balcony is astonishing. It's almost as if the grape trellises extend beyond the horizon...$3#$b#This is what decades of work looks like. I'd say it paid off!$1\"/pause 1250/faceDirection Olivia 1 true/pause 800/faceDirection farmer 3 true/pause 750/speak Olivia \"I hope this little trip of ours will be a memory you'll look back on later in life...$4\"/pause 1000/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/positionOffset Olivia 1 0/pause 50/positionOffset farmer -1 0/pause 50/showFrame Olivia 28 true/showFrame farmer 101 true/playSound dwop/specificTemporarySprite heart 38 6/pause 2000/globalFade/viewport -1000 -1000/pause 1000/stopMusic/pause 1000/message \"That was a fun trip to Grampleton! But now it's time to return home in Stardew Valley.\"/playMusic cm:DistantTrain/pause 6000/end dialogue Olivia \"I wonder where we'll visit for our next trip, dear?$3#$b#Perhaps Sautine City! I don't believe you've been there too.$1\""
 		}
     },
-	
+
 	{
       "Action": "Load",   //650x66
 	  "Target": "Characters/GrampletonTrain", //It's a train. It travels across the country. choo choo im a train
@@ -16903,7 +16903,7 @@
 	  "Target": "Characters/GenericNPC8", //Martin rip off
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/GenericNPC8.png"
     },
-	
+
 
 
 {       //DATING OLIVIA AND VICTOR EVENT - player has rabbit's foot
@@ -17266,16 +17266,16 @@
 },
 
     //ANDY 10 Heart event - 'Old Friends' (Player hasn't refurbished Aurora Vineyard)
-{   
+{
 	"Action": "EditData",
 	"Target": "data/events/Custom_AndyHouse",
-	"Entries": { 
+	"Entries": {
     "5000006/k 746153086/n AndyPictureLetter": "kindadumbautumn/-500 -500/Andy 16 17 3 farmer -50 -50 0/animate Andy true true 100 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 34 33 32 32 32 32 32 32 32 32 32 32 32/pause 1000/viewport 12 15 true/skippable/pause 1750/playSound stoneStep/playSound stoneStep/pause 300/playSound stoneStep/playSound stoneStep/pause 230/playSound stoneStep/playSound stoneStep/pause 1200/warp farmer 12 22/playSound doorClose/pause 500/move farmer 0 -5 1 true/pause 2500/stopAnimation Andy/pause 500/speak Andy \"Hey, farmer. See you got that there letter of mine.$0\"/pause 400/move Andy -2 0 3/pause 300/speak Andy \"Jus' wanted to show you somethin' I think you'd appreciate.$3#$b#Found 'em while cleanin' my house.$1\"/pause 600/move Andy -1 0 0/move Andy 0 -1 3/move Andy -4 0 0 true/pause 200/faceDirection farmer 0 true/pause 500/faceDirection farmer 3 true/pause 2500/move farmer -1 0 0/move farmer 0 -1 0/pause 150/faceDirection farmer 3/pause 400/showFrame Andy 36/pause 1100/playSound newRecipe/shake Andy 400/pause 800/showFrame Andy 8/pause 750/showFrame Andy 37/pause 800/speak Andy \"I have an old picture of Aurora Vineyard in its prime.$3#$b#Here. Take a look!$1\"/pause 350/showFrame Andy 38/pause 950/move farmer -1 0 3/pause 300/globalFade/viewport -1000 -1000/stopMusic/warp farmer -100 -100/warp Andy -101 -101/changeLocation Custom_AuroraVineyardPictureMap/AmbientLight 255 255 255/viewport 12 11 true/pause 250/playSound newRecipe/pause 350/playMusic musicboxsong/pause 14000/globalFade/viewport -1000 -1000/changeLocation Custom_AndyHouse/warp farmer 10 16/warp Andy 9 16/faceDirection Andy 1 true/positionOffset farmer 15 10/viewport 12 15 true/pause 1000/speak Andy \"Heh. I recall the day Jerry figured out how to craft kegs.$0#$b#That was a heck of a party!$1#$b#Elizabeth was a nice lady too. Sometimes invited me for tea and cookies.$3\"/pause 800/faceDirection Andy 0 true/pause 300/textAboveHead Andy \"Got this too.\"/pause 500/showFrame Andy 36/pause 1000/playSound newRecipe/shake Andy 250/pause 800/showFrame Andy 8/pause 600/showFrame Andy 37/pause 800/speak Andy \"Also got here a picture of Stardust Farm.$3\"/pause 800/showFrame Andy 38/pause 600/globalFade/viewport -1000 -1000/changeLocation Custom_StardustFarmPictureMap/warp farmer -40 -40/warp Andy -40 -40/ambientLight 255 255 255/viewport 10 12 true/playSound newRecipe/pause 14000/globalFade/viewport -1000 -1000/pause 100/changeLocation Custom_AndyHouse/ambientLight 90 90 90/warp farmer 10 16/warp Andy 9 16/faceDirection Andy 1 true/positionOffset farmer 15 10/positionOffset Andy -10 0/positionOffset farmer 10 7/viewport 12 15 true/pause 1000/speak Andy \"Alexa was a sweet girl. Always wore those bright yellow dresses on a sunny day.$0#$b#She grew the prettiest flowers in the valley.$3#$b#The honey and maple syrup from Stardust Farm was so sweet it'd send a bear spinnin'$1.\"/pause 900/speak Andy \"We commissioned Robin to build those there makeshift wooden bridges.$0#$b#Sure was nice seein' that smile of hers, bright as sunshine..$0\"/pause 1200/faceDirection Andy 2 true/pause 900/speak Andy \"I've come to learn friends come 'n go.#$b#And...\"/pause 1000/showFrame Andy 22/pause 800/speak Andy \"You never know when you'll meet a new one.$8\"/pause 800/showFrame Andy 0 true/pause 700/faceDirection Andy 1 true/pause 700/speak Andy \"Hmm. Hey. Let's grab some 'farmer's lunch'. I got fresh forage to go with it.$3\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Andy \"Glad you got to see what their farms looked like in their prime, farmer.$0#$e#Keep workin' hard and have yourself a great day.$3\"",
 	},
 },
 
     //ANDY 10 Heart event - 'Old Friends' (Player has refurbished Aurora Vineyard)
-{   
+{
 	"Action": "EditData",
 	"Target": "data/events/Custom_AndyHouse",
 	"Entries": {
@@ -18962,7 +18962,7 @@
 	 "HaleyHouse_14_7": "เธอตัดผ้าได้สุดยอดมากๆ เลย โซเฟีย!$0",
 	  },
     },
-    
+
 	{ //Blue Moon Vineyard - 10 heart - The Prairie Queen
       "Action": "EditData",
       "Target": "Data/Events/Custom_SophiaHouse",
@@ -19055,7 +19055,7 @@
         "8185301/O Sophia/f Sophia 3500/t 700 2200/z spring/u 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27/t 600 2000": "none/-500 -500/farmer 14 14 3 Sophia 7 14 0/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 800/faceDirection Sophia 1 true/pause 500/speak Sophia \"Hey, you!$9#$b#I wanted to talk to you about something!$1\"/pause 500/emote farmer 8/pause 300/speak Sophia \"The Zuzu City Comic Con badges just went on sale. It's happening next spring!$1#$b#I really wanna go with you! There'll be lots of things to do and see. Merch, art, all kinda of amazing cosplay....$9#$b#What do you think?$1\"/pause 1000/jump farmer/pause 1000/speak Sophia \"Yay!$8#$b#I'm gonna wear my Journey of the Prairie King cosplay and do my skit. It'll be so much fun!$1\"/pause 500/emote farmer 32/pause 500/speak Sophia \"I'll buy our badges. I'm so happy you wanna go with me...$4\"/pause 600/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"Sophia and I are going to the Zuzu City Comic Con next spring. It'll be an experience!\"/pause 1000/end dialogue Sophia \"You should think about what costume you wanna wear. Maybe we can match!$1#$e#I bet Scarlett will tag along with us too... ooh, three-person costume theme?!$9\""
 		}
     },
-	
+
 	{  //SOPHIA 14 Heart - part 2 - Let's go to the convention! Grab your costume!
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
@@ -19073,7 +19073,7 @@
     },
 
 
-{  //Removes NPC shadow at highway 
+{  //Removes NPC shadow at highway
    "Action": "EditImage",
    "Target": "LooseSprites/Shadow",
    "FromFile": "Assets/Tilesheets/FakeShadow.png",
@@ -19724,7 +19724,7 @@
 //////////////////////////
 
     //MARLON NPC
-	
+
     {
       //Marlon's NPC Disposition
       "Action": "EditData",
@@ -20252,7 +20252,7 @@
 	 "65360182/t 600 1100": "none/-500 -500/farmer -200 -200 0 MarlonFay -30 -30 0/skippable/pause 1500/speak MarlonFay \"Good morning, @. There's something I want to discuss with you. Drop by the guild when you have a moment.$0\"/pause 1000/end"
 	    },
     },
-	
+
 	//Event #2 - Marlon's Boat    <<ID tagged by framework
     {
 	 "Action": "EditData",
@@ -20261,7 +20261,7 @@
 	 "65360183/e 65360182": "MarlonsTheme/-500 -500/farmer 6 19 0 MarlonFay 10 12 1/skippable/pause 1000/viewport 7 14 true/move farmer 0 -4 1/pause 1250/faceDirection MarlonFay 2 true/pause 250/faceDirection MarlonFay 3 true/pause 500/speak MarlonFay \"Ah, you're here.$0\"/pause 500/move MarlonFay -2 0 2/move MarlonFay 0 1 3/move MarlonFay -2 0 2 true/pause 500/faceDirection farmer 0 true/pause 1250/speak MarlonFay \"It has come to my attention that Lance owns an outpost far up north in the highlands.#$b#My boat docked outside is capable of traveling there.\"/pause 500/emote farmer 16/pause 300/speak MarlonFay \"I'll give you permission to use my boat, but in return I want you to do something for me first...$0\"/pause 400/emote farmer 8/pause 250/speak MarlonFay \"I need a variety of monster parts. Let's talk specifics.$0\"/pause 500/speed MarlonFay 1/move MarlonFay 0 1 2 true/globalFade/viewport -1000 -1000/stopMusic/pause 1000/end dialogue MarlonFay \"Hmm? What are the monster parts for? I'm afraid I'm not at liberty to say.$0#$e#From what I've been told, the highlands are a dangerous place.$0\""
 	    },
     },
-	
+
 	//Event #3 - Marlon's Boat  <<Triggers map patch
     {
 	 "Action": "EditData",
@@ -20271,9 +20271,9 @@
 	 "65360184": "continue/-50 -50/farmer 64 15 2 MarlonFay -30 -30 0/skippable/pause 1500/speak MarlonFay \"I looked over the monster parts you delivered. Great job.#$b#Meet me at the guild dock when you're ready.\"/pause 500/end"
 	 },
     },
-	
+
 	//>>>go to event ID: 65360185 (Lance 2 hrt)
-	
+
     {
       "Action": "EditMap",
       "Target": "Maps/Custom_AdventurerSummit",
@@ -22484,14 +22484,14 @@
       "Target": "Characters/Dialogue/Apples",
       "FromFile": "assets/CharacterFiles/Dialogue/Apples/Dialogue.json"
     },
-	
+
 	{
       //Apples' Roommate Dialogue
       "Action": "Load",
       "Target": "Characters/Dialogue/MarriageDialogueApples",
       "FromFile": "assets/CharacterFiles/Dialogue/Apples/RoommateDialogue.json"
     },
-	
+
 	{
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
@@ -22500,7 +22500,7 @@
       },
 
     },
-	
+
 	{
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
@@ -22509,8 +22509,8 @@
         "ApplesRoommate1": "Apples has many starfruit to carry to new home!$1"
       }
     },
-	
-	
+
+
     //Prevents players from gifting the super starfruit
 
 {    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
@@ -23091,9 +23091,9 @@
         "CharlieChicken": true
       }
     },
-	
-    
-    //HIGHLANDS DWARF NPC	
+
+
+    //HIGHLANDS DWARF NPC
 
 	{
       //Highlands Dwarf's NPC disposition
@@ -23103,8 +23103,8 @@
         "HighlandsDwarf": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_HighlandsDwarf_WarpRoom 3 3/Dwarf",
         }
     },
-	
-    {  
+
+    {
 	  //Highlands Dwarf's sprites
       "Action": "Load",
 	  "Target": "Characters/HighlandsDwarf",
@@ -23117,14 +23117,14 @@
 	  "Target": "Portraits/HighlandsDwarf",
 	  "FromFile": "Assets/CharacterFiles/Portraits/HighlandsDwarf/HighlandsDwarf.png"
     },
-	
+
 	{
       //Highlands Dwarf's schedule
       "Action": "Load",
       "Target": "Characters/schedules/HighlandsDwarf",
       "FromFile": "assets/CharacterFiles/Schedules/HighlandsDwarf/Schedule.json"
     },
-	
+
     {
       //Highlands Dwarf's dialogue
       "Action": "Load",
@@ -23157,7 +23157,7 @@
       "When": { "HasSeenEvent": "55134261" },
 	  "Update": "OnLocationChange"
     },
-	
+
 	{  //Highlands Dwarf event - first entry, player has the key
       "Action": "EditData",
       "Target": "data/events/Custom_HighlandsCavernPrison",
@@ -23170,7 +23170,7 @@
       "Action": "EditData",
       "Target": "data/events/Custom_HighlandsCavernPrison",
       "Entries": {
-      "55134260/k 55134259": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"You're not one of them...#$b#Have you come to help me?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...#$b#There's a terrible monster on the peak of this mountain...#$b#It has the key to my prison, along with many treasures it swallowed...#$b#You would need to defeat it...\"/pause 500/emote farmer 32/pause 400/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 500/move farmer 0 2 2 true/viewport move 0 1 1000 true/pause 400/speak HighlandsDwarf \"A word of caution...\"/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 500/speak HighlandsDwarf \"If it touches you, you'll surely be met with a horrible fate. Be careful...\"/pause 500/globalFade/viewport -1000 -1000/end position 19 22"  
+      "55134260/k 55134259": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"You're not one of them...#$b#Have you come to help me?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...#$b#There's a terrible monster on the peak of this mountain...#$b#It has the key to my prison, along with many treasures it swallowed...#$b#You would need to defeat it...\"/pause 500/emote farmer 32/pause 400/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 500/move farmer 0 2 2 true/viewport move 0 1 1000 true/pause 400/speak HighlandsDwarf \"A word of caution...\"/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 500/speak HighlandsDwarf \"If it touches you, you'll surely be met with a horrible fate. Be careful...\"/pause 500/globalFade/viewport -1000 -1000/end position 19 22"
        }
     },
 
@@ -23181,7 +23181,7 @@
       "55134259/e 55134261/e 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 2/removeItem {{spacechase0.JsonAssets/ObjectId:Golden Key}}/changeLocation Custom_HighlandsCavernPrisonEvent/positionOffset DwarfPrisonDoor 0 -14 true/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/move farmer 2 0 0/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 250/move HighlandsDwarf 0 1 1/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"I can't recall how many moon phases have passed since my capture...#$b#My home... isn't what it once was...#$b#I shall find a new one.\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...Thank you.#$b#I shall find a way to repay you...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
        }
     },
-	
+
 	{
       "Action": "EditMap",
       "Target": "Maps/Custom_Highlands",
@@ -23189,7 +23189,7 @@
       "ToArea": { "X": 109, "Y": 127,"Width": 20, "Height": 11 },
 	  "When": { "HasSeenEvent": "55134259" },
     },
-	
+
 	{
      "Action": "EditMap",
      "Target": "Maps/Custom_Highlands",
@@ -23203,7 +23203,7 @@
       },
      ]
     },
-	
+
 	{  //Highlands Dwarf event - 'My New Home'
       "Action": "EditData",
       "Target": "data/events/Custom_Highlands",
@@ -23496,7 +23496,7 @@
       "Target": "Characters/Dialogue/Claire",
       "FromFile": "assets/CharacterFiles/Dialogue/Claire/Claire.json"
     },
-	
+
 	{
       "Action": "EditData",
       "Target": "strings/StringsFromCSFiles",
@@ -23511,7 +23511,7 @@
       "Relationship:Claire": "Engaged"
       },
     },
-	
+
 	{
       //Claire's Joja Mart dialogue patches
       "Action": "EditData",
@@ -23523,7 +23523,7 @@
 		"winter_Wed": "Working at Joja Mart has its perks. I get 10 percent off each purchase.$1#$e#Have you tried any frozen Joja meals?$1",
       }
     },
-	
+
     {
       //Claire's Movie Theater dialogue patches
       "Action": "EditData",
@@ -25340,31 +25340,31 @@
       "Camilla": true
       }
     },
-	
-	{ 
+
+	{
 	  //Camilla notices the player dating a son and a mother. Very naughty. (spring, summer, fall)
       "Action": "EditData",
       "Target": "Data/Events/Town",
 	  "When": { "Relationship:Victor": "Dating", "Relationship:Olivia": "Dating", "HasSeenEvent |contains=908079, 7775926": true },
       "Entries": {
       "694613083/t 2200 2600/z winter": "spring_night_ambient/-500 -500/farmer 64 54 3 Camilla -30 -30 1 Olivia -20 -20 2 Linus 108 92 0 Krobus 35 103 2 Lewis 59 87 3 Marnie 58 87 1/pause 1000/skippable/move farmer 0 -1 3/viewport 63 53 true/viewport move -1 0 10400 true/move farmer -5 0 3/pause 1000/faceDirection farmer 0 true/pause 1000/emote farmer 32/pause 750/faceDirection farmer 3 true/pause 500/move farmer -6 0 3/screenFlash 1/playSound wand/warp Camilla 51 53/jump farmer/pause 1000/speak Camilla \"My, my. Fancy seeing you here near this very refined residence.$0#$b#Come here... often?$5\"/pause 1000/emote farmer 40/pause 500/shake Camilla 500/pause 400/speak Camilla \"You know, I've dabbled in multiple relationships at the same time.$0#$b#But a mother and son? That raises even my eyebrows - and I'm hard to shock.$1\"/pause 1150/startJittering/pause 800/stopJittering/pause 300/speed Camilla 1/move Camilla 1 0 1/pause 500/speak Camilla \"*whisper* Anyway, it's not my place to interfere. Just color me intrigued...$0#$b#Have fun tonight.$5\"/pause 500/faceDirection Camilla 2 true/pause 500/showFrame Camilla 17/pause 500/showFrame Camilla 19 true/pause 400/shake Camilla 500/pause 400/screenFlash 1/warp Camilla -30 -30/playSound wand/pause 2000/playSound doorClose/warp Olivia 59 52/pause 500/emote Olivia 8 true/viewport move 1 0 2500 true/pause 500/faceDirection farmer 0 true/pause 300/faceDirection farmer 1 true/pause 300/speak Olivia \"What on earth was that sound?$2\"/pause 500/move Olivia 0 1 2/pause 300/faceDirection Olivia 3 true/pause 500/emote Olivia 16/pause 400/move Olivia -4 0 3/pause 300/speak Olivia \"You're up late, honey. Do you know where that strange noise came from?$2\"/pause 750/emote farmer 36/pause 500/speak Olivia \"Hmm. I see. Well...$0#$b#Victor is at a sleepover tonight. And since you're here...$6\"/pause 500/question fork0 \"Would you care for a cup of coffee?#Sure.#No thanks.\"/fork 694613083_ComeInside/pause 500/emote Olivia 40/pause 150/speak Olivia \"Okay. Have a nice evening, honey.$3#$b#Let me know tomorrow if you find out what that noise was.$6\"/pause 650/faceDirection Olivia 2 true/pause 250/faceDirection Olivia 1 true/pause 500/move Olivia 4 0 0/move Olivia 0 -1 0/pause 500/warp Olivia -29 -29/playSound doorClose/pause 1000/faceDirection farmer 2 true/pause 300/faceDirection farmer 3 true/pause 500/advancedMove farmer false -4 0 0 10/pause 1000/globalFade/viewport -1000 -1000/pause 1000/end dialogue Olivia \"I wonder what that noise outside was...$0#$b#Are you sure you didn't hear it?$6#$e#...$6#$e#%Olivia looks skeptical.\"",
-      
+
 	  "694613083_ComeInside": "pause 500/emote Olivia 20/pause 300/speak Olivia \"I'll put a hint of Gotoran spice in it. Come inside, dear.$3\"/pause 500/viewport move 1 0 4500 true/pause 250/faceDirection Olivia 2 true/pause 250/faceDirection Olivia 1 true/pause 500/advancedMove Olivia false 4 0 0 -1/pause 400/advancedMove farmer false 6 0 0 -1/pause 2100/warp Olivia -30 -30/playSound doorClose/pause 1400/warp farmer -29 -29/playSound doorClose/pause 1500/viewport move 0 -1 7000 true/pause 2750/globalFade/viewport -1000 -1000/pause 1000/end dialogue Olivia \"I thoroughly enjoyed your late-night surprise visit, dear.$6\""
 	  }
     },
-	
-	{ 
+
+	{
 	  //Camilla notices the player dating a son and a mother. Very naughty. (winter)
       "Action": "EditData",
       "Target": "Data/Events/Town",
 	  "When": { "Relationship:Victor": "Dating", "Relationship:Olivia": "Dating", "HasSeenEvent |contains=908079, 7775926": true },
       "Entries": {
       "694613083/t 2200 2600/z spring/z summer/z fall": "winter_day_ambient/-500 -500/farmer 64 54 3 Camilla -30 -30 1 Olivia -20 -20 2 Linus 108 92 0 Krobus 35 103 2 Lewis 59 87 3 Marnie 58 87 1/pause 1000/skippable/move farmer 0 -1 3/viewport 63 53 true/viewport move -1 0 10400 true/move farmer -5 0 3/pause 1000/faceDirection farmer 0 true/pause 1000/emote farmer 32/pause 750/faceDirection farmer 3 true/pause 500/move farmer -6 0 3/screenFlash 1/playSound wand/warp Camilla 51 53/jump farmer/pause 1000/speak Camilla \"My, my. Fancy seeing you here near this refined residence.$0#$b#Come here... often?$5\"/pause 1000/emote farmer 40/pause 500/shake Camilla 500/pause 400/speak Camilla \"You know, I've dabbled in multiple relationships at the same time too.$0#$b#But a mother and son? That's new to even someone like me.$1\"/pause 1150/startJittering/pause 800/stopJittering/pause 300/speed Camilla 1/move Camilla 1 0 1/pause 500/speak Camilla \"*whisper* Anyway, It's not my place to intervene. I'm just intrigued...$0#$b#Have fun tonight.$5\"/pause 500/faceDirection Camilla 2 true/pause 500/showFrame Camilla 17/pause 500/showFrame Camilla 19 true/pause 400/shake Camilla 500/pause 400/screenFlash 1/warp Camilla -30 -30/playSound wand/pause 2000/playSound doorClose/warp Olivia 59 52/pause 500/emote Olivia 8 true/viewport move 1 0 2500 true/pause 500/faceDirection farmer 0 true/pause 300/faceDirection farmer 1 true/pause 300/speak Olivia \"What on earth was that sound?$2\"/pause 500/move Olivia 0 1 2/pause 300/faceDirection Olivia 3 true/pause 500/emote Olivia 16/pause 400/move Olivia -4 0 3/pause 300/speak Olivia \"You're up late, honey. Do you know where that strange noise came from?$2\"/pause 750/emote farmer 36/pause 500/speak Olivia \"Hmm. I see. Well...$0#$b#Victor is at a sleep over tonight. And since you're here...$6\"/pause 500/question fork0 \"Would you care for a cup of coffee?#Sure.#No thanks.\"/fork 694613083_ComeInside/pause 500/emote Olivia 40/pause 150/speak Olivia \"Okay. Have a nice evening, honey.$3#$b#Let me know tomorrow if you find out what that noise was.$6\"/pause 650/faceDirection Olivia 2 true/pause 250/faceDirection Olivia 1 true/pause 500/move Olivia 4 0 0/move Olivia 0 -1 0/pause 500/warp Olivia -29 -29/playSound doorClose/pause 1000/faceDirection farmer 2 true/pause 300/faceDirection farmer 3 true/pause 500/advancedMove farmer false -4 0 0 10/pause 1000/globalFade/viewport -1000 -1000/pause 1000/end dialogue Olivia \"I wonder what that noise outside was...$0#$b#Are you sure you didn't hear it?$6#$e#...$6#$e#%Olivia looks skeptical.\"",
-      
+
 	  "694613083_ComeInside": "pause 500/emote Olivia 20/pause 300/speak Olivia \"I'll put a hint of Gotoran spice in it. Come inside, dear.$3\"/pause 500/viewport move 1 0 4500 true/pause 250/faceDirection Olivia 2 true/pause 250/faceDirection Olivia 1 true/pause 500/advancedMove Olivia false 4 0 0 -1/pause 400/advancedMove farmer false 6 0 0 -1/pause 2100/warp Olivia -30 -30/playSound doorClose/pause 1400/warp farmer -29 -29/playSound doorClose/pause 1500/viewport move 0 -1 7000 true/pause 2750/globalFade/viewport -1000 -1000/pause 1000/end dialogue Olivia \"I thoroughly enjoyed your late-night surprise visit, dear.$6\""
 	  }
     },
-	
+
 
       //LANCE NPC
 
@@ -25389,7 +25389,7 @@
     },
 	//LOVES: Galaxy Soul, Void Shard, Swirl Stone, Green Mushroom, Ornate Treasure Chest, Gemfish, <MONSTER CROP>, and Torpedo Trout
 	//LIKES: all monster crop seeds, all monster crops
-	
+
 	{
 	  //Lance's animations
       "Action": "EditData",
@@ -25425,7 +25425,7 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Schedules/Lance/Lance.json"
     },
-	
+
 	{
       //Lance's Schedule Dialogue
       "Action": "Load",
@@ -25433,7 +25433,7 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Schedules/Lance/ScheduleDialogue.json"
     },
-	
+
     {
       //Lance's dialogue
       "Action": "Load",
@@ -25441,7 +25441,7 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Dialogue/Lance/Dialogue.json"
     },
-	
+
 	{
       //Lance's Engagement Dialogue
       "Action": "EditData",
@@ -25452,7 +25452,7 @@
         "Lance1": "This is the start of a wonderful new adventure together...$4"
       }
     },
-	
+
 	{
       //Lance's marriage dialogue
       "Action": "Load",
@@ -25460,9 +25460,9 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Dialogue/Lance/MarriageDialogue.json"
     },
-	
+
 	//MOVIE THEATER DATA
-		
+
 	{
     "Action": "EditData",
     "Target": "Data/ConcessionTastes",
@@ -25476,12 +25476,12 @@
       "Sandwich", "Popcorn", "Healthy"
     ],
     "DislikedTags": [
-      "Candy", "Sweet", "Sour","Sour Slimes", "Ice Cream Sandwhich", "Cotton Candy", "Jawbreak", "Personal Pizza", "Rock Candy" 
+      "Candy", "Sweet", "Sour","Sour Slimes", "Ice Cream Sandwhich", "Cotton Candy", "Jawbreak", "Personal Pizza", "Rock Candy"
     ]
       },
      },
 	},
-	
+
 	{
       "Action": "EditData",
       "Target": "Data/MoviesReactions",
@@ -25489,7 +25489,7 @@
       "Lance": {
       "NPCName": "Lance",
       "Reactions": [
-	  
+
 	  {
         "Tag": "spring_movie_0", //The Brave Little Sapling
         "Response": "like",
@@ -25513,7 +25513,7 @@
       },
         "ID": "reaction_0"
       },
-	  
+
 	  {
         "Tag": "spring_movie_1",  //Natural Wonders: Exploring Our Vibrant World
         "Response": "love",
@@ -25561,7 +25561,7 @@
       },
         "ID": "reaction_0"
       },
-	  	  
+
       {
         "Tag": "summer_movie_1", //Wumbus
         "Response": "hate",
@@ -25657,7 +25657,7 @@
       },
         "ID": "reaction_0"
       },
-	  
+
       {
         "Tag": "winter_movie_1",  //The Zuzu City Express
         "Response": "hate",
@@ -25688,7 +25688,7 @@
 
     //LANCE FESTIVAL DIALOGUE (must be married to player)
 
-    { 
+    {
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
@@ -25758,7 +25758,7 @@
 
 
 
-    { 
+    {
 	  //Lance Introduction event - 'The Forge'
 	  "Action": "EditData",
 	  "Target": "data/events/caldera",
@@ -25776,7 +25776,7 @@
       "6951321/w sunny/c 1/t 600 1000": "continue/-500 -500/farmer -50 -50 2 Lance -100 -100 0/pause 1250/emote farmer 16/pause 100/speak Lance \"Good morning, @. I hope I'm not intruding.$0\"/pause 750/faceDirection Lance 3 true/pause 900/faceDirection Lance 0 true/pause 275/faceDirection Lance 1 true/pause 825/faceDirection Lance 0 true/pause 500/speak Lance \"I had heard from a colleague your farmland was extraordinary.$1#$b#Their description barely did it justice. This place is breathtaking.$5\"/pause 750/emote farmer 8/pause 250/speak Lance \"Ah, of course. Allow me the opportunity to explain why I'm here.$0#$b#I received word from your guild administrator, Gil, that Marlon was looking to contract with a combat mage.$6#$b#After reviewing the relevant tasks and missions, I decided to accept.$1\"/pause 900/speak Lance \"And I must admit, after we met at Mount Kohldur's caldera, you piqued my interest.$5#$b#I'd like to get to know you better, but I travel quite often, so at the risk of being a little forward...$0#$b#Here's my schedule. [{{spacechase0.JsonAssets/ObjectId:Lance's Schedule}}]\"/pause 350/emote farmer 32/pause 250/speak Lance \"We will meet again soon.$1#$b#I'll be taking my leave now. Farewell, @.$0\"/pause 400/end dialogue Lance \"I'll be working under Marlon's banner for a time.$0#$b#The terrain of Stardew Valley is new to me. I look forward to exploring it.$1\""
 	  },
     },
-	
+
 
 { //Lance's Monster Crop Quest
   "Action": "EditData",
@@ -25858,7 +25858,7 @@
 	 "Lance_Objective_3_Text": "Deliver a winter monster crop to Lance.",
 	    }
     },
-	
+
     {
 	  //Lance 2 heart event (part 1) - 'The Highlands'        <<ID tagged by quest
 	  "Action": "EditData",
@@ -25877,7 +25877,7 @@
 	  "65360186/e 65360185": "continue/-50 -50/farmer 115 114 0 Lance 109 109 3/mail LanceLifeElixirs/skippable/viewport 112 111 true/move farmer 0 -5 3/pause 1000/speak Lance \"Welcome back, @.$5\"/pause 750/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/speak Lance \"Thank you for assisting in my research. I've unfortunately had no luck growing the monster crops myself.$0#$b#From my observations, there's four types of seeds, each capable of growing a seasonal monster crop.$1#$b#*chuckle* Your cultivation skills are perfect for this quest.$5\"/pause 400/emote farmer 32/pause 450/speed Lance 1/move Lance 3 0 1/pause 850/faceDirection Lance 2 true/pause 750/speak Lance \"Monsters won't nest around my magical fires, but they can still chase you past them.$0#$b#If you must retreat, seek shelter in the outpost to shake off any aggressors.$1\"/pause 600/showFrame Lance 0 true/pause 500/faceDirection Lance 1 true/pause 500/speak Lance \"I mailed a crate of life elixirs to your farmhouse address. It should arrive within the next day.$0#$b#They will aid in your adventures here. Best of luck, @.$1\"/pause 1000/globalFade/viewport -1000 -1000/end dialogue Lance \"You're welcome to rest at my outpost, @. The pleasure is all mine.$1#$e#Apologies for the state of it. My home in Castle Village is in far better condition.$0\""
 	 },
     },
-	
+
 	{
 	  //Lance 2 heart event (part 2) - 'Monster Crops' (rainy)       <<ID tagged by framework
 	  "Action": "EditData",
@@ -25908,8 +25908,8 @@
 	  "65360188": "continue/-50 -50/farmer 64 15 2 Lance 64 14 0/skippable/pause 1100/speak Lance \"Hello, @. The monster crops are quite fascinating.$0#$b#I haven't stopped studying their arcane properties since you delivered them.$1\"/pause 250/emote farmer 32/pause 200/speak Lance \"There's a reward in a treasure chest waiting for you at my outpost.$0#$b#It's something I discovered while exploring a dungeon in a far away land...$5\"/pause 400/jump farmer/pause 1000/speak Lance \"*chuckle* Farewell, @.$1\"/pause 500/end dialogue Lance \"Perhaps one day I'll teach you more about magic relics.\""
 	 },
     },
-	
-	{ 
+
+	{
 	  //Lance 4 heart event - 'Blink Relic' - (Castle Village is mentioned)
 	  "Action": "EditData",
 	  "Target": "data/events/islandwest",
@@ -25918,8 +25918,8 @@
       "6951320/w sunny/f Lance 1000/t 600 1800": "continue/-500 -500/farmer 80 80 2 Lance -100 -100 2 Leo 94 69 2/skippable/makeInvisible 81 80 1 10/makeInvisible 78 88 1 4/viewport 80 83 clamp true/viewport move 0 1 5650 true/move farmer 0 7 2 true/pause 8000/showFrame Lance 39 true/warp Lance 83 87/pause 100/showFrame Lance 38 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 20 true/pause 1500/speak Lance \"Beautiful day, isn't it?$0\"/pause 650/faceDirection farmer 1 true/pause 400/emote farmer 16 true/pause 800/faceDirection Lance 3 true/pause 750/speak Lance \"Ah. Apologies for startling you. That wasn't my intention. I was actually hoping to speak with you.$2\"/pause 500/emote farmer 40 true/pause 1000/speak Lance \"I've been patrolling Ginger Island for a long time, since well before you arrived.$6#$b#I've witnessed you communicating with birds, exchanging walnuts for many labor-intensive deeds.$0#$b#Thanks to you, they've repaired the bridge, and even summoned a beach resort, complete with a full bar.$5#$b#I have to say, I've encountered many adventurers during my time in the guild, but none as mysterious such as yourself.$0\"/pause 1000/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"Are you familiar with magic relics, @?$0\"/pause 500/emote farmer 8 true/pause 1000/speak Lance \"Hmm. You aren't. That is most interesting, considering everything else you do...$6\"/pause 500/emote Lance 40 true/pause 1000/speak Lance \"There are many ancient artifacts imbued with magic waiting to be found around the world, many of which come from Galdora.$0#$b#And I just so happen to have a few on me....$5#$b#Here. Hold this.$1\"/pause 500/speed Lance 1/move Lance -1 0 3/pause 500/showFrame Lance 15 true/shake Lance 500/pause 100/playSound dwop/pause 500/showFrame Lance 12 true/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 1650/faceDirection Lance 2 true/pause 500/speak Lance \"Use that to follow me up that cliff. Just focus on where you want to go, and grip the relic tightly.$0\"/pause 600/faceDirection Lance 3 true/pause 750/shake Lance 600/pause 150/showFrame Lance 13 true/pause 300/showFrame Lance 16 true/pause 500/speak Lance \"These relics come in all sorts of shapes and sizes.$1#$b#For example. This blade I have achieves the same goal that staff does.$5\"/pause 750/showFrame Lance 17 true/showFrame Lance 18 true/pause 750/shake Lance 500/pause 500/screenFlash 2/playSound wand/warp Lance 89 94/showFrame Lance 0 true/positionOffset Lance 20 25 true/pause 1600/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 88 94/viewport 90 95 clamp/faceDirection farmer 2 true/positionOffset farmer 0 15 true/pause 1500/faceDirection Lance 3 true/pause 750/faceDirection farmer 1 true/pause 500/speak Lance \"Ah. You catch onto new magic quickly, I see. Not too surprising, given your breadth of experience.$1\"/pause 1250/faceDirection Lance 2 true/pause 1000/faceDirection farmer 2 true/pause 1000/speak Lance \"Ah... now this is a view.$5\"/pause 500/globalFade/viewport 109 109 clamp true/viewport move -1 0 7250 true/pause 5000/globalFade/viewport 0 109 clamp true/viewport move 1 0 7250 true/pause 5000/globalFade/viewport 67 95 clamp true/faceDirection farmer 3 true/faceDirection Lance 3 true/pause 3500/speak Lance \"Have you learned about that ship yet, during your time on the island?$6#$b#They were sailing on a cloudy night, and the ship hit the reef and sank.$6#$b#Some of the sailors were washed away, but a few of them made it to shore and built new lives for themselves here.$6\"/pause 1250/globalFade/viewport 90 95 clamp true/pause 2000/speak Lance \"...$6#$b#Has Camilla spoken to you about visiting Castle Village yet?$6\"/pause 650/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 600/startJittering/pause 600/stopJittering/pause 500/speak Lance \"Strange... Magnus hasn't been quiet about your latent magical abilities.$6#$b#I wonder if she's waiting for something. Or it could be some kind of bizarre test...#6#$b#That's just the sort of thing she'd do.$5#$b#Here, let's go back down.$1\"/pause 850/showFrame Lance 13 true/pause 100/shake Lance 500/pause 150/showFrame Lance 16 true/pause 500/showFrame Lance 17 true/pause 500/showFrame Lance 18 true/pause 500/shake Lance 400/pause 400/screenFlash 2/playSound wand/showFrame Lance 4 true/warp Lance 80 87/positionOffset Lance -10 -12 true/pause 1500/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 82 87/viewport 81 88 clamp/faceDirection farmer 2 true/pause 1200/faceDirection farmer 3 true/pause 650/speak Lance \"Well, that Blink Relic was the only test I needed.$0#$b#You handled it as if you'd been working with magical objects for years.$1#$b#I'll take it back now, if you don't mind.$5\"/pause 750/speed farmer 1/move farmer -1 0 3/pause 500/showFrame farmer 7 true/pause 100/startJittering/pause 300/playSound dwop/pause 150/stopJittering/pause 100/showFrame farmer 6 true/pause 500/message \"The 'Blink Relic' was removed from my inventory.\"/pause 1000/speak Lance \"Whatever Camilla's up to, I'm sure that you and I will both learn about it soon.$0#$b#I'll be seeing more of you, @. Farewell, for now.$1\"/pause 750/faceDirection Lance 2 true/pause 650/showFrame Lance 20 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 38 true/pause 100/warp Lance -20 -20/pause 1000/globalFade/viewport -1000 -1000/pause 500/end dialogue Leo \"Hey. Who's that person with the red spiky hair? I've seen them in places on the island that are hard to climb.$0#$e#The birds say he's a good person!$1\""
 	  },
     },
-	
-	{ 
+
+	{
 	  //Lance 4 heart event - 'Blink Relic' - (Castle Village is not mentioned)
 	  "Action": "EditData",
 	  "Target": "data/events/islandwest",
@@ -25928,8 +25928,8 @@
       "6951320/w sunny/f Lance 1000/t 600 1800": "continue/-500 -500/farmer 80 80 2 Lance -100 -100 2 Leo 94 69 2/skippable/makeInvisible 81 80 1 10/makeInvisible 78 88 1 4/viewport 80 83 clamp true/viewport move 0 1 5650 true/move farmer 0 7 2 true/pause 8000/showFrame Lance 39 true/warp Lance 83 87/pause 100/showFrame Lance 38 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 20 true/pause 1500/speak Lance \"Beautiful day, isn't it?$0\"/pause 650/faceDirection farmer 1 true/pause 400/emote farmer 16 true/pause 800/faceDirection Lance 3 true/pause 750/speak Lance \"Ah. Apologies for startling you. That wasn't my intention. I was actually hoping to speak with you.$2\"/pause 500/emote farmer 40 true/pause 1000/speak Lance \"I've been patrolling Ginger Island for a long time, since well before you arrived.$6#$b#I've witnessed you communicating with birds, exchanging walnuts for many labor-intensive deeds.$0#$b#Thanks to you, they've repaired the bridge, and even summoned a beach resort, complete with a full bar.$5#$b#I have to say, I've encountered many adventurers during my time in the guild, but none as mysterious such as yourself.$0\"/pause 1000/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"Are you familiar with magic relics, @?$0\"/pause 500/emote farmer 8 true/pause 1000/speak Lance \"Hmm. You aren't. That is most interesting, considering everything else you do...$6\"/pause 500/emote Lance 40 true/pause 1000/speak Lance \"There are many ancient artifacts imbued with magic waiting to be found around the world, many of which come from Galdora.$0#$b#And I just so happen to have a few on me....$5#$b#Here. Hold this.$1\"/pause 500/speed Lance 1/move Lance -1 0 3/pause 500/showFrame Lance 15 true/shake Lance 500/pause 100/playSound dwop/pause 500/showFrame Lance 12 true/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 1650/faceDirection Lance 2 true/pause 500/speak Lance \"Use that to follow me up that cliff. Just focus on where you want to go, and grip the relic tightly.$0\"/pause 600/faceDirection Lance 3 true/pause 750/shake Lance 600/pause 150/showFrame Lance 13 true/pause 300/showFrame Lance 16 true/pause 500/speak Lance \"These relics come in all sorts of shapes and sizes.$1#$b#For example. This blade I have achieves the same goal that staff does.$5\"/pause 750/showFrame Lance 17 true/showFrame Lance 18 true/pause 750/shake Lance 500/pause 500/screenFlash 2/playSound wand/warp Lance 89 94/showFrame Lance 0 true/positionOffset Lance 20 25 true/pause 1600/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 88 94/viewport 90 95 clamp/faceDirection farmer 2 true/positionOffset farmer 0 15 true/pause 1500/faceDirection Lance 3 true/pause 750/faceDirection farmer 1 true/pause 500/speak Lance \"Ah. You catch onto new magic quickly, I see. Not too surprising, given your breadth of experience.$1\"/pause 1250/faceDirection Lance 2 true/pause 1000/faceDirection farmer 2 true/pause 1000/speak Lance \"Ah... now this is a view.$5\"/pause 500/globalFade/viewport 109 109 clamp true/viewport move -1 0 7250 true/pause 5000/globalFade/viewport 0 109 clamp true/viewport move 1 0 7250 true/pause 5000/globalFade/viewport 67 95 clamp true/faceDirection farmer 3 true/faceDirection Lance 3 true/pause 3500/speak Lance \"Have you learned about that ship yet, during your time on the island?$6#$b#They were sailing on a cloudy night, and the ship hit the reef and sank.$6#$b#Some of the sailors were washed away, but a few of them made it to shore and built new lives for themselves here.$6\"/pause 1250/globalFade/viewport 90 95 clamp true/pause 2250/faceDirection Lance 3 true/pause 500/faceDirection farmer 2 true/pause 600/speak Lance \"Here, let's go back down.$1\"/pause 850/showFrame Lance 13 true/pause 100/shake Lance 500/pause 150/showFrame Lance 16 true/pause 500/showFrame Lance 17 true/pause 500/showFrame Lance 18 true/pause 500/shake Lance 400/pause 400/screenFlash 2/playSound wand/showFrame Lance 4 true/warp Lance 80 87/positionOffset Lance -10 -12 true/pause 1500/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 82 87/viewport 81 88 clamp/faceDirection farmer 2 true/pause 1200/faceDirection farmer 3 true/pause 650/speak Lance \"Well, that Blink Relic was the only test I needed.$0#$b#You handled it as if you'd been working with magical objects for years.$1#$b#I'll take it back now, if you don't mind.$5\"/pause 750/speed farmer 1/move farmer -1 0 3/pause 500/showFrame farmer 7 true/pause 100/startJittering/pause 300/playSound dwop/pause 150/stopJittering/pause 100/showFrame farmer 6 true/pause 500/message \"The 'Blink Relic' was removed from my inventory.\"/pause 1000/speak Lance \"Whatever Camilla's up to, I'm sure that you and I will both learn about it soon.$0#$b#I'll be seeing more of you, @. Farewell, for now.$1\"/pause 750/faceDirection Lance 2 true/pause 650/showFrame Lance 20 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 38 true/pause 100/warp Lance -20 -20/pause 1000/globalFade/viewport -1000 -1000/pause 500/end dialogue Leo \"Hey. Who's that person with the red spiky hair? I've seen them in places on the island that are hard to climb.$0#$e#The birds say he's a good person!$1\""
 	  },
     },
-	
-    {  
+
+    {
 	  //changes joja soda machine into a blink relic.
       "Action": "EditImage",
       "Target": "Tilesheets/Craftables",
@@ -25938,7 +25938,7 @@
       "When": { "LocationName": "IslandWest", "HasSeenEvent |contains=6951320": false, "HasFlag |contains=Island_UpgradeHouse": true, "HasFlag |contains=Island_Resort": true, "HasFlag |contains=Island_UpgradeBridge": true, "HasSeenEvent |contains=908078": true, "HasSeenEvent |contains=6951319": true, "Day |contains= 3, 14": false },
       "Update": "OnLocationChange"
     },
-	
+
     {
       "Action": "EditData",
       "Target": "Data/BigCraftablesInformation",
@@ -25959,12 +25959,12 @@
 
 /*
 
-Lance <Quest> - grow monster crops. 
+Lance <Quest> - grow monster crops.
 
 6 heart
-Monster studies 
+Monster studies
 
-8 heart 
+8 heart
 The First Slash
 
 10 heart
@@ -25976,12 +25976,12 @@ Lance meets Krobus (work on during the beta)
 14 heart
 Castle Village (work on during the beta)
 */
-	
+
 
 
       //ALESIA NPC
-	  
-	
+
+
     {
       //Alesia's NPC disposition
       "Action": "EditData",
@@ -26034,7 +26034,7 @@ Castle Village (work on during the beta)
         "Alesia": "สวัสดี นักผจญภัย จากการร่วมมือกัน พวกเราจึงจับมอนสเตอร์ พวกนี้มาได้น่ะ$0#$e#ขอให้โยบะนำทางนะ$1"
       }
     },
-	
+
 	{    //Alesia visits the adventurer guild
 	 "Action": "EditData",
 	 "Target": "characters/schedules/Alesia",
@@ -26097,7 +26097,7 @@ Castle Village (work on during the beta)
      "Sun": "Don't hesitate to ask if you require my bow.$0",
        }
     },
-	
+
 {    //ALESIA INTRODUCTION
 	 "Action": "EditData",
 	 "Target": "data/events/adventureguild",
@@ -26126,7 +26126,7 @@ Castle Village (work on during the beta)
         "Isaac": "adult/rude/neutral/negative/male/non-datable/null/Other/null//Custom_Isaac_WarpRoom 3 3/ไอแซค",
         }
     },
-	
+
     {
 	  //Isaac's sprites
       "Action": "Load",
@@ -26171,8 +26171,8 @@ Castle Village (work on during the beta)
         "Isaac": "จัดการจิ๊กโก๋เงาน่ะเรื่องเด็กๆ$0#$b#แต่จับมันมาเป็นๆ นี่เป็นคนละเรื่อง...$3#$e#ทำตัวให้มีประโยชน์ แล้วไปหยิบ 'เหล้าฟักทองปรุงรส (spiced pumpkin cider)' นั่นให้ข้าสิ$0"
       }
     },
-	
-	
+
+
 	{    //Isaac visits the adventurer guild
 	 "Action": "EditData",
 	 "Target": "characters/schedules/Isaac",
@@ -26217,7 +26217,7 @@ Castle Village (work on during the beta)
      "Sat": "...$0",
        }
     },
-	
+
 
 {
    //Isaac's AntiSocial Flag
@@ -26277,7 +26277,7 @@ Castle Village (work on during the beta)
     },
 
      //Generic Adventurer NPCs visit the adventurer guild
-	
+
     {
       //Sawyer's NPC disposition
       "Action": "EditData",
@@ -26286,7 +26286,7 @@ Castle Village (work on during the beta)
         "Sawyer": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Sawyer_WarpRoom 3 3/Sawyer",
         }
     },
-	
+
 	{
       //Sawyer's Animations
       "Action": "EditData",
@@ -26295,8 +26295,8 @@ Castle Village (work on during the beta)
 		"Sawyer_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Sawyer's sprites
       "Action": "Load",
 	  "Target": "Characters/Sawyer",
@@ -26309,14 +26309,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Sawyer",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Sawyer.png"
     },
-	
+
 	{
       //Sawyer's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Sawyer",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Sawyer/Schedule.json"
     },
-	
+
     {
       //Sawyer's dialogue
       "Action": "Load",
@@ -26332,7 +26332,7 @@ Castle Village (work on during the beta)
         "Sawyer": true
       }
     },
-	
+
     {
       //Brianna's NPC disposition
       "Action": "EditData",
@@ -26341,7 +26341,7 @@ Castle Village (work on during the beta)
         "Brianna": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Brianna_WarpRoom 3 3/Brianna",
         }
     },
-	
+
 	{
       //Brianna's Animations
       "Action": "EditData",
@@ -26350,8 +26350,8 @@ Castle Village (work on during the beta)
 		"Brianna_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Brianna's sprites
       "Action": "Load",
 	  "Target": "Characters/Brianna",
@@ -26364,14 +26364,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Brianna",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Brianna.png"
     },
-	
+
 	{
       //Brianna's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Brianna",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Brianna/Schedule.json"
     },
-	
+
     {
       //Brianna's dialogue
       "Action": "Load",
@@ -26387,7 +26387,7 @@ Castle Village (work on during the beta)
         "Brianna": true
       }
     },
-	
+
     {
       //Drake's NPC disposition
       "Action": "EditData",
@@ -26396,7 +26396,7 @@ Castle Village (work on during the beta)
         "Drake": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Drake_WarpRoom 3 3/Drake",
         }
     },
-	
+
 	{
       //Drake's Animations
       "Action": "EditData",
@@ -26405,8 +26405,8 @@ Castle Village (work on during the beta)
 		"Drake_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Drake's sprites
       "Action": "Load",
 	  "Target": "Characters/Drake",
@@ -26419,14 +26419,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Drake",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Drake.png"
     },
-	
+
 	{
       //Drake's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Drake",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Drake/Schedule.json"
     },
-	
+
     {
       //Drake's dialogue
       "Action": "Load",
@@ -26442,7 +26442,7 @@ Castle Village (work on during the beta)
         "Drake": true
       }
     },
-	
+
     {
       //Ekon's NPC disposition
       "Action": "EditData",
@@ -26451,7 +26451,7 @@ Castle Village (work on during the beta)
         "Ekon": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ekon_WarpRoom 3 3/Ekon",
         }
     },
-	
+
 	{
       //Ekon's Animations
       "Action": "EditData",
@@ -26460,8 +26460,8 @@ Castle Village (work on during the beta)
 		"Ekon_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Ekon's sprites
       "Action": "Load",
 	  "Target": "Characters/Ekon",
@@ -26474,14 +26474,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Ekon",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Ekon.png"
     },
-	
+
 	{
       //Ekon's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Ekon",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Ekon/Schedule.json"
     },
-	
+
     {
       //Ekon's dialogue
       "Action": "Load",
@@ -26497,7 +26497,7 @@ Castle Village (work on during the beta)
         "Ekon": true
       }
     },
-	
+
     {
       //Edmund's NPC disposition
       "Action": "EditData",
@@ -26506,7 +26506,7 @@ Castle Village (work on during the beta)
         "Edmund": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Edmund_WarpRoom 3 3/Edmund",
         }
     },
-	
+
 	{
       //Edmund's Animations
       "Action": "EditData",
@@ -26515,8 +26515,8 @@ Castle Village (work on during the beta)
 		"Edmund_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Edmund's sprites
       "Action": "Load",
 	  "Target": "Characters/Edmund",
@@ -26529,14 +26529,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Edmund",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Edmund.png"
     },
-	
+
 	{
       //Edmund's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Edmund",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Edmund/Schedule.json"
     },
-	
+
     {
       //Edmund's dialogue
       "Action": "Load",
@@ -26552,7 +26552,7 @@ Castle Village (work on during the beta)
         "Edmund": true
       }
     },
-	
+
     {
       //Gertrude's NPC disposition
       "Action": "EditData",
@@ -26561,7 +26561,7 @@ Castle Village (work on during the beta)
         "Gertrude": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Gertrude_WarpRoom 3 3/Gertrude",
         }
     },
-	
+
 	{
       //Gertrude's Animations
       "Action": "EditData",
@@ -26570,8 +26570,8 @@ Castle Village (work on during the beta)
 		"Gertrude_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Gertrude's sprites
       "Action": "Load",
 	  "Target": "Characters/Gertrude",
@@ -26584,14 +26584,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Gertrude",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Gertrude.png"
     },
-	
+
 	{
       //Gertrude's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Gertrude",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Gertrude/Schedule.json"
     },
-	
+
     {
       //Gertrude's dialogue
       "Action": "Load",
@@ -26607,7 +26607,7 @@ Castle Village (work on during the beta)
         "Gertrude": true
       }
     },
-	
+
     {
       //Brock's NPC disposition
       "Action": "EditData",
@@ -26616,7 +26616,7 @@ Castle Village (work on during the beta)
         "Brock": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Brock_WarpRoom 3 3/Brock",
         }
     },
-	
+
 	{
       //Brock's Animations
       "Action": "EditData",
@@ -26625,8 +26625,8 @@ Castle Village (work on during the beta)
 		"Brock_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Brock's sprites
       "Action": "Load",
 	  "Target": "Characters/Brock",
@@ -26639,14 +26639,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Brock",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Brock.png"
     },
-	
+
 	{
       //Brock's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Brock",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Brock/Schedule.json"
     },
-	
+
     {
       //Brock's dialogue
       "Action": "Load",
@@ -26662,7 +26662,7 @@ Castle Village (work on during the beta)
         "Brock": true
       }
     },
-	
+
     {
       //Cordelia's NPC disposition
       "Action": "EditData",
@@ -26671,7 +26671,7 @@ Castle Village (work on during the beta)
         "Cordelia": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Cordelia_WarpRoom 3 3/Cordelia",
         }
     },
-	
+
 	{
       //Cordelia's Animations
       "Action": "EditData",
@@ -26680,8 +26680,8 @@ Castle Village (work on during the beta)
 		"Cordelia_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Cordelia's sprites
       "Action": "Load",
 	  "Target": "Characters/Cordelia",
@@ -26694,14 +26694,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Cordelia",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Cordelia.png"
     },
-	
+
 	{
       //Cordelia's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Cordelia",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Cordelia/Schedule.json"
     },
-	
+
     {
       //Cordelia's dialogue
       "Action": "Load",
@@ -26717,7 +26717,7 @@ Castle Village (work on during the beta)
         "Cordelia": true
       }
     },
-	
+
     {
       //Freya's NPC disposition
       "Action": "EditData",
@@ -26726,7 +26726,7 @@ Castle Village (work on during the beta)
         "Freya": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Freya_WarpRoom 3 3/Freya",
         }
     },
-	
+
 	{
       //Freya's Animations
       "Action": "EditData",
@@ -26735,8 +26735,8 @@ Castle Village (work on during the beta)
 		"Freya_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Freya's sprites
       "Action": "Load",
 	  "Target": "Characters/Freya",
@@ -26749,14 +26749,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Freya",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Freya.png"
     },
-	
+
 	{
       //Freya's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Freya",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Freya/Schedule.json"
     },
-	
+
     {
       //Freya's dialogue
       "Action": "Load",
@@ -26772,7 +26772,7 @@ Castle Village (work on during the beta)
         "Freya": true
       }
     },
-	
+
     {
       //Cassandra's NPC disposition
       "Action": "EditData",
@@ -26781,7 +26781,7 @@ Castle Village (work on during the beta)
         "Cassandra": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Cassandra_WarpRoom 3 3/Cassandra",
         }
     },
-	
+
 	{
       //Cassandra's Animations
       "Action": "EditData",
@@ -26790,8 +26790,8 @@ Castle Village (work on during the beta)
 		"Cassandra_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Cassandra's sprites
       "Action": "Load",
 	  "Target": "Characters/Cassandra",
@@ -26804,14 +26804,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Cassandra",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Cassandra.png"
     },
-	
+
 	{
       //Cassandra's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Cassandra",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Cassandra/Schedule.json"
     },
-	
+
     {
       //Cassandra's dialogue
       "Action": "Load",
@@ -26827,7 +26827,7 @@ Castle Village (work on during the beta)
         "Cassandra": true
       }
     },
-	
+
     {
       //Emin's NPC disposition
       "Action": "EditData",
@@ -26836,7 +26836,7 @@ Castle Village (work on during the beta)
         "Emin": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Emin_WarpRoom 3 3/Emin",
         }
     },
-	
+
 	{
       //Emin's Animations
       "Action": "EditData",
@@ -26845,8 +26845,8 @@ Castle Village (work on during the beta)
 		"Emin_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Emin's sprites
       "Action": "Load",
 	  "Target": "Characters/Emin",
@@ -26859,14 +26859,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Emin",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Emin.png"
     },
-	
+
 	{
       //Emin's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Emin",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Emin/Schedule.json"
     },
-	
+
     {
       //Emin's dialogue
       "Action": "Load",
@@ -26882,7 +26882,7 @@ Castle Village (work on during the beta)
         "Emin": true
       }
     },
-	
+
 	/*    TEMPLATE
 	{
       //ADVENTURERNPC's NPC disposition
@@ -26892,7 +26892,7 @@ Castle Village (work on during the beta)
         "ADVENTURERNPC": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_ADVENTURERNPC_WarpRoom 3 3/ADVENTURERNPC",
         }
     },
-	
+
 	{
       //ADVENTURERNPC's Animations
       "Action": "EditData",
@@ -26901,8 +26901,8 @@ Castle Village (work on during the beta)
 		"ADVENTURERNPC_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //ADVENTURERNPC's sprites
       "Action": "Load",
 	  "Target": "Characters/ADVENTURERNPC",
@@ -26915,14 +26915,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/ADVENTURERNPC",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/ADVENTURERNPC.png"
     },
-	
+
 	{
       //ADVENTURERNPC's schedule
       "Action": "Load",
       "Target": "Characters/schedules/ADVENTURERNPC",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/ADVENTURERNPC/Schedule.json"
     },
-	
+
     {
       //ADVENTURERNPC's dialogue
       "Action": "Load",
@@ -26995,7 +26995,7 @@ Castle Village (work on during the beta)
 	  "Target": "Characters/Scarlett",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Scarlett/Scarlett.png"
     },
-	
+
 	{
       //Scarlett's cosplay sprites
       "Action": "EditImage",
@@ -27004,7 +27004,7 @@ Castle Village (work on during the beta)
 	  "Update": "OnLocationChange",
       "FromFile": "assets/CharacterFiles/OverworldSprites/Scarlett/Scarlett_Cosplay.png"
     },
-	
+
     {
 	  //Scarlett's portraits
       "Action": "Load",
@@ -27020,7 +27020,7 @@ Castle Village (work on during the beta)
 	  "Update": "OnLocationChange",
       "FromFile": "assets/CharacterFiles/Portraits/Scarlett/Scarlett_Cosplay.png"
     },
-	
+
 	{
       //Scarlett's schedule
       "Action": "Load",
@@ -27592,7 +27592,7 @@ Castle Village (work on during the beta)
 	 "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/EvilSlime.png"
 },
 
-    { 
+    {
 	  //Gunther 8 heart event - Part 1 - An invitation to a artifact showing
       "Action": "EditData",
       "Target": "Data/Events/farm",
@@ -27601,7 +27601,7 @@ Castle Village (work on during the beta)
       "593069353/f GuntherSilvian 2000/y 2/t 600 1000": "none/-500 -500/farmer 32 32 0 GuntherSilvian 30 30 2/skippable/pause 1250/speak GuntherSilvian \"Good morning, Mr. @. I'm hosting a special artifact showing at the museum today. It starts at 12:00PM.$0^Good morning, Ms. @. I'm hosting a special artifact showing at the museum today. It starts at 12:00pm.#$b#I'd be delighted if you could attend!$1\"/pause 500/end"
 	   }
     },
-	{ 
+	{
 	  //Gunther 8 heart event - Part 2 - The completed museum collection
       "Action": "EditData",
       "Target": "Data/Events/ArchaeologyHouse",
@@ -27609,8 +27609,8 @@ Castle Village (work on during the beta)
       "593069354/e 593069353/t 1100 1600": "none/-500 -500/farmer 3 14 0 GuntherSilvian 26 13 1 Caroline 31 4 2 Pierre 34 4 2 Demetrius 32 18 0 Robin 30 18 0 Evelyn 27 15 1 George 29 12 0 Sophia 35 13 3 Gus 36 14 2 Lewis 45 9 0 Marnie 40 9 0 Jas 47 7 1 Jodi 45 18 0 Sam 48 16 3 Kent 43 18 0 Vincent 46 14 2 Elliott 44 12 1 Leah 45 12 3 Pam 37 16 3 Andy 30 8 2 Susan 32 8 0 Olivia 34 12 0 Victor 32 12 2 Haley 38 6 1 Emily 40 5 2 Clint 45 5 2 Harvey 27 6 3/advancedMove Harvey true 3 5000 0 2 3 4000 0 2 3 5000 0 -2 3 4000 0 -2/advancedmove Susan true 4 2850 3 0 4 7000 -3 0/advancedMove Pam false 3 8000 0 -6 3 5000/advancedMove Marnie true 4 3250 3 0 4 3270 -3 0/advancedMove Kent true 4 1750 -2 0 0 -2 1 5000 0 2 2 0 4 6000/advancedMove Evelyn true 1 3400 0 1 1 4600 0 -1/advancedMove Demetrius true 4 6500 3 0 4 6000 -3 0/advancedMove Emily true 2 4400 2 0 2 5300 -2 0/animate Clint false true 2000 0 0 0 12 0 0/animate Caroline false true 800 0 0 0 0 0 0 4 4 0 0 0 0 0 0 0 0 0/animate Sophia false true 1500 12 12 12 12 12 12 0 0 12/animate Jas false true 250 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 0 4 4 4 4/animate Lewis false true 1750 8 8 8 12 8 8 8 8 8/positionOffset Sophia -5 25 true/positionOffset Gus 4 12 true/positionOffset Pierre 20 -10 true/positionOffset Jas 0 -15 true/positionOffset Olivia -20 -25 true/positionOffset Victor -10 15 true/positionOffset Leah 12 -4 true/positionOffset Elliott -14 6 true/positionOffset Robin 10 -25 true/positionOffset Jodi -25 -15 true/positionOffset Andy 0 -15 true/positionOffset George -20 -12 true/positionOffset Vincent -20 -8 true/positionOffset Haley 5 32 true/positionOffset Clint -25 -7 true/positionOffset Lewis -15 -8 true/pause 750/playMusic junimoStarSong/pause 500/viewport 39 10 true/viewport move -1 0 14500/mail GuntherGaldoranGemReward/skippable/move farmer 0 -1 1/move farmer 4 0 2/move farmer 0 1 1/move farmer 4 0 0/move farmer 0 -1 1/move farmer 13 0 1/pause 1500/faceDirection GuntherSilvian 2 true/pause 300/faceDirection GuntherSilvian 3 true/pause 500/speak GuntherSilvian \"Ah, hello Mr. @. I'm glad you could make it.$0^Ah, hello Ms. @. I'm glad you could make it.$0\"/pause 650/faceDirection GuntherSilvian 2 true/pause 250/faceDirection GuntherSilvian 1 true/pause 800/speak GuntherSilvian \"I haven't seen the museum this packed in years. And it's all thanks to your efforts.$1\"/pause 800/faceDirection GuntherSilvian 2 true/pause 275/faceDirection GuntherSilvian 3 true/pause 750/speak GuntherSilvian \"As a token of my thanks, I want to give you a special treasure of mine.$0#$b#You'll receive it soon in the mail.$1\"/pause 500/emote farmer 32/pause 250/globalFade/viewport -1000 -1000/pause 1000/addConversationTopic museumCompleted 7/end"
 	   }
     },
-	
-	
+
+
     //Prevents players from gifting the Gladoran Gem
 
 {    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
@@ -29220,7 +29220,7 @@ Castle Village (work on during the beta)
   },
  },
 },
- 
+
     //Morris' Townhouse  quest strings
     {
      "Action": "EditData",
@@ -29241,7 +29241,7 @@ Castle Village (work on during the beta)
 	 "6663406/H/f MorrisTod 1250/t 600 1100": "continue/-500 -500/farmer -200 -200 0 MorrisTod -30 -30 0/skippable/pause 1500/speak MorrisTod \"Good morning, @.$1#$b#I wanted to discuss something with you...$4#$b#Swing by my office at Joja Mart at your leisure.$0\"/pause 500/end"
 	    },
     },
-	
+
 	//Event #2 - Morris Townhouse    <<ID tagged by framework
     {
 	 "Action": "EditData",
@@ -29250,7 +29250,7 @@ Castle Village (work on during the beta)
 	 "6663407/e 6663406": "Hospital_Ambient/-500 -500/farmer 18 20 1 Martin 9 25 1 Andy 11 25 3 Sam 26 17 2 Pam 14 16 1 MorrisTod 24 26 3/animate Sam false true 100 40 40 41 41 42 42 41 41/skippable/pause 1250/viewport 23 26 true/move farmer 3 0 2/move farmer 0 3 2/pause 600/playSound stoneStep/pause 400/playSound stoneStep/pause 400/playSound stoneStep/pause 400/speak MorrisTod \"Please, come in!$0\"/pause 750/doAction 21 24/pause 1000/move farmer 0 3 1/move farmer 1 0 1/pause 650/speak MorrisTod \"Thank you for meeting me, @.$4#$b#I have big news to share...$0\"/pause 800/playMusic musicboxsong/pause 200/speak MorrisTod \"I have decided to move to Stardew Valley!$1\"/pause 400/emote farmer 16/pause 300/speak MorrisTod \"I know. It's quite the announcement!$1#$b#I've been commuting here for some time now and...$0#$b#I've found that I'm so busy, I rarely visit my apartment in Zuzu City. I'd just sleep in my office.$2#$b#I feel like if I'm to fully focus on expanding the Joja brand here in the valley... I need to live in it myself.\"/pause 400/emote farmer 32/pause 200/speak MorrisTod \"I've contracted with a Joja Co. architect who will build my new home, however...$0#$b#There are shortages of iron ingots on the market. He can't start construction until the materials are sourced.$2#$b#I understand you have experience in mining. Would you be willing to assist me? I'll give you a substantial monetary reward!$0\"/pause 500/jump farmer/pause 850/speak MorrisTod \"Excellent! I'm absolutely delighted to hear that.$1#$b#Allow me to go over the specifics with you...$0\"/pause 500/globalFade/viewport -1000 -1000/pause 500/end dialogue MorrisTod \"Joja. Co. has numerous patented modern townhouse designs. Model number 14 is the one I've chosen for myself.$0#$b#It's quite expensive... I had to take out a loan.$2#$b#But I have a good feeling it will all be worth it! Investing in yourself is important, @.$1#$e#When you have those iron ingots, deliver them straight to me!$0\""
 	    },
     },
-	
+
 	//Event #3 - Morris Townhouse  <<Triggers map patch
     {
 	 "Action": "EditData",
@@ -29260,7 +29260,7 @@ Castle Village (work on during the beta)
 	 "6663408": "continue/-50 -50/farmer 64 15 2 MorrisTod -30 -30 0/skippable/pause 1500/speak MorrisTod \"@! My townhouse is now completed. Joja Co. architects work very fast.$1#$b#My home is located east of Joja Mart! Drop by when you have the time.$0\"/pause 500/end"
 	    },
     },
-	
+
 	//Event #4 - Morris Townhouse
     {
 	 "Action": "EditData",
@@ -29890,15 +29890,15 @@ Castle Village (work on during the beta)
 	}
 },
 
-{    //Buying Aurora Vineyard - part 1 
+{    //Buying Aurora Vineyard - part 1
 	 "Action": "EditData",
 	 "Target": "data/events/farm",
 	 "When": { "HasSeenEvent": "5553214" }, //Player has visited Joja Emporium at least once, player has visited Morris' townhouse at least once, must be sunny, must be a Tuesday, must be host player
 	 "Entries": {
 	 "746153081/e 6663409/u 2 9 16 23/t 600 1000/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1250/speak MorrisTod \"Good morning, @.$0#$b#I wanted to ask if you'd be interested in... purchasing Aurora Vineyard.$4\"/pause 400/emote farmer 16/pause 200/speak MorrisTod \"Ponder about it and let me know what you decide.$0#$b#It'll be expensive, but it's a worthy investment for someone like yourself.$4\"/globalFade/viewport -1000 -1000/pause 1000/question fork0 \"Am I interested in buying Aurora Vineyard?#Yes#No\"/fork 746153081_PurchasedAuroraVineyard/pause 1000/message \"All right. I'm not purchasing Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"Ah, you don't want to purchase the vineyard? All right.#$b#Andy unfortunately didn't meet the application requirements and Sophia has too much work on her plate.$0#$b#Susan ignored my messages...$3#$e#I suppose the building will continue rotting away out there...$0#$b#Who's bright idea was it to build it so far away anyway?\"",
-	  
+
 	 "746153081_PurchasedAuroraVineyard": "pause 400/addMailReceived PlayerWillBuyAuroraVineyard/pause 100/message \"All right. I'll purchase Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"Ah, you're interested in purchasing Aurora Vineyard?$4#$b#Meet me at Joja Mart so we may discuss the details...$0#$e#Andy unfortunately didn't meet the application requirements and Sophia has too much work on her plate.$0#$b#Susan ignored my messages...$3\""
-    
+
 	},
 },
 
@@ -30004,7 +30004,7 @@ Castle Village (work on during the beta)
 	"Action": "EditData",
 	"Target": "data/events/Custom_ForestWest",
 	"When": { "MatureEvents": "true", "HasSeenEvent|contains=746153086": true },
-	"Entries": { 
+	"Entries": {
     "746153087/w sunny/t 2000 2600": "none/-500 -500/farmer -100 -100 0 Apples -50 -50 2/addTemporaryActor ApplesSad 16 32 -20 -20 2/pause 50/playMusic nightTime/pause 1000/viewport 58 18 true/pause 2000/playSound doorClose/warp ApplesSad 58 18/pause 750/speed ApplesSad 1/move ApplesSad 0 3 2/pause 1250/faceDirection ApplesSad 1 true/pause 250/faceDirection ApplesSad 0 true/pause 1000/playSound junimoMeep1/pause 500/playSound junimoMeep1/speak Apples \"Bye home...$3\"/pause 2000/faceDirection ApplesSad 1 true/pause 250/faceDirection ApplesSad 2 true/pause 500/speed ApplesSad 1/move ApplesSad 0 10 2 true/pause 2500/globalFade/viewport -1000 -1000/pause 1250/end",
 	},
 },
@@ -30012,7 +30012,7 @@ Castle Village (work on during the beta)
 	"Action": "EditData",
 	"Target": "data/events/Custom_ForestWest",
 	"When": { "MatureEvents": "true", "HasSeenEvent|contains=746153086": true },
-	"Entries": { 
+	"Entries": {
     "746153087/w rainy/t 2000 2600": "none/-500 -500/farmer -100 -100 0 Apples -50 -50 2/addTemporaryActor ApplesSad 16 32 -20 -20 2/pause 50/playMusic rain/pause 1000/viewport 58 18 true/pause 2000/playSound doorClose/warp ApplesSad 58 18/pause 750/speed ApplesSad 1/move ApplesSad 0 3 2/pause 1250/faceDirection ApplesSad 1 true/pause 250/faceDirection ApplesSad 0 true/pause 1000/playSound junimoMeep1/pause 500/playSound junimoMeep1/speak Apples \"Bye home...$3\"/pause 2000/faceDirection ApplesSad 1 true/pause 250/faceDirection ApplesSad 2 true/pause 500/speed ApplesSad 1/move ApplesSad 0 10 2 true/pause 2500/globalFade/viewport -1000 -1000/pause 1250/end",
 	},
 },
@@ -30243,7 +30243,7 @@ Castle Village (work on during the beta)
      "AuroraVineyardPurchased": "You're expanding your farming business to new ventures. That's exciting news, @.$0",
      },
 },
-	
+
 
 //Aurora Vineyard Patches
 {
@@ -30253,7 +30253,7 @@ Castle Village (work on during the beta)
 	"ToArea": { "X": 40, "Y": 9, "Width": 37, "Height": 29 },
     "When": { "HasSeenEvent": "746153084" }
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Forestwest",
      "MapProperties": { "IsFarm": "T" },
@@ -30879,7 +30879,7 @@ Castle Village (work on during the beta)
 
      //Adventurer Guild vistor patches (deprecated)
 
-/*	 
+/*
 {
 	 //Guest 1
      "Action": "EditMap",
@@ -31532,7 +31532,7 @@ Castle Village (work on during the beta)
 	 "When": { "DisableGaldoranTheme": false, "LocationName": "Custom_CrimsonBadlands, Custom_CastleVillageOutpost, Custom_DesertRailway, Custom_IridiumQuarry, Custom_TreasureCave, Custom_GaldoranVoid" },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 148, "Y": 476, "Width": 44, "Height": 24 }, 
+	 "FromArea": { "X": 148, "Y": 476, "Width": 44, "Height": 24 },
 	 "ToArea": 	{ "X": 140, "Y": 532, "Width": 44, "Height": 24 },
 },
 {    //Galdoran Relationship Icon [2]
@@ -31542,7 +31542,7 @@ Castle Village (work on during the beta)
 	 "When": { "DisableGaldoranTheme": false, "LocationName": "Custom_CrimsonBadlands, Custom_CastleVillageOutpost, Custom_DesertRailway, Custom_IridiumQuarry, Custom_TreasureCave, Custom_GaldoranVoid" },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 193, "Y": 476, "Width": 44, "Height": 24 }, 
+	 "FromArea": { "X": 193, "Y": 476, "Width": 44, "Height": 24 },
 	 "ToArea": 	{ "X": 140, "Y": 554, "Width": 44, "Height": 24 },
 },
 {    //Galdoran Relationship Icon [3]
@@ -31552,7 +31552,7 @@ Castle Village (work on during the beta)
 	 "When": { "DisableGaldoranTheme": false, "LocationName": "Custom_CrimsonBadlands, Custom_CastleVillageOutpost, Custom_DesertRailway, Custom_IridiumQuarry, Custom_TreasureCave, Custom_GaldoranVoid" },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 238, "Y": 476, "Width": 44, "Height": 11 }, 
+	 "FromArea": { "X": 238, "Y": 476, "Width": 44, "Height": 11 },
 	 "ToArea": 	{ "X": 140, "Y": 576, "Width": 44, "Height": 11 },
 },
 {    //Galdoran Relationship Icon [4]
@@ -31562,7 +31562,7 @@ Castle Village (work on during the beta)
 	 "When": { "DisableGaldoranTheme": false, "LocationName": "Custom_CrimsonBadlands, Custom_CastleVillageOutpost, Custom_DesertRailway, Custom_IridiumQuarry, Custom_TreasureCave, Custom_GaldoranVoid" },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 238, "Y": 487, "Width": 11, "Height": 11 }, 
+	 "FromArea": { "X": 238, "Y": 487, "Width": 11, "Height": 11 },
 	 "ToArea": 	{ "X": 269, "Y": 495, "Width": 11, "Height": 11 },
 },
 
@@ -31957,7 +31957,7 @@ Castle Village (work on during the beta)
 	 "When": { "UseGaldoranThemeAllTimes": true },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 148, "Y": 476, "Width": 44, "Height": 24 }, 
+	 "FromArea": { "X": 148, "Y": 476, "Width": 44, "Height": 24 },
 	 "ToArea": 	{ "X": 140, "Y": 532, "Width": 44, "Height": 24 },
 },
 {    //Galdoran Relationship Icon [2]
@@ -31967,7 +31967,7 @@ Castle Village (work on during the beta)
 	 "When": { "UseGaldoranThemeAllTimes": true },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 193, "Y": 476, "Width": 44, "Height": 24 }, 
+	 "FromArea": { "X": 193, "Y": 476, "Width": 44, "Height": 24 },
 	 "ToArea": 	{ "X": 140, "Y": 554, "Width": 44, "Height": 24 },
 },
 {    //Galdoran Relationship Icon [3]
@@ -31977,7 +31977,7 @@ Castle Village (work on during the beta)
 	 "When": { "UseGaldoranThemeAllTimes": true },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 238, "Y": 476, "Width": 44, "Height": 11 }, 
+	 "FromArea": { "X": 238, "Y": 476, "Width": 44, "Height": 11 },
 	 "ToArea": 	{ "X": 140, "Y": 576, "Width": 44, "Height": 11 },
 },
 {    //Galdoran Relationship Icon [4]
@@ -31987,7 +31987,7 @@ Castle Village (work on during the beta)
 	 "When": { "UseGaldoranThemeAllTimes": true },
 	 "Update": "OnLocationChange",
 	 "PatchMode": "Replace",
-	 "FromArea": { "X": 238, "Y": 487, "Width": 11, "Height": 11 }, 
+	 "FromArea": { "X": 238, "Y": 487, "Width": 11, "Height": 11 },
 	 "ToArea": 	{ "X": 269, "Y": 495, "Width": 11, "Height": 11 },
 },
 
@@ -36356,14 +36356,14 @@ Castle Village (work on during the beta)
 	 "Target": "data/events/Custom_JunimoWoods",
 	 "Entries": {
 	 "1000007/t 600 1150/w sunny/y 2/z winter/f Abigail 2000/e 1000037": "moonlightJellies/-500 -500/farmer -300 -300 2 Abigail 65 51 1/addTemporaryActor Apples 16 32 66 51 3 true/pause 2250/skippable/viewport 64 51 true/playSound junimoMeep1/move Apples 0 1 1/move Abigail 0 0 2/move Apples -2 0 1/move Abigail 0 0 3/move Apples 0 -2 1/playSound junimoMeep1/move Abigail 0 0 0/move Apples 2 0 1/move Abigail 0 0 1/move Apples 0 1 3/playSound junimoMeep1/pause 500/playSound junimoMeep1/textAboveHead Abigail \"แอบเปิ้ล กระโดด!\"/pause 250/playSound junimoMeep1/pause 150/jump Apples/pause 200/playSound dwop/pause 300/jump Apples/pause 400/playSound junimoMeep1/pause 300/playSound junimoMeep1/speak Apples \"!!!\"/speak Abigail \"เธอน่ารักมากเลย แอปเปิล!$1\"/playSound junimoMeep1/pause 300/jump Apples/pause 300/playSound junimoMeep1/pause 400/playSound junimoMeep1/pause 200/jump Apples/pause 300/playSound junimoMeep1/pause 500/jump Apples/playSound junimoMeep1/pause 500/textAboveHead Abigail \"โอเค ตอนนี้ไปเก็บมา!\"/pause 300/showFrame Abigail 7/pause 100/shake Abigail 500/pause 150/move Abigail 0 0 1/pause 100/playSound junimoMeep1/pause 300/move Apples 4 0 1/pause 600/playSound junimoMeep1/pause 200/jump Apples/pause 500/move Apples -4 0 3/playSound junimoMeep1/pause 200/emote Abigail 20/jump Apples/playSound junimoMeep1/pause 600/move Apples 0 1 1/move Abigail 0 0 2/move Apples -2 0 1/move Abigail 0 0 3/move Apples 0 -2 1/playSound junimoMeep1/move Abigail 0 0 0/move Apples 2 0 1/move Abigail 0 0 1/move Apples 0 1 3/playSound junimoMeep1/pause 500/jump Apples/pause 400/playSound junimoMeep1/pause 200/emote Abigail 20/pause 400/move Apples 0 1 3/move Abigail 0 0 2/move Apples -1 0 2/animate Apples false true 200 24 25 26 27/pause 1200/animate Abigail false true 350 28 29/pause 1500/globalFade/viewport -1000 -1000/pause 600/end dialogue Abigail \"วันนี้ฉันมีประสบการณ์ ที่มหัศจรรย์ในป่า$1#$e#โอ้ คุณไม่เข้าใจ$0\"",
-	 
+
 	 //OLD EVENT CODE
 	 //move Apples 0 3 1/move Abigail 0 0 2/playSound junimoMeep1/move Apples -1 0 1/textAboveHead Abigail \"Apples, where are you going!?\"/move Apples 0 6 1/emote Abigail 60/move farmer 3 0 0/move farmer 0 -2 1/move farmer 2 0 1/move Abigail 0 0 3/playMusic spring_day_ambient/emote farmer 16 true/pause 250/emote Abigail 16 true/pause 200/speak Abigail \"@!!!?$7\"/pause 200/speak Abigail \"$q -1 null##$r -1 0 abigail_event1#You can see Junimos too?#$r -1 0 abigail_event2#That was a Junimo you were playing with!\"/pause 500/move Abigail -1 0 3/pause 500/speak Abigail \"I don't know what to say, @. My heart is pounding right now.$2\"/pause 1000/move Abigail 0 0 2/pause 1500/emote Abigail 40/pause 1000/emote farmer 8/pause 500/speak Apples \"$q -1 null##$r -1 0 abigail_event3#How about we take turns asking questions? You can go first.#$r -1 0 abigail_event4#There are so many questions I have. I'm sure you do too.\"/pause 300/move Abigail 0 0 3/emote Abigail 40/pause 500/emote Abigail 8/pause 500/speak Abigail \"You called Apples a Junimo?\"/pause 500/speak Abigail \"$q -1 null##$r -1 0 abigail_event5#That's what the forest spirits in the valley are called. Rasmodius told me.#$r -1 0 abigail_event6#They're called Junimos. I read about them in a book.\"/pause 500/emote farmer 8/pause 300/speak Abigail \"$q -1 null##$r -1 0 abigail_event7#Is Apples your friend?#$r -1 0 abigail_event8#When did you first see a Junimo?\"/pause 500/emote Abigail 8/pause 250/speak Abigail \"When did you see a Junimo for the first time?$0\"/speak Abigail \"$q -1 null##$r -1 0 abigail_event9#I saw Junimos at the community center. I thought they were rats.#$r -1 0 abigail_event10#I think I saw my first Junimo when I was a kid.\"/pause 300/emote farmer 8/pause 250/speak Abigail \"$q -1 null##$r -1 0 abigail_event11#Can you understand their language?#$r -1 0 abigail_event12#Have you told anyone about Junimos?\"/pause 400/emote Abigail 40/emote Abigail 16/emote Abigail 48/emote Abigail 8/pause 250/speak Abigail \"Are you able to understand Junimo, @?\"/pause 500/speak Abigail \"$q -1 null##$r -1 0 abigail_event13#I can read it, but I can't speak it. Rasmodius gave me an elixir.#$r -1 0 abigail_event14#Yes, I can. The Wizard made a magical potion.\"/pause 500/move Abigail 0 0 0/pause 500/emote Abigail 40/pause 450/speak Abigail \"I sometimes walk near his tower, just because I'm curious.$8#$b#I've even knocked on his door and tried opening it a few times. But it's always locked.$9\"/pause 1000/speak Abigail \"...$2\"/pause 1500/speak Abigail \"...I don't know. I feel like my mom is hiding something from me.$2\"/pause 500/emote Abigail 28/pause 500/move Abigail 0 0 3/pause 500/speak Abigail \"@, let's keep this a secret. Okay?$2\"/pause 500/question fork0 \"#Your secret is safe with me.#No. We should tell people.\"/fork 1000007_KeepSecret/pause 1000/emote Abigail 12/pause 250/speak Abigail \"I said I FEEL like she may be hiding something. I don't have any proof.$5#$b#I'd rather keep this a secret, @...$2\"/pause 500/emote Abigail 40/pause 300/speak Abigail \"I've been out here for a while. I'll see you later.$9#$b#Please... don't say anything, to my mom or anyone else.$2\"/pause 300/move Abigail 0 1 2/move farmer 0 0 2/move Abigail -3 0 3/move Abigail 0 1 0/emote farmer 60/emote Abigail 28/pause 300/speak Abigail \"I'm serious, @. I won't forgive you if you tell my mom.$5\"/emote farmer 36/pause 400/move Abigail -3 0 3/pause 500/globalFade/viewport -1000 -1000/pause 700/friendship Abigail -250/end position 63 51/end dialogue Abigail \"@, it's important we keep this a secret to protect the Junimos.$2#$b#Who knows what would happen if Joja found out? Please...$2\"",
-	 
+
 	 //"1000007_KeepSecret": "friendship Abigail 50/pause 400/speak Abigail \"Thanks, @.$0\"/pause 1000/speak Abigail \"In a way, we're both special, aren't we?$0#$b#We both have amazing unique gifts. I wonder why they picked us.$1\"/pause 500/warp Apples 72 52/playSound junimoMeep1/move Abigail 0 0 1/pause 200/emote Abigail 16/playMusic woodsTheme/move Apples -3 0 2/playSound junimoMeep1/pause 100/jump Apples/textAboveHead Abigail \"Apples! You came back!\"/pause 200/move Apples 0 -1 2/playSound junimoMeep1/move Apples -4 0 3/pause 200/playSound junimoMeep1/jump Apples/pause 400/speak Apples \"!!!\"/pause 100/emote Abigail 20 true/pause 250/emote farmer 20 true/pause 150/move Apples 0 1 2/move Abigail 0 0 2/move Apples -2 0 2/move farmer 0 0 2/playSound junimoMeep1/emote farmer 32/jump Apples/pause 500/jump Apples/playSound junimoMeep1/move Abigail 0 0 3/move farmer 0 0 3/move Apples -4 0 0/warp Apples -1000 -1000/pause 500/move farmer 0 0 1/pause 500/emote Abigail 32/pause 300/speak Abigail \"I think that was Apples' way of saying hello to you!$4#$b#Like I said, she's very vocal!$0\"/pause 1000/move Abigail 0 0 0/pause 1500/move Abigail 0 0 3/pause 700/emote Abigail 40/pause 200/question fork1 \"Want to walk out of the forest with me?#Of course.#I'm going to stay here. You go on ahead.\"/fork 1000007_LeaveForest/pause 500/speak Abigail \"Oh, okay. I'll catch you later then.$0\"/pause 500/move Abigail 0 1 3/move Abigail -2 0 3/move farmer 0 0 3/move Abigail -1 0 3/pause 500/move Abigail 0 0 1/pause 500/speak Abigail \"This has been a magical day, @. I'll talk to you soon!$0\"/pause 400/emote Abigail 32/emote farmer 32/pause 500/globalFade/viewport -1000 -1000/mail AbigailJunimo/pause 700/end dialogue Abigail \"I still can't believe we can both see Junimos, @. It's our little secret!$1\"",
-	 
+
 	 //"1000007_LeaveForest": "pause 500/speak Abigail \"Great! let's go!$0\"/pause 300/pause 500/globalFade/viewport -1000 -1000/changeLocation Forest/playMusic spring_day_ambient/warp Apples 5 5/warp farmer 6 108/warp Abigail 7 108/positionOffset farmer 0 15/pause 1000/viewport 14 108 true/move farmer 0 0 1/move Abigail 0 0 3/pause 1000/speak Abigail \"Phew, I sometimes get lost in there still, even though I spend so much time exploring.$9.\"/pause 1000/speak Abigail \"Well, I'm going to head back home.$6#$b#Running into you and discovering we can both see forest spirits was...$0\"/pause 1000/move Abigail 0 0 2/pause 500/emote Abigail 20/pause 500/move Abigail 0 0 3/pause 500/speak Abigail \"It was magical, @.$0\"/pause 400/emote farmer 32/pause 200/emote Abigail 32/pause 500/move Abigail 5 0 1/pause 700/move Abigail 0 0 3/pause 500/speak Abigail \"I'll see you later!$1\"/pause 800/globalFade/viewport -1000 -1000/mail AbigailJunimo/pause 600/end dialogue Abigail \"I still can't believe we can both see Junimos, @. It's our little secret!\""
-	 
+
     },
 },
 
@@ -36622,7 +36622,7 @@ Castle Village (work on during the beta)
 	 },
 },
 
-	{ 
+	{
 	  //Penny 7 heart event - Why did I become a teacher?
       "Action": "EditData",
       "Target": "Data/Events/ArchaeologyHouse",
@@ -36630,8 +36630,8 @@ Castle Village (work on during the beta)
       "6943962/f Penny 1750/t 600 1500": "none/-500 -500/farmer 10 14 1 Penny 17 12 0 Elliott 19 5 2 Susan 10 5 0 GuntherSilvian 5 8 2 Jas -25 -25 0 Vincent -26 -26 0 Caroline 32 8 0 Pierre 33 8 0/addTemporaryActor PennyClassMaterials 16 16 17 10 2 false/positionOffset PennyClassMaterials 12 36 true/positionOffset Elliott 22 -15 true/positionOffset Pierre 20 0 true/positionOffset Caroline -50 -10 true/positionOffset Susan 20 -25 true/showFrame Elliott 33 true/animate GuntherSilvian false true 2000 0 0 0 0 0 0 0 21/skippable/playMusic 50s/viewport 16 12 true/move farmer 5 0 0/move farmer 0 -2 0/pause 150/faceDirection farmer 1 true/pause 1000/emote farmer 8/pause 300/faceDirection Penny 3 true/pause 450/speak Penny \"Oh, hello @. I'm preparing for today's lessons.$0#$b#Vincent's been getting interested in the origin of dinosaurs, so I came up with a fun idea to incorporate them into math problems.$1\"/pause 500/speak Penny \"$q -1 null#I lost track of time last night and ended up spending hours planning this lesson.#$r -1 0 penny_event1#You're very passionate about teaching.#$r -1 0 penny_event2#I'm sure it'll help Vincent a bunch.#$r -1 0 penny_event3#Being a teacher seems like a lot of work.\"/pause 750/emote Penny 40/pause 150/speak Penny \"You know, I decided to become a teacher because I felt like it was something I could do that would actually matter.$0#$b#Introducing kids to things that are entirely new for them is just amazing, and fulfilling too.$1#$b#I hope someday I can finish my teaching certificate. I could teach classes in the city or maybe even go get a degree.$0#$b#I'm not sure what I'll do yet, but I'm optimistic about the future.$0\"/pause 800/faceDirection Penny 0 true/pause 1200/faceDirection Penny 3 true/pause 450/speak Penny \"Well, Jas and Vincent are arriving shortly and I need to finish prepping.$0#$b#Thank you for your time, @.$1\"/pause 500/emote farmer 32/pause 500/showFrame Penny 20 true/pause 750/faceDirection farmer 2 true/pause 275/faceDirection farmer 3 true/pause 500/advancedMove farmer false -4 0 0 2 -5 0/pause 500/showFrame Penny 12 true/pause 750/faceDirection Penny 0 true/globalFade/viewport -1000 -1000/pause 1000/friendship Penny 50/end dialogue Penny \"Vincent got past some struggles he was having with long division thanks to the dinosaur math problems.$0#$b#I'm going to come up with some other fun ways to help the kids learn.$1#$e#I had to spend a little of my own money on the materials...$3#$b#But that's just the cost of teaching.$0\""
 	  }
     },
-	
-	{ 
+
+	{
 	  //Penny 7 heart event - Why did I become a teacher? (if married, dating, or engaged)
       "Action": "EditData",
       "Target": "Data/Events/ArchaeologyHouse",
@@ -36640,7 +36640,7 @@ Castle Village (work on during the beta)
       "6943962/f Penny 1750/t 600 1500": "none/-500 -500/farmer 10 14 1 Penny 17 12 0 Elliott 19 5 2 Susan 10 5 0 GuntherSilvian 5 8 2 Jas -25 -25 0 Vincent -26 -26 0 Caroline 32 8 0 Pierre 33 8 0/addTemporaryActor PennyClassMaterials 16 16 17 10 2 false/positionOffset PennyClassMaterials 12 36 true/positionOffset Elliott 22 -15 true/positionOffset Pierre 20 0 true/positionOffset Caroline -50 -10 true/positionOffset Susan 20 -25 true/showFrame Elliott 33 true/animate GuntherSilvian false true 2000 0 0 0 0 0 0 0 21/skippable/playMusic 50s/viewport 16 12 true/move farmer 5 0 0/move farmer 0 -2 0/pause 150/faceDirection farmer 1 true/pause 1000/emote farmer 8/pause 300/faceDirection Penny 3 true/pause 450/speak Penny \"Oh, hello honey. I'm preparing for today's lessons.$0#$b#Vincent's been getting interested in the origin of dinosaurs, so I came up with a fun idea to incorporate them into math problems.$1\"/pause 500/speak Penny \"$q -1 null#I lost track of time last night and ended up spending hours planning this lesson.#$r -1 0 penny_event1#You're very passionate about teaching.#$r -1 0 penny_event2#I'm sure it'll help Vincent a bunch.#$r -1 0 penny_event3#Being a teacher seems like a lot of work.\"/pause 750/emote Penny 40/pause 150/speak Penny \"You know, I decided to become a teacher because I felt like it was something I could do that would actually matter.$0#$b#Introducing kids to things that are entirely new for them is just amazing, and fulfilling too.$1#$b#I hope someday I can finish my teaching certificate. I could teach classes in the city or maybe even go get a degree.$0#$b#I'm not sure what I'll do yet, but I'm optimistic about the future.$0\"/pause 800/faceDirection Penny 0 true/pause 1200/faceDirection Penny 3 true/pause 450/speak Penny \"Well, Jas and Vincent are arriving shortly and I need to finish prepping.$0#$b#I'll see you later tonight, honey.$4\"/pause 500/emote farmer 32/pause 500/showFrame Penny 20 true/pause 750/faceDirection farmer 2 true/pause 275/faceDirection farmer 3 true/pause 500/advancedMove farmer false -4 0 0 2 -5 0/pause 500/showFrame Penny 12 true/pause 750/faceDirection Penny 0 true/globalFade/viewport -1000 -1000/pause 1000/friendship Penny 50/end dialogue Penny \"Vincent got past some struggles he was having with long division thanks to the dinosaur math problems.#$e#I'm going to come up with some other fun ways to help the kids learn.$1\""
 	  }
     },
-	
+
 	{
      "Action": "Load", //16x16
 	 "Target": "Characters/PennyClassMaterials",
@@ -36676,18 +36676,18 @@ Castle Village (work on during the beta)
 	 "When": { "HasFlag": "beachBridgeFixed" }
 },
 
-	{ 
+	{
 	  //Kent 8 heart event - A possible new appreciation
       "Action": "EditData",
       "Target": "Data/Events/Custom_AdventurerSummit",
       "Entries": {
       "46361083/f Kent 2000/w sunny/t 600 1800": "spring_day_ambient/-500 -500/farmer 32 32 0 Kent 42 26 1/skippable/pause 500/viewport 40 26 clamp true/move farmer 0 -6 0/pause 750/faceDirection farmer 1 true/pause 750/emote farmer 8/pause 300/move farmer 8 0 1/pause 1500/speak Kent \"Hmm?$2\"/pause 1000/faceDirection Kent 2 true/pause 300/faceDirection Kent 3 true/pause 600/speak Kent \"Hey, @. Nice to see you.$0#$b#I just finished my hike. It's gorgeous up here. Would be easy to get used to sights like this.$1\"/pause 800/speak Kent \"$q -1 null#So. What brings you up here?#$r -1 0 kent_event8#I got guild business to do!#$r -1 0 kent_event9#I'm heading into the mines.#$r -1 0 kent_event10#Nothing really. I'm enjoying the nice weather.#$r -1 0 kent_event11#It's a secret.\"/pause 1250/faceDirection Kent 2 true/pause 250/faceDirection Kent 1 true/pause 1000/speak Kent \"Being back home just isn't the same for me.$2#$b#The person I was before my tour... isn't coming back.$5\"/pause 500/emote farmer 60/pause 500/shake Kent 500/pause 800/speak Kent \"I think what would really help is if I found something to focus on so my mind doesn't wander so much. A new hobby, maybe.$0#$b#Making more friends, or finding a new appreciation for something...$0#$b#I've tried hiking and getting back into watching sports, but nothing's cutting it for me.$2\"/pause 750/faceDirection Kent 2 true/pause 250/faceDirection Kent 3 true/pause 650/speak Kent \"I have a question for you.$0\"/pause 800/question fork0 \"Do you think the guild is worth checking out?#Yes, it is.#No, I wouldn't bother.\"/fork 46361083_KentAdventurer/pause 500/speak Kent \"Hmm. You're right. I'd just worry my wife and kids.$2#$b#That's all I needed to hear then. Thanks, @.$0\"/pause 500/emote Kent 40/pause 500/speak Kent \"I'm going to take some time to think.$0#$b#You take care, @.$0\"/pause 500/emote farmer 32/pause 500/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 300/advancedMove farmer false -10 0/pause 800/faceDirection Kent 2 true/pause 275/faceDirection Kent 1 true/pause 250/globalFade/viewport -1000 -1000/warp farmer -30 -30/pause 1000/viewport 40 26 clamp true/pause 2000/speak Kent \"Well. Time to head back.$0\"/pause 650/faceDirection Kent 2 true/pause 250/faceDirection Kent 3 true/pause 300/viewport move -1 0 7000 true/move Kent -10 0 2/move Kent 0 2 2/pause 1500/faceDirection Kent 1 true/pause 250/faceDirection Kent 0 true/pause 750/speak Kent \"...$2\"/pause 1000/faceDirection Kent 1 true/pause 250/faceDirection Kent 2 true/pause 750/move Kent 0 10 2 true/pause 1000/globalFade/viewport -1000 -1000/friendship Kent 50/pause 1000/end dialogue Kent \"Sometimes it's nice to just talk to someone and have them hear you out.$0#$b#You're a good friend to me, @. Thanks for everything.$1\"",
-      
+
 	  "46361083_KentAdventurer": "pause 500/speak Kent \"Hmm. The adventuring scene has gotten more lively since my tour.$2#$b#I'll consider it.$1\"/pause 500/emote Kent 40/pause 500/speak Kent \"I'm going to ponder by myself.$0#$b#You take care, @.$0\"/pause 500/emote farmer 32/pause 500/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 300/advancedMove farmer false -10 0/pause 800/faceDirection Kent 2 true/pause 275/faceDirection Kent 1 true/pause 250/globalFade/viewport -1000 -1000/warp farmer -30 -30/pause 1000/viewport 40 26 clamp true/pause 2000/speak Kent \"Well. Time to head back.$0\"/pause 650/faceDirection Kent 2 true/pause 250/faceDirection Kent 3 true/pause 300/viewport move -1 0 7000 true/move Kent -10 0 2/move Kent 0 2 2/pause 1500/faceDirection Kent 1 true/pause 250/faceDirection Kent 0 true/pause 750/speak Kent \"...$2\"/pause 2000/viewport move 0 -1 10000 true/move Kent 0 -6 0/pause 650/warp Kent -20 -20/playSound doorClose/pause 2000/globalFade/viewport -1000 -1000/addConversationTopic KentAdventurer 14/friendship Kent 50/pause 1000/end dialogue Kent \"Hey, @. I'm now a guild member.$1#$e#I won't get into anything dangerous. I've just found an appreciation for adventurers.$0\"",
 	  }
     },
-	
-	{ 
+
+	{
 	 //Kent Adventurer Guild Schedule
 	 "Action": "EditData",
 	 "Target": "characters/schedules/Kent",
@@ -36696,40 +36696,40 @@ Castle Village (work on during the beta)
 	 "Thu": "700 SamHouse 4 13 2/1000 AdventureGuild 3 13 2/2000 SamHouse 21 5 3 kent_sleep"
        },
     },
-	
+
 	{
 	 "Action": "EditData",
      "Target": "characters/dialogue/Kent",
-     "Entries": {	
+     "Entries": {
 		"AdventureGuild_3_13": "Hey, @. How goes the adventuring?$1",
 		}
     },
-	
+
     {
 	 "Action": "EditData",
      "Target": "characters/dialogue/MarlonFay",
-     "Entries": {	
+     "Entries": {
 		"KentAdventurer": "@. We have a new guild member. His name is Kent.$0#$e#He seems fond of you. Do you know each other?$0",
 		}
     },
 	{
 	 "Action": "EditData",
      "Target": "characters/dialogue/Sam",
-     "Entries": {	
+     "Entries": {
 		"KentAdventurer": "Did you hear my dad joined the adventurer guild?$0#$e#Cool, right?$1",
 		}
     },
 	{
 	 "Action": "EditData",
      "Target": "characters/dialogue/Vincent",
-     "Entries": {	
+     "Entries": {
 		"KentAdventurer": "My dad is gonna fight big bad monsters!$1",
 		}
     },
 	{
 	 "Action": "EditData",
      "Target": "characters/dialogue/Jodi",
-     "Entries": {	
+     "Entries": {
 		"KentAdventurer": "Kent promised me he won't get into anything dangerous as a guild member. I trust him.$0#$e#He says this makes him happy and that it gives him a new sense of purpose. It's what he needs now.$0",
 		}
     },
@@ -36973,7 +36973,7 @@ Castle Village (work on during the beta)
 		 "harvey_event2": "คุณไม่ผิดหวังแน่ๆ คุณภาพชั้นยอด ผลิตจากวัตถุดิบออร์แกนิค เลยล่ะครับ$1"
 		}
 	},
-	
+
 	{  //PENNY EVENT DIALOGUE ADDITIONS
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/penny",
@@ -36983,7 +36983,7 @@ Castle Village (work on during the beta)
 	 "penny_event3": "Every child has their own unique way of learning things. Planning engaging lessons requires creativity, but that's one of the reasons why I enjoy teaching.",
        }
     },
-	
+
 {       //SAM EVENT DIALOGUE ADDITIONS
 	 "Action": "EditData",
      "Target": "characters/dialogue/Sam",
@@ -37036,11 +37036,11 @@ Castle Village (work on during the beta)
 		"emily_event5": "พระจันทร์สีเลือด? โรบินชอบเจ้านี่ล่ะ! เลือกได้ดี @$1"
 		}
 	},
-	
-	
-	
-	
-	
+
+
+
+
+
 {       //HALEY EVENT DIALOGUE ADDITIONS
 	 "Action": "EditData",
      "Target": "characters/dialogue/Haley",
