@@ -493,6 +493,14 @@
       "When": { "FarmType": "Standard", "Spouse": "Sophia", "HasMod |contains=flashshifter.GrandpasFarm": false }
     },
 
+	{ //Lance spouse area
+      "Action": "EditMap",
+      "Target": "Maps/Farm,Maps",
+      "FromFile": "assets/MapPatches/IF2R_Lance_SpouseArea.tbin",
+      "ToArea": { "X": 69, "Y": 7, "Width": 4, "Height": 2 },
+      "When": { "FarmType": "Standard", "Spouse": "Lance", "HasMod |contains=flashshifter.GrandpasFarm": false }
+    },
+
 	{ //Victor spouse area
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
