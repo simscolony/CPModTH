@@ -149,7 +149,7 @@
             "Target": "Strings/Characters",
             "Entries":
             {
-                "MovieInvite_Spouse_Elliott": "เพื่อนรัก ได้เลยครับ ผมอยากจะไปดูหนังกับบคุณ! ไว้เราพบกันที่โรงหนังนะครับ",
+                "MovieInvite_Spouse_Elliott": "เพื่อนรัก ได้เลยครับ ผมอยากจะไปดูหนังกับคุณ! ไว้เราพบกันที่โรงหนังนะครับ",
             },
         },
         {
@@ -169,7 +169,7 @@
             "Target": "Data/Festivals/winter25",
             "Entries":
             {
-                "Elliott_spouse": "คุณไม่ต้องหาอะไร มาให้ผมอีกแล้วครีบ มิตรภาพที่คุณมอบให้ เป็นของขวัญ ที่ยิ่งใหญ่ที่สุดแล้ว$l",
+                "Elliott_spouse": "คุณไม่ต้องหาอะไร มาให้ผมอีกแล้วครับ มิตรภาพที่คุณมอบให้ เป็นของขวัญ ที่ยิ่งใหญ่ที่สุดแล้ว$l",
             },
             "When":
             {
@@ -181,7 +181,7 @@
             "Target": "Data/Festivals/spring13",
             "Entries":
             {
-                "Elliott_spouse": "ผมชอบการที่คุณดูสบายๆ {{Lowercase:{{TermofEndearment}}}}$h",
+                "Elliott_spouse": "ผมรู้สึกเพลิดเพลิน ที่ได้เห็นคุณผ่อนคลายแบบนี้ {{Lowercase:{{TermofEndearment}}}}$h",
             },
             "When":
             {
@@ -194,11 +194,11 @@
             "Target": "Data/Festivals/spring13",
             "Entries":
             {
-                "Elliott_spouse": "ผมชอบการที่คุณดูสบายๆ {{TermofEndearment}}$h",
+                "Elliott_spouse": "ผมรู้สึกเพลิดเพลิน ที่ได้เห็นคุณผ่อนคลายแบบนี้ {{TermofEndearment}}$h",
             },
             "When":
             {
-                "TermofEndearment": "@ เพื่อนที่ดีที่สุดของผม BFF",
+                "TermofEndearment": "@ BFF",
             },
         },
         {
@@ -206,7 +206,7 @@
             "Target": "Data/Festivals/winter25",
             "Entries":
             {
-                "Elliott_spouse": "คุณไม่ต้องหาอะไร มาให้ผมอีกแล้วครีบ มิตรภาพที่คุณมอบให้ เป็นของขวัญ ที่ยิ่งใหญ่ที่สุดแล้ว$h",
+                "Elliott_spouse": "คุณไม่ต้องหาอะไร มาให้ผมอีกแล้วครับ มิตรภาพที่คุณมอบให้ เป็นของขวัญ ที่ยิ่งใหญ่ที่สุดแล้ว$h",
             },
             "When":
             {
@@ -218,16 +218,16 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_2": "My skill with words is unmatched, yet I can't properly describe your constitution and resolve.#$b#It astounds me that you can withstand hours outdoors in the pouring rain.",
-                "Indoor_Day_0": "I've been taking much better care of myself now that we're {{RelationshipLabel}}. The solitary life wasn't particularly healthy for me.",
-                "Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare with your mesmerizing spirit.$l", //credit to Airyn for the phrase "mesmerizing spirit!"
-                "Indoor_Night_3": "O, lonesome hours awaiting thee... But when my friend comes home to me, my heart, torn by the dread of night, is purified with golden light.#$e#Poetry is the only way I can begin to describe my fondness for you.$l",
-                "Indoor_Night_4": "My dearest friend... I wouldn't trade you for 100 iridium bars.#$e#Nor 1000...#$e#Not even 10,000 bars, no.$7#$e#...$7#$e#No, not even 100,000 bars!$a#$e#...$s#$e#Wa... one million bars of pure iridium...? Don't make me do this...$8",
-                "Outdoor_4": "I drank too much coffee... my mouth feels about as dry as the Calico Desert.$s",
-                "Good_0": "@... I'm so proud of all your hard work. I'm very lucky to be part of your life.$l",
-                "Good_1": "I made a whole secret book of poems expressing my affection for you.$l",
-                "fall_26": "Would you still respect me if I guzzled two gallons of pumpkin ale at the Spirit's Eve festival? Sometimes a man has primitive urges...",
-                "winter_28": "Happy new year's eve, my dearest friend. Please accept this to celebrate. [348]",
+                "Rainy_Night_2": "ทักษะการใช้ภาษาของผม หาใครจะมาเทียบได้ แต่ผมก็ยังไม่สามารถ บรรยายแรงกายและแรงใจ ของคุณได้เลย#$b#มันทำให้ผมตะลึง ที่คุณสามารถยืนอยู่กลางแจ้ง เป็นชั่วโมงๆ ท่ามกลางสายฝนโปรยปราย",
+                "Indoor_Day_0": "ผมต้องดูแลตัวเอง ให้ดีขึ้นกว่าเดิม เพราะว่าตอนนี้เราเป็น {{RelationshipLabel}} กันแล้ว การใช้ชีวิตเพียงลำพัง คงไม่ดีต่อสุขภาพของผม อีกต่อไป",
+                "Indoor_Night_0": "จากดวงดาวสุกสกาว ในเหมันต์ ยันสินแร่อิริเดียมอัน สดใส... ยังไม่มีสิ่งไหน จะควรคู่เท่าจิตวิญญาณ ที่น่าหลงใหลของคุณอีกแล้ว$l", //credit to Airyn for the phrase "mesmerizing spirit!"
+                "Indoor_Night_3": "ชั่วโมงยามข้าเปลี่ยว อ้างว้าง..., ใจข้าเหมือนถูกหนาม ขาดวิ่น, ยามเกลอข้าหวนกลับ คืนสู่ เหย้ามา, หัวใจข้าสุกใส โชติช่วง ดั่งทอง#$e#บทกลอนนี้ คงทางเดียวที่จะทำให้ผม พรรณนา ความคะนึงหา ของผมที่มีต่อคุณได้$l",
+                "Indoor_Night_4": "เพื่อนสุดที่รักของผม... ผมคงไม่สามารถจะที่ ยอมแลกคุณกับ แท่งอิริเดียม 100 อัน#$e#ไม่สิ 1,000...#$e#ไม่ 10,000 อัน ก็ไม่$7#$e#...$7#$e#100,000 อัน ก็ไม่!$a#$e#...$s#$e#แท่งอิริเดียมบริสุทธิ์ ล... ล้านอัน...? อย่าให้ผมต้องทำแบบนั้นเลยครับ ...$8",
+                "Outdoor_4": "ผมคงดื่มกาแฟเยอะไป... ปากผมแห้งผาก ยังกับทะเลทราบคาลิโก้$s",
+                "Good_0": "@... ผมภูมิใจในทุกอย่าง ที่คุณทำอย่างหนัก ผมช่างโชคดีจริงๆ ที่เป็นส่วนหนึ่งในชีวิตของคุณ$l",
+                "Good_1": "ผมทำหนังสือลับ ที่มีบทกวีที่พรรณาถึง ความหลงใหลของผม ที่มีต่อคุณไว้ด้วยครับ$l",
+                "fall_26": "คุณจะยังเคารพผมอยู่มั้ยครับ ถ้าผมดื่มเหล้าฟักทอง ในงานเทศกาลแห่งภูติไป 2 แกลลอน? บางทีความเป็นชายมันก็ร่ำร้อง...",
+                "winter_28": "สวัสดีวันปีใหม่ครับ เพื่อนสุดที่รักของผม นี่แด่การเฉลิงฉลองครับ [348]",
             },
             "When":
             {
@@ -240,17 +240,17 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_2": "My skill with words is unmatched, yet I can't properly describe your constitution and resolve.#$b#It astounds me that you can withstand hours outdoors in the pouring rain.",
-                "Indoor_Day_0": "I've been taking much better care of myself now that we're {{RelationshipLabel}}. The solitary life wasn't particularly healthy for me.",
-                "Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare to your mesmerizing spirit.",
-                "Indoor_Night_3": "O, lonesome hours awaiting thee... But when my friend comes home to me, my heart, torn by the dread of night, is purified with golden light.#$e#Poetry is the only way I can begin to describe my fondness for you.",
-                "Indoor_Night_4": "My dearest friend... I wouldn't trade you for 100 iridium bars.#$e#Nor 1000...#$e#Not even 10,000 bars, no.$7#$e#...$7#$e#No, not even 100,000 bars!$a#$e#...$s#$e#Wa... one million bars of pure iridium...? Don't make me do this...$8",
-                "Outdoor_4": "I drank too much coffee... my mouth feels about as dry as the Calico Desert.$s",
-                "Good_0": "@... I'm so proud of all your hard work. I'm very lucky to be part of your life.$h",
-                "Good_1": "I made a whole secret book of poems expressing my affection for you.",
-                "fall_26": "Would you still respect me if I guzzled two gallons of pumpkin ale at the Spirit's Eve festival? Sometimes a man has primitive urges...",
-                "winter_28": "Happy new year's eve, my dearest friend. Please accept this to celebrate. [348]",
-                "Good_2": "I came to the valley to find the ivory tower from which my talents could reign supreme. But what I really found was a dungeon of loneliness. You saved me from that.",
+                "Rainy_Night_2": "ทักษะการใช้ภาษาของผม หาใครจะมาเทียบได้ แต่ผมก็ยังไม่สามารถ บรรยายแรงกายและแรงใจ ของคุณได้เลย#$b#มันทำให้ผมตะลึง ที่คุณสามารถยืนอยู่กลางแจ้ง เป็นชั่วโมงๆ ท่ามกลางสายฝนโปรยปราย",
+                "Indoor_Day_0": "ผมต้องดูแลตัวเอง ให้ดีขึ้นกว่าเดิม เพราะว่าตอนนี้เราเป็น {{RelationshipLabel}} กันแล้ว การใช้ชีวิตเพียงลำพัง คงไม่ดีต่อสุขภาพของผม อีกต่อไป",
+                "Indoor_Night_0": "จากดวงดาวสุกสกาว ในเหมันต์ ยันสินแร่อิริเดียมอัน สดใส... ยังไม่มีสิ่งไหน จะควรคู่เท่าจิตวิญญาณ ที่น่าหลงใหลของคุณอีกแล้ว",
+                "Indoor_Night_3": "ชั่วโมงยามข้าเปลี่ยว อ้างว้าง..., ใจข้าเหมือนถูกหนาม ขาดวิ่น, ยามเกลอข้าหวนกลับ คืนสู่ เหย้ามา, หัวใจข้าสุกใส โชติช่วง ดั่งทอง#$e#บทกลอนนี้ คงทางเดียวที่จะทำให้ผม พรรณนา ความคะนึงหา ของผมที่มีต่อคุณได้",
+                "Indoor_Night_4": "เพื่อนสุดที่รักของผม... ผมคงไม่สามารถจะที่ ยอมแลกคุณกับ แท่งอิริเดียม 100 อัน#$e#ไม่สิ 1,000...#$e#ไม่ 10,000 อัน ก็ไม่$7#$e#...$7#$e#100,000 อัน ก็ไม่!$a#$e#...$s#$e#แท่งอิริเดียมบริสุทธิ์ ล... ล้านอัน...? อย่าให้ผมต้องทำแบบนั้นเลยครับ ...8",
+                "Outdoor_4": "ผมคงดื่มกาแฟเยอะไป... ปากผมแห้งผาก ยังกับทะเลทราบคาลิโก้$s",
+                "Good_0": "@... ผมภูมิใจในทุกอย่าง ที่คุณทำอย่างหนัก ผมช่างโชคดีจริงๆ ที่เป็นส่วนหนึ่งในชีวิตของคุณ$h",
+                "Good_1": "ผมทำหนังสือลับ ที่มีบทกวีที่พรรณาถึง ความหลงใหลของผม ที่มีต่อคุณไว้ด้วยครับ",
+                "fall_26": "คุณจะยังเคารพผมอยู่มั้ยครับ ถ้าผมดื่มเหล้าฟักทอง ในงานเทศกาลแห่งภูติไป 2 แกลลอน? บางทีความเป็นชายมันก็ร่ำร้อง...",
+                "winter_28": "สวัสดีวันปีใหม่ครับ เพื่อนสุดที่รักของผม นี่แด่การเฉลิงฉลองครับ [348]",
+                "Good_2": "ผมมาที่หุบเขานี้ เพื่อหาหอคอยงาช้าง ที่จะพาผมไปยังจุดสูงสุด ในพรสวรรค์ได้ แต่ผมกลับเจอแต่คุกมืด ที่มีแต่ความอ้างว้าง คุณได้ช่วยผมไว้จากสิ่งนั้นครับ",
             },
             "When":
             {
@@ -263,12 +263,12 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Day_3": "I think I'll remain indoors today, {{Lowercase:{{TermofEndearment}}}}. The rain does my hair an injustice.",
-                "patio_Elliott": "Ah, what a lovely day to read a book... don't you think, {{Lowercase:{{TermofEndearment}}}}?",
-                "Rainy_Night_0": "Good evening. Did you have a productive day, {{Lowercase:{{TermofEndearment}}}}?",
-                "spring_23": "I look forward to dancing with you tomorrow, {{Lowercase:{{TermofEndearment}}}}.",
-                "Good_3": "You're looking chic today, {{Lowercase:{{TermofEndearment}}}}. How to describe your attire... Sumptuous, yet tasteful.#$b#I suppose when I next see it, it will be covered in mud... Well, there is beauty in ephemerality, too.$s",
-                "winter_7": "I'm a little out of practice, but I plan on entering the fishing contest tomorrow! You've got some stiff competition, {{Lowercase:{{TermofEndearment}}}}.",
+                "Rainy_Day_3": "วันนี้ผมจะอยู่ในบ้านครับ {{Lowercase:{{TermofEndearment}}}} สายฝนทำให้ผมเสียทรง",
+                "patio_Elliott": "อาา ช่างเป็นวันที่น่ารัก เหมาะกับการอ่านหนังสือ... ไม่คิดอย่างนั้นหรอครับ {{Lowercase:{{TermofEndearment}}}}?",
+                "Rainy_Night_0": "สวัสดีตอนเย็น วันนี้ทำได้เต็มที่มั้ยครับ {{Lowercase:{{TermofEndearment}}}}?",
+                "spring_23": "ผมตั้งตาคอย ที่จะได้เต้นรำกับคุณ ในวันพรุ่งนี้ครับ {{Lowercase:{{TermofEndearment}}}}",
+                "Good_3": "วันนี้คุณดูเก๋จัง {{Lowercase:{{TermofEndearment}}}} ถ้าจะให้บรรยายละก็... หรูหรา ไม่สิ มีระดับ#$b#ผมว่าครั้งต่อไปที่ผมเจอคุณ คงจะเต็มไปโดยโคลนแน่ๆ... เอ่อ แต่มันก็เป็นความงาม แบบชั่วครั้งชั่วคราว เหมือนกัน$s",
+                "winter_7": "ถึงผมจะไม่ค่อยได้ฝึก แต่พรุ่งนี้ ผมจะลงแข่งตกปลาด้วย! คุณจะได้เจอการแข่งขัน ที่ตรึงเครียดแน่ๆ ครับ {{Lowercase:{{TermofEndearment}}}}",
             },
             "When":
             {
@@ -282,16 +282,16 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Day_3": "I think I'll remain indoors today, {{TermofEndearment}}. The rain does my hair an injustice.",
-                "patio_Elliott": "Ah, what a lovely day to read a book... don't you think, {{TermofEndearment}}?",
-                "Rainy_Night_0": "Good evening. Did you have a productive day, {{TermofEndearment}}?",
-                "spring_23": "I look forward to dancing with you tomorrow, {{TermofEndearment}}.",
-                "Good_3": "You're looking chic today, {{TermofEndearment}}. How to describe your attire... Sumptuous, yet tasteful.#$b#I suppose when I next see it, it will be covered in mud... Well, ephemerality is itself beautiful.$s",
-                "winter_7": "I'm a little out of practice, but I plan on entering the fishing contest tomorrow! You've got some stiff competition, {{TermofEndearment}}.",
+                "Rainy_Day_3": "วันนี้ผมจะอยู่ในบ้านครับ {{Lowercase:{{TermofEndearment}}}} สายฝนทำให้ผมเสียทรง",
+                "patio_Elliott": "อาา ช่างเป็นวันที่น่ารัก เหมาะกับการอ่านหนังสือ... ไม่คิดอย่างนั้นหรอครับ {{TermofEndearment}}?",
+                "Rainy_Night_0": "สวัสดีตอนเย็น วันนี้ทำได้เต็มที่มั้ยครับ {{TermofEndearment}}?",
+                "spring_23": "ผมตั้งตาคอย ที่จะได้เต้นรำกับคุณ ในวันพรุ่งนี้ครับ  {{TermofEndearment}}",
+                "Good_3": "วันนี้คุณดูเก๋จัง {{Lowercase:{{TermofEndearment}}}} ถ้าจะให้บรรยายละก็... หรูหรา ไม่สิ มีระดับ#$b#ผมว่าครั้งต่อไปที่ผมเจอคุณ คงจะเต็มไปโดยโคลนแน่ๆ... เอ่อ แต่มันก็เป็นความงาม แบบชั่วครั้งชั่วคราว เหมือนกัน$s",
+                "winter_7": "ถึงผมจะไม่ค่อยได้ฝึก แต่พรุ่งนี้ ผมจะลงแข่งตกปลาด้วย! คุณจะได้เจอการแข่งขัน ที่ตรึงเครียดแน่ๆ ครับ  {{TermofEndearment}}",
             },
             "When":
             {
-                "TermofEndearment": "@, BFF",
+                "TermofEndearment": "@ BFF",
                 "HasMod |contains=gizzymo.canonfriendlyexpansion": "false"
             },
         },
@@ -300,7 +300,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_1": "You're ice cold! Let me get you a blanket.$8",
+                "Rainy_Night_1": "คุณเย็นยังกับน้ำแข็ง! ผมจะไปเอาผ้านวมมาให้ครับ$8",
             },
             "When":
             {
@@ -313,7 +313,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Outdoor_Elliott": "Today, I'm going to continue writing my new novel. What better place than our wonderful farm?#$e#This is perfect.$h",
+                "Outdoor_Elliott": "วันนี้ ผมจะเขียนนิยายเรื่องใหม่ ของผมต่อครับ จะมีที่ไหน ดีไปกว่าฟาร์มของเราอีก?#$e#สมบูรณ์แบบ$h",
             },
             "When":
             {
@@ -325,7 +325,7 @@
             "Target": "Characters/Dialogue/MarriageDialogue",
             "Entries":
             {
-                "Indoor_Night_Elliott": "#$c .5#When you come home after a day of hard work, it feels as if you carry the majesty of the outdoors with you.$h#$e#You look tense. Why don't I brew you a cup of spice tea?",
+                "Indoor_Night_Elliott": "#$c .5#เวลาที่คุณกลับมาถึงบ้าน หลังจากทำงานหนักมาทั้งวัน มันเหมือนกับว่า คุณได้แบกอะไรที่อยู่ข้างนอกนั่น ทั้งหมดเอาไว้$h#$e#คุณดีเครียดจัง เดี๋ยวผมชงชาเครื่องเทศ ให้นะครับ ดีมั้ย?",
             },
             "When":
             {
@@ -337,7 +337,7 @@
             "Target": "Strings/StringsFromCSFiles",
             "Entries":
             {
-                "Event.cs.1629": "Yes... could I refuse my dearest friend? We'll dance from now 'til springtime's end.$h#$b#That is, until the end of the festival... I confess my lifestyle lends me more stamina for rhymes than rhythms.$s",
+                "Event.cs.1629": "แน่นอน... ผมจะปฏิเสธเพื่อนสุดที่รัก ของผมไม่ยังไงกันละครับ? เราจะเต้นด้วยกันตั้งแต่ตอนนี้ จนถึงวสันต์เวลา จะสิ้นสุดลง$h#$b#หมายถึง จบงานเทศกาลน่ะครับ... ผมขอสารภาพว่า ไลฟ์สไตล์ของผม ทำให้มีความอดทน กับการหาคำคล้องจอง มากกว่าการจับจังหวะครับ$s",
             },
         },
         {
@@ -345,8 +345,8 @@
             "Target": "Data/mail",
             "Entries":
             {
-                "elliottLetter1": "@, my friend,^^I've just arrived in Grampleton, to start the tour. I've forgotten how hectic the city is! The streets are packed with people... they either seem in a mad hurry, or lost in a daze, unaware of their surroundings. I miss Pelican Town already!^^I begin the tour this evening, at a local bookstore. I must admit, I'm becoming a bit nervous at the thought of public speaking... my stomach feels as if it's been twisted into a soft pretzel and doused with spicy cheese dip. Wish me luck!^^-Love, Elliott^^P.S. I hope you had a peaceful night, and weren't too scared all alone in that big house! %item conversationTopic ElliottGone2 0 %%[#]Letter From Elliott",
-                "elliottLetter2": "My dear @,^^The first reading went well, though the audience was a bit smaller than I'd hoped. Still, I sold enough copies of the book to pay for my (bug-infested) hotel room!^^In a few hours, I leave for Zuzu City. If yesterday's reading was a warm-up, this next one will be a true napalm blast...^^I miss you very much. Remember to eat well! Oh, and don't forget the leftover crab cakes I put in the fridge...^-Love, Elliott %item conversationTopic ElliottGone3 0 %%[#]Letter From Elliott 2",
+                "elliottLetter1": "@ เพื่อนของผม^^ ผมพึ่งมาถึงแกรมเพิลตันครับ ก่อนที่จะเริ่มทัวร์ ผมลืมไปเลยว่าเมืองนี้วุ่นวายขาดไหน! ท้องถนนเต็มไปด้วยผู้คน... ทุกคนดูเร่งรีบ จนดูเหมือนบ้าคลั่ง หรือติดอยู่ในเขาวงกตอย่างไงอย่างงั้น ไม่สนใจสิ่งรอบข้าง ผมคิดถึงเมืองเพลิแกนแล้ว!^^ผมจะเริ่มทัวร์เย็นนี้ครับ ที่ร้านหนังสือท้องถิ่น ผมยอมรับว่า ผมรู้สึกประหม่านิดหน่อย เมื่อต้องพูดท่ามกลางสาธารณชน... ท้องของผมเหมือนบิดเป็นเกรียว เป็นเพรทเซลนุ่มๆ ที่ถูกราดด้วยชีสดิปรสเผ็ด ช่วยอวยพรผมด้วยนะครับ!^^-ด้วยรัก เอลเลียต^^ป.ล. ผมหวังว่าคุณจะมีคืนที่แสนสงบ และไม่ต้องกลัวอะไร ตอนที่อยู่คนเดียวในบ้านหลังใหญ่นะครับ! %item conversationTopic ElliottGone2 0 %%[#]จดหมายจากเอลเลียต 1",
+                "elliottLetter2": "เพื่อนรักของผม @^^ การอ่านครั้งแรกผ่านไปด้วยดีครับ ถึงแม้ว่าจะมีผู้ชมน้อยกว่าที่คาดไว้ แต่ผมก็สามารถขายหนังสือได้มากพอ ที่จะจ่ายค่าโรงแรม (จิ้งหรีด) ของผมครับ!^^อีกไม่กี่ชั่วโมง ผมก็จะย้ายไปที่เมืองซูซู ถ้าการอ่านเมื่อวานนี้ถือเป็นการอุ่นเครื่องละก็ ครั้งหน้านี้ก็จะเป็นระเบิดนาปามเลยแน่ๆ...^^ผมคิดถึงคุณมากเลย อย่าลืมกินอะไรด้วยนะครับ! โอ้ อย่าลืมเค้กปูที่เหลือนะครับ ผมใส่ไว้ในตู้เย็น...^-ด้วยรัก เอลเลียต %item conversationTopic ElliottGone3 0 %%[#]จดหมายจากเอลเลียต 2",
                 "elliottLetter3": "Cherished @,^^Last night in Zuzu City was quite the experience! It seems there's a large literary scene here... a few dozen people showed up at my reading!^^I even signed a couple of autographs... it's strange to be seen as someone important. It's all a matter of framing, a grand illusion... for truly I am no one special. Only your devoted friend, as always.^^Currently I'm alone, in my hotel room, 'ingesting' a Joja Value Meal...^^Should this be called 'food'?^Or 'edible matter'?^I needn't long brood^It must be the latter^^I look forward to returning home soon. Hope you enjoyed the crab cakes.^^-Love, Elliott %item conversationTopic ElliottGone4 0 %%[#]Letter From Elliott 3",
                 "elliottLetter4": "In dreams, when graced with lofty view^I gaze upon the sunlit sea^What distant shores I've travelled to^But time now clouds my memory^^There is but one eternal place^Where I shall someday pass beyond^With you, in Valley dear's embrace:^Our little home beside the pond^^-Elliott %item conversationTopic ElliottGone5 0 %%[#]Letter From Elliott 4",
                 "elliottLetter5": "My dear @,^^I won't bore you with any more details about my readings. They are mostly the same.^^I'm sure your time has been much more exciting! I can't wait to return and see what progress has been made.^^On these long travels between towns, I amuse myself by closing my eyes and envisioning the farm... I see kegs pulsing with sweet wine, a furnace ablaze with precious ore, and our little kitchen with the smell of cinnamon and nutmeg. There's a lot to enjoy!^^Just don't stay out too late in the mines, {{Lowercase:{{TermofEndearment}}}}. It's dangerous in there! If you must go... bring plenty of food.^^-Love, Elliott %item conversationTopic ElliottGone6 0 %%[#]Letter From Elliott 5",
