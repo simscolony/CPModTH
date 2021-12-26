@@ -1,8 +1,8 @@
 {
     "Name": "Stardew Valley Expanded - THAI",
     "Author": "Translator Army x 'ELL",
-    "Version": "2.1.11",
-    "Description": "Thai Language For Stardew Valley Expanded 1.13.16",
+    "Version": "2.2.0-beta.20211226",
+    "Description": "Thai Language For Stardew Valley Expanded 1.14 beta",
     "UniqueID": "TranslatorArmy.ModTHSVE",
     "UpdateKeys": [ "Nexus:7255" ],
     "ContentPackFor": {
