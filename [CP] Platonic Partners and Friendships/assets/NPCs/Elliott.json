@@ -519,9 +519,9 @@
             "Target": "Characters/Dialogue/Elliott",
             "Entries":
             {
-                "summer_Mon10": "I can't help but picture you whenever I sit down to write.$l#$b#Would it be too sentimental to describe you as my muse?$h",
-                "fall_Mon10": "Hello, @. I must admit I was hoping I'd see you today.$l#$e#Thank you for coming by.$h",
-                "fall_Thu4": "Oh dear! A tiny crab appears to have made his home in my shirt pocket.$8#$e#That's the trouble with living on the beach.",
+                "summer_Mon10": "เวลาได้มานั่งเขียนทีไร ผมก็อดคิดถึงคุณไม่ได้$l#$b#ถ้าเรียกคุณว่า บทเพลงของผมจะเป็นการ กล่าวเกินจริงไปมั้ย?$h",
+                "fall_Mon10": "สวัสดี @ ผมต้องยอมรับว่า กำลังอยากเจอคุณเลยวันนี้$l#$e#ขอบคุณที่แวะมาหานะ$h",
+                "fall_Thu4": "โอ้ ตายละ! ดูเจ้าปูตัวจิ๋วนี่ยึดเอา กระเป๋าเสื้อผมเป็นบ้านสิ$8#$e#ปัญหาของคนอยู่ติดทะเลน่ะนะ",
             },
             "When":
             {
@@ -534,15 +534,15 @@
             "Target": "Characters/Dialogue/Elliott",
             "Entries":
             {
-                "summer_Mon10": "I can't help but picture you whenever I sit down to write.$l#$b#Would it be too sentimental to describe you as my muse?$h",
-                "fall_Mon10": "Hello, @. I must admit I was hoping I'd see you today.$l#$e#Thank you for coming by.$h",
-                "fall_Thu4": "Oh dear! A tiny crab appears to have made his home in my shirt pocket.$8#$e#That's the trouble with living on the beach.",
-                "Mon10": "When you're around, @, the feelings in my heart can only be called poetry without words.#$e#I hope all is well with you.$h",
-                "Tue10": "In my life, I've spent so much time alone, but I think I may be ready for a change to that.",
-                "Thu10": "I've tried my hand at some sonnets lately.#$e#Oh! I've written nothing worth another's attention.#$e#Perhaps another time.",
-                "summer_Thu10": "I think of how much I was bullied and outcast as a child. To find someone like you, I feel luckier than I ever thought I'd be.$h",
-                "summer_Sun10": "I can often see pieces of myself in the characters I create. But lately, I've written some vignettes that resemble you more than me.",
-                "winter_Fri10": "I can often see pieces of myself in the characters I create. But lately, I've written some vignettes that resemble you more than me.",
+                "summer_Mon10": "เวลาได้มานั่งเขียนทีไร ผมก็อดคิดถึงคุณไม่ได้$l#$b#ถ้าเรียกคุณว่า บทเพลงของผมจะเป็นการ กล่าวเกินจริงไปมั้ย?$h",
+                "fall_Mon10": "สวัสดี @ ผมต้องยอมรับว่า กำลังอยากเจอคุณเลยวันนี้$l#$e#ขอบคุณที่แวะมาหานะ$h",
+                "fall_Thu4": "โอ้ ตายละ! ดูเจ้าปูตัวจิ๋วนี่ยึดเอา กระเป๋าเสื้อผมเป็นบ้านสิ$8#$e#ปัญหาของคนอยู่ติดทะเลน่ะนะ",
+                "Mon10": "เวลามีคุณใกล้ๆ @ ความรู้สึกในใจผม คงเป็นสิ่งใดไม่ได้นอกจาก บทกวีอันไร้ถ้อยคำ#$e#ผมหวังว่าคุณสบายดีนะ$h",
+                "Tue10": "ชีวิตผม ชินกับการอยู่คนเดียวมานาน แต่ผมคิดว่า ผมคงพร้อมที่จะเปลี่ยน เรื่องนั้นแล้วล่ะ",
+                "Thu10": "เร็วๆ นี้ผมลองแต่งโคลง 14 ดูล่ะ#$e#เอ่อ! ไม่ได้เขียนอะไร น่าอ่านนักหรอก#$e#บางทีครั้งหน้าไว้ค่อยดูนะ",
+                "summer_Thu10": "คิดถึงว่าตอนเด็กๆ โดนแกล้งและกีดกันมาขนาดไหนแล้ว ได้มาพบคนเช่นคุณ ผมไม่นึกเลยว่าผมจะมีโชค ดีได้ถึงเพียงนี้$h",
+                "summer_Sun10": "ผมเห็นส่วนเล็กๆ ของผมบ่อยๆ ในตัวละครที่ผมสร้าง แต่เดี๋ยวนี้ ผมกลับเห็นลวดลายที่คล้ายคลึง กับคุณมากกว่าผม",
+                "winter_Fri10": "ผมเห็นส่วนเล็กๆ ของผมบ่อยๆ ในตัวละครที่ผมสร้าง แต่เดี๋ยวนี้ ผมกลับเห็นลวดลายที่คล้ายคลึง กับคุณมากกว่าผม",
             },
             "When":
             {
@@ -555,14 +555,14 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Indoor_Day_0": "#$c .5#How on earth did I manage to rough it out in that old shack? Even now, it already feels like a memory out of someone else's life.#I've been taking much better care of myself now that we're {{RelationshipLabel}}. The solitary life wasn't particularly healthy for me.",
-                "Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare with your mesmerizing spirit.$l",
-                "Rainy_Night_4": "My dearest friend... I wouldn't trade you for 100 iridium bars.#$e#Nor 1000...#$e#Not even 10,000 bars, no.$7#$e#...$7#$e#No, not even 100,000 bars!$a#$e#...$s#$e#Wa... one million bars of pure iridium...? Don't make me do this...$8",
-                "Good_0": "@... I'm so proud of all your hard work. I'm very lucky to be part of your life.$l",
-                "Good_1": "I made a whole secret book of poems expressing my affection for you.$l",
-                "fall_26": "Would you still respect me if I guzzled two gallons of pumpkin ale at the Spirit's Eve festival? Sometimes a man has primitive urges...",
-                "winter_28": "Happy new year's eve, my dearest friend. Please accept this to celebrate. [348]",
-                "Indoor_Day_3": "#$c .5#Today is going to be a fantastic day... I can feel it! I get this special feeling in my nose...$h#A sheen of silky sun in window's glare... reminds me how I know I've found my home, wherein your gleaming gaze invites to share... a moment in the sun to call our own.",
+                "Indoor_Day_0": "#$c .5#นี่ผมรอดมาได้ยังไง ในกระท่อมเก่าๆ นั่นกันเนี่ย? ขนาดตอนนี้ยังรู้สึกเหมือน มันเป็นเพียงความทรงจำ ที่หลุดมาจากชีวิต ของคนอื่นเลย#ผมดูแลตัวเองได้ดี มากขึ้นโขพอเราเป็น {{RelationshipLabel}} กัน ชีวิตสันโดษเนี่ย ไม่ค่อยดีต่อสุขภาพของผม เท่าไหร่เลยนะ",
+                "Indoor_Night_0": "จากดวงดาวฤดูหนาว ที่สุกสกาวที่สุด ยันสายแร่อิริเดียม อันระยิบระยับ... ไม่มีอะไรเทียบเจตนารมณ์ อันตราตรึงของคุณได้เลย$l",
+                "Rainy_Night_4": "เพื่อนคนสำคัญของผม... ผมไม่มีวันยอมลแกคุณ กับแท่งอิริเดียม 100 อัน#$e#หรือ 1000 อัน...#$e#หรือแม้กระทั่ง 10,000 อัน ไม่มีทางซะล่ะ$7#$e#...$7#$e#ไม่ ต่อให้ 100,000 อันเลย!$a#$e#...$s#$e#หา... แท่งอิริเดียม หนึ่งล้านแท่งเหรอ...? อย่าให้ผมทำแบบนี้น่า...$8",
+                "Good_0": "@... ผมภูมิใจกับงาน ที่คุณทุ่มเททำนะ ผมโชคดีเหลือเกินที่ได้ เป็นส่วนหนึ่งในชีวิตคุณ$l",
+                "Good_1": "ผมทำหนังสือรวบรวมบทกวีลับ ขึ้นมาทั้งเล่มเพื่อบรรยาย ความรักความเอ็นดู ของผมที่มีให้คุณเลยล่ะ$l",
+                "fall_26": "คุณจะยังนับถือผมมั้ย ถ้าผมกระดกเหล้าฟักทอง สักสองถังลงคอทีเดียว ที่งานเทศกาลภูตน่ะ? บางทีผู้ชายก็ต้องมี สัญชาติญาณดิบๆ บ้างน่ะ...",
+                "winter_28": "สุขสันต์วันก่อนปีใหม่นะ เพื่อนคนสำคัญของผม ช่วยรับนี่เป็นการฉลองด้วยเถอะ [348]",
+                "Indoor_Day_3": "#$c .5#วันนี้ต้องเป็นวันที่ น่าประทับใจมากแน่... ผมรู้สึกได้เลย! ผมรู้สึกได้เป็นพิเศษ จากจมูกผมเลย...$h#A sheen of silky sun in window's glare... reminds me how I know I've found my home, wherein your gleaming gaze invites to share... a moment in the sun to call our own.",
                 "Indoor_Night_3": "#$c .5#O, lonesome hours awaiting thee... But when my friend comes home to me, my heart... torn by the dread of night, is purified with golden light.#A darkened, starry sky will blanket us, and captivate us with celestial charm. Beneath that shroud you'll find your peace, in trust that I will shelter you from any harm.#$e#Poetry is the only way I can begin to describe my fondness for you.$l",
                 "Outdoor_4": "#$c .5#Good morning. Might I steal a hug from my treasured friend?$l#I drank too much coffee... my mouth feels about as dry as the Calico Desert.$s",
             },
@@ -586,8 +586,8 @@
                 "winter_28": "Happy new year's eve, my dearest friend. Please accept this to celebrate. [348]",
                 "Good_2": "I came to the valley to find the ivory tower from which my talents could reign supreme. But what I really found was a dungeon of loneliness. You saved me from that.",
                 "Indoor_Day_3": "#$c .5#Today is going to be a fantastic day... I can feel it! I get this special feeling in my nose...$h#A sheen of silky sun in window's glare... reminds me how I know I've found my home, wherein your gleaming gaze invites to share... a moment in the sun to call our own.",
-                "Indoor_Night_3": "#$c .5#O, lonesome hours awaiting thee... But when my friend comes home to me, my heart... torn by the dread of night, is purified with golden light.#A darkened, starry sky will blanket us, and captivate us with celestial charm. Beneath that shroud you'll find your peace, in trust that I will shelter you from any harm.#$e#Poetry is the only way I can begin to describe my fondness for you.$h",
-                "Outdoor_4": "#$c .5#Good morning. Might I steal a hug from my treasured friend?$h#I drank too much coffee... my mouth feels about as dry as the Calico Desert.$s",
+                "Indoor_Night_3": "#$c .5#O, lonesome hours awaiting thee... But when my friend comes home to me, my heart... torn by the dread of night, is purified with golden light.#A darkened, starry sky will blanket us, and captivate us with celestial charm. Beneath that shroud you'll find your peace, in trust that I will shelter you from any harm.#$e#บทกวีเป็นทางเดียว ที่ผมจะสามารถ เริ่มบรรยายความชอบพอ ที่ผมมีให้คุณได้$h",
+                "Outdoor_4": "#$c .5#อรุณสวัสดิ์ ขอผมขโมยอ้อมกอด จากเพื่อนที่ผมทะนุถนอม สักหนึ่งทีได้มั้ย?$h#ผมดื่มกาแฟมากไปน่ะ... ปากผมแห้งผาก ราวกับทะเลทรายคาลิโก้เลย$s",
             },
             "When":
             {
@@ -600,15 +600,15 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_0": "Good evening. Did you have a productive day, {{Lowercase:{{TermofEndearment}}}}?",
-                "spring_23": "I look forward to dancing with you tomorrow, {{Lowercase:{{TermofEndearment}}}}.",
-                "Good_3": "You're looking chic today, {{Lowercase:{{TermofEndearment}}}}. How to describe your attire... Sumptuous, yet tasteful.#$b#I suppose when I next see it, it will be covered in mud... Well, there is beauty in ephemerality, too.$s",
-                "winter_7": "I'm a little out of practice, but I plan on entering the fishing contest tomorrow! You've got some stiff competition, {{Lowercase:{{TermofEndearment}}}}.",
-                "Rainy_Day_3": "#$c .5#I think I'll remain indoors today, {{Lowercase:{{TermofEndearment}}}}. The rain does my hair an injustice..#Goodness! I'm in constant admiration at how you boldly venture outside on these days, yet it never dampens your spirit.",
-                "patio_Elliott": "#$c .5#Ah... What a lovely day to read a book, don't you think?#Feel free to join me if you're taking a break, {{Lowercase:{{TermofEndearment}}}}.$h",
-                "Rainy_Night_2": "#$c .5#Have you been out in the rain all day? My skill with words is unmatched, yet I can't properly describe your constitution and resolve.#Ah, {{Lowercase:{{TermofEndearment}}}}, I was just thinking about you. Welcome home.$h",
-                "winter_21": "I've always thought, as long as speaking is one of the most fundamentally human things we do, I might as well take some pride in it.$h#$e#I say I should speak mellifluously, even if others may find it strange.#$b#Yet, you know me well, {{Lowercase:{{TermofEndearment}}}}: It would be strange if I didn't speak in my most authentic voice, would it not?",
-                "Indoor_Day_4": "#$c .5#I've had this recurring nightmare that you gave me a buzz cut... You wouldn't ever do that to me, would you?$s#{{Lowercase:{{TermofEndearment}}}}, what do you think we should do for dinner tonight? It's your pick.#$e#I trust you.",
+                "Rainy_Night_0": "สายัณห์สวัสดิ์ วันนี้งานคืบหน้าเยอะมั้ย {{Lowercase:{{TermofEndearment}}}}?",
+                "spring_23": "ผมตั้งตารอ เต้นรำกับคุณพรุ่งนี้นะ {{Lowercase:{{TermofEndearment}}}}.",
+                "Good_3": "วันนี้คุณดูชิคจังเลย {{Lowercase:{{TermofEndearment}}}} จะพรรณนาชุดคุณยังไงดี... หรูหรา แต่มีรสนิยม#$b#ผมคิดว่าครั้งหน้าที่ผมได้เห็น ชุดก็คงเปื้อนดินโคลนไปหมด... เอาเถอะ การคงอยู่เพียงช่วงเวลาสั้นๆ ก็มีความสวยงามเหมือนกัน$s",
+                "winter_7": "ผมอาจจะไม่ค่อยได้ฝึก แต่ผมว่าจะลง แข่งตกปลาพรุ่งนี้นะ! คุณมีคู่แข่งที่สูสีแล้วล่ะ {{Lowercase:{{TermofEndearment}}}}",
+                "Rainy_Day_3": "#$c .5#วันนี้ผมว่าจะอยู่ในร่ม {{Lowercase:{{TermofEndearment}}}} ฝนทำให้ผมของผมเสียหาย..#ให้ตาย! ผมชื่นชมคุณเสมอเลยที่คุณ กล้าออกไปฝ่าฟันข้างนอก ในวันอย่างนี้ แล้วมันยังไม่เคย ทำให้คุณหดหู่อีก",
+                "patio_Elliott": "#$c .5#อา... ช่างเป็นวันที่สวยงามเหมาะ จะอ่านหนังสืออะไรปานนี้?#ถ้าพักเมื่อไหร่ มาอ่านด้วยกันได้ตลอดนะ {{Lowercase:{{TermofEndearment}}}}$h",
+                "Rainy_Night_2": "#$c .5#วันนี้คุณไปเจอฝน ทั้งวันเลยเหรอ? ความชำนาญของผมกับถ้อยคำ ไม่มีใครเทียบได้ก็จริง แต่ผมก็ยังไม่รู้ จะพรรณนาความแข็งแกร่ง และแน่วแน่ของคุณ ได้อย่างไรเลย#โอ้ {{Lowercase:{{TermofEndearment}}}} ผมกำลังนึกถึงคุณเลย ยินดีต้อนรับกลับบ้านนะ$h",
+                "winter_21": "ผมคิดเสมอว่า ตราบใดที่การพูดยังเป็นสิ่ง พื้นฐานที่สุดที่มนุษย์เราทำกัน ผมก็สามารถยืดอก ภูมิใจกับมันได้$h#$e#ผมเลยยืนยันที่จะ พูดด้วยภาษาดอกไม้ แม้ผู้คนอาจจะมองว่าแปลก#$b#แต่กระนั้น คุณก็รู้จักผมดี {{Lowercase:{{TermofEndearment}}}}: มันจะแปลกซะกว่า หากผมไม่ได้พูดจากใจ อันจริงแท้อย่างที่สุด ใช่มั้ยล่ะ?",
+                "Indoor_Day_4": "#$c .5#ผมฝันร้ายซ้ำๆ ตลอดเลยว่าคุณ จะตัดผมผมจนเกรียน... คุณจะไม่มีวัน ทำแบบนั้นกับผมใช่มั้ย?$s#{{Lowercase:{{TermofEndearment}}}} คุณคิดว่าคืนนี้ เรากินอะไรกันดี? ให้คุณเลือกเลย#$e#ผมไว้ใจคุณ",
             },
             "When":
             {
@@ -622,15 +622,15 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_0": "Good evening. Did you have a productive day, {{TermofEndearment}}?",
-                "spring_23": "I look forward to dancing with you tomorrow, {{TermofEndearment}}.",
-                "Good_3": "You're looking chic today, {{TermofEndearment}}. How to describe your attire... Sumptuous, yet tasteful.#$b#I suppose when I next see it, it will be covered in mud... Well, ephemerality is itself beautiful.$s",
-                "winter_7": "I'm a little out of practice, but I plan on entering the fishing contest tomorrow! You've got some stiff competition, {{TermofEndearment}}.",
-                "Rainy_Day_3": "#$c .5#I think I'll remain indoors today, {{TermofEndearment}}. The rain does my hair an injustice.#Goodness! I'm in constant admiration at how you boldly venture outside on these days, yet it never dampens your spirit.",
-                "patio_Elliott": "#$c .5#Ah... What a lovely day to read a book, don't you think?#Feel free to join me if you're taking a break, {{TermofEndearment}}.$h",
-                "Rainy_Night_2": "#$c .5#Have you been out in the rain all day? My skill with words is unmatched, yet I can't properly describe your constitution and resolve.#Ah, {{TermofEndearment}}, I was just thinking about you. Welcome home.$h",
-                "winter_21": "I've always thought, as long as speaking is one of the most fundamentally human things we do, I might as well take some pride in it.$h#$e#I say I should speak mellifluously, even if others may find it strange.#$b#Yet, you know me well, {{TermofEndearment}}: It would be strange if I didn't speak in my most authentic voice, would it not?",
-                "Indoor_Day_4": "#$c .5#I've had this recurring nightmare that you gave me a buzz cut... You wouldn't ever do that to me, would you?$s#{{TermofEndearment}}, what do you think we should do for dinner tonight? It's your pick.#$e#I trust you.",
+                "Rainy_Night_0": "สายัณห์สวัสดิ์ วันนี้งานคืบหน้าเยอะมั้ย {{TermofEndearment}}?",
+                "spring_23": "ผมตั้งตารอ เต้นรำกับคุณพรุ่งนี้นะ {{TermofEndearment}}.",
+                "Good_3": "วันนี้คุณดูชิคจังเลย {{TermofEndearment}}จะพรรณนาชุดคุณยังไงดี... หรูหรา แต่มีรสนิยม#$b#ผมคิดว่าครั้งหน้าที่ผมได้เห็น ชุดก็คงเปื้อนดินโคลนไปหมด... เอาเถอะ การคงอยู่เพียงช่วงเวลาสั้นๆ ก็มีความสวยงามเหมือนกัน$s",
+                "winter_7": "ผมอาจจะไม่ค่อยได้ฝึก แต่ผมว่าจะลง แข่งตกปลาพรุ่งนี้นะ! คุณมีคู่แข่งที่สูสีแล้วล่ะ {{TermofEndearment}}.",
+                "Rainy_Day_3": "#$c .5#วันนี้ผมว่าจะอยู่ในร่ม {{TermofEndearment}}ฝนทำให้ผมของผมเสียหาย..#ให้ตาย! ผมชื่นชมคุณเสมอเลยที่คุณ กล้าออกไปฝ่าฟันข้างนอก ในวันอย่างนี้ แล้วมันยังไม่เคย ทำให้คุณหดหู่อีก",
+                "patio_Elliott": "#$c .5#อา... ช่างเป็นวันที่สวยงามเหมาะ จะอ่านหนังสืออะไรปานนี้?#ถ้าพักเมื่อไหร่ มาอ่านด้วยกันได้ตลอดนะ  {{TermofEndearment}}$h",
+                "Rainy_Night_2": "#$c .5#วันนี้คุณไปเจอฝน ทั้งวันเลยเหรอ? ความชำนาญของผมกับถ้อยคำ ไม่มีใครเทียบได้ก็จริง แต่ผมก็ยังไม่รู้ จะพรรณนาความแข็งแกร่ง และแน่วแน่ของคุณ ได้อย่างไรเลย#โอ้ {{TermofEndearment}}ผมกำลังนึกถึงคุณเลย ยินดีต้อนรับกลับบ้านนะ$h",
+                "winter_21": "ผมคิดเสมอว่า ตราบใดที่การพูดยังเป็นสิ่ง พื้นฐานที่สุดที่มนุษย์เราทำกัน ผมก็สามารถยืดอก ภูมิใจกับมันได้$h#$e#ผมเลยยืนยันที่จะ พูดด้วยภาษาดอกไม้ แม้ผู้คนอาจจะมองว่าแปลก#$b#แต่กระนั้น คุณก็รู้จักผมดี {{TermofEndearment}}: มันจะแปลกซะกว่า หากผมไม่ได้พูดจากใจ อันจริงแท้อย่างที่สุด ใช่มั้ยล่ะ?",
+                "Indoor_Day_4": "#$c .5#ผมฝันร้ายซ้ำๆ ตลอดเลยว่าคุณ จะตัดผมผมจนเกรียน... คุณจะไม่มีวัน ทำแบบนั้นกับผมใช่มั้ย?$s#{{TermofEndearment}} คุณคิดว่าคืนนี้ เรากินอะไรกันดี? ให้คุณเลือกเลย#$e#ผมไว้ใจคุณ",
             },
             "When":
             {
@@ -643,8 +643,8 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_1": "#$c .5#You're ice cold! Let me get you a blanket.$8#Dearest @... I know you've been out in the rain, but my hair is not a hand towel!$8",
-                "fall_23": "I wrote a short little vignette yesterday. I just need to polish it up today.#$b#Would you like a copy to read in bed tonight?",
+                "Rainy_Night_1": "#$c .5#คุณตัวเย็นยังกับน้ำแข็ง! ให้ผมหาผ้าให้คุณนะ$8#@ ที่สำคัญที่สุด... ผมรู้ว่าคุณตากฝนมา แต่ผมของผมไม่ใช่ ผ้าเช็ดมือนะ!$8",
+                "fall_23": "เมื่อวานผมเขียนโคลง 14 สั้นๆ บทหนึ่งล่ะ วันนี้จะเกลาสักหน่อย#$b#คืนนี้คุณอยากได้สำเนา ไปอ่านก่อนนอนมั้ย?",
             },
             "When":
             {
@@ -657,8 +657,8 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Rainy_Night_1": "#$c .5#You're ice cold! Let me keep you warm.$l#Dearest @... I know you've been out in the rain, but my hair is not a hand towel!$8",
-                "fall_23": "I wrote a short little vignette yesterday. I just need to polish it up today.#$b#Would you like me to read it to you... later tonight?$l",
+                "Rainy_Night_1": "#$c .5#คุณตัวเย็นยังกับน้ำแข็ง! ให้ผมช่วยทำให้ตัวอุ่นนะ$l#@ ที่สำคัญที่สุด... ผมรู้ว่าคุณตากฝนมา แต่ผมของผมไม่ใช่ ผ้าเช็ดมือนะ!$8",
+                "fall_23": "เมื่อวานผมเขียนโคลง 14 สั้นๆ บทหนึ่งล่ะ วันนี้จะเกลาสักหน่อย#$b#คุณอยากให้ผมอ่านให้ฟัง... คืนนี้มั้ย?$l",
             },
             "When":
             {
