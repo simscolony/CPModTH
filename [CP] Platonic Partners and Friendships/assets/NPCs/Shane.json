@@ -199,7 +199,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_9": "Huh... You're wondering why I have this goofy grin on my face? I was just thinking about how my life turned out.$h#$b#I can't believe I went from that dead-end job at Joja to living on a farm with my best friend, a stone's throw from Jas and Marnie's place.$6#$e#I'm not always in a place to appreciate it, but... yeah. I'm glad I'm here.$l",
+                "Good_9": "ห๋า... สงสัยสินะ ว่าำไผมถึงยิ้มแบบนี้? แค่คิดเรื่องที่ผ่าน ๆ มาจนถึงวันนี้น่ะ$h#$b#ไม่อยากเชื่อเลยว่า ผมจะออกจากงานสิ้นคิด ของโจจ้าแบบนั้น มาอยู่ที่ฟาร์มกับเพื่อนสนิท$6#$e#ที่จริงก็ไม่ได้อยู่ในสถานะ ที่จะพูดอะไรแบบนี้ได้หรอก... แต่ก็ ดีใจมาก ๆ เลยล่ะ$l",
                 "Outdoor_0": "เมื่อคืนนอนไม่ค่อยเต็มอิ่ม สักเท่าไหร่ หวังว่าลมเย็น ๆ ยามเช้าพอจะช่วย ผมได้บ้างนะ",
             },
             "When":
@@ -214,7 +214,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_9": "Huh... You're wondering why I have this goofy grin on my face? I was just thinking about how my life turned out.$h#$b#I can't believe I went from that dead-end job at Joja to living on a farm with my best friend, a stone's throw from Jas and Marnie's place.$6#$e#I'm not always in a place to appreciate it, but... yeah. I'm glad I'm here.$6",
+                "Good_9": "ห๋า... สงสัยสินะ ว่าำไผมถึงยิ้มแบบนี้? แค่คิดเรื่องที่ผ่าน ๆ มาจนถึงวันนี้น่ะ$h#$b#ไม่อยากเชื่อเลยว่า ผมจะออกจากงานสิ้นคิด ของโจจ้าแบบนั้น มาอยู่ที่ฟาร์มกับเพื่อนสนิท$6#$e#ที่จริงก็ไม่ได้อยู่ในสถานะ ที่จะพูดอะไรแบบนี้ได้หรอก... แต่ก็ ดีใจมาก ๆ เลยล่ะ$6",
                 "Outdoor_0": "เมื่อคืนนอนไม่ค่อยเต็มอิ่ม สักเท่าไหร่ หวังว่าลมเย็น ๆ ยามเช้าพอจะช่วย ผมได้บ้างนะ",
             },
             "When":
@@ -230,7 +230,7 @@
             "Entries":
             {
                 "2128292/e 3900074/t 600 630/f Shane 2500/D Shane": null,
-                "2128292/e 3900074/t 600 630/f Shane 2500": "continue/64 15/farmer 64 16 2 Shane 64 18 0/pause 1500/skippable/speak Shane \"Hey, @!$6\"/pause 1000/speak Shane \"Uh... So I got two tickets to the Tunnelers game tonight.$6\"/pause 2000/speak Shane \"If you want to come, meet me at the bus stop around 5pm.$6\"/pause 1000/end",
+                "2128292/e 3900074/t 600 630/f Shane 2500": "continue/64 15/farmer 64 16 2 Shane 64 18 0/pause 1500/skippable/speak Shane \"เฮ้ @!$6\"/pause 1000/speak Shane \"อ่า... ผมมีตั๋วดูการแข่งขัน สำหรับคืนนี้สองใบน่ะ$6\"/pause 2000/speak Shane \"ถ้าจะไปดูด้วยกัน มาเจอผมที่ป้ายรถเมล์ เวลา 5 โมงเย็นนะ$6\"/pause 1000/end",
             },
         },
         {
@@ -264,7 +264,7 @@
             "Target": "Data/Events/Saloon",
             "Entries":
             {
-                "wewereworried": "emote farmer 40/faceDirection Marnie 1/pause 1000/faceDirection Shane 2/emote Shane 12/speak Shane \"We're {{RelationshipLabel}}... you should trust me. I've always been honest with you about my problems.$a#$b#Look... I know I haven't been able to quit cold turkey... but, I'm trying my best... and I'm getting a lot healthier.#$b#My life is better now than it's ever been. I'm not in such a dark place anymore...\"/pause 500/emote Marnie 20 true/emote farmer 20 true/pause 1300/faceDirection Shane 0/speak Shane \"You know, when I'm playing this game, I become so focused that I can't think about anything else. It really helps when I've got 'the urge'...\"/faceDirection Shane 2/speak Shane \"Anyway... I'll just... eh... play ONE more round and head home. Okay?\"/pause 500/emote farmer 32/pause 1000/end dialogue Shane \"You guys must have been really confused when you came in and saw me in front of the arcade machine!$h\""
+                "wewereworried": "emote farmer 40/faceDirection Marnie 1/pause 1000/faceDirection Shane 2/emote Shane 12/speak Shane \"พวกเราเป็น {{RelationshipLabel}}... คุณควรจะเชื่อใจผมนะ ผมซื่อตรงกับคุณตลอด เกี่ยวกับปัญหาทุก ๆ อย่าง$a#$b#นี่ ผมรู้ตัวว่าคงเลิกแบบหักดิบ ไม่ได้ แต่ผมก็พยายามมาตลอดนะ... แถมตอนนี้สุขภาพ ก็ดีเอาขึ้นมาก ๆ เลยด้วย#$b#การใช้ชีวิตของผม ก็เปลี่ยนไปแล้วด้วย มันไม่ได้มืดมนเหมือน กับแต่แต่ก่อน...\"/pause 500/emote Marnie 20 true/emote farmer 20 true/pause 1300/faceDirection Shane 0/speak Shane \"รู้อะไรมั้ย เวลาที่ผมเล่นเกมนี้ ผมจะจดจ่อและใช้สมาธิ กับมันเอามาก ๆ เลย เพื่อไม่ให้คิดถึงเรื่องอื่น ๆ โดยเฉพาะเวลาที่เหมือนกับ ว่าตัวผมโดนกระตุ้น...\"/faceDirection Shane 2/speak Shane \"ยังไงก็เถอะ... ผมกะจะ... เอ่อ... เล่นอีกสักรอบ แล้วก็กลับบ้าน ได้มั้ย?\"/pause 500/emote farmer 32/pause 1000/end dialogue Shane \"คงจะสับสนเอามาก ๆ เลยใช่มั้ยล่ะ ที่เห็นผมยืนอยู่หน้า ตู้เกมแบบนี้!$h\""
             },
         },
         {
@@ -316,11 +316,11 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.3962": "...Wait, really?$10#$b#You want to be serious friends...like, ride or die friends... with me? I... uh... yes, please.$10#$e#%Shane covers his face.#$e#Hooooo boy. Okay, um... you're serious, right? I just can't believe you actually... $h#$b#Okay, um. I... I'll see you around, @.$l",
-                "NPC.cs.3963": "...Wait, really?$10#$b#You want to be serious friends...like, ride or die friends... with me? I... uh... yes, please.$10#$e#%Shane covers his face.#$e#Hooooo boy. Okay, um... you're serious, right? I just can't believe you actually... $h#$b#Okay, um. I... I'll see you around, @.$l",
-                "NPC.cs.3973": "No!$10#$b#I mean--look, I'm sorry. I'm not ready to take that step with you.$s",
-                "NPC.cs.3980": "...!!!$10#$b#No way!? Wait no, I mean yes, I absolutely do want to be {{RelationshipLabel}} with you.$10#$b#Yes. I wanna be {{RelationshipLabel}}. Sorry I freaked out, I just... can't believe that this is actually happening...$l#$b#In the valley, we celebrate pacts like this the same way as weddings. I'll set everything up. We'll have the commitment ceremony in 3 days, okay?$h",
-                "ExtraDialogue_Spouse_MonstersInHouse": "Uh... @? What are these monsters doing in here?",
+                "NPC.cs.3962": "...เดี๋ยวนะ จริงเหรอ?$10#$b#คุณอยากจะเป็นเพื่อน...แบบ เพื่อนสนิท หรือเพื่อนกินเพื่อนตาย อะไรทำนองนั้น... กับผมน่ะเหรอ? ผม... อ่า... ได้สิ ได้เลย$10#$e#%เชนเอามือปิดหน้าตัวเอง#$e#ฟู่ววว เอาล่ะ อืม... เอาจริงใช่มั้ยเนี่ย? ไม่อยากจะเชื่อเลย ว่าคุณเพิ่งจะ... $h#$b#โอเค อืม ว... ไว้เจอกันนะ @$l",
+                "NPC.cs.3963": "...เดี๋ยวนะ จริงเหรอ?$10#$b#คุณอยากจะเป็นเพื่อน...แบบ เพื่อนสนิท หรือเพื่อนกินเพื่อนตาย อะไรทำนองนั้น... กับผมน่ะเหรอ? ผม... อ่า... ได้สิ ได้เลย$10#$e#%เชนเอามือปิดหน้าตัวเอง#$e#ฟู่ววว เอาล่ะ อืม... เอาจริงใช่มั้ยเนี่ย? ไม่อยากจะเชื่อเลย ว่าคุณเพิ่งจะ... $h#$b#โอเค อืม ว... ไว้เจอกันนะ @$l",
+                "NPC.cs.3973": "ไม่เด็ดขาด!$10#$b#ผมหมายถึง--ฟังนะ ผมขอโทษจริง ๆ ผมยังไม่พร้อม$s",
+                "NPC.cs.3980": "...!!!$10#$b#ถามจริง!? ไม่ ๆ เดี๋ยว ผมหมายถึงว่าใช่ ผมพร้อมจะเป็น {{RelationshipLabel}} กับคุณ$10#$b#แน่นอน ผมอยากจะเป็น {{RelationshipLabel}} ขอโทษนะ ที่ทำให้ตกใจ ผมแค่... แค่ไม่อยากเชื่อว่า เรื่องแบบนี้จะเกิดขึ้นจริง ๆ...$l#$b#ปกติพวกเราจะจัดงาน รูปแบบคล้าย ๆ กับงานแต่งงานกันด้วย ผมจะเตรียมทุก ๆ อย่างให้เอง ใชเวลาประมาณ 3 วัน โอเคนะ?$h",
+                "ExtraDialogue_Spouse_MonstersInHouse": "เอ่อ... @? ทำไมถึงมีตัวประหลาด อยู่ในนี้ล่ะ?",
             },
             "When":
             {
@@ -333,7 +333,7 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.4448": "I hope our adoption request gets approved. They'll see that we can raise a kid right, right?",
+                "NPC.cs.4448": "ผมหวังว่าคำร้องขอ อุปการะที่ยื่นไป จะได้รับการอนุมัตินะ พวกเขาจะรู้ใช่มัย ว่าพวกเราเตรียม และมีความพร้อมในการ เลี้ยงเด็ก ๆ มากขนาดไหน พวกเขาจะรู้ได้ใช่มั้ย?",
             },
             "When":
             {
@@ -346,13 +346,13 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.3962": "...Wait, really?$10#$b#You want to be serious friends...like, ride or die friends... with me? I... uh... yes, please.$10#$e#%Shane covers his face.#$e#Hooooo boy. Okay, um... you're serious, right? I just can't believe you actually... $h#$b#Okay, um. I... I'll see you around, @.$6",
-                "NPC.cs.3963": "...Wait, really?$10#$b#You want to be serious friends...like, ride or die friends... with me? I... uh... yes, please.$10#$e#%Shane covers his face.#$e#Hooooo boy. Okay, um... you're serious, right? I just can't believe you actually... $h#$b#Okay, um. I... I'll see you around, @.$6",
-                "NPC.cs.3973": "No!$10#$b#I mean--look, I'm sorry. I'm not ready to take that step with you.$s",
-                "NPC.cs.3980": "...!!!$10#$b#No way!? Wait no, I mean yes, I absolutely do want to be {{RelationshipLabel}} with you.$10#$b#Yes. I wanna be {{RelationshipLabel}}. Sorry I freaked out, I just... can't believe that this is actually happening...$6#$b#In the valley, we celebrate pacts like this the same way as weddings. I'll set everything up. We'll have the commitment ceremony in 3 days, okay?$h",
-                "NPC.cs.4448": "I hope our adoption request gets approved. They'll see that we can raise a kid right, right?",
-                "ExtraDialogue_Spouse_MonstersInHouse": "Uh... @? What are these monsters doing in here?",
-                "NPC.cs.4001": "I've never been good with words, so I wanted to give you that stardrop.$6#$b#How it made you feel... well, that's how I feel when I'm with you.$6",
+                "NPC.cs.3962": "...เดี๋ยวนะ จริงเหรอ?$10#$b#คุณอยากจะเป็นเพื่อน...แบบ เพื่อนสนิท หรือเพื่อนกินเพื่อนตาย อะไรทำนองนั้น... กับผมน่ะเหรอ? ผม... อ่า... ได้สิ ได้เลย$10#$e#%เชนเอามือปิดหน้าตัวเอง#$e#ฟู่ววว เอาล่ะ อืม... เอาจริงใช่มั้ยเนี่ย? ไม่อยากจะเชื่อเลย ว่าคุณเพิ่งจะ... $h#$b#โอเค อืม ว... ไว้เจอกันนะ @.$6",
+                "NPC.cs.3963": "...เดี๋ยวนะ จริงเหรอ?$10#$b#คุณอยากจะเป็นเพื่อน...แบบ เพื่อนสนิท หรือเพื่อนกินเพื่อนตาย อะไรทำนองนั้น... กับผมน่ะเหรอ? ผม... อ่า... ได้สิ ได้เลย$10#$e#%เชนเอามือปิดหน้าตัวเอง#$e#ฟู่ววว เอาล่ะ อืม... เอาจริงใช่มั้ยเนี่ย? ไม่อยากจะเชื่อเลย ว่าคุณเพิ่งจะ... $h#$b#โอเค อืม ว... ไว้เจอกันนะ @.$6",
+                "NPC.cs.3973": "ไม่เด็ดขาด!$10#$b#ผมหมายถึง--ฟังนะ ผมขอโทษจริง ๆ ผมยังไม่พร้อม$s",
+                "NPC.cs.3980": "...!!!$10#$b#ถามจริง!? ไม่ ๆ เดี๋ยว ผมหมายถึงว่าใช่ ผมพร้อมจะเป็น {{RelationshipLabel}} กับคุณ$10#$b#แน่นอน ผมอยากจะเป็น {{RelationshipLabel}} ขอโทษนะ ที่ทำให้ตกใจ ผมแค่... แค่ไม่อยากเชื่อว่า เรื่องแบบนี้จะเกิดขึ้นจริง ๆ...$6#$b#ปกติพวกเราจะจัดงาน รูปแบบคล้าย ๆ กับงานแต่งงานกันด้วย ผมจะเตรียมทุก ๆ อย่างให้เอง ใชเวลาประมาณ 3 วัน โอเคนะ?$h",
+                "NPC.cs.4448": "ผมหวังว่าคำร้องขอ อุปการะที่ยื่นไป จะได้รับการอนุมัตินะ พวกเขาจะรู้ใช่มัย ว่าพวกเราเตรียม และมีความพร้อมในการ เลี้ยงเด็ก ๆ มากขนาดไหน พวกเขาจะรู้ได้ใช่มั้ย?",
+                "ExtraDialogue_Spouse_MonstersInHouse": "เอ่อ... @? ทำไมถึงมีตัวประหลาด อยู่ในนี้ล่ะ?",
+                "NPC.cs.4001": "ผมไม่ค่อยเก่งเรื่อง คำพูดสักเท่าไหร่ ให้สตาร์ดรอปเป็นตัวแทน ของคำพูดพวกนั้น ละกันนะ$6#$b#รู้สึกยังไงบ้าง... นั่นแหละ มันคือความรู้สึกเดียวกัน กับผมเวลาอยู่กับคุณเลย$6",
             },
             "When":
             {
@@ -365,12 +365,12 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "ExtraDialogue_Town_DumpsterDiveComment_Adult": "Uh... you want me to get you some hand sanitizer or something, {{Random: chickadee, bud, @}}?",
-                "2{{DialogueYear}}": "*snort*$6#$b#You've got twigs in your hair, chickadee. You trying to start a new trend?$h#$b#C'mere, I'll get them out for you.$6#$e#*sigh*...Do I even wanna know what you've been up to?$6",
-                "4{{DialogueYear}}": "Hey, bud. I was thinking of taking Jas to Zuzu City sometime. Maybe buy her a new dress, some new books, take her to see a movie...$6#$b#I was hoping you'd come with us.$6",
-                "6{{DialogueYear}}": "I still can't believe that of all the people in town, you spend so much time with me.$l#$b#*snort* No, I'm not complaining, ya dingus.$h#$b#Just never thought I'd have a friend like you here, is all.$6#$e#Hey, who are you calling a softie!?$10",
-                "winter_7{{DialogueYear}}": "Hey, why don't we ditch the Ice Festival this year?#$b#We could just stay in and lay around on the couch.#$e#I'll go if you really wanna go and win the fishing competition, though.#$b#Gotta cheer you on and all that.$6",
-                "8{{DialogueYear}}": "Hey. So how's my favorite dork?$6#$e#You doing anything this weekend? I was thinking we could go out and do something fun.$6#$b#Or if you're busy, I could just come over and help you with your animals.$6#$b#I mean, I can if you want me to.$l",
+                "ExtraDialogue_Town_DumpsterDiveComment_Adult": "อ่า... อยากให้ผมซื้อ เจลล้างมือหรืออะไร ทำนองนั้นให้เหรอ  {{Random: สหาย, พวก, @}}?",
+                "2{{DialogueYear}}": "*แฮ่ม*$6#$b#มีกิ่งไม้เล็ก ๆ ติดอยู่บนผมคุณล่ะ หรือเป็นแฟชั่นใหม่เฉย ๆ ?$h#$b#มานี่สิ เดี๋ยวเอาออกให้$6#$e#*เฮ้อ*...อยากรู้จังว่า คุณไปเล่นซนอะไรมา?$6",
+                "4{{DialogueYear}}": "เฮ้พวก ผมกำลังคิดจะพาแจส ไปเมืองซูซูอยู่น่ะ พาเธอไปซื้อของสักหน่อย เดรสน่ารัก ๆ สักตัว หนังสือเล่มใหม่ แล้วก็พาเธอไปดูหนัง...$6#$b#คุณจะไปกับพวกเรามั้ย ผมอยากให้คุณไปนะ$6",
+                "6{{DialogueYear}}": "ไม่อยากจะเชื่อเลย จากทุกคนในเมือง คุณใช้เวลาอยู่กับผม เยอะที่สุด$l#$b#*ฟืด* ไม่ ๆ ผมไม่ได้จะบ่น หรือจะว่าอะไร$h#$b#แค่ไม่เคยคิดมาก่อน ว่าจะได้มีเพื่อนที่ดี ขนาดนี้แบบคุณ$6#$e#เฮ้ คุณเรียกใครว่า เจ้าขี้แยกันน่ะ!?$10",
+                "winter_7{{DialogueYear}}": "นี่ ปีนี้เราหนีเทศกาล ที่จัดแถบ ๆ ช่วงฤดูนี้กันมั้ย?#$b#นั่งผิงไฟอยู่บนโซฟา ด้วยกันดีกว่านะ#$e#ผมจะยอมไป ก็ต่อไปคุณไปและ แข่งตกปลาชนะได้เท่านั้น#$b#ก็ไปเชียร์คุณ เป้าหมายมีแค่นี้$6",
+                "8{{DialogueYear}}": "เฮ้ วันนี้เป็นยังไงบ้าง?$6#$e#กะจะทำอะไร ช่วงวันหยุดนี้มั้ย? ผมกำลังคิดอยู่ว่า พวกเราไปหาอะไรสนุก ๆ ทำกันดีมั้ย$6#$b#แต่ถ้าคุณยุ่ง ๆ เดี๋ยวผมไปช่วยงานคุณเอง$6#$b#หมายถึง ผมไปช่วยได้นะ ถ้าคุณต้องการ$l",
                 "winter_8{{DialogueYear}}": "How do they always manage to set the Ice Festival for the coldest, most godforsaken day of the year?$s#$b#I'm wearing four pairs of socks, but I'm pretty sure my toes are gonna freeze off...#$e#Hm... you look like you're freezing, too.#$b#C'mere, we can conserve our body heat if we stay close to each other.$6",
                 "10{{DialogueYear}}": "Oooh... my mouf ith numb. I ate way too many pepper popperth.$10",
                 "11{{DialogueYear}}": "...$6#You look really cheerful today. I can't believe that used to annoy me.$6",
@@ -400,12 +400,12 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "ExtraDialogue_Town_DumpsterDiveComment_Adult": "Uh... you want me to get you some hand sanitizer or something, {{Random: chickadee, bud, @}}?",
-                "2{{DialogueYear}}": "*snort*$6#$b#You've got twigs in your hair, chickadee. You trying to start a new trend?$h#$b#C'mere, I'll get them out for you.$6#$e#*sigh*...Do I even wanna know what you've been up to?$6",
-                "4{{DialogueYear}}": "Hey, bud. I was thinking of taking Jas to Zuzu City sometime. Maybe buy her a new dress, some new books, take her to see a movie...$6#$b#I was hoping you'd come with us.$6",
-                "6{{DialogueYear}}": "I still can't believe that of all the people in town, you spend so much time with me.$6#$b#*snort* No, I'm not complaining, ya dingus.$h#$b#Just never thought I'd have a friend like you here, is all.$6#$e#Hey, who are you calling a softie!?$10",
-                "winter_7{{DialogueYear}}": "Hey, why don't we ditch the Ice Festival this year?#$b#We could just stay in and lay around on the couch.#$e#I'll go if you really wanna go and win the fishing competition, though.#$b#Gotta cheer you on and all that.$6",
-                "8{{DialogueYear}}": "Hey. So how's my favorite dork?$6#$e#You doing anything this weekend? I was thinking we could go out and do something fun.$6#$b#Or if you're busy, I could just come over and help you with your animals.$6#$b#I mean, I can if you want me to.$6",
+                "ExtraDialogue_Town_DumpsterDiveComment_Adult": "อ่า... อยากให้ผมซื้อ เจลล้างมือหรืออะไร ทำนองนั้นให้เหรอ {{Random: สหาย, พวก, @}}?",
+                "2{{DialogueYear}}": "*แฮ่ม*$6#$b#มีกิ่งไม้เล็ก ๆ ติดอยู่บนผมคุณล่ะ หรือเป็นแฟชั่นใหม่เฉย ๆ ?$h#$b#มานี่สิ เดี๋ยวเอาออกให้$6#$e#*sigh*...*เฮ้อ*...อยากรู้จังว่า คุณไปเล่นซนอะไรมา?$6",
+                "4{{DialogueYear}}": "เฮ้พวก ผมกำลังคิดจะพาแจส ไปเมืองซูซูอยู่น่ะ พาเธอไปซื้อของสักหน่อย เดรสน่ารัก ๆ สักตัว หนังสือเล่มใหม่ แล้วก็พาเธอไปดูหนัง...$6#$b#คุณจะไปกับพวกเรามั้ย ผมอยากให้คุณไปนะ$6",
+                "6{{DialogueYear}}": "ไม่อยากจะเชื่อเลย จากทุกคนในเมือง คุณใช้เวลาอยู่กับผม เยอะที่สุด$6#$b#*ฟืด* ไม่ ๆ ผมไม่ได้จะบ่น หรือจะว่าอะไร$h#$b#แค่ไม่เคยคิดมาก่อน ว่าจะได้มีเพื่อนที่ดี ขนาดนี้แบบคุณ$6#$e#เฮ้ คุณเรียกใครว่า เจ้าขี้แยกันน่ะ!?$10",
+                "winter_7{{DialogueYear}}": "นี่ ปีนี้เราหนีเทศกาล ที่จัดแถบ ๆ ช่วงฤดูนี้กันมั้ย?#$b#นั่งผิงไฟอยู่บนโซฟา ด้วยกันดีกว่านะ#$e#ผมจะยอมไป ก็ต่อไปคุณไปและ แข่งตกปลาชนะได้เท่านั้น#$b#ก็ไปเชียร์คุณ เป้าหมายมีแค่นี้$6",
+                "8{{DialogueYear}}": "เฮ้ วันนี้เป็นยังไงบ้าง?$6#$e#กะจะทำอะไร ช่วงวันหยุดนี้มั้ย? ผมกำลังคิดอยู่ว่า พวกเราไปหาอะไรสนุก ๆ ทำกันดีมั้ย$6#$b#แต่ถ้าคุณยุ่ง ๆ เดี๋ยวผมไปช่วยงานคุณเอง$6#$b#หมายถึง ผมไปช่วยได้นะ ถ้าคุณต้องการ$6",
                 "winter_8{{DialogueYear}}": "How do they always manage to set the Ice Festival for the coldest, most godforsaken day of the year?$s#$b#I'm wearing four pairs of socks, but I'm pretty sure my toes are gonna freeze off...#$e#Hm... you look like you're freezing, too.#$b#C'mere, we can conserve our body heat if we stay close to each other.$6",
                 "10{{DialogueYear}}": "Oooh... my mouf ith numb. I ate way too many pepper popperth.$10",
                 "11{{DialogueYear}}": "...$6#You look really cheerful today. I can't believe that used to annoy me.$6",
@@ -463,7 +463,7 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "JojaMart10": "{{Random: Oh hey, bud. I'll see you after my shift, okay?$6 ++ What are you doing here? Not that I'm not glad to see your dumb face, but I don't think you're here to *buy* this junk.$6 |inputSeparator=++}}",
+                "JojaMart10": "{{Random: โอ๊ะ ว่าไงพวก ไว้เจอกัน หลังทำงานเสร็จนะ โอเค๊?$6 ++ คุณมาทำอะไร ที่นี่กันเนี่ย? ไม่ใช่ว่าไม่ดีใจ ที่ได้เจอหน้ากันหรอกนะ แต่คงไม่ได้มาเพื่อจะ *ซื้อ* ของตลก ๆ พวกนี้หรอกนะ$6 |inputSeparator=++}}",
             },
             "When":
             {
@@ -476,7 +476,7 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "JojaMart": "Hm? Oh, hey. Miss me already?$6",
+                "JojaMart": "หืม? โอ๊ะ ว่าไง คิดถึงผมแล้วงั้นสิ?$6",
             },
             "When":
             {
@@ -489,7 +489,7 @@
             "Target": "Data/NPCGiftTastes",
             "Entries":
             {
-                "Shane": "See, *this* is why you're my best friend... heh, just kidding. Thanks, @!/206 215 260/Hey, this is neat! Thanks, chickadee./203 -5 -79 113 167/Uh... I don't really like this./80 342 0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203 308 -81 152 330/Yoba, you of all people should know better than to give me this./346 459 303 348/Oh, you got me something? Thanks, bud.// "
+                "Shane": "ดูสิ *ชี้* นี่ยังไงล่ะ ทำไมพวกเราถึงเป็น เพื่อนสนิทกันได้... เห๋ ล้อเล่นน่า ขอบใจนะ @!/206 215 260/เฮ้ นี่มันของดีเลยนี่! ขอบใจมากเลยสหาย/203 -5 -79 113 167/อ่า... ผมไม่ค่อยชอบเจ้านี่ สักเท่าไหร่น่ะรู้มั้ย/80 342 0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203 308 -81 152 330/พระเจ้า ไม่ต้องให้ของกับผมก็ได้นะ ดีกว่าเอาเจ้านี่มาให้กัน/346 459 303 348/อ๊ะ ให้ผมงั้นเหรอ? ต้องอย่างนี้สิเพื่อน// "
             },
             "When":
             {
@@ -662,9 +662,9 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Bad_0": "Do you even still care about me?#$b#Heh, well, you make it easy to forget that you do...$s",
-                "Bad_2": "I think I'm starting to get what people mean when they say that they've drifted apart.$s#$e#Never thought it'd happen to us, but hey, here we are.",
-                "Bad_7": "Sometimes I think of what it would have been like if I didn't move in with you.$3#$b#We were really good friends before we were {{RelationshipLabel}}. I almost wish we could go back to how things were back then.",
+                "Bad_0": "ยังแคร์ผมอยู่อีกเหรอ?#$b#เหอะ โอเค ลืมง่ายจังเลยนะว่า คุณทำอะไรลงไปบ้าง...$s",
+                "Bad_2": "ผมว่าเริ่มเข้าใจ ความรู้สึึกของคนอื่น ๆ แล้วล่ะ ตอนที่พวกเขาแยกทางกัน$s#$e#ไม่นึึกมาก่อนเลย ว่าจะเกิดเรื่องแบบนี้กับเรา",
+                "Bad_7": "บางครั้งผมก็คิดนะ ว่าถ้าหากเลือกที่จะ ไม่ย้ายเข้ามาอยู่กับคุณ มันจะเป็นยังไง$3#$b#เมื่อก่อนเราเป็น เพื่อนที่ดีต่อกันมาก เลยนะจำได้ใช่มั้ย {{RelationshipLabel}} อยากจะกลับไปเป็น เหมือนตอนนั้นสุด ๆ เลยล่ะ",
             },
             "When":
             {
@@ -790,31 +790,31 @@
 			"Entries": {
 			//Love
 				//Food
-				"GiftReaction_Hot_Pepper": "Hell yes, this is the good stuff. Thanks, @!$h",
-				"GiftReaction_Hot_Pepper~1": "Have I told you that I love you? I love you, this is great.$h",
-				"GiftReaction_Hot_Pepper~2": "Seriously, I could eat these all day. Thanks, @.$6",
-				"GiftReaction_Hot_Pepper~3": "Aw, now you're just spoiling me. I'm just drowning in hot peppers here.$6",
-				"GiftReaction_Pizza": "Hell yes, this is the good stuff. Just look at that sauce... Thanks, @!$h",
-				"GiftReaction_Pizza~1": "Oh man, the cheese is all bubbly and stringy... I love this. Thanks, @.$6",
-				"GiftReaction_Pizza~2": "Yoba, you're the best. Thanks, @!$h",
-				"GiftReaction_Pizza~3": "Have I told you that you're my favorite person in the universe? I should tell you that more often.#$b#Ah, this smells so good. Want a slice?$6",
-				"GiftReaction_Pizza~4": "Yoba, you're the best. Thanks, @!$h",
-				"GiftReaction_Pepper_Poppers": "Oh man, do I wanna eat these now or save them for later? Decisions, decisions.$3#$b#Eh, I'll figure it out. Thanks, @.$6",
-				"GiftReaction_Pepper_Poppers~1": "Hoo, these look crispy. You're the best, @.$h",
-				"GiftReaction_Pepper_Poppers~2": "Yoba, you're the best. Thanks, @!$h",
-				"GiftReaction_Pepper_Poppers~3": "You know me too well, @. Thanks.$6",
-				"GiftReaction_Pepper_Poppers~4": "Ugh, I just can't get enough of these poppers. Thanks, @!$h",
+				"GiftReaction_Hot_Pepper": "โคตรเจ๋ง นี่มันของดีเลยนะเนี่ย ขอบคุณมากนะ @!$h",
+				"GiftReaction_Hot_Pepper~1": "ผมเคยบอกไปหรือยังนะ ว่ารักคุณมากขนาดไหน? อาหารจานนี้ สุดยอดไปเลยนะเนี่ย$h",
+				"GiftReaction_Hot_Pepper~2": "ถามจริง ผมกินเจ้านี่ ได้ทั้งวันเลยนะเนี่ย @.$6",
+				"GiftReaction_Hot_Pepper~3": "คุณเริ่มจะทำผม เสียคนแล้วนะเนี่ย อยากจะนอนจมกองเจ้านี่ ตรงนี้สุด ๆ เลย$6",
+				"GiftReaction_Pizza": "โคตรเจ๋ง นี่มันของดีเลยนะเนี่ย ดูซอสนี่สิ... ขอบคุณนะ @!$h",
+				"GiftReaction_Pizza~1": "ว้าว ดูชีสเยิ้ม ๆ หอม ๆ นี่สิ... ตกหลุมรักเขาจัง ๆ เลย ขอบคุณมากนะ @.$6",
+				"GiftReaction_Pizza~2": "เยี่ยมไปเลย ขอบคุณมากนะ @!$h",
+				"GiftReaction_Pizza~3": "เคยบอกไปหรือยัง ว่าคุณคือคนโปรดของผม ที่สุดในจักรวาลเลยนะ? สงสัยต้องพูดให้ฟัง บ่อยกว่านี้ซะแล้ว#$b#กลิ่นหอมชะมัดเลย เอาสักชิ้นมั้ย?$6",
+				"GiftReaction_Pizza~4": "พระเจ้า คุณนี่สุดยอดไปเลย ขอบใจมากเลยนะ @!$h",
+				"GiftReaction_Pepper_Poppers": "ว้าว จะกินเจ้านี่ตอนนี้เลย ดีมั้ยนะ? เอาไงดี ๆ$3#$b#เอ่อ เดี๋ยวค่อยคิดละกัน ขอบใจนะ @$6",
+				"GiftReaction_Pepper_Poppers~1": "วู้ว ดูน่ากินจังเลยแหะ @$h",
+				"GiftReaction_Pepper_Poppers~2": "พระเจ้า คุณนี่สุดยอดไปเลย @!$h",
+				"GiftReaction_Pepper_Poppers~3": "รู้ใจผมเก่งจังเลยนะ @ ขอบคุณมาก$6",
+				"GiftReaction_Pepper_Poppers~4": "อึก ได้มาเท่าไหร่ ๆ ก็ไม่เคยพอเลย ขอบใจมากนะ @!$h",
 				//Universal Loves
-				"GiftReaction_Prismatic_Shard": "Thanks, but you know you don't need to shower me in ridiculously expensive gems, right?$6#$b#I mean, I'm not complaining, but I'd be just as happy with a pizza or something.$6",
-				"GiftReaction_Pearl": "Thanks, but you know you don't need to shower me in ridiculously expensive gifts, right?$6#$b#I mean, I'm not complaining, but I'd be just as happy with a pizza or something.$6",
-				"GiftReaction_Golden_Pumpkin": "Huh... so this is what you get from finishing the hedge maze?#$b#Thanks.$6",
-				"GiftReaction_Magic_Rock_Candy": "เจ้านี่ดูแปลก ๆ เกินกว่าจะเป็นลูกกวาด จริง ๆ ได้นะเนี่ย คนรวย ๆ ชอบกินอะไรแบบนี้งั้นเหรอเนี่ย?#$b#หมายถึงว่า... ดีใจมากเลยน่ะ ขอบคุณนะ @.$6",
-				"GiftReaction_Rabbit's_Foot": "เห๋ หน้าผมดูเหมือนคนที่ ต้องการโชคขนาดนั้น เลยเหรอเนี่ย?#$b#ขอบคุณนะ @.$6",
+				"GiftReaction_Prismatic_Shard": "ขอบคุณ แต่รู้ใช่มั้ย ว่าคุณไม่จำเป็นต้อง เอาอัญมณีราคาแพง แบบนี้มาให้ผมตลอด?$6#$b#ไม่ได้จะว่าอะไรหรอก แต่คงจะดีกว่าถ้าเป็น พิซซ่าหรืออะไรทำนองนี้$6",
+				"GiftReaction_Pearl": "ขอบคุณ แต่รู้ใช่มั้ย ว่าคุณไม่จำเป็นต้อง เอาของแพง ๆ แบบนี้มาให้ผมตลอด?$6#$b#ไม่ได้จะว่าอะไรหรอก แต่คงจะดีกว่าถ้าเป็น พิซซ่าหรืออะไรทำนองนี้$6",
+				"GiftReaction_Golden_Pumpkin": "ห๋า... เจ้านี่น่ะนะที่อุตส่าห์ ไปลุยเขาวงกต เพื่อไปเอามันมา?#$b#ขอบใจนะ$6",
+				"GiftReaction_Magic_Rock_Candy": "เจ้านี่ดูแปลก ๆ เกินกว่าจะเป็นลูกกวาด ได้นะเนี่ย คนรวย ๆ ชอบกินอะไร แบบนี้งั้นเหรอเนี่ย?#$b#หมายถึงว่า... รู้สึกดีจังเลย ขอบคุณนะ @$6",
+				"GiftReaction_Rabbit's_Foot": "เห๋ หน้าผมดูเหมือนคนที่ ต้องการโชคขนาดนั้น เลยเหรอเนี่ย?#$b#ขอบคุณนะ @$6",
 			//Like
 				//Eggs
 				"GiftReactionCategory_-5": "อ๊ะได้มาจากเจ้าไก่ตัวน้อย ของคุณใช่มั้ยเนี่ย ขอบคุณนะ@.$6",
 				//Loved Ones
-				"GiftReaction_Pink_Cake": "ป้ามาร์นีกับแจส ชอบเค้กมาก ๆ เลยล่ะ จะเป็นอะไรมั้ย ถ้าขอไปแบ่งกิน ด้วยกันน่ะ?$6#$b#ขอบใจนะ @.",
+				"GiftReaction_Pink_Cake": "ป้ามาร์นีกับแจส ชอบเค้กมาก ๆ เลยล่ะ จะเป็นอะไรมั้ย ถ้าขอไปแบ่งกิน ด้วยกันน่ะ?$6#$b#ขอบใจนะ @",
 				"GiftReaction_Diamond": "อ๊ะ เพชรงั้นเหรอ? ป้ามาร์นีชอบมาก ๆ เลยรู้มั้ย$6#$b#จะเป็นอะไรมั้ย ถ้าขอเอาไปให้เธอต่อ?$6",
 				"GiftReaction_Farmer's_Lunch": "เฮ้ ผมรับประกันเลยว่า ป้ามาร์นีต้องชอบ อาหารจานนี้มากแน่ ๆ เลย ขอเอาไปแบ่ง กินกับเธอละกันนะ$6",
 				"GiftReaction_Pumpkin_Pie": "เฮ้พวก ป้ามาร์นีชอบพายฟักทอง หวังว่าคุณจะไม่โกรธนะ ถ้าขอเอาไปแบ่งกับเธอ$6",
@@ -829,7 +829,7 @@
 				//Booze
 				"GiftReaction_Beer": "ขอบคุณ แต่เก็บเอาไว้เถอะ @.$a",
 				"GiftReaction_Beer~1": "พระเจ้า คุณควรจะไปศึกษา หรือไปเรียนรู้อะไร ๆ ให้มากกว่านี้ ในการที่จะให้เจ้านี่กับผมนะ$s",
-				"GiftReaction_Beer~2": "เบียร์เนี่ยนะ? ถามจริง? จะทำให้อะไร ๆ มันยุ่งยากไปอีกเท่าไหร่ กันผมถามหน่อยเถอะ?$a",
+				"GiftReaction_Beer~2": "เบียร์เนี่ยนะ? ถามจริง? จะทำให้อะไร ๆ มันยุ่งยากไปอีกเท่าไหร่ ผมถามหน่อยเถอะ?$a",
 				"GiftReaction_Beer~3": "ขอล่ะนะ @ หยุดให้เบียร์พวกนี้ กับผมได้แล้ว$a",
 				"GiftReaction_Pale_Ale": "ขอบคุณ แต่ไม่เป็นไรดีกว่า @.$a",
 				"GiftReaction_Pale_Ale~1": "พระเจ้า คุณควรจะไปศึกษา หรือไปเรียนรู้อะไร ๆ ให้มากกว่านี้ ในการที่จะให้เจ้านี่กับผมนะ$s",
@@ -837,10 +837,10 @@
 				"GiftReaction_Mead": "ของแบบนี้ เก็บไว้กับตัวคุณเองเถอะ @.$a",
 				"GiftReaction_Mead~1": "พระเจ้า คุณควรจะไปศึกษา หรือไปเรียนรู้อะไร ๆ ให้มากกว่านี้ ในการที่จะให้เจ้านี่กับผมนะ$s",
 				"GiftReaction_Mead~2": "ขอล่ะนะ @ หยุดให้อะไรพวกนี้ กับผมได้แล้ว$a",
-				"GiftReaction_Wine": "ใช่ ผมบอกลาเจ้าของ แบบนี้ไปเรียบร้อย ขอบคุณ แต่เก็บเอาไว้เถอะ @.$a",
+				"GiftReaction_Wine": "ใช่ ผมเลิกชอบของ แบบนี้ไปเรียบร้อย ขอบคุณ แต่เก็บเอาไว้เถอะ @.$a",
 				"GiftReaction_Wine~1": "พระเจ้า คุณควรจะไปศึกษา หรือไปเรียนรู้อะไร ๆ ให้มากกว่านี้ ในการที่จะให้เจ้านี่กับผมนะ$s",
 				"GiftReaction_Wine~2": "ขอล่ะนะ @ หยุดให้อะไรพวกนี้ กับผมได้แล้ว$a",
-				"GiftReaction_Piña_Colada": "ใช่ ผมบอกลาเจ้าของ แบบนี้ไปเรียบร้อย ขอบคุณ แต่เก็บเอาไว้เถอะ @.$a",
+				"GiftReaction_Piña_Colada": "ใช่ ผมไม่ชอบพวกของ แบบนี้ไปเรียบร้อย ขอบคุณ แต่เก็บเอาไว้เถอะ @.$a",
 				"GiftReaction_Piña_Colada~1": "พระเจ้า คุณควรจะไปศึกษา หรือไปเรียนรู้อะไร ๆ ให้มากกว่านี้ ในการที่จะให้เจ้านี่กับผมนะ$s",
 				"GiftReaction_Piña_Colada~2": "ขอล่ะนะ @ หยุดให้เครื่องดื่มพวกนี้ กับผมได้แล้ว$a",
 			},
