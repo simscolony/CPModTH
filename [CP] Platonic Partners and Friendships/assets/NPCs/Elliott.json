@@ -287,7 +287,7 @@
                 "Rainy_Night_0": "สวัสดีตอนเย็น วันนี้ทำได้เต็มที่มั้ยครับ {{TermofEndearment}}?",
                 "spring_23": "ผมตั้งตาคอย ที่จะได้เต้นรำกับคุณ ในวันพรุ่งนี้ครับ  {{TermofEndearment}}",
                 "Good_3": "วันนี้คุณดูเก๋จัง {{Lowercase:{{TermofEndearment}}}} ถ้าจะให้บรรยายละก็... หรูหรา ไม่สิ มีระดับ#$b#ผมว่าครั้งต่อไปที่ผมเจอคุณ คงจะเต็มไปโดยโคลนแน่ๆ... เอ่อ แต่มันก็เป็นความงาม แบบชั่วครั้งชั่วคราว เหมือนกัน$s",
-                "winter_7": "ถึงผมจะไม่ค่อยได้ฝึก แต่พรุ่งนี้ ผมจะลงแข่งตกปลาด้วย! คุณจะได้เจอการแข่งขัน ที่ตรึงเครียดแน่ๆ ครับ  {{TermofEndearment}}",
+                "winter_7": "ถึงผมจะไม่ค่อยได้ฝึก แต่พรุ่งนี้ ผมจะลงแข่งตกปลาด้วย! คุณจะได้เจอการแข่งขัน ที่ตึงเครียดแน่ๆ ครับ  {{TermofEndearment}}",
             },
             "When":
             {
@@ -564,7 +564,7 @@
                 "fall_26": "คุณจะยังนับถือผมมั้ย ถ้าผมกระดกเหล้าฟักทอง สักสองถังลงคอทีเดียว ที่งานเทศกาลภูตน่ะ? บางทีผู้ชายก็ต้องมี สัญชาติญาณดิบๆ บ้างน่ะ...",
                 "winter_28": "สุขสันต์วันก่อนปีใหม่นะ เพื่อนคนสำคัญของผม ช่วยรับนี่เป็นการฉลองด้วยเถอะ [348]",
                 "Indoor_Day_3": "#$c .5#วันนี้ต้องเป็นวันที่ น่าประทับใจมากแน่... ผมรู้สึกได้เลย! ผมรู้สึกได้เป็นพิเศษ จากจมูกผมเลย...$h#A sheen of silky sun in window's glare... reminds me how I know I've found my home, wherein your gleaming gaze invites to share... a moment in the sun to call our own.",
-                "Indoor_Night_3": "#$c .5#O, lonesome hours awaiting thee... But when my friend comes home to me, my heart... torn by the dread of night, is purified with golden light.#A darkened, starry sky will blanket us, and captivate us with celestial charm. Beneath that shroud you'll find your peace, in trust that I will shelter you from any harm.#$e#Poetry is the only way I can begin to describe my fondness for you.$l",
+                "Indoor_Night_3": "#$c .5#โอ้ ชั่วโมงยามข้าเปลี่ยว อ้างว้าง..., ใจข้าเหมือนถูกหนาม ขาดวิ่,น ยามเกลอข้าหวนกลับ... คืนสู่ เหย้ามา, หัวใจข้าสุกใส โชติช่วง ดั่งทอง#ราตรีดาวพร่างฟ้า ห่อหุ้ม เราเอย, เย้ายวนเจ้าทรามเชย ฟากฟ้า, ข้าจักเฝ้าฟูมฟัก ตัวเจ้า มิวาง, ขอเจ้าจงแคล้วคลาด ตัวข้า คุ้มภัย#$e#บทกวีเป็นหนทางเดียวที่ผม จะบรรยายความชอบพอ ที่ผมมีต่อคุณได้$l",
                 "Outdoor_4": "#$c .5#Good morning. Might I steal a hug from my treasured friend?$l#I drank too much coffee... my mouth feels about as dry as the Calico Desert.$s",
             },
             "When":
@@ -578,16 +578,16 @@
             "Target": "Characters/Dialogue/MarriageDialogueElliott",
             "Entries":
             {
-                "Indoor_Day_0": "#$c .5#How on earth did I manage to rough it out in that old shack? Even now, it already feels like a memory out of someone else's life.#I've been taking much better care of myself now that we're {{RelationshipLabel}}. The solitary life wasn't particularly healthy for me.",
-                "Indoor_Night_0": "From the brightest winter star, to the shimmer of an iridium vein... nothing inspires me so much as you, my muse.",
-                "Rainy_Night_4": "My dearest friend... I wouldn't trade you for 100 iridium bars.#$e#Nor 1000...#$e#Not even 10,000 bars, no.$7#$e#...$7#$e#No, not even 100,000 bars!$a#$e#...$s#$e#Wa... one million bars of pure iridium...? Don't make me do this...$8",
-                "Good_0": "@... I'm so proud of all your hard work. I'm very lucky to be part of your life.$h",
-                "Good_1": "I made a whole secret book of poems expressing my affection for you.",
-                "fall_26": "Would you still respect me if I guzzled two gallons of pumpkin ale at the Spirit's Eve festival? Sometimes a man has primitive urges...",
-                "winter_28": "Happy new year's eve, my dearest friend. Please accept this to celebrate. [348]",
-                "Good_2": "I came to the valley to find the ivory tower from which my talents could reign supreme. But what I really found was a dungeon of loneliness. You saved me from that.",
-                "Indoor_Day_3": "#$c .5#Today is going to be a fantastic day... I can feel it! I get this special feeling in my nose...$h#A sheen of silky sun in window's glare... reminds me how I know I've found my home, wherein your gleaming gaze invites to share... a moment in the sun to call our own.",
-                "Indoor_Night_3": "#$c .5#O, lonesome hours awaiting thee... But when my friend comes home to me, my heart... torn by the dread of night, is purified with golden light.#A darkened, starry sky will blanket us, and captivate us with celestial charm. Beneath that shroud you'll find your peace, in trust that I will shelter you from any harm.#$e#บทกวีเป็นทางเดียว ที่ผมจะสามารถ เริ่มบรรยายความชอบพอ ที่ผมมีให้คุณได้$h",
+                "Indoor_Day_0": "#$c .5#นี่ผมรอดมาได้ยังไง ในกระท่อมเก่าๆ นั่นกันเนี่ย? ขนาดตอนนี้ยังรู้สึกเหมือน มันเป็นเพียงความทรงจำ ที่หลุดมาจากชีวิต ของคนอื่นเลย#ผมดูแลตัวเองได้ดี มากขึ้นโขพอเราเป็น {{RelationshipLabel}}กัน ชีวิตสันโดษเนี่ย ไม่ค่อยดีต่อสุขภาพของผม เท่าไหร่เลยนะ",
+                "Indoor_Night_0": "จากดวงดาวฤดูหนาว ที่สุกสกาวที่สุด ยันสายแร่อิริเดียม อันระยิบระยับ... ไม่มีอะไรจะดลบันดาลใจผม ได้ทเ่าคุณอีกแล้ว บทเพลงของผม",
+                "Rainy_Night_4": "เพื่อนคนสำคัญของผม... ผมไม่มีวันยอมลแกคุณ กับแท่งอิริเดียม 100 อัน#$e#หรือ 1000 อัน...#$e#หรือแม้กระทั่ง 10,000 อัน ไม่มีทางซะล่ะ$7#$e#...$7#$e#ไม่ ต่อให้ 100,000 อันเลย!$a#$e#...$s#$e#หา... แท่งอิริเดียมบริสุทธิ์ หนึ่งล้านแท่งเหรอ...? อย่าให้ผมทำแบบนี้น่า...$8",
+                "Good_0": "@... ผมภูมิใจกับงาน ที่คุณทุ่มเททำนะ ผมโชคดีเหลือเกินที่ได้ เป็นส่วนหนึ่งในชีวิตคุณ$h",
+                "Good_1": "ผมทำหนังสือรวบรวมบทกวีลับ ขึ้นมาทั้งเล่มเพื่อบรรยาย ความรักความเอ็นดู ของผมที่มีให้คุณเลยล่ะ",
+                "fall_26": "คุณจะยังนับถือผมมั้ย ถ้าผมกระดกเหล้าฟักทอง สักสองถังลงคอทีเดียว ที่งานเทศกาลภูตน่ะ? บางทีผู้ชายก็ต้องมี สัญชาติญาณดิบๆ บ้างน่ะ...",
+                "winter_28": "สุขสันต์วันก่อนปีใหม่นะ เพื่อนคนสำคัญของผม ช่วยรับนี่เป็นการฉลองด้วยเถอะ [348]",
+                "Good_2": "ผมมาที่หุบเขานี้ เพื่อหาหอคอยงาช้าง ที่จะพาผมไปยังจุดสูงสุด ในพรสวรรค์ได้ แต่ผมกลับเจอแต่คุกมืด ที่มีแต่ความอ้างว้าง คุณได้ช่วยผมไว้จากสิ่งนั้นครับ",
+                "Indoor_Day_3": "#$c .5#วันนี้ต้องเป็นวันที่ น่าประทับใจมากแน่... ผมรู้สึกได้เลย! ผมรู้สึกได้เป็นพิเศษ จากจมูกผมเลย...$h#A sheen of silky sun in window's glare... reminds me how I know I've found my home, wherein your gleaming gaze invites to share... a moment in the sun to call our own.",
+                "Indoor_Night_3": "#$c .5#โอ้ ชั่วโมงยามข้าเปลี่ยว อ้างว้าง..., ใจข้าเหมือนถูกหนาม ขาดวิ่,น ยามเกลอข้าหวนกลับ... คืนสู่ เหย้ามา, หัวใจข้าสุกใส โชติช่วง ดั่งทอง#ราตรีดาวพร่างฟ้า ห่อหุ้ม เราเอย, เย้ายวนเจ้าทรามเชย ฟากฟ้า, ข้าจักเฝ้าฟูมฟัก ตัวเจ้า มิวาง, ขอเจ้าจงแคล้วคลาด ตัวข้า คุ้มภัย#$e#บทกวีเป็นทางเดียว ที่ผมจะสามารถ เริ่มบรรยายความชอบพอ ที่ผมมีให้คุณได้$h",
                 "Outdoor_4": "#$c .5#อรุณสวัสดิ์ ขอผมขโมยอ้อมกอด จากเพื่อนที่ผมทะนุถนอม สักหนึ่งทีได้มั้ย?$h#ผมดื่มกาแฟมากไปน่ะ... ปากผมแห้งผาก ราวกับทะเลทรายคาลิโก้เลย$s",
             },
             "When":
