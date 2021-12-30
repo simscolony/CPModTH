@@ -5,10 +5,10 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "breakUp": "*อึก* อืม... ไม่คิดว่าจะได้ทำอะไร แบบนี้อีกครั้งนะเนี่ย ผมรู้สึกไร้ค่าตลอดเลย ไม่เหมือนกับเพื่อน ๆ ของตัวเองสักนิด...$s#$b#ผม... อ่า... ว... หวังว่าจะได้เจอกัน ที่ซาลูนนะ.",
-                "event_stadium1": "ว่าไง? ดูใช้ได้เลยนะเนี่ย$6#$b#ผมน่ะเหรอ? บางทีก็แอบ ๆ จะเบื่อเมืองของพวกเรา ขึ้นมาบ้างบางครั้งแหละ#$b#แต่... คุณก็ทำให้ทุกอย่างดูโอเคขึ้น ทุกอย่างลงตัวเมื่อพวกเรา อยู่ด้วยกันเลยนะ$6",
+                "breakUp": "*อึก* อืม... ไม่คิดว่าจะได้ทำอะไร แบบนี้อีกครั้งนะเนี่ย ผมรู้สึกว่าตัวเอง ไร้ค่าอยู่ตลอดเลย ไม่เหมือนกับเพื่อน ๆ ของตัวเองสักนิด...$s#$b#ผม... อ่า... ว... หวังว่าจะได้เจอกัน ที่ซาลูนนะ.",
+                "event_stadium1": "ว่าไง? ดูใช้ได้เลยนะเนี่ย$6#$b#ผมน่ะเหรอ? บางทีก็แอบ ๆ จะเบื่อเมืองของพวกเรา ขึ้นมาบ้างบางครั้งแหละ#$b#แต่... คุณก็ทำให้ทุกอย่างดูโอเคขึ้น ทุกอย่างลงตัวไปหมด เวลาที่พวกเรา อยู่ด้วยกันเลยนะ$6",
                 "NPC.cs.3985": "ได้ยินว่าวันนี้ คุณให้ของขวัญ ใครไปด้วยเหรอ#$e#รู้ตัวมั้ยเนี่ย ว่าคุณเป็นคนที่ดี มากขนาดไหนน่ะ?",
-                "NPC.cs.4425": "ชีวิตของพวกเรา ดูจะเปลี่ยนไปนะตั้งแต่{{RelationshipLabel}}...$s",
+                "NPC.cs.4425": "ชีวิตของพวกเรา ดูจะเปลี่ยนไปนะตั้งแต่เป็น {{RelationshipLabel}}...$s",
                 "NPC.cs.4507": "@",
                 "NPC.cs.4508": "@",
                 "NPC.cs.4509": "@",
@@ -68,8 +68,8 @@
                 "NPC.cs.4442": "เช้านี้รู้สึก คลื่นไส้แปลก ๆ แหะ ถ้าผมเผลอทำเอกสาร รับอุปการะบุตรผิด ขึ้นมาจะเป็นยังไงเนี่ย?$s",
                 "NPC.cs.4446": "วันนี้รู้สึกง่วง ๆ ทั้งวันวันเลย สงสัยเพราะเมื่อคืน มัวแต่วุ่นเรื่องเอกสาร จนนอนดึกไปเยอะ $u#$e#หวังว่าทางนั้นจะติดต่อ กลับมาหาพวกเราไว ๆ นะ$u",
                 "NPC.cs.4443": "วันนี้ผมเหนื่อยมากเลย... ทำอาหารเช้า ทานเองไปก่อนได้มั้ย?$a",
-                "NPC.cs.4444": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลย ว่าพวกเราจะรับเลี้ยง บุตรบุญธรรม ถ้าผมเผลอทุก ๆ อย่างพังล่ะ?$10",
-                "NPC.cs.4447": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลย ว่าพวกเราจะรับเลี้ยง บุตรบุญธรรม ถ้าผมเผลอทุก ๆ อย่างพังล่ะ?$10",
+                "NPC.cs.4444": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลย ว่าพวกเราจะรับเลี้ยง บุตรบุญธรรม ถ้าผมเผลอทำทุก ๆ อย่างพังล่ะ?$10",
+                "NPC.cs.4447": "{{TermofEndearment}}, ไม่อยากจะเชื่อเลย ว่าพวกเราจะรับเลี้ยง บุตรบุญธรรม ถ้าผมเผลอทำทุก ๆ อย่างพังล่ะ?$10",
                 "NPC.cs.4445": "{{TermofEndearment}}, ไม่เชื่อว่าผม จะตื่นเต้นกับการรับเลี้ยง บุตรบุญธรรมขนาดนี้ เลยนะเนี่ย!$h",
                 "NPC.cs.4448": "{{TermofEndearment}}, ไม่เชื่อว่าผม จะตื่นเต้นกับการรับเลี้ยง บุตรบุญธรรมขนาดนี้ เลยนะเนี่ย!$h",
             },
@@ -96,7 +96,7 @@
             "Target": "Data/ExtraDialogue",
             "Entries":
             {
-                "SummitEvent_Dialogue3_Shane": "ถ้าผมไม่ได้มา รู้จักกับคุณล่ะก็ @... ผมคงจะไม่ได้มายืน อยู่ตรงจุดนี้ได้แน่ ๆล#$b#และก็คงจะน่าเสียดายมาก ๆ เพราะการได้มาดู เจ้าพวกนกบนนี้ เป็นเรื่องที่วิเศษที่สุด ไปเลยล่ะ!$h\"/emote farmer 16/pause 1000/speak Shane \"แหะ... ผ... ผมชอบเล่นมุขตลก ฝืดประมาณนี้น่ะ ที่จริงแล้ว...นั่นแหละ...$s#$b#ที่ผมเป็นแบบนี้ก็เพราะว่า ไม่จำเป็นที่ตัวเองจะต้อง เปิดใจรับใครเข้ามาก็ตาม รวมไปถึงทำให้คนอื่น ๆ ไม่เห็นความอ่อนแอ ของผมที่ซ่อนเอาไว้ด้วย\"/emote Shane 28/speak Shane \"แต่การมีคุณอยู่ตรงนี้ มันทำให้ผมรู้สึกแตกต่าง ออกไปจากเดิมเลย#$b#เอ่อ.. ที่ผมจะพูดก็คือ...#$b#ผมน่ะนะ ไม่เคยคิดเสียใจสักครั้ง ที่ได้มาใช้ชีวิตร่วมกับคุณ แบบนี้แม้แต่ครั้งเดียวล!$h",
+                "SummitEvent_Dialogue3_Shane": "ถ้าผมไม่ได้มา รู้จักกับคุณล่ะก็ @... คงจะไม่ได้มายืน อยู่ตรงจุดนี้ได้แน่ ๆ#$b#และก็คงจะน่าเสียดายมาก ๆ เพราะการได้มาดู เจ้าพวกนกบนนี้กับคุณ เป็นเรื่องที่วิเศษที่สุด ไปเลยล่ะ!$h\"/emote farmer 16/pause 1000/speak Shane \"แหะ... ผ... ผมก็ชอบเล่นมุขตลก ฝืดประมาณนี้นั่นแหละ ที่จริงแล้ว...ก็นั่นแหละ...$s#$b#ที่ผมเป็นแบบนี้ก็เพราะว่า ไม่จำเป็นที่ตัวเองจะต้อง เปิดใจรับใครเข้ามาก็ตาม รวมไปถึงทำให้คนอื่น ๆ ไม่เห็นความอ่อนแอ ของผมที่ซ่อนเอาไว้ด้วย\"/emote Shane 28/speak Shane \"แต่การมีคุณอยู่ตรงนี้ มันทำให้ผมรู้สึกแตกต่าง ออกไปจากเดิมเลย#$b#เอ่อ.. ที่ผมจะพูดก็คือ...#$b#ผมน่ะนะ ไม่เคยคิดเสียใจสักครั้ง ที่ได้มาใช้ชีวิตร่วมกับคุณ แบบนี้แม้แต่ครั้งเดียวล!$h",
             },
             "When":
             {
@@ -214,7 +214,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_9": "ห๋า... สงสัยสินะ ว่าำไผมถึงยิ้มแบบนี้? แค่คิดเรื่องที่ผ่าน ๆ มาจนถึงวันนี้น่ะ$h#$b#ไม่อยากเชื่อเลยว่า ผมจะออกจากงานสิ้นคิด ของโจจ้าแบบนั้น มาอยู่ที่ฟาร์มกับเพื่อนสนิท$6#$e#ที่จริงก็ไม่ได้อยู่ในสถานะ ที่จะพูดอะไรแบบนี้ได้หรอก... แต่ก็ ดีใจมาก ๆ เลยล่ะ$6",
+                "Good_9": "ห๋า... สงสัยสินะ ว่าทำไมผมถึงยิ้มแบบนี้? แค่คิดเรื่องที่ผ่าน ๆ มาจนถึงวันนี้น่ะ$h#$b#ไม่อยากเชื่อเลยว่า ผมจะออกจากงานสิ้นคิด ของโจจ้าแบบนั้น มาอยู่ที่ฟาร์มกับเพื่อนสนิท$6#$e#ที่จริงก็ไม่ได้อยู่ในสถานะ ที่จะพูดอะไรแบบนี้ได้หรอก... แต่ก็ ดีใจมาก ๆ เลยล่ะ$6",
                 "Outdoor_0": "เมื่อคืนนอนไม่ค่อยเต็มอิ่ม สักเท่าไหร่ หวังว่าลมเย็น ๆ ยามเช้าพอจะช่วย ผมได้บ้างนะ",
             },
             "When":
@@ -333,7 +333,7 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "NPC.cs.4448": "ผมหวังว่าคำร้องขอ อุปการะที่ยื่นไป จะได้รับการอนุมัตินะ พวกเขาจะรู้ใช่มัย ว่าพวกเราเตรียม และมีความพร้อมในการ เลี้ยงเด็ก ๆ มากขนาดไหน พวกเขาจะรู้ได้ใช่มั้ย?",
+                "NPC.cs.4448": "หวังว่าคำร้องขอ อุปการะที่ยื่นไป จะได้รับการอนุมัตินะ พวกเขาจะรู้ใช่มัย ว่าพวกเราเตรียม และมีความพร้อมในการ เลี้ยงเด็ก ๆ มากขนาดไหน พวกเขาจะรู้ได้ใช่มั้ย?",
             },
             "When":
             {
@@ -577,11 +577,11 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Neutral_5": "{{Random: Do you ever feel like there's a huge yawning chasm in your chest?#$b#Sometimes I wake up feeling so... hollow.$s#$e#*sigh*... I hate having days like these. ++ I woke up at one in the morning and couldn't get back to sleep, so I scrubbed and mopped all our floors.#$b#Well, looks like I just used up all my productivity for the month. At least the floors are shiny.$3#$e#My head's starting to hurt, so I think I'll go back to sleep now. G'night, {{Lowercase:{{TermofEndearment}}}}. |inputSeparator=++}}",
-                "Indoor_Day_4": "{{Random: Morning, {{Lowercase:{{TermofEndearment}}}}. Here's breakfast, courtesy of Charlie and the girls.$6 [195]#$e#I like to think that I've gotten pretty good at making egg dishes. Except for deviled eggs.$6#$b#Yoba, I could really go for some of Gus's special fancy-rich-jerk deviled eggs right now...$3 ++ ...I  think I need some time alone today.$3#$b#It's not you, I just feel awful. I wanna just lie in bed and not do anything.#$e#I promise I'll try not to wallow. I'll watch a movie or play some games or something.#$b#You have a good day, okay? Be safe. |inputSeparator=++}}",
-                "Rainy_Night_3": "{{Random: Eat up, {{Lowercase:{{TermofEndearment}}}}.$6 [199 457 727]#$e#I know it's not Luau-level stuff, but you gotta warm up after spending all day in the rain.$6 ++ Here.$6 [199 457 727]#$e#Nothing like a stomach full of hot soup on a rainy night, right?$6#$b#I just hope I didn't make it too salty.$3 |inputSeparator=++}}",
-                "summer_4": "Morning, {{Lowercase:{{TermofEndearment}}}}. You sleep okay?$6#$e#Oh, don't forget that it's Jas's birthday today. I'm gonna bring her a cake later.$6#$b#Heh, I just had Gus make it. My cooking skills aren't up to making cake yet, and I really don't wanna bring Jas some burnt disaster.$6",
-                "fall_18": "Hey, {{Lowercase:{{TermofEndearment}}}}. You sleep okay?$6#$e#Don't forget to greet Marnie today. It's her birthday.$6",
+                "Neutral_5": "{{Random: เคยรู้สึกบ้างมั้ย ว่าเหมือนหลุมอะไร บางอย่างอยู่บนอก ของตัวเองน่ะ?#$b#บางวันที่ผมตื่นมา มันก็รู้สึกแบบ... เหมือนร่างกายตัวเอง มันแปลก ๆ ยังไงก็ไม่รู้$s#$e#*เฮ้อ*... เกลียดอะไรแบบนี้ที่สุดเลย ++ ผมเผลอสะดุ้งตื่นขึ้นมา แล้วนอนไม่หลับน่ะ ก็เลยตื่นมาถูพื้นแก้เบื่อ#$b#ก็นะ เหมือนผมจะใช้พลังงานที่เก็บเอาไว้ ทั้งเดือนจนหมดไปแล้ว อย่างน้อยก็ยังได้ทำ ให้พื้นในบ้านสะอาด วิบวับได้ทันอยู่$3#$e#เริ่มเปิดหัวขึ้นมานิด ๆ แล้วแหะ ผมขอตัวกลับไปนอนก่อนนะ ฝันดี {{Lowercase:{{TermofEndearment}}}}. |inputSeparator=++}}",
+                "Indoor_Day_4": "{{Random: อรุณสวัสดิ์ {{Lowercase:{{TermofEndearment}}}} ผมเตรียมมื้อเช้าไว้ให้ คุณเรียบร้อยแล้ว กินได้เลยนะ$6 [195]#$e#ผมคิดว่าตัวเอง ทำอาหารที่ทำจากไข่ ได้ดีพอสมควรเลยล่ะ ยกเว้นเมนูไข่ยัดไส้$6#$b#พระเจ้า ผมลืมไปสนิทเลย ว่าวันนี้ต้องรีบไปซื้อ เมนูไข่ยัดไส้ของกัสให้ทัน...$3 ++ ...ผม ผมคิดว่าอาจจะขอ ใช้เวลาอยู่คนเดียวสักพัก$3#$b#ไม่ใช่เพราะคุณหรอก ผมแค่รู้สึกขี้เกียจนิดหน่อย เลยอยากจะนอนจมอยู่บนเตียง เฉย ๆ แล้วไม่ต้องทำอะไรเลย#$e#สัญญาว่าจะไม่คิดมากนะ ผมจะลองหาหนังดู หรือเล่นเกมฆ่าเวลาดูด้วย#$b#วันนี้ขอให้โชคดีนะ แล้วกลับมาเจอกัน โอเคมั้ย? รักษาตัวนะ |inputSeparator=++}}",
+                "Rainy_Night_3": "{{Random: กินนี่สิ {{Lowercase:{{TermofEndearment}}}}.$6 [199 457 727]#$e#ผมรู้ว่าไม่ใช่ของ ที่คุณชอบมากเท่าไหร่ แต่ควรจะกินให้ร่างกาย อุ่นขึ้นสักนิดนะ หลังจากที่ไปอยู่กลางฝนมา$6 ++ นี่$6 [199 457 727]#$e#ไม่มีอะไรจะดีไปกว่า ซุปร้อน ๆ ในคืนที่ฝนตกแล้วใช่มั้ยล่ะ?$6#$b#หวังว่าผมคง ไม่เผลอใส่เกลือเยอะไปนะ$3 |inputSeparator=++}}",
+                "summer_4": "อรุณสวัสดิ์ {{Lowercase:{{TermofEndearment}}}} หลับสบายมั้ย?$6#$e#อ๊ะ อย่าลืมนะว่าวันนี้ เป็นวันเกิดของแจส กะจะเอาเค้ก ไปให้เธอทีหลัง$6#$b#อ๋อ ผมให้กัสช่วยทำให้น่ะ สกิลการทำอาหารของผม ทำเค้กไม่ไหวหรอก อีกอย่างคือไม่อยากฝืน เอาของไหม้ ๆ ไปให้เธอกินด้วย$6",
+                "fall_18": "นี่ {{Lowercase:{{TermofEndearment}}}} หลับสบายมั้ย?$6#$e#วันนี้อย่าลืมไปหามาร์นีนะ วันนี้วันเกิดเธอล่ะ$6",
             },
             "When":
             {
@@ -595,11 +595,11 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Neutral_5": "{{Random: Do you ever feel like there's a huge yawning chasm in your chest?#$b#Sometimes I wake up feeling so... hollow.$s#$e#*sigh*... I hate having days like these. ++ I woke up at one in the morning and couldn't get back to sleep, so I scrubbed and mopped all our floors.#$b#Well, looks like I just used up all my productivity for the month. At least the floors are shiny.$3#$e#My head's starting to hurt, so I think I'll go back to sleep now. G'night, {{TermofEndearment}}. |inputSeparator=++}}",
-                "Indoor_Day_4": "{{Random: Morning, {{TermofEndearment}}. Here's breakfast, courtesy of Charlie and the girls.$6 [195]#$e#I like to think that I've gotten pretty good at making egg dishes. Except for deviled eggs.$6#$b#Yoba, I could really go for some of Gus's special fancy-rich-jerk deviled eggs right now...$3 ++ ...I  think I need some time alone today.$3#$b#It's not you, I just feel awful. I wanna just lie in bed and not do anything.#$e#I promise I'll try not to wallow. I'll watch a movie or play some games or something.#$b#You have a good day, okay? Be safe. |inputSeparator=++}}",
-                "Rainy_Night_3": "{{Random: Eat up, {{TermofEndearment}}.$6 [199 457 727]#$e#I know it's not Luau-level stuff, but you gotta warm up after spending all day in the rain.$6 ++ Here.$6 [199 457 727]#$e#Nothing like a stomach full of hot soup on a rainy night, right?$6#$b#I just hope I didn't make it too salty.$3 |inputSeparator=++}}",
-                "summer_4": "Morning, {{TermofEndearment}}. You sleep okay?$6#$e#Oh, don't forget that it's Jas's birthday today. I'm gonna bring her a cake later.$6#$b#Heh, I just had Gus make it. My cooking skills aren't up to making cake yet, and I really don't wanna bring Jas some burnt disaster.$6",
-                "fall_18": "Hey, {{TermofEndearment}}. You sleep okay?$6#$e#Don't forget to greet Marnie today. It's her birthday.$6",
+                "Neutral_5": "{{Random: เคยรู้สึกบ้างมั้ย ว่าเหมือนหลุมอะไร บางอย่างอยู่บนอก ของตัวเองน่ะ#$b#บางวันที่ผมตื่นมา มันก็รู้สึกแบบ... เหมือนร่างกายตัวเอง มันแปลก ๆ ยังไงก็ไม่รู้$s#$e#*เฮ้อ*... เกลียดอะไรแบบนี้ที่สุดเลย ++ ผมเผลอสะดุ้งตื่นขึ้นมา แล้วนอนไม่หลับน่ะ ก็เลยตื่นมาถูพื้นแก้เบื่อ#$b#ก็นะ เหมือนผมจะใช้พลังงานที่เก็บเอาไว้ ทั้งเดือนจนหมดไปแล้ว อย่างน้อยก็ยังได้ทำ ให้พื้นในบ้านสะอาด วิบวับได้ทันอยู่$3#$e#เริ่มเปิดหัวขึ้นมานิด ๆ แล้วแหะ ผมขอตัวกลับไปนอนก่อนนะ ฝันดี {{TermofEndearment}}. |inputSeparator=++}}",
+                "Indoor_Day_4": "{{Random: อรุณสวัสดิ์ {{TermofEndearment}} ผมเตรียมมื้อเช้าไว้ให้ คุณเรียบร้อยแล้ว กินได้เลยนะ$6 [195]#$e#ผมคิดว่าตัวเอง ทำอาหารที่ทำจากไข่ ได้ดีพอสมควรเลยล่ะ ยกเว้นเมนูไข่ยัดไส้$6#$b#พระเจ้า ผมลืมไปสนิทเลย ว่าวันนี้ต้องรีบไปซื้อ เมนูไข่ยัดไส้ของกัสให้ทัน...$3 ++ ...ผม ผมคิดว่าอาจจะขอ ใช้เวลาอยู่คนเดียวสักพัก$3#$b#ไม่ใช่เพราะคุณหรอก ผมแค่รู้สึกขี้เกียจนิดหน่อย เลยอยากจะนอนจมอยู่บนเตียง เฉย ๆ แล้วไม่ต้องทำอะไรเลย#$e#สัญญาว่าจะไม่คิดมากนะ ผมจะลองหาหนังดู หรือเล่นเกมฆ่าเวลาดูด้วย#$b#วันนี้ขอให้โชคดีนะ แล้วกลับมาเจอกัน โอเคมั้ย? รักษาตัวนะ |inputSeparator=++}}",
+                "Rainy_Night_3": "{{Random: กินนี่สิ {{TermofEndearment}}$6 [199 457 727]#$e#ผมรู้ว่าไม่ใช่ของ ที่คุณชอบมากเท่าไหร่ แต่ควรจะกินให้ร่างกาย อุ่นขึ้นสักนิดนะ หลังจากที่ไปอยู่กลางฝนมา$6 ++ นี่$6 [199 457 727]#$e#ไม่มีอะไรจะดีไปกว่า ซุปร้อน ๆ ในคืนที่ฝนตกแล้วใช่มั้ยล่ะ?$6#$b#หวังว่าผมคง ไม่เผลอใส่เกลือเยอะไปนะ$3 |inputSeparator=++}}",
+                "summer_4": "อรุณสวัสดิ์ {{TermofEndearment}} หลับสบายมั้ย?$6#$e#อ๊ะ อย่าลืมนะว่าวันนี้ เป็นวันเกิดของแจส ผมกะจะเอาเค้ก ไปให้เธอทีหลัง$6#$b#อ๋อ ผมให้กัสช่วยทำให้น่ะ สกิลการทำอาหารของผม ทำเค้กไม่ไหวหรอก อีกอย่างคือไม่อยากฝืน เอาของไหม้ ๆ ไปให้เธอกินด้วย$6",
+                "fall_18": "นี่ {{TermofEndearment}} นอนสบายมั้ย?$6#$e#วันนี้อย่าลืมไปหามาร์นีนะ วันนี้วันเกิดเธอล่ะ$6",
             },
             "When":
             {
@@ -612,9 +612,9 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_9": "{{Random: If someone told me before we met that this is what my life would be like, I would've told them that they were wrong.#$b#I'm glad that *I* was wrong, though.$6 ++ Huh... You're wondering why I have this goofy grin on my face? I was just thinking about how my life turned out.$h#$e#I can't believe I went from that dead-end job at Joja to living on a farm with my best friend, a stone's throw from Jas and Marnie's place.$6#$e#I'm not always in a place to appreciate it, but... yeah. I'm glad I'm here.$6 |inputSeparator=++}}",
-                "Outdoor_0": "{{Random: I didn't sleep well last night, so I'm hoping this fresh air will get the juices flowing. ++ Sometimes I stop and realize that I'm nothing more than a bag of juicy, squishy flesh.#$e#But hey... that's just fine... what's life, anyway?$h |inputSeparator=++}}",
-                "winter_8": "Hey, be sure to bundle up today.#$e#I don't want you freezing your toes off or whatever if we're gonna be hanging out on some godforsaken ice disk all day.$6",
+                "Good_9": "{{Random: ถ้ามีใครมาบอกผม ก่อนที่พวกเราจะเจอกัน ว่าชีวิตในอนาคตของผม จะเป็นแบบนี้ล่ะก็ ผมคงสวนไปทันควันเลยล่ะ ว่าพวกเขาเพ้อเจ้อ#$b#ผมดีใจมากเลย ที่ *ผม* คิดผิด$6 ++ ห๋า... สงสัยสินะว่าทำไม ผมถึงยิ้มแบบนี้? แค่คิดถึงชีวิตของตัวเอง ที่ผ่าน ๆ มาน่ะ$h#$e#ไม่อยากเชื่อเลยว่า ผมจะออกจากงานสิ้นคิด ของโจจ้าแบบนั้น มาอยู่ที่ฟาร์มกับเพื่อนสนิท$6#$e#ที่จริงก็ไม่ได้อยู่ในสถานะ ที่จะพูดอะไรแบบนี้ได้หรอก... แต่ก็ ดีใจมาก ๆ เลยล่ะ$6 |inputSeparator=++}}",
+                "Outdoor_0": "{{Random: เมื่อคืนหลับไม่ค่อย เต็มอิ่มสักเท่าไหร่น่ะ ก็เลยมายืนรับลมสักหน่อย ++ บางครั้งก็เคยนึกเล่น ๆ  นะว่า ตัวผมก็เหมือนกับ ถุงเก็บผลไม้งั่ง ๆ ที่อ่อนปวกเปียก ไม่เอาไหนสักเท่าไหร่#$e#แต่ก็นะ... ไม่ต้องเป็นห่วงหรอก... ชีวิตมันก็แบบนี้ล่ะนะ?$h |inputSeparator=++}}",
+                "winter_8": "นี่ ใส่ชุดหนาแล้วใช่มั้ย#$e#ไม่อยากให้เท้าคุณ โดนแช่แข็งไปซะก่อน ระหว่างที่เรานั่งเล่นกันบน ธารน้ำแข็งใกล้ ๆ แถวนี้$6",
             },
             "When":
             {
@@ -628,9 +628,9 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Good_9": "{{Random: If someone told me before we met that this is what my life would be like, I would've told them that they were wrong.#$b#I'm glad that *I* was wrong, though.$6 ++ Huh... You're wondering why I have this goofy grin on my face? I was just thinking about how my life turned out.$h#$e#I can't believe I went from that dead-end job at Joja to living on a farm with my best friend, a stone's throw from Jas and Marnie's place.$6#$e#I'm not always in a place to appreciate it, but... yeah. I'm glad I'm here.$6 |inputSeparator=++}}",
-                "Outdoor_0": "{{Random: I didn't sleep well last night, so I'm hoping this fresh air will get the juices flowing. ++ Sometimes I stop and realize that I'm nothing more than a bag of juicy, squishy flesh.#$e#But hey... that's just fine... what's life, anyway?$h |inputSeparator=++}}",
-                "winter_8": "Hey, be sure to bundle up today.#$e#I don't want you freezing your toes off or whatever if we're gonna be hanging out on some godforsaken ice disk all day.$6",
+                "Good_9": "{{Random: ถ้ามีใครมาบอกผม ก่อนที่พวกเราจะเจอกัน ว่าชีวิตในอนาคตของผม จะเป็นแบบนี้ล่ะก็ ผมคงสวนไปทันควันเลยล่ะ ว่าพวกเขาเพ้อเจ้อ #$b#ผมดีใจมากเลย ที่ *ผม* คิดผิด$6 ++ ห๋า... สงสัยสินะว่าทำไม ผมถึงยิ้มแบบนี้? แค่คิดถึงชีวิตของตัวเอง ที่ผ่าน ๆ มาน่ะ$h#$e#ไม่อยากเชื่อเลยว่า ผมจะออกจากงานสิ้นคิด ของโจจ้าแบบนั้น มาอยู่ที่ฟาร์มกับเพื่อนสนิท$6#$e#ที่จริงก็ไม่ได้อยู่ในสถานะ ที่จะพูดอะไรแบบนี้ได้หรอก... แต่ก็ ดีใจมาก ๆ เลยล่ะ$6 |inputSeparator=++}}",
+                "Outdoor_0": "{{Random: เมื่อคืนหลับไม่ค่อย เต็มอิ่มสักเท่าไหร่น่ะ ก็เลยมายืนรับลมสักหน่อย ++ บางครั้งก็เคยนึกเล่น ๆ  นะว่า ตัวผมก็เหมือนกับ ถุงเก็บผลไม้งั่ง ๆ ที่อ่อนปวกเปียก ไม่เอาไหนสักเท่าไหร่#$e#แต่ก็นะ... ไม่ต้องเป็นห่วงหรอก... ชีวิตมันก็แบบนี้ล่ะนะ?$h |inputSeparator=++}}",
+                "winter_8": "นี่ ใส่ชุดหนาแล้วใช่มั้ย#$e#ไม่อยากให้เท้าคุณ โดนแช่แข็งไปซะก่อน ระหว่างที่เรานั่งเล่นกันบน ธารน้ำแข็งใกล้ ๆ แถวนี้$6",
             },
             "When":
             {
@@ -644,12 +644,12 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Bad_0": "Did I do something to tick you off?#$b#Or what, are you just tired of me and my baggage?#$e#I warned you, @. I told you that I'm a mess, but no, you went ahead and moved me in anyway.#$b#You knew exactly what you were getting into when you asked me to be {{RelationshipLabel}}. So if you regret anything, that's on you.$a",
-                "Bad_1": "...Can we still fix this?$s#$b#Not that I have much experience, but I'm pretty sure this isn't how being {{RelationshipLabel}} is supposed to work.#$e#Please... I just want us to go back to how we were before.$3",
-                "Bad_3": "Are you gonna kick me out? Is that why you've been so distant lately?$s#$e#I'm... I'm doing the best I can for you, you know.#$b#I'm sorry it isn't enough, but it's the best I can do...$s#$b#Please don't abandon me. I'll try harder, @. I'll do whatever you want me to, just... just talk to me. Tell me what you want from me.#$e#...I want to fix this, @. Do you?$3",
-                "Bad_5": "You were my best friend once, you know?#$b#Yoba, we just had to mess that up by living together, didn't we?$s",
-                "Bad_6": "Did you ever really care about me? Do I mean anything to you?$s#$b#Or was asking me to move in just some act of charity you couldn't back out of?$a",
-                "Bad_7": "You know, if I knew that living with me would make you so miserable, I wouldn't have said yes.#$e#You said I'd make you happy, jerk! And damn if I'm not trying my hardest to do that, but you're just completely checked out of our friendship.$a",
+                "Bad_0": "ผมเผลอทำให้คุณ โกรธอะไรหรือเปล่า?#$b#หรืออะไรล่ะ หรือเบื่อผม แล้วก็พวกข้าวของพวกนี้?#$e#ผมเคยพูด กับคุณแล้วนะ @ ว่าตัวผมเองค่อนข้าง จะเป็นคนที่ไม่มีระเบียบ สักเท่าไหร่ แต่ไม่เลย คุณก็ยังดื้อด้าน และโอเคที่จะให้ผม ย้ายเข้ามาอยู่กับคุณ#$b#คุณก็รู้ตัวเองดีนะ ว่าคิดอะไรอยู่ ตอนที่ขอให้ผมเป็น {{RelationshipLabel}} อย่าเสียใจทีหลังก็แล้วกัน ผมขอไม่ยุ่งด้วย$a",
+                "Bad_1": "...เราค่อย ๆ คุยกันดีมั้ย?$s#$b#ไม่ใช่ว่าผมเก่ง หรือมีประสบการณ์อะไรหรอก แต่นี่คงไม่ใช่วิธีที่ดีแน่ ที่จะเป็น {{RelationshipLabel}} มันต้องได้ผล เชื่อผมสิ#$e#ขอร้องล่ะ... ผมแค่อยากให้พวกเรา กลับไปเป็นเหมือน กับแต่ก่อน$3",
+                "Bad_3": "คุณจะไล่ผม ออกจากบ้านงั้นเหรอ? นี่ใช่สาเหตุที่ว่า ช่วงที่ผ่านมาคุณดูจะ ห่าง ๆ กับผมสินะ?$s#$e#ผม... ผมพยายามดีที่สุดแล้ว เท่าที่จะทำได้เพื่อคุณ#$b#ข... ขอโทษนะที่มันยังดีไม่พอ แต่ผมมีแค่นี้จริง ๆ...$s#$b#อย่าทิ้งผมไปเลยนะ ขอร้อง ผมจะตั้งใจ และทำให้ดีกว่านี้ @ ผมจะยอมทำทุก ๆ อย่างที่คุณต้องการเลย ขอแค่... ขอแค่คุณหันมาคุย กับผมบ้างได้มั้ย พูดมาได้เลย ว่าคุณอยากได้อะไรบ้าง#$e#...ผมยังรักคุณเสมอนะ @ คุณก็ด้วยใช่มั้ย?$3",
+                "Bad_5": "คุณเคยเป็นเพื่อนที่ดีที่สุด สำหรับผมเลยนะ รู้ใช่มั้ย?#$b#พระเจ้า นี่พวกเราทำให้ทุกอย่าง มันวุ่นวายและแย่ลง ด้วยการย้ายมาอยู่ด้วยกัน ใช่ไหมเนี่ย?$s",
+                "Bad_6": "คุณเคยนึกถึงผมบ้างมั้ย? ผมมีความหมาย กับคุณบ้างหรือเปล่า?$s#$b#หรือการที่ชวนผมมาอยู่ด้วยกัน เพียงแค่เพราะสงสาร แล้วดันปฏิเสธไม่ได้ใช่มั้ย$a",
+                "Bad_7": "รู้อะไรมั้ย ถ้าผมรู้ว่า การเข้ามาอยู่กับคุณ จะทำให้คุณลำบากใจ วันนั้นผมคงไม่ตอบตกลง#$e#คุณบอกว่า ผมจะทำให้คุณมีความสุข เพ้อเจ้อสิ้นดี! แล้วที่ผ่านมานี่มันอะไรกัน มาบอกว่าผม ยังพยายามไม่พองั้นเหรอ$a",
             },
             "When":
             {
@@ -662,8 +662,8 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Bad_0": "ยังแคร์ผมอยู่อีกเหรอ?#$b#เหอะ โอเค ลืมง่ายจังเลยนะว่า คุณทำอะไรลงไปบ้าง...$s",
-                "Bad_2": "ผมว่าเริ่มเข้าใจ ความรู้สึึกของคนอื่น ๆ แล้วล่ะ ตอนที่พวกเขาแยกทางกัน$s#$e#ไม่นึึกมาก่อนเลย ว่าจะเกิดเรื่องแบบนี้กับเรา",
+                "Bad_0": "ยังแคร์ผมอยู่อีกเหรอ?#$b#เหอะ โอเค ลืมง่ายจังเลยนะว่า คุณเคยทำอะไรลงไปบ้าง...$s",
+                "Bad_2": "ผมว่าเริ่มเข้าใจ ความรู้สึึกของคนอื่น ๆ แล้วล่ะ ตอนที่พวกเขาเล่าว่า เวลาแยกทางกัน มันรู้สึกยังไงบ้าง$s#$e#ไม่นึึกมาก่อนเลย ว่าจะเกิดเรื่องแบบนี้กับเรา",
                 "Bad_7": "บางครั้งผมก็คิดนะ ว่าถ้าหากเลือกที่จะ ไม่ย้ายเข้ามาอยู่กับคุณ มันจะเป็นยังไง$3#$b#เมื่อก่อนเราเป็น เพื่อนที่ดีต่อกันมาก เลยนะจำได้ใช่มั้ย {{RelationshipLabel}} อยากจะกลับไปเป็น เหมือนตอนนั้นสุด ๆ เลยล่ะ",
             },
             "When":
@@ -759,9 +759,9 @@
 			"Entries": {
 			//Love
 				//Food
-				"GiftReaction_Hot_Pepper": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ล้อเล่นน่า ขอบใจนะ @!$h",
-				"GiftReaction_Pizza": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ล้อเล่นน่า ขอบใจนะ @!$h",
-				"GiftReaction_Pepper_Poppers~1": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ล้อเล่นน่า ขอบใจนะ @!$h",
+				"GiftReaction_Hot_Pepper": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ ล้อเล่นน่า ขอบใจนะ @!$h",
+				"GiftReaction_Pizza": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ ล้อเล่นน่า ขอบใจนะ @!$h",
+				"GiftReaction_Pepper_Poppers~1": "นี่ไง สาเหตุที่เราเป็น เพื่อนด้วยกันได้... เฮ้ ล้อเล่นน่า ขอบใจนะ @!$h",
 			},
 			"When": {
 				"Hearts:Shane": "{{Range: 9, 14}}",
@@ -797,7 +797,7 @@
 				"GiftReaction_Pizza": "โคตรเจ๋ง นี่มันของดีเลยนะเนี่ย ดูซอสนี่สิ... ขอบคุณนะ @!$h",
 				"GiftReaction_Pizza~1": "ว้าว ดูชีสเยิ้ม ๆ หอม ๆ นี่สิ... ตกหลุมรักเขาจัง ๆ เลย ขอบคุณมากนะ @.$6",
 				"GiftReaction_Pizza~2": "เยี่ยมไปเลย ขอบคุณมากนะ @!$h",
-				"GiftReaction_Pizza~3": "เคยบอกไปหรือยัง ว่าคุณคือคนโปรดของผม ที่สุดในจักรวาลเลยนะ? สงสัยต้องพูดให้ฟัง บ่อยกว่านี้ซะแล้ว#$b#กลิ่นหอมชะมัดเลย เอาสักชิ้นมั้ย?$6",
+				"GiftReaction_Pizza~3": "เคยบอกไปหรือยัง ว่าคุณคือคนที่ผมชอบ ที่สุดในจักรวาลเลยล่ะ? สงสัยต้องพูดให้ฟัง บ่อยกว่านี้ซะแล้ว#$b#กลิ่นหอมชะมัดเลย เอาสักชิ้นมั้ย?$6",
 				"GiftReaction_Pizza~4": "พระเจ้า คุณนี่สุดยอดไปเลย ขอบใจมากเลยนะ @!$h",
 				"GiftReaction_Pepper_Poppers": "ว้าว จะกินเจ้านี่ตอนนี้เลย ดีมั้ยนะ? เอาไงดี ๆ$3#$b#เอ่อ เดี๋ยวค่อยคิดละกัน ขอบใจนะ @$6",
 				"GiftReaction_Pepper_Poppers~1": "วู้ว ดูน่ากินจังเลยแหะ @$h",
@@ -814,8 +814,8 @@
 				//Eggs
 				"GiftReactionCategory_-5": "อ๊ะได้มาจากเจ้าไก่ตัวน้อย ของคุณใช่มั้ยเนี่ย ขอบคุณนะ@.$6",
 				//Loved Ones
-				"GiftReaction_Pink_Cake": "ป้ามาร์นีกับแจส ชอบเค้กมาก ๆ เลยล่ะ จะเป็นอะไรมั้ย ถ้าขอไปแบ่งกิน ด้วยกันน่ะ?$6#$b#ขอบใจนะ @",
-				"GiftReaction_Diamond": "อ๊ะ เพชรงั้นเหรอ? ป้ามาร์นีชอบมาก ๆ เลยรู้มั้ย$6#$b#จะเป็นอะไรมั้ย ถ้าขอเอาไปให้เธอต่อ?$6",
+				"GiftReaction_Pink_Cake": "ป้ามาร์นีกับแจส ชอบเค้กมาก ๆ เลยล่ะ จะเป็นอะไรมั้ย ถ้าจะขอเอาไปแบ่งกิน ด้วยกันน่ะ?$6#$b#ขอบใจนะ @",
+				"GiftReaction_Diamond": "อ๊ะ เพชรงั้นเหรอ? ป้ามาร์นีชอบมาก ๆ เลยรู้มั้ย$6#$b#จะเป็นอะไรมั้ย ถ้าจะขอเอาไปให้เธอ?$6",
 				"GiftReaction_Farmer's_Lunch": "เฮ้ ผมรับประกันเลยว่า ป้ามาร์นีต้องชอบ อาหารจานนี้มากแน่ ๆ เลย ขอเอาไปแบ่ง กินกับเธอละกันนะ$6",
 				"GiftReaction_Pumpkin_Pie": "เฮ้พวก ป้ามาร์นีชอบพายฟักทอง หวังว่าคุณจะไม่โกรธนะ ถ้าขอเอาไปแบ่งกับเธอ$6",
 				"GiftReaction_Plum_Pudding": "เฮ้ นี่ใช่พุดดิ้งพลัม (Plum Pudding) หรือเปล่า? แจสชอบมันมากเลย!$h#$b#ขอเอาไปแบ่งให้แจส ด้วยได้มั้ย$6",
@@ -872,8 +872,8 @@
             "Target": "Characters/Dialogue/Shane",
             "Entries":
             {
-                "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#และก็ไม่เคยมีความคิด ที่จะพัฒนาไป ให้มากกว่านี้ ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคนเป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$6",
-                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ โรแมนติก ไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$6",
+                "Tue10": "เอมิลีกับผม เป็นแค่เพื่อนกัน#$b#แล้วผมก็ไม่เคยมีความคิด ที่จะพัฒนาความสัมพันธ์ ของพวกเราให้มัน มากขึ้นยิ่งกว่านี้ด้วยซ้ำ... ก็นั่นแหละ ผมกับคุณสองคนเป็นส่วนผสม ที่ลงตัวยิ่งกว่าอะไรซะอีก$6",
+                "summer_Tue10": "เคยคิดนะว่าบางที ผมอาจจะตกหลุมรัก เอมิลีเข้าสักวัน...$u#$e#แต่ก็ไม่ใช่เรื่องที่สำคัญ ในชีวิตผมสักนิด อะไร ๆ ที่เป็นเรื่องโรแมนติก ไม่เข้ากับผมเท่าไหร่ คุณก็รู้#$e#แจสสำคัญกับผมเสมอ และตอนนี้คุณกับมาร์นี ก็คือสิ่งนั้นเหมือนกันนะ$6",
                 "fall_Tue10": "มันแปลกที่ผมไม่เคยเบื่อ ที่จะได้เจอคุณบ่อย ๆ เลยสักครั้งเดียวนะ @.#$e#ไม่เคยมีอะไรแบบนี้ เกิดขึ้นมาก่อนเลย ยิ่งกับคนขี้เบื่อแบบผม$6",
             },
             "When":
@@ -887,7 +887,7 @@
             "Target": "Characters/Dialogue/MarriageDialogueShane",
             "Entries":
             {
-                "Indoor_Day_2": "#$c .5#รู้อะไรมั้ย? ตั้งแต่ย้ายมาอยู่กับคุณ ผมรู้สึกเหมือนว่าตัวเอง น้ำหนักจะลดลงไปด้วยล่ะ$6#เคยรู้สึกเบื่อ ๆ บ้างมั้ย ที่ผมไม่มีเอเนอร์จี้เทียบ กับคุณได้เลยสักนิด?",
+                "Indoor_Day_2": "#$c .5#รู้อะไรมั้ย? ตั้งแต่ย้ายมาอยู่กับคุณ ผมรู้สึกเหมือนว่าตัวเอง น้ำหนักจะลดลงไปด้วยล่ะ$6#เคยรู้สึกเบื่อ ๆ บ้างมั้ย ที่ผมไม่มีเอเนอร์จี้ พอจะเทียบ กับคุณได้เลยสักนิด?",
                 "Indoor_Night_3": "เหอะ... หวังว่าผมจะสูง ขึ้นกว่านี้สัก 6 นิ้วนะ และขอให้ตัวเองฉลาด ๆ กว่านี้ด้วย...#$b#แต่คุณก็จะยังชอบผม อยู่เหมือนเดิมใช่มั้ย? บางทีผมก็เจอเรื่องอะไร ต่อมิอะไรที่ทำความเข้าใจ ได้ยากน่ะ...",
                 "Outdoor_4": "#$c .5#นี่ @ ก่อนคุณจะตื่นผมลอง ไปเดินเล่นรอบ ๆ ฟาร์มมาล่ะ ทุกอย่างยังดูโอเคดี#ไม่รู้ว่าทำไม แต่เช้านี้รู้สึกดีมาก ๆ เลย เมื่อคืนน่าจะได้หลับ เต็มที่$h",
                 "Good_0": "วันนี้เป็นวันที่ดีมาก ๆ เลย มีอะไรที่ผมอยากจะทำ เต็มไปหมดเลย$6",
@@ -929,7 +929,7 @@
             "Entries":
             {
                 "Indoor_Day_3": "#$c .5#ตรงคางคุณ นั่นใช่ซอสมะเขือเทศ หรือเปล่า? เหมือนจะมีใครบางคน ตั้งใจกินพิซซ่าโรล มากเกินไปนะเนี่ย$6#เช้านี้คุณดูสดใส และกระตือรือร้นจังเลย$6",
-                "Indoor_Day_4": "#$c .5#ผมอาจจะชอบคิดอะไร ๆ หรือทำตัวเหมือน ไม่มีความสุขเป็นบางครั้ง... แต่ผมรู้สึกยินดีกับทุก ๆ สิ่งที่คุณทำมากเลยนะ โชคดีมาก ๆ เลยที่มีเพื่อนที่ดี อย่างคุณน่ะ$6#ขอแค่ได้ยินคำว่า อรุณสวัสดิ์ จากคุณก็รู้สึกดีมากเลย; แค่มีคุณอยู่ข้าง ๆ ทำให้ผมรู้สึกมีความสุข แบบนี้ก็เพียงพอแล้ว",
+                "Indoor_Day_4": "#$c .5#ผมอาจจะชอบคิดอะไร ๆ หรือทำตัวเหมือน คนอมทุกข์เป็นบางครั้ง... แต่ผมรู้สึกยินดีกับทุก ๆ สิ่งที่คุณทำมากเลยนะ โชคดีมาก ๆ เลยที่มีเพื่อนที่ดี อย่างคุณน่ะ$6#ขอแค่ได้ยินคำว่า อรุณสวัสดิ์ จากคุณก็รู้สึกดีมากเลย; แค่มีคุณอยู่ข้าง ๆ ทำให้ผมรู้สึกมีความสุข แบบนี้ก็เพียงพอแล้ว",
                 "funReturn_Shane": "#$c .5#ฟิ้ว เหนื่อยจัง... เป็นการเดินที่ไม่ใช่เล่น ๆ เลยนะเนี่ย... เฮ้อ สภาพผมคงไม่น่าดูจัด ๆ เลย$6#ไม่เป็นไร ผมเคยทำอะไรแบบนี้แล้ว สบายมาก แค่ขอพักสักนิดนึง",
                 "winter_28": "แล้วอีกปีก็ผ่านไป... เริ่มรู้สึกแก่แล้วสิเนี่ย...#$b#...แต่สำหรับผม คุณก็ยังดูสดใส อยู่เหมือนเดิมเลยนะ$6"
             },
