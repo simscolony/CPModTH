@@ -3064,8 +3064,8 @@
 	"When": { "LocationName": "Custom_Highlands, Custom_HighlandsCavern, Custom_HighlandsCavernPrison, Custom_HighlandsOutpost" },
 	"Update": "OnLocationChange",
     "Entries": {
-	  "Event.cs.1068": "Lance saved me, and didn't ask for anything in return...",
-      "Event.cs.1070": "Lance saved me, and didn't ask for anything in return..."
+	  "Event.cs.1068": "แลนซ์ช่วยชีวิตฉันไว้ แล้วเขาก็ไม่ได้ขออะไร เป็นการตอบแทนเลย... ",
+      "Event.cs.1070": "แลนซ์ช่วยชีวิตฉันไว้ แล้วเขาก็ไม่ได้ขออะไร เป็นการตอบแทนเลย... "
   },
 },
 
@@ -32006,8 +32006,8 @@ Castle Village (work on during the beta)
 	"When": { "LocationName": "Custom_CrimsonBadlands, Custom_CastleVillageOutpost, Custom_DesertRailway, Custom_IridiumQuarry, Custom_TreasureCave, Custom_GaldoranVoid" },
 	"Update": "OnLocationChange",
     "Entries": {
-	  "Event.cs.1068": "คามิลล่าช่วยชีวิตฉันไว้ แล้วก็ไม่ได้ขออะไร เป็นการตอบแทน... ",
-      "Event.cs.1070": "คามิลล่าช่วยชีวิตฉันไว้ แล้วก็ไม่ได้ขออะไร เป็นการตอบแทน... "
+	  "Event.cs.1068": "คามิลล่าช่วยชีวิตฉันไว้ แล้วเธอก็ไม่ได้ขออะไร เป็นการตอบแทนเลย... ",
+      "Event.cs.1070": "คามิลล่าช่วยชีวิตฉันไว้ แล้วเธอก็ไม่ได้ขออะไร เป็นการตอบแทนเลย... "
   },
 },
 
