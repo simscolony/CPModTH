@@ -1010,14 +1010,14 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Elliott",
 		"Entries": {
-			"marriage_bus": "Ah, how are you doing, {{Lowercase:{{TermofEndearment}}}}?#$b#I write outside once in awhile to get my thoughts flowing.$h",
+			"marriage_bus": "ไง วันนี้เป็นไงบ้างครับ {{Lowercase:{{TermofEndearment}}}}?#$b#บางครั้งบางคราว ผมก็จะออกไปเขียนอะไร ข้างนอกบ้างน่ะ หัวจะได้แล่นๆ$h",
 			"marriage_bus4": "\"There is no chance that we will fall apart...#$b#There is no chance. There are no parts.\"#$b#By June Jordan... Have a good day, {{Lowercase:{{TermofEndearment}}}}.",
-			"marriage_bus7": "\"Promise yourself to be so strong that nothing can disturb your peace of mind...#$b#To talk health, happiness, and prosperity to every person you meet...#$b#To make all your friends feel like there is something in them.\"$h#$b#By Christian Larson... I know you'll always do the right thing, {{Lowercase:{{TermofEndearment}}}}.",
-			"marriage_r2": "I'd recognize those footsteps anywhere.$h#$b#Hello, {{Lowercase:{{TermofEndearment}}}}!",
-			"marriage_beach3": "I passed by my old house... It's a shame that such fine construcion is going unused.$s#$b#I wish that man Linus would just accept my offer and live in it.$s#$b#You're right, {{Lowercase:{{TermofEndearment}}}}. Nothing I can do. You did warn me he would refuse.#$b#I'll continue to use it as storage for now.$h",
-			"marriage_nmpre": "I wrote a poem about tonight, {{Lowercase:{{TermofEndearment}}}}. Would you like to hear it?#$b#'For the glimmering nights and the whimpering lights...$h#$b#I shall not weep, the lights that seek no sleep.'$a#$b#That is all.",
-			"marriage_13": "Good luck on the hunt, {{Lowercase:{{TermofEndearment}}}}. I'll be cheering you on.$h#$b#I'll come in after you.",
-			"marriage_16": "I've seen what you've been up to. Your display is going to be marvelous, {{Lowercase:{{TermofEndearment}}}}.$h",
+			"marriage_bus7": "\"จงสัญญากับตัวเอง ว่าจะต้องเข้มแข็ง อย่าให้มีสิ่งใด ทำให้จิตใจไม่เป็นสุข...#$b#จงบอกเล่าถึง ความสมบูรณ์ พูลสุข และความเจริญรุ่งเรือง แก่ผู้อื่นทุกคนที่ได้พบเจอ...#$b#ก็เพื่อให้เพื่อนพ้องของคุณทุกคน ได้รู้สึกว่าพวกเขาก็มีมันเช่นกัน\"$h#$b#โดย คริสเตียน ลาร์สัน... ผู้รู้ว่าคุณคงจะทำ สิ่งที่ถูกต้องเสมอ {{Lowercase:{{TermofEndearment}}}}",
+			"marriage_r2": "ผมจำรอยเท้าพวกนั้นได้ทุกที่$h#$b#สวัสดี {{Lowercase:{{TermofEndearment}}}}!",
+			"marriage_beach3": "ผมเดิมผ่านบ้านหลังเก่า... น่าเสียดายนะ โครงสร้างมันก็ยังดีอยู่ แต่กลับไม่ได้ถูกใช้งาน$s#$b#ผมหวังว่าลินัส จะยอมรับขอเสนอ แล้วมาอยู่ที่นั่นแทน$s#$b#จริงของคุณ  {{Lowercase:{{TermofEndearment}}}} ผมรู้ว่าผมคงทำอะไรไม่ได้ คุณก็เตือนแล้วว่าเขาจะปฏิเสธ#$b#งั้นตั้งแต่นี้ไป ผมจะใช้มันเป็นที่เก็บของละกัน$h",
+			"marriage_nmpre": "ผมแต่งกลอนเกี่ยวกับคืนนี้ด้วย {{Lowercase:{{TermofEndearment}}}} อยากฟังมั้ย?#$b#'คืนส่องแสงระยิบระยับ ไฟพึ่บพั่บชวนหวั่นไหว$h#$b#ฉันไม่เศร้าเสียใจ ดูแสงไฟไม่ดับลง'$a#$b#แค่นี้แหละ",
+			"marriage_13": "ขอให้โชคดีในการออกล่านะครับ {{Lowercase:{{TermofEndearment}}}} ผมจะคอยเชียร์นะ$h#$b#เดี๋ยวผมตามไป",
+			"marriage_16": "ผมเห็นว่าคุณยุ่งสุดๆ การจัดแสดงสินค้าของคุณ จะต้องเลอเลิศแน่ๆ  {{Lowercase:{{TermofEndearment}}}}$h",
 		},
 		"When": {
                 	"TermofEndearment |contains=@": "false",
@@ -1031,12 +1031,12 @@
 		"Entries": {
 			"marriage_bus": "ไง วันนี้เป็นไงบ้างครับ {{TermofEndearment}}?#$b#บางครั้งบางคราว ผมก็จะออกไปเขียนอะไร ข้างนอกบ้างน่ะ หัวจะได้แล่นๆ$h",
 			"marriage_bus4": "\"There is no chance that we will fall apart...#$b#There is no chance. There are no parts.\"#$b#By June Jordan... Have a good day, {{TermofEndearment}}.",
-			"marriage_bus7": "\"จงสัญญากับตัวเอง ว่าจะต้องเข้มแข็ง อย่าให้มีสิ่งใด ทำให้จิตใจไม่เป็นสุข...#$b#To talk health, happiness, and prosperity to every person you meet...#$b#To make all your friends feel like there is something in them.\"$h#$b#By Christian Larson... I know you'll always do the right thing, {{TermofEndearment}}.",
+			"marriage_bus7": "\"จงสัญญากับตัวเอง ว่าจะต้องเข้มแข็ง อย่าให้มีสิ่งใด ทำให้จิตใจไม่เป็นสุข...#$b#จงบอกเล่าถึง ความสมบูรณ์ พูลสุข และความเจริญรุ่งเรือง แก่ผู้อื่นทุกคนที่ได้พบเจอ...#$b#ก็เพื่อให้เพื่อนพ้องของคุณทุกคน ได้รู้สึกว่าพวกเขาก็มีมันเช่นกัน\"$h#$b#โดย คริสเตียน ลาร์สัน... ผู้รู้ว่าคุณคงจะทำ สิ่งที่ถูกต้องเสมอ {{TermofEndearment}}",
 			"marriage_r2": "ผมจำรอยเท้าพวกนั้นได้ทุกที่$h#$b#สวัสดี {{TermofEndearment}}!",
-			"marriage_beach3": "ผมเดิมผ่านบ้านหลังเก่า... น่าเสียดายนะ โครงสร้างมันก็ยังดีอยู่ แต่กลับไม่ด้ถูกใช้งาน$s#$b#ผมหวังว่าลินัส จะยอมรับขอเสนอ แล้วมาอยู่ที่นั่นแทน$s#$b#ถูกของคุณ {{TermofEndearment}} ผมรู้ว่าผมคงทำอะไรไม่ได้ คุณก็เตือนแล้วว่าเขสจะปฏิเสธ#$b#งั้นตั้งแต่นี้ไป ผมจะใช้มันเป็นที่เก็บของละกัน$h",
+			"marriage_beach3": "ผมเดิมผ่านบ้านหลังเก่า... น่าเสียดายนะ โครงสร้างมันก็ยังดีอยู่ แต่กลับไม่ได้ถูกใช้งาน$s#$b#ผมหวังว่าลินัส จะยอมรับขอเสนอ แล้วมาอยู่ที่นั่นแทน$s#$b#จริงของคุณ {{TermofEndearment}} ผมรู้ว่าผมคงทำอะไรไม่ได้ คุณก็เตือนแล้วว่าเขาจะปฏิเสธ#$b#งั้นตั้งแต่นี้ไป ผมจะใช้มันเป็นที่เก็บของละกัน$h",
 			"marriage_nmpre": "ผมแต่งกลอนเกี่ยวกับคืนนี้ด้วย {{TermofEndearment}} อยากฟังมั้ย?#$b#'คืนส่องแสงระยิบระยับ ไฟพึ่บพั่บชวนหวั่นไหว$h#$b#ฉันไม่เศร้าเสียใจ ดูแสงไฟไม่ดับลง'$a#$b#แค่นี้แหละ",
 			"marriage_13": "ขอให้โชคดีในการออกล่านะครับ {{TermofEndearment}} ผมจะคอยเชียร์นะ$h#$b#เดี๋ยวผมตามไป",
-			"marriage_16": "I've seen what you've been up to. Your display is going to be marvelous, {{TermofEndearment}}.$h",
+			"marriage_16": "ผมเห็นว่าคุณยุ่งสุดๆ การจัดแสดงสินค้าของคุณ จะต้องเลอเลิศแน่ๆ {{TermofEndearment}}$h",
 		},
 		"When": {
               	 	"TermofEndearment": "@, BFF",
@@ -1058,7 +1058,7 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Elliott",
 		"Entries": {
-			"marriage_docafter": "ผมว่า ผมต้องไปอาบน้ำแล้วล่ะ...$s#$bคุย#คุณอยากจะ.. ช่วยอาบให้หรอ?$l",
+			"marriage_docafter": "ผมว่า ผมต้องไปอาบน้ำแล้วล่ะ...$s#$b#คุณอยากจะ.. ช่วยอาบให้หรอ?$l",
 		},
 		"When": {
               	 	"EnableAsexuality": "false",
