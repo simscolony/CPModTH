@@ -737,7 +737,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"Oh, @, look at you... I hurried over as soon as I heard you were injured!$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"You certainly seem better... You're not in too much pain, I hope?$2#$b#Even if you stand in front of me now, my heart cannot help but worry.$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"I'll give you two a moment together.\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"{{TermofEndearment}}, there are no words to express how relieved I am that you pulled through.#$b#In the moments when your condition remained unsure, I realized how much of myself I owed to you. I couldn't bear to ever lose you.#$b#I beg of you to be more careful next time, if only for the sake of our cherished friendship.$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"Dearest @, your topmost priority should be to recover your health for now. All else can wait.$2#$c 0.7#You hardly ever pause your work, so perhaps these unfortunate circumstances will give you good reason to rest.#$b#I've prepared you a meal, if you'd like. It'll give your body the energy it needs to bounce back from your ordeal. [237 241 203 204 220 244]\"",  
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 {{Spouse}} 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ใจเย็น เอาล่ะ... ช้าๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดี @ โล่งใจจัง ในที่สุดก็ฟื้นแล้ว#$b#มีคนพาคุณมาที่นี่ แบบหมดสติและบาดเจ็บสาหัส ผมต้องผ่าตัดฉุกเฉินให้คุณ!\"/speed {{Spouse}} 5/move {{Spouse}} 0 3 2/textAboveHead {{Spouse}} \"{0}!\"/emote farmer 16/move {{Spouse}} -1 0 2/faceDirection farmer 1/move Harvey 1 0 3/move {{Spouse}} 0 1 3/speak {{Spouse}} \"โอ้ @ ดูคุณสิ... ผมรีบมาเร็วที่สุด เท่าที่จะเร็วๆ ได้ ทันทีที่ได้ยินว่าคุณบาดเจ็บ!$2\"/emote farmer 60/pause 500/speak {{Spouse}} \"คุณดูดีขึ้นแล้ว... คุณคงจะไม่เจ็บมากใช่มั้ย หวังว่านะ?$2#$b#ถึงแม้ว่าคุณจะยืนอยู่ ตรงหน้าผมแบบนี้ก็ตาม หัวใจของผมก็ยัง หยุดความกังวลไม่ได้เลย$2\"/emote {{Spouse}} 40/pause 1500/emote farmer 28/pause 500/pause 500/speak Harvey \"ตอนนี้อาการคุณดีขึ้นแล้ว @ แต่ครั้งหน้า ขอให้ระวังมากกว่านี้นะครับ$2\"/pause 500/speak Harvey \"ผมจะให้เวลาส่วนตัว กับพวกคุณสักครู่ละกันครับ\"/pause 500/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/pause 500/faceDirection {{Spouse}} 3/speak {{Spouse}} \"{{TermofEndearment}} ไม่มีคำไหนที่ผมจะพรรณาถึง ความโล่งใจของผม ที่คุณสามารถผ่านพ้นมันมาได้#$b#ตอนขณะที่อาการของคุณยังไม่สู้ดี ผมตะหนักได้เลยว่า ตัวผมต้องการคุณมากขนาดได้ ผมคงทนไม่ได้ถ้าต้องเสียคุณไป#$b#ผมขอนะ คครั้งหน้าคุณต้องระวัง ให้มากกว่านี้ เพื่อมิตรภาพ อันน่าหวงแหนของเรา$2\"/faceDirection farmer 2/pause 1000/emote farmer 28/hospitaldeath/end dialogue {{Spouse}} \"สุดที่รัก @ สิ่งที่สำคัญที่สุดในตอนนี้ คือการให้คุณได้พักฟื้น และกลับมาหายดี อย่าอื่นพักไว้ก่อน$2#$c 0.7#คุณน่ะ แทบจะไม่เคยหยุดทำงานเลย เพราะงั้นบางที สถานการณ์เลวร้ายแบบนี้ อาจจะเป็นเรื่องดีให้คุณได้พัก#$b#ผมจะไปเตรียมอาหารให้ ถ้าคุณต้องการนะ มันจะได้ช่วยให้คุณ มีพลังงานกลับมาและปลดเปลื้องคุณ จากความเจ็บปวด [237 241 203 204 220 244]\"",  
             },
             "When": {
                 "Spouse": "Elliott",
@@ -752,7 +752,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-		        "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Harvey \"Since you were unconscious and unable to consent to the surgery, I had to call your {{SocialMenuLabel}} to explain the situation and get his consent instead.#$b#He was very worried for you, of course. #$b#Even said he would cancel his tour and return to Stardew Valley, although he agreed to hold off on that when I updated him on your condition after the surgery.\"/pause 500/speak Harvey \"Elliott was prepared to drop everything and return home to you...$2\"/pause 500/emote farmer 60/pause 1000/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/speak Harvey \"Well, if you're feeling alright, you can go home. Elliott said he would write you a letter soon, so keep an eye on your mail.\"/textAboveHead Harvey \"Take care!\"/move Harvey 1 0 0/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/emote farmer 40/pause 500/message \"I feel well enough to return home, but...\"/pause 1000/emote farmer 28/message \"At a time like this, I miss Elliott more than ever.\"/mail ElliottReactionHospital/hospitaldeath/end",
+		        "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ใจเย็น เอาล่ะ... ช้าๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดี @ โล่งใจจัง ในที่สุดก็ฟื้นแล้ว#$b#มีคนพาคุณมาที่นี่ แบบหมดสติและบาดเจ็บสาหัส ผมต้องผ่าตัดฉุกเฉินให้คุณ!\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Harvey \"เพราะว่าคุณไม่ได้สติ และไม่สามารถให้ ความยินยอมในการผ่าตัดได้ ผมก็เลยโทรหา {{SocialMenuLabel}}ของคุณ เพื่ออธิบายสถานการณ์และ ขอความยินยอมจากเขาแทน#$b#แน่นอนว่า เขาเป็นห่วงคุณมาก#$b#ขนาดที่ว่าเขายอมยกเลิกการทัวร์ และกลับมาที่สตาร์ดิวแวลลี ถึงแม้ว่า เขายอมที่จะไม่ยกเลิกแล้ว เมื่อผมได้อัพเดทอาการ ของคุณให้เขาทราบ หลังการผ่าตัดเสร็จสิ้น\"/pause 500/speak Harvey \"เอลเลียจพร้อมที่จะละทิ้งทุกอย่าง เพื่อกลับมาหาคุณ...$2\"/pause 500/emote farmer 60/pause 1000/speak Harvey \ตอนนี้อาการคุณดีขึ้นแล้ว @ แต่ครั้งหน้า ขอให้ระวังมากกว่านี้นะครับ$2\"/pause 500/speak Harvey \"เอาล่ะ ถ้าคุณรู้สึกดีขึ้นแล้ว คุณสามารถกลับบ้านได้ครับ เอลเลียตบอกว่า เขาจะเขียนจดหมายมาเร็วๆ นี้ คอยรอรับจดหมายด้วยนะครับ\"/textAboveHead Harvey \"ดูแลตัวเองด้วย!\"/move Harvey 1 0 0/move Harvey 0 -4 0/move Harvey -8 0 0 true/move Harvey 0 -1 0/move Harvey -4 0 0/move Harvey 0 -1 0/playSound doorClose/warp Harvey -100 -100/emote farmer 40/pause 500/message \"ฉันรู้สึกดีขึ้นแล้ว น่าจะกลับบ้านได้ แต่ว่า...\"/pause 1000/emote farmer 28/message \"ในเวลาแบบนี้ ฉันคิดถึงเอลเลียตยิ่งกว่าตอนไหนๆ\"/mail ElliottReactionHospital/hospitaldeath/end",
             },
             "When": {
                 "HasConversationtopic": "elliottGone",
@@ -766,7 +766,7 @@
             "Action": "EditData",
             "Target": "Data/Events/Hospital",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 Elliott 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"Easy, now... take it slow.\"/viewport 20 12 true/pause 1000/speak Harvey \"Hello @, I'm glad you're finally awake.#$b#Someone brought you back here unconscious and badly injured. I had to take you in for emergency surgery!\"/faceDirection farmer 1/emote farmer 16/pause 500/speak Harvey \"Your condition is much better now, @, but please be more careful next time.$2\"/pause 500/emote Harvey 40/pause 500/faceDirection Harvey 0/faceDirection Harvey 3/pause 500/speak Harvey \"You... have a visitor, by the way. They've been here since you went into surgery, and they were just waiting to talk to you.#$b#Just as it's their right to visit, though, it's also your right to refuse visitors. I'm a button-push away, if you need me.\"/move Harvey 1 0 1/move Harvey 0 -3 0/pause 1000/speak Harvey \"@ is ready to see you.#$b#It's not my place to get involved in private matters, but all I ask is that you remember that @ needs rest.#$b#...And you should think of your own wellbeing, too.$2\"/pause 500/speak Elliott \"Of course. Thank you for your impartial attitude, Doctor.$2\"/pause 500/textAboveHead Harvey \"Alright. Take care.\"/move Harvey -7 0 0 true/move Harvey 0 -4 0/warp Harvey -100 -100/move Elliott 0 4 3/emote farmer 16/faceDirection Elliott 3/pause 1000/speak Elliott \"Good. You seem to be better. It was all I needed to know in order to rest easy.$7#$b#...$2#$b#I hope my presence doesn't complicate things further. I just didn't want you to wake from near-death all alone.$2\"/emote farmer 16/pause 1000/speak Elliott \"This is not an apology, nor willingness to reforge our bond. Worrying for you is simply... a habit that my heart has yet to kick.$2#$b#I'll leave. It's best we don't continue this conversation. Be well, @.$2\"/pause 500/move Elliott 0 -4 0/move Elliott -8 0 0/move Elliott 0 -3 0/warp Elliott -100 -100/emote farmer 28/hospitaldeath/end dialogue Elliott \"Enough of this, @. I have no desire to talk to you. It was already hard enough to fear for you once more...$2#$b#Just like I still had enough respect to come support you, please have enough respect to leave me be.$2\"",
+                "PlayerKilled": "none/-100 -100/farmer 20 12 2 Harvey 21 12 3 Elliott 22 8 2/skippable/pause 1500/showFrame 5/message \"...{0}?\"/pause 1000/message \"ใจเย็น เอาล่ะ... ช้าๆ นะ\"/viewport 20 12 true/pause 1000/speak Harvey \"สวัสดี @ โล่งใจจัง ในที่สุดก็ฟื้นแล้ว#$b#มีคนพาคุณมาที่นี่ แบบหมดสติและบาดเจ็บสาหัส ผมต้องผ่าตัดฉุกเฉินให้คุณ!\"/faceDirection farmer 1/emote farmer 16/pause 500/speak Harvey \"ตอนนี้อาการคุณดีขึ้นแล้ว @ แต่ครั้งหน้า ขอให้ระวังมากกว่านี้นะครับ$2\"/pause 500/emote Harvey 40/pause 500/faceDirection Harvey 0/faceDirection Harvey 3/pause 500/speak Harvey \"คุณ ... มีคนมาเยี่ยมนะครับ ยังไงก็แล้วแต่ เขามาที่นี่ ตั้งแต่ตอนที่คุณ เข้ารับการผ่าตัด และเขายังรออยู่ เพื่อคุยกับคุณ#$b#ถึงว่ามันจะเป็นสิทธิ์ของเขา ที่อยากจะเยี่ยม ยังไงแล้วมันก็เป็นสิทธิ์ ของคุณเหมือนกัน ที่จะปฏิเสธไป ผมจะช่วยกันเขาออกไปก่อน ถ้าคุณต้องการนะครับ\"/move Harvey 1 0 1/move Harvey 0 -3 0/pause 1000/speak Harvey \"@ ยอมให้คุณเข้าไปได้ครับ#$b#อันที่จริง มันก็ใช่เรื่องของผม ที่จะเข้าไปยุ่มย่าม กับเรื่องส่วนตัวแบบนี้ แต่สิ่งเดียวที่ผม จะขอให้คุณจำไว้ก็คือ @ ต้องพักผ่อน#$b#...และควรก็ควรจะนึกถึง สภาพจิตใจของคุณด้วย$2\"/pause 500/speak Elliott \"แน่นอนครับ ขอบคุณสำหรับทัศนคติ ที่เป็นกลางของคุณหมอ$2\"/pause 500/textAboveHead Harvey \"ก็ได้ครับ ผมขอตัว\"/move Harvey -7 0 0 true/move Harvey 0 -4 0/warp Harvey -100 -100/move Elliott 0 4 3/emote farmer 16/faceDirection Elliott 3/pause 1000/speak Elliott \"ดีนะ คุณดีขึ้นแล้ว ผมก็แค่อยากมาดูแค่นี่แหละ จะได้พักผ่อนให้สบายใจสักที$7#$b#...$2#$b#ผมหวังว่า การปรากฏตัวของผม คงจะไม่ทำให้อะไร ยุ่งยากไปกว่าเดิม ผมก็แค่ไม่อยากให้คุณ ลืมตาตื่นจากสภาพเฉียดตาย โดยลำพัง$2\"/emote farmer 16/pause 1000/speak Elliott \"นี่ไม่ใช่การขอโทษ หรือการพยายามรื้อฟื้น ความสัมพันธ์หรอกนะ ที่เป็นห่วงนี่ก็เป็นเรื่องธรรมดา... นิสัยเก่าๆ ที่ใจยังตัดไม่ขาด$2#$b#ผมไปก่อนละกัน มันคงดีกว่าถ้าเรา ไม่ต่อความยาวสาวความยืด โชคดีล่ะ @$2\"/pause 500/move Elliott 0 -4 0/move Elliott -8 0 0/move Elliott 0 -3 0/warp Elliott -100 -100/emote farmer 28/hospitaldeath/end dialogue Elliott \"พอสักที @ ฉันไม่มีอารมณ์จะคุยกับคุณ ผมพอแล้วกับการต้องกลัว สิ่งที่คุณจะกระทำอีกครั้ง...$2#$b#ก็เหมือนที่ผมยังคงเคารพ และช่วยเหลือคุณอยู่ ดังนั้นกรุณาเคารพผม ให้ผมอยู่ของผมแบบนี้ด้วย$2\"",
             },        
             "When": {
                 "HasValue:{{Spouse}}": "false",
@@ -781,8 +781,8 @@
             "Action": "EditData",
             "Target": "Data/Mail",
             "Entries": {
-                 "ElliottReactionHospital": "Dearest @,^^Dr. Harvey contacted me yesterday to ask for surgical consent on your behalf while you were unresponsive, and has since updated me on your condition. I was ready to cancel my tour and return home at once, although he assured me that you would be fine.^{{TermofEndearment}}, I was truly frightened for you, but all I can do from so far away is ask you to be careful.^I miss you and wish I could have been with you when you needed me the most.^^All my love, your devoted {{SocialMenuLabel}} Elliott.[#]A Very Worried {{SocialMenuLabel}}",
-                 "ElliottReactionMine": "Dear @,^^Imagine my surprise when I received a letter from Marlon yesterday! He informed me that you'd collapsed in the mines, although I was relieved to know that your injuries were only minor.^Still, I wish I had been able to be by your side, even for such a tiny mishap. I will have a lot of doting to catch up on once I return home.^^Be safe, and I shall see you soon, my muse.^-Love, Elliott[#]A Worried {{SocialMenuLabel}}",
+                 "ElliottReactionHospital": "เพื่อนสุดที่รัก @^^หมอฮาร์วีย์ติดต่อผมมาเมื่อวานนี้ เพื่อขอความยินยอมในการผ่าตัดแทน ตอนที่คุณอยู่ในสภาวะไม่ได้สติ และได้อัพเดทอาการของคุณให้ผมรู้ ถึงเขาจะบอกว่า คุณไม่เป็นไรแล้วก็ตาม ผมยกเลิกการทัวร์ของผมแล้ว และจะกลับบ้านทันที^{{TermofEndearment}} ผมหวาดกลัวจากก้นบึ้งเรื่องคุณ แต่สิ่งที่ผมทำได้ จากที่ห่างไกลแบบนี้ ก็แค่บอกให้คุณระวังตัว^ผมคิดถึงคุณ และก็หวังว่าจะได้อยู่กับคุณ ในช่วงเวลาที่คุณต้องการ มากที่สุด^^ความรักทั้งหมดของผม ขออุทิศให้คุณ {{SocialMenuLabel}} เอลเลียต[#]กังวลเหลือเกิน {{SocialMenuLabel}}",
+                 "ElliottReactionMine": "ถึง @^^ลองจินตนาการทำ ความเตลิดเปิดเปิงของผม ตอนที่ได้รับจดหมายจากมาร์ลอนดูสิ! เขาแจ้งมาว่าคุณสลบในเหมือง ถึงแม้ผมจะรู้ว่าาคุณบาดเจ็บแค่นิดหน่อย^แต่ผมก็ยังคงปรารถนาที่จะได้อยู่ข้างคุณ ถึงแม้ว่าจะเป็นแค่เรื่องเล็กๆ น้อยๆ ก็ตาม ผมคงต้องกลับไปไล่เลียง เรื่องราวทั้งหมด ตอนที่ถึงบ้านแล้ว^^ขอให้ปลอดภัย แล้วผมจะรีบไปหา เทพแห่งกวีของผม^-ด้วยรัก เอลเลียต[#]กังวลเหลือเกิน {{SocialMenuLabel}}",
                  },
             "When": {
                 "HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
@@ -793,7 +793,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Oh dear! {{TermofEndearment}}, what in the world happened?$8#$b#You're, uh... How to put this... Looking a little scorched. And your hair is covered in cinders!$8#$b#It looks serious at first glance, but I'm relieved that you're alright. Be careful not to get hurt anymore, please.$2#$b#Moreover... Where did you even go to encounter such a fate?\"",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"โอ้ ตายจริง! {{TermofEndearment}} เกิดอะไรขึ้นละครับเนี่ย?$8#$b#คุณ เอ่อ... จะพูดยังไงล่ะเนี่ย... ดูเหมือนจะถูกเผามานิดหน่อย แล้วผมคุณก็มีแต่ขี้เถ้า!$8#$b#ตอนแรกมันดูสาหัสมาก แต่ผมก็โล่งใจที่คุณไม่เป็นไร ต้องระวังไม่ให้บาดเจ็บอีกนะครับ ขอร้องล่ะ$2#$b#เหนื่อสิ่งอื่นใด... คุณไปเจออะไรแบบนั้น ที่ไหนกันล่ะเนี่ย?\"",
    		    },
 		    "When": {
                 	"Spouse": "Elliott",
@@ -807,7 +807,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/message \"Good thing Elliott's not waiting at home. He'd be worried if he saw me like this...\"/minedeath/end",
+                 "PlayerKilled": "none/-100 -100/farmer 13 33 2 {0} 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak {0} {1}/showFrame 0/pause 1000/emote farmer 28/message \"โชคดีที่เอลเลียต ไม่ได้คอยอยู่ที่บ้าน... เขาคงจะเป็นห่วงมา ถ้าเห็นสารรูปฉันแบบนี้...\"/minedeath/end",
    		    },
 		    "When": {
                 	"Spouse": "Elliott",
@@ -821,7 +821,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"Oh, you're awake! That's good!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"That's right! If my bird friends hadn't found you, the spirits may have eaten you like we eat Golden Walnuts.$1#$b#But my friends say you will be okay. Just be more careful the next time, yeah?\"/pause 500/message \"I'm going to get a worried look if I go home like this...\"/pause 500/emote farmer 40/message \"I definitely look worse than I feel, though. That's reassuring.\"/pause 500/speak Leo \"Really, though... Maybe you should wash in the river.#$b#Falling asleep on hot rocks is not good for you. You look like a coconut left too long on the fire.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"Oh dear! {{TermofEndearment}}, what in the world happened?$8#$b#You're, uh... How to put this... Looking a little scorched. And your hair is covered in cinders!$8#$b#It looks serious at first glance, but I'm relieved that you're alright. Be careful not to get hurt anymore, please.$2#$b#Moreover... Where did you even go to encounter such a fate?\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"โอ้ คุณตื่นแล้ว! ยอดเลย!#$b#เพื่อนนกของผม เจอคุณที่ภูเขาไฟ พวกเขาบอกว่า วิญญาณแห่งไฟไม่พอใจคุณ และพยายามจะจับคุณ ทำเป็นอาหารด้วย#$b#แต่เพื่อนผมห้าม วิญญาณแห่งไฟได้ทัน แล้วก็พาคุณมาที่นี่!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"ใช่แล้ว! ถ้าเพื่อนนกของผมไม่เจอคุณ วิญญาณแห่งไฟคงจะกินคุณ เหมือนกันที่เรากิน ลูกวอลนัททองคำไปแล้ว$1#$b#แต่เพื่อนผมบอกว่า คุณไม่เป็นไรแล้วล่ะ แต่ครั้งหน้าต้องระวังด้วยล่ะ นะ?\"/pause 500/message \"ถ้าฉันกลับบ้านด้วย สารรูปแบบนี้ คงดูน่าเป็นห่วงแน่ๆ...\"/pause 500/emote farmer 40/message \"สภาพฉันดูแย่กว่าที่เป็นอยู่อีก แต่ยังไงก็โล่งไปที\"/pause 500/speak Leo \"จริงๆ แล้ว... คุณน่าจะไปล้างตัวที่แม่น้ำนะ#$b#สลบบนหินร้อยๆ มันไม่ดีต่อร่างกายหรอก คุณดูยังกับมะพร้าวเผา ที่อยู่ในกองไฟนานเกินไป$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"โอ้ ตายจริง! {{TermofEndearment}} เกิดอะไรขึ้นละครับเนี่ย?$8#$b#คุณ เอ่อ... จะพูดยังไงล่ะเนี่ย... ดูเหมือนจะถูกเผามานิดหน่อย แล้วผมคุณก็มีแต่ขี้เถ้า!$8#$b#ตอนแรกมันดูสาหัสมาก แต่ผมก็โล่งใจที่คุณไม่เป็นไร ต้องระวังไม่ให้บาดเจ็บอีกนะครับ ขอร้องล่ะ$2#$b#เหนื่อสิ่งอื่นใด... คุณไปเจออะไรแบบนั้น ที่ไหนกันล่ะเนี่ย?\"",
     		},
 		    "When": {
 		        "HasFlag": "addedParrotBoy",
@@ -836,7 +836,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"Oh, you're awake! That's good!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"That's right! If my bird friends hadn't found you, the spirits may have eaten you like we eat Golden Walnuts.$1#$b#But my friends say you will be okay. Just be more careful the next time, yeah?\"/pause 500/message \"I'm going to get a worried look if I go home like this...\"/pause 500/emote farmer 40/message \"I definitely look worse than I feel, though. That's reassuring.\"/pause 500/speak Leo \"Really, though... Maybe you should wash in the river.#$b#Falling asleep on hot rocks is not good for you. You look like a coconut left too long on the fire.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"Oh dear! {{TermofEndearment}}, what in the world happened?$8#$b#You're, uh... How to put this... Looking a little scorched. And your hair is covered in cinders!$8#$b#It looks serious at first glance, but I'm relieved that you're alright. Be careful not to get hurt anymore, please.$2#$b#Moreover... Where did you even go to encounter such a fate?\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"โอ้ คุณตื่นแล้ว! ยอดเลย!#$b#เพื่อนนกของผม เจอคุณที่ภูเขาไฟ พวกเขาบอกว่า วิญญาณแห่งไฟไม่พอใจคุณ และพยายามจะจับคุณ ทำเป็นอาหารด้วย#$b#แต่เพื่อนผมห้าม วิญญาณแห่งไฟได้ทัน แล้วก็พาคุณมาที่นี่!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"ใช่แล้ว! ถ้าเพื่อนนกของผมไม่เจอคุณ วิญญาณแห่งไฟคงจะกินคุณ เหมือนกันที่เรากิน ลูกวอลนัททองคำไปแล้ว$1#$b#แต่เพื่อนผมบอกว่า คุณไม่เป็นไรแล้วล่ะ แต่ครั้งหน้าต้องระวังด้วยล่ะ นะ?\"/pause 500/message \"ถ้าฉันกลับบ้านด้วย สารรูปแบบนี้ คงดูน่าเป็นห่วงแน่ๆ...\"/pause 500/emote farmer 40/message \"สภาพฉันดูแย่กว่าที่เป็นอยู่อีก แต่ยังไงก็โล่งไปที\"/pause 500/speak Leo \"จริงๆ แล้ว... คุณน่าจะไปล้างตัวที่แม่น้ำนะ#$b#สลบบนหินร้อยๆ มันไม่ดีต่อร่างกายหรอก คุณดูยังกับมะพร้าวเผา ที่อยู่ในกองไฟนานเกินไป$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end dialogue {{Spouse}} \"โอ้ ตายจริง! {{TermofEndearment}} เกิดอะไรขึ้นละครับเนี่ย?$8#$b#คุณ เอ่อ... จะพูดยังไงล่ะเนี่ย... ดูเหมือนจะถูกเผามานิดหน่อย แล้วผมคุณก็มีแต่ขี้เถ้า!$8#$b#ตอนแรกมันดูสาหัสมาก แต่ผมก็โล่งใจที่คุณไม่เป็นไร ต้องระวังไม่ให้บาดเจ็บอีกนะครับ ขอร้องล่ะ$2#$b#เหนื่อสิ่งอื่นใด... คุณไปเจออะไรแบบนั้น ที่ไหนกันล่ะเนี่ย?\"",
     		},
 		    "When": {
 		        "HasFlag": "addedParrotBoy",
@@ -851,7 +851,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"Oh, you're awake! That's good!#$b#My bird friends found you in the volcano. They say the fire spirits were not happy with you and tried to cook you like food.#$b#But my friends stopped the spirits in time, and brought you here!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"That's right! If my bird friends hadn't found you, the spirits may have eaten you like we eat Golden Walnuts.$1#$b#But my friends say you will be okay. Just be more careful the next time, yeah?\"/pause 500/message \"Good thing Elliott's not waiting at home... He'd be worried if he saw me like this.\"/pause 500/emote farmer 40/message \"I definitely look worse than I feel, though. That's reassuring.\"/pause 500/speak Leo \"Really, though... Maybe you should wash in the river.#$b#Falling asleep on hot rocks is not good for you. You look like a coconut left too long on the fire.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Leo 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" ...!\"/playSound parrot_squawk/pause 500/viewport 13 33 clamp true/pause 1000/speak Leo \"โอ้ คุณตื่นแล้ว! ยอดเลย!#$b#เพื่อนนกของผม เจอคุณที่ภูเขาไฟ พวกเขาบอกว่า วิญญาณแห่งไฟไม่พอใจคุณ และพยายามจะจับคุณ ทำเป็นอาหารด้วย#$b#แต่เพื่อนผมห้าม วิญญาณแห่งไฟได้ทัน แล้วก็พาคุณมาที่นี่!$1\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Leo \"ใช่แล้ว! ถ้าเพื่อนนกของผมไม่เจอคุณ วิญญาณแห่งไฟคงจะกินคุณ เหมือนกันที่เรากิน ลูกวอลนัททองคำไปแล้ว$1#$b#แต่เพื่อนผมบอกว่า คุณไม่เป็นไรแล้วล่ะ แต่ครั้งหน้าต้องระวังด้วยล่ะ นะ?\"/pause 500/message \"โชคดีที่เอลเลียต ไม่ได้คอยอยู่ที่บ้าน... เขาคงจะเป็นห่วงมา ถ้าเห็นสารรูปฉันแบบนี้\"/pause 500/emote farmer 40/message \"สภาพฉันดูแย่กว่าที่เป็นอยู่อีก แต่ยังไงก็โล่งไปที\"/pause 500/speak Leo \"จริงๆ แล้ว... คุณน่าจะไปล้างตัวที่แม่น้ำนะ#$b#สลบบนหินร้อยๆ มันไม่ดีต่อร่างกายหรอก คุณดูยังกับมะพร้าวเผา ที่อยู่ในกองไฟนานเกินไป$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 12/minedeath/end",
     		},
 		    "When": {
 		        "HasFlag": "addedParrotBoy",
@@ -866,7 +866,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash. I hope you don't give your {{SocialMenuLabel}} a fright when you return home.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"Oh dear! {{TermofEndearment}}, what in the world happened?$8#$b#You're, uh... How to put this... Looking a little scorched. And your hair is covered in cinders!$8#$b#It looks serious at first glance, but I'm relieved that you're alright. Be careful not to get hurt anymore, please.$2#$b#Moreover... Where did you even go to encounter such a fate?\"",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เป็นอะไรรึเปล่า? ฉันเห็นเธอ นอนหน้าคว่ำจมทรายอยู่นี่ ชั่วครู่นึง ฉันนึกว่าจะเกิดเรื่องเลวร้าย ขึ้นซะแล้ว\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"เธอต้องระวังตัวไว้ เวลาจะเข้าไปในภูเขาไฟนั่น#$b#เพราะเจ้าหนูลีโอ ย้ายไปอยู่สตาร์ดิวแวลลีย์แล้ว มันแทบจะไม่มีโอกาส ที่จะมีใครไปหาเจอเธอได้ หากเธอบาดเจ็บ#$b#อา... เสื้อผ้าเธอเละเทะ ตัวก็เปื้อนขี้เถ้าไปหมดเลย หวังว่าเธอจะไม่ทำให้ {{SocialMenuLabel}} ช๊อกไปซะก่อน ตอนกลับถึงบ้านนะ$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end dialogue {{Spouse}} \"โอ้ ตายจริง! {{TermofEndearment}} เกิดอะไรขึ้นละครับเนี่ย?$8#$b#คุณ เอ่อ... จะพูดยังไงล่ะเนี่ย... ดูเหมือนจะถูกเผามานิดหน่อย แล้วผมคุณก็มีแต่ขี้เถ้า!$8#$b#ตอนแรกมันดูสาหัสมาก แต่ผมก็โล่งใจที่คุณไม่เป็นไร ต้องระวังไม่ให้บาดเจ็บอีกนะครับ ขอร้องล่ะ$2#$b#เหนื่อสิ่งอื่นใด... คุณไปเจออะไรแบบนั้น ที่ไหนกันล่ะเนี่ย?\"",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -881,7 +881,7 @@
             "Action": "EditData",
             "Target": "Data/Events/IslandSouth",
             "Entries": {
-                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2}, wake up!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"Are you alright? I found you face-down on the sand here and feared the worst for a moment.\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"You should be careful when venturing in that volcano there.#$b#With that boy Leo now gone to Stardew Valley, there's much less chance of anyone finding you if you're hurt.#$b#Ah... Your clothes are singed badly and you're smeared in ash.#$b#I hope you don't give your {{SocialMenuLabel}} a fright when you return home... Oh, Elliott's out of town, isn't he? Lucky, that.$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end",
+                "PlayerKilled": "none/-100 -100/farmer 13 33 2 Willy 15 33 3/pause 1500/showFrame 5/message \" ...{2}?\"/pause 1000/message \" {2} ตื่นสิ!\"/viewport 13 33 clamp true/pause 1000/speak Willy \"เป็นอะไรรึเปล่า? ฉันเห็นเธอ นอนหน้าคว่ำจมทรายอยู่นี่ ชั่วครู่นึง ฉันนึกว่าจะเกิดเรื่องเลวร้าย ขึ้นซะแล้ว\"/emote farmer 16/faceDirection farmer 1/pause 500/speak Willy \"เธอต้องระวังตัวไว้ เวลาจะเข้าไปในภูเขาไฟนั่น#$b#เพราะเจ้าหนูลีโอ ย้ายไปอยู่สตาร์ดิวแวลลีย์แล้ว มันแทบจะไม่มีโอกาส ที่จะมีใครไปหาเจอเธอได้ หากเธอบาดเจ็บ#$b#อา... เสื้อผ้าเธอเละเทะ ตัวก็เปื้อนขี้เถ้าไปหมดเลย หวังว่าเธอจะไม่ทำให้ {{SocialMenuLabel}} ช๊อกไปซะก่อน ตอนกลับถึงบ้านนะ... โอ้ ตอนนี้เอลเลียต ออกไปนอกหมู่บ้าน ใช่มั้ยเนี่ย? โชคดีแล้ว$1\"/faceDirection farmer 2/showFrame 0/pause 1000/emote farmer 28/minedeath/end",
    		    },
 		    "When": {
 		        "HasFlag": "leoMoved",
@@ -897,8 +897,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueElliott",
 		"Entries": {
-			"funLeave_Elliott": "#$c .5#{{TermofEndearment}}, how are you? Did you sleep well?#I wrote some more poetry this morning. I'll share it with you sometime.$h#$e#$c .5#We appear to be running low on groceries. I'll stop by Pierre's later today.#I know Mondays can get busy, so don't overwork yourself, my friend.",
-			"funReturn_Elliott": "#$c .5#Hey... I'm very proud of everything you've done today. You've worked hard.#My day was nothing special, my friend.#$e#$c .7#Let's continue the book I was reading for you before bed.#Tonight marks the thrilling conclusion of our book! I hope you're just as excited as I am.$h"
+			"funLeave_Elliott": "#$c .5#{{TermofEndearment}} คุณเป็นไงบ้าง? หลับสบายมั้ยครับ?#เมื่อเช้านี้ผมแต่งกลอนไว้ด้วย ถ้ามีโอกาส ผมจะให้คุณดู$h#$e#$c .5#เสบียงของเราใกล้จะหมดแล้ว งั้นเดี๋ยววันนี้ ผมค่อยแวะร้านปิแอร์#ผู้รู้ว่าวันจันทร์จะยุ่งมาก อยากหักโหมเกินไปล่ะ เพื่อน",
+			"funReturn_Elliott": "#$c .5#ไงครับ... ผมภูมิใจกับทุกๆ สิ่ง ที่คุณได้ทำในวันนี้นะ คุณทำงานหนักจริงๆ#วันนี้ของผม ไม่มีอะไรเป็นพิเศษหรอกครับ เพื่อน#$e#$c .7#คืนนี้เรามาอ่านหนังสืนกันต่อ ก่อนเข้านอนกันเถอะ#คืนนี้จะเป็นบทสรุปอันน่าตื่นเต้น ในหนังสือของเรา! ผมว่าคุณต้องตื่นเต้นเหมือนผม$h"
 		},
 		"When": {
 			"DayOfWeek": "Monday",
@@ -909,8 +909,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueElliott",
 		"Entries": {
-			"funLeave_Elliott": "#$c .5#Good morning. It is an amazing feeling, no longer waking to an empty house.#Hello, @. Waking up to silence instead of seagulls is an absolute wonder, is it not?#$e#This life with you... It is truly a life anyone would seek.$h#$b#Stay safe today. I love you, my dearest friend.$l",
-			"funReturn_Elliott": "#$c .5#Welcome back. You must be starving. Don't worry, I have just the thing for you. Enjoy.[213 212 244 198 214]#You look tired, @. Do you need me to bring you anything?$h#$e#You should get some rest soon."
+			"funLeave_Elliott": "#$c .5#อรุณสวสัดิ์ เป็นความรู้สึกที่รื่นเริงจัง การไม่ต้องเดินในบ้าน ที่ว่างเปล่าอีกต่อไป#หวัดดี @ การตื่นนอนมาแบบเงียบสงบ ไม่ต้องเจอนกนางนวล ก็แปลกดีนะว่ามั้ย?#$e#ชีวิตที่มีคุณ... คงจะเป็นชีวิตที่ใครๆ ก็แสวงหา$h#$b#ขอให้ปลอดภัยนะครับ ผมรักคุณ เพื่อนรักของผม$l",
+			"funReturn_Elliott": "#$c .5#ยินดีต้อนรับกลับบ้าน คุณคงจะหิวน่าดู ไม่ต้องห่วง ผมเตรียมไว้ให้แล้ว ขอให้อร่อย [213 212 244 198 214]#คุณดูเหนื่อยจัง @ คุณอยากให้ผม เอาอะไรมาให้มั้ย?$h#$e#คุณต้องพักผ่อนได้แล้ว"
 		},
 		"When": {
 			"DayOfWeek": "Wednesday",
@@ -921,8 +921,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueElliott",
 		"Entries": {
-			"funLeave_Elliott": "#$c .5#What are you up to today, my muse? I think I've read enough literature this week.#I made us some breakfast, dearest @. Here you are.[194 195 211 201 241]#$e#$c .5#I'll be down at the beach today. It's always nice to see the ocean again.#I'll be using this day to relax. Make sure you do the same sometime.",
-			"funReturn_Elliott": "#$c .5#Sorry I'm home late. But I bought some fresh fish from Willy today, I'll cook you dinner sometime to make up for it.#Oh! You frightened me, @. I'm surprised you're still up at this hour.$8#$e#Would you like to continue our book tonight? Is that why you were waiting for me?"
+			"funLeave_Elliott": "#$c .5#คุณทำอะไรอยู่ครับ เทพแห่งกวีของผม? ผมว่าอาทิตย์นี้ ผมอ่านวรรณกรรมมากพอแล้ว#ผมเตรียมอาหารเช้าไว้แล้วล่ะ สุดที่รัก @ เอานี่ [194 195 211 201 241]#$e#$c .5#วันนี้ผมจะไปที่ชายหาดสักหน่อย การได้เห็นทะเลอีกครังมันดีนะ#ผมจะใช้วันนี้ไปกับหารผ่อนคลาย คุณก็ต้องทำแบบนี้เหมือนกันบ้างนะ",
+			"funReturn_Elliott": "#$c .5#ขอโทษที่กลับมาช้านะ แต่ผมมีปลาสดๆ จากวิลลี่มาด้วย ผมจะทำอาหารเย็นให้คุณ เป็นการชดเชยให้นะ#โอ้! คุณทำผมตกใจหมดเลย @ แปลกจัง ป่านนี้แล้วคุณยังไม่นอนอีก$8#$e#คืนนี้คุณอยากจะ อ่านหนังสือต่อมั้ย? ก็คุณรอผมเพราะเรื่องนี้ ไม่ใช่หรอ?"
 		},
 		"When": {
 			"DayOfWeek": "Friday",
@@ -933,8 +933,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueElliott",
 		"Entries": {
-			"funLeave_Elliott": "#$c .5#Good morning. It's time for another day.$h#Ah, you're awake. Did you sleep well?$h#$e#$c .5#The library is usually unoccupied on Sundays so that's where I'll be today.#I'll be out in town today. You know where to find me, my friend.",
-			"funReturn_Elliott": "#$c .5#I'm just sipping on some water. I didn't drink much at the saloon but I'd prefer not to take any chances.#@! You have an absolutely inspiring energy about you tonight!$h#$e#Are you ready to get some rest? Or do you still need to attend to the farm?#$b#If so, be careful, it's hard to see out in the dark.$h"
+			"funLeave_Elliott": "#$c .5#อรุณสวัสดิ์ ได้เวลาเริ่มวันใหม่แล้ว$h#อ้าว คุณตื่นแล้วหรอ หลับสบายมั้ย?$h#$e#$c .5#วันอาทิตย์ ห้องสมุดคนไม่ค่อยเยอะ เพราะงั้นวันนี้ผมจะอยู่ที่นั่น#วันนี้ผมจะเข้าเมืองซะหน่อย คุณรู้นะ ว่าจะหาผมเจอได้ที่ไหน เพื่อนรัก",
+			"funReturn_Elliott": "#$c .5#ผมแค่จิบๆ น้ำนิดหน่อยเอง ผมไม่ค่อยดื่มหนักที่ซาลูนหรอก เอาจริงๆ ผมเลือกที่จะไม่เสี่ยงดีกว่า#@! คืนนี้คุณดูมีพลัง แห่งแรงบัลดาลใจนะ!$h#$e#คุณเตรียมตัวนอนแล้วรึยัง? หรือว่าคุณยังอยากจะ อยู่ในฟาร์มต่อ?#$b#ถ้างั้นระวังตัวด้วยนะ มืดๆ มันมองอะไรไม่ค่อยเห็นนะ$h"
 		},
 		"When": {
 			"DayOfWeek": "Sunday",
@@ -945,7 +945,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueElliott",
 		"Entries": {
-			"summer_9": "I have to visit Dr. Harvey today, {{Lowercase:{{TermofEndearment}}}}.#$b#Don't worry about me.$h"
+			"summer_9": "วันนี้ผมต้องไปหา คุณหมอฮาร์วีย์น่ะ {{Lowercase:{{TermofEndearment}}}}#$b#ไม่ต้องเป็นห่วงนะ$h"
 		},
 		"When": {
                 	"TermofEndearment |contains=@": "false",
@@ -957,7 +957,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/MarriageDialogueElliott",
 		"Entries": {
-			"summer_9": "I have to visit Dr. Harvey today, {{TermofEndearment}}.#$b#Don't worry about me.$h"
+			"summer_9": "วันนี้ผมต้องไปหา คุณหมอฮาร์วีย์น่ะ {{TermofEndearment}}#$b#ไม่ต้องเป็นห่วงนะ$h"
 		},
 		"When": {
                  	"TermofEndearment": "@, BFF",
@@ -968,15 +968,15 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Elliott",
 		"Entries": {
-			"marriage_bus2": "\"Love one another, but make not a bond of love:#$b#Let it rather be a moving sea between the shores of your souls.\"#$b#By Khalil Gibran... Have a good day, my dearest friend.",
-			"marriage_bus3": "\"This poem is endless...#$b#the odds against us are endless...#$b#our chances of being alive together statistically nonexistent...#$b#still we have made it.$l\"#$b#By Lisel Mueller... Have a good day, my cherished companion.",
-			"marriage_bus6": "\"You do not have to be good...#$b#You do not have to walk on your knees for a hundred miles through the desert repenting...#$b#You only have to let the soft animal of your body love what it loves.\"#$b#Have a good day, my muse.",
-			"marriage_bus8": "\"Dance as though no one is watching you...#$b#Love as though you have never been hurt before...$s#$b#Sing as though no one can hear you...$h#$b#Live as though heaven is here on earth.\"#$b#Have a good day, my friend.$h",
-			"marriage_bridge2": "Have you been working hard, my friend?#$b#Of course you have, why do I even ask?$h",
-			"marriage_beach": "The beach is quite relaxing at this hour, don't you think?",
-			"marriage_leah": "Leah looked lonely tonight, so I figured I'd catch up with an old friend.$h#$b#I'll be home soon.",
-			"marriage_nm": "It's a beautiful night, isn't it?#$b#The sky is truly sight to behold.$h",
-			"marriage_25": "There you are, my friend. I wanted to go in together.#$b#There's not much to do when you're early, speaking from experience, of course.$h",
+			"marriage_bus2": "\"จงรักกัน แต่อย่าทำให้ความรัก เป็นพันธะผูกพัน แต่ควรให้ความรัก เป็นเหมือนทะเลที่เคลื่อนไหว ระหว่างชายฝั่ง แห่งหัวใจของพวกคุณ\"#$b#โดย คาลิล จุบราน... ขอให้มีวันที่ดี เพื่อนสุดที่รักของผม",
+			"marriage_bus3": "\"ขับกลอนไม่รู้จบ...#$b#ชะตาสองเราไม่เคยพบ...#$b#ไร้โอกาสอยู่เคียงทั้งโลกมโนและสัตย์จริง...#$b#แต่กระนั้นเราก็ทำได้$h\"#$b#โดย ลิเซล มูเอลเลอร์... ขอให้มีวันที่ดี เพื่อนที่แสนหวงแหนของผม",
+			"marriage_bus6": "\"คุณไม่จำเป็นต้องดีที่สุด...#$b#คุณไม่จำเป็นต้องคลานเข่าเป็น 100 ไมล์ผ่านทะเลทรายเพื่อสำนึกผิด...#$b#เธอเพียงต้องปล่อยให้ สัตว์อ่อนโยนในกายเธอ รักในสิ่งที่มันรัก\"#$b#ขอให้มีวันที่ดี เทพแห่งกวีของผม",
+			"marriage_bus8": "\"เต้น ให้เหมือนว่า ไม่มีใครมองอยู่...#$b#รัก ให้เหมือนว่า ไม่เคยเจ็บปวดมาก่อน...$s#$b#ร้องเพลง ให้เหมือนว่า ไม่มีใครได้ยิน...$h#$b#จงมีชีวิตอยู่ ให้เหมือนว่า ได้อยู่ในสวรรค์บนดิน\"#$b#ขอให้มีวันที่ดี เพื่อน$h",
+			"marriage_bridge2": "คุณเคยทำงานหนักมั้ยครับ เพื่อน?#$b#แน่สิ คุณต้องเคยอยู่แล้ว ผมจะถามทำไมละเนี่ย?$h",
+			"marriage_beach": "ทะเลในยามนี้ ช่างชวนผ่อนคลาย คุณไม่คิดเหมือนกันหรอ",
+			"marriage_leah": "คืนนี้ลีอาดูเหงาๆ ผมคงต้องไปพบปะ เพื่อนเก่าซะหน่อย$h#$b#อีกเดี๋ยวผมก็กลับแล้ว",
+			"marriage_nm": "เป็นค่ำคืนที่ดงามนะ ว่ามั้ย?#$b#ท้องฟ้าชวนสะกดสายตา$h",
+			"marriage_25": "อยู่นี่เองหรอ เพื่อนรัก ผมก็อยากไปด้วยกันกับคุณนะ#$b#แต่ถ้าคุณตื่นเช้าแบบนี้ คงไม่เหลืออะไรให้ทำแล้ว นี่พูดจาก ประสบการณ์ตรงเลยนะ$h",
 		},
 		"When": {
                  	"UseLovePortraits": "true",
@@ -987,19 +987,19 @@
 		"Action": "EditData",
 		"Target": "Strings/schedules/Elliott",
 		"Entries": {
-			"marriage_bus2": "\"Love one another, but make not a bond of love:#$b#Let it rather be a moving sea between the shores of your souls.\"#$b#By Khalil Gibran... Have a good day, my dearest friend.",
-			"marriage_bus3": "\"This poem is endless...#$b#the odds against us are endless...#$b#our chances of being alive together statistically nonexistent...#$b#still we have made it.$h\"#$b#By Lisel Mueller... Have a good day, my cherished companion.",
-			"marriage_bus6": "\"You do not have to be good...#$b#You do not have to walk on your knees for a hundred miles through the desert repenting...#$b#You only have to let the soft animal of your body love what it loves.\"#$b#Have a good day, my muse.",
-			"marriage_bus8": "\"Dance as though no one is watching you...#$b#Love as though you have never been hurt before...$s#$b#Sing as though no one can hear you...$h#$b#Live as though heaven is here on earth.\"#$b#Have a good day, my friend.$h",
-			"marriage_bridge2": "Have you been working hard, my friend?#$b#Of course you have, why do I even ask?$h",
-			"marriage_beach": "The beach is quite relaxing at this hour, don't you think?",
-			"marriage_leah": "Leah looked lonely tonight, so I figured I'd catch up with an old friend.$h#$b#I'll be home soon.",
-			"marriage_nm": "It's a beautiful night, isn't it?#$b#The sky is truly sight to behold.$h",
-			"marriage_25": "There you are, my friend. I wanted to go in together.#$b#There's not much to do when you're early, speaking from experience, of course.$h",
-			"marriage_bus9": "Are you done at the farm already, @?#$b#I wanted to say, I'm very proud of everything you've accomplished.",
-			"marriage_bridge": "I've been reflecting on how things have turned out.#$b#...I'm happy.$h",
-			"marriage_bridge3": "Ah, @! Just as I was starting to get lonely.",
-			"marriage_nmpre2": "Yes, don't worry, I haven't forgotten.#$b#There's still some time left before it opens, best to finish any duties you have now.$h#$b#If you are done, then please, join me.",
+			"marriage_bus2": "\"จงรักกัน แต่อย่าทำให้ความรัก เป็นพันธะผูกพัน แต่ควรให้ความรัก เป็นเหมือนทะเลที่เคลื่อนไหว ระหว่างชายฝั่ง แห่งหัวใจของพวกคุณ\"#$b#โดย คาลิล จุบราน... ขอให้มีวันที่ดี เพื่อนสุดที่รักของผม",
+			"marriage_bus3": "\"ขับกลอนไม่รู้จบ...#$b#ชะตาสองเราไม่เคยพบ...#$b#ไร้โอกาสอยู่เคียงทั้งโลกมโนและสัตย์จริง...#$b#แต่กระนั้นเราก็ทำได้$h\"#$b#โดย ลิเซล มูเอลเลอร์... ขอให้มีวันที่ดี เพื่อนที่แสนหวงแหนของผม",
+			"marriage_bus6": "\"คุณไม่จำเป็นต้องดีที่สุด...#$b#คุณไม่จำเป็นต้องคลานเข่าเป็น 100 ไมล์ผ่านทะเลทรายเพื่อสำนึกผิด...#$b#เธอเพียงต้องปล่อยให้ สัตว์อ่อนโยนในกายเธอ รักในสิ่งที่มันรัก\"#$b#ขอให้มีวันที่ดี เทพแห่งกวีของผม",
+			"marriage_bus8": "\"เต้น ให้เหมือนว่า ไม่มีใครมองอยู่...#$b#รัก ให้เหมือนว่า ไม่เคยเจ็บปวดมาก่อน...$s#$b#ร้องเพลง ให้เหมือนว่า ไม่มีใครได้ยิน...$h#$b#จงมีชีวิตอยู่ ให้เหมือนว่า ได้อยู่ในสวรรค์บนดิน\"#$b#ขอให้มีวันที่ดี เพื่อน$h",
+			"marriage_bridge2": "คุณเคยทำงานหนักมั้ยครับ เพื่อน?#$b#แน่สิ คุณต้องเคยอยู่แล้ว ผมจะถามทำไมละเนี่ย?$h",
+			"marriage_beach": "ทะเลในยามนี้ ช่างชวนผ่อนคลาย คุณไม่คิดเหมือนกันหรอ?",
+			"marriage_leah": "คืนนี้ลีอาดูเหงาๆ ผมคงต้องไปพบปะ เพื่อนเก่าซะหน่อย$h#$b#อีกเดี๋ยวผมก็กลับแล้ว",
+			"marriage_nm": "เป็นค่ำคืนที่ดงามนะ ว่ามั้ย?#$b#ท้องฟ้าชวนสะกดสายตา$h",
+			"marriage_25": "อยู่นี่เองหรอ เพื่อนรัก ผมก็อยากไปด้วยกันกับคุณนะ#$b#แต่ถ้าคุณตื่นเช้าแบบนี้ คงไม่เหลืออะไรให้ทำแล้ว นี่พูดจาก ประสบการณ์ตรงเลยนะ$h",
+			"marriage_bus9": "งานในฟาร์มเสร็จแล้วหรอครับ @?#$b#ผมอยากจะพูดว่า ผมภูมิใจความสำเร็จทุกอย่าง ที่คุณทำ",
+			"marriage_bridge": "ผมได้ไตร่ตรองดู ถึงสิ่งต่างๆ ที่เกิดขึ้น#$b#...ผมมีความสุขจัง$h",
+			"marriage_bridge3": "อ้อ @! ผมแค่เริ่มจะเหงาๆ น่ะ",
+			"marriage_nmpre2": "อ้อ ไม่ต้องห่วง ผมไม่ลืมหรอก#$b#ยังพอมีเวลาอยู่ ก่อนที่ร้านจะเปิด ทำภารกิจของคุณให้เสร็จก่อน น่าจะดีกว่านะ$h#$b#ถ้าคุณเสร็จแล้ว ค่อยมาร่วมวงกับผม",
 		},
 		"When": {
                  	"UseLovePortraits": "false",
@@ -1011,7 +1011,7 @@
 		"Target": "Strings/schedules/Elliott",
 		"Entries": {
 			"marriage_bus": "ไง วันนี้เป็นไงบ้างครับ {{Lowercase:{{TermofEndearment}}}}?#$b#บางครั้งบางคราว ผมก็จะออกไปเขียนอะไร ข้างนอกบ้างน่ะ หัวจะได้แล่นๆ$h",
-			"marriage_bus4": "\"There is no chance that we will fall apart...#$b#There is no chance. There are no parts.\"#$b#By June Jordan... Have a good day, {{Lowercase:{{TermofEndearment}}}}.",
+			"marriage_bus4": "\"เราจะไม่มีวันพรากออกจากกัน...#$b#จะไม่มีวัน เพราะเราเป็นหนึ่งเดียวกัน\"#$b#โดย จูน จอร์แดน... ขอให้มีวันที่ดี {{Lowercase:{{TermofEndearment}}}}",
 			"marriage_bus7": "\"จงสัญญากับตัวเอง ว่าจะต้องเข้มแข็ง อย่าให้มีสิ่งใด ทำให้จิตใจไม่เป็นสุข...#$b#จงบอกเล่าถึง ความสมบูรณ์ พูลสุข และความเจริญรุ่งเรือง แก่ผู้อื่นทุกคนที่ได้พบเจอ...#$b#ก็เพื่อให้เพื่อนพ้องของคุณทุกคน ได้รู้สึกว่าพวกเขาก็มีมันเช่นกัน\"$h#$b#โดย คริสเตียน ลาร์สัน... ผู้รู้ว่าคุณคงจะทำ สิ่งที่ถูกต้องเสมอ {{Lowercase:{{TermofEndearment}}}}",
 			"marriage_r2": "ผมจำรอยเท้าพวกนั้นได้ทุกที่$h#$b#สวัสดี {{Lowercase:{{TermofEndearment}}}}!",
 			"marriage_beach3": "ผมเดิมผ่านบ้านหลังเก่า... น่าเสียดายนะ โครงสร้างมันก็ยังดีอยู่ แต่กลับไม่ได้ถูกใช้งาน$s#$b#ผมหวังว่าลินัส จะยอมรับขอเสนอ แล้วมาอยู่ที่นั่นแทน$s#$b#จริงของคุณ  {{Lowercase:{{TermofEndearment}}}} ผมรู้ว่าผมคงทำอะไรไม่ได้ คุณก็เตือนแล้วว่าเขาจะปฏิเสธ#$b#งั้นตั้งแต่นี้ไป ผมจะใช้มันเป็นที่เก็บของละกัน$h",
@@ -1030,7 +1030,7 @@
 		"Target": "Strings/schedules/Elliott",
 		"Entries": {
 			"marriage_bus": "ไง วันนี้เป็นไงบ้างครับ {{TermofEndearment}}?#$b#บางครั้งบางคราว ผมก็จะออกไปเขียนอะไร ข้างนอกบ้างน่ะ หัวจะได้แล่นๆ$h",
-			"marriage_bus4": "\"There is no chance that we will fall apart...#$b#There is no chance. There are no parts.\"#$b#By June Jordan... Have a good day, {{TermofEndearment}}.",
+			"marriage_bus4": "\"เราจะไม่มีวันพรากออกจากกัน...#$b#จะไม่มีวัน เพราะเราเป็นหนึ่งเดียวกัน\"#$b#โดย จูน จอร์แดน... ขอให้มีวันที่ดี {{TermofEndearment}}",
 			"marriage_bus7": "\"จงสัญญากับตัวเอง ว่าจะต้องเข้มแข็ง อย่าให้มีสิ่งใด ทำให้จิตใจไม่เป็นสุข...#$b#จงบอกเล่าถึง ความสมบูรณ์ พูลสุข และความเจริญรุ่งเรือง แก่ผู้อื่นทุกคนที่ได้พบเจอ...#$b#ก็เพื่อให้เพื่อนพ้องของคุณทุกคน ได้รู้สึกว่าพวกเขาก็มีมันเช่นกัน\"$h#$b#โดย คริสเตียน ลาร์สัน... ผู้รู้ว่าคุณคงจะทำ สิ่งที่ถูกต้องเสมอ {{TermofEndearment}}",
 			"marriage_r2": "ผมจำรอยเท้าพวกนั้นได้ทุกที่$h#$b#สวัสดี {{TermofEndearment}}!",
 			"marriage_beach3": "ผมเดิมผ่านบ้านหลังเก่า... น่าเสียดายนะ โครงสร้างมันก็ยังดีอยู่ แต่กลับไม่ได้ถูกใช้งาน$s#$b#ผมหวังว่าลินัส จะยอมรับขอเสนอ แล้วมาอยู่ที่นั่นแทน$s#$b#จริงของคุณ {{TermofEndearment}} ผมรู้ว่าผมคงทำอะไรไม่ได้ คุณก็เตือนแล้วว่าเขาจะปฏิเสธ#$b#งั้นตั้งแต่นี้ไป ผมจะใช้มันเป็นที่เก็บของละกัน$h",
