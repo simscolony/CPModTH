@@ -1,6 +1,6 @@
 {
 	"Name": "Ornate Treasure Chest",
-	"Description": "It's filled to the brim with gold and gems.",
+	"Description": "(หีบสมบัติอย่างหรู) มันถูกเติมเต็มจนพูน ด้วยทองคำ และอัญมณี",
 	"Edibility": -300,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
