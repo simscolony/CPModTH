@@ -2,7 +2,7 @@
   "Name": "Tree Stump",
   "Price": 3000,
   "ProvidesLight": false,
-  "Description": "(ตอไม้) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปถามฤดูกาล เมื่อวางไว้นอกบ้าน",
+  "Description": "(ตอไม้) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปตามฤดูกาล เมื่อวางไว้นอกบ้าน",
   "ProvidesLight": false,
   "CanPurchase": false,
 }

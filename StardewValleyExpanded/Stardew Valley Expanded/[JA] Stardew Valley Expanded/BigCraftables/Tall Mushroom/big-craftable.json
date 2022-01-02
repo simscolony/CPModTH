@@ -2,7 +2,7 @@
   "Name": "Tall Mushroom",
   "Price": 800,
   "ProvidesLight": false,
-  "Description": "(เห็ดนกยูง) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปถามฤดูกาล เมื่อวางไว้นอกบ้าน",
+  "Description": "(เห็ดนกยูง) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปตามฤดูกาล เมื่อวางไว้นอกบ้าน",
   "ProvidesLight": false,
   "CanPurchase": false,
 }
