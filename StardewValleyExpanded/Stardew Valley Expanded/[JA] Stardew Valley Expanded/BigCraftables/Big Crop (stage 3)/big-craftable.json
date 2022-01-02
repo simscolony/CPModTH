@@ -2,6 +2,6 @@
   "Name": "Big Crop (stage 3)",
   "Price": 560,
   "ProvidesLight": false,
-  "Description": "A decorative crop. Changes seasonally into 'Cauliflower', 'Melon', and 'Pumpkin' when placed outdoors.",
+  "Description": "(พืชขนาดใหญ่-ระยะ 3) พืชสำหรับตกแต่ง จะเปลี่ยนไปถามฤดูกาลเป็น ดอกกะหล่ำ เมล่อน และฟักทอง เมื่อวางไว้นอกบ้าน",
   "CanPurchase": false,
 }
