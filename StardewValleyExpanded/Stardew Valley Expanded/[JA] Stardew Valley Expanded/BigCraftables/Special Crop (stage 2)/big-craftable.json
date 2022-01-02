@@ -2,6 +2,6 @@
   "Name": "Special Crop (stage 2)",
   "Price": 510,
   "ProvidesLight": false,
-  "Description": "A decorative crop. Changes seasonally into 'Strawberries', 'Starfruit', and 'Artichoke' when placed outdoors.",
+  "Description": "(พืชพิเศษ-ระยะ 2) พืชสำหรับตกแต่ง จะเปลี่ยนไปถามฤดูกาลเป็น สตรอว์เบอร์รี สตาร์ฟรุต และอาร์ทิโชก เมื่อวางไว้นอกบ้าน",
   "CanPurchase": false,
 }
