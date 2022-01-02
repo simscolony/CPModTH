@@ -1,6 +1,6 @@
 {
 	"Name": "Diamond Wand",
-	"Description": "A magic relic from Galdora. Teleports enemies away from the user. Effective against flyers.",
+	"Description": "(คทาเพชร) วัตถุเวทมนตร์จากกัลโดรา ใช้เทเลพอร์ตศัตรู ให้ออกห่างจากผู้ใช้ มีผลกับศัตรูประเภทบินได้",
 	"Type": "Sword",
 	"MinimumDamage": 1,
 	"MaximumDamage": 2,
