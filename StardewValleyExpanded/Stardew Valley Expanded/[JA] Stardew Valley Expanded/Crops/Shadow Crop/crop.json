@@ -2,7 +2,7 @@
 	"Name": "Shadow Crop",
 	"Product": "Void Root",
 	"SeedName": "Void Seed",
-	"SeedDescription": "Plant these during winter. Takes 8 days to mature.",
+	"SeedDescription": "(เงาทมิฬ) ปลูกในฤดูหนาว ใช้เวลา 8 วันในการเจริญเติบโต",
 	"Type": "Vegetable",
 	"CropType": "Normal",
 	"Seasons": ["winter"],
