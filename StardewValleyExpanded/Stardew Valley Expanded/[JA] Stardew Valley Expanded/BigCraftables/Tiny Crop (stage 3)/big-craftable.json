@@ -2,7 +2,7 @@
   "Name": "Tiny Crop (stage 3)",
   "Price": 200,
   "ProvidesLight": false,
-  "Description": "A decorative crop. Changes seasonally into 'Parsnip', 'Radish', and 'Yam' when placed outdoors.",
+  "Description": "(ต้นไม้จิ๋ว-ระยะ 3) พืชสำหรับตกแต่ง จะเปลี่ยนไปถามฤดูกาลเป็น หัวผักกาด หัวไชเท้า และมันเทศ เมื่อวางไว้นอกบ้าน",
   "ProvidesLight": false,
   "CanPurchase": false,
 }
