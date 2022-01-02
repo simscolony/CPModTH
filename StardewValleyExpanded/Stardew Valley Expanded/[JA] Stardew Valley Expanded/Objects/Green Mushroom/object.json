@@ -1,7 +1,7 @@
 {
 	"Name": "Green Mushroom",
 	"Price": 1250,
-	"Description": "Makes one feel as if they've gained another life.",
+	"Description": "(เห็ดเขียว) ชวนให้รู้สึกเหมือนกับว่า พวกมันได้รับชีวิตใหม่ มาอีกครั้ง",
 	"Edibility": 500,
 	"EdibleBuffs": 
 	{
