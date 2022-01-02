@@ -2,7 +2,7 @@
 	"Name": "Slime Bush",
 	"Product": "Slime Berry",
 	"SeedName": "Slime Seed",
-	"SeedDescription": "(พุ่มสไลม์) ปลูกในฤดูใบไม้ผลลิ ใช้เวลา 13 วันในการเจริญเติบโต หลังการเก็บเกี่ยวยังให้ผลผลิตต่อเนื่อง",
+	"SeedDescription": "(พุ่มสไลม์) ปลูกในฤดูใบไม้ผลิ ใช้เวลา 13 วันในการเจริญเติบโต หลังการเก็บเกี่ยวยังให้ผลผลิตต่อเนื่อง",
 	"Type": "Fruit",
 	"CropType": "Normal",
 	"Seasons": ["spring"],
