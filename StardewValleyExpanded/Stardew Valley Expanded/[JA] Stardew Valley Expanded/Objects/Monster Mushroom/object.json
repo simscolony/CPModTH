@@ -1,7 +1,7 @@
 {
 	"Name": "Monster Mushroom",
 	"Price": 850,
-	"Description": "It's huge. Suspends itself on a high-up plant to avoid ground predators.",
+	"Description": "(เห็ดสัตว์ประหลาด) อันใหญ่เบิ้ม มันจะเลื้อยกาะอยู่บนต้นไม่สูง เพื่อหลีกเลี่ยงตัวเอง จากนักล่าบนพื้นดิน",
 	"Category": "Vegetable",
 	"CategoryTextOverride": "Monster Crop",
 	"CategoryColorOverride": "51, 0, 0, 255",
