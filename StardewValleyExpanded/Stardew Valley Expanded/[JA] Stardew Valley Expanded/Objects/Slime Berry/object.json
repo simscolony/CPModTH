@@ -1,7 +1,7 @@
 {
 	"Name": "Slime Berry",
 	"Price": 65,
-	"Description": "It's covered in an odd gooey substance.",
+	"Description": "(สไลม์เบอร์รี) มันมีสารเหนียวเหนอะหนะ แปลกๆ ปกคลุมอยู่",
 	"Category": "Fruit",
 	"CategoryTextOverride": "Monster Crop",
 	"CategoryColorOverride": "51, 0, 0, 255",
