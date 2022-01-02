@@ -2,7 +2,7 @@
 	"Name": "Monster Stalk",
 	"Product": "Monster Fruit",
 	"SeedName": "Stalk Seed",
-	"SeedDescription": "Plant these during summer. Takes 25 days to mature. ",
+	"SeedDescription": "(ต้นสัตว์ประหลาด) ปลูกในฤดูร้อน ใช้เวลา 25 วันในการเจริญเติบโต",
 	"Type": "Vegetable",
 	"CropType": "Normal",
 	"Seasons": ["summer"],
