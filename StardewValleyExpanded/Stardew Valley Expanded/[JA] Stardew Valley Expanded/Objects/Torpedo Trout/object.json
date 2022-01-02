@@ -1,6 +1,6 @@
 {
 	"Name": "Torpedo Trout",
-	"Description": "This fish is capable of swimming up to 68 miles per hour.",
+	"Description": "(เทราต์ตอปิโด) เจ้าปลานี้ สามารถว่ายน้ำ ด้วยความเร็งสูงถึง 68 ไมล์ต่อชั่วโมง",
 	"Category": "Fish",
 	"Edibility": -10,
 	"EdibleIsDrink": false,
