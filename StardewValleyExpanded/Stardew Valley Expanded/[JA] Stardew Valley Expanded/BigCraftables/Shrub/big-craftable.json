@@ -2,7 +2,7 @@
   "Name": "Shrub",
   "Price": 2000,
   "ProvidesLight": false,
-  "Description": "A decorative piece for your farm. Changes seasonally when placed outdoors.",
+  "Description": "(พุ่มไม้ทรงสูง) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปตามฤดูกาล เมื่อวางไว้นอกบ้าน",
   "ProvidesLight": false,
   "CanPurchase": false,
 }
