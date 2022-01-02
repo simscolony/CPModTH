@@ -2,6 +2,6 @@
   "Name": "Leafy Crop (stage 3)",
   "Price": 520,
   "ProvidesLight": false,
-  "Description": "A decorative crop. Changes seasonally into 'Kale', 'Red Cabbage', and 'Amaranth' when placed outdoors.",
+  "Description": "(พืชกินใบ - ระยะ 3) พืชสำหรับตกแต่ง จะเปลี่ยนไปตามฤดูกาลเป็น ผักคะน้า กะหล่ำปลีแดง และผักโขม เมื่อวางไว้นอกบ้าน",
   "CanPurchase": false,
 }
