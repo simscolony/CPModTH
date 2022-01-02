@@ -2,7 +2,7 @@
   "Name": "Tall Mushroom",
   "Price": 800,
   "ProvidesLight": false,
-  "Description": "A decorative piece for your farm. Changes seasonally when placed outdoors.",
+  "Description": "(ต้นเห็ดสูง) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปถามฤดูกาล เมื่อวางไว้นอกบ้าน",
   "ProvidesLight": false,
   "CanPurchase": false,
 }
