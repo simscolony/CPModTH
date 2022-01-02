@@ -1,7 +1,7 @@
 {
 	"Name": "Super Joja Cola",
 	"Price": 350,
-	"Description": "DISCLAIMER: Small chance skin will turn blue after consumption.",
+	"Description": "ข้อจำกัดความรับผิดชอบ: มีโอกาสเล็กน้อย ที่สีผิวจะกลายเป็นสีฟ้า หลังจากบริโภค",
 	"Edibility": 150,
 	"EdibleIsDrink": true,
 	"CanSell": false,
