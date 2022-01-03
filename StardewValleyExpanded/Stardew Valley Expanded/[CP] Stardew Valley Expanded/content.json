@@ -3055,7 +3055,7 @@
     "When": { "LocationName": "Custom_Highlands, Custom_HighlandsCavern, Custom_HighlandsCavernPrison, Custom_HighlandsOutpost" },
     "Update": "OnLocationChange",
     "Entries": {
-    "PlayerKilled": "none/-100 -100/farmer 6 6 1 Lance 8 6 3/changeLocation Custom_HighlandsOutpost/positionOffset farmer 20 0 true/positionOffset Lance -25 0 true/pause 500/message \"Open your eyes...\"/pause 900/playMusic cm:SDV_Fireplace/pause 600/viewport 7 6 true/pause 1500/shake Lance 500/pause 250/speak Lance \"I sensed you were in grave danger. Thankfully, I arrived just in time.$0\"/pause 1000/speak Lance \"Stay vigilant, @. Don't overextend yourself.$3\"/pause 500/globalFade/viewport -1000 -1000/stopMusic/hospitaldeath/faceDirection farmer 2 true/end position 6 6"
+    "PlayerKilled": "none/-100 -100/farmer 6 6 1 Lance 8 6 3/changeLocation Custom_HighlandsOutpost/positionOffset farmer 20 0 true/positionOffset Lance -25 0 true/pause 500/message \"ลืมตาสิ...\"/pause 900/playMusic cm:SDV_Fireplace/pause 600/viewport 7 6 true/pause 1500/shake Lance 500/pause 250/speak Lance \"ผมสมัผัสได้ว่า คุณกับลงตกอยู่ในอันตราย โชคดีที่ผมมาทันเวลา$0\"/pause 1000/speak Lance \"ต้องคอยระวังตัวสิ @ อย่าฝืนเกินไป$3\"/pause 500/globalFade/viewport -1000 -1000/stopMusic/hospitaldeath/faceDirection farmer 2 true/end position 6 6"
     },
 },
 {   //Edits death strings
@@ -6413,7 +6413,7 @@
       "Target": "Characters/Dialogue/Kent",
 	  "When": { "HasSeenEvent": "8050109" },
       "Entries": {
-	  "Summit_11_13": "Hiking is a good workout.$1",
+	  "Summit_11_13": "การปีนเขา ก็เป็นการออกกำลังกายที่ดีนะ$1",
 	  },
 },
 
