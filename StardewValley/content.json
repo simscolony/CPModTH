@@ -202,6 +202,14 @@
             "When": { "Language": "th" }
         },
 
+        // Credits
+        {
+            "Action": "Load",
+            "Target": "Strings/credits",
+            "FromFile": "assets/Content/{{Target}}.json",
+            "When": { "Language": "th" }
+        },
+
         // Schedules
         {
             "Action": "Load",
