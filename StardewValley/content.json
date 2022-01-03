@@ -158,7 +158,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "HasSeenEvent": "112"
+                "HasFlag": "canReadJunimoText"
             }
         },
 
