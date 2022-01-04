@@ -33,7 +33,7 @@
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
-   "LocalizedClosedMessage": {
+	"LocalizedClosedMessage": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -613,7 +613,7 @@
 		"0.6": ["f Pika 2000"]
 		},
 	"When": ["t 930 2300/w sunny"],
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -628,7 +628,7 @@
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
-   "LocalizedClosedMessage": {
+	"LocalizedClosedMessage": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -694,7 +694,7 @@
 		"0.6": ["f Pika 2000"]
 		},
 	"When": ["t 930 2300/w sunny"],
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -709,7 +709,7 @@
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
-   "LocalizedClosedMessage": {
+	"LocalizedClosedMessage": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -760,7 +760,7 @@
 	"MaxNumItemsSoldInStore": 2,
 	"ShopPrice": -1,
 	"DefaultSellPriceMultiplier": 1.0,
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -772,20 +772,6 @@
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
         "th": "อาวุธพร้อมจำหน่ายแล้ววันนี้",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
-    	},
-   "LocalizedClosedMessage": {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
@@ -820,7 +806,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
 	"Quote": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1026,7 +1012,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
 	"Quote": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1126,7 +1112,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
 	"Quote": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1205,7 +1191,21 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Welcome to Gus and Pika's!",
-	"LocalizedQuote": { "th": "ยินดีต้อนรับสู่ร้านของ กัส และ ปิก้า!" },
+	"LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        "th": "ยินดีต้อนรับสู่ร้านของ กัส และ ปิก้า!",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
 	"DefaultSellPriceMultiplier": 0.8,
 	"MaxNumItemsSoldInStore": 20,
 	"ShopPrice": -1,
@@ -1265,7 +1265,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Girls rule!!",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1399,7 +1399,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"Quote": "Boys rule!!",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1527,7 +1527,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
 	"Quote": "What do you desire?",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1583,7 +1583,7 @@
 		"0.6": ["f Malaya 2000"]
 		},
 	"When": ["t 900 1600"],
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1598,7 +1598,7 @@
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
-   "LocalizedClosedMessage": {
+	"LocalizedClosedMessage": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1636,7 +1636,7 @@
 				"Holiday Ice",
 				"Jumpy Coffee Cake",
 				"Kedi Delight",
-				"Keks Style Shortcake",
+				"Kek's Style Shortcake",
 				"Kek's Small Dream",
 				"Pillowsoft Cheezy Sandwich",
 				"Pink Frosted Sprinkled Doughnut",
@@ -1662,7 +1662,7 @@
 			"IsRecipe": true,
 			"ItemNames": [
 				"Kedi Delight",
-				"Keks Style Shortcake",
+				"Kek's Style Shortcake",
 				"Kek's Small Dream",
 				"Pillowsoft Cheezy Sandwich",
 				"Pink Frosted Sprinkled Doughnut",
@@ -1692,7 +1692,7 @@
 		},
 	"When": ["t 900 1600"],
 	"ClosedMessage": "Sorry, we're closed!",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1707,7 +1707,7 @@
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
-   "LocalizedClosedMessage": {
+	"LocalizedClosedMessage": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1762,7 +1762,7 @@
 		},
 	"When": ["t 900 1800/d Sat"],
 	"ClosedMessage": "Sorry, we're closed!",
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1777,7 +1777,7 @@
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     	},
-   "LocalizedClosedMessage": {
+	"LocalizedClosedMessage": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -1861,7 +1861,7 @@
 	"CategoriesToSell": [ -98, -95 ],
 	"Quote": "Place your order! Designs change everyday!",
 	"MaxNumItemsSoldInStore": 2,
-    "LocalizedQuote": {
+	"LocalizedQuote": {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
