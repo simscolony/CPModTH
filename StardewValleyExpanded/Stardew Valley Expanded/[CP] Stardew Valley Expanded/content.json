@@ -15486,14 +15486,14 @@
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Olivia",
 	 "Entries": {
-     "DeweyIsOkay": "Ah, dear. Victor told me about Dewey. I'm delighted he's alive and well.$3#$b#When he went missing, I assumed the worse...$2#$e#I am concerned he's running around in the wild, but I'm positive he can handle himself out there.$6"
+     "DeweyIsOkay": "อา ที่รัก วิกเตอร์บอกฉันเรื่องดิวอี้แล้ว ฉันดีใจที่เขายังมีชีวิตอยู่ และสบายดี$3#$b#ตอนที่เขาหายไป ฉันคิดแง่ร้ายที่สุด...$2#$e#ฉันก็กังวลที่เขา ต้องเร่รอนอยู่ในป่า แต่ถ้าคิดในแง่ดีไว้ เขาคงจะเอาตัวรอดได้$6"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Robin",
 	 "Entries": {
-     "DeweyIsOkay": "Hi @. I removed Dewey's memorial from the graveyard, as requested from your husband.$0#$b#I'm happy he got closure and Dewey's okay.$0#$e#I'll keep my eye out for any cats mucking around!$1"
+     "DeweyIsOkay": "ไง @ ฉันเอาป้ายระลึกถึงของดิวอี้ ออกจากสุสาน ตามที่สามีขอไว้แล้วนะ $0#$b#ฉันดีใจ ที่เขาหมดห่วงเรื่องนี้ซะที แล้วดิวอี้ก็สบายดีด้วย$0#$e#ฉันจะคอยดูไว่า ไม่ให้แมวตัวไหน มาทำเลอะเทอะแถวนี้!$1"
        },
     },
 
@@ -15524,7 +15524,7 @@
       "Target": "Data/Events/farmhouse",
 	  "When": { "FarmhouseUpgrade": 3 },
       "Entries": {
-      "2000008/O Victor/f Victor 3500/u 1 2 3 4 5 6 7/t 1200 2300": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationStart 14/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/showFrame Victor 0 true/animate Victor false true 400 16 17 18 17/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/speak Victor \"Hmm. It need something that'll that allow rotation without damage to the abutment wall.$0#$b#Maybe a neoprene bearing pad could distribute the bearing pressure and seal it?$0\"/pause 500/emote farmer 8/pause 650/stopAnimation Victor/pause 500/showFrame Victor 4 true/pause 300/emote Victor 16/pause 400/speak Victor \"Oh, honey! I have good news to share with you. I got offered my biggest job yet today! I've been contracted to renovate Shearwater Bridge.$1\"/pause 700/jump farmer/pause 900/speak Victor \"The bridge's structural integrity has been damaged over the years. I believe I've pinpointed the cause... Joja cargo trucks coming from Grampleton.$0\"/pause 500/emote farmer 60/pause 500/speak Victor \"Don't worry! I'll have it fixed up in no time.... maybe three weeks!$1#$b#It will, however, be off limits to the public until renovations are complete. I start first thing in the morning tomorrow!$3\"/pause 600/emote farmer 32/pause 150/globalFade/viewport -1000 -1000/pause 1000/message \"Shearwater Bridge will be closed for several weeks as Victor works on its renovation.\"/pause 1000/end dialogue Victor \"If I do a good job on this project, I'll probably be offered even larger opportunities in the future. I can't miss this chance!$3#$e#I was given a very modest budget to work with.$1\""
+      "2000008/O Victor/f Victor 3500/u 1 2 3 4 5 6 7/t 1200 2300": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationStart 14/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/showFrame Victor 0 true/animate Victor false true 400 16 17 18 17/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/speakMaybe a neoprene bearing pad could distribute the bearing pressure and seal it?r \"หืมม มันต้องใช้อะไรที่มาช่วยหมุน โดยไม่ทำให้เกิดความเสียหาย กับผนังค้ำยันตรงนี้$0#$b#บางทีแผ่นกระจายน้ำหนัก นีโอพรีน น่าจะช่วยกระจายแรงกด และหุ้มมันได้ละมั้ง?$\"/pause 500/emote farmer 8/pause 650/stopAnimation Victor/pause 500/showFrame Victor 4 true/pause 300/emote Victor 16/pause 400/speak Victor \"โอ้ ที่รัก! ผมมีข่าวดีมาเล่าให้ฟังครับ วันนี้ผมพึ่งจะได้รับข้อเสนอ ที่ใหญ่ที่สุดตั้งแต่ที่ทำงานมาเลยครับ! ผมได้เซ็นสัญญา ให้บูรณะสะพานเชียร์วอเตอร์$1\"/pause 700/jump farmer/pause 900/speak Victor \"สภาพความสมบูรณ์ ของโครงสร้างสะพาน ได้รับความเสียหายมาหลายปีแล้ว ผมเชื่อว่า มันต้องมีสาเหตุมาจาก... รถขนส่งของโจจ้า ที่มาจากแกรมเพิลตัน$0\"/pause 500/emote farmer 60/pause 500/speak Victor \"ไม่ต้องกังวลหรอกครับ! ผมจะรีบซ่อมมันให้เสร็จโดยเร็ว.... น่าจะสัก 3 สัปดาห์!$1#$b#ยังไงก็ตาม เราต้องปิดไม่ให้ใช้สะพานก่อน จนกว่าจะซ่อมแซมเสร็จ ผมจะเริ่มขั้นตอนแรกที่ต้องทำ ในวันพรุ่งนี้!$3\"/pause 600/emote farmer 32/pause 150/globalFade/viewport -1000 -1000/pause 1000/message \"สะพานเชียร์วอเตอร์จะถูกปิด เป็นเวลา 2-3 สัปดาห์ เนื่องจากการบุรณะซ่อมแซม ที่วิกเตอร์ได้รับมอบหมายให้ทำ\"/pause 1000/end dialogue Victor \"ถ้าผมทำโปรเจคนี้สำเร็จไปด้วยดี ผมอาจจะมีโอกาส ได้รับงานใหญ่ในอนาคตก็ได้ครับ ผมจะไม่ยอมพลาดโอกาสนี้!$3#$e#ผมได้รับเงินงบประมาณ แบบพอดิบพอดี เพื่อใช้ในโปรเจคนี้มาด้วย$1\""
 	  }
     },
 
@@ -15534,7 +15534,7 @@
       "Target": "Data/Events/farmhouse",
 	  "When": { "FarmhouseUpgrade": 3 },
       "Entries": {
-      "2000008/O Victor/f Victor 3500/u 1 2 3 4 5 6 7/t 2310 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationStart 14/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/showFrame Victor 0 true/animate Victor false true 400 16 17 18 17/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/speak Victor \"Hmm. It need something that'll that allow rotation without damage to the abutment wall.$0#$b#Maybe a neoprene bearing pad could distribute the bearing pressure and seal it?$0\"/pause 500/emote farmer 8/pause 650/stopAnimation Victor/pause 500/showFrame Victor 4 true/pause 300/emote Victor 16 true/pause 400/speak Victor \"Oh, honey! I have good news to share with you. I got offered my biggest job yet today! I've been contracted to renovate Shearwater Bridge.$1\"/pause 700/jump farmer/pause 900/speak Victor \"The bridge's structural integrity has been damaged over the years. I believe I've pinpointed the cause... Joja cargo trucks coming from Grampleton.$0\"/pause 500/emote farmer 60/pause 500/speak Victor \"Don't worry! I'll have it fixed up in no time.... maybe three weeks!$1#$b#It will, however, be off limits to the public until renovations are complete. I start first thing in the morning tomorrow!$3\"/pause 600/emote farmer 32/pause 150/speak Victor \"*yawn* I'm quite tired... Let's go to sleep.$3\"/pause 300/globalFade/viewport -1000 -1000/pause 1000/message \"Shearwater Bridge will be closed for several weeks as Victor works on its renovation.\"/pause 1000/end dialogue Victor \"If I do a good job on this project, I'll probably be offered even larger opportunities in the future. I can't miss this chance!$3#$e#I was given a very modest budget to work with.$1\""
+      "2000008/O Victor/f Victor 3500/u 1 2 3 4 5 6 7/t 2310 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationStart 14/skippable/makeInvisible 7 14 8 1/pause 850/playMusic 50s/pause 1000/showFrame Victor 0 true/animate Victor false true 400 16 17 18 17/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/speak Victor \"หืมม มันต้องใช้อะไรที่มาช่วยหมุน โดยไม่ทำให้เกิดความเสียหาย กับผนังค้ำยันตรงนี้$0#$b#บางทีแผ่นกระจายน้ำหนัก นีโอพรีน น่าจะช่วยกระจายแรงกด และหุ้มมันได้ละมั้ง?$0\"/pause 500/emote farmer 8/pause 650/stopAnimation Victor/pause 500/showFrame Victor 4 true/pause 300/emote Victor 16 true/pause 400/speak Victor \"โอ้ ที่รัก! ผมมีข่าวดีมาเล่าให้ฟังครับ วันนี้ผมพึ่งจะได้รับข้อเสนอ ที่ใหญ่ที่สุดตั้งแต่ที่ทำงานมาเลยครับ! ผมได้เซ็นสัญญา ให้บูรณะสะพานเชียร์วอเตอร์$1\"/pause 700/jump farmer/pause 900/speak Victor \"สภาพความสมบูรณ์ ของโครงสร้างสะพาน ได้รับความเสียหายมาหลายปีแล้ว ผมเชื่อว่า มันต้องมีสาเหตุมาจาก... รถขนส่งของโจจ้า ที่มาจากแกรมเพิลตัน$0\"/pause 500/emote farmer 60/pause 500/speak Victor \"ไม่ต้องกังวลหรอกครับ! ผมจะรีบซ่อมมันให้เสร็จโดยเร็ว.... น่าจะสัก 3 สัปดาห์!$1#$b#ยังไงก็ตาม เราต้องปิดไม่ให้ใช้สะพานก่อน จนกว่าจะซ่อมแซมเสร็จ ผมจะเริ่มขั้นตอนแรกที่ต้องทำ ในวันพรุ่งนี้เช้า!$3\"/pause 600/emote farmer 32/pause 150/speak Victor \"*หาว* ผมเหนื่อยจัง... เข้านอนกันเถอะครับ$3\"/pause 300/globalFade/viewport -1000 -1000/pause 1000/message \"สะพานเชียร์วอเตอร์จะถูกปิด เป็นเวลา 2-3 สัปดาห์ เนื่องจากการบุรณะซ่อมแซม ที่วิกเตอร์ได้รับมอบหมายให้ทำ\"/pause 1000/end dialogue Victor \"ถ้าผมทำโปรเจคนี้สำเร็จไปด้วยดี ผมอาจจะมีโอกาส ได้รับงานใหญ่ในอนาคตก็ได้ครับ ผมจะไม่ยอมพลาดโอกาสนี้!$3#$e#ผมได้รับเงินงบประมาณ แบบพอดิบพอดี เพื่อใช้ในโปรเจคนี้มาด้วย$1\""
 	  }
     },
 
@@ -15542,28 +15542,28 @@
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Olivia",
 	 "Entries": {
-     "ShearwaterBridgeRenovationStart": "I trust Victor told you about his big project?$3#$b#I'm so proud of him!$1"
+     "ShearwaterBridgeRenovationStart": "ฉันว่า วิกเตอร์คงจะบอกเธอ เรื่องโปรเจคใหญ่ของเขา แล้วใช่มั้ยจ๊ะ?$3#$b#ฉันภูมิใจในตัวเขาจริงๆI!$1"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Sam",
 	 "Entries": {
-     "ShearwaterBridgeRenovationStart": "I can't believe Victor got a gig repairing that old crusty bridge. Good on him!$0"
+     "ShearwaterBridgeRenovationStart": "ฉันไม่อยากจะเชื่อว่า ว่าวิกเตอร์จะได้งานซ่อมสะพานเก่าแก่นั่น อย่างเจ๋ง!$0"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Lewis",
 	 "Entries": {
-     "ShearwaterBridgeRenovationStart": "Shearwater Bridge is getting a much needed renovation soon.$1"
+     "ShearwaterBridgeRenovationStart": "สะพานเชียร์วอเตอร์ ควรจะต้องได้รับการบูรณะ ในเร็ววัน$1"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Robin",
 	 "Entries": {
-     "ShearwaterBridgeRenovationStart": "Hey, @! I heard your husband was tasked with renovating Shearwater Bridge. That's quite the undertaking.$0#$e#$0I've done some repairs on the bridges around town, but I've never tackled anything of that scale!$0"
+     "ShearwaterBridgeRenovationStart": "ไง @!  ฉันได้ยินมาว่า สามีของเธอได้รับมอบหมาย ให้บูรณะสะพานเชียร์วอเตอร์นี่ เป็นงานท้าทายเลยนะนั่น$0#$e#$0ฉันก็เคยซ่อมสะพาน รอบๆ เมืองมาหลายที่แล้วนา แต่ไม่เคยทำถึงระดับนั้นหรอก!$0"
        },
     },
 
@@ -15619,8 +15619,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Monday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "I had a very productive day. How was yours?$1",
-      "funLeave_Victor": "Hey! I'll be at Shearwater Bridge today working on the renovation. I hope you have a nice day!$3",
+      "funReturn_Victor": "วันนี้ผมใช้เวลาคุ้มค่าเลยล่ะ แล้วคุณละครับ?$1",
+      "funLeave_Victor": "ไงครับ! วันนี้ผมจะไปอยู่ที่สะพานเชียร์วอเตอร์ เพื่อทำการการบูรณะมัน หวังว่าคุณจะมีวันที่ดีนะครับ!$3",
         }
 	},
 	{
@@ -15628,8 +15628,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Tuesday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "There's a handful of factors to consider when renovating a bridge: function, materials, safety, cost, wildlife, and appearance.$1",
-      "funLeave_Victor": "Good morning, honey. Today will be a tough one. I need to figure out where I can hire some heavy machinery for the bridge renovation.$1",
+      "funReturn_Victor": "มันมีปัจจัยที่ต้องคอยรับมือ ในการบูรณะสะพาน เต็มไปหมด: การใช้งาน วัสดุ  ความปลอดภัย ราคา ไหนจะสัตว์ป่า และรูปลักษณ์ภายนอกอีก$1",
+      "funLeave_Victor": "สวัสดีครับ ที่รัก วันนี้งานหนักอีกแล้ว ผมต้องหาวิธีที่จัดหา เครื่องจักรหนักมา เพื่อใช้ในการบูรณะสะพาน$1",
         }
 	},
 	{
@@ -15637,8 +15637,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Wednesday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "*phew*... my brain hurts from working too hard today.$0",
-      "funLeave_Victor": "There's so much work to do still for the bridge renovation project. It's a little overwhelming at times.$1#$e#%You tell Victor they can do it!#$e#Haha. Thanks. I'll give it my all!$4",
+      "funReturn_Victor": "*เฮ้อ*... วันนี้ สมองผมล้าไปหมด จากการทำงานหนักเกินไป$0",
+      "funLeave_Victor": "มันยังมีงานอีกเยอะเลย ที่ยังต้องทำอีก เพื่อโปรเจคการบูรณะสะพาน บางครั้งมันก็เยอะเกินไปนะ$1#$e#%คุณบอกวิกเตอกร์ว่า เขาทำได้!#$e#ฮ่าฮ่า ขอบคุณครับ ผมจะทำเต็มที่!$4",
         }
 	},
 	{
@@ -15646,8 +15646,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Thursday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "After a day like that I feel like I could eat two huge plates of spaghetti.$0",
-      "funLeave_Victor": "Should I run any errands while I'm out today?$1",
+      "funReturn_Victor": "หลังจากผ่านวันแบบนี้นะ ผมว่า ผมคงจะกินสปาเก็ตตี้ 2 จานยักษ์ ได้เลยล่ะครับ$0",
+      "funLeave_Victor": "จะให้ผมไปทำธุระอะไรมั้ยครับ ตอนผมออกไปข้างนอกวันนี้น่ะ?$1",
         }
 	},
 	{
@@ -15655,8 +15655,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Friday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "Some old engineering books in my mother's library have proven to be quite handy with my renovation work!$3",
-      "funLeave_Victor": "I'm off to work on the bridge renovation. I'll be back tonight.$3",
+      "funReturn_Victor": "ตอนนี้ได้ข้อพิสูจน์แล้วครับ ว่าหนังสือวิศวกรรมเก่าๆ ที่อยู่ในห้องสมุดของคุณแม่ ก็มีประโยชน์ในโปรเจค บูรณะสะพานของผม!$3",
+      "funLeave_Victor": "วันนี้ผมจะออกไปทำงาน บูรณะสะพานนะครับ เดี๋ยวผมกลับมาคืนนี้$3",
         }
 	},
 	{
@@ -15664,8 +15664,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Saturday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "I almost made a costly mistake today with a forces calculation. It just goes to show that you should always double check your work - especially on projects as important as this one.$2",
-      "funLeave_Victor": "Hey, good morning. I think I'll be out later than usual tonight. I have a bunch of work to finish.",
+      "funReturn_Victor": "วันนี้ ผมเกือบจะทำผิดพลาดร้ายแรง กับการคำนวณแรงรับน้ำหนัก เพราะงั้นก็เลยเป็นที่มา ว่าคุณจะต้องคอยตรวจสอบ การทำงานอีกครั้งเสมอ - โดยเฉพาะโปรเจคที่สำคัญมากๆ เช่นโปรเจคนี้$2",
+      "funLeave_Victor": "ไง อรุณสวัสดิ์ครับ คืนนี้ผมน่าจะกลับดึก กว่าปกติน่ะครับ มีงานเป็นกองเลย ที่ต้องเคลียร์ให้เสร็จคืนนี้",
         }
 	},
 	{
@@ -15673,8 +15673,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueVictor",
 	  "When": { "DayOfWeek": "Sunday", "HasSeenEvent |contains=2000008": true, "HasSeenEvent |contains=2000009": false },
       "Entries": {
-      "funReturn_Victor": "I've put a lot of thought into this new bridge design. I hope everyone likes it.$1#$e#I managed to reduce material costs with this new and improved design. That's what I'd call an engineering success!$3",
-      "funLeave_Victor": "I have a lot to get done today at Shearwater Bridge. I'll see you tonight.$3",
+      "funReturn_Victor": "ผมใช้ความคิดมากมาย เพื่อออกแบบสะพานใหม่ ผมหวังว่าทุกคนคงจะชอบ$1#$e#ผมจัดการลดราคาค่าวัสดุลง ด้วยการพัฒนา และออกแบบแบบใหม่ นี่แหละที่ผมเรียกว่า ความสำเร็จด้านวิศวกรรม!$3",
+      "funLeave_Victor": "วันนี้ผมมีสิ่งที่ต้อง ทำให้เสร็จมากมาย ที่สะพานเชียร์วอเตอร์ ไว้เจอกันคืนนี้นะครับ$3",
         }
 	},
 
@@ -15684,7 +15684,11 @@
       "Action": "EditData",
       "Target": "Data/Events/farmhouse",
       "Entries": {
+<<<<<<< Updated upstream
       "2000009/e 2000008/O Victor/u 21 22 23 24 25 26 27 28/t 2000 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationComplete 14/skippable/makeInvisible 7 14 8 1/pause 850/pause 1000/faceDirection Victor 0 true/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/faceDirection Victor 1 true/pause 800/speak Victor \"Hey! After many tireless nights and more than a few headaches, I'm proud to announce I've finally completed the Shearwater Bridge renovation project.$1#$b#My new design is cost-effective enough that I was well under budget.$3\"/pause 500/emote farmer 20/pause 250/speak Victor \"I have something special planned for us at the newly renovated Shearwater Bridge. Meet me there at 10:00pm tomorrow night.$4#$b#Promise me you won't visit it until then, okay? I want to be there when you see it.$3\"/pause 700/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"Victor has something special planned at Shearwater Bridge at 10:00pm tomorrow. He asked me not to visit it until then!\"/pause 1000/end dialogue Victor \"I can't wait to see the look on your face when you catch your first glimpse of the newly renovated bridge.$3#$e#Oh. Is what I have planned something cheesy? Maybe.$0#$e#Yes.$2#$b#But hey, it's a surprise! You're not getting anything else out of me until then!$1\""
+=======
+      "2000009/e 2000008/O Victor/u 21 22 23 24 25 26 27 28/t 2000 2600": "none/-500 -500/farmer 14 14 3 Victor 7 14 0/addConversationTopic ShearwaterBridgeRenovationComplete 14/skippable/makeInvisible 7 14 8 1/pause 850/pause 1000/faceDirection Victor 0 true/viewport 7 14 true/speed farmer 1/move farmer -5 0 3/pause 500/faceDirection Victor 1 true/pause 800/speak Victor  \"ไงครับ! หลังจากเหน็ดเหนื่อยมาหลายคืน และเจอเรื่องปวดหัว มาไม่รู้กี่ครั้ง ตอนนี้ ผมภูิใจที่จะประกาศว่า โปรเจคการบูรณะ สะพานเชียร์วอเตอร์ของผม เสร็จสมบูรณ์แล้ว$1#$b#ด้วยการออกแบบใหม่นี้ มีความคุ้มทุนและสามารถ ทำภายใต้งบประมาณที่ตั้งไว้$3\"/pause 500/emote farmer 20/pause 250/speak Victor \"ผมมีแผนพิเศษบางอย่าง สำหรับพวกเรา ที่สะพานเชียร์วอเตอร์ โฉมใหม่ด้วยครับ ไปเจอผมที่นั่นคืนวันพรุ่งนี้ ตอน 10:00pm นะครับ$4#$b#สัญญากับผมนะครับ ว่าคุณจะไม่ไปที่นั่นก่อนเวลา โอเคนะครับ? ผมต้องการให้มันพร้อมแล้ว เมื่อคุณได้เห็นมัน$3\"/pause 700/showFrame farmer 97 true/pause 800/globalFade/viewport -1000 -1000/pause 1000/message \"วิกเตอร์มีแผนพิเศษบางอย่าง ที่สะพานเชียร์วอเตอร์ ในวันพรุ่งนี้ ตอน 10:00pm เขาบอกกับฉันว่าห้ามไปที่นั่น ก่อนจะถึงเวลา!\"/pause 1000/end dialogue Victor \"ผมรอไม่ไหวที่จะได้เห็น สีหน้าของคุณ ในแว๊บแรกที่คุณเห็นสะพาน ที่ถูกบูรณะขึ้นมาใหม่$3#$e#โอ้  อะไรที่ผมวางแผนไว้ เป็นเรื่องแบบหวานหยาดเยิ้ม รึเปล่านะหรอ? ก็อาจจะนะครับ$0#$e#ใช่แหละ$2#$b#นี่เดี๋ยวสิ นี่มันเตรียมไว้เซอร์ไพรส์ !  ผมไม่ยอมให้คุณรู้อะไรหรอก จะกว่าจะถึงตอนนั้น!$1\""
+>>>>>>> Stashed changes
 	  }
     },
 
@@ -15692,63 +15696,63 @@
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Olivia",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "The bridge renovation is gorgeous. I'm astounded by Victor's creativity!$1"
+     "ShearwaterBridgeRenovationComplete": "การบูรณะสะพาน ทำได้หรูหรามาก ฉันทึ่งในความคิดสร้างสรรค์ ของวิกเตอร์มากเลยจ้ะ!$1"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Lewis",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "Ah, @! Shearwater Bridge is now fully renovated thanks to your husband. The townsfolk appreciate his efforts.$0"
+     "ShearwaterBridgeRenovationComplete": "อ้า @! ตอนนี้สะพานเชียร์วอเตอร์ ได้รับการบูรณะสมบูรณ์แล้ว ต้องขอบคุณสามีของเธอ ชาวเมืองต่างชื่นชม ในความอุสาหะของเขามาก$0"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/MorrisTod",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "Do you have any idea how much money the Shearwater Bridge renovation has cost my operations here? My delivery drivers from Grampleton had to take a detour all the way through Zuzu City!$3#$e#I will say though, the bridge does look quite nice.$0"
+     "ShearwaterBridgeRenovationComplete": "คุณจะเดาออกมั้ยละครับ ว่าการบูรณะ สะพานเชียร์วอเตอร์ ทำให้ผมมีค่าใช้จ่าย ในการจัดการเรื่องต่างๆ ไปเท่าไหร่? คนขับรถส่งของ จากแกรมเพิลตัน ต้องหาทางขับอ้อมไป เพื่อไปถึงเมืองซูซู!$3#$e#ถึงผมจะพูดแบบนั้น แต่สะพานนี่ดูดีทีเดียว$0"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Robin",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "Victor's bridge design is incredible. I wonder where he got his inspiration from.$0"
+     "ShearwaterBridgeRenovationComplete": "การออกแบบสะพานของวิคเตอร์ ยอดเยี่ยมมาก ฉันอยากรู้จังว่าเขาไปทาง แรงบัลดาลใจมาจากที่ไหน$0"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Demetrius",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "A huge bridge renovation like this can do wonders for a small town's image!$1"
+     "ShearwaterBridgeRenovationComplete": "การบูรณะสะพานขนาดใหญ่เช่นนี้ สามารถสร้างภาพลักษณ์ ที่แสนอัศจรรย์ ให้กับเมืองเล็กๆ ได้เลย!!$1"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Sophia",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "Do you think the new bridge will attract more puppyfish?$1"
+     "ShearwaterBridgeRenovationComplete": "เธอคิดว่าสะพานใหม่นะ จะดึงดูดนกอ้วน ให้มามากขึ้นมั้ย?$1"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Gus",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "With the bridge newly renovated, I wonder if the saloon will get more customers from Grampleton!$1"
+     "ShearwaterBridgeRenovationComplete": "ด้วยการบูรณะสะพานใหม่นี้ ผมคิดว่าซาลูนคงจะมีลูกค้า ที่มาจากแกรมเพิลตันเยอะขึ้น!$1"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Clint",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "Hm. The bridge got renovated.$0#$e#It looks nice. Your husband did a good job.$0"
+     "ShearwaterBridgeRenovationComplete": "หืม สะพานซ่อมเสร็จแล้วหรอเนี่ย$0#$e#ดูดีนี่ สามีของเธอทำได้ดีมาก$0"
        },
     },
 	{
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/Willy",
 	 "Entries": {
-     "ShearwaterBridgeRenovationComplete": "Now I can get back to anglin' butterfish!$0"
+     "ShearwaterBridgeRenovationComplete": "ตอนนี้ฉันสามารถ กลับไปตกปลาเนยได้แล้วสิ!$0"
        },
     },
 
@@ -15780,7 +15784,7 @@
       "Target": "Data/Events/Custom_ShearwaterBridge",
 	  "When": { "HasSeenEvent": "2000009" },
       "Entries": {
-      "2000010/O Victor/t 2030 2600/w sunny": "none/-500 -500/farmer 9 21 1 Victor 28 21 0/addTemporaryActor VictorSpaghettiDinnerTable 69 45 26 20 2 false/positionOffset VictorSpaghettiDinnerTable -30 32 true/positionOffset Victor 19 0 true/playMusic moonlightJellies/pause 1250/skippable/viewport 29 30 true/viewport move 0 -1 8500 true/move farmer 16 0 1 true/pause 7750/faceDirection Victor 3 true/pause 500/emote Victor 32/pause 300/faceDirection farmer 2 true/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 1100/faceDirection farmer 1 true/pause 500/jump farmer/pause 850/emote farmer 20/pause 300/speak Victor \"I'm glad you like the new design. It was quite the challenge learning new ways to solve problems I had never before considered.$3#$b#I hope this renovation improves the image of Pelican Town and shows the world we're open to anyone curious enough to explore what Stardew Valley has to offer.$1\"/pause 750/faceDirection Victor 0 true/pause 400/speak Victor \"But hey, what's a bridge renovation without a romantic spaghetti dinner on said bridge? Kudos to Gus for catering the food!$1\"/pause 500/move farmer 2 0 0/pause 1750/faceDirection farmer 1 true/pause 750/faceDirection Victor 3 true/pause 650/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/animate Victor true true 9999 28/animate farmer false true 9999 101/playSound dwop/pause 1000/viewport move 0 -1 8000 true/pause 3000/globalFade/viewport -1000 -1000/end dialogue Victor \"I wonder what other large projects I'll work on in the future...$1\""
+      "2000010/O Victor/t 2030 2600/w sunny": "none/-500 -500/farmer 9 21 1 Victor 28 21 0/addTemporaryActor VictorSpaghettiDinnerTable 69 45 26 20 2 false/positionOffset VictorSpaghettiDinnerTable -30 32 true/positionOffset Victor 19 0 true/playMusic moonlightJellies/pause 1250/skippable/viewport 29 30 true/viewport move 0 -1 8500 true/move farmer 16 0 1 true/pause 7750/faceDirection Victor 3 true/pause 500/emote Victor 32/pause 300/faceDirection farmer 2 true/pause 1250/faceDirection farmer 1 true/pause 250/faceDirection farmer 0 true/pause 1100/faceDirection farmer 1 true/pause 500/jump farmer/pause 850/emote farmer 20/pause 300/speak Victor \"ผมดีใจที่คุณชอบ การออกแบบใหม่นี่นะครับ มันค่อนข้างเป็นอะไรที่ท้าทายมาก ที่จะต้องเรียนรู้วิธีใหม่ เพื่อใช้แก้ปัญหา ที่ผมไม่เคยคาดถึงมาก่อน$3#$b#ผมหวังว่าการบูรณะสะพานครั้งนี้ จะช่วยเพิ่มภาพลักษณ์ ให้กับเมืองเพลิแกน และแสดงให้โลกได้เห็นว่า พวกเรานั้นเปิดรับ ใครก็ตามที่มีความสงสัยใคร่รู้ และอยากจะค้นหาว่า สตาร์ดิวแวลลีมีอะไรดี$1\"/pause 750/faceDirection Victor 0 true/pause 400/speak Victor \"แต่เดี๋ยวก่อน ได้บูรณะสะพานอะไรแบบนี้แล้ว จะไม่มีดินเนอร์สปาเกตตี้ สุดแสนโรแมนติก บนสะพานได้ยังไงกันละครับ? ต้องยกความดีความชอบให้กัส สำหรับการเตรียมอาหารนี้!$1\"/pause 500/move farmer 2 0 0/pause 1750/faceDirection farmer 1 true/pause 750/faceDirection Victor 3 true/pause 650/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/positionOffset farmer 1 0/pause 50/positionOffset Victor -1 0/animate Victor true true 9999 28/animate farmer false true 9999 101/playSound dwop/pause 1000/viewport move 0 -1 8000 true/pause 3000/globalFade/viewport -1000 -1000/end dialogue Victor \"ผมอยากรู้จัง ว่าโปรเจคยักษ์ใหญ่ อันถัดไปของผมในอนาคต จะเป็นอะไรกันนะ...$1\""
 	  }
     },
 
@@ -15790,7 +15794,7 @@
       "Target": "Data/Events/farmhouse",
 	  "When": { "HasSeenEvent |contains=2000009": true, "Weather |contains=Rain, Snow": true },
       "Entries": {
-      "2000011/e 2000009/k 2000010/O Victor": "continue/-500 -500/farmer 81 17 2 Victor 90 26 2/pause 500/speak Victor \"Ah... the weather today isn't good.$2#$b#We'll try again the next clear night at 10:00pm, okay?$3\"/pause 500/end dialogue Victor \"Promise me you won't sneak a peek at the bridge!$1\""
+      "2000011/e 2000009/k 2000010/O Victor": "continue/-500 -500/farmer 81 17 2 Victor 90 26 2/pause 500/speak Victor \"อา... วันนี้อากาศไม่ดีเลย$2#$b#ไว้เราลองใหม่อีกครั้ง ให้คืนที่ท้องฟ้าปลอดโปร่ง ตอน 10:00pm โอเคนะครับ?$3\"/pause 500/end dialogue Victor \"สัญญากับผมนะครับ ว่าคุณจะไม่ไปแอบดูที่สะพาน!$1\""
 	  }
     },
 
