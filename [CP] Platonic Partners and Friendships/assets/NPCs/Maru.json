@@ -126,7 +126,7 @@
             "Entries":
             {
                 "NPC.cs.3965": "ฉันไม่ได้ชอบอยู่กับมารุ ตั้งแต่แรกอยู่แล้ว ทำไมถึงจะต้องย้ายไปอยู่ กับพวกเธอด้วยล่ะ?$a",
-                "NPC.cs.3966": "ฉันคงจะขออยู่ในที่ที่ อยากจะอยู่ละกัน  ไม่มีมารุอยู่รอบ ๆ แม่กับพ่อคงจะจำ และเห็นว่ายังมีฉันได้มากขึ้น.$u",
+                "NPC.cs.3966": "ฉันคงจะขออยู่ในที่ที่ อยากจะอยู่ละกัน ไม่มีมารุอยู่รอบ ๆ แม่กับพ่อคงจะจำ และเห็นว่ายังมีฉันได้มากขึ้น.$u",
                 "NPC.cs.3967": "ฉันคิดว่ามันจะไม่แฟร์ กับตัวมารุด้วย... ขอยืนยันคำเดิมว่า ฉันไม่ย้ายไปแน่นอน มีแต่จะอึดอัดใส่กันซะเปล่า ๆ",
                 "NPC.cs.3968": "ฉันเข้าใจว่ามันไม่ใช่ความผิด ของมารุหรือใครเลย แต่การได้อยู่ในที่ที่ฉัน อยากจะอยู่จริง ๆ คงจะเป็นเรื่องที่ดีกว่า",
             },
@@ -300,7 +300,7 @@
                 "HasMod |contains=DSVTeam.DSVNonSeasonal": "false",
             },
         },
-        //COMPATIBILITY: PLATONIC RELATIONSHIPS 
+        //COMPATIBILITY: PLATONIC RELATIONSHIPS
         //This section prevents the dating-flag-required version of the vanilla 10 heart event added by Platonic Relationships from triggering. Thanks to Cherry for providing the event codes!
         {
             "Action": "EditData",
@@ -411,7 +411,7 @@
                 "TermofEndearment |contains=BFF": "false",
 		"HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
             }
-         }, 
+         },
     {       //Hospital death- Maru
             "LogName": "Player 'Killed'- Maru capital",
             "Action": "EditData",
@@ -425,7 +425,7 @@
 		"TermofEndearment": "@, BFF",
 		"HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
             }
-         }, 
+         },
 //divorce: no changes needed
      {       //Island death before Leo - Maru
 	        "LogName": "Island Death Maru",
@@ -440,7 +440,7 @@
 			"Relationship:Willy |contains=Married": "false",
                 	"HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
 		    }
-	     }, 
+	     },
      {       //Island death with Leo
 	        "LogName": "Island Death- Leo, Maru",
             "Action": "EditData",
@@ -454,7 +454,7 @@
 			"Relationship:Willy |contains=Married": "false",
                 	"HasMod |contains=CasualInvidia.SpousesReactToDeath": "true"
 		    }
-	     },   
+	     },
      {       //Island death after Leo
 	        "LogName": "Island Death- LeoMoved, Maru",
             "Action": "EditData",
@@ -477,7 +477,7 @@
 		"Entries": {
 			"marriage_sit": "เธอคิดว่าเพนนีจะได้ พบกับใครสักคนที่พร้อมจะรัก และใช้ชีวิตไปด้วยกันมั้ย?#$b#ฉันคิดว่ามีโอกาส จะเป็นแซมแน่เลย$h",
 			"marriage_r": "วันนี้เธอดูดีมาก ๆ เลยล่ะจ้ะ!",
-			"marriage_r2": "ฉันคือชาวนา {{SocialMenuLabel}} ที่มีงานเสริมเป็นพยาบาล และนักวิทยาศาสตร์#$b#ถ้าฉันจะต้องเลือกทำ อย่างใดอย่างนึงเหรอ... มันแน่อยู่แล้ว ขอไม่เลือกดีกว่า$h", 
+			"marriage_r2": "ฉันคือชาวนา {{SocialMenuLabel}} ที่มีงานเสริมเป็นพยาบาล และนักวิทยาศาสตร์#$b#ถ้าฉันจะต้องเลือกทำ อย่างใดอย่างนึงเหรอ... มันแน่อยู่แล้ว ขอไม่เลือกดีกว่า$h",
 			"marriage_p": "ฉันอยากให้เพนนี ได้เจอกับใครสักคนจังเลย ใครที่จะมาทำให้คำว่า 'ครอบครัว' ของเธอสมบูรณ์แบบ",
    	    },
 		"When": {
