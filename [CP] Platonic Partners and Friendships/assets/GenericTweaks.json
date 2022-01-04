@@ -175,8 +175,8 @@
             {
                 "SocialPage.cs.11636": "({{SocialMenuLabel}})",
                 "SocialPage.cs.11637": "({{SocialMenuLabel}})",
-                "SocialPage.cs.11642": "(ex-{{SocialMenuLabel}})",
-                "SocialPage.cs.11643": "(ex-{{SocialMenuLabel}})",
+                "SocialPage.cs.11642": "(อดีต{{SocialMenuLabel}})",
+                "SocialPage.cs.11643": "(อดีต{{SocialMenuLabel}})",
             },
             "When":
             {
@@ -190,8 +190,8 @@
             {
                 "SocialPage.cs.11636": "({{SocialMenuLabel}})",
                 "SocialPage.cs.11637": "({{SocialMenuLabel}})",
-                "SocialPage.cs.11642": "(ex-{{SocialMenuLabel}})",
-                "SocialPage.cs.11643": "(ex-{{SocialMenuLabel}})",
+                "SocialPage.cs.11642": "(อดีต{{SocialMenuLabel}})",
+                "SocialPage.cs.11643": "(อดีต{{SocialMenuLabel}})",
             },
             "When":
             {
