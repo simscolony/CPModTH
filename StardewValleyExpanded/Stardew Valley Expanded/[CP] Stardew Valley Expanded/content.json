@@ -22513,51 +22513,51 @@
 
     //Prevents players from gifting the super starfruit
 
-{    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Elliott", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Harvey", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sebastian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Shane", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Abigail", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Emily", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Haley", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Leah", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Maru", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Penny", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Caroline", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Clint", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Demetrius", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Dwarf", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Evelyn", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/George", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Gus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Jas", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Jodi", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Kent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Krobus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Leo", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Linus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Marnie", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Pam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Pierre", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Robin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sandy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Vincent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Willy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Wizard", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sophia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Olivia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Victor", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Andy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Susan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Morgan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/MarlonFay", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/GuntherSilvian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Claire", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Martin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Lewis", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/MorrisTod", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%I can only give this to a Junimo." }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Elliott", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Harvey", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sebastian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Shane", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Abigail", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Emily", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Haley", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Leah", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Maru", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Penny", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Caroline", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Clint", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Demetrius", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Dwarf", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Evelyn", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/George", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Gus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Jas", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Jodi", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Kent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Krobus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Leo", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Linus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Marnie", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Pam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Pierre", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Robin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sandy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Vincent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Willy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Wizard", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sophia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Olivia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Victor", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Andy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Susan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Morgan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/MarlonFay", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/GuntherSilvian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Claire", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Martin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Lewis", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/MorrisTod", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Super Starfruit}}": "%ฉันสามารถมอบสิ่งนี้ ให้กับจูนิโม่เท่านั้น" }},
 
 {
     "Action": "EditData",
@@ -25384,7 +25384,7 @@
       "Target": "Data/NPCGiftTastes",
 	  "When": { "HasSeenEvent": "6951319" },
       "Entries": {
-        "Lance": "This will serve me well. You have my gratitude./896/Ah, a most interesting gift. Thank you./74 797 261 688 689 690 446 96 97 98 99 121 122 158 159 161 160 162 163 166 305 306 704 909 857/I suppose I could practice my magic on this.../-80 -74 338 80 82/I'm afraid this doesn't suit me./-81 330 283 206 211 216 233 234 245 220 221 222 223 224 279 612 611 608 604/Perhaps I'll find a way to make use of this./-4 -28 286 287 288 829 396 393 397 392 394/"
+        "Lance": "สิ่งนี้เป็นประโยชน์กับผม มากเลยครับ ผมขอขอบคุณจากใจเลย/896/อา เป็นของขวัญที่น่าสนใจดี ขอบคุณ/74 797 261 688 689 690 446 96 97 98 99 121 122 158 159 161 160 162 163 166 305 306 704 909 857/ผมมันอาจจะใช้มัน เพื่อทดลองเวทย์ดูละกัน.../-80 -74 338 80 82/ผมเกรงว่าสิ่งนี่ คงไม่เหมาะกับผม/-81 330 283 206 211 216 233 234 245 220 221 222 223 224 279 612 611 608 604/บางทีไว้จะลอง หาวิธีใช้มันละกันครับ/-4 -28 286 287 288 829 396 393 397 392 394/"
       }
     },
 	//LOVES: Galaxy Soul, Void Shard, Swirl Stone, Green Mushroom, Ornate Treasure Chest, Gemfish, <MONSTER CROP>, and Torpedo Trout
@@ -25448,8 +25448,8 @@
       "Target": "Data/EngagementDialogue",
 	  "When": { "HasSeenEvent": "6951319" },
       "Entries": {
-        "Lance0": "This is the start of a wonderful new adventure together...$4",
-        "Lance1": "This is the start of a wonderful new adventure together...$4"
+        "Lance0": "นี่จะเป็นการเริ่มต้น การผจญภัยที่แสนวิเศษ ที่เราจะมีด้วยกัน...$4",
+        "Lance1": "นี่จะเป็นการเริ่มต้น การผจญภัยที่แสนวิเศษ ที่เราจะมีด้วยกัน...$4"
       }
     },
 
@@ -25498,17 +25498,17 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "I can't say I'm a fan of comedies, but this film shows promise.$1"
+          "Text": "ผมก็ไม่ใช่คอหนังตลก หรอกนะครับ แต่เรื่องนี้ดูใช้ได้เลยแหละ$1"
         },
         "DuringMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "%Lance looks at you and smiles."
+          "Text": "%แลนซ์มองคุณและยิ้มให้"
         },
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "*chuckle* That little sapling left an impression on me.$5"
+          "Text": "*คิกคัก* เจ้าต้นอ่อนพวกนั้น สร้างความประทับใจให้ผมจัง$5"
         }
       },
         "ID": "reaction_0"
@@ -25522,17 +25522,17 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Ah! There's healthy options here. I was afraid there would only be sweets.$1"
+          "Text": "อ้า! มีเมนูเพื่อสุขภาพด้วยแฮะ ผมคิดว่าจะมีแต่อะไรหวานๆ ซะอีก$1"
         },
         "DuringMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "%Lance is intrigued by the movie."
+          "Text": "%หนังเรื่องนี้ ทำให้แลนซ์ทึ่ง"
         },
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "The world is too big for one tale to tell.$5"
+          "Text": "โลกใบนี้กว้างใหญ่เกินกว่า ที่จะมีเรื่องเล่าแค่เพียงเรื่องเดียว$5"
         }
       },
         "ID": "reaction_0"
@@ -25546,17 +25546,17 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "There's something special about that crane machine...$6#$e#Ah. It's nothing, @.$5"
+          "Text": "มันมีอะไรพิเศษ เกี่ยวกับตู้คีบตุ๊กตารึเปล่า...$6#$e#อ้อ ไม่มีอะไรหรอก @$5"
         },
         "DuringMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "Ah. He's quite the strategist...$5"
+          "Text": "อาา เขาถือว่าเป็นนักวางแผนเลยนะ...$5"
         },
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "The protagonist was clever.$0"
+          "Text": "พระเอกฉลาดมาก$0"
         }
       },
         "ID": "reaction_0"
@@ -25570,17 +25570,17 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Shall we grab our seats?$1"
+            "Text": "เราได้ที่นั่งรึยัง?$1"
           },
           "DuringMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "What a peculiar species...$5"
+            "Text": "เป็นเผ่าพันธ์ที่แปลกประหลาดจริง...$5"
           },
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Thank you for taking me.$0"
+            "Text": "ขอบคุณที่ชวนผมมาดู$0"
           }
         },
         "ID": "reaction_2"
@@ -25594,7 +25594,7 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "The birds bring a unique ambience...$5"
+          "Text": "พวกนก สร้างบรรยากาศ ที่เป็นเอกลักษณ์นะ...$5"
         },
         "DuringMovie": {
           "ResponsePoint": null,
@@ -25604,7 +25604,7 @@
         "AfterMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "The film was interesting...$6"
+          "Text": "หนังเรื่องนี้ น่าสนใจจริงๆ...$6"
         }
       },
         "ID": "reaction_0"
@@ -26054,7 +26054,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Alesia",
 	 "When": { "HasSeenEvent": "7502582", "Day": "1" },
 	 "Entries": {
-     "Mon": "See anything interesting during your travels lately?$1",
+     "Mon": "คุณเห็นอะไรน่าสนใจ ระหว่างการเดินทาง เมื่อไม่นานมานี้บ้างมั้ยล่ะ?$1",
        }
     },
 	{
@@ -26062,7 +26062,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Alesia",
 	 "When": { "HasSeenEvent": "7502582", "Day": "2" },
 	 "Entries": {
-     "Tue": "Hello, @. You're always ready for anything.$1#$e#May Yoba guide you.$0",
+     "Tue": "สวัสดี @ คุณดูมีความพร้อม สำหรับทุกสิ่งเสมอเลยนะ$1#$e#ขอให้โยบะนำทางคุณ$0",
        }
     },
 	{
@@ -26070,7 +26070,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Alesia",
 	 "When": { "HasSeenEvent": "7502582", "Day": "16, 23" },
 	 "Entries": {
-     "Tue": "I'm happy to see you're well and safe, @.$1#$e#May Yoba guide you.$0",
+     "Tue": "ฉันมีความสุขที่เห็นคุณ สบายดีและปลอดภัยนะ @$1#$e#ขอให้โยบะนำทางคุณ$0",
        }
     },
 	{
@@ -26078,7 +26078,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Alesia",
 	 "When": { "HasSeenEvent": "7502582", "Day": "17" },
 	 "Entries": {
-     "Wed": "Are you stocked up on haste elixirs, @?$0",
+     "Wed": "คุณได้ตุนน้ำยาตัวเบา เอาไว้บ้างรึเปล่า @?$0",
        }
     },
 	{
@@ -26086,7 +26086,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Alesia",
 	 "When": { "HasSeenEvent": "7502582", "Day": "27" },
 	 "Entries": {
-     "Sat": "It's refreshing to visit the valley again.$1",
+     "Sat": "เป็นอะไรที่สดชื่นดีจัง ที่ได้กลับมาเยี่ยมเยียน หุบเขาอีกครั้ง$1",
        }
     },
 	{
@@ -26094,7 +26094,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Alesia",
 	 "When": { "HasSeenEvent": "7502582", "Day": "28" },
 	 "Entries": {
-     "Sun": "Don't hesitate to ask if you require my bow.$0",
+     "Sun": "ไม่ต้องเกรงใจนะ ถ้าคุณอยากจะยืมธนูของฉัน$0",
        }
     },
 
@@ -26102,7 +26102,7 @@ Castle Village (work on during the beta)
 	 "Action": "EditData",
 	 "Target": "data/events/adventureguild",
 	 "Entries": {
-     "7502582/j 90/e 1000034": "MarlonsTheme/-500 -500/farmer -300 -300 0 MarlonFay 6 13 2/addTemporaryActor Alesia 16 32 6 14 0 true/skippable/pause 500/viewport 6 15 true/pause 1300/warp farmer 6 19/playSound doorClose/pause 700/move Alesia 0 0 1/pause 110/move Alesia 0 0 2/pause 350/move farmer 0 -2 0 true/pause 100/jump Alesia/pause 1000/move Alesia 0 1 2/speak Alesia \"Oh! You must be @, the new adventurer Marlon told me so much about.$1#$b#My name is Alesia. I hail from Castle Village.$0\"/pause 400/move MarlonFay 0 1 1/move MarlonFay 1 0 2/move MarlonFay 0 1 2/pause 300/speak MarlonFay \"Alesia lived in Stardew Valley years ago. She's a talented sniper.#$b#I requested her aid. Slimes were duplicating on the cavern ceilings, too high for me to reach with a sword.#$b#I'm not as good of a shot I used to be.$2\"/pause 700/move Alesia 0 0 1/pause 600/showFrame MarlonFay 18/pause 500/speak Alesia \"You're too hard on yourself, Marlon.$2#$b#If you require my bow again, don't hesitate to ask.#$b#Besides, I quite enjoy visiting the valley.$1\"/pause 400/showFrame MarlonFay 0/pause 300/move Alesia 0 0 2/pause 300/speak Alesia \"I must take my leave. Apologies for cutting our introduction short, @.\"/pause 300/showFrame MarlonFay 18/pause 250/move Alesia 0 0 1/pause 300/speak Alesia \"Until next time, Marlon.\"/speak MarlonFay \"Farewell, Alesia.\"/pause 500/move Alesia 0 -2 0 true/pause 300/showFrame MarlonFay 12/move farmer 0 -2 0 true/pause 100/showFrame MarlonFay 10/pause 200/stopMusic/pause 250/showFrame Alesia 4/pause 150/showFrame Alesia 0/pause 800/showFrame Alesia 16/pause 300/showFrame Alesia 18/pause 400/showFrame Alesia 20/pause 300/showFrame Alesia 21/playSound warrior/pause 900/screenFlash 2/warp Alesia -300 -300/playSound wand/pause 1400/move MarlonFay 0 0 3/pause 800/move farmer 0 0 1/pause 400/speak MarlonFay \"Well then. Back to it.$0\"/pause 400/globalFade/viewport -1000 -1000/end dialogue MarlonFay \"Castle Village is home to many monster hunters. Alesia says she feels like she belongs there.#$e#I do miss having her here, though.$2\"",
+     "7502582/j 90/e 1000034": "MarlonsTheme/-500 -500/farmer -300 -300 0 MarlonFay 6 13 2/addTemporaryActor Alesia 16 32 6 14 0 true/skippable/pause 500/viewport 6 15 true/pause 1300/warp farmer 6 19/playSound doorClose/pause 700/move Alesia 0 0 1/pause 110/move Alesia 0 0 2/pause 350/move farmer 0 -2 0 true/pause 100/jump Alesia/pause 1000/move Alesia 0 1 2/speak Alesia \"โอ้! คุณต้องเป็น @ แน่เลย นักผจญภัยคนใหม่ที่มาร์ลอน พูดให้ฉันฟังอยู่บ่อยๆ$1#$b#ฉันชื่อว่าอลีเซีย มาจากแคสเซิลวิลเลจ$0\"/pause 400/move MarlonFay 0 1 1/move MarlonFay 1 0 2/move MarlonFay 0 1 2/pause 300/speak MarlonFay \"อลีเซียอาศัยอยู่ในสตาร์ดิวแวลลี เมื่อหลายปีก่อน เธอเป็นสไนเปอร์ที่มีพรสวรรค์#$b#ข้าขอให้เธอมาช่วย พวกสไลม์แบ่งตัวอยู่ที่เพดานถ้ำ สูงเกินกว่าที่ข้า จะกวัดแกว่งดาบไปถึง#$b#ตอนนี้ข้าก็ยิงไม่แม่น เหมือนแต่ก่อนแล้ว$2\"/pause 700/move Alesia 0 0 1/pause 600/showFrame MarlonFay 18/pause 500/speak Alesia \"คุณฝืนตัวเองเกินไปแล้ว มาร์ลอน$2#$b#หากคุณต้องการธนูของฉัน บอกมาได้เลยค่ะ ไม่ต้องเกรงใจ#$b#อีกอย่าง ฉันก็สนุกด้วย ที่ได้กลับมาเยี่ยมหุบเขา$1\"/pause 400/showFrame MarlonFay 0/pause 300/move Alesia 0 0 2/pause 300/speak Alesia \"ฉันคงต้องไปแล้ว ต้องขออภัยที่ต้องยุติ บทสนาลงตรงนี้นะ @\"/pause 300/showFrame MarlonFay 18/pause 250/move Alesia 0 0 1/pause 300/speak Alesia \"ไว้เจอกันใหม่ค่ะ มาร์ลอน\"/speak MarlonFay \"ขอให้โชคดี อลีเซีย\"/pause 500/move Alesia 0 -2 0 true/pause 300/showFrame MarlonFay 12/move farmer 0 -2 0 true/pause 100/showFrame MarlonFay 10/pause 200/stopMusic/pause 250/showFrame Alesia 4/pause 150/showFrame Alesia 0/pause 800/showFrame Alesia 16/pause 300/showFrame Alesia 18/pause 400/showFrame Alesia 20/pause 300/showFrame Alesia 21/playSound warrior/pause 900/screenFlash 2/warp Alesia -300 -300/playSound wand/pause 1400/move MarlonFay 0 0 3/pause 800/move farmer 0 0 1/pause 400/speak MarlonFay \"ถ้าเช่นนั่น เรากลับเข้าเรื่องกันเถอะ$0\"/pause 400/globalFade/viewport -1000 -1000/end dialogue MarlonFay \"แคสเซิลวิลเลจเป็นบ้านของ นักล่ามอนสเตอร์มากมาย อลีเซียบอกว่า เธอรู้สึกว่าที่นั่น เป็นส่วนหนึ่งของเธอ#$e#แต่ยังไง ข้าก็ยังคิดถึงยามที่เธออยู่ที่นี่$2\"",
 	 },
 },
 
@@ -26168,7 +26168,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Isaac": "จัดการจิ๊กโก๋เงาน่ะเรื่องเด็กๆ$0#$b#แต่จับมันมาเป็นๆ นี่เป็นคนละเรื่อง...$3#$e#ทำตัวให้มีประโยชน์ แล้วไปหยิบ 'เหล้าฟักทองปรุงรส (spiced pumpkin cider)' นั่นให้ข้าสิ$0"
+        "Isaac": "จัดการจิ๊กโก๋เงาน่ะเรื่องเด็กๆ$0#$b#แต่จับมันมาเป็นๆ นี่เป็นคนละเรื่อง...$3#$e#ทำตัวให้มีประโยชน์ แล้วไปหยิบ เหล้าฟักทองปรุงรส นั่นให้ข้าสิ$0"
       }
     },
 
@@ -26190,7 +26190,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Isaac",
 	 "When": { "HasSeenEvent": "908079", "Day": "4" },
 	 "Entries": {
-     "Thu": "Can't you see I'm trying to relax here? Leave me.$1",
+     "Thu": "ไม่เห็นรึไงว่าฉันกำลังพักผ่อนอยู่? ไปซะ$1",
        }
     },
 	{
@@ -26198,7 +26198,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Isaac",
 	 "When": { "HasSeenEvent": "908079", "Day": "5, 11" },
 	 "Entries": {
-     "Thu": "I've cleared so many mine levels I lost count.$1",
+     "Thu": "ฉันนะเก็บกวาดเหมือง ไปตั้งไม่รู้กี่ชั้นแล้ว ไม่อยากจะนับหรอก$1",
        }
     },
 	{
@@ -26206,7 +26206,7 @@ Castle Village (work on during the beta)
 	 "Target": "characters/dialogue/Isaac",
 	 "When": { "HasSeenEvent": "908079", "Day": "26" },
 	 "Entries": {
-     "Fri": "What do you want?",
+     "Fri": "ต้องการอะไร?",
        }
     },
 	{
@@ -26283,7 +26283,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Sawyer": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Sawyer_WarpRoom 3 3/Sawyer",
+        "Sawyer": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Sawyer_WarpRoom 3 3/ซอว์เยอร์",
         }
     },
 
@@ -26338,7 +26338,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Brianna": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Brianna_WarpRoom 3 3/Brianna",
+        "Brianna": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Brianna_WarpRoom 3 3/เบรียนน่า",
         }
     },
 
@@ -26393,7 +26393,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Drake": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Drake_WarpRoom 3 3/Drake",
+        "Drake": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Drake_WarpRoom 3 3/เดรก",
         }
     },
 
@@ -26448,7 +26448,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Ekon": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ekon_WarpRoom 3 3/Ekon",
+        "Ekon": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ekon_WarpRoom 3 3/เอกอน",
         }
     },
 
@@ -26503,7 +26503,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Edmund": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Edmund_WarpRoom 3 3/Edmund",
+        "Edmund": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Edmund_WarpRoom 3 3/เอ็ดมันด์",
         }
     },
 
@@ -26558,7 +26558,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Gertrude": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Gertrude_WarpRoom 3 3/Gertrude",
+        "Gertrude": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Gertrude_WarpRoom 3 3/เกอร์ทรูด",
         }
     },
 
@@ -26613,7 +26613,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Brock": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Brock_WarpRoom 3 3/Brock",
+        "Brock": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Brock_WarpRoom 3 3/บร็อก",
         }
     },
 
@@ -26668,7 +26668,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Cordelia": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Cordelia_WarpRoom 3 3/Cordelia",
+        "Cordelia": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Cordelia_WarpRoom 3 3/คอร์เดเลีย",
         }
     },
 
@@ -26723,7 +26723,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Freya": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Freya_WarpRoom 3 3/Freya",
+        "Freya": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Freya_WarpRoom 3 3/เฟรย่า",
         }
     },
 
@@ -26778,7 +26778,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Cassandra": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Cassandra_WarpRoom 3 3/Cassandra",
+        "Cassandra": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Cassandra_WarpRoom 3 3/แคสแซนดร้า",
         }
     },
 
@@ -26833,7 +26833,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Emin": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Emin_WarpRoom 3 3/Emin",
+        "Emin": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Emin_WarpRoom 3 3/อีมิน",
         }
     },
 
@@ -27598,7 +27598,7 @@ Castle Village (work on during the beta)
       "Target": "Data/Events/farm",
 	  "When": { "HasFlag": "museumComplete" },
       "Entries": {
-      "593069353/f GuntherSilvian 2000/y 2/t 600 1000": "none/-500 -500/farmer 32 32 0 GuntherSilvian 30 30 2/skippable/pause 1250/speak GuntherSilvian \"Good morning, Mr. @. I'm hosting a special artifact showing at the museum today. It starts at 12:00PM.$0^Good morning, Ms. @. I'm hosting a special artifact showing at the museum today. It starts at 12:00pm.#$b#I'd be delighted if you could attend!$1\"/pause 500/end"
+      "593069353/f GuntherSilvian 2000/y 2/t 600 1000": "none/-500 -500/farmer 32 32 0 GuntherSilvian 30 30 2/skippable/pause 1250/speak GuntherSilvian \"อรุณสวัสดิ์ คุณ  @ วันนี้ ผมเป็นเจ้าภาพในการจัดแสดง วัตถุโบราณ์ชิ้นพิเศษ ที่พิพิธภัณฑ์ และจะเริ่มเวลา 12:00PM$0^อรุณสวัสดิ์ คุณ  @ วันนี้ ผมเป็นเจ้าภาพในการจัดแสดง วัตถุโบราณ์ชิ้นพิเศษ ที่พิพิธภัณฑ์ และจะเริ่มเวลา 12:00PM#$b#ผมคงจะมี ความยินดีเป็นอย่างยิ่ง หากคุณสามารถมาร่วมได้ครับ!$1\"/pause 500/end"
 	   }
     },
 	{
@@ -27606,274 +27606,274 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/Events/ArchaeologyHouse",
       "Entries": {
-      "593069354/e 593069353/t 1100 1600": "none/-500 -500/farmer 3 14 0 GuntherSilvian 26 13 1 Caroline 31 4 2 Pierre 34 4 2 Demetrius 32 18 0 Robin 30 18 0 Evelyn 27 15 1 George 29 12 0 Sophia 35 13 3 Gus 36 14 2 Lewis 45 9 0 Marnie 40 9 0 Jas 47 7 1 Jodi 45 18 0 Sam 48 16 3 Kent 43 18 0 Vincent 46 14 2 Elliott 44 12 1 Leah 45 12 3 Pam 37 16 3 Andy 30 8 2 Susan 32 8 0 Olivia 34 12 0 Victor 32 12 2 Haley 38 6 1 Emily 40 5 2 Clint 45 5 2 Harvey 27 6 3/advancedMove Harvey true 3 5000 0 2 3 4000 0 2 3 5000 0 -2 3 4000 0 -2/advancedmove Susan true 4 2850 3 0 4 7000 -3 0/advancedMove Pam false 3 8000 0 -6 3 5000/advancedMove Marnie true 4 3250 3 0 4 3270 -3 0/advancedMove Kent true 4 1750 -2 0 0 -2 1 5000 0 2 2 0 4 6000/advancedMove Evelyn true 1 3400 0 1 1 4600 0 -1/advancedMove Demetrius true 4 6500 3 0 4 6000 -3 0/advancedMove Emily true 2 4400 2 0 2 5300 -2 0/animate Clint false true 2000 0 0 0 12 0 0/animate Caroline false true 800 0 0 0 0 0 0 4 4 0 0 0 0 0 0 0 0 0/animate Sophia false true 1500 12 12 12 12 12 12 0 0 12/animate Jas false true 250 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 0 4 4 4 4/animate Lewis false true 1750 8 8 8 12 8 8 8 8 8/positionOffset Sophia -5 25 true/positionOffset Gus 4 12 true/positionOffset Pierre 20 -10 true/positionOffset Jas 0 -15 true/positionOffset Olivia -20 -25 true/positionOffset Victor -10 15 true/positionOffset Leah 12 -4 true/positionOffset Elliott -14 6 true/positionOffset Robin 10 -25 true/positionOffset Jodi -25 -15 true/positionOffset Andy 0 -15 true/positionOffset George -20 -12 true/positionOffset Vincent -20 -8 true/positionOffset Haley 5 32 true/positionOffset Clint -25 -7 true/positionOffset Lewis -15 -8 true/pause 750/playMusic junimoStarSong/pause 500/viewport 39 10 true/viewport move -1 0 14500/mail GuntherGaldoranGemReward/skippable/move farmer 0 -1 1/move farmer 4 0 2/move farmer 0 1 1/move farmer 4 0 0/move farmer 0 -1 1/move farmer 13 0 1/pause 1500/faceDirection GuntherSilvian 2 true/pause 300/faceDirection GuntherSilvian 3 true/pause 500/speak GuntherSilvian \"Ah, hello Mr. @. I'm glad you could make it.$0^Ah, hello Ms. @. I'm glad you could make it.$0\"/pause 650/faceDirection GuntherSilvian 2 true/pause 250/faceDirection GuntherSilvian 1 true/pause 800/speak GuntherSilvian \"I haven't seen the museum this packed in years. And it's all thanks to your efforts.$1\"/pause 800/faceDirection GuntherSilvian 2 true/pause 275/faceDirection GuntherSilvian 3 true/pause 750/speak GuntherSilvian \"As a token of my thanks, I want to give you a special treasure of mine.$0#$b#You'll receive it soon in the mail.$1\"/pause 500/emote farmer 32/pause 250/globalFade/viewport -1000 -1000/pause 1000/addConversationTopic museumCompleted 7/end"
+      "593069354/e 593069353/t 1100 1600": "none/-500 -500/farmer 3 14 0 GuntherSilvian 26 13 1 Caroline 31 4 2 Pierre 34 4 2 Demetrius 32 18 0 Robin 30 18 0 Evelyn 27 15 1 George 29 12 0 Sophia 35 13 3 Gus 36 14 2 Lewis 45 9 0 Marnie 40 9 0 Jas 47 7 1 Jodi 45 18 0 Sam 48 16 3 Kent 43 18 0 Vincent 46 14 2 Elliott 44 12 1 Leah 45 12 3 Pam 37 16 3 Andy 30 8 2 Susan 32 8 0 Olivia 34 12 0 Victor 32 12 2 Haley 38 6 1 Emily 40 5 2 Clint 45 5 2 Harvey 27 6 3/advancedMove Harvey true 3 5000 0 2 3 4000 0 2 3 5000 0 -2 3 4000 0 -2/advancedmove Susan true 4 2850 3 0 4 7000 -3 0/advancedMove Pam false 3 8000 0 -6 3 5000/advancedMove Marnie true 4 3250 3 0 4 3270 -3 0/advancedMove Kent true 4 1750 -2 0 0 -2 1 5000 0 2 2 0 4 6000/advancedMove Evelyn true 1 3400 0 1 1 4600 0 -1/advancedMove Demetrius true 4 6500 3 0 4 6000 -3 0/advancedMove Emily true 2 4400 2 0 2 5300 -2 0/animate Clint false true 2000 0 0 0 12 0 0/animate Caroline false true 800 0 0 0 0 0 0 4 4 0 0 0 0 0 0 0 0 0/animate Sophia false true 1500 12 12 12 12 12 12 0 0 12/animate Jas false true 250 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 0 4 4 4 4/animate Lewis false true 1750 8 8 8 12 8 8 8 8 8/positionOffset Sophia -5 25 true/positionOffset Gus 4 12 true/positionOffset Pierre 20 -10 true/positionOffset Jas 0 -15 true/positionOffset Olivia -20 -25 true/positionOffset Victor -10 15 true/positionOffset Leah 12 -4 true/positionOffset Elliott -14 6 true/positionOffset Robin 10 -25 true/positionOffset Jodi -25 -15 true/positionOffset Andy 0 -15 true/positionOffset George -20 -12 true/positionOffset Vincent -20 -8 true/positionOffset Haley 5 32 true/positionOffset Clint -25 -7 true/positionOffset Lewis -15 -8 true/pause 750/playMusic junimoStarSong/pause 500/viewport 39 10 true/viewport move -1 0 14500/mail GuntherGaldoranGemReward/skippable/move farmer 0 -1 1/move farmer 4 0 2/move farmer 0 1 1/move farmer 4 0 0/move farmer 0 -1 1/move farmer 13 0 1/pause 1500/faceDirection GuntherSilvian 2 true/pause 300/faceDirection GuntherSilvian 3 true/pause 500/speak GuntherSilvian \"อา สวัสดีครับ คุณ @ ผมดีใจที่คุณมาร่วมงาน$0^อา สวัสดีครับ คุณ @ ผมดีใจที่คุณมาร่วมงาน$0\"/pause 650/faceDirection GuntherSilvian 2 true/pause 250/faceDirection GuntherSilvian 1 true/pause 800/speak GuntherSilvian \"ผมไม่ได้เห็นพิพิธภัณฑ์ มีของมากมายแบบนี้มาหลายปีแล้ว และทั้งหมดนี้ต้องขอบคุณ ความเอื้อเฟื้อของคุณครับ$1\"/pause 800/faceDirection GuntherSilvian 2 true/pause 275/faceDirection GuntherSilvian 3 true/pause 750/speak GuntherSilvian \"และเพื่อเป็นสัญลักษณ์ แทนคำขอบคุณ ผมขอมอบสมบัติ สุดล้ำค่าของผม$0#$b#คุณจะได้รับมัน ทางจดหมายนะครับ$1\"/pause 500/emote farmer 32/pause 250/globalFade/viewport -1000 -1000/pause 1000/addConversationTopic museumCompleted 7/end"
 	   }
     },
 
 
     //Prevents players from gifting the Gladoran Gem
 
-{    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Elliott", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Harvey", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sebastian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Shane", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Abigail", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Emily", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Haley", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Leah", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Maru", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Penny", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Caroline", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Clint", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Demetrius", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Dwarf", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Evelyn", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/George", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Gus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Jas", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Jodi", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Kent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Krobus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Leo", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Linus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Marnie", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Pam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Pierre", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Robin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sandy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Vincent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Willy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Wizard", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Sophia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Olivia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Victor", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Andy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Susan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Morgan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/MarlonFay", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/GuntherSilvian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Claire", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Martin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/Lewis", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%I shouldn't gift this." }},
-{    "Action": "EditData", "Target": "Characters/Dialogue/MorrisTod", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Galdoran Gem}}": "%I shouldn't gift this." }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Alex", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Elliott", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Harvey", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sebastian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Shane", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Abigail", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Emily", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Haley", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Leah", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Maru", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Penny", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Caroline", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Clint", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Demetrius", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Dwarf", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Evelyn", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/George", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Gus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Jas", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Jodi", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Kent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Krobus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Leo", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Linus", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Marnie", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Pam", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Pierre", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Robin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sandy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Vincent", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Willy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Wizard", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Sophia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Olivia", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Victor", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Andy", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Susan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Morgan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/MarlonFay", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/GuntherSilvian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Claire", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Martin", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Lewis", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Gladoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/MorrisTod", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Galdoran Gem}}": "%ฉันไม่ควรให้สิ่งนี้เป็นของขวัญ" }},
 
     {
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/GuntherSilvian",
 	   "Entries": {
-	   "museumCompleted": "I wonder if the completed museum collection will attract patrons from the city.$1",
+	   "museumCompleted": "ผมสงสัยครับ ว่าถ้าพิพิธภัณฑ์ มีการจัดแสดง คอลเลกชันต่างๆ อย่างสมบูรณ์แบบแล้ว จะช่วยสร้างความสนใจ ให้แก่ผู้บริจาค ที่มาจากตัวเมืองได้ไหม$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Sophia",
 	   "Entries": {
-	   "museumCompleted": "I'm so happy the museum has a fairy stone on display!$1",
+	   "museumCompleted": "ฉันดีใจจังที่พิพิธภัณฑ์ มีหินนางฟ้า จัดแสดงเอาไว้ด้วย!$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Olivia",
 	   "Entries": {
-	   "museumCompleted": "The completed museum collection gave me an idea to start my own collection.$3#$e#Or perhaps I could speak to Gunther about donating one of my Gotoran artifacts.$6",
+	   "museumCompleted": "การที่คอลเลกชัน ในพิพิธภัณฑ์ สมบูรณ์แบบนี้แล้ว ทำให้ฉันมีไอเดีย อยากจะเริ่มสะสมบ้างเลยจ้ะ$3#$e#หรือบางที ฉันจะลองคุยกับกันเธอร์ดู ว่าถ้าฉันอยากจะบริจาค วัตถุโบราณจากโกโตรัน ของฉันให้$6",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Victor",
 	   "Entries": {
-	   "museumCompleted": "I think I've come to find a new appreciation for artifacts.$1",
+	   "museumCompleted": "ผมว่า ผมพบความพึงพอใจใหม่ๆ กับวัตถุโบราณพวกนี้แล้ว$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Andy",
 	   "Entries": {
-	   "museumCompleted": "I don't see what the big deal is about those there artifacts. But it's makin' a lot of folks happy.$0",
+	   "museumCompleted": "ฉันว่าเรื่องเกี่ยวกับ วัตถุโบราณพวกนี้ มันไม่ใช่เรื่องใหญ่โตอะไรนี่ แต่มันก็ทำให้ชาวเมือง มีความสุขมาก$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Susan",
 	   "Entries": {
-	   "museumCompleted": "@! Gunther said you donated all of those artifacts. Good job, honey!$0",
+	   "museumCompleted": "@! กันเธอร์บอกว่า เธอเป็นคนบริจาค วัตถุโบราณพวกนั้น ทั้งหมดเลยหรอ เยี่ยมเลย ที่รัก!$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Alex",
 	   "Entries": {
-	   "museumCompleted": "The museum has a bunch of stuff on display now. That's cool.$0",
+	   "museumCompleted": "ตอนนี้ิพิพิธภัณฑ์ มีของเยอะแยะเลยแฮะ อย่างเด็ด$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Elliott",
 	   "Entries": {
-	   "museumCompleted": "After browsing the museum's artifact collection, I'm inspired to write something new!$1",
+	   "museumCompleted": "หลังจากที่ได้ชมของสะสมในพิพิธภัณฑ์แบบนี้แล้ว ผมมีแรงบันดาลใจ ในการเขียนอะไรใหม่ๆ ขึ้นมาเลยล่ะครับ!$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Harvey",
 	   "Entries": {
-	   "museumCompleted": "I'm fascinated by the prehistoric bones on display.$0",
+	   "museumCompleted": "ผมรู้สึกทึ่งกับกระดูก ยุคก่อนประวัติศาสตร์ ที่ถูกจัดแสดงไว้$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Sam",
 	   "Entries": {
-	   "museumCompleted": "My little brother wants to visit the museum tomorrow with me!$1",
+	   "museumCompleted": "พรุ่งนี้ น้องชายของฉัน อยากจะไปพิพิธภัณฑ์ กับฉันด้วย!$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Sebastian",
 	   "Entries": {
-	   "museumCompleted": "I don't get why everyone is worked up about old things on display.$0#$e#I guess it's kinda cool.$0",
+	   "museumCompleted": "ฉันไม่เห็นจะเข้าใจเลย ว่าทำไมทุกคนต้องเห่อ กับของเก่าๆ ที่จัดแสดงไว้แบบนั้นกัน$0#$e#คือฉันว่า มันก็เจ๋งอยู่หรอก$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Shane",
 	   "Entries": {
-	   "museumCompleted": "The chicken statue on display looks just like my chicken Charlie.$0",
+	   "museumCompleted": "รูปปั้นไก่ที่จัดแสดงไว้ ดูเหมือนชาร์ลี ไก่ของฉันเลย$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Abigail",
 	   "Entries": {
-	   "museumCompleted": "Wow.. I've never seen anything like the Bone Flute before.. I wonder if it still works. ",
+	   "museumCompleted": "ว้าว.. ฉันไม่เคยเห็นอะไร เหมือนฟลูตกระดูกนี่ มาก่อนเลย.. ฉันอยากรู้จัง ว่ามันยังเป่าได้อยู่มั้ย",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Emily",
 	   "Entries": {
-	   "museumCompleted": "Some of those artifacts give off a unique aura!$1",
+	   "museumCompleted": "วัตถุโบราณพวกนั้นบางอัน ปลดปล่อยออร่า ที่มีเอกลักษณ์ออกมาด้วย!$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Haley",
 	   "Entries": {
-	   "museumCompleted": "Oh my god. The museum is actually sort of worth checking out now.$0",
+	   "museumCompleted": "พระเจ้าช่วย ตอนนี้พิพิธภัณฑ์คือแบบ ต้องไปเลยนะ$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Leah",
 	   "Entries": {
-	   "museumCompleted": "I didn't know all these old things were buried around my house.$0",
+	   "museumCompleted": "ฉันไม่รู้มาก่อนเลยว่า ของพวกนั้นถูกฝังอยู่ใต้ดิน รอบๆ บ้านของฉัน$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Maru",
 	   "Entries": {
-	   "museumCompleted": "I want to tinker around with the dwarf gadget",
+	   "museumCompleted": "ฉันอยากจะลองแกะแยกส่วน ของใช้ของพวกคนแคระดูจัง",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Penny",
 	   "Entries": {
-	   "museumCompleted": "All the artifacts on display will make teaching lessons more interesting.$1",
+	   "museumCompleted": "วัตถุโบราณ ที่ถูดจัดแสดงทั้งหมดนี้ คงจะช่วยให้ การเรียนการสอน น่าสนใจมากขึ้นแน่ๆ$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Caroline",
 	   "Entries": {
-	   "museumCompleted": "I'm impressed you donated all those artifacts yourself, @.$0",
+	   "museumCompleted": "ฉันประทับใจมากเลย ที่เธอเป็นคนบริจาค วัตถุโบราณพวกนั้นทั้งหมด ด้วยตัวคนเดียว @$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Clint",
 	   "Entries": {
-	   "museumCompleted": "Hmm. I wonder what machine that rusty cog was used in.$0",
+	   "museumCompleted": "หืม ฉันอยากรู้จังว่าเครื่องจักร ที่ฟันเฟืองสนิมเกาะ ใช้ทำอะไร$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Demetrius",
 	   "Entries": {
-	   "museumCompleted": "The palm fossil is a particularly well-preserved specimen. I wonder if there's anything I can learn from it.$0",
+	   "museumCompleted": "ฟอสซิลต้นปาล์มนั่น ดูเหมือนว่าจะเป็น ตัวอย่างที่ถูกเก็บรักษา ไว้เป็นพิเศษ ฉันอยากรู้ว่าจะมีอะไร ที่ให้ฉันเรียนรู้จากมันได้บ้าง$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Dwarf",
 	   "Entries": {
-	   "museumCompleted": "You're displaying dwarfish artifacts in a museum?#$e#I hope your people can learn more about mine.",
+	   "museumCompleted": "เจ้าเอาวัตถุโบราณของคนแคระ ไปจัดแสดงไว้ที่พิพิธภัณฑ์รึ?#$e#ข้าหวังว่าผู้คนของเจ้า คงจะได้เรียนรู้ เกี่ยวกับเหมืองมากขึ้น",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Evelyn",
 	   "Entries": {
-	   "museumCompleted": "George thought he saw a fossilized leek in the museum.$1",
+	   "museumCompleted": "จอร์จคิดว่าเขาเห็น ต้นกระเทียม ในพิพิธภัณฑ์$1",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/George",
 	   "Entries": {
-	   "museumCompleted": "Why is my old spoon on display?$0#$e#...$0#$e#%George looks skeptical.",
+	   "museumCompleted": "ทำไมช้อนคันเก่าของฉัน ถึงโดนเอามาจัดแสดงด้วยล่ะ?$0#$e#...$0#$e#%จอรืจดูคาใจ",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Gus",
 	   "Entries": {
-	   "museumCompleted": "Gunther told me you're the one responsible for the museum's completed collection! Superb work.$0",
+	   "museumCompleted": "กันเธอร์บอกผมว่า คุณคือผู้รับผิดชอบ ในการทำให้ คอลเลกชันของพิพิธภัณฑ์ สมบูรณ์แบบได้! ทำได้ดีมากครับ$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Jas",
 	   "Entries": {
-	   "museumCompleted": "I didn't know other kids in the past played with toys too!",
+	   "museumCompleted": "หนูไม่รู้มาก่อนเลยว่า เด็กๆ สมัยก่อน ก็เล่นของเล่นเหมือนกัน!",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Jodi",
 	   "Entries": {
-	   "museumCompleted": "I wasn't aware how much history was buried right beneath us.$0",
+	   "museumCompleted": "ฉันไม่รู้มาก่อนเลยว่า มีประวัติศาสตร์ มากมายขนาดไหน ที่ถูกฝังไว้อยู่ใต้เท้าเรานี่เอง$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Kent",
 	   "Entries": {
-	   "museumCompleted": "The museum collection looks nice.$0",
+	   "museumCompleted": "คอลเลกชันของพิพิธภัณฑ์ ดูดีทีเดียวนะ$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Lewis",
 	   "Entries": {
-	   "museumCompleted": "Your work on the museum's collection has helped the town's image. Thank you, @.$0",
+	   "museumCompleted": "การที่เธอได้ช่วยเรื่อง ของสะสมในพิพิธภัณฑ์นี้ ช่วยให้ภาพลักษณ์ ของเมืองดีขึ้น ขอบคุณ@$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Linus",
 	   "Entries": {
-	   "museumCompleted": "There are many mysteries still buried beneath us.$0",
+	   "museumCompleted": "ยังคงมีปริศนามากมาย ที่ยังคงถูกฝังอยู่ ใต้เท้าของพวกเรา$0",
        }
     },
 	{
 	   "Action": "EditData",
 	   "Target": "characters/dialogue/Marnie",
 	   "Entries": {
-	   "museumCompleted": "Jas is excited to visit the museum again soon.$1#$e#I wonder if all those old things you dug up on your farmland were from your Grandpa.$0",
+	   "museumCompleted": "แจสตื่นเต้นมาก ที่จะได้ไปพิพิธภัณฑ์อีกครั้ง$1#$e#ฉันสงสัยจังว่า ถ้าของเก่าที่เธอขุดได้ ในฟาร์มพวกนั่น เป็นของของปู่เธอล่ะ$0",
        }
     },
 	{
