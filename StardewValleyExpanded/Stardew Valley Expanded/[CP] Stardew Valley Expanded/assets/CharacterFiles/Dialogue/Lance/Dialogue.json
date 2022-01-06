@@ -1,20 +1,20 @@
 ﻿{
 
 //Galdoran Outpost
-"Mon": "We are the spearhead that'll enforce a safe world.$0",
-"Mon4": "Hello there, @. What kind of business do you have this far away from civilization?$1",
-"Mon6": "We're organizing some more experienced groups to head deeper into the Badlands soon to deal with some... issues we're having.$6#$e#I'm not at liberty to discuss the details.$5",
-"Mon8": "Do you train every day? If you don't keep your reflexes sharp, you could get caught off guard out on the battlefield.$0",
-"summer_Mon8": "Some regions of Galdora are rich with platinum and palladium deposits.$0#$e#What makes these metals precious is that they don't react with the atmosphere.$1#$b#They're an important resource in magical equipment and research.$0",
-"fall_Mon8": "I've been fortunate enough to discover dozens of magic relics during my time.$0#$e#It's only a matter of time until you discover your own too.$1",
-"winter_Mon8": "There's several places I want to show you once Camilla gives you permission to enter Castle Village.#$e#I wonder if she's waiting for something. Or it could be some kind of bizarre test...#6#$b#That's just the sort of thing she'd do.$5",
-"Mon10": "Gazing at the crimson horizon together on top of an outpost...$5#$b#Now this is a moment I can treasure.$4",
+"Mon": "เราเป็นหัวหอกที่จะทำให้ โลกนี้ปลอดภัยครับ$0",
+"Mon4": "สวัสดีครับ @ ธุระอะไรพาท่านมาไกลจาก ความเจริญได้ขนาดนี้ กันล่ะครับ?$1",
+"Mon6": "พวกเรากำลังรวบรวม ผู้มีประสบการณ์ ไปตะลุยทุ่งร้างให้ลึกขึ้น เพิ่มอยู่ครับ เพื่อไปจัดการกับ... ข้อติดขัดที่เราเจออยู่น่ะ$6#$e#ข้าบอกละเอียดกว่านี้ ไม่ได้แล้วครับ$5",
+"Mon8": "ท่านฝึกทุกวันหรือไม่ครับ? ถ้าการตอบสนองของท่าน ไม่แหลมคมอยู่เสมอล่ะก็ ในสนามรบท่านอาจจะ พลาดพลั้งได้นะครับ$0",
+"summer_Mon8": "บางพื้นที่ของกัลโดร่า อุดมไปด้วยแพลตินัม และแพลเลเดียม ที่ทับถมกันอยู่ครับ$0#$e#สิ่งที่ทำให้โลหะพวกนี้ มีค่ามหาศาล คือการที่มันไม่ทำปฏิกิริยา กับอากาศครับ$1#$b#พวกมันเป็นทรัพยากรที่สำคัญ ของอุปกรณ์เวทและ งานวิจัยเวทมนตร์ครับ$0",
+"fall_Mon8": "ข้าโชคดีพอที่จะ ได้ค้นพบวัตถุเวทโบราณ หลายชิ้นในชีวิตครับ$0#$e#ขึ้นกับเวลาเท่านั้น แล้วท่านก็จะค้นพบเองเช่นกัน$1",
+"winter_Mon8": "มีหลายที่เลยที่ข้า อยากจะพาท่านไปชม หากคามิลล่าอนุญาตให้ ท่านเข้าแคสเซิลวิลเลจ ได้แล้วน่ะครับ#$e#ข้าสงสัยเหลือเกินว่านาง รออะไรอยู่ไหมนะ หรือมันเป็นการทดสอบ พิลึกอะไรกันแน่...#6#$b#นางชอบทำแบบนั้นน่ะครับ$5",
+"Mon10": "ได้ทอดสายตามอง ขอบฟ้าคริมสันด้วยกัน บนด่านหน้า...$5#$b#นี่สิครับถึงเป็นชั่วขณะ ที่ข้าจะไม่มีวันลืม$4",
 
 //Stardew Valley
-"Tue": "I own an outpost far up north, in the highlands.$0#$e#Perhaps one day, you'll join me there.$1",
-"Tue2": "The First Slash could certainly use someone with your talents...$0",
-"Tue8": "I've been contemplating buying property and building a house somewhere around here.$0#$b#I'm enjoying my time here immensely.$1",
-"summer_Tue8": "Bountiful amounts of mushrooms grow in some of the lower mine floors.$1#$e#I curious why that is...$5#$b#Perhaps I'll pursue studying them and unearth the reason.$0",
+"Tue": "ข้ามีด่านของตัวเองอยู่ ทางอุดรครับ บนภูเขา$0#$e#บางทีท่านคงจะ ไปอยู่กับข้าสักวัน$1",
+"Tue2": "ชาวคมแรกคงยินดีแน่ครับ หากมีคนมากฝีมืออย่างท่าน เข้าร่วมด้วย...$0",
+"Tue8": "ข้ากำลังคิดที่จะ ซื้อที่ดินปลูกบ้าน ที่ไหนสักแห่งแถวๆ นี้อยู่ครับ$0#$b#เวลาที่ข้าได้อยู่ที่นี่ ช่างตราตรึงยิ่งนัก$1",
+"summer_Tue8": "เห็ดจำนวนมากงอกงาม ที่เหมืองชั้นลึกลงไป$1#$e#น่าฉงนนักครับว่าเพราะอะไร ...$5#$b#บางทีข้าอาจจะลองศึกษา หาสาเหตุดูก็เป็นได้$0",
 "fall_Tue8": "The valley is in good hands with your wizard, Magnus Rasmodius.$1#$e#*chuckle* We always give him a warm welcome when he visits The First Slash.$0",
 "winter_Tue8": "The dwarf in the mines was kind enough to sell me hand-crafted bombs.$0#$e#Dwarfs make the finest bombs out of any species. It's how they carve through mountains to make their homes.$1",
 "Tue10": "*yawn*...$5#$b#I didn't get much sleep last night. I was exploring the mountains.$0#$e#*yawn*...$5#$b#I feel like I could just rest my head in your lap...$5#$e#%Lance is dozing off.",
