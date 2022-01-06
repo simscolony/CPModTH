@@ -27445,7 +27445,7 @@ Castle Village (work on during the beta)
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Marley": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Marley_WarpRoom 3 3/Marley",
+        "Marley": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Marley_WarpRoom 3 3/มาร์เลย์",
         }
     },
 
