@@ -2179,7 +2179,7 @@
 	"Custom_FirstSlashHallway": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_FirstSlashGuestRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_LanceSecretWarp": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-	
+
 
     //Map tracking Blue Moon Vineyard
 	"Custom_BlueMoonVineyard": {
@@ -17422,11 +17422,11 @@
 },
 
     //ANDY 10 Heart event - 'Old Friends' (Player has refurbished Aurora Vineyard - Community center route )
-{   
+{
 	"Action": "EditData",
 	"Target": "data/events/Custom_AndyHouse",
 	"When": { "HasSeenEvent|contains=7776012": true },
-	"Entries": { 
+	"Entries": {
     "5000006/n AndyPictureLetter": "kindadumbautumn/-500 -500/Andy 16 17 3 farmer -50 -50 0/animate Andy true true 100 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 33 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 34 33 32 32 32 32 32 32 32 32 32 32 32/pause 1000/viewport 12 15 true/skippable/pause 1750/playSound stoneStep/playSound stoneStep/pause 300/playSound stoneStep/playSound stoneStep/pause 230/playSound stoneStep/playSound stoneStep/pause 1200/warp farmer 12 22/playSound doorClose/pause 500/move farmer 0 -5 1 true/pause 2500/stopAnimation Andy/pause 500/speak Andy \"Hey, farmer. See you got that there letter of mine.$0\"/pause 400/move Andy -2 0 3/pause 300/speak Andy \"Jus' wanted to show you somethin' I think you'd appreciate.$3#$b#Found 'em while cleanin' my house.$1\"/pause 600/move Andy -1 0 0/move Andy 0 -1 3/move Andy -4 0 0 true/pause 200/faceDirection farmer 0 true/pause 500/faceDirection farmer 3 true/pause 2500/move farmer -1 0 0/move farmer 0 -1 0/pause 150/faceDirection farmer 3/pause 400/showFrame Andy 36/pause 1100/playSound newRecipe/shake Andy 400/pause 800/showFrame Andy 8/pause 750/showFrame Andy 37/pause 800/speak Andy \"I have an old picture of Aurora Vineyard in its prime before you took over the property.$3#$b#Here. Take a look!$1\"/pause 350/showFrame Andy 38/pause 950/move farmer -1 0 3/pause 300/globalFade/viewport -1000 -1000/stopMusic/warp farmer -100 -100/warp Andy -101 -101/changeLocation Custom_AuroraVineyardPictureMap/AmbientLight 255 255 255/viewport 12 11 true/pause 250/playSound newRecipe/pause 350/playMusic musicboxsong/pause 14000/globalFade/viewport -1000 -1000/changeLocation Custom_AndyHouse/warp farmer 10 16/warp Andy 9 16/faceDirection Andy 1 true/positionOffset farmer 15 10/viewport 12 15 true/pause 1000/speak Andy \"Heh. I recall the day Jerry figured out how to craft kegs.$0#$b#That was a heck of a party!$1#$b#Elizabeth was a nice lady too. Sometimes invited me for tea and cookies.$3\"/pause 800/faceDirection Andy 0 true/pause 300/textAboveHead Andy \"Got this too.\"/pause 500/showFrame Andy 36/pause 1000/playSound newRecipe/shake Andy 250/pause 800/showFrame Andy 8/pause 600/showFrame Andy 37/pause 800/speak Andy \"Also got here a picture of Stardust Farm.$3\"/pause 800/showFrame Andy 38/pause 600/globalFade/viewport -1000 -1000/changeLocation Custom_StardustFarmPictureMap/warp farmer -40 -40/warp Andy -40 -40/ambientLight 255 255 255/viewport 10 12 true/playSound newRecipe/pause 14000/globalFade/viewport -1000 -1000/pause 100/changeLocation Custom_AndyHouse/ambientLight 90 90 90/warp farmer 10 16/warp Andy 9 16/faceDirection Andy 1 true/positionOffset farmer 15 10/positionOffset Andy -10 0/positionOffset farmer 10 7/viewport 12 15 true/pause 1000/speak Andy \"Alexa was a sweet girl. Always wore those bright yellow dresses on a sunny day.$0#$b#She grew the prettiest flowers in the valley.$3#$b#The honey and maple syrup from Stardust Farm was so sweet it'd send a bear spinnin'$1.\"/pause 900/speak Andy \"We commissioned Robin to build those there makeshift wooden bridges.$0#$b#Sure was nice seein' that smile of hers, bright as sunshine..$0\"/pause 1200/faceDirection Andy 2 true/pause 900/speak Andy \"I've come to learn friends come 'n go.#$b#And...\"/pause 1000/showFrame Andy 22/pause 800/speak Andy \"You never know when you'll meet a new one.$8\"/pause 800/showFrame Andy 0 true/pause 700/faceDirection Andy 1 true/pause 700/speak Andy \"Hmm. Hey. Let's grab some 'farmer's lunch'. I got fresh forage to go with it.$3\"/pause 500/globalFade/viewport -1000 -1000/end dialogue Andy \"Glad you got to see what their farms looked like in their prime, farmer.$0#$e#Keep workin' hard and have yourself a great day.$3\"",
 	},
 },
@@ -22623,7 +22623,7 @@
 	  "When": { "ApplesHere": "true", "HasSeenEvent |contains=7776006": true, "HasSeenEvent |contains=7776012": false },
       "FromFile": "assets/CharacterFiles/Schedules/Apples/SchedulePeaches.json"
     },
-	
+
 	{
       //Apples' Schedule - moved to Junimo Woods
       "Action": "Load",
@@ -22631,7 +22631,7 @@
 	  "When": { "ApplesHere": "true", "HasSeenEvent |contains=7776006": true, "HasSeenEvent |contains=7776012": true },
       "FromFile": "assets/CharacterFiles/Schedules/Apples/ScheduleJunimoWoods.json"
     },
-  
+
     {
       //Apples' Dialogue
       "Action": "Load",
@@ -23090,7 +23090,7 @@
 	}
 },
 
-{  
+{
 	//Apples - 'gud bai!'
     "Action": "EditData",
     "Target": "data/events/Custom_ForestWest",
@@ -23239,7 +23239,7 @@
 	  "When": { "HasSeenEvent |contains=7776006": true, "HasSeenEvent |contains=7776012": false },
       "FromFile": "assets/CharacterFiles/Schedules/Peaches/Schedule.json"
     },
-	
+
 	{
       //Peaches' schedule - JunimoWoods
       "Action": "Load",
@@ -23247,7 +23247,7 @@
 	  "When": { "HasSeenEvent |contains=7776006": true, "HasSeenEvent |contains=7776012": true},
       "FromFile": "assets/CharacterFiles/Schedules/Peaches/ScheduleJunimoWoods.json"
     },
-	
+
     {
       //Peaches' dialogue
       "Action": "Load",
@@ -25678,8 +25678,8 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Schedules/Lance/Lance.json"
     },
-	
-	{    
+
+	{
 	  //Lance Christmas Eve schedule
 	  "Action": "EditData",
 	  "Target": "characters/schedules/Lance",
@@ -25688,7 +25688,7 @@
 	    "marriage_Wed": "800 Town 34 81 0 \"Strings\\schedules\\Lance:marriage.007\"/1800 BusStop -1 23 3",
 	  }
     },
-	
+
 	{
       //Lance's Schedule Dialogue
       "Action": "Load",
@@ -25723,11 +25723,11 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Dialogue/Lance/MarriageDialogue.json"
     },
-	
-	
-	
+
+
+
 	//LANCE DYNAMIC MARRIAGE DIALOGUES
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25738,7 +25738,7 @@
       "funLeave_Lance": "There isn't anyone else I know who works as hard as you do.$1#$e#Marlon needs help at the guild today. I'll return at dusk.$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25748,7 +25748,7 @@
       "funLeave_Lance": "I have First Slash business today. I'm afraid I won't be coming back tonight.$0",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25759,7 +25759,7 @@
       "funLeave_Lance": "I'll be at the outpost today.$0#$e#There's strange monster migration patterns I must survey.$6",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25770,7 +25770,7 @@
       "funLeave_Lance": "I'm happy we found each other in this wild game we call life.$4",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25781,7 +25781,7 @@
       "funLeave_Lance": "Marley requested me today. You know where I'll be.$0",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25792,7 +25792,7 @@
       "funLeave_Lance": "I'm mapping out where Wilderness Golems nest today.$0",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25803,7 +25803,7 @@
       "funLeave_Lance": "What's on the agenda today?$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25813,7 +25813,7 @@
       "funLeave_Lance": "Good morning, my love.$0#$e#I have business with Marley today. I'll return tomorrow.",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25824,7 +25824,7 @@
       "funLeave_Lance": "I have a field study to do at the highlands today.$0#$e#You're free to join me.$1#$e#I must admit, it might not be as exciting as last time.$2",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25835,7 +25835,7 @@
       "funLeave_Lance": "Good morning. I'm heading to the adventurer guild soon.$0#$e#I hope something exciting is in store for us.$1",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25845,7 +25845,7 @@
       "funLeave_Lance": "Good morning. You were quite rowdy last night.$6#$e#You must have kicked me a dozen times...$5#$e#*chuckle* Have a nice day, my dear. I'll be at the First Slash if you need me.$1",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25856,7 +25856,7 @@
       "funLeave_Lance": "I think I'll go to the outpost today.$0#$e#*chuckle* Yes, I'll stock plenty mana elixirs.$5",
         }
 	},
-	
+
 		{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25867,7 +25867,7 @@
       "funLeave_Lance": "I have guild business today. I'll be back tonight.$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25877,7 +25877,7 @@
       "funLeave_Lance": "I really should stop by the beach house more often.$0#$e#Perhaps we can cook a meal together and enjoy the sun setting on Gem Sea's horizon.$4#$e#Well, adventure awaits. I'll be at Fable Reef.",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25888,7 +25888,7 @@
       "funLeave_Lance": "I'm observing monster mushroom spirits at the Highlands this morning.",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25899,7 +25899,7 @@
       "funLeave_Lance": "I have guild business today. I'll be back tonight.$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25909,7 +25909,7 @@
       "funLeave_Lance": "Good morning. I don't normally brew coffee but I think I'll need it today. Here's some for you.[253]$1#$e#I have a small appreciation for strong coffee.$0",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25920,7 +25920,7 @@
       "funLeave_Lance": "I wonder what awaits me in the Highlands today...$5#$e#Best of luck, my love. I'll return tonight.$1",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25931,7 +25931,7 @@
       "funLeave_Lance": "Several shipments of supplies are being delivered to the Adventurer Guild today.$0#$b#I wonder what the contents will contain...$5#$b#I'll let you know tonight.$1",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25941,7 +25941,7 @@
       "funLeave_Lance": "Gale needs help mastering some magic, so I entertained the idea of being his mentor for a day.$0#$e#I'll return tomorrow.$1",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25952,7 +25952,7 @@
       "funLeave_Lance": "There's many unknowns in the Highlands. I hope to unravel them all.$0#$e#*chuckle* I'm departing soon. You know where to find me.$5",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25963,7 +25963,7 @@
       "funLeave_Lance": "Hmm... I'm craving something sweet, which is very unusual for me.$5",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -25973,7 +25973,7 @@
       "funLeave_Lance": "Marley is organizing a group to explore a recently discovered sea cave.$6#$e#*chuckle* I've been in a dungeon crawling mood for some time now...$5",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -25984,7 +25984,7 @@
       "funLeave_Lance": "Autumn is already blowing in the air. I can feel it.$5#$e#I'm off to observe color changes of the Highland monsters.$1",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -25995,7 +25995,7 @@
       "funLeave_Lance": "Gil is holding a meeting today. Must be important.$0#$e#Are you coming?$1",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26005,7 +26005,7 @@
       "funLeave_Lance": "I have First Slash business today. I'll return at dusk.$0#$e#Even today, adventurers like us are still making new discoveries.$1",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26016,7 +26016,7 @@
       "funLeave_Lance": "The biggest adventure you can ever take is to live the life of your dreams.$0#$b#And I do that with you, every day.$1",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26026,7 +26026,7 @@
       "funLeave_Lance": "Good morning, my love.$1#$e#Marley and I are studying an ocean floor map today.$0#$e#This trench has a depth of 13 miles - deepest in the world!$1",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26037,7 +26037,7 @@
       "funLeave_Lance": "I have very little motivation today, but I must travel to the Highlands.$6",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26048,7 +26048,7 @@
       "funLeave_Lance": "Today feels grim...$6",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26058,7 +26058,7 @@
       "funLeave_Lance": "I have First Slash business today.$0",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26069,7 +26069,7 @@
       "funLeave_Lance": "An adventurer always prepares adequate supplies before venturing out into the unknown.$0#$e#I wonder what awaits me in the Highlands today?$1",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26080,7 +26080,7 @@
       "funLeave_Lance": "Good morning.$0#$e#There isn't anyone else I know who works as hard as you do.$1",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26090,7 +26090,7 @@
       "funLeave_Lance": "Marley requested help with restoring our mana elixir cache today. I obliged.$0#$e#We use coral that grows nearby and other ingredients sourced from Galdora.$1",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26101,7 +26101,7 @@
       "funLeave_Lance": "I'm observing monster mushroom spirits at the Highlands this morning.$0#$e#I will admit, they are a little cute.$1#$e#Not as cute as you though.$5#$e#*chuckle*...$1#$e#I'm finishing my preparations and then I'm off.$0",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26112,7 +26112,7 @@
       "funLeave_Lance": "Good morning, my love.$0#$e#I've come to truly appreciate how tranquil the valley is during winter.$1#$e#I have guild business today with Marlon. I'll be back tonight.$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26122,7 +26122,7 @@
       "funLeave_Lance": "I need to visit my guild today. I'm running low on mana elixirs.$0",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26133,7 +26133,7 @@
       "funLeave_Lance": "I'm studying void roots this season. They only grow in freezing temperatures.$0",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26144,7 +26144,7 @@
       "funLeave_Lance": "You, Marlon, Gil, and I should all get together and go to the saloon sometime.$1#$e#We can tell stories, enjoy good food and drink, maybe even play cards.$0#$e#*sigh* It's difficult to schedule with everyone being so busy...$5",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26154,7 +26154,7 @@
       "funLeave_Lance": "I'll be at my guild all day today. I won't return until very late into the night.$0#$e#Eat dinner without me.$0",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26165,7 +26165,7 @@
       "funLeave_Lance": "I'll admit, it can get quiet and lonely at the outpost.$6#$e#Well, I'm off soon. You know where to find me.$0",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26176,7 +26176,7 @@
       "funLeave_Lance": "I have guild business today. I'll be back tonight.$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Fable Reef
       "Action": "EditData",
@@ -26186,7 +26186,7 @@
       "funLeave_Lance": "The First Slash hopes to pioneer a magic bubble capable of exploring 'Ethereal Trench' at the bottom of the Gem Sea.$0#$b#It would need to withstand over 1,700 bars of pressure...$5#$e#Several wizards in our circle, such as Magnus, can create one.$0#$b#But they're only capable of withstanding 250 bars of pressure.$6",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26197,7 +26197,7 @@
       "funLeave_Lance": "I'm off to the highlands, my love.$0#$e#I hope you have a productive day. I'll be thinking about you.$1",
         }
 	},
-	
+
 	{
 	  //Tuesday - Adventure Guild
       "Action": "EditData",
@@ -26208,7 +26208,7 @@
       "funLeave_Lance": "Good morning, I was famished so I made us breakfast. [201]$1#$e#I have adventurer guild business today. I'll return tonight.$0",
         }
 	},
-	
+
 	{
 	  //Wednesday - Pelican Town
       "Action": "EditData",
@@ -26218,7 +26218,7 @@
       "funLeave_Lance": "Ah, you've awaken. How did you sleep?$1#$e#I feel like walking around town today.$0#$e#*chuckle* Yes. I'll do just that.$5",
         }
 	},
-	
+
 	{
 	  //Sunday - Highlands Outpost
       "Action": "EditData",
@@ -26229,9 +26229,9 @@
       "funLeave_Lance": "Winter is ending soon. I must to conduct one last field survey at the Highlands to finish out the year.$0#$e#I shall return tonight.$1",
         }
 	},
-	
-	
-	
+
+
+
 	//MOVIE THEATER DATA
 
 	{
@@ -26525,7 +26525,7 @@
       }
     },
 
-	{    
+	{
 	  //Lance Night Market Schedule
 	  "Action": "EditData",
 	  "Target": "characters/schedules/Lance",
@@ -26536,7 +26536,7 @@
 		"marriage_Wed": "1500 Beach 30 34 2 \"Strings\\schedules\\Lance:NightMarket.003\"/2300 BusStop -1 23 3",
 	  }
     },
-	
+
 	{
       "Action": "EditMap",
       "Target": "Maps/Custom_WizardBasement",
@@ -26548,19 +26548,19 @@
       "Target": "Maps/Custom_FableReef",
       "MapProperties": { "NPCWarp": "30 41 Custom_WizardBasement 14 18" }
     },
-	
+
 	{
       "Action": "EditMap",
       "Target": "Maps/Custom_FirstSlashGuild",
       "MapProperties": { "NPCWarp": "22 9 Custom_FirstSlashHallway 34 10" }
     },
-	
+
 	{
       "Action": "EditMap",
       "Target": "Maps/Custom_FirstSlashHallway",
       "MapProperties": { "NPCWarp": "23 7 Custom_FirstSlashGuestRoom 7 9" }
     },
-	
+
 	{
       "Action": "EditMap",
       "Target": "Maps/Custom_FirstSlashGuestRoom",
@@ -26768,7 +26768,7 @@
 	  "65360190/f Lance 1500": "spring_day_ambient/-500 -500/farmer 129 121 0 Lance 129 106 0/skippable/addTemporaryActor WildernessGolemActor1 16 32 -100 -100 2/addTemporaryActor WildernessGolemActor2 16 32 -99 -99 2/addTemporaryActor WildernessGolemActor3 16 32 -98 -98 2/addTemporaryActor WildernessGolemActor4 16 32 -97 -97 2/addTemporaryActor MushroomMonsterActor1 16 32 -96 -96 2/addTemporaryActor MushroomMonsterActor2 16 32 -95 -95 2/addTemporaryActor MushroomMonsterActor3 16 32 -94 -94 2/addTemporaryActor SlimeActor1 16 32 -93 -93 2/addTemporaryActor SlimeActor2 16 32 -92 -92 2/addTemporaryActor SlimeActor3 16 32 -91 -91 2/addTemporaryActor BabySlimeActor 16 32 -90 -90 2/makeInvisible 127 106 4 3/pause 750/viewport 129 111 clamp true/move farmer 0 -7 0/pause 750/faceDirection Lance 1 true/pause 250/faceDirection Lance 2 true/pause 500/move Lance 0 3 2/pause 400/shake Lance 400/pause 200/speak Lance \"@! Welcome back. Head on up here!$1\"/pause 400/emote farmer 32/pause 300/move farmer 0 -1 0/pause 500/warp farmer -20 -20/playSound doorClose/globalFade/viewport -1000 -1000/warp farmer 129 107/faceDirection farmer 3 true/warp Lance 127 108/faceDirection Lance 1 true/pause 500/viewport 129 108 true/pause 1000/speak Lance \"Take a look at this...\"/pause 500/faceDirection Lance 2 true/pause 250/faceDirection Lance 3 true/pause 500/move farmer -2 0 3 true/viewport move -1 0 5000 true/pause 2500/globalFade/viewport -1000 -1000/pause 250/warp WildernessGolemActor1 109 111/faceDirection WildernessGolemActor1 1 true/warp SlimeActor1 105 108/animate SlimeActor1 false true 200 0 1 2 3/warp SlimeActor2 97 115/animate SlimeActor2 false true 137 0 1 2 3/faceDirection WildernessGolem1 1 true/viewport 110 111 true/pause 1000/speed WildernessGolemActor1 1/move WildernessGolemActor1 2 0 1/pause 400/playSound rockGolemHit/pause 200/shake WildernessGolemActor1 1250/pause 1000/playSound rockGolemHit/pause 250/faceDirection WildernessGolemActor1 2 true/pause 250/faceDirection WildernessGolemActor1 3 true/pause 400/move WildernessGolemActor1 -2 0 3 true/pause 500/playSound rockGolemHit/pause 750/faceDirection WildernessGolemActor1 2 true/pause 250/faceDirection WildernessGolemActor1 1 true/pause 400/speak Lance \"That wilderness golem just learned my barriers can sting.$6#$b#It'll now turn around and leave in peace...$5\"/pause 1000/shake WildernessGolemActor1 500/pause 200/playSound rockGolemHit/pause 250/playSound rockGolemHit/pause 650/faceDirection WildernessGolemActor1 2 true/pause 250/faceDirection WildernessGolemActor1 3 true/pause 400/move WildernessGolemActor1 -8 0 3 true/pause 2000/globalFade/viewport -1000 -1000/warp WildernessGolemActor1 -50 -50/positionOffset farmer 0 -50 true/viewport 128 108 true/pause 1500/faceDirection Lance 0 true/pause 550/faceDirection farmer 2 true/pause 500/speak Lance \"I'm conducting a field study today. Would you care to join me?$0\"/pause 500/jump farmer/pause 500/speak Lance \"I'll cast a protection spell that'll prevent monsters from noticing us.$1\"/pause 500/showFrame Lance 12 true/pause 500/showFrame Lance 16 true/playSound dwop/pause 1000/showFrame Lance 17 true/pause 300/showFrame Lance 18 true/pause 650/shake Lance 1000/pause 400/playSound healSound/glow 0 0 200/pause 200/startJittering/pause 1000/stopJittering/pause 300/showFrame Lance 17 true/pause 250/showFrame Lance 16 true/pause 300/showFrame Lance 12 true/playSound dwop/pause 600/faceDirection Lance 0 true/pause 500/speak Lance \"Hold onto my arm.$1\"/pause 600/speed Lance 1/move Lance 0 -1 0/pause 500/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/showFrame Lance 9 true/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/showFrame farmer 1 true/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 50/positionOffset Lance 0 -2 true/pause 750/screenFlash 1/playSound wand/warp farmer -50 -50/warp Lance -49 -49/showFrame Lance 0 true/showFrame farmer 0 true/pause 2000/globalFade/viewport -1000 -1000/playMusic Cloth/warp Lance 30 129/warp farmer 29 129/positionOffset Lance 20 -20 true/positionOffset farmer 14 -16 true/warp WildernessGolemActor1 -50 -50/warp WildernessGolemActor2 36 137/faceDirection WildernessGolemActor2 3 true/warp SlimeActor1 25 135/warp SlimeActor2 38 128/warp WildernessGolemActor3 42 136/faceDirection WildernessGolemActor3 2 true/showFrame WildernessGolemActor3 20 true/viewport 23 140 clamp true/viewport move 1 -1 11000 true/pause 3500/showFrame WildernessGolemActor1 17 true/warp WildernessGolemActor1 29 137/pause 100/playSound rockGolemSpawn/showFrame WildernessGolemActor1 19 true/pause 100/showFrame WildernessGolemActor1 19 true/pause 100/showFrame WildernessGolemActor1 20 true/pause 100/showFrame WildernessGolemActor1 21 true/pause 100/showFrame WildernessGolemActor1 22 true/pause 100/showFrame WildernessGolemActor1 23 true/pause 100/showFrame WildernessGolemActor1 0 true/pause 500/advancedMove WildernessGolemActor1 false 0 2 1 0/pause 1000/showFrame Lance 41 true/pause 300/showFrame Lance 0 true/pause 2000/globalFade/viewport -1000 -1000/warp Lance 62 77/warp farmer 63 79/positionOffset Lance 20 20 true/warp WildernessGolemActor1 -30 -30/warp WildernessGolemActor2 60 73/warp WildernessGolemActor3 72 83/warp WildernessGolemActor4 78 74/warp SlimeActor1 68 78/warp SlimeActor2 69 78/makeInvisible 62 77 2 3/makeInvisible 69 77 4 3/move WildernessGolemActor2 27 0 1 true/speed WildernessGolemActor3 1/move WildernessGolemActor3 -17 0 3 true/speed WildernessGolemActor4 1/move WildernessGolemActor4 0 15 2 true/positionOffset SlimeActor1 50 0 true/positionOffset SlimeActor2 30 0 true/faceDirection farmer 1 true/faceDirection Lance 1 true/viewport 67 79 true/pause 2000/playSound dwop/specificTemporarySprite heart 70 78/playSound slime/pause 1000/playSound slime/pause 750/playSound slimeHit/warp BabySlimeActor 69 78/jump BabySlimeActor/speed BabySlimeActor 1/move BabySlimeActor 0 4 2 true/pause 500/stopAnimation SlimeActor1/speed SlimeActor1 1/move SlimeActor1 0 3 2 true/pause 350/stopAnimation SlimeActor2/speed SlimeActor2 1/move SlimeActor2 0 3 2 true/playSound slime/globalFade/viewport -1000 -1000/halt/pause 500/warp farmer 109 66/faceDirection farmer 1 true/warp Lance 109 67/faceDirection Lance 1 true/positionOffset Lance 20 15 true/warp WildernessGolemActor2 97 72/speed WildernessGolemActor2 1/move WildernessGolemActor2 13 0 1 true/warp WildernessGolemActor3 117 60/move WildernessGolemActor3 -13 0 3 true/warp WildernessGolemActor4 120 54/move WildernessGolemActor4 1 21 2 true/warp MushroomMonsterActor1 113 67/warp MushroomMonsterActor2 115 67/positionOffset MushroomMonsterActor1 10 -15/positionOffset MushroomMonsterActor2 13 -10 true/animate SlimeActor1 false true 125 0 1 2 3/animate SlimeActor2 false true 125 0 1 2 3/warp SlimeActor1 103 69/warp SlimeActor2 111 62/makeInvisible 104 60 14 1/makeInvisible 108 65 3 4/makeInvisible 112 66 5 3/makeInvisible 97 72 14 1/makeInvisible 120 54 1 22/makeInvisible 111 56 1 1/makeInvisible 103 69 1 1/viewport 114 67 true/pause 800/playSound dustMeep/jump MushroomMonsterActor1/pause 800/playSound dustMeep/jump MushroomMonsterActor2/pause 800/playSound dustMeep/jump MushroomMonsterActor1/pause 800/playSound dustMeep/jump MushroomMonsterActor2/pause 800/playSound dustMeep/jump MushroomMonsterActor1/pause 800/playSound dustMeep/shake MushroomMonsterActor1 5000/jump MushroomMonsterActor2/pause 800/playSound dustMeep/shake MushroomMonsterActor2 5000/globalFade/viewport -1000 -1000/warp farmer 105 13/faceDirection farmer 0 true/warp Lance 107 13/faceDirection Lance 0 true/warp MushroomMonsterActor1 -80 -80/warp MushroomMonsterActo2 -79 -79/warp MushroomMonsterActor3 -78 -78/warp SlimeActor1 100 16/warp SlimeActor2 -60 -60/warp WildernessGolemActor2 -30 -30/warp WildernessGolemActor3 119 18/warp WildernessGolemActor4 -28 -28/move WildernessGolemActor3 -23 0 3 true/positionOffset Lance 0 -20 true/viewport 106 13 clamp true/pause 3000/faceDirection Lance 3 true/pause 1000/faceDirection farmer 1 true/pause 1000/emote Lance 32/pause 400/faceDirection Lance 0 true/pause 1000/faceDirection farmer 0 true/pause 1000/globalFade/viewport -1000 -1000/warp SlimeActor1 -50 -50/warp WildernessGolemActor3 -80 -80/stopMusic/changeLocation Custom_HighlandsCavern/playMusic Upper_Ambient/warp Lance 46 20/warp farmer 46 22/faceDirection Lance 3 true/faceDirection farmer 3 true/makeInvisible 46 20 2 3/viewport 44 124 true/viewport move 2 -2 6000 true/pause 3500/globalFade/viewport -1000 -1000/viewport 0 0 clamp true/viewport move 2 2 6000 true/pause 3500/globalFade/viewport -1000 -1000/viewport 42 21 true/viewport move 1 0 4000 true/pause 5000/speak Lance \"There's magic aquatic creatures who live in these waters called 'Gemfish'.$1#$b#I have a hypothesis they can explain the origin of this marvelous cavern.$0#$b#They're unfortunately resistant to my magic though, so I've never caught one.$2\"/pause 1000/faceDirection farmer 0 true/pause 1000/faceDirection Lance 2 true/pause 800/emote farmer 40/pause 250/shake Lance 500/pause 150/speak Lance \"*chuckle* They'd be no match for a skilled angler...$5\"/pause 750/playSound healSound/glow 123 63 0/pause 1000/emote farmer 8/pause 300/speak Lance \"The protection spell has run its course...$3\"/pause 500/playSound shadowpeep/pause 400/playSound shadowpeep/pause 125/faceDirection farmer 1 true/pause 300/playSound shadowpeep/pause 100/showFrame Lance 43 true/pause 300/playSound shadowpeep/pause 400/faceDirection farmer 2 true/pause 100/playSound shadowpeep/pause 400/playSound shadowpeep/pause 300/playSound shadowpeep/showFrame Lance 0 true/pause 300/speak Lance \"That's our cue to leave.$1\"/playSound shadowpeep/pause 350/playSound shadowpeep/pause 350/faceDirection farmer 1 true/pause 250/speed Lance 1/move Lance 0 2 2 true/pause 300/faceDirection farmer 0 true/pause 200/playSound shadowpeep/pause 500/playSound wand/screenFlash 1/warp farmer -30 -30/warp Lance -30 -30/pause 350/playSound shadowpeep/pause 300/playSound shadowpeep/globalFade/viewport -1000 -1000/stopMusic/pause 1000/speak Lance \"That was a close one...$5#$b#Thanks for helping me with my research today. I hope you learned something new.$1\"/pause 1000/end dialogue Lance \"It was a pleasure you joined my field study. I usually conduct them alone.$0#$e#I enjoy observing monsters in their natural environments. There's so much we can learn about them...$5\""
 	  },
     },
-	
+
     {
 	  //Lance 6 heart event - Monster Studies (raining)
 	  "Action": "EditData",
@@ -27081,7 +27081,7 @@
 	  "65360191/f Lance 2000": "tropical_island_day_ambient/-500 -500/farmer 77 40 2 Lance 77 42 0 Martin -30 -30 0 Claire -31 -31 0 Sophia -32 -32 0 Victor -33 -33 0/showFrame Victor 150 true/showFrame Sophia 150 true/showFrame Claire 150 true/showFrame Martin 150 true/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Marley 16 32 -96 -96 2/makeInvisible 77 42 19 1/viewport 77 41 true/skippable/pause 1000/speak Lance \"Hello, @. I've finished researching the monster crops and I'm ready to report back to my guild, The First Slash.$0#$b#I would like you to come with me since you're responsible for my mission's success. I couldn't have done this without you.$1\"/pause 500/jump farmer/pause 900/speak Lance \"*chuckle* Follow me.$5\"/pause 800/faceDirection Lance 1 true/pause 500/move Lance 10 0 1 true/pause 400/move farmer 0 2 2 true/pause 1000/move farmer 6 0 1 true/pause 750/globalFade/viewport -1000 -1000/playMusic jungle_ambience/changeLocation Custom_LanceSecretWarp/pause 1000/warp farmer 21 20/faceDirection farmer 0 true/warp Lance 19 18/viewport 20 13 true/move Lance 0 -4 0 true/move farmer 0 -6 0 true/pause 4000/speak Lance \"Our island is in the center of the Gem Sea, too far to reach without warp runes.\"/pause 500/faceDirection Lance 1 true/pause 650/faceDirection farmer 3 true/pause 500/speak Lance \"I'll go first.$1\"/pause 750/faceDirection Lance 0 true/pause 500/viewport move 0 -1 1500 true/move Lance 0 -1 1/move Lance 1 0 0/move Lance 0 -1 0 true/pause 200/faceDirection farmer 0 true/pause 650/faceDirection Lance 1 true/pause 250/faceDirection Lance 2 true/pause 650/shake Lance 500/pause 500/screenFlash 1/playSound wand/warp Lance -20 -20/pause 1250/move farmer 0 -2 3/move farmer -1 0 3/pause 350/faceDirection farmer 2 true/pause 500/startJittering/pause 550/screenFlash 1/warp farmer -21 -21/playsound wand/pause 2000/globalFade/viewport -1000 -1000/playMusic tropical_island_day_ambient/changeLocation Custom_FableReef/warp Lance 34 43/faceDirection Lance 3 true/warp farmer 32 43/faceDirection farmer 1 true/viewport 84 71 clamp true/viewport move -2 -2 6500 true/pause 4000/globalFade/viewport -1000 -1000/viewport 49 27 true/viewport move -2 2 8000/pause 7900/speak Lance \"You have to admit, it's much faster than conventional travel.$5#$b#Come. I'll introduce you to the guild.$0\"/pause 750/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/move Lance 9 0 0 true/pause 450/move farmer 8 0 1 true/pause 750/globalFade/viewport -1000 -1000/pause 500/playSound doorClose/pause 750/playSound doorClose/pause 500/changeLocation Custom_FirstSlashGuild/playMusic MarlonsTheme/pause 750/warp Brianna 20 17/faceDirection Brianna 1 true/warp Drake 22 20/faceDirection Drake 0 true/warp Edmund 9 16/faceDirection Edmund 3 true/warp Gale 9 18/faceDirection Gale 3 true/warp Marley 14 15/faceDirection Marley 0 true/warp Lance 15 28/warp farmer 14 28/viewport 14 10 true/viewport move 0 1 8000 true/pause 4000/move Lance 0 -9 0 true/pause 500/move farmer 0 -9 0 true/pause 4700/faceDirection Marley 1 true/pause 250/faceDirection Marley 2 true/pause 250/emote Marley 16 true/pause 400/speak Marley \"Everyone! Lance is back!$1\"/pause 400/faceDirection Drake 3 true/pause 250/faceDirection Gale 2 true/pause 250/faceDirection Gale 1 true/pause 100/faceDirection Edmund 2 true/pause 100/faceDirection Brianna 2 true/pause 150/emote Drake 16 true/pause 100/faceDirection Brianna 3 true/pause 100/faceDirection Edmund 1 true/pause 100/speed Gale 1/move Gale 2 0 1 true/pause 100/jump Brianna/pause 100/move Drake -5 0 0 true/pause 100/faceDirection farmer 3 true/pause 400/move Edmund 3 0 2 true/pause 200/faceDirection Lance 1 true/pause 550/move Brianna -2 0 2 true/pause 50/textAboveHead Brianna \"Hey!\"/pause 700/faceDirection farmer 0 true/pause 300/textAboveHead Edmund \"Welcome back!\"/move Brianna 0 1 3 true/pause 200/move Drake 0 -1 3 true/pause 750/emote Drake 32 true/pause 400/emote Lance 32 true/pause 1300/faceDirection Lance 0 true/pause 500/speak Marley \"And who is this you've brought to the guild hall?$1\"/pause 500/speak Lance \"This is @, and they're the reason I was able to complete my mission.$0#$b#It turns out I'm not much of a farmer myself!$1\"/pause 250/shake Brianna 500/textAboveHead Brianna \"Haha!\"/pause 400/shake Gale 500/textAboveHead Gale \"Heh...\"/pause 100/speed Marley 1/move Marley 0 1 2/pause 250/speak Marley \"Good to meet you, @. Name is Marley, leader of The First Slash.$0#$b#A friend of Lance is a friend of mine.$1\"/pause 500/faceDirection Marley 1 true/pause 250/speed Marley 1/move Marley 1 0 1/pause 250/faceDirection Marley 2 true/pause 350/speak Marley \"Well, Lance. It's not difficult to sense the strange arcane energies emitting from you. We're all waiting in anticipation.$1\"/pause 200/speak Lance \"*chuckle* Of course...$5\"/pause 400/faceDirection Lance 3 true/pause 500/faceDirection farmer 1 true/pause 250/speak Lance \"Make some room for me.$1\"/pause 500/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 500/move farmer -2 0 3/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 500/faceDirection Lance 0 true/pause 250/faceDirection Lance 1 true/pause 400/move Lance 1 0 1/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 16 18 {{spacechase0.JsonAssets/ObjectId:Monster Fruit}}/warp Martin 16 18/positionOffset Martin -11 16 true/pause 300/showFrame Lance 8 true/pause 250/emote Gale 16 true/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 15 18 {{spacechase0.JsonAssets/ObjectId:Monster Mushroom}}/warp Claire 15 18/positionOffset Claire -4 16 truepause 150/shake Drake 525/textAboveHead Drake \"What the...\"/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 14 18 {{spacechase0.JsonAssets/ObjectId:Slime Berry}}/warp Sophia 14 18/positionOffset Sophia 0 9 true/pause 300/showFrame Lance 8 true/pause 250/textAboveHead Edmund \"Whoa!\"/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 200/jump Brianna/pause 200/shake Lance 500/showFrame Lance 9 true/pause 200/textAboveHead Brianna \"Can I touch it!?\"/pause 100/playSound slime/addObject 13 18 {{spacechase0.JsonAssets/ObjectId:Void Root}}/warp Victor 13 18/positionOffset Victor -19 16 true/pause 150/emote Gale 40 true/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 1 true/pause 300/move Lance 1 0 2/move Lance 0 2 2/pause 250/faceDirection Lance 1 true/pause 250/faceDirection Lance 0 true/pause 450/speak Lance \"Behold... Monster crops from the Highlands!$1\"/pause 250/shake Edmund 500/textAboveHead Edmund \"Fascinating!\"/pause 400/emote Drake 40 true/pause 300/speed Marley 1/move Marley 0 1 2 true/pause 400/jump Brianna/pause 400/textAboveHead Gale \"Hmm...\"/pause 200/speed Drake 1/move Drake -1 0 0 true/pause 350/shake Marley 500/textAboveHead Marley \"Impressive!\"/pause 500/faceDirection Edmund 1 true/pause 250/speed Edmund 1/move Edmund 1 0 2/speed Edmund 1/move Edmund 0 1 2 true/globalfade/viewport -1000 -1000/stopMusic/pause 1500/message \"It was incredible meeting the guild Lance hails from. But now it's time to return home. Maybe I can visit again soon?\"/pause 1000/end dialogue Lance \"My master and guild leader are pleased with my performance. Thank you, @.$1#$e#These monster crops will help advance our understanding of wilderness golems, slimes, mushroom spirits, and the shadow people...$5#$e#There's still work to be done at the Highlands! We're just getting started.$0\""
       }
 	},
-	
+
     {
 	  //Lance 8 heart event - The First Slash (raining)
 	  "Action": "EditData",
@@ -27091,7 +27091,7 @@
 	  "65360191/f Lance 2000": "rain/-500 -500/farmer 77 40 2 Lance 77 42 0 Martin -30 -30 0 Claire -31 -31 0 Sophia -32 -32 0 Victor -33 -33 0/showFrame Victor 150 true/showFrame Sophia 150 true/showFrame Claire 150 true/showFrame Martin 150 true/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Marley 16 32 -96 -96 2/makeInvisible 77 42 19 1/viewport 77 41 true/skippable/pause 1000/speak Lance \"Hello, @. I've finished researching the monster crops and I'm ready to report back to my guild, The First Slash.$0#$b#I would like you to come with me since you're responsible for my mission's success. I couldn't have done this without you.$1\"/pause 500/jump farmer/pause 900/speak Lance \"*chuckle* Follow me.$5\"/pause 800/faceDirection Lance 1 true/pause 500/move Lance 10 0 1 true/pause 400/move farmer 0 2 2 true/pause 1000/move farmer 6 0 1 true/pause 750/globalFade/viewport -1000 -1000/changeLocation Custom_LanceSecretWarp/pause 1000/warp farmer 21 20/faceDirection farmer 0 true/warp Lance 19 18/viewport 20 13 true/move Lance 0 -4 0 true/move farmer 0 -6 0 true/pause 4000/speak Lance \"Our island is in the center of the Gem Sea, too far to reach without warp runes.\"/pause 500/faceDirection Lance 1 true/pause 650/faceDirection farmer 3 true/pause 500/speak Lance \"I'll go first.$1\"/pause 750/faceDirection Lance 0 true/pause 500/viewport move 0 -1 1500 true/move Lance 0 -1 1/move Lance 1 0 0/move Lance 0 -1 0 true/pause 200/faceDirection farmer 0 true/pause 650/faceDirection Lance 1 true/pause 250/faceDirection Lance 2 true/pause 650/shake Lance 500/pause 500/screenFlash 1/playSound wand/warp Lance -20 -20/pause 1250/move farmer 0 -2 3/move farmer -1 0 3/pause 350/faceDirection farmer 2 true/pause 500/startJittering/pause 550/screenFlash 1/warp farmer -21 -21/playsound wand/pause 2000/globalFade/viewport -1000 -1000/changeLocation Custom_FableReef/warp Lance 34 43/faceDirection Lance 3 true/warp farmer 32 43/faceDirection farmer 1 true/viewport 84 71 clamp true/viewport move -2 -2 6500 true/pause 4000/globalFade/viewport -1000 -1000/viewport 49 27 true/viewport move -2 2 8000/pause 7900/speak Lance \"You have to admit, it's much faster than conventional travel.$5#$b#Come. I'll introduce you to the guild.$0\"/pause 750/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/move Lance 9 0 0 true/pause 450/move farmer 8 0 1 true/pause 750/globalFade/viewport -1000 -1000/pause 500/playSound doorClose/pause 750/playSound doorClose/pause 500/changeLocation Custom_FirstSlashGuild/playMusic MarlonsTheme/pause 750/warp Brianna 20 17/faceDirection Brianna 1 true/warp Drake 22 20/faceDirection Drake 0 true/warp Edmund 9 16/faceDirection Edmund 3 true/warp Gale 9 18/faceDirection Gale 3 true/warp Marley 14 15/faceDirection Marley 0 true/warp Lance 15 28/warp farmer 14 28/viewport 14 10 true/viewport move 0 1 8000 true/pause 4000/move Lance 0 -9 0 true/pause 500/move farmer 0 -9 0 true/pause 4700/faceDirection Marley 1 true/pause 250/faceDirection Marley 2 true/pause 250/emote Marley 16 true/pause 400/speak Marley \"Everyone! Lance is back!$1\"/pause 400/faceDirection Drake 3 true/pause 250/faceDirection Gale 2 true/pause 250/faceDirection Gale 1 true/pause 100/faceDirection Edmund 2 true/pause 100/faceDirection Brianna 2 true/pause 150/emote Drake 16 true/pause 100/faceDirection Brianna 3 true/pause 100/faceDirection Edmund 1 true/pause 100/speed Gale 1/move Gale 2 0 1 true/pause 100/jump Brianna/pause 100/move Drake -5 0 0 true/pause 100/faceDirection farmer 3 true/pause 400/move Edmund 3 0 2 true/pause 200/faceDirection Lance 1 true/pause 550/move Brianna -2 0 2 true/pause 50/textAboveHead Brianna \"Hey!\"/pause 700/faceDirection farmer 0 true/pause 300/textAboveHead Edmund \"Welcome back!\"/move Brianna 0 1 3 true/pause 200/move Drake 0 -1 3 true/pause 750/emote Drake 32 true/pause 400/emote Lance 32 true/pause 1300/faceDirection Lance 0 true/pause 500/speak Marley \"And who is this you've brought to the guild hall?$1\"/pause 500/speak Lance \"This is @, and they're the reason I was able to complete my mission.$0#$b#It turns out I'm not much of a farmer myself!$1\"/pause 250/shake Brianna 500/textAboveHead Brianna \"Haha!\"/pause 400/shake Gale 500/textAboveHead Gale \"Heh...\"/pause 100/speed Marley 1/move Marley 0 1 2/pause 250/speak Marley \"Good to meet you, @. Name is Marley, leader of The First Slash.$0#$b#A friend of Lance is a friend of mine.$1\"/pause 500/faceDirection Marley 1 true/pause 250/speed Marley 1/move Marley 1 0 1/pause 250/faceDirection Marley 2 true/pause 350/speak Marley \"Well, Lance. It's not difficult to sense the strange arcane energies emitting from you. We're all waiting in anticipation.$1\"/pause 200/speak Lance \"*chuckle* Of course...$5\"/pause 400/faceDirection Lance 3 true/pause 500/faceDirection farmer 1 true/pause 250/speak Lance \"Make some room for me.$1\"/pause 500/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 500/move farmer -2 0 3/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 500/faceDirection Lance 0 true/pause 250/faceDirection Lance 1 true/pause 400/move Lance 1 0 1/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 16 18 {{spacechase0.JsonAssets/ObjectId:Monster Fruit}}/warp Martin 16 18/positionOffset Martin -11 16 true/pause 300/showFrame Lance 8 true/pause 250/emote Gale 16 true/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 15 18 {{spacechase0.JsonAssets/ObjectId:Monster Mushroom}}/warp Claire 15 18/positionOffset Claire -4 16 truepause 150/shake Drake 525/textAboveHead Drake \"What the...\"/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 14 18 {{spacechase0.JsonAssets/ObjectId:Slime Berry}}/warp Sophia 14 18/positionOffset Sophia 0 9 true/pause 300/showFrame Lance 8 true/pause 250/textAboveHead Edmund \"Whoa!\"/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 200/jump Brianna/pause 200/shake Lance 500/showFrame Lance 9 true/pause 200/textAboveHead Brianna \"Can I touch it!?\"/pause 100/playSound slime/addObject 13 18 {{spacechase0.JsonAssets/ObjectId:Void Root}}/warp Victor 13 18/positionOffset Victor -19 16 true/pause 150/emote Gale 40 true/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 1 true/pause 300/move Lance 1 0 2/move Lance 0 2 2/pause 250/faceDirection Lance 1 true/pause 250/faceDirection Lance 0 true/pause 450/speak Lance \"Behold... Monster crops from the Highlands!$1\"/pause 250/shake Edmund 500/textAboveHead Edmund \"Fascinating!\"/pause 400/emote Drake 40 true/pause 300/speed Marley 1/move Marley 0 1 2 true/pause 400/jump Brianna/pause 400/textAboveHead Gale \"Hmm...\"/pause 200/speed Drake 1/move Drake -1 0 0 true/pause 350/shake Marley 500/textAboveHead Marley \"Impressive!\"/pause 500/faceDirection Edmund 1 true/pause 250/speed Edmund 1/move Edmund 1 0 2/speed Edmund 1/move Edmund 0 1 2 true/globalfade/viewport -1000 -1000/stopMusic/pause 1500/message \"It was incredible meeting the guild Lance hails from. But now it's time to return home. Maybe I can visit again soon?\"/pause 1000/end dialogue Lance \"My master and guild leader are pleased with my performance. Thank you, @.$1#$e#These monster crops will help advance our understanding of wilderness golems, slimes, mushroom spirits, and the shadow people...$5#$e#There's still work to be done at the Highlands! We're just getting started.$0\""
       }
 	},
-	
+
     {
 	  //Wizard gives player access to his First Slash warp rune
 	  "Action": "EditData",
@@ -27438,7 +27438,7 @@ Castle Village (work on during the beta)
       "Jadu": true
       }
     },
-	
+
 
 	{
       //Marley NPC disposition
@@ -27448,7 +27448,7 @@ Castle Village (work on during the beta)
         "Marley": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Marley_WarpRoom 3 3/Marley",
         }
     },
-	
+
 	{
       //Marley's Animations
       "Action": "EditData",
@@ -27457,8 +27457,8 @@ Castle Village (work on during the beta)
 		"Marley_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Marley's sprites
       "Action": "Load",
 	  "Target": "Characters/Marley",
@@ -27471,14 +27471,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Marley",
 	 "FromFile": "Assets/CharacterFiles/Portraits/Marley/Marley.png"
     },
-	
+
 	{
       //Marley's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Marley",
       "FromFile": "assets/CharacterFiles/Schedules/Marley/Schedule.json"
     },
-	
+
     {
       //Marley's dialogue
       "Action": "Load",
@@ -27494,8 +27494,8 @@ Castle Village (work on during the beta)
         "Marley": true
       }
     },
-	
-	
+
+
 
      //Generic Adventurer NPCs visit the adventurer guild
 
@@ -27553,7 +27553,7 @@ Castle Village (work on during the beta)
         "Sawyer": true
       }
     },
-	
+
 
 	 {
       //Gale's NPC disposition
@@ -27563,7 +27563,7 @@ Castle Village (work on during the beta)
         "Gale": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Gale_WarpRoom 3 3/Gale",
         }
     },
-	
+
 	{
       //Gale's Animations
       "Action": "EditData",
@@ -27572,8 +27572,8 @@ Castle Village (work on during the beta)
 		"Gale_AnimationName": "16/16/16",
 	   }
     },
-	
-    { 
+
+    {
 	  //Gale's sprites
       "Action": "Load",
 	  "Target": "Characters/Gale",
@@ -27586,14 +27586,14 @@ Castle Village (work on during the beta)
 	 "Target": "Portraits/Gale",
 	 "FromFile": "Assets/CharacterFiles/Portraits/NoPortraits/Gale.png"
     },
-	
+
 	{
       //Gale's schedule
       "Action": "Load",
       "Target": "Characters/schedules/Gale",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Gale/Schedule.json"
     },
-	
+
     {
       //Gale's dialogue
       "Action": "Load",
@@ -27609,8 +27609,8 @@ Castle Village (work on during the beta)
         "Gale": true
       }
     },
-	
-	
+
+
     {
       //Brianna's NPC disposition
       "Action": "EditData",
@@ -27656,7 +27656,7 @@ Castle Village (work on during the beta)
       "Target": "Characters/Dialogue/Brianna",
       "FromFile": "assets/CharacterFiles/Dialogue/Adventurers/Brianna/Dialogue.json"
     },
-	
+
 	{
       //Brianna's dialogue patch
       "Action": "EditData",
@@ -27714,7 +27714,7 @@ Castle Village (work on during the beta)
       "Target": "Characters/schedules/Drake",
       "FromFile": "assets/CharacterFiles/Schedules/Adventurers/Drake/Schedule.json"
     },
-	
+
 	{
 	  //Drake's schedule patch
       "Action": "EditData",
@@ -27724,14 +27724,14 @@ Castle Village (work on during the beta)
       "Wed": "0 Custom_FirstSlashGuild 7 9 0/610 Custom_FirstSlashGuild 9 23 3/650 Custom_FirstSlashGuild 20 17 1/720 Custom_FirstSlashGuild 9 17 3/750 Custom_FirstSlashGuild 20 23 1/820 Custom_FirstSlashGuild 5 13 1/850 Custom_FirstSlashGuild 7 26 0/900 Custom_FirstSlashGuild 20 17 1/930 Custom_FirstSlashGuild 19 12 2/1030 Custom_FirstSlashGuild 20 17 1/1100 Custom_FirstSlashGuild 9 17 3/1130 Custom_FirstSlashGuild 9 23 3/1200 Custom_FirstSlashGuild 5 17 1/1230 Custom_FirstSlashGuild 5 23 1/1300 Custom_FirstSlashGuild 9 17 3/1330 Custom_FirstSlashGuild 9 23 3/1400 Custom_FirstSlashGuild 20 23 1/1420 Custom_FirstSlashGuild 20 17 1/1440 Custom_FirstSlashGuild 20 23 1/1500 Custom_FirstSlashGuild 9 23 3/1520 Custom_FirstSlashGuild 9 17 3/1540 Custom_FirstSlashGuild 5 23 1/1610 Custom_FirstSlashGuild 20 23 1/1640 Custom_FirstSlashGuild 20 17 1/1700 Custom_FirstSlashGuild 20 23 1/1720 Custom_FirstSlashGuild 9 23 3/1740 Custom_FirstSlashGuild 9 17 3/1800 Custom_FirstSlashGuild 10 12 2/1900 Custom_FirstSlashGuild 19 12 2/2000 Custom_FirstSlashGuild 10 12 2/2100 Custom_FirstSlashGuild 20 17 1/2200 Custom_FableReef 43 54 2",
       }
 	},
-	
+
     {
       //Drake's dialogue
       "Action": "Load",
       "Target": "Characters/Dialogue/Drake",
       "FromFile": "assets/CharacterFiles/Dialogue/Adventurers/Drake/Dialogue.json"
     },
-	
+
 	{
       //Drake's dialogue patch
       "Action": "EditData",
@@ -27750,7 +27750,7 @@ Castle Village (work on during the beta)
         "Drake": true
       }
     },
-	
+
     {
       //Edmund's NPC disposition
       "Action": "EditData",
@@ -27796,7 +27796,7 @@ Castle Village (work on during the beta)
       "Target": "Characters/Dialogue/Edmund",
       "FromFile": "assets/CharacterFiles/Dialogue/Adventurers/Edmund/Dialogue.json"
     },
-	
+
 	{
       //Edmund's dialogue patch
       "Action": "EditData",
@@ -31507,8 +31507,8 @@ Castle Village (work on during the beta)
      "AuroraVineyardPurchased": "You're expanding your farming business to new ventures. That's exciting news, @.$0",
      },
 },
-	
-	
+
+
 //Aurora Vineyard Patches
 {
     "Action": "EditMap",
@@ -31527,14 +31527,14 @@ Castle Village (work on during the beta)
 	"Update": "OnLocationChange"
 },
 
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Forestwest",
      "MapProperties": { "IsFarm": "T" },
 	 "When": { "HasSeenEvent": "746153084" },
 	 "Update": "OnLocationChange"
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Forestwest",
      "MapProperties": { "IsFarm": "T" },
