@@ -1,4 +1,9 @@
 ﻿{
+//Special Dialogue
+"breakUp": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
+"divorced": "I thought we'd spend the rest of our lives together...$2#$e#%Lance turns away from you.",
+"dumped_Guys": "Hello, @.$2",
+"secondChance_Guys": "I'm willing to give this a second chance...$5",
 
 //Galdoran Outpost
 "Mon": "เราเป็นหัวหอกที่จะทำให้ โลกนี้ปลอดภัยครับ$0",
@@ -34,11 +39,11 @@
 "Thu8": "My hypothesis is that monsters were attracted to the raw power of Mount Kohldur.$6#$e#Unable to defend themselves from hordes of monsters, the dwarfs fled their home in search of a new one.$6",
 "summer_Thu8": "I found this cinder shard while adventuring. You can have it [848].$0#$e#It's a useful resource for trading and crafting.$5",
 "fall_Thu8": "Even today, adventurers such as yourself are still making new discoveries.$1#$e#The world is filled with many mysteries. With a collective effort, we can hope to eventually unravel it all.$0",
-"winter_Thu8": "Because The First Slash guild building is within my teleportation range, I don't need an outpost here.#$e#I will say though, I fancy the idea of building a beach house here some day...$5",
+"winter_Thu8": "My guild too far away to teleport to, so I have a hidden warp rune around here.#$e#I fancy the idea of building a beach house here some day near it someday...$5",
 "Thu10": "I really should stop by the beach house more often. Perhaps we can cook a meal together and enjoy the sun setting on Gem Sea's horizon.$4",
 "Fri": "Perfect day for dungeon crawling.$0#$b#Good luck, adventurer.$5",
 "Fri2": "The world is a big place. I hope to one day explore it all.$0",
-"Fri4": "The First Slash guild building is located on a small island, far away in the middle of the Gem Sea.$0#$b#There isn't a good way to conventionally travel there.$5#$e#Everyone in the First Slash is a combat mage, just like me.$0#$e#I'll take you with me there someday.$1",
+"Fri4": "Everyone in the First Slash is a mage...$5#$e#I'll take you with me there someday.$1",
 "Fri8": "Even I still get nervous stepping into the unknown. I have faith in my magical abilities to see me through whatever I might encounter, though.$0",
 "summer_Fri8": "I'm somewhat fortunate I get to patrol Ginger Island.$5",
 "fall_Fri8": "Galaxy Souls are required to perfect a magical weapon.$0#$b#They are the highest form of raw magical energy we know of.$1",
