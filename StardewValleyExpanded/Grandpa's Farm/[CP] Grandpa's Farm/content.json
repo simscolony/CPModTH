@@ -929,55 +929,7 @@
       "When": { "FarmType": "Standard" },
 	  "Update": "OnLocationChange"
     },
-
-	{ //Sophia spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/GrandpasFarm_Sophia_SpouseArea.tbin",
-	  "When": { "FarmType": "Standard", "Spouse": "Sophia" },
-      "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
-    },
-
-	{ //Lance spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/GrandpasFarm_Lance_SpouseArea.tbin",
-	  "When": { "FarmType": "Standard", "Spouse": "Lance" },
-      "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
-    },
-
-	{ //Victor spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/GrandpasFarm_Victor_SpouseArea.tbin",
-	  "When": { "FarmType": "Standard", "Spouse": "Victor" },
-      "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
-    },
-
-	{ //Olivia spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/GrandpasFarm_Olivia_SpouseArea.tbin",
-	  "When": { "FarmType": "Standard", "Spouse": "Olivia", "Weather |contains=Winter": false },
-      "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
-    },
-
-	{ //Claire spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/GrandpasFarm_Claire_SpouseArea.tbin",
-	  "When": { "FarmType": "Standard", "Spouse": "Claire" },
-      "ToArea": { "X": 78, "Y": 38, "Width": 4, "Height": 2 },
-    },
-
-	{ //Wizard spouse area
-      "Action": "EditMap",
-      "Target": "Maps/Farm,Maps",
-      "FromFile": "assets/MapPatches/GrandpasFarm_Wizard_SpouseArea.tbin",
-	  "When": { "FarmType": "Standard", "Spouse": "Wizard" },
-      "ToArea": { "X": 78, "Y": 39, "Width": 4, "Height": 2 },
-    },
-
+	
     //Changes standard farm icon to grandpa
     {
       "Action": "EditImage",
