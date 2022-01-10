@@ -3140,7 +3140,7 @@
     "When": { "LocationName": "Custom_Highlands, Custom_HighlandsCavern, Custom_HighlandsCavernPrison, Custom_HighlandsOutpost" },
     "Update": "OnLocationChange",
     "Entries": {
-    "PlayerKilled": "none/-100 -100/farmer 6 6 1 Lance 8 6 3/changeLocation Custom_HighlandsOutpost/positionOffset farmer 20 0 true/positionOffset Lance -25 0 true/pause 500/message \"ลืมตาสิ...\"/pause 900/playMusic cm:SDV_Fireplace/pause 600/viewport 7 6 true/pause 1500/shake Lance 500/pause 250/speak Lance \"ผมสมัผัสได้ว่า คุณกับลงตกอยู่ในอันตราย โชคดีที่ผมมาทันเวลา$0\"/pause 1000/speak Lance \"ต้องคอยระวังตัวสิ @ อย่าฝืนเกินไป$3\"/pause 500/globalFade/viewport -1000 -1000/stopMusic/hospitaldeath/faceDirection farmer 2 true/end position 6 6"
+    "PlayerKilled": "none/-100 -100/farmer 6 6 1 Lance 8 6 3/changeLocation Custom_HighlandsOutpost/positionOffset farmer 20 0 true/positionOffset Lance -25 0 true/pause 500/message \"ลืมตาสิ...\"/pause 900/playMusic cm:SDV_Fireplace/pause 600/viewport 7 6 true/pause 1500/shake Lance 500/pause 250/speak Lance \"ข้าสัมผัสได้ว่า ท่านกำลังตกอยู่ในอันตราย โชคดีที่ข้ามาทันเวลา$0\"/pause 1000/speak Lance \"ต้องคอยระวังตัวสิ @ อย่าฝืนเกินไป$3\"/pause 500/globalFade/viewport -1000 -1000/stopMusic/hospitaldeath/faceDirection farmer 2 true/end position 6 6"
     },
 },
 {   //Edits death strings
@@ -7103,7 +7103,7 @@
    "MysteriousWizardLetter": "@^^ไปพบข้าที่ป่าทางทิศตะวันตก ของหอคอยข้าวันนี้ เวลาบ่ายสองโมงตรง (2:00 PM) ข้ามีบางอย่างที่จะต้องหารือกับเจ้า มาคนเดียวล่ะ [letterbg 2]",
    "ThiefOfJusticeMovie": "คุณได้รับเชิญให้เข้าร่วม รายการพิเศษก่อนการแสดง:^^THE Thief of Justice - วีรบุรุษจอมโจร^นำแสดงโดย แคลร์ ไวท์ลีย์^^รอบปฐมทัศน์ คืนนี้ ที่โรงภาพยนตร์เวลา 17.00 น.[letterbg Mods/FlashShifter.StardewValleyExpandedCP/LetterBackgrounds 0][textcolor white]",
    "GuntherGaldoranGemReward": "ถึง @^^ขอบคุณความใจกว้างของคุณ ที่บริจาคของมาให้ ตอนนี้พิพิธภัณฑ์ มีของสะสม ครบถ้วนทุกชิ้นแล้ว และเพื่อเป็นการแสดงถึงความซาบซ้ำใจของผม ผมขอมอบสมบัติสุดพิเศษนี้ให้คุณ อัญมณีนี้ ถูกขุดพบและเจียรไน จากประเทศเวทมนตร์ที่อยู่ห่างไกล นามว่า กัลโดร่า ตอนนี้มันเป็นของคุณแล้วครับ^^  -กันเธอร์ %item object {{spacechase0.JsonAssets/ObjectId:Galdoran Gem}} 1 %%",
-   "LanceLifeElixirs": "ถึง @^^ในพัสดุนี้คือกล่องบรรจุน้ำยาอายุวัฒนะ 24 ขวด บริเวณเขตที่ราบสูงเป็นดินแดนมหาภัย ที่เต็มไปด้วยอันตรายรอบด้าน สิ่งนี้ของช่วยให้คุณปลอดภัย^^ -แลนซ์ %item object 773 24 %%",
+   "LanceLifeElixirs": "ถึง @^^ในพัสดุนี้คือกล่องบรรจุน้ำยาอายุวัฒนะ 24 ขวด บริเวณเขตที่ราบสูงเป็นดินแดนมหาภัย ที่เต็มไปด้วยอันตรายรอบด้าน สิ่งนี้ของช่วยให้ท่านปลอดภัย^^ -แลนซ์ %item object 773 24 %%",
 	}
 },
 
@@ -8990,7 +8990,7 @@
 		"SummitEvent_Dialogue3_Olivia": "หลายปีที่ผ่านมานี้ ฉันไม่เคยเสียดายเลย แม้แต่ครั้งเดียว ที่เลือกจะใช้ชีวิตที่เหลืออยู่ กับคุณ$3\"/pause 500/faceDirection Olivia 3/pause 500/faceDirection farmer 1/pause 300/speak Olivia \"ฉันปรารถนาว่า จะสามารถแสดงให้คุณเห็นได้ ว่าฉันมองคุณยังไง ผ่านดวงตาคู่นี้ของฉัน$3#$b#แค่เพียงคุณสามารถรู้สึกได้ว่า คุณมีความหมายกับฉัน มากขนาดไหน และฉันรักคุณมากมาย ขนาดไหน$4",
 		"SummitEvent_Dialogue3_Claire": "การเลือกทำงานกับร้านโจจ้า เป็นการตัดสินใจ ที่ถูกต้องที่สุด ที่ฉันเคยทำมา$1#$b#ก็เหมือนกับการแสดง คุณไม่มีทางรู้หรอกว่า อนาคตจะเป็นแบบไหน หรือ หนึ่งในตัวเลือกพวกนั้น จะเป็นชีวิตคุณ ไปตลอดกาลยังไง...$5\"/pause 500/faceDirection Claire 3/pause 500/faceDirection farmer 1/pause 300/speak Claire \"หัวใจของฉัน จะเป็นของคุณเสมอ...$4",
 	    "SummitEvent_Dialogue3_Wizard": "เจ้ารู้รึเปล่า หลังจากที่เรื่องต่างๆ เกี่ยวกับภรรยาเก่าของข้าจบลง และ... และแคโรไลน์... ก็ด้วย... ข้าไม่แน่ใจจริงๆ ว่าข้าจะหาใครสักคน ที่จะมาใช้ชีวิตอยู่ร่วมกันได้อีก#$b#หรือข้าอาจจะถูกลิขิตมา ให้อยู่อย่างเดียวดาย กับเวทมนตร์ของข้าเอง ในหอคอยที่อยู่ลึกในป่าเช่นนี้$2#$b#และเจ้า ก็มายังหุบเขานี้ โดยที่ไม่ว่าข้า จะซ่อนตัวสักเพียงไหน...$0#$b#เจ้าก็ยังเข้ามาในป่าลึก มาเคาะประตู แล้วก็หาข้าจนเจอ ครั้งแล้ว ครั้งเล่า เจ้านำความหวังมาสู่ข้า ในขณะที่ตัวข้าเอง ได้ทิ้งมันไปนานแล้ว$5\"/pause 500/faceDirection Wizard 3/pause 500/faceDirection farmer 1/pause 300/speak Wizard \"ขอบคุณที่ไว้วางใจข้า เชื่อมั่นในตัวข้า และมอบความหวัง ในการมีชีวิตอยู่ ให้ข้าอีกครั้ง$1#$b#เจ้าได้มอบ ของขวัญแห่งความสุข แก่ข้า @ ข้าทำให้ดีที่สุด เพื่อตอบแทนของขวัญนี้ และข้าจะทำให้ดีที่สุด ที่จะทำให้เรา ได้อยู่ด้วยกันตลอดไป$4",
-	    "SummitEvent_Dialogue3_Lance": "ไม่ว่าในอนาคตของเรา  จะมีสิ่งที่ไม่อาจหรือ หรือมีอันตราย ที่รอคอยเราอยู่ เราจะยังอยู่เคียงข้างกันเสมอ$0\"/pause 750/faceDirection Lance 3/pause 500/faceDirection farmer 1/pause 500/speak Lance \"สำหรับผม คุณคือความฝันที่เป็นจริง$1#$b#และผมจะไม่ยอมพ่ายแพ้ ให้กับโลกใบนี้$4",
+	    "SummitEvent_Dialogue3_Lance": "ไม่ว่าในอนาคตของเรา  จะมีสิ่งที่ไม่อาจหรือ หรือมีอันตราย ที่รอคอยเราอยู่ เราจะยังอยู่เคียงข้างกันเสมอ$0\"/pause 750/faceDirection Lance 3/pause 500/faceDirection farmer 1/pause 500/speak Lance \"สำหรับข้า ท่านคือความฝันที่เป็นจริง$1#$b#และข้าจะไม่ยอมพ่ายแพ้ ให้กับโลกใบนี้$4",
 	 }
 },
 
@@ -25789,7 +25789,7 @@
       "Target": "Data/NPCGiftTastes",
 	  "When": { "HasSeenEvent": "6951319" },
       "Entries": {
-        "Lance": "สิ่งนี้เป็นประโยชน์กับผม มากเลยครับ ผมขอขอบคุณจากใจเลย/896 907/อา นี่เป็นเรื่องเหลือเชื่อ ขอบคุณ/905 74 797 261 688 689 690 446 96 97 98 99 121 122 158 159 161 160 162 163 166 305 306 704 909 857/ผมมันอาจจะใช้มัน เพื่อทดลองเวทย์ดูละกัน.../-80 -74 338 80 82/ผมเกรงว่าสิ่งนี่ คงไม่เหมาะกับผม/-81 330 283 206 211 216 233 234 245 220 221 222 223 224 279 612 611 608 604/บางทีไว้จะลอง หาวิธีใช้มันละกันครับ/-4 -28 286 287 288 829 396 393 397 392 394/"
+        "Lance": "สิ่งนี้เป็นประโยชน์กับข้า มากเลยครับ ข้าขอขอบคุณจากใจเลย/896 907/อา นี่เป็นเรื่องเหลือเชื่อ ขอบคุณ/905 74 797 261 688 689 690 446 96 97 98 99 121 122 158 159 161 160 162 163 166 305 306 704 909 857/ข้ามันอาจจะใช้มัน เพื่อทดลองเวทย์ดูละกัน.../-80 -74 338 80 82/ผมเกรงว่าสิ่งนี่ คงไม่เหมาะกับข้า/-81 330 283 206 211 216 233 234 245 220 221 222 223 224 279 612 611 608 604/บางทีไว้จะลอง หาวิธีใช้มันละกันครับ/-4 -28 286 287 288 829 396 393 397 392 394/"
       }
     },
 	//LOVES: Galaxy Soul, Tropical Curry, Void Shard, Swirl Stone, Green Mushroom, Ornate Treasure Chest, Gemfish, <MONSTER CROP>, and Torpedo Trout
@@ -25903,8 +25903,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 2" },
       "Entries": {
-      "funReturn_Lance": "Marlon is skilled with a sword, but he lacks range.$6#$e#That's where I excel at. Our expedition was flawless with the teamwork we exhibited...$5",
-      "funLeave_Lance": "There isn't anyone else I know who works as hard as you do.$1#$e#Marlon needs help at the guild today. I'll return at dusk.$0",
+      "funReturn_Lance": "ท่านมาร์ลอนนั้นเชี่ยวชาญ ในเชิงดาบมาก แต่ไม่ถนัดโจมตีระยะไกล$6#$e#ซึ่งนั่นคือสิ่งที่ข้าเชี่ยวชาญ  การออกเดินทางของเรา จะไร้ที่ติมาก เมื่อได้ทำงานร่วมกันเป็นทีม...$5",
+      "funLeave_Lance": "ไม่มีใครที่ข้ารู้จัก จะทำงานหนัก เท่ากับท่านอีกแล้ว$1#$e#มาร์ลอนต้องการ ให้ไปช่วยที่กิลด์วันนี้ แล้วข้าจะกลับมาตอนพลบค่ำ$0",
         }
 	},
 
@@ -25914,7 +25914,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 3" },
       "Entries": {
-      "funLeave_Lance": "I have First Slash business today. I'm afraid I won't be coming back tonight.$0",
+      "funLeave_Lance": "วันนี้ข้ามีธุระ ของกลุ่มพิฆาตคมแรก ข้าเกรงว่า คงจะไม่ได้กลับบ้านคืนนี้แน่เลย$0",
         }
 	},
 
@@ -25924,8 +25924,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 7" },
       "Entries": {
-      "funReturn_Lance": "My master is a Dragon Knight. I became his pupil at a very young age when my arcane potential was discovered.$0",
-      "funLeave_Lance": "I'll be at the outpost today.$0#$e#There's strange monster migration patterns I must survey.$6",
+      "funReturn_Lance": "อาจารย์ของข้า คือนักรบมังกร  ข้ามาเป็นลูกศิษย์ของเขา ตั้งแต่ตอนยังเด็กมาก เมื่อตอนที่พลังเวทย์ของข้า ตื่นขึ้น$0",
+      "funLeave_Lance": "วันนี้ข้าจะไปอยู่ที่ปราการ$0#$e#การอพยพของมอนสเตอร์ มีรูปที่ผิดปกติไป ข้าต้องไปตรวจสอบดู$6",
         }
 	},
 
@@ -25935,8 +25935,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 9" },
       "Entries": {
-      "funReturn_Lance": "'Monster Fruit' is strangely delicious. It almost tastes like a stardrop.$",
-      "funLeave_Lance": "I'm happy we found each other in this wild game we call life.$4",
+      "funReturn_Lance": "ผลสัตว์ประหลาด (Monster Fruit) มีรสชาดอรอ่ยแบบแปลกๆ มันใกล้เคียงกับสตาร์ดรอป มากที่สุดแล้ว$",
+      "funLeave_Lance": "ข้ามีความสุขจัง ที่เราได้หากันจนเจอ ในเกมที่แสนโหดร้าย ที่เรียกว่าชีวิต$4",
         }
 	},
 
@@ -25946,8 +25946,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 10" },
       "Entries": {
-      "funReturn_Lance": "I found this cinder shard while adventuring. Here. [848]$0#$e#It's a useful resource for trading and crafting.$1",
-      "funLeave_Lance": "Marley requested me today. You know where I'll be.$0",
+      "funReturn_Lance": "ข้าพบสะเก็ดแม็กม่า ระหว่างการผจญภัย อ้ะ [848]$0#$e#มันเป็นวัตถุดิบที่มีประโยชน์ ต่อการแลกเปลี่ยนและ การคราฟ$1",
+      "funLeave_Lance": "มาร์เลย์ มอบภารกิจให้ข้าวันนี้ ท่านรู้นะ ว่าข้าจะไปอยู่ที่ไหน$0",
         }
 	},
 
@@ -25957,8 +25957,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 14" },
       "Entries": {
-      "funReturn_Lance": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
-      "funLeave_Lance": "I'm mapping out where Wilderness Golems nest today.$0",
+      "funReturn_Lance": "วันนี้เป็นอย่างไรบ้าง ที่รักของข้า?$1#$e#วันนี้ของข้าก็ดี ข้าสามารถจัดการเวลา เพื่อทำงานวิจัยของข้าต่อได้แล้ว$0",
+      "funLeave_Lance": "ข้ากำลังจากทำแผนที่ รังของโกเลมดุร้าย ในวันนี้$0",
         }
 	},
 
@@ -25968,8 +25968,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 16" },
       "Entries": {
-      "funReturn_Lance": "Let's sleep soon.$0",
-      "funLeave_Lance": "What's on the agenda today?$0",
+      "funReturn_Lance": "เราเข้านอนกันเถอะ$0",
+      "funLeave_Lance": "วันนี้มีวาระอะไรไหม?$0",
         }
 	},
 
@@ -25979,7 +25979,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 17" },
       "Entries": {
-      "funLeave_Lance": "Good morning, my love.$0#$e#I have business with Marley today. I'll return tomorrow.",
+      "funLeave_Lance": "อรุณสวัสดิ์ ยอดรัก$0#$e#วันนี้ข้ามีธุระกับมาร์เลย์ ข้าจะกลับมาพรุ่งนี้ครับ",
         }
 	},
 
@@ -25989,8 +25989,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 21" },
       "Entries": {
-      "funReturn_Lance": "Galaxy Souls are required to perfect a magical weapon.$0#$b#They are the highest form of raw magical energy we know of.$1",
-      "funLeave_Lance": "I have a field study to do at the highlands today.$0#$e#You're free to join me.$1#$e#I must admit, it might not be as exciting as last time.$2",
+      "funReturn_Lance": "จำเป็นต้องใช้ จิตวิญญาณดาราจักร(Galaxy Soul)ในการทำอาวุธเวทย์ที่สมบูรณ์แบบ$0#$b#พวกมันเป็น แหล่งกำเนิดพลังเวทย์ ระดับสูงสุด ที่พวกเรารู้จัก$1",
+      "funLeave_Lance": "วันนี้ข้าต้องทำวิจัยภาคสนาม ในเขตที่ราบสูง$0#$e#ถ้าท่านว่าง จะไปกับข้าก็ด้นะครับ$1#$e#แต่ก็ต้องยอมรับ ว่ามันคงจะไม่ตื่นเจ้น เท่ากับครั้งที่แล้ว$2",
         }
 	},
 
@@ -26000,8 +26000,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 23" },
       "Entries": {
-      "funReturn_Lance": "Did you have a run-in with any monsters today?$1",
-      "funLeave_Lance": "Good morning. I'm heading to the adventurer guild soon.$0#$e#I hope something exciting is in store for us.$1",
+      "funReturn_Lance": "วันนี้ท่านไปจ๊ะเอ๋ เข้ากับมอนสเตอร์บ้างรึเปล่า?$1",
+      "funLeave_Lance": "อรุณสวัสดิ์ อีกเดี๋ยวข้าจะออกไปที่กิลด์$0#$e#ข้าหวังว่าจะมีสิ่งที่น่าตื่นเต้น รอคอยเราอยู่$1",
         }
 	},
 
@@ -26011,7 +26011,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 24" },
       "Entries": {
-      "funLeave_Lance": "Good morning. You were quite rowdy last night.$6#$e#You must have kicked me a dozen times...$5#$e#*chuckle* Have a nice day, my dear. I'll be at the First Slash if you need me.$1",
+      "funLeave_Lance": "อรุณสวัสดิ์ เมื่อคืนนี้ ท่านเอาเรื่องเลยนะครับ$6#$e#ท่านถีบข้าไปหลายทีเลย...$5#$e#*คิกคัก*  ขอให้มีวันที่ดีครับ ยอดรัก ข้าจะอยู่ที่กิลด์พิฆาตคมแรก ถ้าท่านจะไปหา$1",
         }
 	},
 
@@ -26021,8 +26021,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Spring 28" },
       "Entries": {
-      "funReturn_Lance": "The Highland monsters are changing their colors. Summer is on the rise.$0",
-      "funLeave_Lance": "I think I'll go to the outpost today.$0#$e#*chuckle* Yes, I'll stock plenty mana elixirs.$5",
+      "funReturn_Lance": "เหล่ามอนสเตอร์ ในเขตที่ราบสูง เริ่มเปลี่ยนสีกัยแล้วครับ ฤดูร้อนกำลังย่างก้าวเข้ามาแล้ว$0",
+      "funLeave_Lance": "ข้าวัน วันนี้ข้าจะไปที่ปราการ$0#$e#*คิกคัก*  ครับๆ ข้าจะเตรียบน้ำยาเพิ่มมานา ไปให้พอ$5",
         }
 	},
 
@@ -26032,8 +26032,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 2" },
       "Entries": {
-      "funReturn_Lance": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
-      "funLeave_Lance": "I have guild business today. I'll be back tonight.$0",
+      "funReturn_Lance": "วันนี้เป็นอย่างไรบ้าง ที่รักของข้า?$1#$e#วันนี้ของข้าก็ดี ข้าสามารถจัดการเวลา เพื่อทำงานวิจัยของข้าต่อได้แล้ว$0",
+      "funLeave_Lance": "วันนี้ข้าต้องจัดการธุระของกิลด์ เดี๋ยวข้ากลับมาตอนกลางคืนครับ$0",
         }
 	},
 
@@ -26043,7 +26043,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 3" },
       "Entries": {
-      "funLeave_Lance": "I really should stop by the beach house more often.$0#$e#Perhaps we can cook a meal together and enjoy the sun setting on Gem Sea's horizon.$4#$e#Well, adventure awaits. I'll be at Fable Reef.",
+      "funLeave_Lance": "ข้าควรจะแวะมา บ้านพักชายทะเล ให้บ่อยกว่านี้จริงๆ นะครับเนี่ย บางทีเราอาจจะ ช่วยกันทำอาหาร แล้วชมดวงอาทิตย์ตกที่ ริมขอบฟ้าแห่งทะเลอัญมณีก็ได้$4#$e#เอาล่ะ ตอนนี้มีการผจญภัยรออยู่ ข้าจะอยู่ที่เกาะปะการังเล่าขาน",
         }
 	},
 
@@ -26053,8 +26053,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 7" },
       "Entries": {
-      "funReturn_Lance": "The 'monster mushroom' has gone through three times the evolutions compared to the other three monster crops.$1",
-      "funLeave_Lance": "I'm observing monster mushroom spirits at the Highlands this morning.",
+      "funReturn_Lance": "เห็ดสัตว์ประหลาด (monster mushroom) มีวิวัฒนาการเหนือว่า พวกมอสเตอร์พืชอีก 3 ชนิด มากถึง 3 เท่า$1",
+      "funLeave_Lance": "เช้านี้ ข้าจะเฝ้าสังเกต เหล่าวิญญาณเห็ดสัตว์ประหลาด ณ เขตที่ราบสูง",
         }
 	},
 
@@ -26064,8 +26064,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 9" },
       "Entries": {
-      "funReturn_Lance": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
-      "funLeave_Lance": "I have guild business today. I'll be back tonight.$0",
+      "funReturn_Lance": "วันนี้เป็นอย่างไรบ้าง ที่รักของข้า?$1#$e#วันนี้ของข้าก็ดี ข้าสามารถจัดการเวลา เพื่อทำงานวิจัยของข้าต่อได้แล้ว$0",
+      "funLeave_Lance": "วันนี้ข้าต้องจัดการธุระของกิลด์ เดี๋ยวข้ากลับมาตอนกลางคืนครับ$0",
         }
 	},
 
@@ -26075,7 +26075,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 10" },
       "Entries": {
-      "funLeave_Lance": "Good morning. I don't normally brew coffee but I think I'll need it today. Here's some for you.[253]$1#$e#I have a small appreciation for strong coffee.$0",
+      "funLeave_Lance": "อรุณสวัสดิ์ โดยปกติข้าจะไม่ดื่มกาแฟหรอกครับ แต่วันนี้ ข้าว่าข้าต้องดื่มมันสักหน่อย อ้ะ ที่ของท่าน[253]$1#$e#ข้ารู้สึก พอใจเล็กๆ กับกาแฟเข้มๆ$0",
         }
 	},
 
@@ -26085,8 +26085,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 14" },
       "Entries": {
-      "funReturn_Lance": "I defeated a slime and obtained a 'slime berry'. Maybe you can cultivate it? [770]$1#$e#Wh-What? That isn't a 'slime berry'?$2#$e#*chuckle* This is exactly why I needed your help all that time ago.$5#$e#I hope we have more moments like this.$4",
-      "funLeave_Lance": "I wonder what awaits me in the Highlands today...$5#$e#Best of luck, my love. I'll return tonight.$1",
+      "funReturn_Lance": "วันนี้ข้าจัดการสไลม์ได้ แล้วก็ได้  'สไลม์เบอร์รี' มา ไม่แน่นะ ท่านอาจจะปลูกมันขึ้นก็ได้ ? [770]$1#$e#อะ-อะไร? นั่นไม่ใช่สไลม์เบอร์รีหรอ?$2#$e#*คิกคัก* ก็นี่แหละน้า ว่าทำไมข้าถึงต้องให้ท่าน ช่วยมาตลอด$5#$e#ข้าหวังว่า เราจะมีช่วงเวลาแบบนี้ มากขึ้นอีก$4",
+      "funLeave_Lance": "ข้าอยากรู้จัง วันนี้จะมีอะไรรอข้า อยู่ที่เขตที่ราบสูงน้า...$5#$e#อวยพรให้ผมด้วยนะครับ ยอดรัก ผมจะกลับมาในคืนนี้$1",
         }
 	},
 
@@ -26096,8 +26096,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 16" },
       "Entries": {
-      "funReturn_Lance": "We received a crate of 'life elixirs' from a discreet benefactor. Marlon said to give you these. [773]$1#$e#And this one.[773]#$e#Here you go.[773]$5#$e#Couple more...[773]$#$e#Aaaand there.$1[773]#$e#Use them well.$0",
-      "funLeave_Lance": "Several shipments of supplies are being delivered to the Adventurer Guild today.$0#$b#I wonder what the contents will contain...$5#$b#I'll let you know tonight.$1",
+      "funReturn_Lance": "เราได้รับกล่องบรรจุ น้ำยาอายวัฒนะ มาจากผู้อุปถัมภ์ ผู้แสนสุขุมรอบคอบ ท่านมาร์ลอนบอกว่า ให้มอบสิ่งนี้ให้ท่านด้วย [773]$1#$e#แล้วก็นี่อีกอัน [773]#$e#เอานี้ไปด้วย [773]$5#$e#แล้วก็นี่อีกหน่อย...[773]$#$e#แล้ววววววก็$1[773]#$e#ใช้มันให้ดีล่ะครับ$0",
+      "funLeave_Lance": "วันนี้จะมีการจัดส่งเสบียง หลายรายการ ไปยังกิลด์นักผจญภัย$0#$b#ข้าอยากรู้จัง จะมีอะไรมามั่งน้า...$5#$b#คืนนี้ข้าจะบอกท่านนะครับ$1",
         }
 	},
 
@@ -26107,7 +26107,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 17" },
       "Entries": {
-      "funLeave_Lance": "Gale needs help mastering some magic, so I entertained the idea of being his mentor for a day.$0#$e#I'll return tomorrow.$1",
+      "funLeave_Lance": "เกลต้องการให้ช่วยชี้นำ ทางเวทมนตร์ เพราะงั้น ข้าก็เลยเกิดไอเดียน่าสนุก โดยการเป็นพี่เลี้ยงให้เขา 1 วัน$0#$e#ข้าจะกลับมาในวันพรุ่งนี้$1",
         }
 	},
 
@@ -26117,8 +26117,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 21" },
       "Entries": {
-      "funReturn_Lance": "*yawn*...$5#$b#I was exploring the Highland mountains today.$0#$e#*yawn*...$5#$b#I feel like I could just rest my head in your lap...$5#$e#%Lance is dozing off.",
-      "funLeave_Lance": "There's many unknowns in the Highlands. I hope to unravel them all.$0#$e#*chuckle* I'm departing soon. You know where to find me.$5",
+      "funReturn_Lance": "*หาว*...$5#$b#วันนี้ข้าไปสำรวจ ภูเขาในเขตที่ราบสูงมาครับ$0#$e#*หาว*...$5#$b#ข้ารู้สึกว่าข้านอนพัก บนตักท่านได้เลยนะ....$5#$e#%แลนซ์กำลังผลอยหลับ",
+      "funLeave_Lance": "มีอีกหลายอย่าง ที่ยังไม่สามารถรู้ได้ ในเขตที่เราบสูง ข้าวังว่า ข้าจะสามารถล่วงรู้ ถึงพวกมันทั้งหมดได้$0#$e#*คิกคัก*  ข้าไปนะครับ ท่านรู้นะ ว่าจะหาข้าได้ที่ไหน$5",
         }
 	},
 
@@ -26128,8 +26128,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 23" },
       "Entries": {
-      "funReturn_Lance": "I made 'mango sticky rice' using fresh ingredients from Fable Reef. [905]$0#$e#*slurp* Hmm...$5",
-      "funLeave_Lance": "Hmm... I'm craving something sweet, which is very unusual for me.$5",
+      "funReturn_Lance": "ข้าทำ 'ข้าวเหนียวมะม่วง' โดยใช้วตถุดิบสดใหม่ จากเกาะปะการังเล่าขาน [905]$0#$e#*ซู้ด* อืมม...$5",
+      "funLeave_Lance": "อืมม... ข้าอยากกินอะไรหวานๆ จัง ปกติข้าไม่เป็นแบบนี้นะ$5",
         }
 	},
 
@@ -26139,7 +26139,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 24" },
       "Entries": {
-      "funLeave_Lance": "Marley is organizing a group to explore a recently discovered sea cave.$6#$e#*chuckle* I've been in a dungeon crawling mood for some time now...$5",
+      "funLeave_Lance": "มาร์เลย์กำลังรวบรวมพรรคพวก เพื่อออกสำรวจถ้ำในทะเล ที่พึ่งค้นพบเมื่อไม่นานมานี้$6#$e#*คิกคัก*  ส่วนข้ารู้สึกเหมือน คลานอยู่ในถ้ำมานานแล้ว...$5",
         }
 	},
 
@@ -26149,8 +26149,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Summer 28" },
       "Entries": {
-      "funReturn_Lance": "I'm exhausted from surveying monsters all day. Shall we retire for the night?$0#$e#*yawn*...$5",
-      "funLeave_Lance": "Autumn is already blowing in the air. I can feel it.$5#$e#I'm off to observe color changes of the Highland monsters.$1",
+      "funReturn_Lance": "ข้ารู้สึก เหน็ดเหนื่อยกับการ ออกสำรวจเล่ามอนสเตอร์ มาทั้งวัน คืนนี้เราพักกันเลยมั้ยครับ?$0#$e#*หาว*...$5",
+      "funLeave_Lance": "ฤดูใบไม้ร่วง พัดผ่านอากาศมาแล้ว ข้ารู้สึกได้เลย$5#$e#ข้าจะออกไปสังเกตการณ์ การเปลี่ยนสีของพวกมอนสเตอร์ ในเขตที่ราบสูงดูสักหน่อย$1",
         }
 	},
 
@@ -26160,8 +26160,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 2" },
       "Entries": {
-      "funReturn_Lance": "I discovered a grave near the Adventurer's Guild today. It was well hidden...$6#$e#Each guild carries a heavy burden...$6",
-      "funLeave_Lance": "Gil is holding a meeting today. Must be important.$0#$e#Are you coming?$1",
+      "funReturn_Lance": "วันนี้ ข้าค้นพบสุสาน อยู่ใกล้กับกลิด์นักผจญภัย มันถูกซ่อนไว้อย่างดี...$6#$e#แต่ละกิลด์ต่างก็ต้องแบบรับ ความภาระที่หนักหน่วง...$6",
+      "funLeave_Lance": "ท่านกิลจะจัดประชุมในวันนี้ มันต้องเป็นเรื่องสำคัญแน่$0#$e#ท่านจะไปมั้ยครับ?$1",
         }
 	},
 
@@ -26171,7 +26171,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 3" },
       "Entries": {
-      "funLeave_Lance": "I have First Slash business today. I'll return at dusk.$0#$e#Even today, adventurers like us are still making new discoveries.$1",
+      "funLeave_Lance": "วันนี้ข้ามีธุระของกลุ่มพิฆาตคมแรก ข้าจะกลับมาตอนพลบค่ำ$0#$e#จนถึงวันนี้ เหล่านักผจญภัยเช่นพวกเรา ก็ยังคงค้นพบ สิ่งใหม่อยู่เสมอ$1",
         }
 	},
 
@@ -26181,8 +26181,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 9" },
       "Entries": {
-      "funReturn_Lance": "Magnus studies ancient fruit and I study monster crops...$5#$e#In a strange way, our work is somewhat similar.$1",
-      "funLeave_Lance": "The biggest adventure you can ever take is to live the life of your dreams.$0#$b#And I do that with you, every day.$1",
+      "funReturn_Lance": "ท่านแมกนัส ศึกษาเรื่องผลไม้โบราณ และข้าศึกษาเรื่องมอนสเอตร์พืช...$5#$e#ถึงจะเป็นคนละด้าน แต่งานของเราก็คล้ายคลึงกัน$1",
+      "funLeave_Lance": "การผจญภัยที่ยิ่งใหญ่ที่สุด ที่ท่านสามารถทำได้ คือการได้ใช้ชีวิตดังที่ฝันไว้$0#$b#และข้าจะทำมันกับท่าน ในทุกๆ วันเลย$1",
         }
 	},
 
@@ -26192,7 +26192,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 10" },
       "Entries": {
-      "funLeave_Lance": "Good morning, my love.$1#$e#Marley and I are studying an ocean floor map today.$0#$e#This trench has a depth of 13 miles - deepest in the world!$1",
+      "funLeave_Lance": "อรุณสวัสดิ์ ยอดรัก$1#$e#วันนี้มาร์เลย์กับข้า กำลังจะไปศึกษา แผนที่ใต้พื้นทะเลกันครับ$0#$e#ร่องทะเลนี้มีความลึกถึง 13 ไมล์ - ลึกที่สุดในโลกเลย!$1",
         }
 	},
 
@@ -26202,8 +26202,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 14" },
       "Entries": {
-      "funReturn_Lance": "We're both out of the house so often, I rarely see you...$6#$e#I know we both live busy lives, but we still need to find time with each other.$0",
-      "funLeave_Lance": "I have very little motivation today, but I must travel to the Highlands.$6",
+      "funReturn_Lance": "พวกเราทั้งคู่ต่างก็ไม่อยู่บ้านกัน ข้าไม่ค่อยได้เจอท่านเลย...$6#$e#ข้ารู้ว่าเราทั้งคู่ ต่างก็มีชีวิตที่วุ่นวาย แต่เราก็จำเป็น ต้องหาเวลาอยู่ด้วยกันบ้าง$0",
+      "funLeave_Lance": "วันนี้ข้าไม่ค่อยกระตือรือล้นเท่าไหร่ แต่ยังไงข้าก็ต้องออกเดินทาง ไปเขตที่ราบสูงอยู่ดี$6",
         }
 	},
 
@@ -26213,8 +26213,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 16" },
       "Entries": {
-      "funReturn_Lance": "I paid respects for those who made the ultimate sacrifice.$6#$e#Did you know any of those adventurers?",
-      "funLeave_Lance": "Today feels grim...$6",
+      "funReturn_Lance": "ข้าขอแสดงความเคารพ ให้กับเหล่าผู้คน ที่ยอมเสียสละอย่างที่สุด$6#$e#ท่านรู้จักนักผจญภัย เหล่านั้นบ้างมั้ย?",
+      "funLeave_Lance": "วันนี้รู้สึกแย่จัง...$6",
         }
 	},
 
@@ -26224,7 +26224,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 17" },
       "Entries": {
-      "funLeave_Lance": "I rather enjoy my walks to Magnus' warp hall on days like this.$0#$e#He's kind enough to let me use his nexus.$1",
+      "funLeave_Lance": "ในวันแบบนี้ ข้าอยากจะไปเดินเล่น ในโถงวาร์ปของท่านแมกนัส มากกว่าซะอีก$0#$e#เขาช่างเอื้อเฟื้อ และอนุญาตให้ข้า ใช้ Nexus ของเขาด้วย$1",
         }
 	},
 
@@ -26234,8 +26234,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 21" },
       "Entries": {
-      "funReturn_Lance": "Sometimes I feel like I rely too much on mana elixirs...$2#$e#I need to grow stronger.$3#$e#%Lance looks intense.",
-      "funLeave_Lance": "An adventurer always prepares adequate supplies before venturing out into the unknown.$0#$e#I wonder what awaits me in the Highlands today?$1",
+      "funReturn_Lance": "บางครั้ง ข้าก็รู้สึกว่า ข้าเอาแต่พึ่งน้ำยาเพิ่มมานา มากเกินจำเป็น...$2#$e#ข้าต้องแข็งแกร่งขึ้น$3#$e#%แลนซ์ดูมีความมุ่งมั่น",
+      "funLeave_Lance": "นักผจญภัยจะต้องเตรียมเสบียง ให้เพียงพอก่อนที่จะออกสำรวจ ไปยังที่ที่ไม่รู้จัก$0#$e#ข้าอยากรู้จัง วันนี้จะมีอะไรรอข้า อยู่ที่เขตที่ราบสูงน้า?$1",
         }
 	},
 
@@ -26245,8 +26245,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 23" },
       "Entries": {
-      "funReturn_Lance": "Where do you think monsters come from, @?$0#$e#Legends say they come from dark ancient magic.$5#$e#I believe there's more than meets the eye.$0",
-      "funLeave_Lance": "Good morning.$0#$e#There isn't anyone else I know who works as hard as you do.$1",
+      "funReturn_Lance": "ท่านคิดว่า พวกมอสเตอร์มาจากที่ไหน @?$0#$e#ตำนานกล่าวว่า พวกมันมาจาก เวทย์แห่งความมืดโบราณ$5#$e#ข้าเชื่อว่ามันต้องมีอะไร แอบแผงอยู่อีก$0",
+      "funLeave_Lance": "อรุณสวัสดิ์$0#$e#ไม่มีใครที่ข้ารู้จัก จะทำงานหนัก เท่ากับท่านอีกแล้ว$1",
         }
 	},
 
@@ -26256,7 +26256,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 24" },
       "Entries": {
-      "funLeave_Lance": "Marley requested help with restoring our mana elixir cache today. I obliged.$0#$e#We use coral that grows nearby and other ingredients sourced from Galdora.$1",
+      "funLeave_Lance": "วันนี้มาร์เลย์ขอให้ข้า ช่วยทำน้ำยาเพิ่มมานา สำรองเพิ่มไว้สำหรับพวกเราอีก ข้าโดนบังคับ$0#$e#เราใช้พวกปะการัง ที่โตขึ้นรอบๆ และวัตถุดิบอื่นๆ จากกัลโดร่า$1",
         }
 	},
 
@@ -26266,8 +26266,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Fall 28" },
       "Entries": {
-      "funReturn_Lance": "Monster Mushrooms have gone through three times the evolutions compared to the other three monster crops.$1#$e#It's a very fascinating thing learning how a creature adapts...$5",
-      "funLeave_Lance": "I'm observing monster mushroom spirits at the Highlands this morning.$0#$e#I will admit, they are a little cute.$1#$e#Not as cute as you though.$5#$e#*chuckle*...$1#$e#I'm finishing my preparations and then I'm off.$0",
+      "funReturn_Lance": "เห็ดสัตว์ประหลาด มีวิวัฒนาการเหนือว่า พวกมอสเตอร์พืชอีก 3 ชนิด มากถึง 3 เท่า$1#$e#มันเป็นเรื่องน่าทึ่งมากนะครับ ที่ได้เรียนรู้ว่า พวกสัตว์ประหลาด ปรับตัวกันอย่างไร...$5",
+      "funLeave_Lance": "เช้านี้ ข้าจะเฝ้าสังเกต เหล่าวิญญาณเห็ดสัตว์ประหลาด ณ เขตที่ราบสูง$0#$e#ข้ายอมรับเลยว่า พวกมันน่ารักอยู่นะ$1#$e#แต่ไม่น่ารัก เท่าที่ท่านคิดหรอก$5#$e#*คิกคัก*...$1#$e#ข้าเตรียมตัวพร้อมแล้ว งั้นข้าไปล่ะครับ$0",
         }
 	},
 
@@ -26277,8 +26277,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 2" },
       "Entries": {
-      "funReturn_Lance": "It's always good to run into old friends at the guild.$0",
-      "funLeave_Lance": "Good morning, my love.$0#$e#I've come to truly appreciate how tranquil the valley is during winter.$1#$e#I have guild business today with Marlon. I'll be back tonight.$0",
+      "funReturn_Lance": "มันเป็นอะไรที่ดีนะ ถ้าบังเอิญได้เจอเพื่อนเก่าที่กิลด์$0",
+      "funLeave_Lance": "สวัสดีตอนเช้า ที่รัก$0#$e#ข้ารู้สึกพึงพอใจ กับความสงบของหุบเขา ในช่วงฤดูหนาวเช่นนี้$1#$e#วันนี้ข้ามีธุระที่กิลด์ กับท่านมาร์ลอน ข้าจะกลับมาคืนนี้ครับ$0",
         }
 	},
 
@@ -26288,7 +26288,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 3" },
       "Entries": {
-      "funLeave_Lance": "I need to visit my guild today. I'm running low on mana elixirs.$0",
+      "funLeave_Lance": "วันนี้ข้าต้องไปที่กิลด์ น้ำยาเพิ่มมานาของข้า ใกล้จะหมดแล้ว$0",
         }
 	},
 
@@ -26298,8 +26298,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 7" },
       "Entries": {
-      "funReturn_Lance": "The Highland Caverns are perilous. I easilly get outranged by shadow snipers.$3",
-      "funLeave_Lance": "I'm studying void roots this season. They only grow in freezing temperatures.$0",
+      "funReturn_Lance": "ถ้ำในเขตที่ราบสูงนั่น มีอันตรายมาก ข้ามักหลงกล พวกพรานเงาเอาง่ายๆ$3",
+      "funLeave_Lance": "ฤดูกาลนี้ ข้าจะศึกษาเกี่ยวกับ รากทมิฬ พวกมันจะเติบโต ในอุณหภูมิเยือกแข็ง$0",
         }
 	},
 
@@ -26309,8 +26309,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 9" },
       "Entries": {
-      "funReturn_Lance": "This cold weather calls for a nice warm meal. [907]#$e#Tropical curry is one of my favorite dishes. I wish I had the time to make more of it.$5",
-      "funLeave_Lance": "You, Marlon, Gil, and I should all get together and go to the saloon sometime.$1#$e#We can tell stories, enjoy good food and drink, maybe even play cards.$0#$e#*sigh* It's difficult to schedule with everyone being so busy...$5",
+      "funReturn_Lance": "อากาศหนาวๆ แบบนี้ เหมาะกับอาหารอุ่นๆ  [907]#$e#แกงกะหรี่เขตร้อน คือจานโปรดของข้าเลย ข้าหวังว่า ข้าจะมีเวลาพอ ที่จะทำมันนเพิ่มอีก$5",
+      "funLeave_Lance": "ท่าน ท่านมาร์ลอน ท่านกิล และข้า ควรจะรวมตัวกัน แล้วไปซาลูนด้วยกันบ้างนะ$1#$e#เราจะได้เล่าเรื่องราว เพลิดเพลินกับอาหารอร่อย และเครื่องดื่ม หรืออาจจะเล่นเกมการด์กัน$0#$e#*เฮ้อ* มันยากจะ ที่จะหาเวลาได้ลงตัว พวกเรายุ่งกันสุดๆ...$5",
         }
 	},
 
@@ -26320,7 +26320,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 10" },
       "Entries": {
-      "funLeave_Lance": "I'll be at my guild all day today. I won't return until very late into the night.$0#$e#Eat dinner without me.$0",
+      "funLeave_Lance": "วันนี้ข้าจะไปอยู่ที่กิลด์ของข้านะครับ ข้าน่าจะกลับดึกมากๆ เลย$0#$e#ทานมื้อค่ำเลยนะ ไม่ต้องรอข้า$0",
         }
 	},
 
@@ -26330,8 +26330,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 14" },
       "Entries": {
-      "funReturn_Lance": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
-      "funLeave_Lance": "I'll admit, it can get quiet and lonely at the outpost.$6#$e#Well, I'm off soon. You know where to find me.$0",
+      "funReturn_Lance": "วันนี้เป็นยังไงบ้างครับ ที่รัก?$1#$e#วันนี้ของข้าก็ดี ข้าสามารถจัดการเวลา เพื่อทำงานวิจัยของข้าต่อได้แล้ว$0",
+      "funLeave_Lance": "ข้ายอมรับว่า มันทั้งเงียบ แล้วก็เหงา เวลาที่ต้องอยู่ ที่ปราการด่านหน้า$6#$e#เอาล่ะ ข้าต้องไปแล้ว ท่านรู้นะ ว่าจะหาข้าได้ที่ไหน$0",
         }
 	},
 
@@ -26341,8 +26341,8 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 16" },
       "Entries": {
-      "funReturn_Lance": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
-      "funLeave_Lance": "I have guild business today. I'll be back tonight.$0",
+      "funReturn_Lance": "วันนี้เป็นยังไงบ้างครับ ที่รัก?$1#$e#วันนี้ของข้าก็ดี ข้าสามารถจัดการเวลา เพื่อทำงานวิจัยของข้าต่อได้แล้ว$0",
+      "funLeave_Lance": "วันนี้ข้าต้องจัดการธุระของกิลด์ เดี๋ยวข้ากลับมาตอนกลางคืนครับ$0",
         }
 	},
 
@@ -26352,7 +26352,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueLance",
 	  "When": { "Date": "Winter 17" },
       "Entries": {
-      "funLeave_Lance": "The First Slash hopes to pioneer a magic bubble capable of exploring 'Ethereal Trench' at the bottom of the Gem Sea.$0#$b#It would need to withstand over 1,700 bars of pressure...$5#$e#Several wizards in our circle, such as Magnus, can create one.$0#$b#But they're only capable of withstanding 250 bars of pressure.$6",
+      "funLeave_Lance": "กลุ่มพิฆาตคมแรกของเรา หวังที่จะเป็นผู้บุกเบิก 'ร่องน้ำลึกที่ไม่อาจหยั่งถึง' ที่อยู่ใต้ก้นบึ้งของทะเลอัญมณี โดยใช้ฟองเวทมนตร์ $0#$b#ซึ่งมันจะต้องทนต่อแรงดัน มากกว่า 1,700 บาร์...$5#$e#พ่อมดหลายคน ในแวดวงของเรา เช่น ท่านแมกนัส สามารถสร้างมันได้$0#$b#แต่มันสามารถทนแรงดัน ได้เพียงแค่ 250 บาร์เท่านั้น$6",
         }
 	},
 
@@ -26606,7 +26606,7 @@
         "BeforeMovie": {
           "ResponsePoint": null,
           "Script": "",
-          "Text": "ครั้งหนึ่งข้าเคยไปเมืองซูวู เพื่อเป็นตัวแทนของกลุ่ม พิฆาตคมแรก ในการประชุมที่สำคัญ ของเหล่านายทุน$0#$e#ข้าสวมเครื่องแบบพิเศษสีแดงดำ ข้ายังจำวันนั้นได้ดี เหมือนพึ่งเกิดขึ้น เมื่อวานนี้เอง$1#$e#*คิกคัก* แม้แต่นักผจญภัยเอง ก็ต้องการเงินทุนนะครับ @$5"
+          "Text": "ครั้งหนึ่งข้าเคยไปเมืองซูซู เพื่อเป็นตัวแทนของกลุ่ม พิฆาตคมแรก ในการประชุมที่สำคัญ ของเหล่านายทุน$0#$e#ข้าสวมเครื่องแบบพิเศษสีแดงดำ ข้ายังจำวันนั้นได้ดี เหมือนพึ่งเกิดขึ้น เมื่อวานนี้เอง$1#$e#*คิกคัก* แม้แต่นักผจญภัยเอง ก็ต้องการเงินทุนนะครับ @$5"
         },
         "DuringMovie": {
           "ResponsePoint": null,
@@ -26896,7 +26896,7 @@
 	  "Target": "data/events/islandwest",
 	  "When": { "HasFlag |contains=Island_UpgradeHouse": true, "HasFlag |contains=Island_Resort": true, "HasFlag |contains=Island_UpgradeBridge": true, "HasSeenEvent |contains=908078": true, "HasSeenEvent |contains=6951319": true },
 	  "Entries": {
-      "6951320/w sunny/f Lance 1000/t 600 1800": "continue/-500 -500/farmer 80 80 2 Lance -100 -100 2 Leo 94 69 2/skippable/makeInvisible 81 80 1 10/makeInvisible 78 88 1 4/viewport 80 83 clamp true/viewport move 0 1 5650 true/move farmer 0 7 2 true/pause 8000/showFrame Lance 39 true/warp Lance 83 87/pause 100/showFrame Lance 38 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 20 true/pause 1500/speak Lance \"Beautiful day, isn't it?$0\"/pause 650/faceDirection farmer 1 true/pause 400/emote farmer 16 true/pause 800/faceDirection Lance 3 true/pause 750/speak Lance \"Ah. Apologies for startling you. That wasn't my intention. I was actually hoping to speak with you.$2\"/pause 500/emote farmer 40 true/pause 1000/speak Lance \"I've been patrolling Ginger Island for a long time, since well before you arrived.$6#$b#I've witnessed you communicating with birds, exchanging walnuts for many labor-intensive deeds.$0#$b#Thanks to you, they've repaired the bridge, and even summoned a beach resort, complete with a full bar.$5#$b#I have to say, I've encountered many adventurers during my time in the guild, but none as mysterious such as yourself.$0\"/pause 1000/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"Are you familiar with magic relics, @?$0\"/pause 500/emote farmer 8 true/pause 1000/speak Lance \"Hmm. You aren't. That is most interesting, considering everything else you do...$6\"/pause 500/emote Lance 40 true/pause 1000/speak Lance \"There are many ancient artifacts imbued with magic waiting to be found around the world, many of which come from Galdora.$0#$b#And I just so happen to have a few on me....$5#$b#Here. Hold this.$1\"/pause 500/speed Lance 1/move Lance -1 0 3/pause 500/showFrame Lance 15 true/shake Lance 500/pause 100/playSound dwop/pause 500/showFrame Lance 12 true/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 1650/faceDirection Lance 2 true/pause 500/speak Lance \"Use that to follow me up that cliff. Just focus on where you want to go, and grip the relic tightly.$0\"/pause 600/faceDirection Lance 3 true/pause 750/shake Lance 600/pause 150/showFrame Lance 13 true/pause 300/showFrame Lance 16 true/pause 500/speak Lance \"These relics come in all sorts of shapes and sizes.$1#$b#For example. This blade I have achieves the same goal that staff does.$5\"/pause 750/showFrame Lance 17 true/showFrame Lance 18 true/pause 750/shake Lance 500/pause 500/screenFlash 2/playSound wand/warp Lance 89 94/showFrame Lance 0 true/positionOffset Lance 20 25 true/pause 1600/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 88 94/viewport 90 95 clamp/faceDirection farmer 2 true/positionOffset farmer 0 15 true/pause 1500/faceDirection Lance 3 true/pause 750/faceDirection farmer 1 true/pause 500/speak Lance \"Ah. You catch onto new magic quickly, I see. Not too surprising, given your breadth of experience.$1\"/pause 1250/faceDirection Lance 2 true/pause 1000/faceDirection farmer 2 true/pause 1000/speak Lance \"Ah... now this is a view.$5\"/pause 500/globalFade/viewport 109 109 clamp true/viewport move -1 0 7250 true/pause 5000/globalFade/viewport 0 109 clamp true/viewport move 1 0 7250 true/pause 5000/globalFade/viewport 67 95 clamp true/faceDirection farmer 3 true/faceDirection Lance 3 true/pause 3500/speak Lance \"Have you learned about that ship yet, during your time on the island?$6#$b#They were sailing on a cloudy night, and the ship hit the reef and sank.$6#$b#Some of the sailors were washed away, but a few of them made it to shore and built new lives for themselves here.$6\"/pause 1250/globalFade/viewport 90 95 clamp true/pause 2000/speak Lance \"...$6#$b#Has Camilla spoken to you about visiting Castle Village yet?$6\"/pause 650/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 600/startJittering/pause 600/stopJittering/pause 500/speak Lance \"Strange... Magnus hasn't been quiet about your latent magical abilities.$6#$b#I wonder if she's waiting for something. Or it could be some kind of bizarre test...#6#$b#That's just the sort of thing she'd do.$5#$b#Here, let's go back down.$1\"/pause 850/showFrame Lance 13 true/pause 100/shake Lance 500/pause 150/showFrame Lance 16 true/pause 500/showFrame Lance 17 true/pause 500/showFrame Lance 18 true/pause 500/shake Lance 400/pause 400/screenFlash 2/playSound wand/showFrame Lance 4 true/warp Lance 80 87/positionOffset Lance -10 -12 true/pause 1500/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 82 87/viewport 81 88 clamp/faceDirection farmer 2 true/pause 1200/faceDirection farmer 3 true/pause 650/speak Lance \"Well, that Blink Relic was the only test I needed.$0#$b#You handled it as if you'd been working with magical objects for years.$1#$b#I'll take it back now, if you don't mind.$5\"/pause 750/speed farmer 1/move farmer -1 0 3/pause 500/showFrame farmer 7 true/pause 100/startJittering/pause 300/playSound dwop/pause 150/stopJittering/pause 100/showFrame farmer 6 true/pause 500/message \"The 'Blink Relic' was removed from my inventory.\"/pause 1000/speak Lance \"Whatever Camilla's up to, I'm sure that you and I will both learn about it soon.$0#$b#I'll be seeing more of you, @. Farewell, for now.$1\"/pause 750/faceDirection Lance 2 true/pause 650/showFrame Lance 20 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 38 true/pause 100/warp Lance -20 -20/pause 1000/globalFade/viewport -1000 -1000/pause 500/end dialogue Leo \"Hey. Who's that person with the red spiky hair? I've seen them in places on the island that are hard to climb.$0#$e#The birds say he's a good person!$1\""
+      "6951320/w sunny/f Lance 1000/t 600 1800": "continue/-500 -500/farmer 80 80 2 Lance -100 -100 2 Leo 94 69 2/skippable/makeInvisible 81 80 1 10/makeInvisible 78 88 1 4/viewport 80 83 clamp true/viewport move 0 1 5650 true/move farmer 0 7 2 true/pause 8000/showFrame Lance 39 true/warp Lance 83 87/pause 100/showFrame Lance 38 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 20 true/pause 1500/speak Lance \"เป็นวันที่งดงามจริงนะ ว่ามั้ยล่ะ?$0\"/pause 650/faceDirection farmer 1 true/pause 400/emote farmer 16 true/pause 800/faceDirection Lance 3 true/pause 750/speak Lance \"อ้า ขออภัยที่ทำให้ท่านตกใจ ข้าไม่ได้ตั้งใจจะทำแบบนั้น ข้าแค่อยากจะคุยกับท่าน จริงๆ นะ$2\"/pause 500/emote farmer 40 true/pause 1000/speak Lance \"ข้าน่ะ ลาดตระเวนที่เกาะขิง มานานแล้ว  ก่อนที่ท่านจะมาถึงที่นี่$6#$b#ข้าได้เห็นว่า ท่านสื่อสารกับพวกนก แลกเปลี่ยนลูกวอลนัท กับแรงงานของพวกมัน$0#$b#ต้องขอบคุณท่านจริงๆ พวกเขาทั้งซ่อมสะพาน ถึงกับสร้างรีสอร์ทริมทะเล แถมยังมีบาร์ครบครัน$5#$b#ข้าต้องบอกเลยว่า ข้าเองก็ได้พบปะ นักผจญภัยมาหลายคนนะ ตลอดเวลาที่ข้า เป็นสมาชิกกิลด์ แต่ไม่เห็นมีใคร ดูลึกลับแบบคุณเลย$0\"/pause 1000/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"ท่านเคยได้ยินเรื่อง วัตถุเวทย์รึเปล่า @?$0\"/pause 500/emote farmer 8 true/pause 1000/speak Lance \"หืม ไม่เคยหรอ นั่นน่าสนใจทีเดียว เมื่อพิจารณา กับทุกสิ่งที่ท่านได้ทำไป...$6\"/pause 500/emote Lance 40 true/pause 1000/speak Lance \"มีสิ่งประดิษฐ์โบราณมากมาย ที่ปกคลุมไปด้วยเวทมนตร์ รอการค้นพบอยู่ทั่วโลก ซึ่งหลายชิ้นมาจากกัลโดร่า$0#$b#และข้าก็เผอิญว่า มีไว้กับตัวนิดหน่อย....$5#$b#เอ้า ถือนี่ไว้$1\"/pause 500/speed Lance 1/move Lance -1 0 3/pause 500/showFrame Lance 15 true/shake Lance 500/pause 100/playSound dwop/pause 500/showFrame Lance 12 true/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 1650/faceDirection Lance 2 true/pause 500/speak Lance \"ใช้สิ่งนั้น เพื่อตามข้าไปที่หน้าผา แค่ตั้งจิตไปที่สถานที่ ที่ท่านอยากจะไป แล้วกำวัตถุเวทย์ให้แน่น$0\"/pause 600/faceDirection Lance 3 true/pause 750/shake Lance 600/pause 150/showFrame Lance 13 true/pause 300/showFrame Lance 16 true/pause 500/speak Lance \"วัตถุเวทย์พวกนี้มีหลากหลาย ทั้งรูปแบบ และขนาด$1#$b#ยกตัวอย่างเช่น มีดที่ข้ามีอันนี้ ให้ผลเช่นเดียวกับ อันที่ท่านถือ$5\"/pause 750/showFrame Lance 17 true/showFrame Lance 18 true/pause 750/shake Lance 500/pause 500/screenFlash 2/playSound wand/warp Lance 89 94/showFrame Lance 0 true/positionOffset Lance 20 25 true/pause 1600/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 88 94/viewport 90 95 clamp/faceDirection farmer 2 true/positionOffset farmer 0 15 true/pause 1500/faceDirection Lance 3 true/pause 750/faceDirection farmer 1 true/pause 500/speak Lance \"โอ้ ท่านนี่ เรียนรู้เวทย์ใหม่ได้เร็วมาก อ้อ อย่างนี้นี่เอง คงจะเป็นเพราะ ประสบการณ์มากมาย ที่ท่านมี$1\"/pause 1250/faceDirection Lance 2 true/pause 1000/faceDirection farmer 2 true/pause 1000/speak Lance \"อาา... วิวที่อยู่ตรงหน้านี่$5\"/pause 500/globalFade/viewport 109 109 clamp true/viewport move -1 0 7250 true/pause 5000/globalFade/viewport 0 109 clamp true/viewport move 1 0 7250 true/pause 5000/globalFade/viewport 67 95 clamp true/faceDirection farmer 3 true/faceDirection Lance 3 true/pause 3500/speak Lance \"ท่านได้รู้เรื่องเกี่ยวกับ เรือลำนั้นแล้วรึยังล่ะ ในช่วงที่ท่านใช้เวลา อยู่บนเกาะนี้น่ะ?$6#$b#พวกเขาล่องเรือ ในค่ำคืนที่เต็มไปด้วยเมฆ และเรือก็ชน เข้ากับแนวปะการัง แล้วก็จมลง$6#$b#ลูกเรือบางคน ถูกน้ำทะเลพัดหายไป บางคนรอดมาถึงชายฝั่งได้  แล้วก็ตั้งรกรากอยู่ที่นี่$6\"/pause 1250/globalFade/viewport 90 95 clamp true/pause 2000/speak Lance \"...$6#$b#คามิลล่าได้ชวนคุณ ไปที่แคสเซิลวิลเลจ รึยังล่ะ?$6\"/pause 650/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 600/startJittering/pause 600/stopJittering/pause 500/speak Lance \"น่าแปลกแฮะ... แมกนัสไม่เคยปิดเรื่อง ความโดดเด่นด้านเวทมนตร์ ของท่านนี่นา$6#$b#ข้าว่า เธอคงจะรออะไร สักอย่างแหละ หรืออาจจะเป็น บททดสอบแปลกๆ...#6#$b#นั่นเป็นอะไรที่เธอ มักจะทำน่ะนะ$5#$b#นี่ กลับลงไปข้างล่างกัน$1\"/pause 850/showFrame Lance 13 true/pause 100/shake Lance 500/pause 150/showFrame Lance 16 true/pause 500/showFrame Lance 17 true/pause 500/showFrame Lance 18 true/pause 500/shake Lance 400/pause 400/screenFlash 2/playSound wand/showFrame Lance 4 true/warp Lance 80 87/positionOffset Lance -10 -12 true/pause 1500/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 82 87/viewport 81 88 clamp/faceDirection farmer 2 true/pause 1200/faceDirection farmer 3 true/pause 650/speak Lance \"เอาล่ะ เรื่อง วัตถุเคลื่อนย้ายในพริบตานั่น เป็นแค่สิ่งที่ข้าอยากจะทดสอบ$0#$b#ท่านใช้มันง่ายดาย อย่างกับเคยใช้ วัตถุเวทย์มาเป็นปีๆ $1#$b#งั้นข้าขอมันคืนนะ ถ้าท่านไม่ว่าอะไร$5\"/pause 750/speed farmer 1/move farmer -1 0 3/pause 500/showFrame farmer 7 true/pause 100/startJittering/pause 300/playSound dwop/pause 150/stopJittering/pause 100/showFrame farmer 6 true/pause 500/message \"วัตถุเคลื่อนย้ายในพริบตา 'Blink Relic' ถูกนำออกจากกระเป๋าของคุณ\"/pause 1000/speak Lance \"ไม่ว่าคามิลล่า จะทำอะไรอยู่ก็ตาม ข้าว่า เดี๋ยวเราทั้งคู่ ก็คงจะได้รู้ในอีกไม่ช้า$0#$b#แล้วเจอกันใหม่นะ @ ขอให้โชคดี$1\"/pause 750/faceDirection Lance 2 true/pause 650/showFrame Lance 20 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 38 true/pause 100/warp Lance -20 -20/pause 1000/globalFade/viewport -1000 -1000/pause 500/end dialogue Leo \"นี่ คนผมชี้ๆ สีแดงนั้นเป็นใครอ่าครับ? ผมเห็นเขาอยู่ที่เกาะ ในจุดที่ปีนเขาไปยากมาก$0#$e#พวกนกบอกว่า เขาเป็นคนดี!$1\""
 	  },
     },
 
@@ -26906,7 +26906,7 @@
 	  "Target": "data/events/islandwest",
 	  "When": { "HasFlag |contains=Island_UpgradeHouse": true, "HasFlag |contains=Island_Resort": true, "HasFlag |contains=Island_UpgradeBridge": true, "HasSeenEvent |contains=908078": false, "HasSeenEvent |contains=6951319": true },
 	  "Entries": {
-      "6951320/w sunny/f Lance 1000/t 600 1800": "continue/-500 -500/farmer 80 80 2 Lance -100 -100 2 Leo 94 69 2/skippable/makeInvisible 81 80 1 10/makeInvisible 78 88 1 4/viewport 80 83 clamp true/viewport move 0 1 5650 true/move farmer 0 7 2 true/pause 8000/showFrame Lance 39 true/warp Lance 83 87/pause 100/showFrame Lance 38 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 20 true/pause 1500/speak Lance \"Beautiful day, isn't it?$0\"/pause 650/faceDirection farmer 1 true/pause 400/emote farmer 16 true/pause 800/faceDirection Lance 3 true/pause 750/speak Lance \"Ah. Apologies for startling you. That wasn't my intention. I was actually hoping to speak with you.$2\"/pause 500/emote farmer 40 true/pause 1000/speak Lance \"I've been patrolling Ginger Island for a long time, since well before you arrived.$6#$b#I've witnessed you communicating with birds, exchanging walnuts for many labor-intensive deeds.$0#$b#Thanks to you, they've repaired the bridge, and even summoned a beach resort, complete with a full bar.$5#$b#I have to say, I've encountered many adventurers during my time in the guild, but none as mysterious such as yourself.$0\"/pause 1000/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"Are you familiar with magic relics, @?$0\"/pause 500/emote farmer 8 true/pause 1000/speak Lance \"Hmm. You aren't. That is most interesting, considering everything else you do...$6\"/pause 500/emote Lance 40 true/pause 1000/speak Lance \"There are many ancient artifacts imbued with magic waiting to be found around the world, many of which come from Galdora.$0#$b#And I just so happen to have a few on me....$5#$b#Here. Hold this.$1\"/pause 500/speed Lance 1/move Lance -1 0 3/pause 500/showFrame Lance 15 true/shake Lance 500/pause 100/playSound dwop/pause 500/showFrame Lance 12 true/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 1650/faceDirection Lance 2 true/pause 500/speak Lance \"Use that to follow me up that cliff. Just focus on where you want to go, and grip the relic tightly.$0\"/pause 600/faceDirection Lance 3 true/pause 750/shake Lance 600/pause 150/showFrame Lance 13 true/pause 300/showFrame Lance 16 true/pause 500/speak Lance \"These relics come in all sorts of shapes and sizes.$1#$b#For example. This blade I have achieves the same goal that staff does.$5\"/pause 750/showFrame Lance 17 true/showFrame Lance 18 true/pause 750/shake Lance 500/pause 500/screenFlash 2/playSound wand/warp Lance 89 94/showFrame Lance 0 true/positionOffset Lance 20 25 true/pause 1600/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 88 94/viewport 90 95 clamp/faceDirection farmer 2 true/positionOffset farmer 0 15 true/pause 1500/faceDirection Lance 3 true/pause 750/faceDirection farmer 1 true/pause 500/speak Lance \"Ah. You catch onto new magic quickly, I see. Not too surprising, given your breadth of experience.$1\"/pause 1250/faceDirection Lance 2 true/pause 1000/faceDirection farmer 2 true/pause 1000/speak Lance \"Ah... now this is a view.$5\"/pause 500/globalFade/viewport 109 109 clamp true/viewport move -1 0 7250 true/pause 5000/globalFade/viewport 0 109 clamp true/viewport move 1 0 7250 true/pause 5000/globalFade/viewport 67 95 clamp true/faceDirection farmer 3 true/faceDirection Lance 3 true/pause 3500/speak Lance \"Have you learned about that ship yet, during your time on the island?$6#$b#They were sailing on a cloudy night, and the ship hit the reef and sank.$6#$b#Some of the sailors were washed away, but a few of them made it to shore and built new lives for themselves here.$6\"/pause 1250/globalFade/viewport 90 95 clamp true/pause 2250/faceDirection Lance 3 true/pause 500/faceDirection farmer 2 true/pause 600/speak Lance \"Here, let's go back down.$1\"/pause 850/showFrame Lance 13 true/pause 100/shake Lance 500/pause 150/showFrame Lance 16 true/pause 500/showFrame Lance 17 true/pause 500/showFrame Lance 18 true/pause 500/shake Lance 400/pause 400/screenFlash 2/playSound wand/showFrame Lance 4 true/warp Lance 80 87/positionOffset Lance -10 -12 true/pause 1500/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 82 87/viewport 81 88 clamp/faceDirection farmer 2 true/pause 1200/faceDirection farmer 3 true/pause 650/speak Lance \"Well, that Blink Relic was the only test I needed.$0#$b#You handled it as if you'd been working with magical objects for years.$1#$b#I'll take it back now, if you don't mind.$5\"/pause 750/speed farmer 1/move farmer -1 0 3/pause 500/showFrame farmer 7 true/pause 100/startJittering/pause 300/playSound dwop/pause 150/stopJittering/pause 100/showFrame farmer 6 true/pause 500/message \"The 'Blink Relic' was removed from my inventory.\"/pause 1000/speak Lance \"Whatever Camilla's up to, I'm sure that you and I will both learn about it soon.$0#$b#I'll be seeing more of you, @. Farewell, for now.$1\"/pause 750/faceDirection Lance 2 true/pause 650/showFrame Lance 20 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 38 true/pause 100/warp Lance -20 -20/pause 1000/globalFade/viewport -1000 -1000/pause 500/end dialogue Leo \"Hey. Who's that person with the red spiky hair? I've seen them in places on the island that are hard to climb.$0#$e#The birds say he's a good person!$1\""
+      "6951320/w sunny/f Lance 1000/t 600 1800": "continue/-500 -500/farmer 80 80 2 Lance -100 -100 2 Leo 94 69 2/skippable/makeInvisible 81 80 1 10/makeInvisible 78 88 1 4/viewport 80 83 clamp true/viewport move 0 1 5650 true/move farmer 0 7 2 true/pause 8000/showFrame Lance 39 true/warp Lance 83 87/pause 100/showFrame Lance 38 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 20 true/pause 1500/speak Lance \"เป็นวันที่งดงามจริงนะ ว่ามั้ยล่ะ?$0\"/pause 650/faceDirection farmer 1 true/pause 400/emote farmer 16 true/pause 800/faceDirection Lance 3 true/pause 750/speak Lance \"อ้า ขออภัยที่ทำให้ท่านตกใจ ข้าไม่ได้ตั้งใจจะทำแบบนั้น ข้าแค่อยากจะคุยกับท่าน จริงๆ นะ$2\"/pause 500/emote farmer 40 true/pause 1000/speak Lance \"ข้าน่ะ ลาดตระเวนที่เกาะขิง มานานแล้ว  ก่อนที่ท่านจะมาถึงที่นี่$6#$b#ข้าได้เห็นว่า ท่านสื่อสารกับพวกนก แลกเปลี่ยนลูกวอลนัท กับแรงงานของพวกมัน$0#$b#ต้องขอบคุณท่านจริงๆ พวกเขาทั้งซ่อมสะพาน ถึงกับสร้างรีสอร์ทริมทะเล แถมยังมีบาร์ครบครัน$5#$b#ข้าต้องบอกเลยว่า ข้าเองก็ได้พบปะ นักผจญภัยมาหลายคนนะ ตลอดเวลาที่ข้า เป็นสมาชิกกิลด์ แต่ไม่เห็นมีใคร ดูลึกลับแบบคุณเลย$0\"/pause 1000/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"ท่านเคยได้ยินเรื่อง วัตถุเวทย์รึเปล่า @?$0\"/pause 500/emote farmer 8 true/pause 1000/speak Lance \"หืม ไม่เคยหรอ นั่นน่าสนใจทีเดียว เมื่อพิจารณา กับทุกสิ่งที่ท่านได้ทำไป...$6\"/pause 500/emote Lance 40 true/pause 1000/speak Lance \"มีสิ่งประดิษฐ์โบราณมากมาย ที่ปกคลุมไปด้วยเวทมนตร์ รอการค้นพบอยู่ทั่วโลก ซึ่งหลายชิ้นมาจากกัลโดร่า$0#$b#และข้าก็เผอิญว่า มีไว้กับตัวนิดหน่อย....$5#$b#เอ้า ถือนี่ไว้$$1\"/pause 500/speed Lance 1/move Lance -1 0 3/pause 500/showFrame Lance 15 true/shake Lance 500/pause 100/playSound dwop/pause 500/showFrame Lance 12 true/pause 500/faceDirection farmer 2 true/pause 500/showFrame farmer 57 true/itemAboveHead joja/pause 3300/faceDirection farmer 2 true/pause 700/faceDirection farmer 1 true/pause 1650/faceDirection Lance 2 true/pause 500/speak Lance \"ใช้สิ่งนั้น เพื่อตามข้าไปที่หน้าผา แค่ตั้งจิตไปที่สถานที่ ที่ท่านอยากจะไป แล้วกำวัตถุเวทย์ให้แน่น$0\"/pause 600/faceDirection Lance 3 true/pause 750/shake Lance 600/pause 150/showFrame Lance 13 true/pause 300/showFrame Lance 16 true/pause 500/speak Lance \"วัตถุเวทย์พวกนี้มีหลากหลาย ทั้งรูปแบบ และขนาด$1#$b#ยกตัวอย่างเช่น มีดที่ข้ามีอันนี้ ให้ผลเช่นเดียวกับ อันที่ท่านถือ$5\"/pause 750/showFrame Lance 17 true/showFrame Lance 18 true/pause 750/shake Lance 500/pause 500/screenFlash 2/playSound wand/warp Lance 89 94/showFrame Lance 0 true/positionOffset Lance 20 25 true/pause 1600/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 88 94/viewport 90 95 clamp/faceDirection farmer 2 true/positionOffset farmer 0 15 true/pause 1500/faceDirection Lance 3 true/pause 750/faceDirection farmer 1 true/pause 500/speak Lance \"โอ้ ท่านนี่ เรียนรู้เวทย์ใหม่ได้เร็วมาก อ้อ อย่างนี้นี่เอง คงจะเป็นเพราะ ประสบการณ์มากมาย ที่ท่านมี$1\"/pause 1250/faceDirection Lance 2 true/pause 1000/faceDirection farmer 2 true/pause 1000/speak Lance \"อาา... วิวที่อยู่ตรงหน้านี่$5\"/pause 500/globalFade/viewport 109 109 clamp true/viewport move -1 0 7250 true/pause 5000/globalFade/viewport 0 109 clamp true/viewport move 1 0 7250 true/pause 5000/globalFade/viewport 67 95 clamp true/faceDirection farmer 3 true/faceDirection Lance 3 true/pause 3500/speak Lance \"ท่านได้รู้เรื่องเกี่ยวกับ เรือลำนั้นแล้วรึยังล่ะ ในช่วงที่ท่านใช้เวลา อยู่บนเกาะนี้น่ะ?$6#$b#พวกเขาล่องเรือ ในค่ำคืนที่เต็มไปด้วยเมฆ และเรือก็ชน เข้ากับแนวปะการัง แล้วก็จมลง$6#$b#ลูกเรือบางคน ถูกน้ำทะเลพัดหายไป บางคนรอดมาถึงชายฝั่งได้  แล้วก็ตั้งรกรากอยู่ที่นี่$6\"/pause 1250/globalFade/viewport 90 95 clamp true/pause 2250/faceDirection Lance 3 true/pause 500/faceDirection farmer 2 true/pause 600/speak Lance \"นี่ กลับลงไปข้างล่างกัน$1\"/pause 850/showFrame Lance 13 true/pause 100/shake Lance 500/pause 150/showFrame Lance 16 true/pause 500/showFrame Lance 17 true/pause 500/showFrame Lance 18 true/pause 500/shake Lance 400/pause 400/screenFlash 2/playSound wand/showFrame Lance 4 true/warp Lance 80 87/positionOffset Lance -10 -12 true/pause 1500/faceDirection farmer 2 true/pause 1500/showFrame farmer 3 true/pause 500/startJittering/pause 500/screenFlash 2/playSound wand/stopJittering/warp farmer 82 87/viewport 81 88 clamp/faceDirection farmer 2 true/pause 1200/faceDirection farmer 3 true/pause 650/speak Lance \"เอาล่ะ เรื่อง วัตถุเคลื่อนย้ายในพริบตานั่น เป็นแค่สิ่งที่ข้าอยากจะทดสอบ$0#$b#ท่านใช้มันง่ายดาย อย่างกับเคยใช้ วัตถุเวทย์มาเป็นปีๆ $1#$b#งั้นข้าขอมันคืนนะ ถ้าท่านไม่ว่าอะไร$5\"/pause 750/speed farmer 1/move farmer -1 0 3/pause 500/showFrame farmer 7 true/pause 100/startJittering/pause 300/playSound dwop/pause 150/stopJittering/pause 100/showFrame farmer 6 true/pause 500/message \"วัตถุเคลื่อนย้ายในพริบตา 'Blink Relic' ถูกนำออกจากกระเป๋าของคุณ\"/pause 1000/speak Lance \"ไม่ว่าคามิลล่า จะทำอะไรอยู่ก็ตาม ข้าว่า เดี๋ยวเราทั้งคู่ ก็คงจะได้รู้ในอีกไม่ช้า$0#$b#แล้วเจอกันใหม่นะ @ ขอให้โชคดี$1\"/pause 750/faceDirection Lance 2 true/pause 650/showFrame Lance 20 true/pause 100/showFrame Lance 21 true/pause 100/showFrame Lance 22 true/pause 100/showFrame Lance 23 true/pause 100/showFrame Lance 24 true/pause 100/showFrame Lance 25 true/pause 100/showFrame Lance 26 true/pause 100/showFrame Lance 27 true/pause 100/showFrame Lance 40 true/pause 100/showFrame Lance 29 true/pause 100/showFrame Lance 30 true/pause 100/showFrame Lance 31 true/pause 100/showFrame Lance 32 true/pause 100/showFrame Lance 33 true/pause 100/showFrame Lance 34 true/pause 100/showFrame Lance 35 true/pause 100/showFrame Lance 36 true/pause 100/showFrame Lance 37 true/pause 100/showFrame Lance 38 true/pause 100/warp Lance -20 -20/pause 1000/globalFade/viewport -1000 -1000/pause 500/end dialogue Leo \"นี่ คนผมชี้ๆ สีแดงนั้นเป็นใครอ่าครับ? ผมเห็นเขาอยู่ที่เกาะ ในจุดที่ปีนเขาไปยากมาก$0#$e#พวกนกบอกว่า เขาเป็นคนดี!$1\""
 	  },
     },
 
@@ -38642,9 +38642,10 @@
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/penny",
 	 "Entries": {
-     "penny_event1": "Oh, thank you. I really enjoy it. You know what they say. Find a career you're passionate about and you won't work a day in your life.",
-	 "penny_event2": "You think so? Vincent has some difficulty with math, particularly division. So I figured if I integrate something he likes he'll have more fun learning.",
-	 "penny_event3": "Every child has their own unique way of learning things. Planning engaging lessons requires creativity, but that's one of the reasons why I enjoy teaching.",
+     "penny_event1": "โอ้ ขอบคุณนะ ฉันสนุกกับมันจริงๆ คุณรู้มั้ยว่าพวกเขามักพูดกันว่า จงหาอาชีพที่คุณหลงใหล และในชีวิตนั้น คุณจะไม่ต้องทำงานไปวันๆ อีกต่อไป",
+	 "penny_event2": "คุณคิดอย่างนั้นหรอ วินเซนต์มีปัญหา กับคณิตศาสตร์ตลอด โดยเฉพาะการหารเลข ดังนั้นฉันก็เลยฉุกคิดขึ้นมาว่า ถ้าลองเอาสิ่งที่เขาชอบ มาบูรณาการด้วยดู น่าจะทำให้ สนุกกับการเรียนมากขึ้น",
+	 "penny_event3": "เด็กๆ ที่คน มีวิธีการเรียนรู้สิ่งต่างๆ ด้วยตัวเองที่ต่างกันออกไป การวางแผนบทเรียน ที่ให้เด็กมีส่วนร่วม ต้องใช้ความคิดสร้าง
+สรรค์อย่างมาก ซึ่งนั่นก็เป็นเหตุผลหนึ่ง ที่ทำให้ฉันสนุกกับการสอน",
        }
     },
 
@@ -38814,10 +38815,10 @@
 		"kent_event5": "ประเทศของเราทำ เรื่องโหดร้ายไปมากมาย นับไม่ถ้วน! พวกเราสังหารไปเป็นพันๆ !$3",
 		"kent_event6": "หมวดของฉันถูกทำลาย จนย่อยยับจากการซุ่มโจมตี! ฉันมันเป็นไอ้ขี้ขลาด!!!$3",
 		"kent_event7": "หมวดของฉันถูกทำลาย จนย่อยยับจากการซุ่มโจมตี! ฉันมันเป็นไอ้ขี้ขลาด!!!$3",
-		"kent_event8": "Guild business? I've spoken to Marlon a few times. Not enough to pin anything down though. He's a man of few words.$0",
-		"kent_event9": "Hmm. The mines. That place is dangerous.$0",
-		"kent_event10": "It is a beautiful day to enjoy.$1",
-		"kent_event11": "All right, then. Keep your secrets.$1",
+		"kent_event8": "ธุระของกิลด์? ผมเคยคุยกับมาร์ลอนอยู่ 2-3 ครั้ง แต่ก็ยังเข้าประเด็นไม่ได้ เขาเป็นคนไม่ค่อยพูด$0",
+		"kent_event9": "หืม เหมืองงั้นหรอ เป็นสถานที่อันตรายนะ$0",
+		"kent_event10": "เป็นวันที่แสนงดงาม ให้ได้เพลิดเพลิน$1",
+		"kent_event11": "เอาล่ะ งั้น เก็บความลับของคุณไว้เถอะ$1",
 		}
 	},
 
@@ -39925,7 +39926,7 @@
 		 "AndyHouseClean.21": "เตาผิงได้รับการดูแลอย่างดี",
 		 "AndyHouseClean.22": "มันคือถังขยะ ไม่มีอะไรอยู่ในนี้",
 		 "AndyHouseClean.23": "แอนดี้ทานข้าวไปแล้ว กลิ่นน่าอร่อยเชียวล่ะ",
-		 "AndyHouseClean.24": "ต้นไม้ได้เติบโตใหญ่ขึ้นแล้ว หลังจากเวลาที่ผ่านมา การที่ได้รู้ว่ามันจะ เติบโตต่อไปเรื่อยๆ ทำให้ใจคุณ เต็มไปด้วยความสุข",
+		 "AndyHouseClean.24": "ต้นไม้ได้เติบโตใหญ่ขึ้นแล้ว หลังจากเวลาที่ผ่านมา การที่ได้รู้ว่ามันจะเติบโตต่อไปเรื่อยๆ ทำให้ใจคุณเต็มไปด้วยความสุข",
 		 "AndyHouseClean.25": "ตู้เย็นเต็มไปด้วยของป่าสดใหม่ และข้าวของจากร้านขายของทั่วไปของปิแอร์",
 		 "AndyHouseClean.26": "เตาของแอนดี้สะอาดเอี่ยม",
 		 "AndyHouseClean.27": "คุณแอบดูตู้เสื้อผ้าของแอนดี้:^^เขามีเสื้อคลุมชาวนาสีน้ำเงินตั้งสิบคู่",
