@@ -31452,7 +31452,7 @@
 	 "Entries": {
 	 "746153083/e 746153082/H": "Hospital_Ambient/-500 -500/farmer 18 20 1 MorrisTod 24 26 3 Martin 9 25 1 Sam 26 7 2 Shane_JojaMart 13 15 3 Andy 25 16 3 Pam 2 17 1 Jodi 9 8 0/animate Martin false true 1000 20 20 20 20 20 21 20 20 20 20 20 20 20 20 20 21 21/animate Sam false true 100 40 40 41 41 42 42 41 41/viewport 22 26 true/skippable/move farmer 3 0 2/move farmer 0 3 2/pause 800/playSound stoneStep/pause 400/playSound stoneStep/pause 400/playSound stoneStep/pause 600/speak MorrisTod \"อา ครับ? เชิญเข้ามาได้!$1\"/pause 1000/doAction 21 24/pause 1000/move farmer 0 3 1/move farmer 1 0 1/pause 800/emote farmer 40/pause 500/speak MorrisTod \"อา อย่างงี้นี่เอง คุณตัดสินใจที่จะ ซื้อไร่องุ่นออโรร่าสินะ$0#$b#*อะแฮ่ม* ราคาของมัน เอาเรื่องไม่ใช่เล่นนะ ... 5,000,000g ขาดตัว$0\"/pause 300/emote farmer 16/pause 150/speak MorrisTod \"ผมบอกได้เลยว่า ราคานี้น่ะ รวมค่าตกแต่งทั้งหมดแล้วด้วย$0#$b#ถ้าจะมีชาวไร่คนไหน ที่จะเอื้อมถึงราคานี้ได้ ก็มีแต่คุณนั่นแหละ!$1\"/pause 300/emote MorrisTod 40/pause 150/speak MorrisTod \"ออฟฟิสที่บ้านผม มีเอกสารอยู่แล้ว มันอยู่บน โต๊ะคอมพิวเตอร์ของผม $0#$b#ทำรายการซื้อโฉนด แล้วนำมันมาให้ผมเซ็นรับรอง$4\"/pause 500/end dialogueWarpOut MorrisTod \"ผมรู้สึกได้เลยล่ะ ว่านี้คงจะเป็นบทใหม่ ของชีวืตคุณ @$0\""
 	 },
-},ฅ
+},
 
 {    //Patches Morris aurora vineyard joja ledger shop in his home office
      "Action": "EditMap",
