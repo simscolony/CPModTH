@@ -3,19 +3,15 @@
     ** Generic Mod Config Menu UI
     *********/
 
-    // Billboard
-    "config.Billboard.name": "Billboard ภาษาไทย",
-    "config.Billboard.description": "เปิดใช้งาน Billboard ภาษาไทย",
+    // LooseSprites
+    "config.Billboard.name": "กระดานปิดประกาศ",
+    "config.Billboard.description": "กระดานปิดประกาศหน้าร้านปิแอร์ (แปลไทย)",
+    "config.JojaCDForm.name": "แบบฟอร์มการพัฒนาชุมชนโจจ้า",
+    "config.JojaCDForm.description": "แบบฟอร์มการพัฒนาชุมชนโจจ้า (แปลไทย)",
 
-    // JojaCDForm
-    "config.JojaCDForm.name": "JojaCDForm ภาษาไทย",
-    "config.JojaCDForm.description": "เปิดใช้งาน JojaCDForm ภาษาไทย",
-
-    // Intro
-    "config.Intro.name": "Intro ภาษาไทย",
-    "config.Intro.description": "เปิดใช้งาน Intro ภาษาไทย",
-
-    // TitleButtons
-    "config.TitleButtons.name": "TitleButtons ภาษาไทย",
-    "config.TitleButtons.description": "เปิดใช้งาน TitleButtons ภาษาไทย"
+    // Minigames
+    "config.Intro.name": "อีเว้นท์บทนำ",
+    "config.Intro.description": "ป้ายบอกระยะทางในอีเว้นท์บทนำ (แปลไทย)",
+    "config.TitleButtons.name": "หน้าเริ่มเกม",
+    "config.TitleButtons.description": "เมนูต่างๆ ในหน้าเริ่มเกม (แปลไทย)"
 }

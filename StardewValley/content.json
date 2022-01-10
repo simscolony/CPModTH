@@ -4,22 +4,22 @@
         "Billboard": {
             "AllowValues": "true, false",
             "Default": "true",
-            "Description": "เปิดใช้งาน Billboard ภาษาไทย"
+            "Description": "กระดานปิดประกาศหน้าร้านปิแอร์ (แปลไทย)"
         },
         "JojaCDForm": {
             "AllowValues": "true, false",
             "Default": "true",
-            "Description": "เปิดใช้งาน JojaCDForm ภาษาไทย"
+            "Description": "แบบฟอร์มการพัฒนาชุมชนโจจ้า (แปลไทย)"
         },
         "Intro": {
             "AllowValues": "true, false",
             "Default": "true",
-            "Description": "เปิดใช้งาน Intro ภาษาไทย"
+            "Description": "ป้ายบอกระยะทางในอีเว้นท์บทนำ (แปลไทย)"
         },
         "TitleButtons": {
             "AllowValues": "true, false",
             "Default": "true",
-            "Description": "เปิดใช้งาน TitleButtons ภาษาไทย"
+            "Description": "เมนูต่างๆ ในหน้าเริ่มเกม (แปลไทย)"
         }
     },
 
