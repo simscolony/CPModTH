@@ -31558,7 +31558,7 @@
 	 "Action": "EditData",
 	 "Target": "characters/dialogue/MorrisTod",
 	 "Entries": {
-     "AuroraVineyardPurchased": "คุณช่างรู้วิธี่การลงทุน ของตัวเองเป็นอย่างดีจริงๆ ครับ @$0#$b#เป็นวิธีใช้เงิน 5,000,000g ได้ดีที่สุดแล้ว! จำคำผมไว้ได้เลยMark my words
+     "AuroraVineyardPurchased": "คุณช่างรู้วิธี่การลงทุน ของตัวเองเป็นอย่างดีจริงๆ ครับ @$0#$b#เป็นวิธีใช้เงิน 5,000,000g ได้ดีที่สุดแล้ว! จำคำผมไว้ได้เลย!$1",
 },
 {
 	 "Action": "EditData",
