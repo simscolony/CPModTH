@@ -16,9 +16,9 @@
         }
     ],
     "content": {
-        "BirthMessage_Adoption": "กลางดึกคืนนั้นเอง องค์กรรับเลี้ยงบุตรบุญธรรมได้นำบุตร {0} คนใหม่ของคุณมาส่ง",
-        "BirthMessage_PlayerMother": "กลางดึกคืนนั้นเอง คุณได้ให้กำเนิดบุตร {0}",
-        "BirthMessage_SpouseMother": "กลางดึกคืนนั้นเอง {1} ได้ให้กำเนิดบุตร {0}",
+        "BirthMessage_Adoption": "กลางดึกคืนนั้นเอง องค์กรรับเลี้ยงบุตรบุญธรรมได้นำบุตร{0} คนใหม่ของคุณมาส่ง",
+        "BirthMessage_PlayerMother": "กลางดึกคืนนั้นเอง คุณได้ให้กำเนิดบุตร{0}",
+        "BirthMessage_SpouseMother": "กลางดึกคืนนั้นเอง {1} ได้ให้กำเนิดบุตร{0}",
         "BirthMessage_SpouseNaming_Male": "{0} ได้ตั้งชื่อลูกชายตัวน้อยของคุณ",
         "BirthMessage_SpouseNaming_Female": "{0} ได้ตั้งชื่อลูกสาวตัวน้อยของคุณ",
         "BabyNamingTitle_Male": "เราตั้งชื่อเขาว่าอะไรดี?",
