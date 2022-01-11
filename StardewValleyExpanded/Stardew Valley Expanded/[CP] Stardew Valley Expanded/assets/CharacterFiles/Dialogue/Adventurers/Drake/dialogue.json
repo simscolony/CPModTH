@@ -1,12 +1,12 @@
 ﻿{
 
-"Mon": "%Drake: Every adventurer in the First Slash is a wizard, so there's little point of having a dock.#$e#%Drake: What kind of magic can you do?",
-"Tue": "%Drake: We use coral around here for our mana potions.",
-"Wed": "%Drake: Got any platinum on you? I'm two ingots short of upgrading a tool.",
-"Thu": "%Drake: I'll trample anything that comes in my path.#$e#%Drake: I've already destroyed a couple rainbow shells. If you want any of this stuff on the beach you better act fast.",
-"Fri": "%Drake: Lance is a legend around here. He's Marley's second in command.#$e#%Drake: He's my role model. I dyed my hair just to match him!",
-"Sat": "%Drake: This place is a great fishing spot. Rare fish are attracted to the coral reefs.#$e#%Drake: There's this thing called a 'torpedo trout'. It's resistant to magic so I've never caught one...",
-"Sun": "%Drake: We still don't know much about the merpeople.#$e#I wonder what else is out there beneath the ocean. It harbors many secrets..."
+"Mon": "%เดรก: นักผจญภัยทุกคน ของกลุ่มพิฆาตคมแรก เป็นพ่อมดทั้งนั้นแหละ เพราะท่าเรือก็เลยไม่จำเป็นเท่าไหร่#$e#%เดรก: เจ้าใช้เวทมนตร์ประเภทไหนล่ะ?",
+"Tue": "%เดรก: เราใช้ปะการังที่อยู่แถวนี้ เพื่อทำน้ำยาเพิ่มมานา",
+"Wed": "%เดรก: เจ้ามีแพลตินัมบ้างมั้ย? ข้ามี 2 อันเอง ไม่พออัพเกรดเครื่องมืออ่ะ",
+"Thu": "%เดรก: ข้าจะเหยียบย่ำทุกอย่าง ที่อยู่ขวางทางข้า#$e#%เดรก: ข้าเหยียบเปลือกหอยสีรุ้ง แตกไป 2 อันแล้ว ถ้าเจ้าจะหาอะไร ที่อยู่บนชายหาดละก็ ต้องรีบหน่อยนะ",
+"Fri": "%เดรก: ที่นี่น่ะ แลนซ์คือตำนานเลยนะ เขาเป็นรองผู้บัญชาการของกิลด์#$e#%เดรก: เขาเป็นแบบอย่างของข้าเลยล่ะ ข้าย้อมผมให้เข้ากับเขาด้วย!",
+"Sat": "%เดรก: ที่นี้เป็นจุดตกปลาที่ดีมากนะ ปลากหายาก ถูกแนวปะการังดึงดูดมา#$e#%เดรก:  แต่มันมีไอ้เจ้าสิ่งที่เรียกว่า เทราต์ตอปิโด (torpedo trout) ด้วยน่ะสิ พวกมันต้านทานเวทมนตร์ ข้าก็เลยจับมันไม่ได้สักตัว...",
+"Sun": "%เดรก: เรายังไม่ค่อยรู้เกี่ยวกับ มนุษย์เงือกมากนัก#$e#ข้าสงสัยจังว่าจะมีอะไร อยู่ในมหาสมุทรอีกบ้าง มันยังมีความลับ เก็บซ่อนไว้อีกมากมาย..."
 
 //Guild
 //No poisonous monsters around here. We combat hordes of poisonous jellyfish called 'Zines' at the islands.
