@@ -56,7 +56,7 @@
 "Entries": {
             "Mon6": "สองดวงวิญญาน ไม่ได้พบกันโดยบังเอิญ...$4",
             "Tue6": "คลินท์ปรากฏตัว ในความฝันของฉัน ไม่นานมานี้$0#$b#บางที นี่อาจเป็นสัญญาณ...$4",
-            "Fri6": "ฉันกับคลินท์เป็นเพื่อนกัน แต่ฉันคิดว่า เราไม่ได้สนิทกัน อย่างที่โยบะอยากให้เป็น$2#$e#ฉันควรแวะไป ที่ร้านช่างตีเหล็ก เพื่อทักทายเขา$0",
+            "Fri6": "ฉันกับคลินท์เป็นเพื่อนกัน แต่ฉันคิดว่า เราไม่ได้สนิทกัน อย่างที่โยบะอยากให้เป็น$2#$e#ฉันควรแวะไป ที่ร้านตีเหล็ก เพื่อทักทายเขา$0",
             "Sun6": "ฉันรู้สึกว่า การเปลี่ยนแปลงครั้งใหญ่ ในชีวิต กำลังใกล้เข้ามา...$3"
 			}
 },
@@ -69,7 +69,7 @@
 		},
 "Entries": {
 			"Mon6": "ฉันไม่คิดว่า จะกล้าชวนเอมิลี่ ไปเดทอีกแล้วล่ะ...$2#$e#อย่างน้อย ฉันก็ยังเป็นเพื่อนเธอได้...$2",
-            "Thu6": "ถ้าคุณเจอเอมิลี่ คุณช่วยมอบบุษราคัม (Topaz) ให้เธอได้ไหม @?[68]$0#$b#แต่อย่าบอกเธอ ว่ามาจากฉันนะ!$0",
+            "Thu6": "ถ้าเจอเอมิลี่ ช่วยมอบบุษราคัม (Topaz) ให้เธอได้ไหม @?[68]$0#$b#แต่อย่าบอกเธอ ว่ามาจากฉันนะ!$0",
             "Fri6": "ฉันอยากจะไปที่ซาลูน บ่อยมากกว่านี้ ถ้าทำได้น่ะ$0#$b#กัสโชคดีมาก ที่ได้เจอเอมิลี่ทุกวัน$3",
             "Sun6": "เมื่อวันศุกร์ที่แล้ว ฉันไปซาลูนมา เหมือนเอมิลี่ จะหลบหน้าฉัน...$2#$b#สงสัยว่าเธอ อาจจะไม่ชอบไป งานแกรมเพิลตันคาร์นิวัล กับฉัน...$2"
 			}
@@ -127,7 +127,7 @@
             "Wed10": "เอมิลี่มาเยี่ยมฉันบ่อยๆ$1#$b#ฉันคิดว่า เธอคงกลัวฉันจะเหงาน่ะ$0",
             "Thu10": "สวัสดี @$0#$e#เธอควรมา และอัพเกรดเครื่องมือนะ$0#$b#ฉันกำลังพยายามเก็บเงิน เพื่อจะช่วยเอมิลี่ เปิดร้านขายเสื้อผ้าน่ะ$1",
             "Fri10": "ฉันไม่ค่อยสนิทกับคนส่วนใหญ่ ในเมืองนี้$0#$b#แต่ตอนเจอกับเอมิลี่ ฉันรู้ว่าเธอน่ะแตกต่าง$1",
-            "Sat10": "ฉันยังประหม่าอยู่เลย เวลาที่คุยกับเอมิลี่#$e#สิ่งที่ดีคือเธอบอกฉัน เธอพบว่ามันน่ารัก$4",
+            "Sat10": "ฉันยังประหม่าอยู่เลย เวลาที่คุยกับเอมิลี่#$e#สิ่งที่ดีคือเธอบอกฉัน ว่ามันน่ารัก$4",
             "Sun10": "เอมิลี่มีค่ามากสำหรับฉัน$1#$b#ฉันหวังว่า จะได้อยู่กับเธอตลอดเวลา เธอทำให้ฉันมีความสุขมาก$1",
             "spring_Wed10": "เอมิลี่ คือสิ่งสำคัญที่สุด สำหรับฉัน$1#$e#เธอคือคนที่มอบความหมาย ให้กับชีวิตของฉัน$4",
             "spring_Thu10": "ฉันขอให้เอมิลี่ ช่วยสอนวิธีการเต้น$0#$e#ฉันไม่ค่อยสนใจหรอกนะ แต่ฉันจะได้ใช้เวลา กับเธอมากขึ้น$4",
@@ -304,7 +304,7 @@
     "Save": "old"
 		},
 "Entries": {
-            "59020046/f Clint 1500/e 97/o Emily/t 900 1830/a 0 90": "jaunty/11 90/farmer 5 90 1 Clint 6 92 1 Emily 15 90 1 Caroline 16 90 3/move farmer 1 0 2/skippable/emote farmer 16/faceDirection Clint 0 true/emote Clint 16/speak Clint \"@!$4#$b#...คุณจับฉันได้$s\"/pause 500/move farmer 0 1 2/faceDirection Clint 1/emote Clint 28/pause 500/faceDirection farmer 1/pause 200/faceDirection farmer 2/pause 800/speak Clint \"ฉันตั้งใจจะชวนเอมิลี่ไปเดท ฉันอยู่ที่หน้าประตูของเธอ และทุกอย่าง... แต่ฉันได้ยินเธอกำลังมา แล้วฉันก็มาแอบในพุ่มไม้นี่$s#$b#ตอนนี้ฉันรอจนกว่า เธอจะคุยกับแคโรไลน์เสร็จ จะได้แอบกลับบ้านตัวเอง$s\"/pause 800/emote farmer 12/pause 800/pause 500/faceDirection Clint 0/speak Clint \"เมื่อกี้พูดว่าอะไรนะ? จะไม่อัปเกรดเครื่องมืออีก ถ้าฉันไม่ชวนเธอไปข้างนอก?$s\"/faceDirection Clint 1/pause 1500/speak Clint \"คุณนี่ตัวร้ายชัดๆ @#$b#*เฮ้อ* ...ก็ได้ ฉันจะทำ$s\"/pause 600/move farmer 1 0 1/move Clint 0 -2 1/speak Clint \"ฉันจะจำคำแนะนำนั้นไว้ @ มาให้ฉันในซาลูนนะ\"/move Clint 8 0 1/stopMusic/pause 500/speak Clint \"อืม... เอมิลี่?\"/pause 800/faceDirection Emily 3/pause 800/faceDirection Emily 1/speak Emily \"ขอโทษนะแคโรไลน์ ฉันขอตัวสักแปปได้ไหม?\"/pause 500/move Caroline 7 0 0/faceDirection Emily 3/pause 400/speak Emily \"ว่าไงคลินท์?\"/pause 500/faceDirection Clint 2/pause 400/faceDirection Clint 1/speak Clint \"คือฉันสงสัยว่า เธอจะไป กะ... กับ... ฉัน พรุ่งนี้... *อึก*$4\"/pause 200/faceDirection Clint 3/pause 300/emote Emily 8/pause 300/faceDirection Clint 1/pause 500/jump Clint/pause 800/speak Clint \"ฉันมีตั๋วสองใบ สำหรับแกรมเพิลตันคาร์นิวัล ในวันพรุ่งนี้ คือ... เธอจะไปกับฉันไหม? $4\"/jump Emily/pause 800/emote Emily 16/pause 400/playMusic musicboxsong/speak Emily \"แน่นอนคลินท์! ฟังดูน่าสนุกนะ! $h\"/pause 800/speak Clint \"จริงหรอ? ตกลง! ฉันจะไปรับเธอ ตอนห้าโมงนะ$h\"/speak Emily \"ได้เลย! เจอกันพรุ่งนี้!\"/move Emily 7 0 1/faceDirection Caroline 3/speed Clint 4/move Clint -7 0 2/faceDirection farmer 0/speak Clint \"คุณเห็นนั่นมั้ย?! คืนพรุ่งนี้ฉันมีเดทแล้ว!$h\"/pause 500/jump farmer/pause 1000/faceDirection Clint 1/pause 400/faceDirection Clint 2/speak Clint \"ให้ตายสิ... ฉันกังวลชะมัดเลย$s\"/end dialogue Clint \"ขอบคุณนะ ที่บังคับให้ฉันทำแบบนั้น ถึงฉันจะกลัว แต่ก็ดีใจมากเช่นกัน$h\""
+            "59020046/f Clint 1500/e 97/o Emily/t 900 1830/a 0 90": "jaunty/11 90/farmer 5 90 1 Clint 6 92 1 Emily 15 90 1 Caroline 16 90 3/move farmer 1 0 2/skippable/emote farmer 16/faceDirection Clint 0 true/emote Clint 16/speak Clint \"@!$4#$b#...เธอจับฉันได้$s\"/pause 500/move farmer 0 1 2/faceDirection Clint 1/emote Clint 28/pause 500/faceDirection farmer 1/pause 200/faceDirection farmer 2/pause 800/speak Clint \"ฉันตั้งใจจะชวนเอมิลี่ไปเดท ฉันอยู่ที่หน้าประตูของเธอ และทุกอย่าง... แต่ฉันได้ยินเธอกำลังมา แล้วฉันก็มาแอบในพุ่มไม้นี่$s#$b#ตอนนี้ฉันรอจนกว่า เธอจะคุยกับแคโรไลน์เสร็จ จะได้แอบกลับบ้านตัวเอง$s\"/pause 800/emote farmer 12/pause 800/pause 500/faceDirection Clint 0/speak Clint \"เมื่อกี้พูดว่าอะไรนะ? จะไม่อัปเกรดเครื่องมืออีก ถ้าฉันไม่ชวนเธอไปข้างนอก?$s\"/faceDirection Clint 1/pause 1500/speak Clint \"เธอนี่ตัวร้ายชัดๆ @#$b#*เฮ้อ* ...ก็ได้ ฉันจะทำ$s\"/pause 600/move farmer 1 0 1/move Clint 0 -2 1/speak Clint \"ฉันจะจำคำแนะนำที่ @ ให้ฉันในซาลูนนะ\"/move Clint 8 0 1/stopMusic/pause 500/speak Clint \" อืม... เอมิลี่?\"/pause 800/faceDirection Emily 3/pause 800/faceDirection Emily 1/speak Emily \"ขอโทษนะแคโรไลน์ ฉันขอตัวสักแปปได้ไหม?\"/pause 500/move Caroline 7 0 0/faceDirection Emily 3/pause 400/speak Emily \"ว่าไงคลินท์?\"/pause 500/faceDirection Clint 2/pause 400/faceDirection Clint 1/speak Clint \"คือฉันสงสัยว่า เธอจะไป กะ... กับ... ฉัน พรุ่งนี้... *อึก*$4\"/pause 200/faceDirection Clint 3/pause 300/emote Emily 8/pause 300/faceDirection Clint 1/pause 500/jump Clint/pause 800/speak Clint \"ฉันมีตั๋วสองใบ สำหรับแกรมเพิลตันคาร์นิวัล ในวันพรุ่งนี้ คือ... เธอจะไปกับฉันไหม? $4\"/jump Emily/pause 800/emote Emily 16/pause 400/playMusic musicboxsong/speak Emily \"แน่นอนคลินท์! ฟังดูน่าสนุกนะ! $h\"/pause 800/speak Clint \"จริงหรอ? ตกลง! ฉันจะไปรับเธอ ตอนห้าโมงนะ$h\"/speak Emily \"ได้เลย! เจอกันพรุ่งนี้!\"/move Emily 7 0 1/faceDirection Caroline 3/speed Clint 4/move Clint -7 0 2/faceDirection farmer 0/speak Clint \"เธอเห็นนั่นมั้ย?! คืนพรุ่งนี้ฉันมีเดทแล้ว!$h\"/pause 500/jump farmer/pause 1000/faceDirection Clint 1/pause 400/faceDirection Clint 2/speak Clint \"ให้ตายสิ... ฉันกังวลชะมัดเลย$s\"/end dialogue Clint \"ขอบคุณนะ ที่บังคับให้ฉันทำแบบนั้น ถึงฉันจะกลัว แต่ก็ดีใจมากเช่นกัน$h\""
             },
 },
      //Train station | 6 hearts
