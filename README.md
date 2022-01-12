@@ -61,7 +61,7 @@ UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)            
 [Transliteration](https://transliteration.orst.go.th)
 
 #### พูดคุยได้เกี่ยวกับการแปล
-[Discord ทีมพัฒนา Mod ภาษาไทย](https://discordapp.com/invite/TkP42Xm)
+[Discord ทีมพัฒนา Mod ภาษาไทย](https://discord.gg/7GaBeqm)
 
 ## รายชื่อผู้จัดทำ
 
