@@ -666,7 +666,7 @@
     "tree.stage.done": "โตเต็มที่",
     "tree.stage.partial": "{{stageName}} ({{step}}/{{max}})",
     "tree.next-growth.winter": "ไม่สามารถเติบโตได้ ในสภาพอากาศหนาว ภายนอกเรือนกระจก (Green House)",
-    "tree.next-growth.adjacent-trees": "ไม่สามารถเติบโตได้ เนื่องจากมีต้นไม้อยู่ใกล้ ๆ",
+    "tree.next-growth.adjacent-trees": "ไม่สามารถเติบโตได้ เนื่องจากมีต้นไม้อยู่ใกล้ๆ",
     "tree.next-growth.chance": "โอกาส {{chance}}% ที่จะโตเป็น{{stage}}ในวันพรุ่งนี้",
 
     // growth stages
