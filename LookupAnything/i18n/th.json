@@ -505,7 +505,7 @@
     "npc.hates-gifts": "ของขวัญที่เกลียด",
 
     // values
-    "npc.can-romance.married": "คุณแต่งงานกันแล้ว! <3", // < turns into a heart
+    "npc.can-romance.married": "คุณแต่งงานกันแล้ว! <", // < turns into a heart
     "npc.can-romance.housemate": "คุณอยู่บ้านด้วยกัน!",
     "npc.friendship.not-met": "คุณยังไม่เจอพวกเขา",
     "npc.friendship.need-bouquet": "ต้องให้ช่อดอกไม้เพื่อเลื่อนขั้น",
