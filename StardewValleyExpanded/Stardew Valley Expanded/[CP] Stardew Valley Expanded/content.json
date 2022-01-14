@@ -642,6 +642,14 @@
     "Name": "Custom_LanceSecretWarp",
     "FromMapFile": "assets/Maps/NewLocations/LanceSecretWarp.tbin",
   },
+  {
+    "Name": "Custom_Krobus_WarpRoom",
+    "FromMapFile": "assets/Maps/NewLocations/Krobus_WarpRoom.tbin",
+  },
+  {
+    "Name": "Custom_VoidDen",
+    "FromMapFile": "assets/Maps/NewLocations/VoidDen.tmx",
+  },
 ],
 
   "Changes": [
@@ -1107,7 +1115,6 @@
 
    //   ***Farm - Enchanted Grove***
 
-
 {   //Enchanted Grove - Farm Warp Light
     "Action": "EditMap",
     "Target": "Maps/Custom_EnchantedGrove",
@@ -1223,7 +1230,7 @@
 },
 {   //Grandpa's Farm - statue light
     "Action": "EditMap",
-    "Target": "Maps/farm",
+    "Target": "Maps/Farm",
     "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent": "908074" },
 	"Update": "OnLocationChange",
     "TextOperations": [
@@ -1251,10 +1258,72 @@
   ]
 },
 
+{  //Tiny Farm Compatibility - A quality parsnip
+   "Action": "EditData",
+   "Target": "data/events/Farmhouse",
+   "When": { "HasMod |contains=harvz.TinyFarm": true, "FarmType": "Standard" },
+   "Entries": {
+   "908074/e 908072/t 600 630": "continue/-500 -500/farmer -50 -50 0/skippable/pause 1000/changeLocation farm/warp farmer 48 9/faceDirection farmer 0 true/makeInvisible 48 7 1 3/viewport 48 9 clamp true/pause 2000/showFrame farmer 15/pause 100/startJittering/pause 250/addObject 48 7 24/playSound stoneStep/playSound stoneStep/pause 300/stopJittering/pause 230/showFrame farmer 12 true/pause 1500/playSound dwop/showFrame farmer 65 true/pause 1250/screenFlash 1/playSound wand/playSound wand/removeSprite 48 7/addLantern 1000 48 7 1/addTemporaryActor MagicWarp 48 48 47 8 2 false/positionOffset MagicaWarp 7 -6/pause 400/showFrame farmer 12 true/pause 350/playSound secret1/pause 2500/globalFade/viewport -1000 -1000/end"
+   }
+},
+{   //Tiny Farm Compatibility  - statue warp graphic
+    "Action": "EditMap",
+    "Target": "Maps/Farm",
+    "FromFile": "assets/Maps/MapPatches/EnchantedGrove_Farm.tbin",
+	"ToArea": { "X": 17, "Y": 8, "Width": 3, "Height": 3 }, 
+    "When": { "HasMod |contains=harvz.TinyFarm": true, "FarmType": "Standard", "HasSeenEvent": "908074" },
+	"Update": "OnLocationChange",
+	"PatchMode": "Overlay"
+},
+{   //Tiny Farm Compatibility  - Patches warp point on farm
+    "Action": "EditMap",
+    "Target": "Maps/Farm",
+	"When": { "HasMod |contains=harvz.TinyFarm": true, "FarmType": "Standard", "HasSeenEvent": "908074" },
+	"Update": "OnLocationChange",
+    "MapTiles": [
+      {
+        "Position": { "X": 18, "Y": 9 },
+        "Layer": "Back",
+        "SetProperties": {
+        "TouchAction": "MagicWarp Custom_EnchantedGrove 30 14"
+      }
+    }
+  ]
+},
+{   //Tiny Farm Compatibility  - statue light
+    "Action": "EditMap",
+    "Target": "Maps/Farm",
+    "When": { "HasMod |contains=harvz.TinyFarm": true, "FarmType": "Standard", "HasSeenEvent": "908074" },
+	"Update": "OnLocationChange",
+    "TextOperations": [
+     {
+      "Operation": "Append",
+      "Target": [ "MapProperties", "Light" ],
+      "Value": "18 9 4",
+      "Delimiter": " "
+     }
+   ]
+},
+{   //Tiny Farm Compatibility  - Patches warp point at enchanted grove
+    "Action": "EditMap",
+    "Target": "Maps/Custom_EnchantedGrove",
+	"When": { "HasMod |contains=harvz.TinyFarm": true, "FarmType": "Standard", "HasSeenEvent": "908074" },
+	"Update": "OnLocationChange",
+    "MapTiles": [
+      {
+        "Position": { "X": 30, "Y": 14 },
+        "Layer": "Back",
+        "SetProperties": {
+        "TouchAction": "MagicWarp Farm 18 9"
+      }
+    }
+  ]
+},
+
 {  //Standard Farm - A quality parsnip
    "Action": "EditData",
    "Target": "data/events/Farmhouse",
-   "When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm": false, "FarmType": "Standard" },
+   "When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm, harvz.TinyFarm": false, "FarmType": "Standard" },
    "Entries": {
    "908074/e 908072/t 600 630": "continue/-500 -500/farmer -50 -50 0/skippable/pause 1000/changeLocation farm/warp farmer 48 9/faceDirection farmer 0 true/makeInvisible 48 7 1 3/viewport 48 9 clamp true/pause 2000/showFrame farmer 15/pause 100/startJittering/pause 250/addObject 48 7 24/playSound stoneStep/playSound stoneStep/pause 300/stopJittering/pause 230/showFrame farmer 12 true/pause 1500/playSound dwop/showFrame farmer 65 true/pause 1250/screenFlash 1/playSound wand/playSound wand/removeSprite 48 7/addLantern 1000 48 7 1/addTemporaryActor MagicWarp 48 48 47 8 2 false/positionOffset MagicaWarp 7 -6/pause 400/showFrame farmer 12 true/pause 350/playSound secret1/pause 2500/globalFade/viewport -1000 -1000/end"
    }
@@ -1263,15 +1332,15 @@
     "Action": "EditMap",
     "Target": "Maps/Farm",
     "FromFile": "assets/Maps/MapPatches/EnchantedGrove_Farm.tbin",
-	"ToArea": { "X": 47, "Y": 6, "Width": 3, "Height": 3 },
-    "When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm": false, "FarmType": "Standard", "HasSeenEvent": "908074" },
+	"ToArea": { "X": 47, "Y": 6, "Width": 3, "Height": 3 }, 
+    "When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm, harvz.TinyFarm": false, "FarmType": "Standard", "HasSeenEvent": "908074" },
 	"Update": "OnLocationChange",
 	"PatchMode": "Overlay"
 },
 {   //Standard Farm  - Patches warp point on farm
     "Action": "EditMap",
     "Target": "Maps/Farm",
-	"When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm": false, "FarmType": "Standard", "HasSeenEvent": "908074" },
+	"When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm, harvz.TinyFarm": false, "FarmType": "Standard", "HasSeenEvent": "908074" },
 	"Update": "OnLocationChange",
     "MapTiles": [
       {
@@ -1286,7 +1355,7 @@
 {   //Standard Farm  - statue light
     "Action": "EditMap",
     "Target": "Maps/Farm",
-    "When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm": false, "FarmType": "Standard", "HasSeenEvent": "908074" },
+    "When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm, harvz.TinyFarm": false, "FarmType": "Standard", "HasSeenEvent": "908074" },
 	"Update": "OnLocationChange",
     "TextOperations": [
      {
@@ -1300,7 +1369,7 @@
 {   //Standard Farm  - Patches warp point at enchanted grove
     "Action": "EditMap",
     "Target": "Maps/Custom_EnchantedGrove",
-	"When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm": false, "FarmType": "Standard" },
+	"When": { "HasMod |contains=flashshifter.immersivefarm2remastered, flashshifter.GrandpasFarm, harvz.TinyFarm": false, "FarmType": "Standard" },
 	"Update": "OnLocationChange",
     "MapTiles": [
       {
@@ -1312,6 +1381,16 @@
     }
   ]
 },
+
+
+
+
+
+
+
+
+
+
 
 {  //Forest, Hilltop, Riverland, Wilderness Farm - A quality parsnip
    "Action": "EditData",
@@ -1804,7 +1883,7 @@
     "Target": "Maps/Custom_EnchantedGrove",
     "FromFile": "assets/Maps/MapPatches/EnchantedGrove_WarpLights.tbin",
 	"ToArea": { "X": 38, "Y": 39, "Width": 5, "Height": 5 },
-    "When": { "HasSeenEvent": "908077" },
+    "When": { "HasSeenEvent": "908091" },
 	"Update": "OnLocationChange"
 },
 
@@ -1894,7 +1973,7 @@
      }
    ]
 },
-{   //Junimo Woods - Nexus Warp
+{   //Junimo Woods - Nexus Warp <<remove cover
     "Action": "EditMap",
     "Target": "Maps/Custom_EnchantedGrove",
     "FromFile": "assets/Maps/MapPatches/EnchantedGrove_JunimoWoodsWarp.tbin",
@@ -2154,6 +2233,7 @@
 	"Custom_Cassandra_WarpRoom": { "Exclude": true },
 	"Custom_Emin_WarpRoom": { "Exclude": true },
 	"Custom_HighlandsDwarf_WarpRoom": { "Exclude": true },
+	"Custom_Krobus_WarpRoom": { "Exclude": true },
 
     //Fake tracking (prevents SMAPI console text reporting unknown locations)
 	"Custom_CrimsonBadlands": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
@@ -2195,7 +2275,8 @@
 	"Custom_FirstSlashHallway": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_FirstSlashGuestRoom": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
 	"Custom_LanceSecretWarp": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
-
+	"Custom_VoidDen": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ],},
+	
 
     //Map tracking Blue Moon Vineyard
 	"Custom_BlueMoonVineyard": {
@@ -2794,7 +2875,7 @@
 
 {    //Adds custom tilesheets and allows other modders to target SVE assets
      "Action": "Load",
-     "Target": "Maps/spring_z_extras,Maps/summer_z_extras,Maps/fall_z_extras,Maps/winter_z_extras,Maps/spring_MorrisModernHouse,Maps/summer_MorrisModernHouse,Maps/fall_MorrisModernHouse,Maps/winter_MorrisModernHouse,Maps/EmilyBedEvent,Maps/VanillaCraftables,Maps/VanillaCursors,Maps/VanillaFloors,Maps/VanillaFlooring,Maps/VanillaFurniture,Maps/VanillaSpringObjects,Maps/VanillaWallsAndFloors,Maps/z_SVEbuildingShadow,Maps/z_FireLight,Maps/AuroraVineyardPicture,Maps/StardustFarmPicture,Maps/z_SVE_Halloween2Shadow,Maps/z_RailwayTilesheet,Maps/z_CastleVillage,Maps/z_Leaves_Roofs,Maps/z_Leaves,Maps/z_mine,Maps/z_RedEyes,Maps/GuntherExpedition2_Shadows,Maps/JunimoWoods_Shadow,Maps/ForestWest_Shadow,Maps/MovieTheater_Blank,Maps/SpriteSpring_Effects,Maps/SpriteSpring_Shadows,Maps/z_WizardTowerLights,Maps/z_WizardBasementLights,Maps/z_CalderaLights,Maps/IridiumQuarry,Maps/IridiumQuarry_Shadow,Maps/zGrandpasFarm_UnderCanopyShadow,Maps/zGrandpasFarm_CanopyShadow,Maps/EnchantedGrove_CrimsonLight,Maps/EnchantedGrove_Shadows,Maps/EnchantedGrove_Colors,Maps/EnchantedGrove_WarpLights,Maps/CastleVillage_Tilesheet,Maps/Outpost_CrimsonLight,Maps/CrimsonBadlandsMap,Maps/Galdora_Interface,Maps/z_Island_S_CoralReefs,Maps/z_Island_W_CoralReefs,Maps/z_Island_SE_CoralReefs,Maps/AtlantisTilesheet,Maps/AtlantisTilesheet_MaskEffect,Maps/AtlantisTilesheetRuins,Maps/Sundrop_Kiosk,Maps/BathroomTilesheet,Maps/spring_z_waterfalls,Maps/summer_z_waterfalls,Maps/fall_z_waterfalls,Maps/winter_z_waterfalls,Maps/SpriteSpringCave_Effects,Maps/SandstormEffect,Maps/RemoveBenchChairTiles,Maps/Arcade_Couch,Maps/JojaPetStore,Maps/spring_ShearwaterBridgeRenovated,Maps/summer_ShearwaterBridgeRenovated,Maps/fall_ShearwaterBridgeRenovated,Maps/winter_ShearwaterBridgeRenovated,Maps/ShearwaterBridgeConeBarricade,Maps/Highlands_CanopyTreeShadows,Maps/spring_Highlands_Background_Day,Maps/spring_Highlands_Background_Night,Maps/summer_Highlands_Background_Day,Maps/summer_Highlands_Background_Night,Maps/fall_Highlands_Background_Day,Maps/fall_Highlands_Background_night,Maps/winter_Highlands_Background_Day,Maps/winter_Highlands_Background_night,Maps/HighlandsCavern_OreTilesheet,Maps/HighlandsCavern_ShadowTilesheet,Maps/HighlandsCavern_LightingTilesheet,Maps/FirstSlashGuildBuilding,Maps/JojaEmporiumWarpCircle,Maps/SakuraVineyardDiningRoomTilesheet,Maps/GrampletonTrainStationTilesheet,Maps/SakuraVineyardTilesheet,Maps/CherryBlossomPetals,Maps/ZCCC_Entrance_Tilesheet,Maps/ZCCC_FoodCourt_Tilesheet,Maps/ZCCC_Courtyard_NPCs,Maps/ZCCC_MainHall_Tilesheet,Maps/ZCCC_Stage_Tilesheet,Maps/ZCCC_VendorFloor_Tilesheet,Maps/ZuzuCityStreet_Tilesheet,Maps/ZuzuCity",
+     "Target": "Maps/spring_z_extras,Maps/summer_z_extras,Maps/fall_z_extras,Maps/winter_z_extras,Maps/spring_MorrisModernHouse,Maps/summer_MorrisModernHouse,Maps/fall_MorrisModernHouse,Maps/winter_MorrisModernHouse,Maps/EmilyBedEvent,Maps/VanillaCraftables,Maps/VanillaCursors,Maps/VanillaFloors,Maps/VanillaFlooring,Maps/VanillaFurniture,Maps/VanillaSpringObjects,Maps/VanillaWallsAndFloors,Maps/z_SVEbuildingShadow,Maps/z_FireLight,Maps/AuroraVineyardPicture,Maps/StardustFarmPicture,Maps/z_SVE_Halloween2Shadow,Maps/z_RailwayTilesheet,Maps/z_CastleVillage,Maps/z_Leaves_Roofs,Maps/z_Leaves,Maps/z_mine,Maps/z_RedEyes,Maps/GuntherExpedition2_Shadows,Maps/JunimoWoods_Shadow,Maps/ForestWest_Shadow,Maps/MovieTheater_Blank,Maps/SpriteSpring_Effects,Maps/SpriteSpring_Shadows,Maps/z_WizardTowerLights,Maps/z_WizardBasementLights,Maps/z_CalderaLights,Maps/IridiumQuarry,Maps/IridiumQuarry_Shadow,Maps/zGrandpasFarm_UnderCanopyShadow,Maps/zGrandpasFarm_CanopyShadow,Maps/EnchantedGrove_CrimsonLight,Maps/EnchantedGrove_Shadows,Maps/EnchantedGrove_Colors,Maps/EnchantedGrove_WarpLights,Maps/CastleVillage_Tilesheet,Maps/Outpost_CrimsonLight,Maps/CrimsonBadlandsMap,Maps/Galdora_Interface,Maps/z_Island_S_CoralReefs,Maps/z_Island_W_CoralReefs,Maps/z_Island_SE_CoralReefs,Maps/AtlantisTilesheet,Maps/AtlantisTilesheet_MaskEffect,Maps/AtlantisTilesheetRuins,Maps/Sundrop_Kiosk,Maps/BathroomTilesheet,Maps/spring_z_waterfalls,Maps/summer_z_waterfalls,Maps/fall_z_waterfalls,Maps/winter_z_waterfalls,Maps/SpriteSpringCave_Effects,Maps/SandstormEffect,Maps/RemoveBenchChairTiles,Maps/Arcade_Couch,Maps/JojaPetStore,Maps/spring_ShearwaterBridgeRenovated,Maps/summer_ShearwaterBridgeRenovated,Maps/fall_ShearwaterBridgeRenovated,Maps/winter_ShearwaterBridgeRenovated,Maps/ShearwaterBridgeConeBarricade,Maps/Highlands_CanopyTreeShadows,Maps/spring_Highlands_Background_Day,Maps/spring_Highlands_Background_Night,Maps/summer_Highlands_Background_Day,Maps/summer_Highlands_Background_Night,Maps/fall_Highlands_Background_Day,Maps/fall_Highlands_Background_night,Maps/winter_Highlands_Background_Day,Maps/winter_Highlands_Background_night,Maps/HighlandsCavern_OreTilesheet,Maps/HighlandsCavern_ShadowTilesheet,Maps/HighlandsCavern_LightingTilesheet,Maps/FirstSlashGuildBuilding,Maps/VoidDen_Tilesheet,Maps/JojaEmporiumWarpCircle,Maps/SakuraVineyardDiningRoomTilesheet,Maps/GrampletonTrainStationTilesheet,Maps/SakuraVineyardTilesheet,Maps/CherryBlossomPetals,Maps/ZCCC_Entrance_Tilesheet,Maps/ZCCC_FoodCourt_Tilesheet,Maps/ZCCC_Courtyard_NPCs,Maps/ZCCC_MainHall_Tilesheet,Maps/ZCCC_Stage_Tilesheet,Maps/ZCCC_VendorFloor_Tilesheet,Maps/ZuzuCityStreet_Tilesheet,Maps/ZuzuCity",
      "FromFile": "Assets/Tilesheets/{{TargetWithoutPath}}.png",
 },
 
@@ -4990,31 +5071,25 @@
 	"0": { 2:3, 3:8 },
 	"2": { 2:35, 3:50, 12:.08 },
 	"3": { 2:25, 3:35, 12:.05 },
-	"4": { 2:85, 3:110, 12:.10 },
-	"8": { 2:40, 3:66, 12:.10 },
-	"9": { 2:65, 3:100, 12:.10 },
+	"4": { 2:60, 3:80, 12:.10 }, //Galaxy Sword
+	"8": { 2:40, 3:55, 12:.08 },
+	"9": { 2:60, 3:70, 12:.08 }, //Lava Katana
 	"10": { 12:.10 },
 	"14": { 2:1, 3:65, 12:.5 },
-	"19": { 2:20, 3:40, 12:.40 },
+	"19": { 2:20, 3:40, 12:.18 },
 	"21": { 2:10, 3:25, 12:.25 }, //Crystal Dagger
-	"23": { 2:50, 3:85, 12:.40 },
+	"23": { 2:40, 3:45, 12:.30 }, //Galaxy Dagger
 	"26": { 2:23, 3:32, 7:7 },
 	"27": { 2:18, 3:27, 7:5 },
 	"28": { 2:55, 3:67, 7:9 },
-	"29": { 2:80, 3:95, 7:15 },
+	"29": { 2:70, 3:90, 7:15 }, //Galaxy Hammer
 	"34": { 1: "(หนังสติ๊กกาแล็กซี) แร่อิริเดียมที่ถูกยิงจากหนังสติ๊ก จะเกิดเป็นพลังงานจักรวาล" },
 	"49": { 2:1, 3:25, 12:.30, 13:4 },
 	"52": { 2:34, 3:50, 12:.08 },
-    "54": { 2:80, 3:95 },
-	"55": { 2:100, 3:135 },
-	"56": { 2:55, 3:124 },
-	"57": { 2:100, 3:123 },
-	"58": { 2:110, 3:150 },
-	"59": { 2:65, 3:100 },
 	"61": { 2:40, 3:70 },
-	"62": { 2:120, 3:260, 6:100, 7:0, 12:.20, 13:3 },  //INFINITY BLADE: Very high damage. Good all-around weapon
-	"63": { 2:100, 3:175, 4:3, 6:100, 7:10, 12:0, 13:3 }, //INFINITY HAMMER: High damage and knockback, medium defense. Low speed and no crit
-	"64": { 2:170, 3:245, 6:100, 7:5, 12:.35, 13:3 }  //INFINITY DAGGER: Very high damange, very high crit. Small range
+	"62": { 2:90, 3:140, 6:100, 7:0, 12:.20, 13:3 },  //INFINITY BLADE: High damage. Good all-around weapon
+	"63": { 2:100, 3:120, 4:3, 6:100, 7:10, 12:0, 13:3 }, //INFINITY HAMMER: High damage and knockback, medium defense. Low speed and no crit 
+	"64": { 2:60, 3:80, 6:100, 7:5, 12:.35, 13:3 }  //INFINITY DAGGER: Very high damange, very high crit. Small range
     }
 },
 
@@ -6448,7 +6523,6 @@
         "Data": {
           "MailReceived": "RailroadBoulderRemoved",
 		  "Host": "true",
-          "NoLetter": "false"
         }
       },
       {
@@ -6669,6 +6743,19 @@
 	 "Summit_17_20": "ธรรมชาติไม่กลัว ที่จะแสดงความงามทีแท้จรง ให้พวกเราเห็นเลยนะ วิวบนนี้นี่แหละ พอที่จะเป็นข้อพิสูจน์เลย$1",
 	  },
 },
+
+{    //Lewis summit
+	 "Action": "EditData",
+	 "Target": "characters/schedules/Lewis",
+	 "When": { "HasSeenEvent": "8050109" },
+	 "Entries": {
+	 "summer_18": "700 ManorHouse 7 5 0/920 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
+     "fall_4": "700 ManorHouse 7 5 0/920 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
+     "winter_11": "650 ManorHouse 8 5 0/910 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
+     "winter_25": "700 ManorHouse 7 5 0/920 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
+	  },
+},
+
 
 
 // *** START GRANDPAS SHED QUEST LINE CODE *** //
@@ -6958,7 +7045,6 @@
         "Data": {
           "MailReceived": "ApplesNowHappy",
 		  "Host": "true",
-          "NoLetter": "false"
         }
       },
       {
@@ -7101,9 +7187,9 @@
    "harveyBalloon": "@^ผมมีเซอร์ไพรส์ให้คุณครับ มาเจอผมที่ทุ่งแกรมเพิลตัน ข้ามสะพานเชียร์วอเทอร์มานะครับ!^   -ฮาร์วีย์[#]เซอร์ไพรส์จากฮาร์วีย์",
    "JojaSeeds": "เรียน ผู้มีอุปการะคุณ ^^ขอบคุณสำหรับการปรับปรุงคลังสินค้า จากนี้ไป ร้านโจจ้า จะขายเมล็ดพันธุ์ทุกชนิดตลอดทั้งปี! เราคือโจจ้า คู่คิดธุรกิจคุณ^^   -มอร์ริส",
    "MysteriousWizardLetter": "@^^ไปพบข้าในป่าที่อยู่ทางทิศตะวันตก ของหอคอยข้า วันนี้ เวลาบ่ายสองโมงตรง (2:00 PM) ข้ามีบางอย่างที่จะต้องหารือกับเจ้า มาคนเดียวล่ะ [letterbg 2]",
-   "ThiefOfJusticeMovie": "คุณได้รับเชิญให้เข้าร่วม รายการพิเศษก่อนการแสดง:^^THE Thief of Justice - วีรบุรุษจอมโจร^นำแสดงโดย แคลร์ ไวท์ลีย์^^รอบปฐมทัศน์ คืนนี้ ที่โรงภาพยนตร์เวลา 17.00 น.[letterbg Mods/FlashShifter.StardewValleyExpandedCP/LetterBackgrounds 0][textcolor white]",
-   "GuntherGaldoranGemReward": "ถึง @^^ขอบคุณความใจกว้างของคุณ ที่บริจาคของมาให้ ตอนนี้พิพิธภัณฑ์ มีของสะสม ครบถ้วนทุกชิ้นแล้ว และเพื่อเป็นการแสดงถึงความซาบซึ้งใจของผม ผมขอมอบสมบัติสุดพิเศษนี้ให้คุณ อัญมณีนี้ ถูกขุดพบและเจียรไน จากประเทศเวทมนตร์ที่อยู่ห่างไกล นามว่า กัลโดร่า ตอนนี้มันเป็นของคุณแล้วครับ^^  -กันเธอร์ %item object {{spacechase0.JsonAssets/ObjectId:Galdoran Gem}} 1 %%",
-   "LanceLifeElixirs": "ถึง @^^ในพัสดุนี้คือกล่องบรรจุน้ำยาอายุวัฒนะ 24 ขวด บริเวณเขตที่ราบสูงเป็นดินแดนมหาภัย ที่เต็มไปด้วยอันตรายรอบด้าน สิ่งนี้ของช่วยให้ท่านปลอดภัย^^ -แลนซ์ %item object 773 24 %%",
+   "ThiefOfJusticeMovie": "คุณได้รับเชิญให้เข้าร่วม รายการพิเศษก่อนการแสดง:^^THE THIEF OF JUSTICE - วีรบุรุษจอมโจร^นำแสดงโดย แคลร์ ไวท์ลีย์^^รอบปฐมทัศน์ คืนนี้ ที่โรงภาพยนตร์เวลา 17.00 น.[letterbg Mods/FlashShifter.StardewValleyExpandedCP/LetterBackgrounds 0][textcolor white]",
+   "GuntherGaldoranGemReward": "ถึง @^^ขอบคุณความใจกว้างของคุณ ที่บริจาคของมาให้ ตอนนี้พิพิธภัณฑ์ มีของสะสม ครบถ้วนทุกชิ้นแล้ว และเพื่อเป็นการแสดงถึงความซาบซึ้งใจของผม ผมขอมอบสมบัติสุดพิเศษนี้ให้คุณ อัญมณีนี้ ถูกขุดพบในประเทศเวทมนตร์ที่อยู่ห่างไกล นามว่า กัลโดร่า ตอนนี้มันเป็นของคุณแล้วครับ^^P.S. It might be worth your while to stick it in a crystalarium!^^  -กันเธอร์ %item object {{spacechase0.JsonAssets/ObjectId:Galdoran Gem}} 1 %%",
+   "LanceLifeElixirs": "ถึง @^^ในพัสดุนี้คือกล่องบรรจุน้ำยาอายุวัฒนะ 24 ขวด บริเวณเขตที่ราบสูงเป็นที่เต็มไปด้วยอันตรายรอบด้าน สิ่งนี้ของช่วยให้ท่านปลอดภัย^^ -แลนซ์ %item object 773 24 %%",
 	}
 },
 
@@ -17513,9 +17599,19 @@
 {
 	 "Action": "EditData",
 	 "Target": "data/events/seedshop",
-	 "When": { "Hearts:Sophia": "{{Range: 6, 14}}" },
+	 "When": { "Hearts:Sophia": "{{Range: 6, 10}}" },
 	 "Entries": {
 	 "5000009/f Andy 1000/t 900 1700": "none/-500 -500/farmer 13 26 1 Andy 6 29 0 Pierre 4 17 2 Susan 12 23 0 Sophia 4 19 0 Marnie 14 20 0 Caroline 21 20 0 Olivia 21 18 2 Abigail 9 5 0 George 37 18 0 Gus 2 20 3 Robin 9 27 1/positionOffset George 3 -15 true/advancedMove Gus true 3 9000 0 2 3 7000 0 3 2 8000 1 0 0 -2 4 6000 -1 0 0 -3 3 1000/advancedMove Robin false 1 7000 0 3 3 0 0 -2 3 9000 1 0 0 1 1 7000 0 1 3 0 0 -3 3 8000 0 -4 -1 0 4 6000 1 0 0 5 3 40000/pause 500/playMusic playful/pause 1000/viewport 9 23 true/skippable/move Andy 0 -6 0/pause 550/faceDirection Andy 1 true/pause 750/shake Andy 500/pause 150/speak Andy \"Hey there, Susan!$0\"/pause 800/faceDirection Susan 3 true/pause 400/speak Susan \"โอ้ แอนดี้! ฉันเห็นคุณไม่ค่อย เข้าร้านของปิแอร์เลยนี่$0\"/pause 250/move Marnie -3 0 0 true/pause 250/speak Andy \"โจจ้ามีของถูกๆ เยอะก็จริง แต่เข้าไม่มีเนื้อแห้ง ที่ผมชอบน่ะสิ$0#$b#พูดถึงนั่นแล้วก็ วานคุณช่วยหยิบถุงตรงนั้น ให้ผมหน่อยสิ?$3\"/pause 400/shake Susan 500/speak Susan \"ได้อยู่แล้ว!\"/pause 250/move Susan -1 0 3/pause 300/faceDirection Susan 0 true/pause 650/showFrame Susan 9 true/shake Susan 500/pause 250/playSound dwop/pause 500/showFrame Susan 8 true/pause 700/faceDirection Susan 3 true/pause 400/move Susan -4 0 3 true/pause 1750/faceDirection farmer 0 true/pause 300/move farmer 0 -3 0 true/pause 625/showFrame Susan 13 true/shake Susan 600/pause 225/playSound money/pause 550/showFrame Susan 12 true/pause 300/speak Andy \"ขอบใจนะ!$3#$b#ไม่มีเอาไร จะเอาชนะ ไอ้เจ้ายี่ห้อนี่จริงๆ$1\"/pause 350/faceDirection Sophia 1 true/pause 250/emote Susan 32 true/move Sophia 3 0 2/move Sophia 0 2 2/pause 400/jump Sophia/pause 300/speak Sophia \"ไง ทุกคน!$1\"/pause 550/faceDirection Andy 0 true/pause 500/faceDirection Susan 0 true/pause 400/speak Susan \"ไงจ๊ะ ที่รัก วันนี้มาซื้อของหรอ?$0\"/pause 250/faceDirection farmer 3 true/pause 250/speak Sophia \"ใช่แล้ว ร้านปิแอร์มักจะมีของ ที่ฉันต้องการน่ะ!\"/pause 400/move farmer -4 0 3/pause 600/faceDirection Andy 1 true/pause 200/speak Andy \"อ้าว @ ก็อยู่นี่แฮะ$3\"/pause 400/faceDirection Susan 1 true/pause 350/textAboveHead Sophia \"ไง เธอ!\"/pause 200/faceDirection Andy 2 true/pause 250/move Andy 0 1 1/move Andy 2 0 1/pause 500/faceDirection Marnie 3 true/pause 300/move Marnie -2 0 2/speak Marnie \"อย่าลืมฉันสิจ๊ะ!$1\"/pause 250/faceDirection Andy 0 true/pause 300/faceDirection Sophia 1 true/pause 300/faceDirection Susan 0 true/pause 250/faceDirection farmer 0 true/pause 150/showFrame Andy 36 true/shake Andy 650/pause 300/speak Andy \"ฮ่าฮ่า! พวกเธอดูนี่สิ! ชาวไร่ทั้งหมดในสตาร์ดิว มาอยู่พร้อมกันที่นี่เลย!$1\"/pause 400/faceDirection Sophia 2 true/pause 300/jump Sophia/pause 150/showFrame Sophia 39 true/pause 450/textAboveHead Sophia \"เย้ พวกเรา!\"/pause 200/shake Andy 500/faceDirection Marnie 3 true/pause 500/faceDirection Susan 1 true/pause 500/faceDirection Marnie 2 true/pause 150/faceDirection farmer 3 true/pause 300/shake Susan 500/pause 500/showFrame farmer 97 true/pause 200/animate Marnie false true 150 33 34/pause 500/globalFade/viewport -1000 -1000/pause 1250/friendship Andy 50/friendship Marnie 50/friendship Sophia 50/friendship Susan 50/end dialogue Andy \"ก็จริงอย่างว่า ร้านปิแอร์ให้ความรู้สึกว่า เป็นส่วนหนึ่งของชุมชนมากกว่า$0\""
+     },
+},
+
+	//ANDY 4 Heart event - 'Farmers Of The Valley' - (player is dating/married to Sophia)
+{
+	 "Action": "EditData",
+	 "Target": "data/events/seedshop",
+	 "When": { "Hearts:Sophia": "{{Range: 10, 14}}" },
+	 "Entries": {
+	 "5000009/f Andy 1000/t 900 1700": "none/-500 -500/farmer 13 26 1 Andy 6 29 0 Pierre 4 17 2 Susan 12 23 0 Sophia 4 19 0 Marnie 14 20 0 Caroline 21 20 0 Olivia 21 18 2 Abigail 9 5 0 George 37 18 0 Gus 2 20 3 Robin 9 27 1/positionOffset George 3 -15 true/advancedMove Gus true 3 9000 0 2 3 7000 0 3 2 8000 1 0 0 -2 4 6000 -1 0 0 -3 3 1000/advancedMove Robin false 1 7000 0 3 3 0 0 -2 3 9000 1 0 0 1 1 7000 0 1 3 0 0 -3 3 8000 0 -4 -1 0 4 6000 1 0 0 5 3 40000/pause 500/playMusic playful/pause 1000/viewport 9 23 true/skippable/move Andy 0 -6 0/pause 550/faceDirection Andy 1 true/pause 750/shake Andy 500/pause 150/speak Andy \"Hey there, Susan!$0\"/pause 800/faceDirection Susan 3 true/pause 400/speak Susan \"Oh, Andy! I don't see you that often at Pierre's.$0\"/pause 250/move Marnie -3 0 0 true/pause 250/speak Andy \"Joja has a lot of good cheap stuff, but they don't carry my favorite jerky.$0#$b#Speakin' of which, mind grabbin' the bag there for me?$3\"/pause 400/shake Susan 500/speak Susan \"Sure!\"/pause 250/move Susan -1 0 3/pause 300/faceDirection Susan 0 true/pause 650/showFrame Susan 9 true/shake Susan 500/pause 250/playSound dwop/pause 500/showFrame Susan 8 true/pause 700/faceDirection Susan 3 true/pause 400/move Susan -4 0 3 true/pause 1750/faceDirection farmer 0 true/pause 300/move farmer 0 -3 0 true/pause 625/showFrame Susan 13 true/shake Susan 600/pause 225/playSound money/pause 550/showFrame Susan 12 true/pause 300/speak Andy \"Thank ya kindly!$3#$b#Ain't nothin' beats this here brand.$1\"/pause 350/faceDirection Sophia 1 true/pause 250/emote Susan 32 true/move Sophia 3 0 2/move Sophia 0 2 2/pause 400/jump Sophia/pause 300/speak Sophia \"Hi guys!$1\"/pause 550/faceDirection Andy 0 true/pause 500/faceDirection Susan 0 true/pause 400/speak Susan \"Hi, sweetie. Buying supplies today?$0\"/pause 250/faceDirection farmer 3 true/pause 250/speak Sophia \"Yeah. Pierre always has what I need!\"/pause 400/move farmer -4 0 3/pause 600/faceDirection Andy 1 true/pause 200/speak Andy \"Ah, @ is here too.$3\"/pause 400/faceDirection Susan 1 true/pause 350/textAboveHead Sophia \"Hey, silly!\"/pause 200/faceDirection Andy 2 true/pause 250/move Andy 0 1 1/move Andy 2 0 1/pause 500/faceDirection Marnie 3 true/pause 300/move Marnie -2 0 2/speak Marnie \"Don't forget me!$1\"/pause 250/faceDirection Andy 0 true/pause 300/faceDirection Sophia 1 true/pause 300/faceDirection Susan 0 true/pause 250/faceDirection farmer 0 true/pause 150/showFrame Andy 36 true/shake Andy 650/pause 300/speak Andy \"Haha! Would ya look at that! All the farmers of Stardew Valley, right here!$1\"/pause 400/faceDirection Sophia 2 true/pause 300/jump Sophia/pause 150/showFrame Sophia 39 true/pause 450/textAboveHead Sophia \"Yay us!\"/pause 200/shake Andy 500/faceDirection Marnie 3 true/pause 500/faceDirection Susan 1 true/pause 500/faceDirection Marnie 2 true/pause 150/faceDirection farmer 3 true/pause 300/shake Susan 500/pause 500/showFrame farmer 97 true/pause 200/animate Marnie false true 150 33 34/pause 500/globalFade/viewport -1000 -1000/pause 1250/friendship Andy 50/friendship Marnie 50/friendship Sophia 50/friendship Susan 50/end dialogue Andy \"Gotta say, there's more sense of community at Pierre's General Store.$0\"" 
      },
 },
 
@@ -23567,7 +23663,7 @@
       "Action": "EditData",
       "Target": "data/events/Custom_HighlandsCavernPrison",
       "Entries": {
-      "55134259/e 55134261/k 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"เจ้าไม่ใช่หนึ่งในพวกนั้น...#$b#เจ้ามาช่วยข้ารึ?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...เจ้าจัดการ พวกมอนสเตอร์ชั่วร้าย และได้กุญแจของ คุกที่คุมขังข้ามา?#$b#คงจะเป็นการต่อสู้ที่ดุเดือด...\"/pause 750/faceDirection farmer 1 true/pause 400/move farmer 2 0 0 true/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 350/faceDirection HighlandsDwarf 1 true/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"ข้าจดจำไม่ได้หรอก ว่าดวงจันทร์โคจร ผ่านไปกี่รอบแล้ว นับตั้งแต่ที่ข้าโดนจับมา...#$b#บ้านของข้า... ไม่เป็นแบบเดิม ที่ครั้งหนึ่งมันเคยเป็นอีกต่อไป...#$b#ข้าคงจะต้องหาที่ใหม่\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...ขอบคุณ#$b#ข้าจะต้องหาทางตอบแทนเจ้าแน่...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
+      "55134259/e 55134261/k 55134260/i {{spacechase0.JsonAssets/ObjectId:Golden Key}}": "Upper_Ambient/-500 -500/farmer -100 -100 0 HighlandsDwarf 18 16 0/removeItem {{spacechase0.JsonAssets/ObjectId:Golden Key}}/changeLocation Custom_HighlandsCavernPrisonEvent/viewport 19 19 true/skippable/pause 3000/warp farmer 19 24/move farmer 0 -4 0/pause 500/emote farmer 8/pause 600/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 1500/speed HighlandsDwarf 1/move HighlandsDwarf 0 1 2/pause 800/shake HighlandsDwarf 600/pause 500/speak HighlandsDwarf \"เจ้าไม่ใช่หนึ่งในพวกนั้น...#$b#เจ้ามาช่วยข้ารึ?\"/pause 1000/jump farmer/pause 1100/shake HighlandsDwarf 400/pause 250/speak HighlandsDwarf \"...เจ้าจัดการ พวกมอนสเตอร์ชั่วร้าย และได้กุญแจของ คุกที่คุมขังข้ามา?#$b#คงจะเป็นการต่อสู้ที่ดุเดือด...\"/pause 750/faceDirection farmer 1 true/pause 400/move farmer 2 0 0 true/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsCavernPrison/playSound openBox/pause 750/playSound money/pause 150/viewport 19 19 true/pause 650/faceDirection farmer 1 true/pause 250/move farmer 1 0 1/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 3 true/pause 350/faceDirection HighlandsDwarf 1 true/move HighlandsDwarf 3 0 2/move HighlandsDwarf 0 3 2/pause 500/faceDirection HighlandsDwarf 1 true/pause 500/speak HighlandsDwarf \"ข้าจดจำไม่ได้หรอก ว่าดวงจันทร์โคจร ผ่านไปกี่รอบแล้ว นับตั้งแต่ที่ข้าโดนจับมา...#$b#บ้านของข้า... ไม่เป็นแบบเดิม ที่ครั้งหนึ่งมันเคยเป็นอีกต่อไป...#$b#ข้าคงจะต้องหาที่ใหม่\"/pause 500/faceDirection HighlandsDwarf 2 true/pause 250/faceDirection HighlandsDwarf 3 true/pause 500/viewport move 0 1 2000 true/move HighlandsDwarf -2 0 2/move HighlandsDwarf 0 2 2 true/move farmer -3 0 2 true/pause 2250/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 0 true/pause 750/speak HighlandsDwarf \"...ขอบคุณ#$b#ข้าจะต้องหาทางตอบแทนเจ้าแน่...\"/pause 750/faceDirection HighlandsDwarf 1 true/pause 250/faceDirection HighlandsDwarf 2 true/pause 500/move HighlandsDwarf 0 2 2/warp HighlandsDwarf -25 -25/pause 1000/globalFade/viewport -1000 -1000/end position 19 20"
        }
     },
 
@@ -26845,7 +26941,7 @@
 	  "Action": "EditData",
 	  "Target": "data/events/Custom_AdventurerSummit",
 	  "Entries": {
-	  "65360185/e 65360184": "continue/-50 -50/farmer 51 19 2 MarlonFay 52 30 1 Lance -40 -40 3/positionOffset MarlonFay 0 5 true/skippable/viewport 51 30 clamp true/move farmer 0 9 2/pause 1000/faceDirection MarlonFay 0 true/pause 850/speak MarlonFay \"เจ้าเตรียมตัวพร้อมแล้วรึ? มันจะเป็นการเดินทางที่ยาวนานน่ะ\"/pause 500/jump farmer/pause 1000/speak MarlonFay \"เอาล่ะ ระวังย่างก้าวของเจ้า ตอนที่ขึ้นมาบนเรือด้วย$0\"/pause 500/faceDirection MarlonFay 1 true/pause 500/move farmer 0 1 1/move farmer 1 0 1 true/globalFade/viewport -1000 -1000/changeLocation Custom_Highlands/warp farmer 130 143/faceDirection farmer 3 true/warp MarlonFay 129 143/faceDirection MarlonFay 1 true/warp Lance 120 111/pause 500/viewport 0 143 clamp true/viewport move 2 0 8000 true/pause 5500/globalFade/viewport -1000 -1000/pause 500/viewport 95 143 clamp true/viewport move -2 0 8000 true/pause 5500/globalFade/viewport -1000 -1000/pause 1000/viewport 129 144 clamp true/pause 1500/speak MarlonFay \"พวกเรามาถึงแล้ว เจ้ายังไหวรึเปล่า @?$0\"/pause 500/emote farmer 32/pause 300/speak MarlonFay \"ปราการด่านหน้าที่แลนซ์อยู่ แค่ขึ้นบันไดนี่ไป ก็ถึงแล้ว\"/pause 750/faceDirection MarlonFay 0 true/pause 500/viewport move 0 -1 6000 true/move MarlonFay 0 -13 0 true/pause 500/move farmer -1 0 0 true/pause 500/move farmer 0 -11 0 true/pause 3000/globalFade/viewport -1000 -1000/pause 500/warp MarlonFay 125 113/warp farmer 128 113/viewport 125 112 true/move MarlonFay 0 -3 3 true/move farmer -3 0 0 true/pause 1500/move farmer 0 -1 3 true/pause 1000/speak Lance \"...$5\"/pause 500/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/speak Lance \"สวัสดี สหาย ยินดีต้อนรับสู่ ปราการด่านหน้าของผม พวกท่านต้องเหน็ดเหนื่อยมาก จากการเดินทางที่ยาวนาน$0\"/pause 500/speak MarlonFay \"ไม่ค่อยมีเหตุการณ์อะไรหรอก แต่ก็ได้เรื่องดีๆ ไว้จดในบันทึกของข้า$0\"/pause 500/speak Lance \"*คิกคัก* นั่นสินะ$1\"/pause 650/speed Lance 1/move Lance 2 0 1 true/viewport move 1 0 2000 true/pause 2500/shake Lance 500/pause 300/speak Lance \"เชิญเข้ามาเลยครับ ข้าเตรียมเครื่องดื่ม เพื่อความสดชื่นไว้แล้ว มีเรื่องที่ต้องหารือกัน อีกเยอะเลยด้วย$0\"/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsOutpost/warp Lance 7 5/faceDirection Lance 2 true/warp MarlonFay 7 7/faceDirection MarlonFay 0 true/warp farmer 8 7/faceDirection farmer 0 true/positionOffset Lance 32 -6 true/stopMusic/playSound doorClose/pause 500/playSound doorClose/pause 350/playSound doorClose/pause 250/playMusic cm:SDV_Fireplace/pause 1250/positionOffset farmer 25 15 true/viewport 7 7 true/pause 1000/speak Lance \"ถึงปราการของข้าจะเล็ก แต่ข้าให้คำมั่นต่อท่านเลยว่า มันเต็มไปด้วยของที่จำเป็น ต่อการเอาตัวรอด ในเขตที่ราบสูงนี้$0#$b#เปลวไฟเวทย์ที่คอยขับไล่ พวกมอนสเตอร์ออกไปนี่ ข้าทำมันขึ้นมาเองเลยนะครับ$1\"/pause 500/emote Lance 40/pause 300/speak Lance \"ข้ากำลังทำงานวิจัยอยู่ที่นี่ด้วย ในนามของอาจารย์ของข้า$0#$b#มันมีบางอย่างที่พิเศษ เกี่ยวกับมอนสเตอร์ ที่อาศัยอยู่ในบริเวณนี้...$1#$b#ถึงแม้ว่ามันจะไม่ปกติ  แต่บางตัวให้เมล็ดแปลกๆ ที่งอกได้ออกมา และมีพลังเวทย์พิลึกๆ ด้วย$0\"/pause 500/shake MarlonFay 400/pause 200/speak MarlonFay \"หืม เจ้าพูดว่าเมล็ดงั้นรึ?  เหมือนเมล็ดพืช? @ คงจะมีความเชี่ยวชาญในด้านนี้$0\"/pause 500/faceDirection farmer 3 true/pause 750/showFrame farmer 97 true/pause 1000/faceDirection farmer 3 true/pause 500/faceDirection farmer 0 ขtrue/pause 500/speak Lance \"อา จริงด้วยครับ  ข้าได้ยินเรื่องความพยายาม ของท่านมามากเลย @!$1#$b#ขอให้ข้าได้แบ่งปันความรู้ ที่ข้าได้มาจากการวิจัย จนถึงตอนนี้ละกันครับ$0\"/pause 300/globalFade/viewport -1000 -1000/stopMusic/pause 1000/message \"แลนซ์ได้แบ่งปัน ที่สิ่งเขาพบเจอ ให้มาร์ลอนกับฉันได้รู้  เขาขอให้พวกเรา ช่วยล่ามอนสเตอร์ในเขตที่ราบสูง เพื่อเอาเมล็ดพืชแปลกๆ จากพวกมัน  และทดลองปลูกดู\"/pause 1000/message \"ก่อนที่ฉันจะรู้ตัว เวลาผ่านไปหลายชั่วโมง...  ถึงเวลาที่ต้องกลับบ้านแล้ว ฉันสงสัยจัง ว่าจะมีอะไรรอฉัน อยู่ในเขตที่ราบสูงนี้?\"/pause 500/end dialogue MarlonFay \"ข้าไม่ค่อยได้ใช้เรือ ในการลาดตระเวนสักเท่าไหร่ ข้าดีใจที่ได้มีอีกวิถีทาง ให้ใช้งานมันแล้ว#$e#หืม ข้าเกรงข้า ว่าคงจะไม่สามารถ รับคำขอในการช่วยเหลือ งานวิจัยของแลนซ์ได้ ข้ามีหน้าที่อื่น ที่ต้องรับผิดชอบ ในหุบเขาอยู่น่ะ#$b#ข้าเชื่อว่า ยังไงภาระกิจนี้ ก็คงจะเป็นงานถนัดของเจ้าอยู่แล้ว @\""
+	  "65360185/e 65360184": "continue/-50 -50/farmer 51 19 2 MarlonFay 52 30 1 Lance -40 -40 3/positionOffset MarlonFay 0 5 true/skippable/viewport 51 30 clamp true/move farmer 0 9 2/pause 1000/faceDirection MarlonFay 0 true/pause 850/speak MarlonFay \"เจ้าเตรียมตัวพร้อมแล้วรึ? มันจะเป็นการเดินทางที่ยาวนานน่ะ\"/pause 500/jump farmer/pause 1000/speak MarlonFay \"เอาล่ะ ระวังย่างก้าวของเจ้า ตอนที่ขึ้นมาบนเรือด้วย$0\"/pause 500/faceDirection MarlonFay 1 true/pause 500/move farmer 0 1 1/move farmer 1 0 1 true/globalFade/viewport -1000 -1000/changeLocation Custom_Highlands/warp farmer 130 143/faceDirection farmer 3 true/warp MarlonFay 129 143/faceDirection MarlonFay 1 true/warp Lance 120 111/pause 500/viewport 0 143 clamp true/viewport move 2 0 8000 true/pause 5500/globalFade/viewport -1000 -1000/pause 500/viewport 95 143 clamp true/viewport move -2 0 8000 true/pause 5500/globalFade/viewport -1000 -1000/pause 1000/viewport 129 144 clamp true/pause 1500/speak MarlonFay \"พวกเรามาถึงแล้ว เจ้ายังไหวรึเปล่า @?$0\"/pause 500/emote farmer 32/pause 300/speak MarlonFay \"ปราการด่านหน้าที่แลนซ์อยู่ แค่ขึ้นบันไดนี่ไป ก็ถึงแล้ว\"/pause 750/faceDirection MarlonFay 0 true/pause 500/viewport move 0 -1 6000 true/move MarlonFay 0 -13 0 true/pause 500/move farmer -1 0 0 true/pause 500/move farmer 0 -11 0 true/pause 3000/globalFade/viewport -1000 -1000/pause 500/warp MarlonFay 125 113/warp farmer 128 113/viewport 125 112 true/move MarlonFay 0 -3 3 true/move farmer -3 0 0 true/pause 1500/move farmer 0 -1 3 true/pause 1000/speak Lance \"...$5\"/pause 500/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/speak Lance \"สวัสดี สหาย ยินดีต้อนรับสู่ ปราการด่านหน้าของผม พวกท่านต้องเหน็ดเหนื่อยมาก จากการเดินทางที่ยาวนาน$0\"/pause 500/speak MarlonFay \"ไม่ค่อยมีเหตุการณ์อะไรหรอก แต่ก็ได้เรื่องดีๆ ไว้จดในบันทึกของข้า$0\"/pause 500/speak Lance \"*คิกคัก* นั่นสินะ$1\"/pause 650/speed Lance 1/move Lance 2 0 1 true/viewport move 1 0 2000 true/pause 2500/shake Lance 500/pause 300/speak Lance \"เชิญเข้ามาเลยครับ ข้าเตรียมเครื่องดื่ม เพื่อความสดชื่นไว้แล้ว มีเรื่องที่ต้องหารือกัน อีกเยอะเลยด้วย$0\"/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_HighlandsOutpost/warp Lance 7 5/faceDirection Lance 2 true/warp MarlonFay 7 7/faceDirection MarlonFay 0 true/warp farmer 8 7/faceDirection farmer 0 true/positionOffset Lance 32 -6 true/stopMusic/playSound doorClose/pause 500/playSound doorClose/pause 350/playSound doorClose/pause 250/playMusic cm:SDV_Fireplace/pause 1250/positionOffset farmer 25 15 true/viewport 7 7 true/pause 1000/speak Lance \"ถึงปราการของข้าจะเล็ก แต่ข้าให้คำมั่นต่อท่านเลยว่า มันเต็มไปด้วยของที่จำเป็น ต่อการเอาตัวรอด ในเขตที่ราบสูงนี้$0#$b#เปลวไฟเวทย์ที่คอยขับไล่ พวกมอนสเตอร์ออกไปนี่ ข้าทำมันขึ้นมาเองเลยนะครับ$1\"/pause 500/emote Lance 40/pause 300/speak Lance \"ข้ากำลังทำงานวิจัยอยู่ที่นี่ด้วย ในนามของอาจารย์ของข้า$0#$b#มันมีบางอย่างที่พิเศษ เกี่ยวกับมอนสเตอร์ ที่อาศัยอยู่ในบริเวณนี้...$1#$b#ถึงแม้ว่ามันจะไม่ปกติ  แต่บางตัวให้เมล็ดแปลกๆ ที่งอกได้ออกมา และมีพลังเวทย์พิลึกๆ ด้วย$0\"/pause 500/shake MarlonFay 400/pause 200/speak MarlonFay \"หืม เจ้าพูดว่าเมล็ดงั้นรึ?  เหมือนเมล็ดพืช? @ คงจะมีความเชี่ยวชาญในด้านนี้$0\"/pause 500/faceDirection farmer 3 true/pause 750/showFrame farmer 97 true/pause 1000/faceDirection farmer 3 true/pause 500/faceDirection farmer 0 true/pause 500/speak Lance \"อา จริงด้วยครับ  ข้าได้ยินเรื่องความพยายาม ของท่านมามากเลย @!$1#$b#ขอให้ข้าได้แบ่งปันความรู้ ที่ข้าได้มาจากการวิจัย จนถึงตอนนี้ละกันครับ$0\"/pause 300/globalFade/viewport -1000 -1000/stopMusic/pause 1000/message \"แลนซ์ได้แบ่งปัน ที่สิ่งเขาพบเจอ ให้มาร์ลอนกับฉันได้รู้  เขาขอให้พวกเรา ช่วยล่ามอนสเตอร์ในเขตที่ราบสูง เพื่อเอาเมล็ดพืชแปลกๆ จากพวกมัน  และทดลองปลูกดู\"/pause 1000/message \"ก่อนที่ฉันจะรู้ตัว เวลาผ่านไปหลายชั่วโมง...  ถึงเวลาที่ต้องกลับบ้านแล้ว ฉันสงสัยจัง ว่าจะมีอะไรรอฉัน อยู่ในเขตที่ราบสูงนี้?\"/pause 500/end dialogue MarlonFay \"ข้าไม่ค่อยได้ใช้เรือ ในการลาดตระเวนสักเท่าไหร่ ข้าดีใจที่ได้มีอีกวิถีทาง ให้ใช้งานมันแล้ว#$e#หืม ข้าเกรงข้า ว่าคงจะไม่สามารถ รับคำขอในการช่วยเหลือ งานวิจัยของแลนซ์ได้ ข้ามีหน้าที่อื่น ที่ต้องรับผิดชอบ ในหุบเขาอยู่น่ะ#$b#ข้าเชื่อว่า ยังไงภาระกิจนี้ ก็คงจะเป็นงานถนัดของเจ้าอยู่แล้ว @\""
 	  },
     },
 
@@ -27242,20 +27338,20 @@
 
 
     {
-	  //Lance 8 heart event - The First Slash (sunny)
+	  //Lance 8 heart event - (Island) - The First Slash (sunny)
 	  "Action": "EditData",
 	  "Target": "data/events/IslandWest",
-	  "When": { "Weather |contains=Rain": false, "LocationContext": "Island", "HasFlag |contains=Island_UpgradeHouse": true },
+	  "When": { "Weather |contains=Rain": false, "LocationContext": "Island", "HasFlag |contains=Island_UpgradeHouse": true, "HasFlag": "lanceMonsterCrops" },
 	  "Entries": {
 	  "65360191/f Lance 2000": "tropical_island_day_ambient/-500 -500/farmer 77 40 2 Lance 77 42 0 Martin -30 -30 0 Claire -31 -31 0 Sophia -32 -32 0 Victor -33 -33 0/showFrame Victor 150 true/showFrame Sophia 150 true/showFrame Claire 150 true/showFrame Martin 150 true/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Marley 16 32 -96 -96 2/makeInvisible 77 42 19 1/viewport 77 41 true/skippable/pause 1000/speak Lance \"สวัสดี @ ข้าทำงานวิจัย เกี่ยวกับมอสเตอร์พืช เสร็จเรียบร้อยแล้วครับ และข้ากำลังจะรายงาน กลับไปที่กิลด์ของข้า กิลด์พิฆาตคมแรก (The First Slash)$0#$b#ข้าอยากให้ท่านมาด้วยกัน เพราะท่านเป็นผู้ที่ มีส่วนช่วยให้งานวิจัยของข้า ประสบความสำเร็จได้ ถ้าไม่มีท่าน ข้าคงทำมันไม่สำเร็จ$1\"/pause 500/jump farmer/pause 900/speak Lance \"*คิกคัก* ตามมาครับ$5\"/pause 800/faceDirection Lance 1 true/pause 500/move Lance 10 0 1 true/pause 400/move farmer 0 2 2 true/pause 1000/move farmer 6 0 1 true/pause 750/globalFade/viewport -1000 -1000/playMusic jungle_ambience/changeLocation Custom_LanceSecretWarp/pause 1000/warp farmer 21 20/faceDirection farmer 0 true/warp Lance 19 18/viewport 20 13 true/move Lance 0 -4 0 true/move farmer 0 -6 0 true/pause 4000/speak Lance \"เกาะของพวกเรา ตั้งอยู่ที่ใจกลางของทะเลอัญมณี ห่างไกลมากเกินกว่าที่จะมาถึงได้  หากไม่ใช้อักขระเคลื่อนย้าย\"/pause 500/faceDirection Lance 1 true/pause 650/faceDirection farmer 3 true/pause 500/speak Lance \"ข้าจะนำไปก่อน$1\"/pause 750/faceDirection Lance 0 true/pause 500/viewport move 0 -1 1500 true/move Lance 0 -1 1/move Lance 1 0 0/move Lance 0 -1 0 true/pause 200/faceDirection farmer 0 true/pause 650/faceDirection Lance 1 true/pause 250/faceDirection Lance 2 true/pause 650/shake Lance 500/pause 500/screenFlash 1/playSound wand/warp Lance -20 -20/pause 1250/move farmer 0 -2 3/move farmer -1 0 3/pause 350/faceDirection farmer 2 true/pause 500/startJittering/pause 550/screenFlash 1/warp farmer -21 -21/playsound wand/pause 2000/globalFade/viewport -1000 -1000/playMusic tropical_island_day_ambient/changeLocation Custom_FableReef/warp Lance 34 43/faceDirection Lance 3 true/warp farmer 32 43/faceDirection farmer 1 true/viewport 84 71 clamp true/viewport move -2 -2 6500 true/pause 4000/globalFade/viewport -1000 -1000/viewport 49 27 true/viewport move -2 2 8000/pause 7900/speak Lance \"ท่านต้องยอมรับว่า มันรวดเร็วกว่าการเดินทาง แบบปกติเยอะเลย$5#$b#มาเถอะครับ ข้าจะแนะนำท่านให้กิลด์รู้จัก$0\"/pause 750/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/move Lance 9 0 0 true/pause 450/move farmer 8 0 1 true/pause 750/globalFade/viewport -1000 -1000/pause 500/playSound doorClose/pause 750/playSound doorClose/pause 500/changeLocation Custom_FirstSlashGuild/playMusic MarlonsTheme/pause 750/warp Brianna 20 17/faceDirection Brianna 1 true/warp Drake 22 20/faceDirection Drake 0 true/warp Edmund 9 16/faceDirection Edmund 3 true/warp Gale 9 18/faceDirection Gale 3 true/warp Marley 14 15/faceDirection Marley 0 true/warp Lance 15 28/warp farmer 14 28/viewport 14 10 true/viewport move 0 1 8000 true/pause 4000/move Lance 0 -9 0 true/pause 500/move farmer 0 -9 0 true/pause 4700/faceDirection Marley 1 true/pause 250/faceDirection Marley 2 true/pause 250/emote Marley 16 true/pause 400/speak Marley \"ทุกคน! แลนซ์กลับมาแล้ว!$1\"/pause 400/faceDirection Drake 3 true/pause 250/faceDirection Gale 2 true/pause 250/faceDirection Gale 1 true/pause 100/faceDirection Edmund 2 true/pause 100/faceDirection Brianna 2 true/pause 150/emote Drake 16 true/pause 100/faceDirection Brianna 3 true/pause 100/faceDirection Edmund 1 true/pause 100/speed Gale 1/move Gale 2 0 1 true/pause 100/jump Brianna/pause 100/move Drake -5 0 0 true/pause 100/faceDirection farmer 3 true/pause 400/move Edmund 3 0 2 true/pause 200/faceDirection Lance 1 true/pause 550/move Brianna -2 0 2 true/pause 50/textAboveHead Brianna \"ไง!\"/pause 700/faceDirection farmer 0 true/pause 300/textAboveHead Edmund \"ยินดีต้อนรับการกลับมา!\"/move Brianna 0 1 3 true/pause 200/move Drake 0 -1 3 true/pause 750/emote Drake 32 true/pause 400/emote Lance 32 true/pause 1300/faceDirection Lance 0 true/pause 500/speak Marley \"แล้วนั่นเจ้าพาใคร เข้ามาที่โถงกิลด์ด้วยน่ะ?$1\"/pause 500/speak Lance \"ท่านนี้คือ @  และเขาคือผู้ที่ทำให้ ภาระกิจของข้าสำเร็จ$0#$b#และผลก็ออกมาว่า ตัวข้าคงจะเป็นชาวไร่ ไม่ได้จริงๆ นั่นแหละครับ!$1\"/pause 250/shake Brianna 500/textAboveHead Brianna \"ฮ่าฮ่า!\"/pause 400/shake Gale 500/textAboveHead Gale \"ฮ่า...\"/pause 100/speed Marley 1/move Marley 0 1 2/pause 250/speak Marley \"ดีใจที่ได้พบเจ้า  @ ข้าชื่อมาร์เลย์ เป็นผู้นำของกลุ่ม พิฆาตคมแรก$0#$b#เพื่อนของแลนซ์ ก็คือเพื่อนของข้า$1\"/pause 500/faceDirection Marley 1 true/pause 250/speed Marley 1/move Marley 1 0 1/pause 250/faceDirection Marley 2 true/pause 350/speak Marley \"ดีมาก แลนซ์ มันไม่ใช่เรื่องยากเย็นเลย ที่จะสัมผัสถึง พลังเวทย์แปลกๆ ที่แผ่ออกมาจากตัวเจ้า พวกเราตั้งตารอ อย่างใจจดใจจ่อเลยล่ะ$1\"/pause 200/speak Lance \"*คิกคัก* นั่นสินะ...$5\"/pause 400/faceDirection Lance 3 true/pause 500/faceDirection farmer 1 true/pause 250/speak Lance \"ขอพื้นที่ให้ข้าหน่อยครับ$1\"/pause 500/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 500/move farmer -2 0 3/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 500/faceDirection Lance 0 true/pause 250/faceDirection Lance 1 true/pause 400/move Lance 1 0 1/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 16 18 {{spacechase0.JsonAssets/ObjectId:Monster Fruit}}/warp Martin 16 18/positionOffset Martin -11 16 true/pause 300/showFrame Lance 8 true/pause 250/emote Gale 16 true/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 15 18 {{spacechase0.JsonAssets/ObjectId:Monster Mushroom}}/warp Claire 15 18/positionOffset Claire -4 16 truepause 150/shake Drake 525/textAboveHead Drake \"อะไรเนี่ย...\"/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 14 18 {{spacechase0.JsonAssets/ObjectId:Slime Berry}}/warp Sophia 14 18/positionOffset Sophia 0 9 true/pause 300/showFrame Lance 8 true/pause 250/textAboveHead Edmund \"โว้ว!\"/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 200/jump Brianna/pause 200/shake Lance 500/showFrame Lance 9 true/pause 200/textAboveHead Brianna \"ข้าลองจับได้มั้ย!?\"/pause 100/playSound slime/addObject 13 18 {{spacechase0.JsonAssets/ObjectId:Void Root}}/warp Victor 13 18/positionOffset Victor -19 16 true/pause 150/emote Gale 40 true/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 1 true/pause 300/move Lance 1 0 2/move Lance 0 2 2/pause 250/faceDirection Lance 1 true/pause 250/faceDirection Lance 0 true/pause 450/speak Lance \"จงดู... มอนสเตอร์พืชจากเขตที่ราบสูง!$1\"/pause 250/shake Edmund 500/textAboveHead Edmund \"น่าทึ่งมาก!\"/pause 400/emote Drake 40 true/pause 300/speed Marley 1/move Marley 0 1 2 true/pause 400/jump Brianna/pause 400/textAboveHead Gale \"หืม...\"/pause 200/speed Drake 1/move Drake -1 0 0 true/pause 350/shake Marley 500/textAboveHead Marley \"น่าประทับใจจริงๆ!\"/pause 500/faceDirection Edmund 1 true/pause 250/speed Edmund 1/move Edmund 1 0 2/speed Edmund 1/move Edmund 0 1 2 true/globalfade/viewport -1000 -1000/stopMusic/pause 1500/message \"เป็นเรื่องเหลือเชื่อมาก ที่ได้รู้จักกับกิลด์ที่แลนซ์สังกัดอยู่ แต่ตอนนี้ถึงเวลา ที่ต้องกลับบ้านแล้ว ไม่แน่นะ ฉันอาจจะได้มาที่นี่อีก?\"/pause 1000/end dialogue Lance \"ท่านอาจารย์ของข้า และผู้นำกิลด์ พอใจกับผลงานของข้ามาก ขอบคุณนะครับ @$1#$e#มอนสเตอร์พืชพวกนี้ จะเป็นประโยชน์ให้เรา ได้เข้าใจพวกโกเลมดุร้าย สไลม์ ภูตเห็ด และพวกมนุษย์เงา ต่อไป...$5#$e#ยังมีงานในเขตที่ราบสูง ที่ต้องทำให้เสร็จสิ้นอีก! พวกเราพึ่งจะเริ่มต้นเอง$0\""
       }
 	},
 
     {
-	  //Lance 8 heart event - The First Slash (raining)
+	  //Lance 8 heart event - (Island) - The First Slash (raining)
 	  "Action": "EditData",
 	  "Target": "data/events/IslandWest",
-	  "When": { "Weather |contains=Rain": true, "LocationContext": "Island", "HasFlag |contains=Island_UpgradeHouse": true },
+	  "When": { "Weather |contains=Rain": true, "LocationContext": "Island", "HasFlag |contains=Island_UpgradeHouse": true, "HasFlag": "lanceMonsterCrops" },
 	  "Entries": {
 	  "65360191/f Lance 2000": "rain/-500 -500/farmer 77 40 2 Lance 77 42 0 Martin -30 -30 0 Claire -31 -31 0 Sophia -32 -32 0 Victor -33 -33 0/showFrame Victor 150 true/showFrame Sophia 150 true/showFrame Claire 150 true/showFrame Martin 150 true/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Marley 16 32 -96 -96 2/makeInvisible 77 42 19 1/viewport 77 41 true/skippable/pause 1000/speak Lance \"สวัสดี @ ข้าทำงานวิจัย เกี่ยวกับมอสเตอร์พืช เสร็จเรียบร้อยแล้วครับ และข้ากำลังจะรายงาน กลับไปที่กิลด์ของข้า กิลด์พิฆาตคมแรก (The First Slash)$0#$b#ข้าอยากให้ท่านมาด้วยกัน เพราะท่านเป็นผู้ที่ มีส่วนช่วยให้งานวิจัยของข้า ประสบความสำเร็จได้ ถ้าไม่มีท่าน ข้าคงทำมันไม่สำเร็จ$1\"/pause 500/jump farmer/pause 900/speak Lance \"*คิกคัก* ตามมาครับ$5\"/pause 800/faceDirection Lance 1 true/pause 500/move Lance 10 0 1 true/pause 400/move farmer 0 2 2 true/pause 1000/move farmer 6 0 1 true/pause 750/globalFade/viewport -1000 -1000/changeLocation Custom_LanceSecretWarp/pause 1000/warp farmer 21 20/faceDirection farmer 0 true/warp Lance 19 18/viewport 20 13 true/move Lance 0 -4 0 true/move farmer 0 -6 0 true/pause 4000/speak Lance \"เกาะของพวกเรา ตั้งอยู่ที่ใจกลางของทะเลอัญมณี ห่างไกลมากเกินกว่าที่จะมาถึงได้  หากไม่ใช้อักขระเคลื่อนย้าย\"/pause 500/faceDirection Lance 1 true/pause 650/faceDirection farmer 3 true/pause 500/speak Lance \"ข้าจะนำไปก่อน$1\"/pause 750/faceDirection Lance 0 true/pause 500/viewport move 0 -1 1500 true/move Lance 0 -1 1/move Lance 1 0 0/move Lance 0 -1 0 true/pause 200/faceDirection farmer 0 true/pause 650/faceDirection Lance 1 true/pause 250/faceDirection Lance 2 true/pause 650/shake Lance 500/pause 500/screenFlash 1/playSound wand/warp Lance -20 -20/pause 1250/move farmer 0 -2 3/move farmer -1 0 3/pause 350/faceDirection farmer 2 true/pause 500/startJittering/pause 550/screenFlash 1/warp farmer -21 -21/playsound wand/pause 2000/globalFade/viewport -1000 -1000/changeLocation Custom_FableReef/warp Lance 34 43/faceDirection Lance 3 true/warp farmer 32 43/faceDirection farmer 1 true/viewport 84 71 clamp true/viewport move -2 -2 6500 true/pause 4000/globalFade/viewport -1000 -1000/viewport 49 27 true/viewport move -2 2 8000/pause 7900/speak Lance \"ท่านต้องยอมรับว่า มันรวดเร็วกว่าการเดินทาง แบบปกติเยอะเลย$5#$b#มาเถอะครับ ข้าจะแนะนำท่านให้กิลด์รู้จัก$0\"/pause 750/faceDirection Lance 2 true/pause 250/faceDirection Lance 1 true/pause 500/move Lance 9 0 0 true/pause 450/move farmer 8 0 1 true/pause 750/globalFade/viewport -1000 -1000/pause 500/playSound doorClose/pause 750/playSound doorClose/pause 500/changeLocation Custom_FirstSlashGuild/playMusic MarlonsTheme/pause 750/warp Brianna 20 17/faceDirection Brianna 1 true/warp Drake 22 20/faceDirection Drake 0 true/warp Edmund 9 16/faceDirection Edmund 3 true/warp Gale 9 18/faceDirection Gale 3 true/warp Marley 14 15/faceDirection Marley 0 true/warp Lance 15 28/warp farmer 14 28/viewport 14 10 true/viewport move 0 1 8000 true/pause 4000/move Lance 0 -9 0 true/pause 500/move farmer 0 -9 0 true/pause 4700/faceDirection Marley 1 true/pause 250/faceDirection Marley 2 true/pause 250/emote Marley 16 true/pause 400/speak Marley \"ทุกคน! แลนซ์กลับมาแล้ว!$1\"/pause 400/faceDirection Drake 3 true/pause 250/faceDirection Gale 2 true/pause 250/faceDirection Gale 1 true/pause 100/faceDirection Edmund 2 true/pause 100/faceDirection Brianna 2 true/pause 150/emote Drake 16 true/pause 100/faceDirection Brianna 3 true/pause 100/faceDirection Edmund 1 true/pause 100/speed Gale 1/move Gale 2 0 1 true/pause 100/jump Brianna/pause 100/move Drake -5 0 0 true/pause 100/faceDirection farmer 3 true/pause 400/move Edmund 3 0 2 true/pause 200/faceDirection Lance 1 true/pause 550/move Brianna -2 0 2 true/pause 50/textAboveHead Brianna \"ไง!\"/pause 700/faceDirection farmer 0 true/pause 300/textAboveHead Edmund \"ยินดีต้อนรับการกลับมา!\"/move Brianna 0 1 3 true/pause 200/move Drake 0 -1 3 true/pause 750/emote Drake 32 true/pause 400/emote Lance 32 true/pause 1300/faceDirection Lance 0 true/pause 500/speak Marley \"แล้วนั่นเจ้าพาใคร เข้ามาที่โถงกิลด์ด้วยน่ะ?$1\"/pause 500/speak Lance \"ท่านนี้คือ @  และเขาคือผู้ที่ทำให้ ภาระกิจของข้าสำเร็จ$0#$b#และผลก็ออกมาว่า ตัวข้าคงจะเป็นชาวไร่ ไม่ได้จริงๆ นั่นแหละครับ!$1\"/pause 250/shake Brianna 500/textAboveHead Brianna \"ฮ่าฮ่า!\"/pause 400/shake Gale 500/textAboveHead Gale \"ฮ่า...\"/pause 100/speed Marley 1/move Marley 0 1 2/pause 250/speak Marley \"ดีใจที่ได้พบเจ้า  @ ข้าชื่อมาร์เลย์ เป็นผู้นำของกลุ่ม พิฆาตคมแรก$0#$b#เพื่อนของแลนซ์ ก็คือเพื่อนของข้า$1\"/pause 500/faceDirection Marley 1 true/pause 250/speed Marley 1/move Marley 1 0 1/pause 250/faceDirection Marley 2 true/pause 350/speak Marley \"ดีมาก แลนซ์ มันไม่ใช่เรื่องยากเย็นเลย ที่จะสัมผัสถึง พลังเวทย์แปลกๆ ที่แผ่ออกมาจากตัวเจ้า พวกเราตั้งตารอ อย่างใจจดใจจ่อเลยล่ะ$1\"/pause 200/speak Lance \"*คิกคัก* นั่นสินะ...$5\"/pause 400/faceDirection Lance 3 true/pause 500/faceDirection farmer 1 true/pause 250/speak Lance \"ขอพื้นที่ให้ข้าหน่อยครับ$1\"/pause 500/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 500/move farmer -2 0 3/pause 250/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 500/faceDirection Lance 0 true/pause 250/faceDirection Lance 1 true/pause 400/move Lance 1 0 1/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 16 18 {{spacechase0.JsonAssets/ObjectId:Monster Fruit}}/warp Martin 16 18/positionOffset Martin -11 16 true/pause 300/showFrame Lance 8 true/pause 250/emote Gale 16 true/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 15 18 {{spacechase0.JsonAssets/ObjectId:Monster Mushroom}}/warp Claire 15 18/positionOffset Claire -4 16 truepause 150/shake Drake 525/textAboveHead Drake \"อะไรเนี่ย...\"/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 400/shake Lance 500/showFrame Lance 9 true/pause 300/playSound slime/addObject 14 18 {{spacechase0.JsonAssets/ObjectId:Slime Berry}}/warp Sophia 14 18/positionOffset Sophia 0 9 true/pause 300/showFrame Lance 8 true/pause 250/textAboveHead Edmund \"โว้ว!\"/pause 250/faceDirection Lance 3 true/pause 300/move Lance -1 0 3/pause 250/faceDirection Lance 0 true/pause 200/jump Brianna/pause 200/shake Lance 500/showFrame Lance 9 true/pause 200/textAboveHead Brianna \"ข้าลองจับได้มั้ย!?\"/pause 100/playSound slime/addObject 13 18 {{spacechase0.JsonAssets/ObjectId:Void Root}}/warp Victor 13 18/positionOffset Victor -19 16 true/pause 150/emote Gale 40 true/pause 150/showFrame Lance 8 true/pause 500/faceDirection Lance 1 true/pause 300/move Lance 1 0 2/move Lance 0 2 2/pause 250/faceDirection Lance 1 true/pause 250/faceDirection Lance 0 true/pause 450/speak Lance \"จงดู... มอนสเตอร์พืชจากเขตที่ราบสูง!$1\"/pause 250/shake Edmund 500/textAboveHead Edmund \"น่าทึ่งมาก!\"/pause 400/emote Drake 40 true/pause 300/speed Marley 1/move Marley 0 1 2 true/pause 400/jump Brianna/pause 400/textAboveHead Gale \"หืมม...\"/pause 200/speed Drake 1/move Drake -1 0 0 true/pause 350/shake Marley 500/textAboveHead Marley \"น่าประทับใจจริงๆ!\"/pause 500/faceDirection Edmund 1 true/pause 250/speed Edmund 1/move Edmund 1 0 2/speed Edmund 1/move Edmund 0 1 2 true/globalfade/viewport -1000 -1000/stopMusic/pause 1500/message \"เป็นเรื่องเหลือเชื่อมาก ที่ได้รู้จักกับกิลด์ที่แลนซ์สังกัดอยู่ แต่ตอนนี้ถึงเวลา ที่ต้องกลับบ้านแล้ว ไม่แน่นะ ฉันอาจจะได้มาที่นี่อีก?\"/pause 1000/end dialogue Lance \"ท่านอาจารย์ของข้า และผู้นำกิลด์ พอใจกับผลงานของข้ามาก ขอบคุณนะครับ @$1#$e#มอนสเตอร์พืชพวกนี้ จะเป็นประโยชน์ให้เรา ได้เข้าใจพวกโกเลมดุร้าย สไลม์ ภูตเห็ด และพวกมนุษย์เงา ต่อไป...$5#$e#ยังมีงานในเขตที่ราบสูง ที่ต้องทำให้เสร็จสิ้นอีก! พวกเราพึ่งจะเริ่มต้นเอง$0\""
       }
@@ -27276,7 +27372,7 @@
 	  "Action": "EditData",
 	  "Target": "data/events/Custom_FirstSlashGuestRoom",
 	  "Entries": {
-	  "65360193": "continue/-500 -500/farmer 7 9 0 Marley -30 -30 0/pause 500/viewport 7 6 true/skippable/move farmer 0 -3 0/pause 1000/faceDirection farmer 1 true/pause 1150/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 450/move farmer -1 0 3/pause 300/faceDirection farmer 0 true/pause 500/emote farmer 40/pause 400/playSound doorOpen/warp Marley 7 9/pause 500/speed Marley 1/move Marley 0 -1 0 true/pause 300/speak Marley \"เจ้าเป็นคน ช่างอยากรู้อยากเห็นสินะ$1\"/pause 350/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 250/emote farmer 16 true/pause 1500/faceDirection Marley 1 true/pause 1000/faceDirection Marley 0 true/pause 250/faceDirection Marley 3 true/pause 1100/faceDirection Marley 0 true/pause 500/speak Marley \"นี่เป็นห้องสำรอง เจ้าจะใช้มันแบบไหนก็ได้ แล้วแต่เจ้า$1#$b#ข้าคงพูดไม่ได้ว่า ที่นี่มันมีอะไรให้ทำมากมาย ก็มีแค่ไปคุยเล่นกับชาวบ้าน หาของป่า และตกปลา...$0#$b#ไปคุยกับข้าอีกทีที่ห้องโถงของกิลด์ มีบางอย่างที่เจ้า น่าจะทำให้พวกเราได้$1\"/pause 500/end dialogue Marley \"เจ้าเคยเห็นเทราต์ตอปิโด (torpedo trout) รึยัง? พวกนักเวทของอณาจักรโกโตโร เปลี่ยนปลานั่น ให้กลายเป็นอาวุธ...$0#$b#เกาะของเราคงจะเหมือนคอย เชื้อเชิญพวกมันให้เขามา พวกมันถูกดึงดูดมาด้วย ขุมพลังเวทมนตร์ที่เข้มข้น$0#$b#มันเป็นทางเดียวที่จะ ทำให้ท้องทะเลปลอดภัย และคอยเก็บกวาดสิ่งที่ ใครก็ตามมาทำเรื่องเอาไว้$1#$e#พวกมันไม่มีพิษภัยอะไรหรอก... เว้นแต่ว่าเจ้าจะอยู่บนเรือ$0#$b#เจ้าจะช่วยเราได้มากเลย ถ้าจับพวกมันมาได้$1\""
+	  "65360193": "continue/-500 -500/farmer 5 9 0 Marley -30 -30 0/pause 500/viewport 5 6 true/skippable/move farmer 0 -3 0/pause 1000/faceDirection farmer 1 true/pause 1150/faceDirection farmer 0 true/pause 250/faceDirection farmer 3 true/pause 450/move farmer -1 0 3/pause 300/faceDirection farmer 0 true/pause 500/emote farmer 40/pause 400/playSound doorOpen/warp Marley 5 9/pause 500/speed Marley 1/move Marley 0 -1 0 true/pause 300/speak Marley \"เจ้าเป็นคน ช่างอยากรู้อยากเห็นสินะ$1\"/pause 350/faceDirection farmer 1 true/pause 250/faceDirection farmer 2 true/pause 250/emote farmer 16 true/pause 1500/faceDirection Marley 1 true/pause 1000/faceDirection Marley 0 true/pause 250/faceDirection Marley 3 true/pause 1100/faceDirection Marley 0 true/pause 500/speak Marley \"นี่เป็นห้องสำรอง เจ้าจะใช้มันแบบไหนก็ได้ แล้วแต่เจ้า$1#$b#ข้าคงพูดไม่ได้ว่า ที่นี่มันมีอะไรให้ทำมากมาย ก็มีแค่ไปคุยเล่นกับชาวบ้าน หาของป่า และตกปลา...$0#$b#ไปคุยกับข้าอีกทีที่ห้องโถงของกิลด์ มีบางอย่างที่เจ้า น่าจะทำให้พวกเราได้$1\"/pause 500/end dialogue Marley \"เจ้าเคยเห็นเทราต์ตอปิโด (torpedo trout) รึยัง? พวกนักเวทของอณาจักรโกโตโร เปลี่ยนปลานั่น ให้กลายเป็นอาวุธ...$0#$b#เกาะของเราคงจะเหมือนคอย เชื้อเชิญพวกมันให้เขามา พวกมันถูกดึงดูดมาด้วย ขุมพลังเวทมนตร์ที่เข้มข้น$0#$b#มันเป็นทางเดียวที่จะ ทำให้ท้องทะเลปลอดภัย และคอยเก็บกวาดสิ่งที่ ใครก็ตามมาทำเรื่องเอาไว้$1#$e#พวกมันไม่มีพิษภัยอะไรหรอก... เว้นแต่ว่าเจ้าจะอยู่บนเรือ$0#$b#เจ้าจะช่วยเราได้มากเลย ถ้าจับพวกมันมาได้$1\""
 	  }
 	},
 
@@ -27317,14 +27413,14 @@
 	  "ToArea": { "X": 71, "Y": 0, "Width": 8, "Height": 8 },
 	  "Update": "OnLocationChange"
     },
-
-	{
-	  //Lance 10 heart event - part 2
+	
+	{  
+	  //Lance 10 heart event - part 2 - "Life On Fable Reef"
       "Action": "EditData",
       "Target": "data/events/Custom_FableReef",
 	  "When": { "LocationContext": "Island", "Weather": "Sun" },
       "Entries": {
-      "65360195/e 65360194/f Lance 2500/t 600 1800": "tropical_island_day_ambient/-500 -500/farmer 32 44 1 Lance 44 44 2/addTemporaryActor LanceBeach 16 32 -102 -102 0/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Marley 16 32 -96 -96 2/addTemporaryActor TorpedoTroutActor1 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor2 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor3 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor4 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor5 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor6 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor7 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor8 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor9 21 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor10 21 32 -30 -30 2 false/addTemporaryActor CampfireActor 14 25 -30 -30 2 false/addTemporaryActor CoralActor 28 28 -25 -25 2 false/pause 850/skippable/viewport 39 44 true/viewport move 1 0 4000 true/move farmer 9 0 1 true/pause 2550/faceDirection Lance 3 true/pause 450/speak Lance \"อ้า ท่านมาแล้ว!$1\"/pause 400/speed Lance 1/move Lance -1 0 3/pause 500/speak Lance \"ท่านมาร์เลย์ใช้โทเทมดวงอาทิตย์ไป เพราะฉะนั้นวันนี้ จะไม่มีอะไร นอกจากท้องฟ้าอันแจ่มใส$0\"/pause 400/emote farmer 32/pause 300/speak Lance \"เรามาเริ่มจาก การลาดตระเวน บนเกาะปะการังเล่าขาน กันเถอะครับ$1\"/pause 350/globalFade/viewport -1000 -1000/stopMusic/pause 1250/playMusic moonlightJellies/pause 1500/warp Lance 35 23/faceDirection Lance 1 true/warp farmer 33 23/faceDirection farmer 1 true/makeInvisible 30 32 16 3/viewport 39 23 true/viewport move 1 0 7500 true/move Lance 15 0 1 true/move farmer 15 0 1 true/pause 5000/globalFade/viewport -1000 -1000/pause 500/warp Lance 44 58/faceDirection Lance 2 true/warp farmer 42 58/faceDirection farmer 2 true/positionOffset Lance -30 -10 true/positionOffset farmer 30 0 true/warp TorpedoTroutActor1 48 66/positionOffset TorpedoTroutActor1 0 0 true/speed TorpedoTroutActor1 5/move TorpedoTroutActor1 -80 0 3 true/warp TorpedoTroutActor2 50 61/positionOffset TorpedoTroutActor2 0 0 true/speed TorpedoTroutActor2 6/move TorpedoTroutActor2 -80 0 3 true/warp TorpedoTroutActor3 53 64/positionOffset TorpedoTroutActor3 0 0 true/speed TorpedoTroutActor3 6/move TorpedoTroutActor3 -80 0 3 true/warp TorpedoTroutActor4 60 62/positionOffset TorpedoTroutActor4 0 0 true/speed TorpedoTroutActor4 7/move TorpedoTroutActor4 -80 0 3 true/warp TorpedoTroutActor5 63 67/positionOffset TorpedoTroutActor5 0 0 true/speed TorpedoTroutActor5 6/move TorpedoTroutActor5 -80 0 3 true/warp TorpedoTroutActor6 67 63/positionOffset TorpedoTroutActor6 0 0 true/speed TorpedoTroutActor6 6/move TorpedoTroutActor6 -80 0 3 true/warp TorpedoTroutActor7 73 65/positionOffset TorpedoTroutActor7 0 0 true/speed TorpedoTroutActor7 6/move TorpedoTroutActor7 -80 0 3 true/warp TorpedoTroutActor8 76 61/positionOffset TorpedoTroutActor8 0 0 true/speed TorpedoTroutActor8 5/move TorpedoTroutActor8 -80 0 3 true/warp TorpedoTroutActor9 79 66/positionOffset TorpedoTroutActor9 0 0 true/speed TorpedoTroutActor9 6/move TorpedoTroutActor9 -80 0 3 true/warp TorpedoTroutActor10 83 63/positionOffset TorpedoTroutActor10 0 0 true/speed TorpedoTroutActor10 6/move TorpedoTroutActor10 -80 0 3 true/makeInvisible 35 53 19 7/viewport 43 62 clamp true/showFrame Lance 43 true/pause 2000/emote farmer 16 true/pause 1000/showFrame Lance 0 true/pause 2000/showFrame Lance 42 true/globalFade/viewport -1000 -1000/warp TorpedoTroutActor1 -100 -100/warp TorpedoTroutActor2 -100 -100/warp TorpedoTroutActor3 -100 -100/warp TorpedoTroutActor4 -100 -100/warp TorpedoTroutActor5 -100 -100/warp TorpedoTroutActor6 -100 -100/warp TorpedoTroutActor7 -100 -100/warp TorpedoTroutActor8 -100 -100/warp TorpedoTroutActor9 -100 -100/warp TorpedoTroutActor10 -100 -100/changeLocation Custom_FirstSlashGuild/warp CoralActor 7 18/positionOffset CoralActor -20 5 true/warp Lance 7 19/faceDirection Lance 3 true/warp farmer 6 19/faceDirection farmer 1 true/warp Marley 14 15/faceDirection Marley 2 true/warp Edmund 20 17/faceDirection Edmund 1 true/warp Drake 17 19/faceDirection Drake 3 true/warp Brianna 15 19/faceDirection Brianna 1 true/positionOffset Lance 11 29 true/positionOffset farmer 20 40 true/warp Gale 11 12/speed Gale 1/move Gale 0 10 2 true/viewport 8 19 true/pause 2000/shake Lance 500/textAboveHead Lance \"นี่คือวิธีการทำน้ำยาเพิมมานาของเรา!\"/pause 3000/faceDirection farmer 0 true/pause 750/faceDirection Lance 0 true/pause 1000/globalFade/viewport -1000 -1000/changeLocation Custom_FableReef/warp CoralActor -40 -40/warp Edmund -30 -30/warp Drake -30 -30/warp Marley 18 35/warp farmer 19 31/warp Brianna 26 31/warp Lance 18 33/faceDirection Brianna 1 true/faceDirection farmer 3 true/faceDirection Marley 3 true/faceDirection Lance 3 true/positionOffset Lance -20 10 true/positionOffset Marley -8 14 true/makeInvisible 17 29 9 9/positionOffset farmer 0 25 true/warp Gale -30 -30/viewport 22 32 clamp true/speed Brianna 1/move Brianna -4 0 3 true/pause 1500/shake Brianna 800/textAboveHead Brianna \"ไง!\"/pause 1000/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 2000/shake Brianna 400/textAboveHead Brianna \"ข้าได้ยินเรื่องเจ้าด้วยนะ!\"/pause 1800/animate farmer false false 6000 97/pause 500/globalFade/viewport -1000 -1000/stopAnimation farmer/pause 500/warp Lance 61 47/faceDirection Lance 0 true/positionOffset Lance -40 0 true/warp farmer 59 47/faceDirection farmer 0 true/positionOffset farmer -12 15 true/warp Gale 61 46/faceDirection Gale 3 true/positionOffset Gale 12 -5 true/warp Edmund 60 44/faceDirection Edmund 2 true/positionOffset Edmund 10 -3 true/warp Brianna 57 46/faceDirection Brianna 1 true/positionOffset Brianna 5 25 true/warp Drake 57 45/faceDirection Drake 1 true/positionOffset Drake 30 5 true/warp CampfireActor 59 46/positionOffset CampfireActor 32 -32 true/animate CampfireActor false true 150 0 1 2 3/ambientLight 120 150 130/addLantern 31 59 45 2/addLantern 31 60 45 2/addLantern 31 59 46 2/addLantern 31 60 46 2/makeInvisible 62 38 6 15/warp Marley 53 44/move Marley 6 0 2 true/viewport 52 39 true/viewport move 1 1 10000 true/pause 1000/textAboveHead Marley \"ตอนนี้ละ จุดไฟได้!\"/pause 750/shake Brianna 550/pause 950/shake Drake 450/pause 2500/faceDirection Lance 3 true/pause 1500/faceDirection farmer 1 true/pause 800/globalFade/viewport -1000 -1000/warp Marley -30 -30/warp Brianna -29 -29/warp Edmund -28 -28/warp Drake -27 -27/warp Gale -26 -26/warp farmer -25 -25/warp Lance -24 -24/warp CampfireActor -23 -23/changeLocation Custom_FirstSlashHallway/viewport 15 7 true/viewport move 1 0 6500 true/pause 4000/globalFade/viewport -1000 -1000/changeLocation Custom_FirstSlashGuestRoom/warp Lance 5 5/warp farmer 5 7/faceDirection Lance 2 true/faceDirection farmer 0 true/viewport 5 6 true/pause 1250/showFrame Lance 41 true/pause 150/shake Lance 500/pause 300/speak Lance \"*หาว* วันนี้สุดๆ ไปเลยนะครับ...$5\"/pause 800/showFrame Lance 0 true/pause 600/faceDirection Lance 1 true/pause 250/showFrame Lance 8 true/pause 1250/shake Lance 400/pause 390/playSound dwop/shake LanceBeach 350/warp LanceBeach 5 5/warp Lance -50 -50/pause 1000/faceDirection LanceBeach 1 true/pause 250/faceDirection LanceBeach 2 true/pause 900/speak Lance \"เอิ่มม เตียงนี้ มันเตียงเดี่ยว$7#$b#ข้าไม่รู้ว่า เรานอนกันได้ 2 คนมั้ย...$7\"/pause 1000/question fork0 \"(แลนซ์มีซิกแพคด้วย)#ถึงนอนไม่ได้ เราก็จะทำให้มันนอนได้นี่แหละ...#ฉันจะไปข้างนอก น่าสนุกจะตาย\"/fork 65360195_CuddleLance/pause 400/speak Lance \"*คิกคัก* ถ้าท่านอยากจะไป เดินทางปลอดภัยครับ$9#$b#ที่นี่ต้อนรับท่านเสมอ$7\"/pause 1000/globalFade/viewport -1000 -1000/pause 1500/end dialogue Lance \"???\""
+      "65360195/e 65360194/f Lance 2500/t 600 1800": "tropical_island_day_ambient/-500 -500/farmer 32 44 1 Lance 44 44 2/addTemporaryActor LanceBeach 16 32 -102 -102 0/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Marley 16 32 -96 -96 2/addTemporaryActor TorpedoTroutActor1 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor2 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor3 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor4 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor5 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor6 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor7 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor8 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor9 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor10 42 32 -30 -30 2 false/addTemporaryActor CampfireActor 14 25 -30 -30 2 false/addTemporaryActor CoralActor 28 28 -25 -25 2 false/pause 850/skippable/viewport 39 44 true/viewport move 1 0 4000 true/move farmer 9 0 1 true/pause 2550/faceDirection Lance 3 true/pause 450/speak Lance \"Ah, you're here!$1\"/pause 500/move Lance -1 0 3/pause 500/speak Lance \"Marley used a sun totem. There's nothing but clear skys today.$0\"/pause 400/emote farmer 32/pause 300/speak Lance \"Why don't we start by patrolling Fable Reef.$1\"/pause 350/globalFade/viewport -1000 -1000/stopMusic/playMusic moonlightJellies/pause 3000/warp Lance 35 23/faceDirection Lance 1 true/warp farmer 33 23/faceDirection farmer 1 true/makeInvisible 30 32 16 3/viewport 39 23 true/viewport move 1 0 7500 true/move Lance 15 0 1 true/move farmer 15 0 1 true/pause 5000/globalFade/viewport -1000 -1000/pause 1000/warp Lance 44 58/faceDirection Lance 2 true/warp farmer 42 58/faceDirection farmer 2 true/positionOffset Lance -30 -10 true/positionOffset farmer 30 0 true/warp TorpedoTroutActor1 48 66/positionOffset TorpedoTroutActor1 0 0 true/speed TorpedoTroutActor1 5/move TorpedoTroutActor1 -80 0 3 true/warp TorpedoTroutActor2 50 61/positionOffset TorpedoTroutActor2 0 0 true/speed TorpedoTroutActor2 6/move TorpedoTroutActor2 -80 0 3 true/warp TorpedoTroutActor3 53 64/positionOffset TorpedoTroutActor3 0 0 true/speed TorpedoTroutActor3 6/move TorpedoTroutActor3 -80 0 3 true/warp TorpedoTroutActor4 60 62/positionOffset TorpedoTroutActor4 0 0 true/speed TorpedoTroutActor4 7/move TorpedoTroutActor4 -80 0 3 true/warp TorpedoTroutActor5 63 67/positionOffset TorpedoTroutActor5 0 0 true/speed TorpedoTroutActor5 6/move TorpedoTroutActor5 -80 0 3 true/warp TorpedoTroutActor6 67 63/positionOffset TorpedoTroutActor6 0 0 true/speed TorpedoTroutActor6 6/move TorpedoTroutActor6 -80 0 3 true/warp TorpedoTroutActor7 73 65/positionOffset TorpedoTroutActor7 0 0 true/speed TorpedoTroutActor7 6/move TorpedoTroutActor7 -80 0 3 true/warp TorpedoTroutActor8 76 61/positionOffset TorpedoTroutActor8 0 0 true/speed TorpedoTroutActor8 5/move TorpedoTroutActor8 -80 0 3 true/warp TorpedoTroutActor9 79 66/positionOffset TorpedoTroutActor9 0 0 true/speed TorpedoTroutActor9 6/move TorpedoTroutActor9 -80 0 3 true/warp TorpedoTroutActor10 83 63/positionOffset TorpedoTroutActor10 0 0 true/speed TorpedoTroutActor10 6/move TorpedoTroutActor10 -80 0 3 true/makeInvisible 35 53 19 7/viewport 43 62 clamp true/showFrame Lance 43 true/pause 2000/emote farmer 16 true/pause 1000/showFrame Lance 0 true/pause 2000/showFrame Lance 42 true/globalFade/viewport -1000 -1000/warp TorpedoTroutActor1 -100 -100/warp TorpedoTroutActor2 -100 -100/warp TorpedoTroutActor3 -100 -100/warp TorpedoTroutActor4 -100 -100/warp TorpedoTroutActor5 -100 -100/warp TorpedoTroutActor6 -100 -100/warp TorpedoTroutActor7 -100 -100/warp TorpedoTroutActor8 -100 -100/warp TorpedoTroutActor9 -100 -100/warp TorpedoTroutActor10 -100 -100/changeLocation Custom_FirstSlashGuild/warp CoralActor 7 18/positionOffset CoralActor -20 5 true/warp Lance 7 19/faceDirection Lance 3 true/warp farmer 6 19/faceDirection farmer 1 true/warp Marley 14 15/faceDirection Marley 2 true/warp Edmund 20 17/faceDirection Edmund 1 true/warp Drake 17 19/faceDirection Drake 3 true/warp Brianna 15 19/faceDirection Brianna 1 true/positionOffset Lance 11 29 true/positionOffset farmer 20 40 true/warp Gale 11 14/speed Gale 1/move Gale 0 9 2 true/viewport 8 19 true/pause 2000/shake Lance 500/textAboveHead Lance \"This is how we make mana elixirs!\"/pause 3000/faceDirection farmer 0 true/pause 750/faceDirection Lance 0 true/pause 1000/globalFade/viewport -1000 -1000/changeLocation Custom_FableReef/warp CoralActor -40 -40/warp Edmund -30 -30/warp Drake -30 -30/warp Marley 18 35/warp farmer 19 31/warp Brianna 26 31/warp Lance 18 33/faceDirection Brianna 1 true/faceDirection farmer 3 true/faceDirection Marley 3 true/faceDirection Lance 3 true/positionOffset Lance -20 10 true/positionOffset Marley -8 14 true/makeInvisible 17 29 9 9/positionOffset farmer 0 25 true/warp Gale -30 -30/viewport 22 32 clamp true/speed Brianna 1/move Brianna -4 0 3 true/pause 1500/shake Brianna 800/textAboveHead Brianna \"Hey!\"/pause 1000/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 2000/shake Brianna 400/textAboveHead Brianna \"I've heard about you!\"/pause 1800/animate farmer false false 6000 97/pause 500/globalFade/viewport -1000 -1000/stopAnimation farmer/pause 500/warp Lance 61 47/faceDirection Lance 0 true/positionOffset Lance -40 0 true/warp farmer 59 47/faceDirection farmer 0 true/positionOffset farmer -12 15 true/warp Gale 61 46/faceDirection Gale 3 true/positionOffset Gale 12 -5 true/warp Edmund 60 44/faceDirection Edmund 2 true/positionOffset Edmund 10 -3 true/warp Brianna 57 46/faceDirection Brianna 1 true/positionOffset Brianna 5 25 true/warp Drake 57 45/faceDirection Drake 1 true/positionOffset Drake 30 5 true/warp CampfireActor 59 46/positionOffset CampfireActor 32 -32 true/animate CampfireActor false true 150 0 1 2 3/ambientLight 120 150 130/addLantern 31 59 45 2/addLantern 31 60 45 2/addLantern 31 59 46 2/addLantern 31 60 46 2/makeInvisible 62 38 6 15/warp Marley 53 44/move Marley 6 0 2 true/viewport 52 39 true/viewport move 1 1 10000 true/pause 1000/textAboveHead Marley \"Now that's a fire!\"/pause 750/shake Brianna 550/pause 950/shake Drake 450/pause 2500/faceDirection Lance 3 true/pause 1500/faceDirection farmer 1 true/pause 800/globalFade/viewport -1000 -1000/warp Marley -30 -30/warp Brianna -29 -29/warp Edmund -28 -28/warp Drake -27 -27/warp Gale -26 -26/warp farmer -25 -25/warp Lance -24 -24/warp CampfireActor -23 -23/changeLocation Custom_FirstSlashHallway/viewport 15 7 true/viewport move 1 0 6500 true/pause 4000/globalFade/viewport -1000 -1000/changeLocation Custom_FirstSlashGuestRoom/warp Lance 5 5/warp farmer 5 7/faceDirection Lance 2 true/faceDirection farmer 0 true/viewport 5 6 true/pause 1250/showFrame Lance 41 true/pause 150/shake Lance 500/pause 300/speak Lance \"*yawn* What a day...$5\"/pause 800/showFrame Lance 0 true/pause 600/faceDirection Lance 1 true/pause 250/showFrame Lance 8 true/pause 1250/shake Lance 400/pause 390/playSound dwop/shake LanceBeach 350/warp LanceBeach 5 5/warp Lance -50 -50/pause 1000/faceDirection LanceBeach 1 true/pause 250/faceDirection LanceBeach 2 true/pause 900/speak Lance \"Err. The bed here is a single.$7#$b#I don't know if we'll both fit...$7\"/pause 1000/question fork0 \"(Lance has a 6-pack)#I think we could make it work...#I'm going to head out. This was fun.\"/fork 65360195_CuddleLance/pause 400/speak Lance \"*chuckle* If you wish. Safe travels.$9#$b#You're always welcome here.$7\"/pause 1000/globalFade/viewport -1000 -1000/pause 1500/end dialogue Lance \"???\""
 	  }
     },
 
@@ -27346,54 +27442,54 @@
       "65360196/k 65360195/e 65360194/f Lance 2500/t 1810 2600": "spring_night_ambient/-500 -500/farmer 36 43 1 Lance 44 43 2/pause 500/viewport 43 43 true/move farmer 6 0 1 true/pause 1500/faceDirection Lance 3 true/pause 1000/speak Lance \"*คิกคัก* ท่านมาสายน้า...$5\"/pause 500/emote farmer 28/pause 500/speak Lance \"งั้นไว้เรานัดกันใหม่อีกที วันหน้า ที่ท้องฟ้าแจ่มใสละกัน ดีมั้ยครับ?$2#$b#มาที่นี่ด้วยความสดใส ตั้งแต่เช้าตรู่$0\"/pause 500/end dialogue Lance \"ข้าก็เฝ้ารอที่จะ ได้ใช้เวลาทั้งวันกับท่าน ที่เกาะปะการังเล่าขาน$2\""
 	  }
     },
-
-	{
-      "Action": "Load", //21x32
+	
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor1",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor1.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor2",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor2.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor3",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor3.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor4",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor4.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor5",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor5.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor6",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor6.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor7",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor7.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor8",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor8.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor9",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor9.png"
     },
-	{
-      "Action": "Load", //21x32
+	{  
+      "Action": "Load", //42x32
 	  "Target": "Characters/TorpedoTroutActor10",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/TorpedoTroutActor10.png"
     },
@@ -27407,10 +27503,306 @@
 	  "Target": "Characters/CoralActor",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/CoralActor.png"
     },
+	
+	
+	{  
+	  //Lance 12 heart event - part 1 - "The Return Scepter"
+      "Action": "EditData",
+      "Target": "Data/Events/farmhouse",
+	  "When": { "FarmhouseUpgrade": 3, "HasFlag": "ReturnScepter" },
+      "Entries": {
+        "65360197/O Lance/f Lance 3000/t 2000 2600": "none/-500 -500/farmer 14 14 3 Lance 7 14 0/addMailReceived LanceMeetsKrobus/skippable/makeInvisible 7 14 8 1/pause 1000/viewport 7 14 true/move farmer -5 0 3/pause 800/faceDirection Lance 1 true/pause 500/speak Lance \"Good evening, my love.$1\"/pause 300/emote farmer 20/pause 500/speak Lance \"I've been meaning to ask you a question...$0\"/pause 300/emote farmer 8/pause 450/move Lance 1 0 1/pause 500/speak Lance \"Where did you find your 'Return Scepter'? It's a very powerful magic relic.$0\"/pause 600/emote farmer 40/pause 100/emote farmer 40/speak Lance \"*chuckle* You humor me...$5\"/pause 2000/speak Lance \"You're... not joking, are you?$6\"/pause 650/showFrame farmer 97 true/pause 300/emote farmer 40/pause 100/emote farmer 40/pause 200/showFrame farmer 6 true/pause 500/speak Lance \"You befriended a shadow person in the sewers named 'Krobus'?$6#$b#Who else knows about this?$6\"/pause 500/emote farmer 40/pause 250/speak Lance \"Hmm. I see...$5#$b#Well, I would very much like to meet this 'Krobus' first thing tomorrow morning.$0\"/pause 300/emote farmer 32/pause 200/globalFade/viewport -1000 -1000/pause 500/end dialogue Lance \"Apologies if I seem skeptical.$6#$e#I've only known shadow people to blindly attack anyone in their line of sight...$6\""
+		}
+    },
+	
+	{  
+	  //Lance 12 heart event - part 2 - "The Shadow Person In The Sewers"
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+	  "When": { "HasFlag": "LanceMeetsKrobus" },
+      "Entries": {
+        "65360198/O Lance": "continue/-500 -500/farmer 34 101 0 Lance 35 101 0 Krobus -30 -30 2 MarlonFay -50 -50 2/addConversationTopic LanceMetKrobus 10/skippable/showFrame MarlonFay 300/move farmer 0 -4 0 true/pause 350/viewport 35 97 true/move Lance 0 -4 0 true/pause 3000/faceDirection farmer 1 true/pause 850/faceDirection Lance 3 true/pause 750/speak Lance \"In here?$0\"/pause 500/jump farmer/pause 1500/faceDirection farmer 0 true/pause 750/faceDirection Lance 0 true/pause 400/showFrame farmer 13 true/pause 200/startJittering/pause 200/playSound trashcanlid/pause 450/stopJittering/pause 200/showFrame farmer 12 true/pause 1000/playSound stairsdown/warp farmer -20 -20/pause 1100/warp Lance -20 -20/playSound stairsdown/pause 1000/globalFade/viewport -1000 -1000/playMusic Icicles/changeLocation Sewer/warp Lance 24 21/warp farmer 26 21/warp Krobus 31 16/viewport 31 19 true/move farmer 4 0 0 true/move Lance 8 0 0 true/pause 2000/move farmer 0 -2 0 true/pause 2050/move Lance 0 -2 0 true/pause 1000/emote Lance 16/pause 200/move Krobus 0 1 2/pause 650/shake Krobus 600/pause 600/speak Krobus \"*sniff* *sniff* Oh, you must be @'s life partner! You smell awful like them.$0\"/pause 400/speak Lance \"Your senses are sharp.$0#$b#It's a pleasure and honor to make your acquaintance. My name is Lance.$1\"/pause 500/speak Krobus \"I'm Krobus, a merchant of unusual and intriguing goods.$1\"/pause 250/faceDirection farmer 1 true/pause 750/faceDirection Lance 3 true/pause 1425/faceDirection farmer 0 true/pause 500/faceDirection Lance 0 true/pause 250/speak Lance \"I must say, I didn't fully believe @ when they spoke of you.$1#$b#I've encountered many shadow people throughout my travels but none as welcoming such as yourself.$0\"/pause 300/shake Krobus 500/pause 400/speak Krobus \"I'm sorry you've had bad run-ins with my kind...$2#$b#I assure you I'm nothing like them.$0\"/pause 500/speak Lance \"They've never brought harm to me personally. I'm simply an observer of the unknowns.$0#$b#*chuckle* And yes, you are quite different. I'd even say 'special'.$1\"/pause 500/speed Lance 1/move Lance 0 -2 0 true/pause 1200/faceDirection Krobus 1 true/pause 1000/faceDirection Lance 3 true/pause 650/emote Lance 40/pause 200/speak Lance \"You're small compared to the average shadow person...$6#$b#Are you getting enough to eat down here?$2\"/pause 400/jump Krobus/pause 600/speak Krobus \"Oh, yes! I get to feast on so many juicy flies!$1#$b#And humans leave treasure troves of tasty food in strange bins outside.$7\"/pause 300/shake Lance 500/pause 400/speak Lance \"That's no meal for a shadow person of your stature.$0#$b#Let me get something for you.$1\"/pause 650/faceDirection Lance 2 true/pause 500/showFrame Lance 41 true/pause 400/shake Lance 400/pause 400/screenFlash 1/warp Lance -30 -30/playSound wand/pause 1500/faceDirection Krobus 2 true/speak Krobus \"He seems nice.$0\"/pause 400/emote farmer 32/pause 350/screenFlash 1/playSound wand/warp Lance 32 19/pause 500/faceDirection farmer 1 true/pause 400/showFrame Lance 0 true/pause 600/faceDirection Lance 3 true/pause 250/faceDirection Lance 0 true/pause 500/speak Lance \"I have something for you.$0\"/pause 500/move Lance 0 -1 3/pause 500/showFrame Lance 15 true/pause 250/shake Lance 500/pause 150/playSound slime/addObject 31 17 {{spacechase0.JsonAssets/ObjectId:Void Root}}/warp MarlonFay 31 17/positionOffset MarlonFay -19 16 true/pause 250/showFrame Lance 12 true/pause 600/faceDirection Lance 2 true/pause 250/move Lance 0 1 2/pause 250/faceDirection Lance 3 true/pause 250/faceDirection Lance 0 true/pause 800/showFrame Krobus 17 true/pause 350/emote Krobus 8/pause 500/shake Krobus 600/pause 200/showFrame Krobus 18 true/pause 400/playSound eat/removeSprite 31 17/warp MarlonFay -50 -50/pause 750/showFrame Krobus 17 true/pause 300/showFrame Krobus 0 true/pause 600/speak Krobus \"...$3\"/pause 650/shake Krobus 500/pause 500/animate Krobus false true 200 20 21 22 23/pause 1000/emote Krobus 20 true/pause 1500/end dialogue Lance \"Krobus and I are both very curious about the other's species. I believe we can learn a lot from each other.$0#$b#We've arranged to meet on the 10th and 24th of each season under the cover of darkness at the sewer gate, below Fairhaven Farm.$1#$e#*chuckle* Thank you for introducing me to them.$5#$b#I never could have imagined any of this would be possible.$1#$e#Life can find a strange way to surprise you...$0\""    
+		}
+    },
+
+	{
+	  "Action": "EditData",
+	  "Target": "Characters/Dialogue/MarlonFay",
+	  "Entries": {
+      "LanceMetKrobus": "Hmm? You unveiled Krobus to Lance?$0#$e#I suppose it was only a matter of time.$0",
+	  }
+    },
+	
+	{
+	  "Action": "EditData",
+	  "Target": "Characters/Dialogue/Krobus",
+	  "Entries": {
+      "LanceMetKrobus": "Void roots are delicious. I hope I get more soon.$1#$e#Your life partner is a kind person.$0",
+	  }
+    },
+	
+    {  
+	   //Patches lantern at Lance and Krobus meet
+       "Action": "EditMap",
+       "Target": "Maps/Forest",
+       "FromFile": "Assets/Maps/MapPatches/LanceLantern.tbin",
+	   "When": { "Time": "{{Range: 2000, 2600}}", "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198"  },
+       "ToArea": { "X": 97, "Y": 92, "Width": 1, "Height": 1 },
+	   "Update": "OnLocationChange"
+    },
+	
+	{
+	   //Patches light at Lance and Krobus meet
+       "Action": "EditMap",
+       "Target": "Maps/Forest",
+       "When": { "Time": "{{Range: 2000, 2600}}", "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	   "Update": "OnLocationChange",
+       "TextOperations": [
+      {
+       "Operation": "Append",
+       "Target": [ "MapProperties", "Light" ],
+       "Value": "97 92 4",
+       "Delimiter": " "
+      },
+     ]
+    },
 
 
-    //*continue
-	//Lance 12 heart
+
+     //New schedules and dialogue are added to Lance after players see his 12 heart event
+
+	{    
+	  //Lance meets with Krobus Schedule 1
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.001\"/2550 Forest 96 91 1",
+	  }
+    },	
+	
+	{
+	  //Lance meets with Krobus dialogue 1
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "Krobus and I are meeting today.$0#$e#I'm leaving at 5:00pm.$1",
+        }
+	},
+	
+	{    
+	  //Lance meets with Krobus Schedule 2
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.002\"/2550 Forest 96 91 1",
+	  }
+    },
+	
+	{
+	  //Lance meets with Krobus dialogue 2
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 24", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "Shadow people never slumber. I wonder what that's like.$6#$e#I'm meeting with Krobus tonight.$0",
+        }
+	},
+	
+	{    
+	  //Lance meets with Krobus Schedule 3
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.003\"/2550 Forest 96 91 1",
+	  }
+    },
+	
+	{
+	  //Lance meets with Krobus dialogue 3
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "I look forward to learning more about the shadow people this evening.$1#$e#What adventurers have you gone on recently?$0",
+        }
+	},
+	
+	{    
+	  //Lance meets with Krobus Schedule 4
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.004\"/2550 Forest 96 91 1",
+	  }
+    },
+	
+	{
+	  //Lance meets with Krobus dialogue 4
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 24", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "Hello, my love.$0#$b#I have business with Krobus this evening.$1#$e#If you're inclined, you can meet us at our usual location at 8:00pm...$5",
+        }
+	},
+	
+	{    
+	  //Lance meets with Krobus Schedule 5
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.005\"/2550 Forest 96 91 1",
+	  }
+    },
+	
+	{
+	  //Lance meets with Krobus dialogue 5
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "I'm visiting 'you know who' tonight by the sewer gate.$0",
+        }
+	},
+	
+	{    
+	  //Lance meets with Krobus Schedule 6
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.006\"/2550 Forest 96 91 1",
+	  }
+    },
+	
+	{
+	  //Lance meets with Krobus dialogue 6
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 24", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "I hope something really great happens to you today.$0",
+        }
+	},
+	
+	{    
+	  //Lance meets with Krobus Schedule 7
+	  "Action": "EditData",
+	  "Target": "characters/schedules/Lance",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+	  "Entries": {
+	    "marriage_Wed": "1700 Forest 96 91 1 \"Strings\\schedules\\Lance:KrobusDialogue.007\"/2550 Forest 96 91 1",
+	  }
+    },
+	
+	{
+	  //Lance meets with Krobus dialogue 7
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+      "funLeave_Lance": "%Lance is packing void roots into a satchel.#$e#Hmm... is three enough?$6",
+        }
+	},
+	
+	{
+      //Krobus' new sprites
+      "Action": "EditImage",
+      "Target": "Characters/Krobus",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Krobus/Krobus.png",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198", "LocationName": "Forest" },
+	  "Update": "OnLocationChange"
+    },
+
+	{
+      //Krobus' Schedule
+      "Action": "Load",
+      "Target": "Characters/schedules/Krobus",
+	  "When": { "Spouse": "Lance", "Day": "10, 24", "HasSeenEvent": "65360198" },
+      "FromFile": "assets/CharacterFiles/Schedules/Krobus/Schedule.json"
+    },
+	
+	
+	{
+      //Krobus' doesn't meet with Lance on the 24th
+      "Action": "EditData",
+      "Target": "Characters/Schedules/Krobus",
+	  "When": { "Spouse": "Lance", "Day": "24", "Season": "Winter", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Wed": "0 Custom_Krobus_WarpRoom 3 3 2/1940 Forest 97 90 2"
+	  },
+    },
+
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Spring 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "We're different in so many ways... but that's alright.$0"
+	  },
+    },
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Spring 24", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "I've learned a lot of new things about humans.$0#$e#You are not all as strange as you seem.$0"
+	  },
+    },
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Summer 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "I hold great sentimental value in the return scepter I sold you.$0#$e#I've used it to escape many times... but now I have no reason to.$0#$b#This place is my home.$1"
+	  },
+    },
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Summer 24", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "Sometimes I pause and think of all that I've learned about humans from you and Lance...$0#$e#I wish all my fellow shadow people could know this feeling.$0"
+	  },
+    },
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Fall 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "It's rare that I can step outside!$1#$e#Wide open spaces still make me nervous though..$0#$e#The fresh air is nice.%0#$e#I wish I could feel the breeze.$0#$e#It sounds so nice.$0"
+	  },
+    },
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Fall 24", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "I have friends migrating to new homes soon.$1"
+	  },
+    },
+	{
+      //Krobus' dialogue
+      "Action": "EditData",
+      "Target": "Characters/dialogue/Krobus",
+	  "When": { "Date": "Winter 10", "HasSeenEvent": "65360198" },
+      "Entries": {
+	    "Forest_98_91": "%Krobus is snacking on void roots.#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#Oh. Hi.$0#$e#%Krobus continues eating.#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*#$e#%*slurp*#$e#%*chomp*#$e#%*munch*"
+	  },
+    },
+
 
 
       //ALESIA NPC
@@ -31424,17 +31816,42 @@
 	}
 },
 
-{    //Buying Aurora Vineyard - part 1
+{    //Buying Aurora Vineyard - part 1 (Grandpa's Farm isn't installed)
 	 "Action": "EditData",
 	 "Target": "data/events/farm",
-	 "When": { "HasSeenEvent": "5553214" }, //Player has visited Joja Emporium at least once, player has visited Morris' townhouse at least once, must be sunny, must be a Tuesday, must be host player
+	 "When": { "HasSeenEvent": "5553214", "HasMod|contains=flashshifter.GrandpasFarm": false, "FarmType": "Standard" }, //Player has visited Joja Emporium at least once, player has visited Morris' townhouse at least once, must be sunny, must be a Tuesday, must be host player
 	 "Entries": {
 	 "746153081/e 6663409/u 2 9 16 23/t 600 1000/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1250/speak MorrisTod \"อรุณสวัสดิ์ @$0#$b#ผมมีเรื่องที่อยากจะบอก เผื่อว่าคุณจะสนใจ... ที่จะซื้อไร่องุ่นออโรร่า$4\"/pause 400/emote farmer 16/pause 200/speak MorrisTod \"ลองคิดดูก่อนก็ได้ แล้วบอกให้ผมรู้อีกทีละกัน ถ้าคุณตัดสินใจยังไง$0#$b#มันราคาแพงก็จริง แต่ผมว่าคุ้มที่จะลงทุน โดยเฉพาะกับคนอย่างคุณ$4\"/globalFade/viewport -1000 -1000/pause 1000/question fork0 \"ฉันจะซื้อไร่องุ่นออโรร่า ดีมั้ยนะ?#ซื้อเลย#ไม่เอาอ่ะ\"/fork 746153081_PurchasedAuroraVineyard/pause 1000/message \"เอาล่ะ ฉันจะไม่ซื้อไร่องุ่นออโรร่าหรอก ฉันจะไปบอกให้มอร์ริสรู้\"/pause 500/end dialogue MorrisTod \"อา คุณไม่อยากซื้อ ไร่องุ่นออโรร่าหรอ? งั้นก็ไม่เป็นไร#$b#แอนดี้โชคไม่ดีเท่าไหร่ ที่คุณสมบัติของเขา ไม่ตรงตามเงื่อนไข และโซเฟียก็มีงานของเธอ อยู่ล้นมือแล้ว$0#$b#ส่วนซูซานไม่สนใจข้อความ ที่ผมส่งไป...$3#$e#ผมคิดว่าอาคารนี้ ตงจะต้องถูกปล่อยร้าง อย่างนี้ต่อไปแหละ...$0#$b#จะมีใครมีไอเดียเจ๋งๆ ที่จะทำให้มัน ไปไกลกว่านี้ได้มั้ยเนี่ย?\"",
 
 	 "746153081_PurchasedAuroraVineyard": "pause 400/addMailReceived PlayerWillBuyAuroraVineyard/pause 100/message \"All right. I'll purchase Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"อา คุณสนใจที่จะซื้อ ไร่องุ่นออโรร่าหรอครับเนี่ย?$4#$b#ไปเจอผมที่ร้านโจจ้า เราจะได้คุยรายละเอียดกัน...$0#$e#แอนดี้โชคไม่ดีเท่าไหร่ ที่คุณสมบัติของเขา ไม่ตรงตามเงื่อนไข และโซเฟียก็มีงานของเธอ อยู่ล้นมือแล้ว$0#$b#่วนซูซานไม่สนใจข้อความ ที่ผมส่งไป...$3\""
-
+    
 	},
 },
+
+{    //Buying Aurora Vineyard - part 1 (Grandpa's Farm is installed - Bought more farm land) 
+	 "Action": "EditData",
+	 "Target": "data/events/farm",
+	 "When": { "HasSeenEvent": "5553214", "HasMod|contains=flashshifter.GrandpasFarm": true, "HasFlag": "DeedOfLand", "FarmType": "Standard" }, //Player has visited Joja Emporium at least once, player has visited Morris' townhouse at least once, must be sunny, must be a Tuesday, must be host player
+	 "Entries": {
+	 "746153081/e 6663409/u 2 9 16 23/t 600 1000/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1250/speak MorrisTod \"Good morning, @.$0#$b#I wanted to ask if you'd be interested in... purchasing Aurora Vineyard.$4\"/pause 400/emote farmer 16/pause 200/speak MorrisTod \"Ponder about it and let me know what you decide.$0#$b#It'll be expensive, but it's a worthy investment for someone like yourself.$4\"/globalFade/viewport -1000 -1000/pause 1000/question fork0 \"Am I interested in buying Aurora Vineyard?#Yes#No\"/fork 746153081_PurchasedAuroraVineyard/pause 1000/message \"All right. I'm not purchasing Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"Ah, you don't want to purchase the vineyard? All right.#$b#Andy unfortunately didn't meet the application requirements and Sophia has too much work on her plate.$0#$b#Susan ignored my messages...$3#$e#I suppose the building will continue rotting away out there...$0#$b#Who's bright idea was it to build it so far away anyway?\"",
+	  
+	 "746153081_PurchasedAuroraVineyard": "pause 400/addMailReceived PlayerWillBuyAuroraVineyard/pause 100/message \"All right. I'll purchase Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"Ah, you're interested in purchasing Aurora Vineyard?$4#$b#Meet me at Joja Mart so we may discuss the details...$0#$e#Andy unfortunately didn't meet the application requirements and Sophia has too much work on her plate.$0#$b#Susan ignored my messages...$3\""
+    
+	},
+},
+
+{    //Buying Aurora Vineyard - part 1 (Grandpa's Farm is installed - Did not buy more farm land) 
+	 "Action": "EditData",
+	 "Target": "data/events/farm",
+	 "When": { "HasSeenEvent": "5553214", "HasMod|contains=flashshifter.GrandpasFarm": true, "HasSeenEvent|contains=8033858": true, "HasFlag|contains=PlayerWillExpandFarm": false, "FarmType": "Standard" }, //Player has visited Joja Emporium at least once, player has visited Morris' townhouse at least once, must be sunny, must be a Tuesday, must be host player
+	 "Entries": {
+	 "746153081/e 6663409/u 2 9 16 23/t 600 1000/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1250/speak MorrisTod \"Good morning, @.$0#$b#I wanted to ask if you'd be interested in... purchasing Aurora Vineyard.$4\"/pause 400/emote farmer 16/pause 200/speak MorrisTod \"Ponder about it and let me know what you decide.$0#$b#It'll be expensive, but it's a worthy investment for someone like yourself.$4\"/globalFade/viewport -1000 -1000/pause 1000/question fork0 \"Am I interested in buying Aurora Vineyard?#Yes#No\"/fork 746153081_PurchasedAuroraVineyard/pause 1000/message \"All right. I'm not purchasing Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"Ah, you don't want to purchase the vineyard? All right.#$b#Andy unfortunately didn't meet the application requirements and Sophia has too much work on her plate.$0#$b#Susan ignored my messages...$3#$e#I suppose the building will continue rotting away out there...$0#$b#Who's bright idea was it to build it so far away anyway?\"",
+	  
+	 "746153081_PurchasedAuroraVineyard": "pause 400/addMailReceived PlayerWillBuyAuroraVineyard/pause 100/message \"All right. I'll purchase Aurora Vineyard. I should let Morris know.\"/pause 500/end dialogue MorrisTod \"Ah, you're interested in purchasing Aurora Vineyard?$4#$b#Meet me at Joja Mart so we may discuss the details...$0#$e#Andy unfortunately didn't meet the application requirements and Sophia has too much work on her plate.$0#$b#Susan ignored my messages...$3\""
+    
+	},
+},
+
 
 {    //Player decided to purchase aurora vineyard   ----> Allows ledger shop and special order to load
 	 "Action": "EditData",
@@ -36791,16 +37208,12 @@
      "spring_18": "610 ManorHouse 7 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
      "summer_4": "610 ManorHouse 8 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
      "summer_11": "610 ManorHouse 7 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
-     "summer_18": "700 ManorHouse 7 5 0/920 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
      "summer_25": "610 ManorHouse 7 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
-     "fall_4": "700 ManorHouse 7 5 0/920 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
      "fall_11": "610 ManorHouse 7 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
      "fall_18": "620 ManorHouse 6 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
      "fall_25": "610 ManorHouse 8 5 0/730 Town 107 100 0/1000 Town 104 104 0/1100 Town 99 100 2/1200 Town 100 68 0/1400 Town 38 14 0/1800 ManorHouse 3 6 0/2100 ManorHouse 22 4 1 lewis_sleep",
      "winter_4": "700 ManorHouse 7 5 0/900 ManorHouse 2 6 0/1100 Town 47 87 0/1700 ManorHouse 7 5 0/2000 ManorHouse 19 9 3/2200 ManorHouse 21 4 lewis_sleep",
-     "winter_11": "650 ManorHouse 8 5 0/910 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
      "winter_18": "640 ManorHouse 6 5 0/900 ManorHouse 2 6 0/1100 Town 47 87 0/1700 ManorHouse 7 5 0/2000 ManorHouse 19 9 3/2200 ManorHouse 21 4 lewis_sleep",
-     "winter_25": "700 ManorHouse 7 5 0/920 ManorHouse 2 6 0/1000 Summit 13 18 0/1800 ManorHouse 21 4 lewis_sleep",
 	 "3": "800 ManorHouse 8 5 0/1000 AnimalShop 13 16 0 \"Strings\\schedules\\Lewis:3.000\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1 lewis_sleep",
 	 "6": "800 ManorHouse 8 5 0/1000 Blacksmith 4 15 0 \"Strings\\schedules\\Lewis:6.000\"/1300 ArchaeologyHouse 6 10 0 \"Strings\\schedules\\Lewis:6.001\"/1600 ManorHouse 7 5 0 square_5_1_0/2100 ManorHouse 3 6 0/2200 ManorHouse 22 4 1"
 	 },
@@ -37001,6 +37414,8 @@
 	 "Target": "characters/schedules/Harvey",
 	 "Entries": {
      "21": "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1340 Hospital 2 5 0/1730 HarveyRoom 11 5 3 harvey_read/2200 HarveyRoom 13 4 1 harvey_sleep",
+	 "summer": "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1200 Town 30 34 2 square_7_5/1730 Hospital 9 15 3/1840 HarveyRoom 11 5 3 harvey_read/2200 HarveyRoom 13 4 1 harvey_sleep",
+     "spring": "700 HarveyRoom 21 7 0/830 Hospital 6 15 2/1200 Town 10 64 2 square_5_5/1730 Hospital 9 15 3/1840 HarveyRoom 11 5 3 harvey_read/2200 HarveyRoom 13 4 1 harvey_sleep"
      },
 },
 
@@ -38492,12 +38907,286 @@
 	},
 },
 
+
+{ 
+	  //Void Soul Retrieval quest
+      "Action": "EditData",
+      "Target": "Data/SpecialOrders",
+      "Update": "OnLocationChange",
+      "Entries": {
+      "Krobus": {
+        "Name": "[Krobus_Name]",
+        "Requester": "Krobus",
+        "Duration": "Month",
+        "Repeatable": "False",
+        "RequiredTags": "event_1090505",
+        "OrderType": "",
+        "SpecialRule": "",
+        "Text": "[Krobus_Text]",
+        "ItemToRemoveOnEnd": null,
+        "MailToRemoveOnEnd": null,
+        "RandomizedElements": null,
+        "Objectives": [
+          {
+            "Type": "Deliver",
+            "Text": "[Krobus_Objective_1_Text]",
+            "RequiredCount": "50",
+            "Data": {
+              "AcceptedContextTags": "item_void_soul",
+              "TargetName": "Krobus"
+            }
+          },
+        ],
+        "Rewards": [
+          {
+            "Type": "Mail",
+            "Data": {
+              "MailReceived": "GaveVoidSouls"
+          }
+	     }
+        ]
+      },
+     },
+    },
+
+    {   
+      "Action": "EditData",
+      "Target": "Strings/SpecialOrderStrings",
+      "Entries": {
+      "Krobus_Name": "Void Soul Retrieval",
+      "Krobus_Text": "A powerful shadow shaman wants peace. They can use ancient magic to fix \"wrongs\"... I can find want they want at the Crimson Badlands.",
+      "Krobus_Objective_1_Text": "Deliver 60 'Void Souls' to Krobus.",
+	    }
+    },
+
+	{  
+	  //Krobus 10 heart - part 1    <<ID tagged by quest
+      "Action": "EditData",
+      "Target": "Data/Events/Farm",
+	  "When": { "HasSeenEvent": "908079", "HasFlag": "Gil_Savage Ring", "Season|contains=Winter": false }, //Crimson Badlands unlocked, savage ring was obtained (player slayed 150 shadow people), not winter
+      "Entries": {
+        "1090505/e 691039/f Krobus 2500/t 2000 2600": "spring_night_ambient/-500 -500/farmer -20 -20 0 Krobus -21 -21 0/skippable/pause 1200/speak Krobus \"'Friends' are visiting me tomorrow. They want to meet you.$0#$b#Drop by my home in the sewers, okay?$1\"/pause 1000/end dialogue Krobus \"I get the feeling something serious is going on...$0\""
+		}
+    },
+	
+	{  
+	  //Krobus 10 heart - part 2 - 'The Shaman'    <<ID tagged by framework
+      "Action": "EditData",
+      "Target": "Data/Events/Sewer",
+	  "When": { "HasSeenEvent": "1090505" },
+      "Entries": {
+        "1090506": "continue/-500 -500/farmer 22 21 1 Krobus 30 17 1/addTemporaryActor ShadowBruteLargeActor1 16 32 21 20 2/addTemporaryActor ShadowBruteLargeActor2 16 32 30 22 0/addTemporaryActor ShadowBruteActor1 16 32 24 22 0/addTemporaryActor ShadowBruteActor2 16 32 27 20 2/addTemporaryActor ShadowBruteActor3 16 32 31 15 2/addTemporaryActor ShadowBruteActor4 16 32 34 21 3/addTemporaryActor Nyx 16 32 32 17 3/positionOffset ShadowBruteActor3 -10 -10 true/pause 1250/skippable/viewport 27 21 true/viewport move 1 0 4500 true/move farmer 9 0 0 true/pause 1000/playSound shadowpeep/pause 600/playSound shadowpeep/pause 350/faceDirection ShadowBruteLargeActor1 1 true/pause 350/playSound shadowpeep/pause 500/playSound shadowpeep/pause 500/playSound shadowpeep/pause 450/faceDirection ShadowBruteLargeActor1 2 true/pause 450/playSound shadowpeep/pause 250/move farmer 0 -2 0 true/viewport move 0 -1 2000 true/pause 500/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 1300/playSound shadowpeep/faceDirection Nyx 2 true/pause 650/faceDirection Krobus 2 true/pause 500/playSound shadowpeep/pause 500/speak Krobus \"@. This is Nyx. They have something important to share with you.$0#$b#I'll be their interpreter!$1\"/pause 1000/shake Nyx 800/playSound shadowpeep/pause 600/playSound shadowpeep/faceDirection Krobus 1 true/pause 500/playSound shadowpeep/pause 600/playSound shadowpeep/pause 500/faceDirection Krobus 2 true/pause 500/speak Krobus \"\"We want peace. We don't wish to fight you anymore.\"\"/pause 700/shake Nyx 700/playSound shadowpeep/pause 600/playSound shadowpeep/pause 700/playSound shadowpeep/pause 800/faceDirection Krobus 1 true/pause 1100/faceDirection Krobus 2 true/pause 350/speak Krobus \"\"With old magic... There's a way to mend wrongs.\"\"/pause 600/shake Nyx 600/playSound shadowpeep/pause 500/playSound shadowpeep/pause 350/faceDirection Krobus 1 true/pause 300/playSound shadowpeep/pause 600/playSound shadowpeep/pause 700/faceDirection Krobus 2 true/pause 400/speak Krobus \"\"Bring us five dozen void souls.\"\"/pause 750/move Nyx 0 1 3/move Nyx -1 0 2/pause 1000/showFrame Nyx 16 true/shake Nyx 600/playSound shadowpeep/playSound shadowpeep/playSound shadowpeep/playSound shadowpeep/pause 400/startJittering/pause 600/screenFlash 2/playSound wand/warp Nyx -30 -30/warp ShadowBruteActor1 -29 -29/warp ShadowBruteActor2 -28 -28/warp ShadowBruteActor3 -27 -27/warp ShadowBruteActor4 -26 -26/warp ShadowBruteLargeActor1 -25 -25/warp ShadowBruteLargeActor2 -24 -24/pause 800/stopJittering/pause 750/emote Krobus 40/pause 300/speak Krobus \"Huh. I wonder what that was about.$0#$b#I suppose you can drop off those 'void souls' to me, whatever they are.$7\"/pause 1250/end dialogue Krobus \"Nyx is a tribe leader. They are over a thousand years old.#$e#What's a 'void soul'?$0\"" 
+		}
+    },
+	
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor1",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor1.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor2",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor2.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor3",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor3.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor4",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor4.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor5",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor5.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor6",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor6.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor7",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor7.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor8",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor8.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor9",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor9.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor10",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor10.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor11",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor11.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor12",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor12.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor13",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor13.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor14",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor14.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor15",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor15.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor16",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor16.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor17",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor17.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor18",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor18.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor19",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor19.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteActor20",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteActor20.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteLargeActor1",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteLargeActor1.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteLargeActor2",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteLargeActor2.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteLargeActor3",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteLargeActor3.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowBruteLargeActor4",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowBruteLargeActor4.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowKidActor1",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowKidActor1.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowKidActor2",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowKidActor2.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowKidActor3",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowKidActor3.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowShamanActor1",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowShamanActor1.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/ShadowShamanActor2",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/ShadowShamanActor2.png"
+    },
+	{  
+      "Action": "Load", //16x32
+	  "Target": "Characters/Nyx",
+	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Miscellaneous/Nyx.png"
+    },
+	
+	{  
+	  //Krobus 10 heart - part 3
+      "Action": "EditData",
+      "Target": "Data/Events/Farm",
+	  "When": { "HasFlag": "GaveVoidSouls" },
+	  "Update": "OnLocationChange",
+      "Entries": {
+        "1090507/t 2000 2600": "continue/-500 -500/farmer -20 -20 2 Krobus -21 -21 0/pause 1250/speak Krobus \"My friends are doing something with the 'void souls' you found.$0#$b#They want you to come to the mines.$1\"/pause 500/end dialogue Krobus \"Did you go to the mines?$0#$e#I think Nyx is waiting..$0#$e#Oh. Me? I'm about to leave.$0#$e#...#$e#I'm nervous.#$e#I feel like something big is going to happen.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.#$e#%Krobus is getting ready to leave.\""
+		}
+    },
+	
+	{  
+	  //Krobus 10 heart - part 4 - 'Peace With The Shadow People'        <<Triggers passive shadow people patch
+      "Action": "EditData",
+      "Target": "Data/Events/Mine",
+      "Entries": {
+        "1090508/e 1090507": "Upper_Ambient/-500 -500/farmer -20 -20 2 Krobus -21 -21 0 MarlonFay -50 -50 2/pause 1000/addConversationTopic PeaceWithShadowPeople 10/skippable/showFrame MarlonFay 300 true/addTemporaryActor ShadowBruteLargeActor1 16 32 13 10 2/positionOffset ShadowBruteLargeActor1 -15 -5 true/addTemporaryActor ShadowBruteLargeActor2 16 32 7 16 1/addTemporaryActor ShadowBruteLargeActor3 16 32 19 20 0/addTemporaryActor ShadowBruteLargeActor4 16 32 24 12 3/positionOffset ShadowBruteLargeActor 6 -20 true/addTemporaryActor ShadowBruteActor1 16 32 14 18 0/addTemporaryActor ShadowBruteActor2 16 32 20 18 0/positionOffset ShadowBruteActor2 0 8 true/addTemporaryActor ShadowBruteActor3 16 32 18 21 0/positionOffset ShadowBruteActor3 -15 10 true/addTemporaryActor ShadowBruteActor4 16 32 15 22 0/positionOffset ShadowBruteActor4 10 -10 true/addTemporaryActor ShadowBruteActor5 16 32 13 20 0/positionOffset ShadowBruteActor5 10 13 true/addTemporaryActor ShadowBruteActor6 16 32 9 19 1/positionOffset ShadowBruteActor6 -5 -15 true/addTemporaryActor ShadowBruteActor7 16 32 11 18 1/positionOffset ShadowBruteActor7 0 -20 true/addTemporaryActor ShadowBruteActor8 16 32 10 17 1/positionOffset ShadowBruteActor8 15 -20 true/addTemporaryActor ShadowBruteActor9 16 32 9 14 1/positionOffset ShadowBruteActor9 -10 0 true/addTemporaryActor ShadowBruteActor10 16 32 11 13 1/addTemporaryActor ShadowBruteActor11 16 32 10 12 1/positionOffset ShadowBruteActor11 -8 14 true/addTemporaryActor ShadowBruteActor12 16 32 11 9 2/positionOffset ShadowBruteActor12 15 -10 true/addTemporaryActor ShadowBruteActor13 16 32 21 16 3/addTemporaryActor ShadowBruteActor14 16 32 22 11 2/positionOffset ShadowBruteActor14 20 20 true/addTemporaryActor ShadowBruteActor15 16 32 23 19 3/positionOffset ShadowBruteActor15 10 -10 true/addTemporaryActor ShadowBruteActor16 16 32 25 17 3/positionOffset ShadowBruteActor16 10 -12 true/addTemporaryActor ShadowBruteActor17 16 32 26 15 3/positionOffset ShadowBruteActor17 0 20 true/addTemporaryActor ShadowBruteActor18 16 32 11 15 1/addTemporaryActor ShadowBruteActor19 16 32 24 14 3/addTemporaryActor ShadowBruteActor20 16 32 21 10 2/positionOffset ShadowBruteActor20 -15 15 true/addTemporaryActor ShadowShamanActor1 16 32 15 9 2/addTemporaryActor ShadowShamanActor2 16 32 19 9 2/addTemporaryActor ShadowKidActor1 16 32 -50 -50 2/addTemporaryActor ShadowKidActor2 16 32 -50 -50 2/addTemporaryActor ShadowKidActor3 16 32 -50 -50 2/addTemporaryActor Nyx 16 32 -50 -50 2/speak Krobus \"Psst. @. This way...$0\"/pause 1000/playSound stairsdown/pause 1000/changeLocation Custom_VoidDen/warp Krobus 16 19/faceDirection Krobus 0 true/warp farmer 17 19/faceDirection farmer 0 true/positionOffset Krobus 20 0 true/positionOffset farmer 25 15 true/pause 1000/viewport 17 16 true/viewport move 0 -1 6000 true/pause 1000/playSound shadowpeep/pause 1300/playSound shadowpeep/pause 700/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 700/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 1000/warp Nyx 17 8/move Nyx 0 1 2/pause 1250/faceDirection Nyx 3 true/pause 450/playSound shadowpeep/pause 450/faceDirection Nyx 2 true/pause 250/faceDirection Nyx 1 true/pause 450/playSound shadowpeep/pause 450/faceDirection Nyx 2 true/pause 600/speed Nyx 1/move Nyx 0 4 2 true/pause 400/speed ShadowShamanActor1 1/move ShadowShamanActor1 0 4 2 true/pause 250/speed ShadowShamanActor2 1/move ShadowShamanActor2 0 4 2 true/viewport move 0 1 4250 true/pause 1500/playSound shadowpeep/pause 1000/playSound shadowpeep/pause 1200/playSound shadowpeep/pause 700/playSound shadowpeep/pause 1600/playSound shadowpeep/playSound shadowpeep/playSound shadowpeep/showFrame Nyx 16 true/shake Nyx 1000/pause 850/AmbientLight 70 100 70/playSound healSound/addLantern 31 16 14 2/addLantern 31 18 14 2/addLantern 31 16 16 2/addLantern 31 18 16 2/pause 400/showFrame Nyx 0 true/pause 1000/faceDirection Nyx 3 true/pause 600/shake Nyx 600/playSound shadowpeep/pause 500/playSound shadowpeep/pause 500/faceDirection Nyx 2 true/pause 500/move ShadowShamanActor1 0 2 1/move ShadowShamanActor1 1 0 1/pause 600/showFrame ShadowShamanActor1 5 true/pause 200/shake ShadowShamanActor1 600/pause 200/playSound stoneStep/playSound stoneStep/addObject 17 15 {{spacechase0.JsonAssets/ObjectId:Void Soul}}/warp MarlonFay 17 15/positionOffset MarlonFay -8 16 true/pause 500/showFrame ShadowShamanActor1 4 true/pause 500/faceDirection ShadowShamanActor1 0 true/pause 250/faceDirection ShadowShamanActor1 3 true/pause 200/playSound shadowpeep/pause 200/move ShadowShamanActor1 -1 0 0/move ShadowShamanActor1 0 -2 0/pause 300/faceDirection ShadowShamanActor1 1 true/pause 250/faceDirection ShadowShamanActor1 2 true/pause 500/stopMusic/pause 1000/showFrame Nyx 16 true/shake Nyx 1000/playSound shadowpeep/playSound shadowpeep/playSound shadowpeep/pause 800/glow 218 112 214/playSound healSound/pause 100/removeObject 17 15/warp MarlonFay -20 -20/warp ShadowKidActor1 17 15/shake ShadowKidActor1 2000/pause 500/showFrame Nyx 0 true/pause 1500/move ShadowBruteActor18 1 0 1/pause 250/emote ShadowBruteActor18 8 true/pause 800/faceDirection ShadowKidActor1 3 true/pause 500/playSound shadowpeep/emote ShadowKidActor1 8 true/pause 1700/emote ShadowBruteActor18 16 true/pause 300/playSound shadowpeep/pause 400/playSound shadowpeep/pause 400/shake ShadowBruteActor18 600/pause 200/playSound dwop/showFrame ShadowBruteActor18 22 true/pause 200/playMusic moonlightJellies/pause 850/jump ShadowKidActor1/pause 750/speed ShadowKidActor1 5/move ShadowKidActor1 -4 0 3 true/pause 250/jump ShadowBruteActor5/pause 200/playSound shadowpeep/pause 100/jump ShadowBruteLargeActor2/pause 100/jump ShadowBruteActor9/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 0 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/positionOffset ShadowBruteActor18 1 1 true/pause 25/pause 200/playSound shadowpeep/pause 200/emote ShadowBruteActor18 20 true/pause 150/emote ShadowKidActor1 20 true/shake ShadowKidActor1 700/pause 300/playSound shadowpeep/pause 400/jump ShadowBruteActor11/pause 300/playSound shadowpeep/pause 100/jump ShadowBruteActor3/pause 200/jump ShadowBruteActor7/playSound shadowpeep/pause 150/jump ShadowBruteActor2/pause 200/faceDirection Nyx 1 true/pause 500/shake Nyx 750/playSound shadowpeep/playSound shadowpeep/pause 500/faceDirection ShadowShamanActor2 3 true/pause 450/faceDirection Nyx 2 true/pause 400/faceDirection ShadowShamanActor2 2 true/pause 250/shake ShadowBruteActor18 1000/shake ShadowKidActor1 1000/pause 250/move ShadowShamanActor2 0 2 3/move ShadowShamanActor2 -1 0 3/playSound shadowpeep/pause 500/showFrame ShadowShamanActor2 13 true/shake ShadowShamanActor2 600/pause 400/playSound stoneStep/playSound stoneStep/addObject 17 15 {{spacechase0.JsonAssets/ObjectId:Void Soul}}/warp MarlonFay 17 15/positionOffset MarlonFay -8 16 true/pause 300/showFrame ShadowShamanActor2 12 true/pause 250/playSound shadowpeep/pause 250/faceDirection ShadowShamanActor2 0 true/pause 250/faceDirection ShadowShamanActor2 1 true/pause 350/move ShadowShamanActor2 1 0 0/move ShadowShamanActor2 0 -2 0/pause 125/playSound shadowpeep/pause 125/faceDirection ShadowShamanActor2 1 true/pause 250/faceDirection ShadowShamanActor2 2 true/pause 1000/showFrame Nyx 16 true/shake Nyx 1000/playSound shadowpeep/playSound shadowpeep/playSound shadowpeep/pause 800/glow 218 112 214/playSound healSound/pause 100/removeObject 17 15/warp MarlonFay -20 -20/warp ShadowKidActor2 17 15/shake ShadowKidActor2 2000/pause 500/showFrame Nyx 0 true/pause 1000/emote ShadowBruteActor19 16/pause 300/playSound shadowpeep/move ShadowBruteActor19 -1 0 3 /faceDirection ShadowKidActor2 1 true/pause 500/shake ShadowBruteActor19 500/pause 250/playSound dwop/showFrame ShadowBruteActor19 30 true/pause 500/jump ShadowKidActor2/playSound shadowpeep/pause 600/speed ShadowKidActor2 4/move ShadowKidActor2 3 0 0/speed ShadowKidActor2 4/move ShadowKidActor2 0 -1 1/speed ShadowKidActor2 4/move ShadowKidActor2 2 0 1 true/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 1 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 1 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -2 0 true/pause 15/playSound shadowpeep/positionOffset ShadowBruteActor19 -1 1 true/pause 15/positionOffset ShadowBruteActor19 -1 1 true/pause 15/positionOffset ShadowBruteActor19 -2 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 1 true/pause 15/positionOffset ShadowBruteActor19 -2 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/positionOffset ShadowBruteActor19 -1 1 true/pause 15/positionOffset ShadowBruteActor19 -2 0 true/pause 15/positionOffset ShadowBruteActor19 -1 0 true/pause 15/emote ShadowBruteActor19 20 true/pause 200/emote ShadowKidActor2 20 true/shake ShadowBruteActor19 1000/shake ShadowKidActor2 1000/pause 500/playSound shadowpeep/pause 250/jump ShadowBruteActor1/pause 200/playSound shadowpeep/pause 200/jump ShadowBruteActor6/pause 300/playSound shadowpeep/jump ShadowBruteActor11/pause 300/jump ShadowBruteActor17/pause 500/playSound shadowpeep/jump ShadowBruteActor3/pause 400/jump ShadowBruteActor5/pause 300/playSound shadowpeep/pause 600/faceDirection Nyx 3 true/pause 600/shake Nyx 600/playSound shadowpeep/pause 500/playSound shadowpeep/pause 250/faceDirection ShadowShamanActor1 1 true/pause 750/faceDirection Nyx 2 true/pause 400/faceDirection ShadowShamanActor1 2 true/pause 300/move ShadowShamanActor1 0 2 1/move ShadowShamanActor1 1 0 1/pause 600/showFrame ShadowShamanActor1 5 true/pause 200/shake ShadowShamanActor1 600/pause 200/playSound stoneStep/playSound stoneStep/addObject 17 15 {{spacechase0.JsonAssets/ObjectId:Void Soul}}/warp MarlonFay 17 15/positionOffset MarlonFay -8 16 true/pause 500/showFrame ShadowShamanActor1 4 true/pause 500/faceDirection ShadowShamanActor1 0 true/pause 250/faceDirection ShadowShamanActor1 3 true/pause 200/playSound shadowpeep/pause 200/move ShadowShamanActor1 -1 0 0/move ShadowShamanActor1 0 -2 0/pause 300/faceDirection ShadowShamanActor1 1 true/pause 250/faceDirection ShadowShamanActor1 2 true/pause 1250/showFrame Nyx 16 true/shake Nyx 1000/playSound shadowpeep/playSound shadowpeep/playSound shadowpeep/pause 800/glow 218 112 214/playSound healSound/pause 100/removeObject 17 15/warp MarlonFay -20 -20/warp ShadowKidActor3 17 15/shake ShadowKidActor3 2000/pause 500/showFrame Nyx 0 true/pause 1000/emote ShadowBruteActor1 16/speed ShadowBruteActor1 4/move ShadowBruteActor1 0 -2 1/pause 500/faceDirection ShadowKidActor3 3 true/pause 500/shake ShadowBruteActor1 500/showFrame ShadowBruteActor1 22 true/playSound dwop/pause 650/playSound shadowpeep/jump ShadowKidActor3/pause 550/speed ShadowKidActor3 4/move ShadowKidActor3 -1 0 2/speed ShadowKidActor3 4/move ShadowKidActor3 0 1 3/speed ShadowKidActor3 4/move ShadowKidActor3 -1 0 3 true/positionOffset ShadowBruteActor1 1 1 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 1 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 1 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 1 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 1 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/positionOffset ShadowBruteActor1 1 0 true/pause 10/pause 500/emote ShadowBruteActor1 20 true/pause 250/emote ShadowKidActor3 20 true/shake ShadowBruteActor1 1000/shake ShadowKidActor3 1000/pause 300/playSound shadowpeep/jump ShadowBruteLargeActor2/pause 400/jump ShadowBruteActor13/pause 300/playSound shadowpeep/jump ShadowBruteActor15/pause 400/jump ShadowBruteActor16/pause 300/playSound shadowpeep/jump ShadowBruteActor5/pause 400/jump ShadowBruteActor8/playSound shadowpeep/pause 400/faceDirection farmer 3 true/pause 600/playSound shadowpeep/pause 400/faceDirection Krobus 1 true/pause 250/jump ShadowBruteLargeActor3/pause 250/playSound shadowpeep/globalFade/viewport -1000 -1000/pause 1500/message \"Loved ones were returned to the shadow people...\"/pause 1500/message \"We won't harm each other anymore. We're finally at peace...\"/pause 1000/end dialogue Krobus \"Shadow people and humans are very different from each other...$0#$b#But that doesn't mean we can't be friends.$1#$e#My best friend is a human.$7\""
+		}
+    },
+	
+	{
+	 "Action": "EditData",
+	 "Target": "Characters/Dialogue/MarlonFay",
+	 "Entries": {
+     "PeaceWithShadowPeople": "Void spirits in the mines have been acting strange lately.$0#$e#Hmm...$2",
+      }
+    },
+	{
+	 "Action": "EditData",
+	 "Target": "Characters/Dialogue/Wizard",
+	 "Entries": {
+     "PeaceWithShadowPeople": "I sense the shadow people are now at ease.$0#$e#Something has happened...$0",
+      }
+    },
+	
+	{   
+      //Shadow People become passive
+      "Action": "EditData",
+      "Target": "Data/Monsters",
+	  "When": { "HasSeenevent": "1090508" },
+	  "Update": "OnLocationChange",
+	  "Fields": {
+	    "Shadow Guy": { 0: 99999, 1:0, 9:0, 11:100 },
+	    "Shadow Brute": { 0: 99999, 1:0, 9:0, 11:100 },
+	    "Shadow Shaman": { 0: 99999, 1:0, 9:0, 11:100 },
+	    "Shadow Sniper": { 0: 99999, 1:0, 9:0, 11:100 },
+        }
+    },
+    
+
+
 {       //LOST WOODS DIRECTIONS SPAWN
 	 "Action": "EditData",
 	 "Target": "data/events/forest",
 	 "When": { "IsCommunityCenterComplete": true },
 	 "Entries": {
-     "1091881": "none/-500 -500/farmer -100 -100 2/viewport 19 109 clamp true/skippable/pause 2500/playSound junimoMeep1/pause 1000/playSound junimoMeep1/pause 800/playSound junimoMeep1/pause 1000/playSound junimoMeep1/pause 700/playSound junimoMeep1/globalFade/viewport -1000 -1000/playSound junimoMeep1/end",
+     "1091881": "none/-500 -500/farmer -100 -100 2/viewport 19 109 clamp true/skippable/pause 2500/playSound junimoMeep1/pause 1000/playSound junimoMeep1/pause 800/playSound junimoMeep1/pause 1000/playSound junimoMeep1/pause 700/playSound junimoMeep1/globalFade/viewport -1000 -1000/playSound junimoMeep1/end position 19 107",
 	 },
 },
 

@@ -3,7 +3,7 @@
 	"Description": "(อัญมณีกัลโดรา) อัญมณีสีแดงขนาดใหญ่ ที่กันเธอร์มอบให้ฉัน จากการเก็บสะสมวัตถุโบราณ มอบให้แก่พิพิธภัณฑ์ จนครบสมบุรณ์",
 	"Category": "Gem",
 	"CanSell": false,
-	"Price": 45000,
+	"Price": 600,
 	"GiftTastes":
 	{
 		"Like": [ "Lance", "MarlonFay", "Wizard", "Krobus", "Dwarf", "Morgan", "Olivia", "Leo", "Apples", "Sophia", "Claire", "Martin", "Claire", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Abigail", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"],
