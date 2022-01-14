@@ -635,7 +635,7 @@
     "tile.tile-property": "{{layerName}}: props: {{propertyName}}",
 
     // values
-    "tile.tile.none-here": "ไม่มี tile ที่นี้",
+    "tile.tile.none-here": "ไม่มี tile ที่นี่",
 
 
     /*********
