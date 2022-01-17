@@ -16,7 +16,7 @@
         }
     ],
     "content": {
-        "ScienceHouse_Robin_Raining1": "ห้ะ อากาศแปรปรวนหรอ",
+        "ScienceHouse_Robin_Raining1": "ห้ะ อากาศแปรปรวนเหรอ?",
         "ScienceHouse_Robin_Raining2": "โอ้ว ไม่นะ เปียกโชกมาเชียว!",
         "ScienceHouse_Robin_NotRaining1": "ไง การเดินเป็นสิ่งที่ดีนะ?",
         "ScienceHouse_Robin_NotRaining2": "ไงจ๊ะ!",
@@ -40,11 +40,11 @@
         "AdventureGuild_Marlon_Greeting2": "สวัสดี",
         "AdventureGuild_Marlon_Greeting3": "กิล ตื่นได้แล้ว! เรามีแขกมาเยี่ยม",
         "AdventureGuild_Marlon_Greeting4": "สวัสดีตอนบ่าย",
-        "Hospital_Maru_Greeting1": "วันนี้มีนัดตรวจหรอคะ?",
+        "Hospital_Maru_Greeting1": "วันนี้มีนัดตรวจเหรอคะ?",
         "Hospital_Maru_Greeting2": "มีอะไรให้ช่วยรึเปล่าคะ?",
         "Hospital_Maru_Greeting3": "คลินิคเรามียาขายนะคะ!",
         "Hospital_Maru_Greeting4": "มันเป็นเหตุฉุกเฉินหรือเปล่าคะ?",
-        "Hospital_Maru_Greeting5": "มาหาหมอหรอคะ?",
+        "Hospital_Maru_Greeting5": "มาหาหมอเหรอคะ?",
         "Hospital_Maru_Spouse": "ว่าไง ที่รัก <",
         "LeahHouse_Leah_Greeting1": "อ้าว สวัสดี!",
         "LeahHouse_Leah_Greeting2": "สวัสดีจ้า",

@@ -12,7 +12,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "ดูหนังกับแม่งั้นหรอ เอาสิน่าสนุกจัง!"
+            "Text": "ดูหนังกับแม่งั้นเหรอ เอาสิน่าสนุกจัง!"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -1052,7 +1052,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "เค้าบอกกันว่าหนังเรื่องนี้มัน 'แหวกแนว'... มันหมายความว่ามันแย่หรอ?$s"
+            "Text": "เค้าบอกกันว่าหนังเรื่องนี้มัน 'แหวกแนว'... มันหมายความว่ามันแย่เหรอ?$s"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -1281,7 +1281,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "คุณชอบหนังสยองขวัญหรอ? ผมรู้สึกประหลาดใจนิดหน่อย!"
+            "Text": "คุณชอบหนังสยองขวัญเหรอ? ผมรู้สึกประหลาดใจนิดหน่อย!"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -1398,7 +1398,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "หนังเรื่องนี้ เป็นหนังสำหรับ คนที่โตแล้วไม่ใช่หรอ?$s"
+            "Text": "หนังเรื่องนี้ เป็นหนังสำหรับ คนที่โตแล้วไม่ใช่เหรอ?$s"
           },
           "DuringMovie": {
             "ResponsePoint": null,
@@ -1693,7 +1693,7 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "โอ้ นี่ก็คือหนึ่งในหนัง 'แฟนตาซี' พวกนั้นหรอ?$7"
+            "Text": "โอ้ นี่ก็คือหนึ่งในหนัง 'แฟนตาซี' พวกนั้นเหรอ?$7"
           },
           "DuringMovie": null,
           "AfterMovie": {
@@ -2611,7 +2611,7 @@
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "นั่นมันธรรมดามาก คุณไม่คิดเหมือนฉันหรอ?"
+            "Text": "นั่นมันธรรมดามาก คุณไม่คิดเหมือนฉันเหรอ?"
           }
         },
         "ID": "reaction_5"
