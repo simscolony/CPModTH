@@ -16,8 +16,6 @@
     "config.MistEffects.description": "เพิ่มเอฟเฟกต์หมอกให้กับทางรถไฟ, ป่าดงดิบ, ภูเขา, ป่าซินเดอแซป, ป่าตะวันตก, กิลนักผจญภัย หากมีฝนหรือพายุ",
 
     // Maps & Craftables
-    "config.CanWalkOverBeachTidepools.name": "เดินบนสระน้ำได้",
-    "config.CanWalkOverBeachTidepools.description": "สามารถเดินบนสระน้ำ (ริมทะเล) ได้",
     "config.MountainMinecart.name": "รถรางไปเหมือง",
     "config.MountainMinecart.description": "ช่วยให้ผู้เล่นไปถึงเหมืองได้เร็วขึ้น (ประมาณครึ่งชั่วโมงในเกม)",
     "config.AlternativeCraftables.name": "ของคราฟ (ทางเลือก)",

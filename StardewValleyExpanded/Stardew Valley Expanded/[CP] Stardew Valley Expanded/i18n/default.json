@@ -16,8 +16,6 @@
     "config.MistEffects.description": "Adds mist effects to the railroad, backwoods, mountain, cindersap forest, forest west and adventurer summit when the weather's rain or storm.",
 
     // Maps & Craftables
-    "config.CanWalkOverBeachTidepools.name": "Can Walk Over Beach Tidepools",
-    "config.CanWalkOverBeachTidepools.description": "",
     "config.MountainMinecart.name": "Mountain Minecart",
     "config.MountainMinecart.description": "Allows players to get to the mines faster (about half hour in-game).",
     "config.AlternativeCraftables.name": "Alternative Craftables",
