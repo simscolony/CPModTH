@@ -5,7 +5,7 @@
 	"ShopName": "ClaireShop",
 	"PortraitPath": "Assets/Joja/Claire_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Welcome to Joja Mart.",
+	"Quote": "ร้านโจจ้า ยินดีให้บริการค่ะ",
 
 	"ItemStocks": [
 		{
@@ -427,7 +427,7 @@
 	"ShopName": "MartinShop",
 	"PortraitPath": "Assets/Joja/Martin_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Hello! How may I help you?",
+	"Quote": "สวัสดี มีอะไรให้ช่วยมั้ยครับ?",
 
 	"ItemStocks": [
 		{
@@ -848,7 +848,7 @@
 	"ShopName": "ClaireShopJojaDay",
 	"PortraitPath": "Assets/Joja/Claire_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "It's Joja Day. Seeds are 20 percent off.",
+	"Quote": "วันนี้เป็นวันโจจ้า เมล็ดพันธุ์ลด 20% นะคะ",
 
 	"ItemStocks": [
 
@@ -999,7 +999,7 @@
 	"ShopName": "MartinShopJojaDay",
 	"PortraitPath": "Assets/Joja/Martin_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "It's a Joja Day special! Everything is 20 percent off!",
+	"Quote": "วันนี้เป็นวันพิเศษ! ของทุกอย่างลดราคา 20% นะครับ!",
 
 	"ItemStocks": [
 
@@ -1144,7 +1144,7 @@
 	"ShopName": "AlesiaVendor",
 	"PortraitPath": "Assets/Adventurers/Alesia_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Do you need ammunition or potions?",
+	"Quote": "อยากได้อาวุธ หรือยาโพชั่นล่ะ?",
 
 	"ItemStocks": [
 		{
@@ -1178,7 +1178,7 @@
 	"ShopName": "IsaacVendor",
 	"PortraitPath": "Assets/Adventurers/Isaac_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Your money isn't worth much here.",
+	"Quote": "เตรียมเงินมาพอใช่มั้ย?",
 
 	"ItemStocks": [
 		{
@@ -1206,7 +1206,7 @@
 	"ShopName": "CamillaVendor",
 	"PortraitPath": "Assets/Adventurers/Camilla_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "These elixirs give abilities some say are... unnatural.",
+	"Quote": "เจ้ายาอายุวัฒนะนี้ จะให้ผลข้างเคียงออกจะ... แปลกๆ ไปบ้าง",
 
 	"ItemStocks": [
 		{
@@ -1620,7 +1620,7 @@
 	"ShopName": "BearVendor",
 	"PortraitPath": "Assets/Miscellaneous/Bear_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Rawr! Hello there.",
+	"Quote": "โฮก! ว่าไงพวก",
 
 	"ItemStocks": [
 		{
@@ -1672,7 +1672,7 @@
 	"ShopName": "BlueJunimoVendor",
 	"PortraitPath": "Assets/Junimos/BlueJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "I hab rare fish!",
+	"Quote": "เรามีปลาหายาก!",
 
 	"ItemStocks": [
 		{
@@ -1736,7 +1736,7 @@
 	"ShopName": "GreyJunimoVendor",
 	"PortraitPath": "Assets/Junimos/GreyJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "I trade rocks for yellow sparkle rocks!",
+	"Quote": "เราแลกหินนี่ กับหินสีทองวิบวับๆ!",
 
 	"ItemStocks": [
 		{
@@ -1812,7 +1812,7 @@
 	"ShopName": "RedJunimoVendor",
 	"PortraitPath": "Assets/Junimos/RedJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "Sell old things for yellow rocks!",
+	"Quote": "ขายของเก่า แลกหินสีทอง!",
 
 	"ItemStocks": [
 		{
@@ -1954,7 +1954,7 @@
 	"ShopName": "YellowJunimoVendor",
 	"PortraitPath": "Assets/Junimos/YellowJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "I hab seeds!",
+	"Quote": "เรามีเมล็ดพันธุ์!",
 
 	"ItemStocks": [
 		{
@@ -2000,7 +2000,7 @@
 	"ShopName": "OrangeJunimoVendor",
 	"PortraitPath": "Assets/Junimos/OrangeJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "Look here! Me sell decorations!",
+	"Quote": "ดูนี่สิ! เราขายของตกแต่งล่ะ!",
 
 	"ItemStocks": [
 		{
@@ -2221,7 +2221,7 @@
 	"ShopName": "PurpleJunimoVendor",
 	"PortraitPath": "Assets/Junimos/PurpleJunimo.png",
 	"StoreCurrency": "Money",
-	"Quote": "Me have rare things! You want?",
+	"Quote": "เรามีของหายาก! อยากได้ไหม?",
 
 	"ItemStocks": [
 		{
@@ -2262,7 +2262,7 @@
 	"ShopName": "BrooklynVendor",
 	"PortraitPath": "Assets/Joja/Brooklyn_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "These are realistic plastic decorations.",
+	"Quote": "พวกนี้เป็นของตกแต่ง ที่ทำจากพลาสติก ที่ดูสมจริงมาก",
 
 	"ItemStocks": [
 		{
@@ -2483,7 +2483,7 @@
 	"ShopName": "ZoeyVendor",
 	"PortraitPath": "Assets/Joja/Zoey_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Welcome to the seed shop.",
+	"Quote": "ยินดีต้อนรับสู่ ร้านเมล็ดพันธุ์",
 
 	"ItemStocks": [
 		{
@@ -2563,7 +2563,7 @@
 	"ShopName": "ChloeVendor1",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "We have a lot of deserts today...",
+	"Quote": "วันนี้มีขนมเพียบเลย",
 
 	"ItemStocks": [
 		{
@@ -2627,7 +2627,7 @@
 	"ShopName": "ChloeVendor2",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "The 'void delight' is kinda strange...",
+	"Quote": "อย่าเผลอไปกิน อาหารจำลอง ที่วางโชว์เอาไว้ล่ะ ...",
 
 	"ItemStocks": [
 		{
@@ -2667,7 +2667,7 @@
 	"ShopName": "ChloeVendor3",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Um. It's soup day...",
+	"Quote": "เหมือนวันนี้จะมีแต่ซุป...",
 
 	"ItemStocks": [
 		{
@@ -2719,7 +2719,7 @@
 	"ShopName": "ChloeVendor4",
 	"PortraitPath": "Assets/Joja/Chloe_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Um. There's seating upstairs...",
+	"Quote": "อืม... วิวบนดาดฟ้าของที่นี่ เยี่ยมมากๆ เลยล่ะ",
 
 	"ItemStocks": [
 		{
@@ -2765,7 +2765,7 @@
 	"ShopName": "JaceVendor",
 	"PortraitPath": "Assets/Joja/Jace_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Let me know if you want to inspect anything.",
+	"Quote": "ต้องการอะไร บอกได้เสมอเลยนะครับ",
 
 	"ItemStocks": [
 	    {
@@ -3015,7 +3015,7 @@
 	"ShopName": "AxelVendor1",
 	"PortraitPath": "Assets/Joja/Axel_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "These items are OUT of this WORLD!",
+	"Quote": "ร้านของเรา มีแต่ของดีๆ ทั้งนั้นแหละ!",
 
 	"ItemStocks": [
 		{
@@ -3055,7 +3055,7 @@
 	"ShopName": "AxelVendor2",
 	"PortraitPath": "Assets/Joja/Axel_Vendor.png",
 	"StoreCurrency": "Money",
-	"Quote": "Crimsonfish are DELICIOUS!",
+	"Quote": "ดูเจ้าปลาคริมสัน แสนอร่อยนั่นสิ!",
 
 	"ItemStocks": [
 		{
