@@ -15,15 +15,15 @@
       "IsRequired": true,
    },
    {
+      "UniqueID": "FlashShifter.SVE-IF2R-FTM",
+      "IsRequired": true,
+   },
+   {
       "UniqueID": "Bouhm.NPCMapLocations",
       "IsRequired": false,
    },
    {
       "UniqueID": "FlashShifter.StardewValleyExpandedCP",
-      "IsRequired": true,
-   },
-   {
-      "UniqueID": "Platonymous.Toolkit",
       "IsRequired": true,
    },
    {

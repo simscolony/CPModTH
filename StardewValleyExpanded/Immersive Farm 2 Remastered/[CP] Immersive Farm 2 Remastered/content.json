@@ -68,6 +68,11 @@
   "Default": "false"
    },
 
+  "Remove_Cherry_Blossom_Tree_From_Southeast_Hill": {
+  "AllowValues": "true, false",
+  "Default": "false"
+   },
+
   "Remove_Fences_From_Backyard": {
   "AllowValues": "true, false",
   "Default": "false"
@@ -404,6 +409,22 @@
 
 	{
       "Action": "EditMap",
+      "Target": "Maps/Farm,Maps",
+      "FromFile": "assets/MapPatches/RemoveCherryBlossomTreeFromSoutheastHill.tbin",
+	  "ToArea": { "X": 128, "Y": 72, "Width": 14, "Height": 14 },
+	  "When": { "Remove_Cherry_Blossom_Tree_From_Southeast_Hill": "true", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
+    },
+
+
+
+
+
+
+
+
+
+	{
+      "Action": "EditMap",
       "Target": "Maps/Greenhouse,Maps",
       "FromFile": "assets/MapPatches/Greenhouse_Cleared.tbin",
 	  "ToArea": { "X": 6, "Y": 8, "Width": 29, "Height": 33 },
@@ -484,7 +505,7 @@
        "MapProperties": { "NightTiles": "Buildings 77 7 507 Buildings 5 24 507 Buildings 127 91 507" },
        "When": { "Remove_Minecart_System": "false", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
     },
-	
+
 	{ //Adds mist effects to the farm
      "Action": "EditMap",
 	 "Target": "Maps/Farm",
