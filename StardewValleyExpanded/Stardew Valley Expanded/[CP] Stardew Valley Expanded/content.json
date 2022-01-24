@@ -742,6 +742,14 @@
 {
     "Action": "EditMap",
     "Target": "Maps/Custom_AuroraVineyard",
+    "FromFile": "assets/Maps/MapPatches/AuroraVineyardOvergrown.tbin",
+	"ToArea": { "X": 0, "Y": 0, "Width": 27, "Height": 24 },
+    "When": { "Relationship:Apples": "Friendly", "HasSeenEvent |contains=7775925, 7776001": false },
+	"Update": "OnLocationChange"
+},
+{
+    "Action": "EditMap",
+    "Target": "Maps/Custom_AuroraVineyard",
     "FromFile": "assets/Maps/MapPatches/AuroraVineyardStarfruits.tbin",
 	"ToArea": { "X": 0, "Y": 0, "Width": 27, "Height": 24 },
     "When": { "HasSeenEvent": "7776001" },
@@ -27505,7 +27513,7 @@
 	  "Target": "data/events/farmhouse",
 	  "When": { "HasFlag |contains=Island_UpgradeHouse": true, "HasFlag": "lanceMonsterCrops", "HasMod |contains=harvz.TinyFarm": true, "FarmType": "Standard" },
 	  "Entries": {
-	  "65360135/k 65360191/f Lance 2000/t 600 2400": "continue/-500 -500/farmer -40 -40 2 Lance -39 -39 0/pause 1000/playSound stoneStep/playSound stoneStep/pause 600/playSound stoneStep/playSound stoneStep/pause 600/playSound stoneStep/playSound stoneStep/pause 650/message \"คุณสัมผัสได้ว่า แลนซ์อยู่ที่ประตูหน้าบ้าน\"/pause 500/changeLocation farm/warp farmer 27 7/warp Lance 27 9/viewport 27 8 clamp true/pause 1200/speak Lance \"สวัสดี @ ไปเจอข้าที่ฟาร์มของท่าน บนเกาะขิง เร็วที่สุด เมื่อท่านมีเวลานะครับ$0\"/pause 500/end dialogue Lance \"ข้ามีพงไพรลับ อยู่ใกล้ๆกับ ที่ดินบนเกาะของท่านด้วย...$$5\""
+	  "65360135/k 65360191/f Lance 2000/t 600 2400": "continue/-500 -500/farmer -40 -40 2 Lance -39 -39 0/pause 1000/playSound stoneStep/playSound stoneStep/pause 600/playSound stoneStep/playSound stoneStep/pause 600/playSound stoneStep/playSound stoneStep/pause 650/message \"คุณสัมผัสได้ว่า แลนซ์อยู่ที่ประตูหน้าบ้าน\"/pause 500/changeLocation farm/warp farmer 27 7/warp Lance 27 9/viewport 27 8 clamp true/pause 1200/speak Lance \"สวัสดี @ ไปเจอข้าที่ฟาร์มของท่าน บนเกาะขิง เร็วที่สุด เมื่อท่านมีเวลานะครับ$0\"/pause 500/end dialogue Lance \"ข้ามีพงไพรลับ อยู่ใกล้ๆกับ ที่ดินบนเกาะของท่านด้วย...$5\""
 	  }
 	},
 
@@ -28293,7 +28301,7 @@
       "Target": "Characters/schedules/Jolyne",
       "FromFile": "assets/CharacterFiles/Schedules/Jolyne/Schedule.json"
     },
-	
+
 	{
       //Jolyne visits adventure guild
       "Action": "EditData",
@@ -28304,7 +28312,7 @@
         "22": "0 AdventureGuild 3 13 0/610 AdventureGuild 3 13 2"
 	  }
     },
-	
+
 	{
       //Jolyne adventure guild dialogue 1
       "Action": "EditData",
@@ -28314,7 +28322,7 @@
 	    "Sun": "สถานที่แห่งนี้ ไม่ค่อยเปลี่ยนแปลงเท่าไหร่หรอก ซึ่งข้าก็ชอบ ที่มันเป็นแบบนั้นเช่นกัน$0",
 	  }
     },
-	
+
 	{
       //Jolyne adventure guild dialogue 2
       "Action": "EditData",
@@ -28324,7 +28332,7 @@
 	    "Mon": "แปลกใจที่เห็นข้าที่นี่รึ?$0",
 	  }
     },
-	
+
     {
       //Jolyne's dialogue
       "Action": "Load",
@@ -31378,7 +31386,7 @@
 	 "6663409": "continue/-50 -50/farmer 23 28 1 MorrisTod -30 -30 2/skippable/viewport 30 28 true/viewport move 0 -1 16000 true/move farmer 7 0 1/move farmer 0 -8 0/pause 1000/showFrame farmer 15 true/pause 300/startJittering/playSound stoneStep/pause 400/playSound stoneStep/pause 400/playSound stoneStep/pause 200/showFrame farmer 12 true/stopJittering/pause 1500/playSound doorClose/warp farmer -29 -29/pause 1500/globalFade/viewport -1000 -1000/stopMusic/changeLocation Custom_MorrisHouse/warp MorrisTod 15 25/warp farmer 15 27/viewport 15 26 true/pause 1150/speak MorrisTod \"ยินดีต้อนรับสู่ บ้านของผมเอง! คุณคิดว่าไง?$1\"/pause 500/jump farmer/pause 1000/speak MorrisTod \"คุณเห็นชัดเลยใช่มั้ย ว่าเหล็กที่คุณหามา ได้ถูกใช้ไปด้วย$4#$b#การออกแบบบ้าน ของโจจ้าเหล่านี้ โดดเด่นด้วยโครงเหล็ก ที่แข็งแรง$0\"/pause 850/faceDirection MorrisTod 3 true/pause 1100/faceDirection MorrisTod 2 true/pause 600/speak MorrisTod \"คุณอยากจะดื่มอะไร ให้สดชื่นหน่อยมั้ย @?$0\"/pause 500/emote farmer 32/pause 250/emote MorrisTod 32/pause 350/faceDirection MorrisTod 3 true/pause 500/advancedMove MorrisTod false -12 0/pause 500/advancedMove farmer false 0 -2 -8 0/viewport move 0 -1 6000 true/pause 2500/globalFade/viewport -1000 -1000/pause 1000/end dialogue MorrisTod \"บ้านโจจ้าทาวเฮ้าส์นี้ มาพร้อมกับการติดตั้ง 'เครื่องทำโซดาซุปเปอร์โจจ้า' ไว้ล่วงหน้าแล้ว คุณสามารถเอา ซีดีโจจ้ามาเปลี่ยนเป็น เครื่องดื่มชูกำลังสุดอร่อยเหาะ$0#$e#ไม่แน่นะ วันข้างหน้า ทุกคนอาจจะมีเครื่องทำโซดาโจจ้า อยู่ในบ้านกันก็ได้!$1\""
 	    },
     },
-	
+
 	{
          "Action": "EditMap",
          "Target": "Maps/Custom_MorrisHouse",
