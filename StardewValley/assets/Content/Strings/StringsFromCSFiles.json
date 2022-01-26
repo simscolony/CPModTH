@@ -2161,7 +2161,7 @@
         "Darkness_BuffDescription": "ความมืดมิด จะทำให้ระยะการมองเห็น มองเห็นได้ยากลำบากขึ้น",
         "OnlyPlaceOnFarm": "สามารถวางได้แค่บนฟาร์ม",
         "OnlyPlaceTwo": "คุณวางได้แค่ 2 ชิ้น",
-        "MiniObelisk_NeedsPair": "ต้องการเสาโอเบลิสก์ (obelisk) อันที่สอง",
+        "MiniObelisk_NeedsPair": "ต้องการอนุสาวรีย์ (obelisk) อันที่สอง",
         "MiniObelisk_NeedsSpace": "จุดวาร์ปถูกกีดขวาง",
         "FarmComputer_Intro": "การวิเคราะห์ {0} ฟาร์ม:",
         "FarmComputer_PiecesHay": "ฟางที่มี: {0}/{1}",
