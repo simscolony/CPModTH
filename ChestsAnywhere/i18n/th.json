@@ -2,8 +2,8 @@
     // default chest names
     "default-name.fridge": "ตู้เย็น",
     "default-name.other": "{{name}} #{{number}}",
-    "default-name.shipping-bin.store": "ไอเท็มนำขาย",
-    "default-name.shipping-bin.take": "ไอเท็มนำออก",
+    "default-name.shipping-bin.store": "ไอเทมนำขาย",
+    "default-name.shipping-bin.take": "ไอเทมนำออก",
 
     // default category names
     "default-category.owned-cabin": "กระท่อม ({{owner}})",
@@ -19,17 +19,17 @@
     "label.hide-chest": "ซ่อนกล่องเก็บของใบนี้",
     "label.hide-chest-hidden": "ซ่อนกล่องเก็บของใบนี้ (คุณจำเป็นต้องหากล่องเพื่อยกเลิกสถานะนี้!)",
     "label.automate-options": "ระบบอัตโนมัติ (Automate)",
-    "label.automate-store": "นำไอเท็มใส่ลงในกล่องใบนี้",
-    "label.automate-store-first": "นำไอเท็มใส่ลงในกล่องนี้เป็นลำดับแรก",
-    "label.automate-store-disabled": "ไม่นำไอเท็มใส่ลงในกล่องใบนี้",
-    "label.automate-take": "ใช้ไอเท็มจากกล่องใบนี้",
-    "label.automate-take-first": "ใช้ไอเท็มจากกล่องใบนี้เป็นลำดับแรก",
-    "label.automate-take-disabled": "ไม่นำไอเท็มออกจากกล่องใบนี้",
-    "label.automate-prevent-remove-stacks": "หลีกเลี่ยงการนำไอเท็มชิ้นสุดท้ายในกองออกมา",
+    "label.automate-store": "นำไอเทมใส่ลงในกล่องใบนี้",
+    "label.automate-store-first": "นำไอเทมใส่ลงในกล่องนี้เป็นลำดับแรก",
+    "label.automate-store-disabled": "ไม่นำไอเทมใส่ลงในกล่องใบนี้",
+    "label.automate-take": "ใช้ไอเทมจากกล่องใบนี้",
+    "label.automate-take-first": "ใช้ไอเทมจากกล่องใบนี้เป็นลำดับแรก",
+    "label.automate-take-disabled": "ไม่นำไอเทมออกจากกล่องใบนี้",
+    "label.automate-prevent-remove-stacks": "หลีกเลี่ยงการนำไอเทมชิ้นสุดท้ายในกองออกมา",
 
     // button labels
     "button.edit-chest": "ตั้งค่ากล่องใส่ของ",
-    "button.sort-inventory": "จัดเรียงไอเท็ม",
+    "button.sort-inventory": "จัดเรียงไอเทม",
     "button.save": "บันทึก",
     "button.reset": "ล้างข้อมูล",
 

@@ -613,7 +613,7 @@
     "puzzle.island-shrine.title": "ปริศนาศาลเจ้าบนเกาะ",
 
     // values
-    "puzzle.island-shrine.solution": "วางไอเท็มที่ได้จากนกอัญมณีจากเกาะที่สัมพันธ์กันลงบนแต่ละแท่นเมื่อฝนตก ไอเท็มจะถูกสุ่มใหม่ในแต่ละเซฟ",
+    "puzzle.island-shrine.solution": "วางไอเทมที่ได้จากนกอัญมณีจากเกาะที่สัมพันธ์กันลงบนแต่ละแท่นเมื่อฝนตก ไอเทมจะถูกสุ่มใหม่ในแต่ละเซฟ",
     "puzzle.island-shrine.solution.east": "ทิศตะวันออก: {{item}}",
     "puzzle.island-shrine.solution.north": "ทิศเหนือ: {{item}}",
     "puzzle.island-shrine.solution.south": "ทิศใต้: {{item}}",

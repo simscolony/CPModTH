@@ -215,7 +215,7 @@
 	"shopUnknown": "???",
 	"randomlyAvailable": "สุ่ม", // appended in parentheses after shop name when item is only randomly in stock
 	"mustHaveShipped": "ขาย {{item}}", // appended in parentheses after shop name if you have to have shipped a certain other item
-	"sewerRequirement": "บริจาคไอเท็ม 60 ชิ้นให้พิพิธภัณฑ์", // appended in parentheses after Krobus's shop name if sewer is not yet accessible
+	"sewerRequirement": "บริจาคไอเทม 60 ชิ้นให้พิพิธภัณฑ์", // appended in parentheses after Krobus's shop name if sewer is not yet accessible
 	
 	// Item Categories (for when any item from a category is allowed as machine input or recipe ingredient)
 	"itemCategoryGem": "อัญมณีชนิดไหนก็ได้",
