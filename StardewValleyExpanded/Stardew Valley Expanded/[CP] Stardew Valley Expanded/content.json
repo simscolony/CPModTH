@@ -32437,14 +32437,14 @@
 	 "When": { "HasSeenEvent": "746153084" },
 	 "Update": "OnLocationChange"
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Forestwest",
      "MapProperties": { "IsFarm": "T" },
 	 "When": { "HasFlag": "PlayerWantsAuroraVineyard" },
 	 "Update": "OnLocationChange"
 },
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Custom_Forestwest",
      "MapProperties": { "ForceAllowTreePlanting": "T" },
