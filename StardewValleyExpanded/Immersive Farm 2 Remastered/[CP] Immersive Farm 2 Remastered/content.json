@@ -473,7 +473,7 @@
       "Action": "EditMap",
       "Target": "Maps/Farm,Maps",
       "FromFile": "assets/MapPatches/RemoveMinecart_3.tbin",
-	  "ToArea": { "X": 123, "Y": 89, "Width": 6, "Height": 7 },
+	  "ToArea": { "X": 122, "Y": 89, "Width": 7, "Height": 7 },
 	  "When": { "Remove_Minecart_System": "true", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
     },
 
