@@ -4,7 +4,7 @@
 	"Type": "Sword",
 	"MinimumDamage": 1,
 	"MaximumDamage": 2,
-	"Knockback": 30.0,
+	"Knockback": 31.0,
 	"Speed": 6,
 	"Accuracy": 800,
 	"Defense": 0,

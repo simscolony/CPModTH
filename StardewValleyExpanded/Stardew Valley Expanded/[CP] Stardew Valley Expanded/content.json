@@ -19599,6 +19599,8 @@
 		}
     },
 
+	
+
 {  //Removes NPC shadow at highway
    "Action": "EditImage",
    "Target": "LooseSprites/Shadow",
@@ -24128,6 +24130,13 @@
       "FromFile": "assets/CharacterFiles/Dialogue/Claire/Claire.json"
     },
 
+	{
+      //Claire's Marriage Dialogue
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+      "FromFile": "assets/CharacterFiles/Dialogue/Claire/MarriageDialogue.json"
+    },
+	
 	{
       "Action": "EditData",
       "Target": "strings/StringsFromCSFiles",
@@ -32091,7 +32100,7 @@
 {    //Andy stops walking to Aurora Vineyard
 	 "Action": "EditData",
 	 "Target": "characters/schedules/Andy",
-	 "When": { "HasSeenEvent": "746153083" },
+	 "When": { "HasSeenEvent": "746153083, 7776012" },
 	 "Entries": {
        "spring_15": "0 Custom_AndyHouse 18 6 0/610 Custom_AndyHouse 20 6 0/800 Custom_AndyHouse 18 14 0/1200 Forest 69 66 1 Andy_Drink3/1900 Custom_AndyHouse 5 6 0/2300 Custom_AndyHouse 9 6 1 Andy_Sleep",
        "summer_15": "0 Custom_AndyHouse 18 6 0/610 Custom_AndyHouse 20 6 0/800 Custom_AndyHouse 18 14 0/1200 Forest 69 66 1 Andy_Drink3/1900 Custom_AndyHouse 5 6 0/2300 Custom_AndyHouse 9 6 1 Andy_Sleep",
