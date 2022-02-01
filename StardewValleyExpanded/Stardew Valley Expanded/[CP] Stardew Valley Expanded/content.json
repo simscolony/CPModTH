@@ -19599,7 +19599,7 @@
 		}
     },
 
-	
+
 
 {  //Removes NPC shadow at highway
    "Action": "EditImage",
@@ -24037,11 +24037,11 @@
       "Target": "Characters/Schedules/Claire",
 	  "When": { "HasSeenEvent |contains=191393": false, "Spouse": "Claire", "DayEvent |contains=flower dance, dance of the moonlight jellies, egg festival, feast of the winter star, festival of ice, luau, stardew valley fair, spirit's eve": false },
       "Entries": {
-        "marriage_Mon": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.000\"/2210 BusStop -1 23 3",
+        "marriage_Mon": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.000\"/1900 BusStop -1 23 3",
 		"marriage_Tue": "1030 SeedShop 26 17 1 \"Strings\\schedules\\Claire:AerobicsClass.000\"/1300 SeedShop 23 18 2 Claire_Dance \"Strings\\schedules\\Claire:AerobicsClass.001\"/1600 BusStop -1 23 3",
-        "marriage_Wed": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.001\"/2210 BusStop -1 23 3",
-        "marriage_Thu": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.002\"/2210 BusStop -1 23 3",
-        "marriage_Sun": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.003\"/2210 BusStop -1 23 3"
+        "marriage_Wed": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.001\"/1900 BusStop -1 23 3",
+        "marriage_Thu": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.002\"/1900 BusStop -1 23 3",
+        "marriage_Sun": "740 JojaMart 9 25 1 \"Strings\\schedules\\Claire:JojaMart.003\"/1900 BusStop -1 23 3"
 		}
 	},
 
@@ -24122,6 +24122,16 @@
       "When": { "DayOfWeek": "Sunday", "DisableSVEJojaMartShop": "false" },
     },
 
+	{
+	  //Claire Joja Mart Shop Patches
+      "Action": "EditMap",
+      "Target": "Maps/JojaMart",
+      "FromFile": "Assets/Maps/MapPatches/ClaireShopMarriedGoingHome.tbin",
+      "ToArea": { "X": 10, "Y": 24,"Width": 1, "Height": 3 },
+      "When": { "DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Sunday", "Time": "{{Range: 1900, 2600}}", "DisableSVEJojaMartShop": "false" },
+	  "Update": "OnLocationChange"
+    },
+
 
     {
       //Claire's Dialogue
@@ -24136,7 +24146,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueClaire",
       "FromFile": "assets/CharacterFiles/Dialogue/Claire/MarriageDialogue.json"
     },
-	
+
 	{
       "Action": "EditData",
       "Target": "strings/StringsFromCSFiles",
@@ -37996,6 +38006,8 @@
 	 "Target": "characters/schedules/Abigail",
 	 "Entries": {
 	 "20": "800 SeedShop 35 5 2/1000 SeedShop 9 5 0/1230 SebastianRoom 3 10 0/2100 SeedShop 1 9 3 abigail_sleep",
+	 "marriage_Fri": "800 SeedShop 36 9 0 \"Strings\\schedules\\Abigail:marriage_Fri.000\"/1100 Mountain 49 31 2 abigail_flute/1500 Saloon 42 17 2 abigail_sit_down \"Strings\\schedules\\Abigail:marriage_Fri.001\"/2030 BusStop -1 23 3",
+	 "6": "900 SeedShop 39 5 0/1030 SeedShop 2 20 3/1200 Mountain 49 31 2 abigail_flute/2000 SeedShop 1 9 3 abigail_sleep",
      },
 },
 
