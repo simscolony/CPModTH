@@ -21116,7 +21116,7 @@
 	"Target": "data/events/farmhouse",
 	"When": { "Spouse |contains=Wizard": true },
 	"Entries": {
-    "5978924/y 3/d Mon Tue/e 1724095/t 600 2600": "none/-500 -500/farmer -20 -20 0 Wizard -21 -21 0/skippable/pause 1000/speak Wizard \"My dearest, ข้ากลับมาจาก กระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์$0#$b#ข้ามีเรื่องสำคัญต้องบอกเจ้า พวกเขามอบหมายให้ข้า ฝึกหัดลูกศิษย์ เกี่ยวกับเวทย์เบื้องต้น และธาตุสภาพ ลูกศิษย์ข้ามีชื่อว่ามอร์แกน$0#$b#ข้าก็บอกไปแล้ว ว่าข้าจะสอนเวทมนตร์ ให้กับเจ้า...#$b#แต่ถ้ากระทรวงออกคำสั่งมา ข้าก็ต้องทำตามนั้น#$b#มอร์แกนจะมาถึงในวันพรุ่งนี้$0\"/pause 500/end dialogue Wizard \"ครอบครัวของมอร์แกน ขอที่จะมาเยี่ยมในทุกๆ ฤดู แต่ว่าข้าปฏิเสธ#$e#ให้ข้าได้อธิบาย#$b#จอมเวทย์จะต้องสาบานว่า จะปฏิบัติตาม 'หลักคำสอนของเมอร์ลิน'#$b#กระทรวงเวทมนตร์ ได้ยื่นคำขาดแล้ว#$e#เอาล่ะ ข้าจะต้องจัดเตรียม บทเรียนไว้สักหน่อย#$e#I'm somewhat excited. I've never had a pupil before. This feel likes a new chapter in my life.$1\""
+    "5978924/y 3/d Mon Tue/e 1724095/t 600 2600": "none/-500 -500/farmer -20 -20 0 Wizard -21 -21 0/skippable/pause 1000/speak Wizard \"ยอดดวงใจข้า ข้ากลับมาจาก กระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์แล้ว$0#$b#ข้ามีเรื่องสำคัญต้องบอกเจ้า พวกเขามอบหมายให้ข้า ฝึกหัดลูกศิษย์ เกี่ยวกับเวทย์เบื้องต้น และธาตุสภาพ ลูกศิษย์ข้ามีชื่อว่ามอร์แกน$0#$b#ข้าก็บอกไปแล้ว ว่าข้าจะสอนเวทมนตร์ ให้กับเจ้า...#$b#แต่ถ้ากระทรวงออกคำสั่งมา ข้าก็ต้องทำตามนั้น#$b#มอร์แกนจะมาถึงในวันพรุ่งนี้$0\"/pause 500/end dialogue Wizard \"ครอบครัวของมอร์แกน ขอที่จะมาเยี่ยมในทุกๆ ฤดู แต่ว่าข้าปฏิเสธ#$e#ให้ข้าได้อธิบาย#$b#จอมเวทย์จะต้องสาบานว่า จะปฏิบัติตาม 'หลักคำสอนของเมอร์ลิน'#$b#กระทรวงเวทมนตร์ ได้ยื่นคำขาดแล้ว#$e#เอาล่ะ ข้าจะต้องจัดเตรียม บทเรียนไว้สักหน่อย#$e#ข้าก็ตื่นเต้นอยู่เหมือนกัน ข้าน่ะไม่เคยมีลูกศิษย์มาก่อน นี่มันเหมือนกับเป็น เรื่องราวบทใหม่ในชีวิตข้าเลย$1\""
 	},
 },
 
@@ -21802,7 +21802,7 @@
 	  "When": { "Date": "Spring 22" },
       "Entries": {
       "funReturn_Wizard": "อย่าลืมเตือนข้า ให้เอาเครื่องรางที่ข้าพึ่งทำ มาให้เจ้าดูด้วยนะ มันมีคาถาป้องกันอยู่ แต่เอฟเฟคของมัน ดูจะดึงดูด สายตาไปสักหน่อย$0",
-      "funLeave_Wizard": "อรุณสวัสดิ์ ยอดดวงใจข้า ดื่มกาแฟสักหน่อยมั้ย? ข้าเติมอัลมอนต์ เครื่องเทศ โกโตรันลงไปด้วย [253]#$e#ข้าดื่มกาแฟไม่ค่อยบ่อยนัก แต่ถ้าจะต้องดื่ม ข้าขอแบบเข้มๆ ไปเลยดีกว่า$0",
+      "funLeave_Wizard": "อรุณสวัสดิ์ ยอดดวงใจข้า ดื่มกาแฟสักหน่อยมั้ย? ข้าเติม อัลมอนต์สมุนไพรโกโตรัน ลงไปด้วย [253]#$e#ข้าดื่มกาแฟไม่ค่อยบ่อยนัก แต่ถ้าจะต้องดื่ม ข้าขอแบบเข้มๆ ไปเลยดีกว่า$0",
         }
 	},
 	{
@@ -21846,7 +21846,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueWizard",
 	  "When": { "Date": "Spring 13", "HasSeenEvent |contains=5978924": true },
       "Entries": {
-      "funReturn_Wizard": "สายัณห์สวัสดิ์ ยอดดวงใจข้า วันนี้ข้ายินดีมาก ที่จะประกาศว่า เราไม่ได้ระเบิดหอคอย จนปลิว#$e#อ้อ ก็แค่ข้าหยุดมอร์แกนไม่ให้ผสม องค์ประกอบเวทย์ 2 อย่าง เข้าด้วยกัน ทันในวินาทีสุดท้ายนะสิ...$0",
+      "funReturn_Wizard": "สายัณห์สวัสดิ์ ยอดดวงใจข้า วันนี้ข้ายินดีมาก ที่จะประกาศว่า เราไม่ได้ระเบิดหอคอย จนปลิว#$e#อ้อ ก็แค่ข้าหยุดมอร์แกนไม่ให้ผสม องค์ประกอบเวทย์ 2 อย่าง เข้าด้วยกัน ทันในวินาทีสุดท้ายน่ะสิ...$0",
       "funLeave_Wizard": "วันนี้ข้าจะสอนมอร์แกน เกี่ยวกับการปรุงยา$0#$e#กุญแจสำคัญของน้ำยาที่ดี คือวัตถุดิบ$0",
         }
 	},
@@ -22123,7 +22123,7 @@
 	  "When": { "Date": "Fall 15" },
       "Entries": {
       "funReturn_Wizard": "วันนี้ ข้าลองทำขนมอบดูน่ะ ข้าคิดว่ามันออกมาดีทีเดียวเลย ถ้าดูจากที่เห็นอยู่นี่ [234 222 220]$0#$e#ข้าอยากให้เจ้าคิดว่า นี่ถือเป็นการฉลองล่วงหน้า สำหรับงานเทศกาล ในวันพรุ่งนี้ไปเลยละกัน$1",
-      "funLeave_Wizard": "อรุณสวัสดิ์ ยอดดวงใจข้า ดื่มกาแฟสักหน่อยมั้ย? ข้าเติมอัลมอนต์ เครื่องเทศ โกโตรันลงไปด้วย [253]#$e#ข้าดื่มกาแฟไม่ค่อยบ่อยนัก แต่ถ้าจะต้องดื่ม ข้าขอแบบเข้มๆ ไปเลยดีกว่า$0",
+      "funLeave_Wizard": "อรุณสวัสดิ์ ยอดดวงใจข้า ดื่มกาแฟสักหน่อยมั้ย?  ข้าเติม อัลมอนต์สมุนไพรโกโตรัน ลงไปด้วย [253]#$e#ข้าดื่มกาแฟไม่ค่อยบ่อยนัก แต่ถ้าจะต้องดื่ม ข้าขอแบบเข้มๆ ไปเลยดีกว่า$0",
         }
 	},
 	{
@@ -26993,7 +26993,7 @@
 	  "Target": "data/events/farm",
 	  "When": { "HasSeenEvent |contains=6951319": true },
 	  "Entries": {
-      "6951321/w sunny/c 1/t 600 1000": "continue/-500 -500/farmer -50 -50 2 Lance -100 -100 0/pause 1250/emote farmer 16/pause 100/speak Lance \"อรุณสวัสดิ์ @ หวังว่าข้าจะ ไม่ได้มาบุกรุกนะครับ$0\"/pause 750/faceDirection Lance 3 true/pause 900/faceDirection Lance 0 true/pause 275/faceDirection Lance 1 true/pause 825/faceDirection Lance 0 true/pause 500/speak Lance \"ข้าได้ยินมาจากสหายว่า ฟาร์มผืนนี้ของท่าน มีความพิเศษอยู่ด้วย$1#$b#คำบอกเล่าของพวกเขานี่ ไม่ตรงเลยสักนิด สถานที่แห่งนี้ แทบจะทำให้ ลืมหายใจเลยล่ะครับ 5\"/pause 750/emote farmer 8/pause 250/speak Lance \"อ้า จริงสิ ขออนุญาตให้ข้าอธิบาย ว่าทำไมข้าถึงมาที่นี่$0#$b#ข้าได้รับถ้อยคำ จากหัวหน้ากิลด์ของท่าน ท่านกิล ว่าท่านมาร์ลอนกำลังมองหา นักรบเวทย์$6#$b#หลังจากที่ได้ตรวจสอบหน้าที่ และภารกิจที่ต้องทำแล้ว ข้าจึงตัดสินใจเข้าร่วม$1\"/pause 900/speak Lance \"และข้าก็เชื่อว่า หลังจากที่เราได้เจอกัน ที่ใจกลางภูเขาโคห์ลดูร์ ท่านได้กระตุ้นความสนใจ ของข้ามาก$5#$b#ข้าอยากจะรู้จักท่าน ให้มากขึ้นกว่านี้ แต่ด้วยการที่ข้า ต้องออกเดินทางตลอด มันก็เลยไม่ค่อย จะคืบหน้าเท่าไหร่...$0#$b#นี่คือตารางเวลาของข้า [{{spacechase0.JsonAssets/ObjectId:Lance's Schedule}}]\"/pause 350/emote farmer 32/pause 250/speak Lance \"เราคงจะได้พบกันอีกเร็วๆ นี้$1#$b#ข้าคงต้องขอตัวก่อน ขอให้โชคดีครับ @$0\"/pause 400/end dialogue Lance \"ข้าจะมาทำภารกิจ ภายใต้การนำของท่านมาร์ลอน เป็นระยะเวลาหนึ่ง$0#$b#ภูมิประเทศ ของสตาร์ดิวแวลลี่ เป็นอะไรที่แปลกใหม่ สำหรับข้ามาก ข้าอยากจะออกสำรวจ แล้วล่ะครับ$1\""
+      "6951321/w sunny/c 1/t 600 1000": "continue/-500 -500/farmer -50 -50 2 Lance -100 -100 0/pause 1250/emote farmer 16/pause 100/speak Lance \"อรุณสวัสดิ์ @ หวังว่าข้าจะ ไม่ได้มาบุกรุกนะครับ$0\"/pause 750/faceDirection Lance 3 true/pause 900/faceDirection Lance 0 true/pause 275/faceDirection Lance 1 true/pause 825/faceDirection Lance 0 true/pause 500/speak Lance \"ข้าได้ยินมาจากสหายว่า ฟาร์มผืนนี้ของท่าน มีความพิเศษอยู่ด้วย$1#$b#คำบอกเล่าของพวกเขานี่ ไม่ตรงเลยสักนิด สถานที่แห่งนี้ แทบจะทำให้ ลืมหายใจเลยล่ะครับ 5\"/pause 750/emote farmer 8/pause 250/speak Lance \"อ้า จริงสิ ขออนุญาตให้ข้าอธิบาย ว่าทำไมข้าถึงมาที่นี่$0#$b#ข้าได้รับถ้อยคำ จากผู้ดูแลกิลด์ของท่าน ท่านกิล ว่าท่านมาร์ลอนกำลังมองหา นักรบเวทย์$6#$b#หลังจากที่ได้ตรวจสอบหน้าที่ และภารกิจที่ต้องทำแล้ว ข้าจึงตัดสินใจเข้าร่วม$1\"/pause 900/speak Lance \"และข้าก็เชื่อว่า หลังจากที่เราได้เจอกัน ที่ใจกลางภูเขาโคห์ลดูร์ ท่านได้กระตุ้นความสนใจ ของข้ามาก$5#$b#ข้าอยากจะรู้จักท่าน ให้มากขึ้นกว่านี้ แต่ด้วยการที่ข้า ต้องออกเดินทางตลอด มันก็เลยไม่ค่อย จะคืบหน้าเท่าไหร่...$0#$b#นี่คือตารางเวลาของข้า [{{spacechase0.JsonAssets/ObjectId:Lance's Schedule}}]\"/pause 350/emote farmer 32/pause 250/speak Lance \"เราคงจะได้พบกันอีกเร็วๆ นี้$1#$b#ข้าคงต้องขอตัวก่อน ขอให้โชคดีครับ @$0\"/pause 400/end dialogue Lance \"ข้าจะมาทำภารกิจ ภายใต้การนำของท่านมาร์ลอน เป็นระยะเวลาหนึ่ง$0#$b#ภูมิประเทศ ของสตาร์ดิวแวลลี่ เป็นอะไรที่แปลกใหม่ สำหรับข้ามาก ข้าอยากจะออกสำรวจ แล้วล่ะครับ$1\""
 	  },
     },
 
@@ -28368,8 +28368,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "*yawn* Reading these manifests all day takes a toll on a man...",
-	  "Snoring": "*yawn* Reading these manifests all day takes a toll on a man..."
+	  "ComeBackLater": "*หาว* การอ่านบัญชีพวกนี้ทั้งวัน ช่างทรมานจิตใจลูกผู้ชายซะจริง...",
+	  "Snoring": "*หาว* การอ่านบัญชีพวกนี้ทั้งวัน ช่างทรมานจิตใจลูกผู้ชายซะจริง..."
       },
 	  "When":
 	  {
@@ -28381,8 +28381,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "*snore*... What can I do you with?",
-	  "Snoring": "*snore*... What can I do you with?"
+	  "ComeBackLater": "*คร่อก*... จะให้ช่วยอะไรล่ะ?",
+	  "Snoring": "*คร่อก*... จะให้ช่วยอะไรล่ะ?"
       },
 	  "When":
 	  {
@@ -28394,8 +28394,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "I never thought of you much at first, but you've proven yourself to be a capable adventurer.",
-	  "Snoring": "I never thought of you much at first, but you've proven yourself to be a capable adventurer."
+	  "ComeBackLater": "ตอนแรกฉันก็ไม่ได้คิดอะไร กับเธอสักเท่าไหร่หรอกนะ แต่ตอนนี้เธอได้พิสูจน์ตัวเอง ว่าคู่ควรที่จะเป็นนักผจญภัย",
+	  "Snoring": "ตอนแรกฉันก็ไม่ได้คิดอะไร กับเธอสักเท่าไหร่หรอกนะ แต่ตอนนี้เธอได้พิสูจน์ตัวเอง ว่าคู่ควรที่จะเป็นนักผจญภัย"
       },
 	  "When":
 	  {
@@ -28408,8 +28408,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "Hey there, adventurer. Got guild business today?",
-	  "Snoring": "Hey there, adventurer. Got guild business today?"
+	  "ComeBackLater": "ว่ายังไงล่ะ นักผจญภัย วันนี้มีธุระกับกิลด์งั้นรึ?",
+	  "Snoring": "ว่ายังไงล่ะ นักผจญภัย วันนี้มีธุระกับกิลด์งั้นรึ?"
       },
 	  "When":
 	  {
@@ -28422,8 +28422,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "You'll move on from this place some day, adventurer.",
-	  "Snoring": "You'll move on from this place some day, adventurer."
+	  "ComeBackLater": "สักวันนึง เธอก็คงจะไปจากที่นี่สินะ นักผจญภัย",
+	  "Snoring": "สักวันนึง เธอก็คงจะไปจากที่นี่สินะ นักผจญภัย"
       },
 	  "When":
 	  {
@@ -28447,8 +28447,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "I use' to adventure all over the place when I was a youngin'. It's nice to think back on those memories.",
-	  "Snoring": "I use' to adventure all over the place when I was a youngin'. It's nice to think back on those memories."
+	  "ComeBackLater": "ฉันก็เคยออกผจญภัย รอบๆ ที่นี่ เมื่อสมัยยังหนุ่มน่ะนะ มันช่างดีจริงๆ เมื่อหวนคิดถึง ความทรงจำพวกนั้น",
+	  "Snoring": "ฉันก็เคยออกผจญภัย รอบๆ ที่นี่ เมื่อสมัยยังหนุ่มน่ะนะ มันช่างดีจริงๆ เมื่อหวนคิดถึง ความทรงจำพวกนั้น"
       },
 	  "When":
 	  {
@@ -28467,8 +28467,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "*Snore* Ah. You're back. Warm yourself by the fire.",
-	  "Snoring": "*Snore* Ah. You're back. Warm yourself by the fire."
+	  "ComeBackLater": "*คร่อก* อาา เธอกลับมาแล้วรึ  ไปผิงไฟให้อบอุ่นซะสิ",
+	  "Snoring": "*คร่อก* อาา เธอกลับมาแล้วรึ  ไปผิงไฟให้อบอุ่นซะสิ"
       },
 	  "When":
 	  {
@@ -28493,8 +28493,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "Our guild use' to be bigger, but folks moved on to other ventures. You'll always belong here, adventurer.",
-	  "Snoring": "Our guild use' to be bigger, but folks moved on to other ventures. You'll always belong here, adventurer."
+	  "ComeBackLater": "กิลด์ของเราเคยใหญ่กว่านี้น่ะ จนสมาชิกเริ่มย้ายออกไปอื่น ที่นี่จะยังคงเป็น บ้านของเธอเสมอ นักผจญภัย",
+	  "Snoring": "กิลด์ของเราเคยใหญ่กว่านี้น่ะ จนสมาชิกเริ่มย้ายออกไปอื่น ที่นี่จะยังคงเป็น บ้านของเธอเสมอ นักผจญภัย"
       },
 	  "When":
 	  {
@@ -28518,8 +28518,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "The 'Arcane Hat' is stylish wizard headwear. Too stylish for me though.",
-	  "Snoring": "The 'Arcane Hat' is stylish wizard headwear. Too stylish for me though."
+	  "ComeBackLater": "'Arcane Hat' เป็นเครื่องหัวของพ่อมด ที่ดูทันสมัยนะ แต่มันออกจะ ทันสมัยเกินไปสำหรับฉัน",
+	  "Snoring": "'Arcane Hat' เป็นเครื่องหัวของพ่อมด ที่ดูทันสมัยนะ แต่มันออกจะ ทันสมัยเกินไปสำหรับฉัน"
       },
 	  "When":
 	  {
@@ -28532,8 +28532,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "Don't ask how the 'Burglar Ring' works. It just does. I don't concern myself with the workings of magic charms.",
-	  "Snoring": "Don't ask how the 'Burglar Ring' works. It just does. I don't concern myself with the workings of magic charms."
+	  "ComeBackLater": "อย่าถามว่า 'แหวนจอมขโมย' ทำงานยังไงกับฉันเชียว มันก็แค่ทำงานนั่นแหละ ฉันไม่คิดจะสงสัยว่า พวกไอเท็มเวทมนตร์ จะทำงานแบบไหนนักหรอก",
+	  "Snoring": "อย่าถามว่า 'แหวนจอมขโมย' ทำงานยังไงกับฉันเชียว มันก็แค่ทำงานนั่นแหละ ฉันไม่คิดจะสงสัยว่า พวกไอเท็มเวทมนตร์ จะทำงานแบบไหนนักหรอก"
       },
 	  "When":
 	  {
@@ -28546,8 +28546,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "Duggies are strange mole-like monsters. Always keep on the move when fightin' 'em.",
-	  "Snoring": "Duggies are strange mole-like monsters. Always keep on the move when fightin' 'em."
+	  "ComeBackLater": "ดั๊กกี้เป็นมอสเตอร์แปลกๆ ที่หน้าตาเหมือนตัวตุ่น ต้องขยับตัวไว้ตลอด ขณะที่สู้กับพวกมันล่ะ",
+	  "Snoring": "ดั๊กกี้เป็นมอสเตอร์แปลกๆ ที่หน้าตาเหมือนตัวตุ่น ต้องขยับตัวไว้ตลอด ขณะที่สู้กับพวกมันล่ะ"
       },
 	  "When":
 	  {
@@ -28560,8 +28560,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "*yawn*... Marlon and I thought the 'Insect Head' would be a funny joke. It's worthless.",
-	  "Snoring": "*yawn*... Marlon and I thought the 'Insect Head' would be a funny joke. It's worthless."
+	  "ComeBackLater": "*หาว*... มาร์ลอนกับฉันคิดว่า  'หัวแมลง' ต้องเป็นมุขตลกแน่ๆ ไม่มีประโยชน์อะไรเล๊ย",
+	  "Snoring": "*หาว*... มาร์ลอนกับฉันคิดว่า  'หัวแมลง' ต้องเป็นมุขตลกแน่ๆ ไม่มีประโยชน์อะไรเล๊ย"
       },
 	  "When":
 	  {
@@ -28574,8 +28574,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "With the 'Knight's Helmet', you'll definitely look the part.",
-	  "Snoring": "With the 'Knight's Helmet', you'll definitely look the part."
+	  "ComeBackLater": "พอมี 'หมวกอัศวิน' นั่นแล้ว เธอดูเหมาะจริงๆ ",
+	  "Snoring": "พอมี 'หมวกอัศวิน' นั่นแล้ว เธอดูเหมาะจริงๆ"
       },
 	  "When":
 	  {
@@ -28588,8 +28588,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "The 'Crabshell Ring' is a magical charm from The First Slash guild, fortifying the body. It'll suit you well.",
-	  "Snoring": "The 'Crabshell Ring' is a magical charm from The First Slash guild, fortifying the body. It'll suit you well."
+	  "ComeBackLater": "'แหวนกระดองปู' เป็นไอเท็มเวทมนตร์ ที่มาจากกิลด์คมแรก เสริมความแข็งแกร่งของร่างกาย มันเหมาะกับเธอดีเลย",
+	  "Snoring": "'แหวนกระดองปู' เป็นไอเท็มเวทมนตร์ ที่มาจากกิลด์คมแรก เสริมความแข็งแกร่งของร่างกาย มันเหมาะกับเธอดีเลย"
       },
 	  "When":
 	  {
@@ -28602,8 +28602,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "The 'Napalm Ring' is my personal favorite. It's useful when fighting mummies and the like.",
-	  "Snoring": "The 'Napalm Ring' is my personal favorite. It's useful when fighting mummies and the like."
+	  "ComeBackLater": "ฉันชอบ 'แหวนนาปาล์ม' เป็นการส่วนตัวน่ะ มันมีประโยชน์มาก เวลาสู้กับมัมมี่ หรือกับพวกที่คล้ายๆ กัน",
+	  "Snoring": "ฉันชอบ 'แหวนนาปาล์ม' เป็นการส่วนตัวน่ะ มันมีประโยชน์มาก เวลาสู้กับมัมมี่ หรือกับพวกที่คล้ายๆ กัน"
       },
 	  "When":
 	  {
@@ -28616,8 +28616,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "The 'Savage Ring' was made with witchcraft, using the void essence of fallen shadow monsters.",
-	  "Snoring": "The 'Savage Ring' was made with witchcraft, using the void essence of fallen shadow monsters."
+	  "ComeBackLater": "'แหวนจอมโหด' ถูกสร้างมาจากเวทมนตร์คาถา โดยการใช้หินแห่งความมืด ที่ดรอปจากมอนสเตอร์เงา",
+	  "Snoring": "'แหวนจอมโหด' ถูกสร้างมาจากเวทมนตร์คาถา โดยการใช้หินแห่งความมืด ที่ดรอปจากมอนสเตอร์เงา"
       },
 	  "When":
 	  {
@@ -28630,8 +28630,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "*snore*... We found the 'Skeleton Mask' in our storage room. It'd make for a good Spirit's Eve costume.",
-	  "Snoring": "*snore*... We found the 'Skeleton Mask' in our storage room. It'd make for a good Spirit's Eve costume."
+	  "ComeBackLater": "*คร่อก*... เราไปเจอ 'หน้ากากกะโหลก' ในห้องเก็บของเข้า มันน่าจะเหมาะใช้เป็น เครื่องแต่งกายในวันเทศกาลภูต",
+	  "Snoring": "*คร่อก*... เราไปเจอ 'หน้ากากกะโหลก' ในห้องเก็บของเข้า มันน่าจะเหมาะใช้เป็น เครื่องแต่งกายในวันเทศกาลภูต"
       },
 	  "When":
 	  {
@@ -28644,8 +28644,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "That 'Slime Charmer Ring' used to belong to another. And now it is yours, adventurer. Treat it well.",
-	  "Snoring": "That 'Slime Charmer Ring' used to belong to another. And now it is yours, adventurer. Treat it well."
+	  "Snoring": "แหวนควบคุมสไลม์' นั่นเคยเป็นของคนอื่นมาก่อน ตอนนี้มันเป็นของเจ้าแล้ว เก็บรักษามันให้ดีล่ะ"
+อ	  "ComeBackLater": "'แหวนควบคุมสไลม์' นั่นเคยเป็นของคนอื่นมาก่อน ตอนนี้มันเป็นของเธอแล้ว เก็บรักษามันให้ดีล่ะ",
       },
 	  "When":
 	  {
@@ -28658,8 +28658,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "How's adventurin' at that volcano on the island? Got any stories to share? We can swap some with each other.",
-	  "Snoring": "How's adventurin' at that volcano on the island? Got any stories to share? We can swap some with each other."
+	  "ComeBackLater": "การผจญภัย ในภูเขาไฟที่เกาะขิง เป็นยังไงบ้าง? มีเรื่องอะไรมาเล่ามั้ยล่ะ? เราจะได้แลกเปลี่ยนข้อมูลกัน",
+	  "Snoring": "การผจญภัย ในภูเขาไฟที่เกาะขิง เป็นยังไงบ้าง? มีเรื่องอะไรมาเล่ามั้ยล่ะ? เราจะได้แลกเปลี่ยนข้อมูลกัน"
       },
 	  "When":
 	  {
@@ -28672,8 +28672,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gil",
       "Entries": {
-	  "ComeBackLater": "The origin of the 'Vampire Ring' is an interesting one. Druids from a far away land are responsible for its magical properties...",
-	  "Snoring": "The origin of the 'Vampire Ring' is an interesting one. Druids from a far away land are responsible for its magical properties..."
+	  "ComeBackLater": "มีต้นกำเนิดของ 'แหวนผีดูดเลือด'  อันนึงที่น่าสนใจอยู่นะ ดรูอิดจากดินแดนที่อยู่ห่างไกล ต้องรับผิดชอบต่อผลจาก คุณสมบัติเวทย์ของมัน...",
+	  "Snoring": "มีต้นกำเนิดของ 'แหวนผีดูดเลือด'  อันนึงที่น่าสนใจอยู่นะ ดรูอิดจากดินแดนที่อยู่ห่างไกล ต้องรับผิดชอบต่อผลจาก คุณสมบัติเวทย์ของมัน..."
       },
 	  "When":
 	  {
