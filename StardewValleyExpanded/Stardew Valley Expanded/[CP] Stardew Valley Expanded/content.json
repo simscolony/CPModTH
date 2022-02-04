@@ -2928,12 +2928,15 @@
         //Future Castle Village NPCs:
 
 		//"Cyrus": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Lilly": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Iris": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Marley: "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Gideon": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Eleanor": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Bex": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Gribble": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit"
+		//"Gribble": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Gertrude": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Douglas": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Sterling": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit"
 	 }
 },
 
@@ -4799,6 +4802,13 @@
     "RequiredPopulation": 1,
     "Chance": 0.15,
     "ItemID": 909,
+    "MinQuantity": 1,
+    "MaxQuantity": 1
+    },
+	{
+    "RequiredPopulation": 1,
+    "Chance": 0.40,
+    "ItemID": 812,
     "MinQuantity": 1,
     "MaxQuantity": 1
     }
