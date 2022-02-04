@@ -23,6 +23,34 @@
         }
     },
 
+    "DynamicTokens": [
+        {
+            "Name": "VisualStyle",
+            "Value": "default"
+        },
+        {
+            "Name": "VisualStyle",
+            "Value": "ofi",
+            "When": {
+                "HasMod": "Amaryn.OvergrownFloweryInterface"
+            }
+        },
+        {
+            "Name": "VisualStyle",
+            "Value": "vi1",
+            "When": {
+                "HasMod": "ManaKirel.VMI"
+            }
+        },
+        {
+            "Name": "VisualStyle",
+            "Value": "vi2",
+            "When": {
+                "HasMod": "ManaKirel.VintageInterface2"
+            }
+        }
+    ],
+
     "Changes": [
         // define language
         {
@@ -48,7 +76,7 @@
         {
             "Action": "Load",
             "Target": "Mods/TranslatorArmy.ModTH/Button",
-            "FromFile": "assets/button.png"
+            "FromFile": "assets/button_{{VisualStyle}}.png"
         },
 
         // load font files
