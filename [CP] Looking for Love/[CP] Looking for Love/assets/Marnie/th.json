@@ -49,7 +49,7 @@
 				"refusal_botherA": "อีกแล้วหรอ!? ทำไมอีก...? $7",
 				"refusal_botherB": "หยุดนะ ฉันพูดไปชัดเจนแล้ว$s",
 				"refusal_no_heartsA": "ฉันก็อยากจะแต่งงานนะ... แต่ไม่ใช่กับเธอ...$2",
-				"refusal_no_heartsB": "โอ้... งั้นหรอ ขอบใจ... แต่ไม่ล่ะจ้ะ$h",
+				"refusal_no_heartsB": "โอ้... งั้นเหรอ ขอบใจ... แต่ไม่ล่ะจ้ะ$h",
 				},
 			"When": { "HasMod": "misscoriel.courtship"},
 		},
