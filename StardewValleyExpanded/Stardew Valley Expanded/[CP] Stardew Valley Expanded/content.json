@@ -2925,10 +2925,10 @@
 		"HighlandsDwarf": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit, PerfectFriend, MovieInvite, BeGreeted, Greet",
 
 
-        //Future Castle Village NPCs:
+        //Future Castle Village NPCs (Huge spoiler)
 
 		//"Cyrus": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Iris": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Sabrina": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Marley: "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Gideon": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Eleanor": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
@@ -2936,7 +2936,12 @@
 		//"Gribble": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Gertrude": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Douglas": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
-		//"Sterling": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit"
+		//"Joshua": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Ruby": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Dolores": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Feron": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Cynthia": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
+		//"Felix": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit"
 	 }
 },
 
@@ -5282,6 +5287,9 @@
 	"Mega Bomb": { 0: "384 4 382 1 768 1 769 1" },
 	"Wild Bait": { 0: "771 3 684 1 766 1" },
 	"Iridium Band": { 0: "337 20 768 200 769 200" },
+	"Stone Chest": { 0: "390 100" },
+	"Mini-Obelisk": { 0: "709 50 768 1000 336 8" },
+	"Geode Crusher": { 0: "335 10 390 100 72 3" },
 	},
 	"When": { "BalancedCrafting": true }
 },
@@ -8653,20 +8661,6 @@
 	 "When": { "HasFlag": "communityUpgradeShortcuts" },
      "ToArea": { "X": 85, "Y": 0, "Width": 3, "Height": 5 }
 },
-/*
-{    //Patches forest shortcut (remove some objects)
-     "Action": "EditMap",
-     "Target": "Maps/Forest",
-     "FromFile": "Assets/Maps/MapPatches/Forest_Shortcut.tbin",
-	 "When": { "HasFlag": "communityUpgradeShortcuts" },
-     "ToArea": { "X": 114, "Y": 32, "Width": 6, "Height": 9 }
-},
-{
-     "Action": "EditMap",
-     "Target": "Maps/Forest",
-	 "When": { "HasFlag": "communityUpgradeShortcuts" },
-     "MapProperties": { "NPCWarp": "118 35 BlueMoonVineyard 74 37" }
-},*/
 
 {
      "Action": "EditMap",
@@ -9882,6 +9876,8 @@
      "Entries": {
      "set-up": "event2/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Luau/loadActors Set-Up/addTemporaryActor Governor 16 32 32 4 2/advancedMove Vincent true 3 0 3 3000 -3 0 3 3000/advancedMove Jas true 3 0 1 3000 -3 0 1 3000/advancedMove Pam true 4 25000 -5 0 4 20000 5 0/advancedMove Gus True 0 -1 3 4000 0 1 3 4000/advancedMove Shane true 1 10000 0 1 1 10000 0 -1/advancedMove Clint true 4 15000 -3 0 4 15000 6 0 4 10000 -3 0/animate Emily false true 250 16 17 16 17 20 21 20 21 18 19 18 19 22 23 22 23/animate Robin false true 500 20 21 20 22/animate Demetrius false true 500 24 25 24 26/animate Marnie false true 200 17 18 17 19/positionOffset Marnie 0 16/animate Claire false true 200 20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 22 22 22 22 22 22 22 22 22 22 22 22 23 24 25 22 23 24 25 22 23 24 25 22 23 24 25 22 23 24 25 22 23 24 25 22 22 22 22 22 21 21 21 21 21 21 21 21 20/viewport 38 2 clamp true/pause 1000/playerControl luau",
 	 "mainEvent": "pause 500/playMusic ocean/globalFade/viewport -1000 -1000/loadActors MainEvent/addTemporaryActor Governor 16 32 35 10 2/warp farmer1 33 19/warp farmer2 32 19/warp farmer3 40 19/warp farmer4 28 9/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 1/viewport 35 12 true/pause 2000/faceDirection Lewis 3/pause 100/faceDirection Lewis 2/pause 100/faceDirection Lewis 1/pause 100/faceDirection Lewis 2/speak Lewis \"เอาล่ะทุกคนครับ! ตอนนี้ก็เป็นอีกครั้ง สำหรับกิจกรรมปรุงซุปนี้#$b#ฉันหวังว่าทุกคน จะใส่ของดีมีคุณภาพ ลงไปในหม้อนะ เราไม่อยาก ให้ท่านผู้ว่าเสียใจ ที่มาที่หมู่บ้านนี้!\"/pause 1000/faceDirection Lewis 3/pause 500/speak Lewis \"เอ่อ... ท่านครับ กรุณาให้เกียรติ ชิมซุปนี่ได้มั้ยครับ?\"/pause 500/speak Governor \"แน่นอน! ฉันรอชิมเจ้านี้ มาเกือบทั้งปีเลยล่ะ\"/playMusic none/pause 500/move Governor 0 1 2/pause 1000/playSound dwop/showFrame Governor 8 true/pause 1000/animate Governor false false 200 8 8 9 10 11 11/pause 1100/playSound sipTea/pause 1000/playSound gulp/pause 500/showFrame Governor 8 true/animate Governor false false 200 11 10 9 8/pause 900/speak Governor \"...$h\"/pause 300/cutscene governorTaste/null",
+	 "Robin": "จังหวะนี่มันชวนโยกจริงๆ$0",
+     "Demetrius": "การเต้นช่วยกระตุ้น ความอยากอาหารได้ดีใช้ได้เลย#$e#*แฮ่ก แฮ่ก* พร้อมไปดูบุฟเฟต์ยังจ๊ะที่รัก?$0",
 	 }
 },
 
@@ -21244,11 +21240,11 @@
 	"Fields": {
 	"176": { 1: "55" }, //white egg
 	"180": { 1: "55" }, //brown egg
-	"184": { 1: "105" }, //large white egg
-	"184": { 1: "105" }, //large brown egg
+	"174": { 1: "105" }, //large white egg
+	"182": { 1: "105" }, //large brown egg
 	"442": { 1: "105" }, //duck egg
 	"107": { 1: "385" }, //dinosaur egg
-	"306": { 1: "72" }, //void egg
+	"305": { 1: "72" }, //void egg
 	"184": { 1: "138" }, //milk
 	"186": { 1: "209" }, //large milk
 	"436": { 1: "273" }, //goat milk
@@ -21272,11 +21268,11 @@
 	"Fields": {
 	"176": { 1: "50" }, //white egg
 	"180": { 1: "50" }, //brown egg
-	"184": { 1: "95" }, //large white egg
-	"184": { 1: "95" }, //large brown egg
+	"174": { 1: "95" }, //large white egg
+	"182": { 1: "95" }, //large brown egg
 	"442": { 1: "95" }, //duck egg
 	"107": { 1: "350" }, //dinosaur egg
-	"306": { 1: "65" }, //void egg
+	"305": { 1: "65" }, //void egg
 	"184": { 1: "125" }, //milk
 	"186": { 1: "190" }, //large milk
 	"436": { 1: "225" }, //goat milk
@@ -23548,6 +23544,15 @@
    ]
 },
 
+{   //Junimo Woods - Mother Stafruit Tree Patch
+    "Action": "EditMap",
+    "Target": "Maps/Custom_JunimoWoods",
+    "FromFile": "assets/Maps/MapPatches/JunimoWoods_MotherStarfruitTree.tbin",
+	"ToArea": { "X": 13, "Y": 41, "Width": 15, "Height": 16 },
+    "When": { "HasSeenEvent": "7776012" },
+	"Update": "OnLocationChange"
+},
+
 
 	//FLOWER DANCE
     {
@@ -24132,7 +24137,7 @@
       "Target": "Maps/JojaMart",
       "FromFile": "Assets/Maps/MapPatches/ClaireShopMarriedGoingHome.tbin",
       "ToArea": { "X": 10, "Y": 24,"Width": 1, "Height": 3 },
-      "When": { "DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Sunday", "Time": "{{Range: 1900, 2600}}", "DisableSVEJojaMartShop": "false" },
+      "When": { "DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Sunday", "Spouse": "Claire", "Time": "{{Range: 1900, 2600}}", "DisableSVEJojaMartShop": "false" },
 	  "Update": "OnLocationChange"
     },
 
@@ -27571,7 +27576,7 @@
 	  //Lance 10 heart event - part 1
       "Action": "EditData",
       "Target": "data/events/farm",
-	  "When": { "LocationContext": "Island", "Weather": "Sun", "HasSeenEvent": "65360191" },
+	  "When": { "HasSeenEvent": "65360191" },
       "Entries": {
       "65360194/f Lance 2500/t 600 1100": "continue/-100 -100/farmer -10 -10 2 Lance -12 -12 0/skippable/pause 1250/speak Lance \"อรุณสวัสดิ์ ข้ามีธุระที่กิลด์วันนี้ และท่านจะว่ายังไง ถ้าข้าอยากจะให้ท่าน ไปด้วยกันกับข้า$0#$b#ท่านคงจะจดจำได้ในวันนั้นแล้ว ว่ากิลด์พิฆาตคมแรกเป็นยังไง...$5\"/pause 200/emote farmer 32/pause 250/speak Lance \"ท่านสามารถใช้โถงวาร์ป ของท่านแมกนัส หรือพงไพรเวทย์ของข้า ที่เกาะขิงก็ได้$1#$b#ข้าเคลียร์เส้นทาง ด้านหลังบ้านที่ฟาร์มเกาะของท่าน บนหน้าผาเอาไว้แล้วครับ$0\"/pause 500/end dialogue Lance \"ข้าจะไปเจอท่าน ที่เกาะปะการังเล่าขาน นะครับ$1\""
 
@@ -27591,9 +27596,8 @@
 	  //Lance 10 heart event - part 2 - "Life On Fable Reef"
       "Action": "EditData",
       "Target": "data/events/Custom_FableReef",
-	  "When": { "LocationContext": "Island", "Weather": "Sun" },
       "Entries": {
-      "65360195/e 65360194/f Lance 2500/t 600 1800": "tropical_island_day_ambient/-500 -500/farmer 32 44 1 Lance 44 44 2/addTemporaryActor LanceBeach 16 32 -102 -102 0/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Jolyne 16 32 -96 -96 2/addTemporaryActor TorpedoTroutActor1 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor2 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor3 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor4 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor5 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor6 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor7 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor8 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor9 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor10 42 32 -30 -30 2 false/addTemporaryActor CampfireActor 14 25 -30 -30 2 false/addTemporaryActor CoralActor 28 28 -25 -25 2 false/pause 850/skippable/viewport 39 44 true/viewport move 1 0 4000 true/move farmer 9 0 1 true/pause 2550/faceDirection Lance 3 true/pause 450/speak Lance \"อ้า ท่านมาแล้ว!$1\"/pause 500/move Lance -1 0 3/pause 500/speak Lance \"ท่านโจลีน ใช้โทเทมดวงอาทิตย์ไป เพราะฉะนั้นวันนี้ จะไม่มีอะไร นอกจากท้องฟ้าอันแจ่มใส$0\"/pause 400/emote farmer 32/pause 300/speak Lance \"เรามาเริ่มจาก การลาดตระเวน บนเกาะปะการังเล่าขาน กันเถอะครับ$1\"/pause 350/globalFade/viewport -1000 -1000/stopMusic/playMusic moonlightJellies/pause 3000/warp Lance 35 23/faceDirection Lance 1 true/warp farmer 33 23/faceDirection farmer 1 true/makeInvisible 30 32 16 3/viewport 39 23 true/viewport move 1 0 7500 true/move Lance 15 0 1 true/move farmer 15 0 1 true/pause 5000/globalFade/viewport -1000 -1000/pause 1000/warp Lance 44 58/faceDirection Lance 2 true/warp farmer 42 58/faceDirection farmer 2 true/positionOffset Lance -30 -10 true/positionOffset farmer 30 0 true/warp TorpedoTroutActor1 48 66/positionOffset TorpedoTroutActor1 0 0 true/speed TorpedoTroutActor1 5/move TorpedoTroutActor1 -80 0 3 true/warp TorpedoTroutActor2 50 61/positionOffset TorpedoTroutActor2 0 0 true/speed TorpedoTroutActor2 6/move TorpedoTroutActor2 -80 0 3 true/warp TorpedoTroutActor3 53 64/positionOffset TorpedoTroutActor3 0 0 true/speed TorpedoTroutActor3 6/move TorpedoTroutActor3 -80 0 3 true/warp TorpedoTroutActor4 60 62/positionOffset TorpedoTroutActor4 0 0 true/speed TorpedoTroutActor4 7/move TorpedoTroutActor4 -80 0 3 true/warp TorpedoTroutActor5 63 67/positionOffset TorpedoTroutActor5 0 0 true/speed TorpedoTroutActor5 6/move TorpedoTroutActor5 -80 0 3 true/warp TorpedoTroutActor6 67 63/positionOffset TorpedoTroutActor6 0 0 true/speed TorpedoTroutActor6 6/move TorpedoTroutActor6 -80 0 3 true/warp TorpedoTroutActor7 73 65/positionOffset TorpedoTroutActor7 0 0 true/speed TorpedoTroutActor7 6/move TorpedoTroutActor7 -80 0 3 true/warp TorpedoTroutActor8 76 61/positionOffset TorpedoTroutActor8 0 0 true/speed TorpedoTroutActor8 5/move TorpedoTroutActor8 -80 0 3 true/warp TorpedoTroutActor9 79 66/positionOffset TorpedoTroutActor9 0 0 true/speed TorpedoTroutActor9 6/move TorpedoTroutActor9 -80 0 3 true/warp TorpedoTroutActor10 83 63/positionOffset TorpedoTroutActor10 0 0 true/speed TorpedoTroutActor10 6/move TorpedoTroutActor10 -80 0 3 true/makeInvisible 35 53 19 7/viewport 43 62 clamp true/showFrame Lance 43 true/pause 2000/emote farmer 16 true/pause 1000/showFrame Lance 0 true/pause 2000/showFrame Lance 42 true/globalFade/viewport -1000 -1000/warp TorpedoTroutActor1 -100 -100/warp TorpedoTroutActor2 -100 -100/warp TorpedoTroutActor3 -100 -100/warp TorpedoTroutActor4 -100 -100/warp TorpedoTroutActor5 -100 -100/warp TorpedoTroutActor6 -100 -100/warp TorpedoTroutActor7 -100 -100/warp TorpedoTroutActor8 -100 -100/warp TorpedoTroutActor9 -100 -100/warp TorpedoTroutActor10 -100 -100/changeLocation Custom_FirstSlashGuild/warp CoralActor 7 18/positionOffset CoralActor -20 5 true/warp Lance 7 19/faceDirection Lance 3 true/warp farmer 6 19/faceDirection farmer 1 true/warp Jolyne 14 15/faceDirection Jolyne 2 true/warp Edmund 20 17/faceDirection Edmund 1 true/warp Drake 17 19/faceDirection Drake 3 true/warp Brianna 15 19/faceDirection Brianna 1 true/positionOffset Lance 11 29 true/positionOffset farmer 20 40 true/warp Gale 11 14/speed Gale 1/move Gale 0 9 2 true/viewport 8 19 true/pause 2000/shake Lance 500/textAboveHead Lance \"นี่คือวิธีการทำน้ำยาเพิ่มมานาของเรา!\"/pause 3000/faceDirection farmer 0 true/pause 750/faceDirection Lance 0 true/pause 1000/globalFade/viewport -1000 -1000/changeLocation Custom_FableReef/warp CoralActor -40 -40/warp Edmund -30 -30/warp Drake -30 -30/warp Jolyne 18 35/warp farmer 19 31/warp Brianna 26 31/warp Lance 18 33/faceDirection Brianna 1 true/faceDirection farmer 3 true/faceDirection Jolyne 3 true/faceDirection Lance 3 true/positionOffset Lance -20 10 true/positionOffset Jolyne -8 14 true/makeInvisible 17 29 9 9/positionOffset farmer 0 25 true/warp Gale -30 -30/viewport 22 32 clamp true/speed Brianna 1/move Brianna -4 0 3 true/pause 1500/shake Brianna 800/textAboveHead Brianna \"ไง!\"/pause 1000/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 2000/shake Brianna 400/textAboveHead Brianna \"ข้าได้ยินเรื่องเจ้าด้วยนะ!\"/pause 1800/animate farmer false false 6000 97/pause 500/globalFade/viewport -1000 -1000/stopAnimation farmer/pause 500/warp Lance 61 47/faceDirection Lance 0 true/positionOffset Lance -40 0 true/warp farmer 59 47/faceDirection farmer 0 true/positionOffset farmer -12 15 true/warp Gale 61 46/faceDirection Gale 3 true/positionOffset Gale 12 -5 true/warp Edmund 60 44/faceDirection Edmund 2 true/positionOffset Edmund 10 -3 true/warp Brianna 57 46/faceDirection Brianna 1 true/positionOffset Brianna 5 25 true/warp Drake 57 45/faceDirection Drake 1 true/positionOffset Drake 30 5 true/warp CampfireActor 59 46/positionOffset CampfireActor 32 -32 true/animate CampfireActor false true 150 0 1 2 3/ambientLight 120 150 130/addLantern 31 59 45 2/addLantern 31 60 45 2/addLantern 31 59 46 2/addLantern 31 60 46 2/makeInvisible 62 38 6 15/warp Jolyne 53 44/move Jolyne 6 0 2 true/viewport 52 39 true/viewport move 1 1 10000 true/pause 1000/textAboveHead Jolyne \"ตอนนี้ละ จุดไฟได้!\"/pause 750/shake Brianna 550/pause 950/shake Drake 450/pause 2500/faceDirection Lance 3 true/pause 1500/faceDirection farmer 1 true/pause 800/globalFade/viewport -1000 -1000/warp Jolyne -30 -30/warp Brianna -29 -29/warp Edmund -28 -28/warp Drake -27 -27/warp Gale -26 -26/warp farmer -25 -25/warp Lance -24 -24/warp CampfireActor -23 -23/changeLocation Custom_FirstSlashHallway/viewport 15 7 true/viewport move 1 0 6500 true/pause 4000/globalFade/viewport -1000 -1000/changeLocation Custom_FirstSlashGuestRoom/warp Lance 5 5/warp farmer 5 7/faceDirection Lance 2 true/faceDirection farmer 0 true/viewport 5 6 true/pause 1250/showFrame Lance 41 true/pause 150/shake Lance 500/pause 300/speak Lance \"*หาว* วันนี้สุดๆ ไปเลยนะครับ...$5\"/pause 800/showFrame Lance 0 true/pause 600/faceDirection Lance 1 true/pause 250/showFrame Lance 8 true/pause 1250/shake Lance 400/pause 390/playSound dwop/shake LanceBeach 350/warp LanceBeach 5 5/warp Lance -50 -50/pause 1000/faceDirection LanceBeach 1 true/pause 250/faceDirection LanceBeach 2 true/pause 900/speak Lance \"เอิ่มม เตียงนี้ มันเตียงเป็นเดี่ยว$7#$b#ข้าไม่รู้ว่า เรานอนกันได้ 2 คนมั้ย...$7\"/pause 1000/question fork0 \"(แลนซ์มีซิกแพคด้วย)#ถึงนอนไม่ได้ เราก็จะทำให้มันนอนได้นี่แหละ...#ฉันจะไปข้างนอก น่าสนุกจะตาย\"/fork 65360195_CuddleLance/pause 400/speak Lance \"*คิกคัก* ถ้าท่านอยากจะไป เดินทางปลอดภัยครับ$9#$b#ที่นี่ต้อนรับท่านเสมอ$7\"/pause 1000/globalFade/viewport -1000 -1000/pause 1500/end dialogue Lance \"???\""
+      "65360195/e 65360194/f Lance 2500/t 600 1800": "tropical_island_day_ambient/-500 -500/farmer 32 44 1 Lance 44 44 2/addTemporaryActor LanceBeach 16 32 -102 -102 0/addTemporaryActor Brianna 16 32 -100 -100 2/addTemporaryActor Drake 16 32 -99 -99 2/addTemporaryActor Gale 16 32 -98 -98 2/addTemporaryActor Edmund 16 32 -97 -97 2/addTemporaryActor Jolyne 16 32 -96 -96 2/addTemporaryActor TorpedoTroutActor1 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor2 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor3 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor4 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor5 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor6 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor7 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor8 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor9 42 32 -30 -30 2 false/addTemporaryActor TorpedoTroutActor10 42 32 -30 -30 2 false/addTemporaryActor CampfireActor 14 25 -30 -30 2 false/addTemporaryActor CoralActor 28 28 -25 -25 2 false/pause 850/skippable/viewport 39 44 true/viewport move 1 0 4000 true/move farmer 9 0 1 true/pause 2550/faceDirection Lance 3 true/pause 450/speak Lance \"อ้า ท่านมาแล้ว!$1\"/pause 500/move Lance -1 0 3/pause 500/speak Lance \"วันนี้มีฝูงปลาเทราต์ตอปิโด (torpedo trout) อยู่ที่เกาะ บางทีเราอาจจะเห็นพวกมันก็ได้$0\"/pause 400/emote farmer 32/pause 300/speak Lance \"เรามาเริ่มจาก การลาดตระเวน บนเกาะปะการังเล่าขาน กันเถอะครับ$1\"/pause 350/globalFade/viewport -1000 -1000/stopMusic/playMusic moonlightJellies/pause 3000/warp Lance 35 23/faceDirection Lance 1 true/warp farmer 33 23/faceDirection farmer 1 true/makeInvisible 30 32 16 3/viewport 39 23 true/viewport move 1 0 7500 true/move Lance 15 0 1 true/move farmer 15 0 1 true/pause 5000/globalFade/viewport -1000 -1000/pause 1000/warp Lance 44 58/faceDirection Lance 2 true/warp farmer 42 58/faceDirection farmer 2 true/positionOffset Lance -30 -10 true/positionOffset farmer 30 0 true/warp TorpedoTroutActor1 48 66/positionOffset TorpedoTroutActor1 0 0 true/speed TorpedoTroutActor1 5/move TorpedoTroutActor1 -80 0 3 true/warp TorpedoTroutActor2 50 61/positionOffset TorpedoTroutActor2 0 0 true/speed TorpedoTroutActor2 6/move TorpedoTroutActor2 -80 0 3 true/warp TorpedoTroutActor3 53 64/positionOffset TorpedoTroutActor3 0 0 true/speed TorpedoTroutActor3 6/move TorpedoTroutActor3 -80 0 3 true/warp TorpedoTroutActor4 60 62/positionOffset TorpedoTroutActor4 0 0 true/speed TorpedoTroutActor4 7/move TorpedoTroutActor4 -80 0 3 true/warp TorpedoTroutActor5 63 67/positionOffset TorpedoTroutActor5 0 0 true/speed TorpedoTroutActor5 6/move TorpedoTroutActor5 -80 0 3 true/warp TorpedoTroutActor6 67 63/positionOffset TorpedoTroutActor6 0 0 true/speed TorpedoTroutActor6 6/move TorpedoTroutActor6 -80 0 3 true/warp TorpedoTroutActor7 73 65/positionOffset TorpedoTroutActor7 0 0 true/speed TorpedoTroutActor7 6/move TorpedoTroutActor7 -80 0 3 true/warp TorpedoTroutActor8 76 61/positionOffset TorpedoTroutActor8 0 0 true/speed TorpedoTroutActor8 5/move TorpedoTroutActor8 -80 0 3 true/warp TorpedoTroutActor9 79 66/positionOffset TorpedoTroutActor9 0 0 true/speed TorpedoTroutActor9 6/move TorpedoTroutActor9 -80 0 3 true/warp TorpedoTroutActor10 83 63/positionOffset TorpedoTroutActor10 0 0 true/speed TorpedoTroutActor10 6/move TorpedoTroutActor10 -80 0 3 true/makeInvisible 35 53 19 7/viewport 43 62 clamp true/showFrame Lance 43 true/pause 2000/emote farmer 16 true/pause 1000/showFrame Lance 0 true/pause 2000/showFrame Lance 42 true/globalFade/viewport -1000 -1000/warp TorpedoTroutActor1 -100 -100/warp TorpedoTroutActor2 -100 -100/warp TorpedoTroutActor3 -100 -100/warp TorpedoTroutActor4 -100 -100/warp TorpedoTroutActor5 -100 -100/warp TorpedoTroutActor6 -100 -100/warp TorpedoTroutActor7 -100 -100/warp TorpedoTroutActor8 -100 -100/warp TorpedoTroutActor9 -100 -100/warp TorpedoTroutActor10 -100 -100/changeLocation Custom_FirstSlashGuild/warp CoralActor 7 18/positionOffset CoralActor -20 5 true/warp Lance 7 19/faceDirection Lance 3 true/warp farmer 6 19/faceDirection farmer 1 true/warp Jolyne 14 15/faceDirection Jolyne 2 true/warp Edmund 20 17/faceDirection Edmund 1 true/warp Drake 17 19/faceDirection Drake 3 true/warp Brianna 15 19/faceDirection Brianna 1 true/positionOffset Lance 11 29 true/positionOffset farmer 20 40 true/warp Gale 11 14/speed Gale 1/move Gale 0 9 2 true/viewport 8 19 true/pause 2000/shake Lance 500/textAboveHead Lance \"นี่คือวิธีการทำน้ำยาเพิ่มมานาของเรา!\"/pause 3000/faceDirection farmer 0 true/pause 750/faceDirection Lance 0 true/pause 1000/globalFade/viewport -1000 -1000/changeLocation Custom_FableReef/warp CoralActor -40 -40/warp Edmund -30 -30/warp Drake -30 -30/warp Jolyne 18 35/warp farmer 19 31/warp Brianna 26 31/warp Lance 18 33/faceDirection Brianna 1 true/faceDirection farmer 3 true/faceDirection Jolyne 3 true/faceDirection Lance 3 true/positionOffset Lance -20 10 true/positionOffset Jolyne -8 14 true/makeInvisible 17 29 9 9/positionOffset farmer 0 25 true/warp Gale -30 -30/viewport 22 32 clamp true/speed Brianna 1/move Brianna -4 0 3 true/pause 1500/shake Brianna 800/textAboveHead Brianna \"ไง!\"/pause 1000/faceDirection farmer 2 true/pause 250/faceDirection farmer 1 true/pause 2000/shake Brianna 400/textAboveHead Brianna \"ข้าได้ยินเรื่องเจ้าด้วยนะ!\"/pause 1800/animate farmer false false 6000 97/pause 500/globalFade/viewport -1000 -1000/stopAnimation farmer/pause 500/warp Lance 61 47/faceDirection Lance 0 true/positionOffset Lance -40 0 true/warp farmer 59 47/faceDirection farmer 0 true/positionOffset farmer -12 15 true/warp Gale 61 46/faceDirection Gale 3 true/positionOffset Gale 12 -5 true/warp Edmund 60 44/faceDirection Edmund 2 true/positionOffset Edmund 10 -3 true/warp Brianna 57 46/faceDirection Brianna 1 true/positionOffset Brianna 5 25 true/warp Drake 57 45/faceDirection Drake 1 true/positionOffset Drake 30 5 true/warp CampfireActor 59 46/positionOffset CampfireActor 32 -32 true/animate CampfireActor false true 150 0 1 2 3/ambientLight 120 150 130/addLantern 31 59 45 2/addLantern 31 60 45 2/addLantern 31 59 46 2/addLantern 31 60 46 2/makeInvisible 62 38 6 15/warp Jolyne 53 44/move Jolyne 6 0 2 true/viewport 52 39 true/viewport move 1 1 10000 true/pause 1000/textAboveHead Jolyne \"ตอนนี้ละ จุดไฟได้!\"/pause 750/shake Brianna 550/pause 950/shake Drake 450/pause 2500/faceDirection Lance 3 true/pause 1500/faceDirection farmer 1 true/pause 800/globalFade/viewport -1000 -1000/warp Jolyne -30 -30/warp Brianna -29 -29/warp Edmund -28 -28/warp Drake -27 -27/warp Gale -26 -26/warp farmer -25 -25/warp Lance -24 -24/warp CampfireActor -23 -23/changeLocation Custom_FirstSlashHallway/viewport 15 7 true/viewport move 1 0 6500 true/pause 4000/globalFade/viewport -1000 -1000/changeLocation Custom_FirstSlashGuestRoom/warp Lance 5 5/warp farmer 5 7/faceDirection Lance 2 true/faceDirection farmer 0 true/viewport 5 6 true/pause 1250/showFrame Lance 41 true/pause 150/shake Lance 500/pause 300/speak Lance \"*หาว* วันนี้สุดๆ ไปเลยนะครับ...$5\"/pause 800/showFrame Lance 0 true/pause 600/faceDirection Lance 1 true/pause 250/showFrame Lance 8 true/pause 1250/shake Lance 400/pause 390/playSound dwop/shake LanceBeach 350/warp LanceBeach 5 5/warp Lance -50 -50/pause 1000/faceDirection LanceBeach 1 true/pause 250/faceDirection LanceBeach 2 true/pause 900/speak Lance \"เอิ่มม เตียงนี้ มันเตียงเป็นเดี่ยว$7#$b#ข้าไม่รู้ว่า เรานอนกันได้ 2 คนมั้ย...$7\"/pause 1000/question fork0 \"(แลนซ์มีซิกแพคด้วย)#ถึงนอนไม่ได้ เราก็จะทำให้มันนอนได้นี่แหละ...#ฉันจะไปข้างนอก น่าสนุกจะตาย\"/fork 65360195_CuddleLance/pause 400/speak Lance \"*คิกคัก* ถ้าท่านอยากจะไป เดินทางปลอดภัยครับ$9#$b#ที่นี่ต้อนรับท่านเสมอ$7\"/pause 1000/globalFade/viewport -1000 -1000/pause 1500/end dialogue Lance \"???\""
 	  }
     },
 
@@ -39196,6 +39200,15 @@
 	 "Entries": {
      "520702/t 600 1600/z spring/z fall/z summer": "winter_day_ambient/-1000 -1000/farmer 0 23 1 Krobus 16 23 3/viewport 14 23 clamp true/addQuest 31/skippable/move Krobus -2 0 3/pause 1000/emote Krobus 16/jump Krobus/pause 500/speed Krobus 8/move Krobus 20 0 1 true/move farmer 2 0 1 true/move false/playSound shadowpeep/warp Krobus -1000 -1000/pause 500/emote farmer 8/pause 1000/end"
    }
+},
+
+{    // Mr Qi. Event - adds SVE trailer soundtrack to jukebox
+	 "Action": "EditData",
+	 "Target": "data/events/farm",
+	 "When": { "HasFlag": "qiCave", "HasFlag": "galaxySword", "HasSeenEvent |contains=1925178": true, "HasSeenEvent |contains=980558": true },
+	 "Entries": {
+     "6139583": "none/-500 -500/farmer -100 -100 2 MrQi -99 -99 0/pause 1250/playMusic StardewValleyExpandedTrailer/pause 10/stopMusic/emote farmer 16 true/pause 1000/speak MrQi \"ไง เจ้าหนู ฉันคอยจับตาดูเธออย่างใกล้ชิดอยู่นะ คอยดูว่าเธอมาได้ไกลขนาดไหนแล้ว...\"/pause 650/emote farmer 8 true/pause 1000/speak MrQi \"ให้ฉันเข้าประเด็นเลยแล้วกันนะ#$b#ฉันเพิ่มเพลงซาวด์แทร็กในตู้เพลงของเธอให้แล้ว ชื่อเพลงว่า 'Stardew Valley Expanded Trailer'#$b#คิดซะว่าเป็นรางวัลที่มาได้ไหลขนาดนี้แล้วกันนะ: ดนตรีประกอบที่ยิ่งใหญ่ กับการตื่นรู้ตัวไงล่ะ\"/pause 800/screenFlash 1/playSound wand/warp MrQi -400 -400/pause 1250/end"
+	 },
 },
 
 {       //PAM EVENT
