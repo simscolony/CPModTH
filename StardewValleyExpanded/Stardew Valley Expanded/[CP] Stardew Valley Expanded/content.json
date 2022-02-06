@@ -39207,7 +39207,7 @@
 	 "Target": "data/events/farm",
 	 "When": { "HasFlag": "qiCave", "HasFlag": "galaxySword", "HasSeenEvent |contains=1925178": true, "HasSeenEvent |contains=980558": true },
 	 "Entries": {
-     "6139583": "none/-500 -500/farmer -100 -100 2 MrQi -99 -99 0/pause 1250/playMusic StardewValleyExpandedTrailer/pause 10/stopMusic/emote farmer 16 true/pause 1000/speak MrQi \"ไง เจ้าหนู ฉันคอยจับตาดูเธออย่างใกล้ชิดอยู่นะ คอยดูว่าเธอมาได้ไกลขนาดไหนแล้ว...\"/pause 650/emote farmer 8 true/pause 1000/speak MrQi \"ให้ฉันเข้าประเด็นเลยแล้วกันนะ#$b#ฉันเพิ่มเพลงซาวด์แทร็กในตู้เพลงของเธอให้แล้ว ชื่อเพลงว่า 'Stardew Valley Expanded Trailer'#$b#คิดซะว่าเป็นรางวัลที่มาได้ไหลขนาดนี้แล้วกันนะ: ดนตรีประกอบที่ยิ่งใหญ่ กับการตื่นรู้ตัวไงล่ะ\"/pause 800/screenFlash 1/playSound wand/warp MrQi -400 -400/pause 1250/end"
+     "6139583": "none/-500 -500/farmer -100 -100 2 MrQi -99 -99 0/pause 1250/playMusic StardewValleyExpandedTrailer/pause 10/stopMusic/emote farmer 16 true/pause 1000/speak MrQi \"ไง เจ้าหนู ฉันคอยจับตาดูเธออย่างใกล้ชิดอยู่นะ คอยดูว่าเธอมาได้ไกลขนาดไหนแล้ว...\"/pause 650/emote farmer 8 true/pause 1000/speak MrQi \"ให้ฉันเข้าประเด็นเลยแล้วกันนะ#$b#ฉันเพิ่มเพลงซาวด์แทร็ก ในตู้เพลงของเธอให้แล้ว ชื่อเพลงว่า 'Stardew Valley Expanded Trailer'#$b#คิดซะว่าเป็นรางวัล ที่มาได้ไกลขนาดนี้แล้วกันนะ: ดนตรีประกอบที่ยิ่งใหญ่ กับการตื่นรู้ตัวไงล่ะ\"/pause 800/screenFlash 1/playSound wand/warp MrQi -400 -400/pause 1250/end"
 	 },
 },
 
