@@ -21556,7 +21556,7 @@
       "Target": "Characters/Dialogue/Wizard",
 	  "When": { "Spouse": "Wizard" },
       "Entries": {
-	  "accept_868": "Ah, my dearest. You brought me an arctic shard?#$b#This is a powerful substance, indeed, and potently infused with the element of ice.$1#$b#I'll take it, if you don't mind.#$b#Here. Take this. I sense you have more trading to do."
+	  "accept_868": "อา ยอดดวงใจข้า เจ้านำสะเก็ดอาร์กติก มาให้ข้าอย่างนั้นรึ?#$b#สิ่งนี้เป็นสสารที่ทรงพลัง ใช่แล้ว เต็มไปด้วยธาตุน้ำแข็ง หลอมรวมอยู่เข้มข้น$1#$b#ข้าจะขอรับสิ่งนี้ไป ถ้าเจ้าไม่ว่าอะไร#$b#เอ้า รับนี่ไป ข้าสัมผัสได้ว่า เจ้ามีอะไรมาแลกเปลี่ยนมากกว่านี้"
       },
     },
 	
@@ -21590,7 +21590,7 @@
 	 "Action": "EditData",
 	 "Target": "Characters/Dialogue/Wizard",
 	 "When": { "HasSeenEvent": "5978924" },
-	 "Entries": {  "Sun": "ต้นพืชเวทมนต์ในที่พำนักของข้า ช่วงเรื่องการฝึกพลังเวทย์ ของข้าเป็นอย่างมาก#$e#ของให้พลังแห่งธาตุช่วยชี้นำเจ้า @" },
+	 "Entries": {  "Sun": "ต้นพืชเวทมนตร์ในที่พำนักของข้า ช่วยเรื่องการฝึกพลังเวทย์ ของข้าเป็นอย่างมาก#$e#ขอให้พลังแห่งธาตุช่วยชี้นำเจ้า @" },
     },
 
 	{
