@@ -1,9 +1,0 @@
-{
-	"Name": "Sea Sponge",
-	"Description": "(ฟองน้ำทะเล) สัตว์หลายเซลล์ ที่มีความหลากหลาย มีความสำคัญ ต่อวัฏจักรห่วงโซ่อาหาร ในระบบนิเวศแนวปะการัง",
-	"Category": "Fish",
-	"Edibility": -25,
-	"EdibleIsDrink": false,
-	"EdibleBuffs": null,
-	"Price": 90,
-}

@@ -1,8 +1,0 @@
-{
-	"Name": "Super Starfruit",
-	"Description": "(สตาร์ฟรุตพิเศษ) เป็นสัญลักษณ์ของเหล่าจูนิโม่ ใช้เป็นของขวัญ ที่แสดงถึงความต้องการ จะอยู่ร่วมชายคากัน ในฐานะเพื่อน",
-	"CanSell": false,
-	"Price": 4500,
-	"CategoryTextOverride": "Junimo Item",
-	"CategoryColorOverride": "125, 30, 150, 255"
-}

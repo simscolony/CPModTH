@@ -1,8 +1,0 @@
-{
-  "Name": "Ordinary Mushroom",
-  "Price": 600,
-  "ProvidesLight": false,
-  "Description": "(เห็ดบ้านๆ) ใช้ตกแต่งฟาร์มของคุณ จะเปลี่ยนไปตามฤดูกาล เมื่อวางไว้นอกบ้าน",
-  "ProvidesLight": false,
-  "CanPurchase": false,
-}
