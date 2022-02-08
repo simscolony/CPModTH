@@ -388,11 +388,11 @@
 
 	//Weapons
 	"weapon.diamond-wand.name": "Diamond Wand",
-	"weapon.diamond-wand.description": "A magic relic from Galdora. Teleports enemies away from the user. Effective against flyers.",
+	"weapon.diamond-wand.description": "(คทาเพชร) วัตถุเวทมนตร์จากกัลโดรา ใช้เทเลพอร์ตศัตรู ให้ออกห่างจากผู้ใช้ มีผลกับศัตรูประเภทบินได้",
 	"weapon.tempered-galaxy-dagger.name": "Tempered Galaxy Dagger",
-	"weapon.tempered-galaxy-dagger.description": "The power of the cosmos courses through you, granting awesome power and defensive abilities.",
+	"weapon.tempered-galaxy-dagger.description": "(กริชกาแลคซี่สุดแกร่ง) อ่าห์.. ให้พลังแห่งจักรวาลไหลผ่านตัวคุณ",
 	"weapon.tempered-galaxy-hammer.name": "Tempered Galaxy Hammer",
-	"weapon.tempered-galaxy-hammer.description": "The power of the cosmos courses through you, granting awesome power and defensive abilities.",
+	"weapon.tempered-galaxy-hammer.description": "(ค้อนกาแลคซี่สุดแกร่ง) ให้พลังแห่งจักรวาลไหลผ่านตัวคุณ โอวว..",
 	"weapon.tempered-galaxy-sword.name": "Tempered Galaxy Sword",
-	"weapon.tempered-galaxy-sword.description": "The power of the cosmos courses through you, granting awesome power and defensive abilities.",
+	"weapon.tempered-galaxy-sword.description": "(ดาบกาแลคซี่สุดแกร่ง) ให้พลังแห่งจักรวาลไหลผ่านตัวคุณ โอร่า โอร่า โอร่า!!!",
 }
