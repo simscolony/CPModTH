@@ -2925,7 +2925,7 @@
 
 
         //Future Castle Village NPCs (Huge spoiler!!!)
-        
+
 		//"Cyrus": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Iris": "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
 		//"Marley: "ItemDelivery, Socialize, WinterStar, ShopDialog, IslandVisit",
@@ -5256,7 +5256,7 @@
 	"52": { 2:34, 3:50, 12:.08 },
 	"61": { 2:40, 3:70 },
 	"62": { 2:140, 3:160, 6:100, 7:0, 12:.20, 13:3 },  //INFINITY BLADE: High damage. Good all-around weapon
-	"63": { 2:100, 3:175, 4:3, 6:100, 7:15, 12:0, 13:3 }, //INFINITY HAMMER: High damage and knockback, medium defense. Low speed and no crit 
+	"63": { 2:100, 3:175, 4:3, 6:100, 7:15, 12:0, 13:3 }, //INFINITY HAMMER: High damage and knockback, medium defense. Low speed and no crit
 	"64": { 2:60, 3:80, 6:100, 7:5, 12:.35, 13:3 }  //INFINITY DAGGER: Very high damange, very high crit. Small range
     }
 },
@@ -21550,17 +21550,17 @@
 	  "wizard_event4": "อ่า งั้นรึ ข้าซาบซึ้งใจ ที่เจ้าตอบอย่างซื่อสัตย์ แล้วก็ไม่เป็นไรเลย ข้าเองก็ไม่อยากให้เจ้า คิดว่าข้าเป็นคน เข้มงวดจนเกินไป$1#$b#ข้าก็รู้ล่ะ ว่าเมื้อกี้ข้าดูเซ่อซ่าจริงๆ $3",
       },
     },
-	
+
 	{ //Wizard dialogue additions
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
 	  "When": { "Spouse": "Wizard" },
       "Entries": {
-	  "accept_868": "อา ยอดดวงใจข้า เจ้านำสะเก็ดอาร์กติก มาให้ข้าอย่างนั้นรึ?#$b#สิ่งนี้เป็นสสารที่ทรงพลัง ใช่แล้ว เต็มไปด้วยธาตุน้ำแข็ง หลอมรวมอยู่เข้มข้น$1#$b#ข้าจะขอรับสิ่งนี้ไป ถ้าเจ้าไม่ว่าอะไร#$b#เอ้า รับนี่ไป ข้าสัมผัสได้ว่า เจ้ามีอะไรมาแลกเปลี่ยนมากกว่านี้"
+	  "accept_868": "อา ยอดดวงใจข้า เจ้านำสะเก็ดขั้วโลก (Arctic Shard) มาให้ข้าอย่างนั้นรึ?#$b#สิ่งนี้เป็นสสารที่ทรงพลัง ใช่แล้ว เต็มไปด้วยธาตุน้ำแข็ง หลอมรวมอยู่เข้มข้น$1#$b#ข้าจะขอรับสิ่งนี้ไป ถ้าเจ้าไม่ว่าอะไร#$b#เอ้า รับนี่ไป ข้าสัมผัสได้ว่า เจ้ามีอะไรมาแลกเปลี่ยนมากกว่านี้"
       },
     },
-	
-	
+
+
 	{
       //Wizard's schedule dialogue
       "Action": "Load",
@@ -24061,7 +24061,7 @@
         "Sun": "0 Custom_Claire_WarpRoom 1 3 3",
 	  }
     },
-	
+
 	{
       //Claire's Schedule - Joja Mart - no schedule on festival days
       "Action": "EditData",
@@ -24073,7 +24073,7 @@
         "Sat": "0 Custom_Claire_WarpRoom 1 3 3",
 	  }
     },
-	
+
 	{
       //Claire's Schedule Dialogue
       "Action": "Load",
@@ -26089,7 +26089,7 @@
     },
 	//LOVES: Galaxy Soul, Tropical Curry, Void Shard, Swirl Stone, Green Mushroom, Ornate Treasure Chest, Gemfish, <MONSTER CROP>, and Torpedo Trout
 	//LIKES: all monster crops
-	
+
 	{
 	  //Lance's animations
       "Action": "EditData",
@@ -26117,8 +26117,8 @@
 	  "Target": "Characters/Lance_Beach",
 	  "FromFile": "Assets/CharacterFiles/OverworldSprites/Lance/Lance_Beach.png"
     },
-	
-	{ 
+
+	{
 	  //Lance's beach sprites (for character events)
       "Action": "Load",
 	  "Target": "Characters/LanceBeach",
@@ -26138,7 +26138,7 @@
 	  "Target": "Portraits/Lance_Beach",
 	  "FromFile": "Assets/CharacterFiles/Portraits/Lance/Lance_Beach.png"
     },
-	
+
 	{
       //Lance's schedule
       "Action": "Load",
@@ -27014,12 +27014,12 @@
 		"marriage_Wed": "1500 Beach 30 34 2 \"Strings\\schedules\\Lance:NightMarket.003\"/2300 BusStop -1 23 3",
 	  }
     },
-	
+
 	/*{
       "Action": "EditMap",
       "Target": "Maps/Custom_WizardBasement",
       "MapProperties": { "NPCWarp": "14 19 Custom_FableReef 31 41" }
-    },*/ 
+    },*/
 	//I don't know why, but this causes morgan and wizard to glitch out and they can't leave the wizard basement map once in it. NPC scheduling is so weird in this game.
 
 	{
