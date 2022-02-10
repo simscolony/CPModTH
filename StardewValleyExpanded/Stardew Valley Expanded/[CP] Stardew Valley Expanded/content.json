@@ -5307,7 +5307,7 @@
 	"Wild Bait": { 0: "771 3 684 1 766 1" },
 	"Iridium Band": { 0: "337 20 768 200 769 200" },
 	"Stone Chest": { 0: "390 100" },
-	"Mini-Obelisk": { 0: "709 50 768 1000 336 8" },
+	"Mini-Obelisk": { 0: "709 50 768 100 336 8" },
 	"Geode Crusher": { 0: "335 10 390 100 72 3" },
 	},
 	"When": { "BalancedCrafting": true }
@@ -9259,6 +9259,7 @@
 	 "MovieInvite_Spouse_Sophia": "อู้ววว! หนังงั้นเหรอ? เย่!$9#$b#เค้าจะไปเจอตัวเอง ที่โรงหนังเลย โอเคนะ?$1#$e#เค้าจะไปซื้อ ขนมสายไหมกิน!$1",
 	 "MovieInvite_Spouse_Claire": "คุณอยากจะไปดูหนัง กับฉันงั้นเหรอ? ไปกัน!$1",
 	 "MovieInvite_Spouse_Wizard": "เจ้าอยากจะไปดูหนังกับข้างั้นรึ? นั่นทำให้ข้ายินดีจริงๆ$0",
+	 "MovieInvite_Spouse_Lance": "*chuckle* I'll meet you at the cinema.$5",
 	 }
 },
 
@@ -15479,7 +15480,585 @@
         "Victor1": "แค่คิด ผมก็รู้ว่า คงไม่สามารถมีความสุข ได้มากกว่านี้อีกแล้ว...$4"
       }
     },
-
+	
+	//Random spouse room dialogues for Victor to mix things up
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 2" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 3" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 4" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 6" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 9" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 10" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 11" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 13" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 16" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 17" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 18" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 20" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 23" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 24" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 25" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Spring 27" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 2" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 3" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 4" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 6" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 9" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 10" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 11" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 13" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 16" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 17" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 18" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 20" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 23" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 24" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 25" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Summer 27" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 2" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 3" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 4" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 6" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 9" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 10" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 11" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 13" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 16" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 17" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 18" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 20" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 23" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 24" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 25" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Fall 27" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 2" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 3" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 4" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 6" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 9" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 10" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 11" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 13" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 16" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 17" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 18" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 20" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 23" },
+      "Entries": {
+      "spouseRoom_Victor": "Good morning.$1#$e#If you ever need to hop on my computer, my password is: 'Spagh3ttiSlurper123'.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 24" },
+      "Entries": {
+      "spouseRoom_Victor": "We should sit on the couch and play some games soon.$3#$e#I wonder if any new co-op games have come out recently?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 25" },
+      "Entries": {
+      "spouseRoom_Victor": "I can end up spending my entire day in this room getting lost in my work.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueVictor",
+	  "When": { "Date": "Winter 27" },
+      "Entries": {
+      "spouseRoom_Victor": "Hey, good morning!$1#$e#I've trying to find a book. I need to cross reference something.$0",
+        }
+	},
+	
+	
 	//MOVIE THEATER
 
 	{
@@ -16441,7 +17020,548 @@
         "Olivia1": "ฉันรักคุณนะ @$3"
       }
     },
-
+	
+    //Random spouse room dialogues for Olivia to mix things up
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 3" },
+      "Entries": {
+      "spouseRoom_Olivia": "The caligrophy portrait on the wall means 'wisdom.'$3#$e#We all gain it through our own experiences in life.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 4" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear. You're up bright and early.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 6" },
+      "Entries": {
+      "spouseRoom_Olivia": "I don't regret giving up trading to come live with you on the farm.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 7" },
+      "Entries": {
+      "spouseRoom_Olivia": "I enjoy having my own part of the house, even though it isn't much.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 10" },
+      "Entries": {
+      "spouseRoom_Olivia": "*yawn*...$1#$b#Good morning, dear.$3#$e#Last night I had a dream about us growing old together.$0#$e#I know it's a little corny, sweetie. But it made me think about painting a portrait of us in our future, happy together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 11" },
+      "Entries": {
+      "spouseRoom_Olivia": "Would a different wallpaper look better in here? Or maybe a nice shade of red paint...$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 13" },
+      "Entries": {
+      "spouseRoom_Olivia": "Let's always be the best we can for each other.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 14" },
+      "Entries": {
+      "spouseRoom_Olivia": "I could move some furniture around in here so we can do yoga together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 17" },
+      "Entries": {
+      "spouseRoom_Olivia": "I'm feeling lazy today. I'm tempted to just stay inside and read.$6",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 18" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear.$3#$e#Have you ever encountered any wild animals here in the valley?$0#$b#I'm terrified of bears. I hope I never meet one.$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 20" },
+      "Entries": {
+      "spouseRoom_Olivia": "Another morning in the valley...$0#$b#The days seem to run together here, sometimes. We should do something soon to shake it up a little.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 21" },
+      "Entries": {
+      "spouseRoom_Olivia": "Sometimes I look at you and can't believe that we found each other. We've been so lucky.$3#$e#I love you, @.$4",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 24" },
+      "Entries": {
+      "spouseRoom_Olivia": "I have the day all to myself. I'm pondering about out what I'll do.$3#$e#I know you have farm work to attend to. Get out there, dear.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 25" },
+      "Entries": {
+      "spouseRoom_Olivia": "In the city... everything moved so fast. I was always on my way somewhere, never pausing to pay attention to the world around me.$0#$e#It feels nice to slow down and enjoy life with you, @.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Spring 28" },
+      "Entries": {
+      "spouseRoom_Olivia": "The war with the Empire rages on, and the victims just keep piling up.$2#$b#It hurts to think about all of those people suffering.$2#$e#%You hug Olivia and keep her close.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 3" },
+      "Entries": {
+      "spouseRoom_Olivia": "The caligrophy portrait on the wall means 'wisdom'.$3#$e#We all gain it through our own experiences in life.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 4" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear. You're up bright and early.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 6" },
+      "Entries": {
+      "spouseRoom_Olivia": "I don't regret giving up trading to come live with you on the farm.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 7" },
+      "Entries": {
+      "spouseRoom_Olivia": "I enjoy having my own part of the house, even though it isn't much.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 10" },
+      "Entries": {
+      "spouseRoom_Olivia": "*yawn*...$1#$b#Good morning, dear.$3#$e#Last night I had a dream about us growing old together.$0#$e#I know it's a little corny, sweetie. But it made me think about painting a portrait of us in our future, happy together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 11" },
+      "Entries": {
+      "spouseRoom_Olivia": "Would a different wallpaper look better in here? Or maybe a nice shade of red paint...$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 13" },
+      "Entries": {
+      "spouseRoom_Olivia": "Let's always be the best we can for each other.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 14" },
+      "Entries": {
+      "spouseRoom_Olivia": "I could move some furniture around in here so we can do yoga together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 17" },
+      "Entries": {
+      "spouseRoom_Olivia": "I'm feeling lazy today. I'm tempted to just stay inside and read.$6",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 18" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear.$3#$e#Have you ever encountered any wild animals here in the valley?$0#$b#I'm terrified of bears. I hope I never meet one.$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 20" },
+      "Entries": {
+      "spouseRoom_Olivia": "Another morning in the valley...$0#$b#The days seem to run together here, sometimes. We should do something soon to shake it up a little.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 21" },
+      "Entries": {
+      "spouseRoom_Olivia": "Sometimes I look at you and can't believe that we found each other. We've been so lucky.$3#$e#I love you, @.$4",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 24" },
+      "Entries": {
+      "spouseRoom_Olivia": "I have the day all to myself. I'm pondering about out what I'll do.$3#$e#I know you have farm work to attend to. Get out there, dear.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 25" },
+      "Entries": {
+      "spouseRoom_Olivia": "In the city... everything moved so fast. I was always on my way somewhere, never pausing to pay attention to the world around me.$0#$e#It feels nice to slow down and enjoy life with you, @.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Summer 28" },
+      "Entries": {
+      "spouseRoom_Olivia": "The war with the Empire rages on, and the victims just keep piling up.$2#$b#It hurts to think about all of those people suffering.$2#$e#%You hug Olivia and keep her close.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 3" },
+      "Entries": {
+      "spouseRoom_Olivia": "The caligrophy portrait on the wall means 'wisdom'.$3#$e#We all gain it through our own experiences in life.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 4" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear. You're up bright and early.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 6" },
+      "Entries": {
+      "spouseRoom_Olivia": "I don't regret giving up trading to come live with you on the farm.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 7" },
+      "Entries": {
+      "spouseRoom_Olivia": "I enjoy having my own part of the house, even though it isn't much.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 10" },
+      "Entries": {
+      "spouseRoom_Olivia": "*yawn*...$1#$b#Good morning, dear.$3#$e#Last night I had a dream about us growing old together.$0#$e#I know it's a little corny, sweetie. But it made me think about painting a portrait of us in our future, happy together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 11" },
+      "Entries": {
+      "spouseRoom_Olivia": "Would a different wallpaper look better in here? Or maybe a nice shade of red paint...$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 13" },
+      "Entries": {
+      "spouseRoom_Olivia": "Let's always be the best we can for each other.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 14" },
+      "Entries": {
+      "spouseRoom_Olivia": "I could move some furniture around in here so we can do yoga together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 17" },
+      "Entries": {
+      "spouseRoom_Olivia": "I'm feeling lazy today. I'm tempted to just stay inside and read.$6",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 18" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear.$3#$e#Have you ever encountered any wild animals here in the valley?$0#$b#I'm terrified of bears. I hope I never meet one.$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 20" },
+      "Entries": {
+      "spouseRoom_Olivia": "Another morning in the valley...$0#$b#The days seem to run together here, sometimes. We should do something soon to shake it up a little.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 21" },
+      "Entries": {
+      "spouseRoom_Olivia": "Sometimes I look at you and can't believe that we found each other. We've been so lucky.$3#$e#I love you, @.$4",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 24" },
+      "Entries": {
+      "spouseRoom_Olivia": "I have the day all to myself. I'm pondering about out what I'll do.$3#$e#I know you have farm work to attend to. Get out there, dear.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 25" },
+      "Entries": {
+      "spouseRoom_Olivia": "In the city... everything moved so fast. I was always on my way somewhere, never pausing to pay attention to the world around me.$0#$e#It feels nice to slow down and enjoy life with you, @.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Fall 28" },
+      "Entries": {
+      "spouseRoom_Olivia": "The war with the Empire rages on, and the victims just keep piling up.$2#$b#It hurts to think about all of those people suffering.$2#$e#%You hug Olivia and keep her close.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 3" },
+      "Entries": {
+      "spouseRoom_Olivia": "The caligrophy portrait on the wall means 'wisdom'.$3#$e#We all gain it through our own experiences in life.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 4" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear. You're up bright and early.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 6" },
+      "Entries": {
+      "spouseRoom_Olivia": "I don't regret giving up trading to come live with you on the farm.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 7" },
+      "Entries": {
+      "spouseRoom_Olivia": "I enjoy having my own part of the house, even though it isn't much.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 10" },
+      "Entries": {
+      "spouseRoom_Olivia": "*yawn*...$1#$b#Good morning, dear.$3#$e#Last night I had a dream about us growing old together.$0#$e#I know it's a little corny, sweetie. But it made me think about painting a portrait of us in our future, happy together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 11" },
+      "Entries": {
+      "spouseRoom_Olivia": "Would a different wallpaper look better in here? Or maybe a nice shade of red paint...$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 13" },
+      "Entries": {
+      "spouseRoom_Olivia": "Let's always be the best we can for each other.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 14" },
+      "Entries": {
+      "spouseRoom_Olivia": "I could move some furniture around in here so we can do yoga together.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 17" },
+      "Entries": {
+      "spouseRoom_Olivia": "I'm feeling lazy today. I'm tempted to just stay inside and read.$6",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 18" },
+      "Entries": {
+      "spouseRoom_Olivia": "Good morning, dear.$3#$e#Have you ever encountered any wild animals here in the valley?$0#$b#I'm terrified of bears. I hope I never meet one.$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 20" },
+      "Entries": {
+      "spouseRoom_Olivia": "Another morning in the valley...$0#$b#The days seem to run together here, sometimes. We should do something soon to shake it up a little.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 21" },
+      "Entries": {
+      "spouseRoom_Olivia": "Sometimes I look at you and can't believe that we found each other. We've been so lucky.$3#$e#I love you, @.$4",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 24" },
+      "Entries": {
+      "spouseRoom_Olivia": "I have the day all to myself. I'm pondering about out what I'll do.$3#$e#I know you have farm work to attend to. Get out there, dear.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 25" },
+      "Entries": {
+      "spouseRoom_Olivia": "In the city... everything moved so fast. I was always on my way somewhere, never pausing to pay attention to the world around me.$0#$e#It feels nice to slow down and enjoy life with you, @.$3",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueOlivia",
+	  "When": { "Date": "Winter 28" },
+      "Entries": {
+      "spouseRoom_Olivia": "The war with the Empire rages on, and the victims just keep piling up.$2#$b#It hurts to think about all of those people suffering.$2#$e#%You hug Olivia and keep her close.",
+        }
+	},
+	
       //Olivia's Marriage Schedule Dialogue - Patching is necessary to prevent the same "leave" and "return" dialogue Three days out of a week
 	{
       "Action": "EditData",
@@ -17446,7 +18566,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Andy": "นี่มันคือของที่ฉันชอบมากๆ เลย! ขอบคุณ!/346 459 303 240 611/มันก็ไม่ได้แย่ขนาดนั้น ขอบคุณนะสำหรับของขวัญ!/167 296 20 18 16 396 410 420 422 416 414/นี่มันอะไรกันเนี่ย? ฉันไม่ชอบมัน!/60 62 64 66 68 70 72 80 82 84 86 418 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578/เห็นฉันเป็นตัวตลกงั้นเหรอ? เอาของน่ากลัวๆ นี่ออกไปห่างๆ เดี๋ยวนี้เลยนะ/350 348 74/ขอบคุณสำหรับของขวัญ/398 404 446 395 373/"
+        "Andy": "นี่มันคือของที่ฉันชอบมากๆ เลย! ขอบคุณ!/346 459 303 240 611/มันก็ไม่ได้แย่ขนาดนั้น ขอบคุณนะสำหรับของขวัญ!/167 296 20 18 16 396 410 420 422 416 414/นี่มันอะไรกันเนี่ย? ฉันไม่ชอบมัน!/60 62 64 66 68 70 72 80 82 84 86 418 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578/เห็นฉันเป็นตัวตลกงั้นเหรอ? เอาของน่ากลัวๆ นี่ออกไปห่างๆ เดี๋ยวนี้เลยนะ/350 348 74/ขอบคุณสำหรับของขวัญ ชาวไร่/398 404 446 395 373 -74/"
       }
     },
 
@@ -17499,7 +18619,17 @@
       "Target": "Characters/schedules/Andy",
       "FromFile": "assets/CharacterFiles/Schedules/Andy/Schedule.json"
     },
-
+	
+	{    
+	  //Andy Schedule (works at farm all day on first of season)
+	 "Action": "EditData",
+	 "Target": "characters/schedules/Andy",
+	 "When": { "Season |contains=Winter": false },
+	 "Entries": {
+     "1": "0 Custom_AndyHouse 18 6 0/620 Custom_AndyHouse 18 6 0/700 Forest 68 66 1/800 Forest 77 62 2 Andy_Farm2/820 Forest 77 62 2 Andy_Farm2/830 Forest 75 62 2 Andy_Farm2/850 Forest 73 62 2 Andy_Farm2/900 Forest 72 62 2 Andy_Farm2/910 Forest 71 62 2 Andy_Farm2/920 Forest 70 64 1 Andy_Farm1/930 Forest 70 65 1 Andy_Farm1/940 Forest 70 66 1 Andy_Farm1/950 Forest 70 67 1 Andy_Farm1/1000 Forest 70 68 1 Andy_Farm1/1010 Forest 70 69 1 Andy_Farm1/1030 Forest 70 70 1 Andy_Farm1/1050 Forest 70 66 1 Andy_Farm1/1130 Forest 70 63 1 Andy_Farm1/1200 Forest 74 62 2 Andy_Farm2/1220 Forest 78 62 2 Andy_Farm2/1240 Forest 72 62 2 Andy_Farm2/1300 Forest 63 67 2/1340 Forest 70 65 1 Andy_Farm1/1400 Forest 70 68 1 Andy_Farm1/1420 Forest 74 61 2 Andy_Farm2/1440 Forest 79 62 2 Andy_Farm2/1500 Forest 82 68 3/1530 Forest 72 62 2 Andy_Farm2/1600 Forest 70 68 1 Andy_Farm1/1620 Forest 70 64 1 Andy_Farm1/1640 Forest 57 67 0/1730 Forest 48 71 0/1820 Custom_AndyHouse 18 6 0/1940 Custom_AndyHouse 17 15 1 Andy_Drink3/2110 Custom_AndyHouse 5 6 0/2200 Custom_AndyHouse 9 6 1 Andy_Sleep",
+       }
+    },
+	
     {
       //Andy's Dialogue
       "Action": "Load",
@@ -17858,7 +18988,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Susan": "มันดูน่าอร่อย! ขอบคุณ!/230 211 220 221 223 222 608 233 234 611 612/โอ้พระเจ้า! สำหรับฉัน? ขอบคุณ/60 709 336 335 334 373 74 446/คุณใจดีจัง ขอบคุณ/346 459 303/ฉันไม่ค่อบชอบมัน.../167 226 283/ขอบคุณในน้ำใจของคุณ/348 350 395/"
+        "Susan": "มันดูน่าอร่อย! ขอบคุณ!/230 211 220 221 223 222 608 233 234 611 612/โอ้พระเจ้า! สำหรับฉัน? ขอบคุณ/60 709 336 335 334 373 74 446/คุณใจดีจัง ขอบคุณ/346 459 303/ฉันไม่ค่อบชอบมัน.../167 226 283/ขอบคุณในน้ำใจของคุณ/348 350 395 -74/"
       }
     },
 
@@ -18449,17 +19579,380 @@
       "Target": "Strings/StringsFromCSFiles",
       "Entries": { "NPC.cs.4406": "วันนี้ฉันรู้สึกงัวเงียตลอดเลย$0" }
     },
-
-
-      //Sophias's Marriage Schedule Dialogue - Patching is necessary to prevent the same "leave" and "return" dialogue five days out of a week
-
+	
+	
+      //Mixesup spouse room dialogue for Sophia
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 5" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you.$1#$e#I feel like reading some manga today.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 6" },
+      "Entries": {
+      "spouseRoom_Sophia": "Manga is usually better than the anime.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 7" },
+      "Entries": {
+      "spouseRoom_Sophia": "This manga is giving me lots of cosplay ideas!$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 12" },
+      "Entries": {
+      "spouseRoom_Sophia": "I can't wait for the next season of Pink Princess Crusaders.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 13" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should find some time to work on cosplay soon.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 14" },
+      "Entries": {
+      "spouseRoom_Sophia": "Do you think my little room is too pink?$0#$e#Hehe...$9#$e#%You hug Sophia.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 19" },
+      "Entries": {
+      "spouseRoom_Sophia": "I was watching funny cat videos on MeTube.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 21" },
+      "Entries": {
+      "spouseRoom_Sophia": "This thread I ordered doesn't match my fabric. You can never tell when looking online...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 26" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should reorganize my cosplay stuff.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Spring 27" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you. Mind helping me choose which manga to read next?#$e#Oh, that one? I already read it.#$e#I've read that one too.#$e#*giggle* Nevermind.$9#$e#I should buy some more manga soon. There's a great bookstore in Zuzu City.$1",
+        }
+	},
+	
+		{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 5" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you.$1#$e#I feel like reading some manga today.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 6" },
+      "Entries": {
+      "spouseRoom_Sophia": "Manga is usually better than the anime.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 7" },
+      "Entries": {
+      "spouseRoom_Sophia": "This manga is giving me lots of cosplay ideas!$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 12" },
+      "Entries": {
+      "spouseRoom_Sophia": "I can't wait for the next season of Pink Princess Crusaders.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 13" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should find some time to work on cosplay soon.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 14" },
+      "Entries": {
+      "spouseRoom_Sophia": "Do you think my little room is too pink?$0#$e#Hehe...$9#$e#%You hug Sophia.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 19" },
+      "Entries": {
+      "spouseRoom_Sophia": "I was watching funny cat videos on MeTube.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 21" },
+      "Entries": {
+      "spouseRoom_Sophia": "This thread I ordered doesn't match my fabric. You can never tell when looking online...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 26" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should reorganize my cosplay stuff.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Summer 27" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you. Mind helping me choose which manga to read next?#$e#Oh, that one? I already read it.#$e#I've read that one too.#$e#*giggle* Nevermind.$9#$e#I should buy some more manga soon. There's a great bookstore in Zuzu City.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 5" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you.$1#$e#I feel like reading some manga today.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 6" },
+      "Entries": {
+      "spouseRoom_Sophia": "Manga is usually better than the anime.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 7" },
+      "Entries": {
+      "spouseRoom_Sophia": "This manga is giving me lots of cosplay ideas!$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 12" },
+      "Entries": {
+      "spouseRoom_Sophia": "I can't wait for the next season of Pink Princess Crusaders.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 13" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should find some time to work on cosplay soon.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 14" },
+      "Entries": {
+      "spouseRoom_Sophia": "Do you think my little room is too pink?$0#$e#Hehe...$9#$e#%You hug Sophia.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 19" },
+      "Entries": {
+      "spouseRoom_Sophia": "I was watching funny cat videos on MeTube.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 21" },
+      "Entries": {
+      "spouseRoom_Sophia": "This thread I ordered doesn't match my fabric. You can never tell when looking online...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 26" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should reorganize my cosplay stuff.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Fall 27" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you. Mind helping me choose which manga to read next?#$e#Oh, that one? I already read it.#$e#I've read that one too.#$e#*giggle* Nevermind.$9#$e#I should buy some more manga soon. There's a great bookstore in Zuzu City.$1",
+        }
+	},
+	  
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 5" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you.$1#$e#I feel like reading some manga today.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 6" },
+      "Entries": {
+      "spouseRoom_Sophia": "Manga is usually better than the anime.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 7" },
+      "Entries": {
+      "spouseRoom_Sophia": "This manga is giving me lots of cosplay ideas!$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 12" },
+      "Entries": {
+      "spouseRoom_Sophia": "I can't wait for the next season of Pink Princess Crusaders.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 13" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should find some time to work on cosplay soon.$9",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 14" },
+      "Entries": {
+      "spouseRoom_Sophia": "Do you think my little room is too pink?$0#$e#Hehe...$9#$e#%You hug Sophia.",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 19" },
+      "Entries": {
+      "spouseRoom_Sophia": "I was watching funny cat videos on MeTube.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 21" },
+      "Entries": {
+      "spouseRoom_Sophia": "This thread I ordered doesn't match my fabric. You can never tell when looking online...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 26" },
+      "Entries": {
+      "spouseRoom_Sophia": "I should reorganize my cosplay stuff.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSophia",
+	  "When": { "Date": "Winter 27" },
+      "Entries": {
+      "spouseRoom_Sophia": "Hey, you. Mind helping me choose which manga to read next?#$e#Oh, that one? I already read it.#$e#I've read that one too.#$e#*giggle* Nevermind.$9#$e#I should buy some more manga soon. There's a great bookstore in Zuzu City.$1",
+        }
+	},
+	  
+	  
+	  
+	  //Sophias's Marriage Schedule Dialogue - Patching is necessary to prevent the same "leave" and "return" dialogue five days out of a week
+	
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSophia",
 	  "When": { "Date": "Spring 1" },
       "Entries": {
       "funReturn_Sophia": "นี่ คนบ๊อง! เค้าทำมื้อเย็นไว้ให้ ตอนที่ตัวเองไม่อยู่ด้วยล่ะ! [727 231 207 199]$1",
-      "funLeave_Sophia": "ตัวเองได้กลิ่นละอองเกสร และน้ำหวานในอากาศไหม!? ฤดูใบไม้ผลิมาแล้ว!$1#$e#เดี๋ยวเค้าจะต้องแวะไปที่ ไร่องุ่นหน่อย จะต้องทำระแนงองุ่นแล้วล่ะ!$9#$b#ขอให้วันนี้เธอโชคดีนะ คนบ๊อง มันจะต้องเป็นวันที่ยุ่งแน่ๆ ไว้คืนนี้เค้าจะอ้อนมากเป็นพิเศษนะ!$1",
+      "funLeave_Sophia": "Do you smell the pollen and nectar in the air!? Spring has arrived!$1#$e#I'll be setting up grape trellises all day at the vineyard.$1#$b#Good luck, silly! It'll be a busy day for the both of us. Extra cuddles tonight!$1",
         }
 	},
 
@@ -18479,7 +19972,7 @@
 	  "When": { "Date": "Spring 3" },
       "Entries": {
       "funReturn_Sophia": "มานี่หน่อย @$4#$e#ใกล้อีก...$4#$e#*ม๊วฟฟ*$9!!!#$b#รักนะ ตะเอง!$9",
-      "funLeave_Sophia": "เย้! ตัวเองตื่นแล้ว!$9#$e#หิวมั้ย อยากกินอะไรเป็นมื้อเช้าล่ะ?$1",
+      "funLeave_Sophia": "เย้! ตัวเองตื่นแล้ว!$9#$e#หิวมั้ย อยากกินอะไรเป็นมื้อเช้าล่ะ?$1#$e#I'll be at the vineyard today. You should drop by and visit!$1",
         }
 	},
 
@@ -18509,7 +20002,7 @@
 	  "When": { "Date": "Spring 9" },
       "Entries": {
       "funReturn_Sophia": "เค้าได้แผลนิดหน่อย จากงานในไร่องุ่นวันนี้น่ะ$0",
-      "funLeave_Sophia": "นี่ ตัวเอง! เค้าชงกาแฟเผื่อตัวเองแล้วล่ะ[395]$4#$e#ขอให้งานวันนี้ราบรื่นนะ คนบ๊อง!$1",
+      "funLeave_Sophia": "Good morning!$9#$e#ฉันขอให้งานวันนี้ราบรื่นนะ คนบ๊อง!$1#$e#I'm heading to the vineyard soon. Maybe you can drop by and say hi later?$1",
         }
 	},
 
@@ -18549,7 +20042,7 @@
 	  "When": { "Date": "Spring 16" },
       "Entries": {
       "funReturn_Sophia": "นี่ ตัวเอง! มีไวน์อีกขวดนึง ที่เหลือจากการจัดส่งของวันนี้![{{spacechase0.JsonAssets/ObjectId:Blue Moon Wine}}]$1",
-      "funLeave_Sophia": "อรุณสวัสดิ์ ตัวเอง!$1#$e#อื้ม เอากาแฟหน่อยมั้ย?$9#$e#อ่ะนี่! ชงร้อนๆ เลย![395]$1",
+      "funLeave_Sophia": "อรุณสวัสดิ์ ตัวเอง!$1#$e#อื้ม เอากาแฟหน่อยมั้ย?$9#$e#อ่ะนี่! ชงร้อนๆ เลย![395]$1#$e#I feel like I'll need the coffee today. Grapes don't grow themselves.$1",
         }
 	},
 
@@ -18559,7 +20052,7 @@
 	  "When": { "Date": "Spring 17" },
       "Entries": {
       "funReturn_Sophia": "วันนี้เค้าเจอ รังน้องกระต่ายน้อยด้วยล่ะ$1",
-      "funLeave_Sophia": "*หาว* อ้าว ตัวเอง!$9",
+      "funLeave_Sophia": "*หาว* อ้าว ตัวเอง!$9#$e#I don't really feel like working today, but I need to get some things done at the vineyard.$0",
         }
 	},
 
@@ -18649,7 +20142,7 @@
 	  "When": { "Date": "Summer 8" },
       "Entries": {
       "funReturn_Sophia": "ค่ำแล้วนะ คนบ๊อง เค้าทำมื้อเย็นไว้แล้ว! [727 231 207 199]$1#$e#ตัวเองจะกินเลย หรือเอาไว้ตู้เย็นไว้ก่อนก็ได้$0",
-      "funLeave_Sophia": "อรุณสวัสดิ์! นี่กาแฟจ้ะ![395]$1#$e#พุ่มไม้พวกนั้น ที่ฉันเห็นในไร่องุ่น ตอนฤดูใบไม้ผลิ ชักจะใหญ่ขึ้นแล้ว$9",
+      "funLeave_Sophia": "อรุณสวัสดิ์! นี่กาแฟจ้ะ![395]$1#$e#กระต่ายพวกนั้น ที่ฉันเห็นในไร่องุ่น ตอนฤดูใบไม้ผลิ ชักจะใหญ่ขึ้นแล้ว$9",
         }
 	},
 
@@ -18669,7 +20162,7 @@
 	  "When": { "Date": "Summer 10" },
       "Entries": {
       "funReturn_Sophia": "ไว้ปีหน้า พวกเราน่าจะไปงานคอสเพลย์ ในเมืองซูซูกันนะ! ตัวเองต้องชอบแน่ๆ!$1",
-      "funLeave_Sophia": "วันนี้โชคดีนะ ตัวเอง!$1",
+      "funLeave_Sophia": "วันนี้โชคดีนะ ตัวเอง!$1#$e#Drop by the vineyard sometime today.$8",
         }
 	},
 
@@ -18679,7 +20172,7 @@
 	  "When": { "Date": "Summer 11" },
       "Entries": {
       "funReturn_Sophia": "เหมือนตัวเองดูห่างเหินไป...$2#$e#เค้าทำอะไรผิดหรือเปล่า$2",
-      "funLeave_Sophia": "วันนี้เค้ารู้สึกไม่ค่อยสบายเลย$2",
+      "funLeave_Sophia": "วันนี้เค้ารู้สึกไม่ค่อยสบายเลย$2#$e#...$2#$e#%You hug Sophia.",
         }
 	},
 
@@ -18699,7 +20192,7 @@
 	  "When": { "Date": "Summer 16" },
       "Entries": {
       "funReturn_Sophia": "นี่ นี่! อืม ตัวเองว่างแป๊ปนึงมั้ย?$1#$e#เค้าแค่... อยากจะบอกว่า เค้าภูมิใจกับทุกอย่าง ที่ตัวเองทำมา$9#$b#เค้าชอบชีวิตที่เรา เริ่มต้นมันด้วยกันมากเลย... มันเหมือนกับว่าเรา อยู่ในแดนสวรรค์เลยล่ะ$1#$b#ขอให้เราได้อยู่ด้วยกัน แบบนี้ตลอดไป!$9",
-      "funLeave_Sophia": "อรุณสวัสดิ์! เค้าชงกาแฟไว้แล้วล่ะ [395]$1",
+      "funLeave_Sophia": "อรุณสวัสดิ์! เค้าชงกาแฟไว้แล้วล่ะ [395]$1#$e#I have some vineyard stuff to do today.$0",
         }
 	},
 
@@ -18729,7 +20222,7 @@
 	  "When": { "Date": "Summer 22" },
       "Entries": {
       "funReturn_Sophia": "*หาว* ง่วงจังงง$1#$e#เค้าจะไปนอนแล้วนะ ตัวเองล่ะ?$1",
-      "funLeave_Sophia": "เดี๋ยวเราดูอนิเมะด้วยกันมั้ย?$1",
+      "funLeave_Sophia": "Want to watch anime later when I get back from work?$1",
         }
 	},
 
@@ -18759,7 +20252,7 @@
 	  "When": { "Date": "Summer 25" },
       "Entries": {
       "funReturn_Sophia": "ไร่องุ่นบลูมูนเตรียมพร้อมแล้ว กับฤดูใบไม้ร่วงที่มาถึง!$9",
-      "funLeave_Sophia": "วันนี้ตัวเองดูน่ารักจัง คนบ๊อง$4#$e#*ม๊วฟ*$9#$e#%คุณจ้องมองไปที่โซเฟีย เธอหันหน้าหนีแล้วก็เขินแก้มแดง",
+      "funLeave_Sophia": "วันนี้ตัวเองดูน่ารักจัง คนบ๊อง$4#$e#*ม๊วฟ*$9#$e#%คุณจ้องมองไปที่โซเฟีย เธอหันหน้าหนีแล้วก็เขินแก้มแดง#$e#Um. Well. I have work to do! I'll see you tonight?$4",
         }
 	},
 
@@ -18809,7 +20302,7 @@
 	  "When": { "Date": "Fall 8" },
       "Entries": {
       "funReturn_Sophia": "ไง! วันนี้เป็นไงมั่ง ตัวเอง?$1",
-      "funLeave_Sophia": "อยากรู้จังว่า วันนี้เฮลีย์จะทำอะไร? เค้าว่าจะส่งข้อความ ไปหาเธอดูสักหน่อยล่ะ$1",
+      "funLeave_Sophia": "อยากรู้จังว่า วันนี้เฮลีย์จะทำอะไร? เค้าว่าจะส่งข้อความ ไปหาเธอดูสักหน่อยล่ะ$1#$e#Well, I'm off to the vineyard here soon. Have a nice day, you!$9",
         }
 	},
 
@@ -18859,7 +20352,7 @@
 	  "When": { "Date": "Fall 17" },
       "Entries": {
       "funReturn_Sophia": "บรรยากาศเหมาะกับการกอดจัง...$4",
-      "funLeave_Sophia": "*หาว* เค้าง่วงจัง$2#$e#งืม ตัวเองชงกาแฟหน่อยได้มั้ย?$0",
+      "funLeave_Sophia": "*หาว* เค้าง่วงจัง$2#$e#Scarlett is helping out at the vineyard today. I really appreciate her.$1",
         }
 	},
 
@@ -18869,7 +20362,7 @@
 	  "When": { "Date": "Fall 18" },
       "Entries": {
       "funReturn_Sophia": "อ้าวตัวเอง วันนี้งานเสร็จแล้วเหรอ?$1",
-      "funLeave_Sophia": "วันนี้เค้าจะขายไวน์อิริเดียม ที่เตรียมไว้รอบนี้ทั้งหมดเลย$1#$e#รอบนี้เค้าตั้งใจทำสุดๆ เลยนะ$9",
+      "funLeave_Sophia": "วันนี้เค้าจะขายไวน์อิริเดียม ที่เตรียมไว้รอบนี้ทั้งหมดเลย$1#$e#เค้าตั้งใจทำมันสุดๆ เลยนะ$9",
         }
 	},
 
@@ -20678,7 +22171,7 @@
     "Action": "EditData",
     "Target": "Data/Events/adventureguild",
     "Entries": {
-    "1579123/i {{spacechase0.JsonAssets/ObjectId:Void Shard}}": "MarlonsTheme/-500 -500/farmer -100 -100 0 MarlonFay 8 11 0 Wizard -101 -101 2/pause 1300/viewport 6 15 true/skippable/pause 1250/playSound doorClose/warp farmer 6 19/pause 700/faceDirection MarlonFay 1 true/pause 200/faceDirection MarlonFay 2 true/pause 200/speed farmer 1/move farmer 0 -4 0 true/pause 400/textAboveHead MarlonFay \"นั่นคืออะไรน่ะ?...\"/pause 2000/move MarlonFay 0 2 3/move MarlonFay -2 0 2/pause 700/speak MarlonFay \"เศษแก้วนั่น...$0#$b#มีพลังงานมืดเข้มข้น แผ่ออกมาด้วย!$1#$b#เจ้าได้สิ่งนี้มาจากไหนกัน?$1\"/pause 600/emote farmer 40/pause 300/speak MarlonFay \"ได้มาจากอสรพิษมืด ที่ทุ่งร้างคริมสัน อย่างนั้นหรือ?\"/pause 500/emote farmer 40/speak MarlonFay \"มันแข็งแกร่งกว่าตัวอื่นมาก?#$b#อืมม...$2\"/pause 800/showFrame MarlonFay 19/pause 700/speak MarlonFay \"ความคลุ้มคลั่ง มันแผ่กระจายเร็วกว่า ที่พวกเราคิดไว้มาก ไม่ใช่ข่าวดีเลย$2#$b#เราต้องรีบบอกเรื่องนี้ กับแมกนัสให้เร็วที่สุด$0#$b#มากับข้า @\"/pause 400/showFrame MarlonFay 0/pause 300/globalFade/viewport -1000 -1000/pause 50/stopMusic/pause 50/changeLocation WizardHouse/playSound doorClose/pause 600/playSound doorClose/pause 700/playMusic WizardSong/warp Wizard 10 17/showFrame Wizard 20/warp farmer 10 23/warp MarlonFay 9 23/faceDirection MarlonFay 0 true/faceDirection farmer 0 true/pause 50/viewport 8 19 true/speed MarlonFay 1/move MarlonFay 0 -3 0 true/speed farmer 1/move farmer 0 -3 0 true/pause 800/speak Wizard \"หืม...$0#$b#พลังงานมืดที่ทรงพลัง แผ่ออกมาจากตัวเจ้า @#$b#แผ่ออกมาจากมาร์ลอนด้วยงั้นรึ...?$0\"/pause 700/showFrame Wizard 21/pause 600/speak Wizard \"พวกเจ้าเอาอะไรเข้ามาบ้านข้าเนี่ย?$0\"/pause 800/showFrame Wizard 22/pause 200/showFrame Wizard 0/pause 800/speak MarlonFay \"@ จัดการกับอสรพิษมืดที่ทุ่งร้างคริมสัน$0#$b#มอนสเตอร์นั่น ทิ้งเศษแก้วนี่ไว้แทน$1#$b#ข้าไม่เคยเห็นอะไรแบบนี้ มาก่อนเลยในชีวิต เจ้าตีความมันได้หรือไม่ แมกนัส?$2\"/pause 1000/speak Wizard \"...#$b#@ วางเศษแก้วนั่น กลางวงแหวนเวทย์สิ#$b#ข้าจะเรียกเหล่าธาตุ มาไขรหัสแหล่งที่มา และผู้ให้กำเนิดมัน\"/pause 800/move Wizard -2 0 1/pause 700/speed farmer 1/move farmer 0 -2 0/pause 700/ShowFrame farmer 15/pause 500/addObject 10 17 {{spacechase0.JsonAssets/ObjectId:Void Shard}}/pause 175/playSound stoneStep/playSound stoneStep/pause 500/showFrame farmer 12/pause 500/faceDirection farmer 1 true/pause 150/faceDirection farmer 2 true/pause 200/move farmer 0 2 0/pause 800/stopMusic/pause 1000/showFrame Wizard 19/pause 1000/shake Wizard 700/pause 1400/playSound healSound/glow 255 0 0/pause 1000/playSound healSound/glow 255 0 0/pause 1200/shake Wizard 1800/pause 600/playSound shadowpeep/pause 300/glow 255 0 0/playSound shadowpeep/pause 400/playSound shadowpeep/pause 100/playSound shadowpeep/pause 150/playSound shadowpeep/pause 270/playSound shadowpeep/pause 100/playSound shadowpeep/glow 255 0 0/pause 300/playSound shadowpeep/pause 150/playSound shadowpeep/pause 200/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/screenFlash 2/playSound thunder/removeSprite 10 17/removeItem {{spacechase0.JsonAssets/ObjectId:Void Shard}}/playSound breakingGlass/playSound breakingGlass/playSound breakingGlass/pause 900/showFrame Wizard 4/pause 200/emote farmer 16 true/pause 300/emote MarlonFay 16 true/pause 2500/move Wizard 1 0 1/pause 1000/emote Wizard 40/pause 600/faceDirection Wizard 2 true/pause 1200/showFrame Wizard 18/pause 850/speak Wizard \"เจ้า 'เศษผลึกความืด' (Void Shard) ทำลายตัวเองไปแล้ว...\"/pause 700/showFrame Wizard 0/pause 500/speak Wizard \"แต่ถึงกระนั้น ข้าก็สืบคุณสมบัติลึกลับ บางประการของมันมาได้\"/pause 700/speak MarlonFay \"เจ้าพบอะไรอย่างนั้นหรือ?$0\"/pause 1000/showFrame Wizard 18/pause 600/speak Wizard \"เศษเสี้ยวนี่ ไม่ได้เกิดตามธรรมชาติ#$b#มันถูกใครบางคน - หรือบางสิ่ง - สร้างขึ้น โดยตั้งใจให้ครอบงำ เหล่ามอนสเตอร์ กลืนกินพวกมัน ด้วยพลังเหนือคณา\"/pause 500/speak MarlonFay \"...$2\"/pause 300/showFrame Wizard 0/pause 500/speak Wizard \"ข้าต้องไปแล้ว เป็นเรื่องสำคัญมากที่สภา ต้องได้รับแจ้งเกี่ยวกับเรื่องนี้#$b#มากับข้าที่โถงวาร์ป\"/pause 300/globalFade/viewport -1000 -1000/pause 100/changeLocation Custom_WizardBasement/warp MarlonFay 22 22/warp farmer 24 22/warp Wizard 23 20/pause 100/positionOffset MarlonFay 20 -10/positionOffset farmer -20 -10/viewport 23 21 true/pause 1200/speak Wizard \"ข้าจะวาร์ปไปที่ กระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ เพื่อหารือเรื่อง 'เศษผลึกความมืด'(Void Shard) #$b#ตามกฎแล้ว มีแค่ข้าที่ไปได้\"/pause 700/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 0 true/pause 250/move Wizard 0 -2 0/pause 150/faceDirection Wizard 1 true/pause 150/faceDirection Wizard 2 true/pause 600/speak Wizard \"ความสำเร็จของเจ้า จะไม่ถูกมองข้ามแน่ @#$b#ข้าจะทำให้แน่ใจว่า เจ้าได้ความชอบที่สมควร\"/pause 800/showFrame Wizard 16/pause 500/screenFlash 2/playSound wand/playSound wand/warp Wizard -105 -105/pause 1000/globalFade/viewport -1000 -1000/pause 600/end dialogue MarlonFay \"โถงวาร์ปของแมกนัส ถูกสร้างมาสำหรับ การวาร์ประยะทางไกลๆ - เป็นความสำเร็จที่แท้จริง ของอัจฉริยะทางเวทมนตร์#$b#มันเป็นสิ่งที่ทำให้ การเดินทาง ไปยังแคสเซิลวิลเลจ และที่ที่ไกลออกไปทั้งหลาย เป็นไปได้#$e#เพราะฉะนั้น บอกข้าสิ การเอาชนะ อสรพิษมืดที่คลุ้มคลั่งนั่น มันยากขนาดไหนกัน?$1#$e#อ้า หืมม ข้าเข้าใจล่ะ$2#$e#เศษเสี้ยวนั่นอาจเป็น ตัวบ่งบอกถึงปัญหา ในภายภาคหน้า ข้าหวังว่า จะไม่เลวร้ายมากนักนะ ...$2#$e#เจ้ารู้ไหม ข้าจำครั้งสุดท้าย ที่ข้า... พูดมากขนาดนี้ไม่ได้#$e#เป็นเกียรติที่ได้คุยกับเจ้านะ @ ทำดีต่อไปล่ะ$0\"",
+    "1579123/i {{spacechase0.JsonAssets/ObjectId:Void Shard}}": "MarlonsTheme/-500 -500/farmer -100 -100 0 MarlonFay 8 11 0 Wizard -101 -101 2/pause 1300/viewport 6 15 true/removeItem {{spacechase0.JsonAssets/ObjectId:Void Shard}}/skippable/pause 1250/playSound doorClose/warp farmer 6 19/pause 700/faceDirection MarlonFay 1 true/pause 200/faceDirection MarlonFay 2 true/pause 200/speed farmer 1/move farmer 0 -4 0 true/pause 400/textAboveHead MarlonFay \"นั่นคืออะไรน่ะ?...\"/pause 2000/move MarlonFay 0 2 3/move MarlonFay -2 0 2/pause 700/speak MarlonFay \"เศษแก้วนั่น...$0#$b#มีพลังงานมืดเข้มข้น แผ่ออกมาด้วย!$1#$b#เจ้าได้สิ่งนี้มาจากไหนกัน?$1\"/pause 600/emote farmer 40/pause 300/speak MarlonFay \"ได้มาจากอสรพิษมืด ที่ทุ่งร้างคริมสัน อย่างนั้นหรือ?\"/pause 500/emote farmer 40/speak MarlonFay \"มันแข็งแกร่งกว่าตัวอื่นมาก?#$b#อืมม...$2\"/pause 800/showFrame MarlonFay 19/pause 700/speak MarlonFay \"ความคลุ้มคลั่ง มันแผ่กระจายเร็วกว่า ที่พวกเราคิดไว้มาก ไม่ใช่ข่าวดีเลย$2#$b#เราต้องรีบบอกเรื่องนี้ กับแมกนัสให้เร็วที่สุด$0#$b#มากับข้า @\"/pause 400/showFrame MarlonFay 0/pause 300/globalFade/viewport -1000 -1000/pause 50/stopMusic/pause 50/changeLocation WizardHouse/playSound doorClose/pause 600/playSound doorClose/pause 700/playMusic WizardSong/warp Wizard 10 17/showFrame Wizard 20/warp farmer 10 23/warp MarlonFay 9 23/faceDirection MarlonFay 0 true/faceDirection farmer 0 true/pause 50/viewport 8 19 true/speed MarlonFay 1/move MarlonFay 0 -3 0 true/speed farmer 1/move farmer 0 -3 0 true/pause 800/speak Wizard \"หืม...$0#$b#พลังงานมืดที่ทรงพลัง แผ่ออกมาจากตัวเจ้า @#$b#แผ่ออกมาจากมาร์ลอนด้วยงั้นรึ...?$0\"/pause 700/showFrame Wizard 21/pause 600/speak Wizard \"พวกเจ้าเอาอะไรเข้ามาบ้านข้าเนี่ย?$0\"/pause 800/showFrame Wizard 22/pause 200/showFrame Wizard 0/pause 800/speak MarlonFay \"@ จัดการกับอสรพิษมืดที่ทุ่งร้างคริมสัน$0#$b#มอนสเตอร์นั่น ทิ้งเศษแก้วนี่ไว้แทน$1#$b#ข้าไม่เคยเห็นอะไรแบบนี้ มาก่อนเลยในชีวิต เจ้าตีความมันได้หรือไม่ แมกนัส?$2\"/pause 1000/speak Wizard \"...#$b#@ วางเศษแก้วนั่น กลางวงแหวนเวทย์สิ#$b#ข้าจะเรียกเหล่าธาตุ มาไขรหัสแหล่งที่มา และผู้ให้กำเนิดมัน\"/pause 800/move Wizard -2 0 1/pause 700/speed farmer 1/move farmer 0 -2 0/pause 700/ShowFrame farmer 15/pause 500/addObject 10 17 {{spacechase0.JsonAssets/ObjectId:Void Shard}}/pause 175/playSound stoneStep/playSound stoneStep/pause 500/showFrame farmer 12/pause 500/faceDirection farmer 1 true/pause 150/faceDirection farmer 2 true/pause 200/move farmer 0 2 0/pause 800/stopMusic/pause 1000/showFrame Wizard 19/pause 1000/shake Wizard 700/pause 1400/playSound healSound/glow 255 0 0/pause 1000/playSound healSound/glow 255 0 0/pause 1200/shake Wizard 1800/pause 600/playSound shadowpeep/pause 300/glow 255 0 0/playSound shadowpeep/pause 400/playSound shadowpeep/pause 100/playSound shadowpeep/pause 150/playSound shadowpeep/pause 270/playSound shadowpeep/pause 100/playSound shadowpeep/glow 255 0 0/pause 300/playSound shadowpeep/pause 150/playSound shadowpeep/pause 200/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/playSound shadowpeep/pause 100/screenFlash 2/playSound thunder/removeSprite 10 17/playSound breakingGlass/playSound breakingGlass/playSound breakingGlass/pause 900/showFrame Wizard 4/pause 200/emote farmer 16 true/pause 300/emote MarlonFay 16 true/pause 2500/move Wizard 1 0 1/pause 1000/emote Wizard 40/pause 600/faceDirection Wizard 2 true/pause 1200/showFrame Wizard 18/pause 850/speak Wizard \"เจ้า 'เศษผลึกความืด' (Void Shard) ทำลายตัวเองไปแล้ว...\"/pause 700/showFrame Wizard 0/pause 500/speak Wizard \"แต่ถึงกระนั้น ข้าก็สืบคุณสมบัติลึกลับ บางประการของมันมาได้\"/pause 700/speak MarlonFay \"เจ้าพบอะไรอย่างนั้นหรือ?$0\"/pause 1000/showFrame Wizard 18/pause 600/speak Wizard \"เศษเสี้ยวนี่ ไม่ได้เกิดตามธรรมชาติ#$b#มันถูกใครบางคน - หรือบางสิ่ง - สร้างขึ้น โดยตั้งใจให้ครอบงำ เหล่ามอนสเตอร์ กลืนกินพวกมัน ด้วยพลังเหนือคณา\"/pause 500/speak MarlonFay \"...$2\"/pause 300/showFrame Wizard 0/pause 500/speak Wizard \"ข้าต้องไปแล้ว เป็นเรื่องสำคัญมากที่สภา ต้องได้รับแจ้งเกี่ยวกับเรื่องนี้#$b#มากับข้าที่โถงวาร์ป\"/pause 300/globalFade/viewport -1000 -1000/pause 100/changeLocation Custom_WizardBasement/warp MarlonFay 22 22/warp farmer 24 22/warp Wizard 23 20/pause 100/positionOffset MarlonFay 20 -10/positionOffset farmer -20 -10/viewport 23 21 true/pause 1200/speak Wizard \"ข้าจะวาร์ปไปที่ กระทรวงเวทมนตร์ แห่งสาธารณรัฐเฟิร์นกิลล์ เพื่อหารือเรื่อง 'เศษผลึกความมืด'(Void Shard) #$b#ตามกฎแล้ว มีแค่ข้าที่ไปได้\"/pause 700/faceDirection Wizard 1 true/pause 200/faceDirection Wizard 0 true/pause 250/move Wizard 0 -2 0/pause 150/faceDirection Wizard 1 true/pause 150/faceDirection Wizard 2 true/pause 600/speak Wizard \"ความสำเร็จของเจ้า จะไม่ถูกมองข้ามแน่ @#$b#ข้าจะทำให้แน่ใจว่า เจ้าได้ความชอบที่สมควร\"/pause 800/showFrame Wizard 16/pause 500/screenFlash 2/playSound wand/playSound wand/warp Wizard -105 -105/pause 1000/globalFade/viewport -1000 -1000/pause 600/end dialogue MarlonFay \"โถงวาร์ปของแมกนัส ถูกสร้างมาสำหรับ การวาร์ประยะทางไกลๆ - เป็นความสำเร็จที่แท้จริง ของอัจฉริยะทางเวทมนตร์#$b#มันเป็นสิ่งที่ทำให้ การเดินทาง ไปยังแคสเซิลวิลเลจ และที่ที่ไกลออกไปทั้งหลาย เป็นไปได้#$e#เพราะฉะนั้น บอกข้าสิ การเอาชนะ อสรพิษมืดที่คลุ้มคลั่งนั่น มันยากขนาดไหนกัน?$1#$e#อ้า หืมม ข้าเข้าใจล่ะ$2#$e#เศษเสี้ยวนั่นอาจเป็น ตัวบ่งบอกถึงปัญหา ในภายภาคหน้า ข้าหวังว่า จะไม่เลวร้ายมากนักนะ ...$2#$e#เจ้ารู้ไหม ข้าจำครั้งสุดท้าย ที่ข้า... พูดมากขนาดนี้ไม่ได้#$e#เป็นเกียรติที่ได้คุยกับเจ้านะ @ ทำดีต่อไปล่ะ$0\"",
 	},
 },
 
@@ -21720,8 +23213,7 @@
     },
 
 	//*** Start Wizard Marriage Schedule Dialogue Entries ***
-
-
+	
 	//Spring
 	{
       "Action": "EditData",
@@ -24252,6 +25744,260 @@
     },
 
 
+    //Adds more random spouse room dialogue for Claire 
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 5" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 6" },
+      "Entries": {
+      "spouseRoom_Claire": "Oh? Good morning, dear.$1#$e#I should organize my bulletin board...$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 12" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 13" },
+      "Entries": {
+      "spouseRoom_Claire": "We should bake something together soon. I know the perfect recipe.$1#$e#I have a cook book around here somewhere...",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 19" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 26" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Spring 27" },
+      "Entries": {
+      "spouseRoom_Claire": "Good morning, you're up early.$1",
+        }
+	},
+
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 5" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 6" },
+      "Entries": {
+      "spouseRoom_Claire": "Oh? Good morning, dear.$1#$e#I should organize my bulletin board...$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 12" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 13" },
+      "Entries": {
+      "spouseRoom_Claire": "We should bake something together soon. I know the perfect recipe.$1#$e#I have a cook book around here somewhere...",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 19" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 26" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Summer 27" },
+      "Entries": {
+      "spouseRoom_Claire": "Good morning, you're up early.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 5" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 6" },
+      "Entries": {
+      "spouseRoom_Claire": "Oh? Good morning, dear.$1#$e#I should organize my bulletin board...$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 12" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 13" },
+      "Entries": {
+      "spouseRoom_Claire": "We should bake something together soon. I know the perfect recipe.$1#$e#I have a cook book around here somewhere...",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 19" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 26" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Fall 27" },
+      "Entries": {
+      "spouseRoom_Claire": "Good morning, you're up early.$1",
+        }
+	},
+
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 5" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 6" },
+      "Entries": {
+      "spouseRoom_Claire": "Oh? Good morning, dear.$1#$e#I should organize my bulletin board...$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 12" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 13" },
+      "Entries": {
+      "spouseRoom_Claire": "We should bake something together soon. I know the perfect recipe.$1#$e#I have a cook book around here somewhere...",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 19" },
+      "Entries": {
+      "spouseRoom_Claire": "We should enjoy each other's company with a cup of tea soon.$1#$e#I got that tea table for a bargain from an antique shop.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 26" },
+      "Entries": {
+      "spouseRoom_Claire": "I love having my own little corner in the house all to myself...$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueClaire",
+	  "When": { "Date": "Winter 27" },
+      "Entries": {
+      "spouseRoom_Claire": "Good morning, you're up early.$1",
+        }
+	},
+
+
       //Claire's Marriage Schedule Dialogue
 
     {
@@ -26201,9 +27947,443 @@
 	  "When": { "HasSeenEvent": "6951319" },
       "FromFile": "assets/CharacterFiles/Dialogue/Lance/MarriageDialogue.json"
     },
-
-
-
+	
+	//Adds spouse room dialogue variety for Lance
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 1" },
+      "Entries": {
+      "spouseRoom_Lance": "Good morning. You're up bright and early today.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 4" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 6" },
+      "Entries": {
+      "spouseRoom_Lance": "Do you think the magical flames in here are too much?$0#$e#Hmm...$5",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 8" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 11" },
+      "Entries": {
+      "spouseRoom_Lance": "Ah... I have the day to myself.$5#$e#I trust you have farm work to do?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 12" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 13" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 15" },
+      "Entries": {
+      "spouseRoom_Lance": "*sigh* I destroyed expensive rare metals during a magical experiment.$2#$e#Such a terrible waste...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 19" },
+      "Entries": {
+      "spouseRoom_Lance": "Where do you think monsters come from, @?$0#$e#Legends say they come from dark ancient magic.$5#$e#I believe there's more than meets the eye.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 22" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 23" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Spring 27" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 1" },
+      "Entries": {
+      "spouseRoom_Lance": "Good morning. You're up bright and early today.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 4" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 6" },
+      "Entries": {
+      "spouseRoom_Lance": "Do you think the magical flames in here are too much?$0#$e#Hmm...$5",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 8" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 11" },
+      "Entries": {
+      "spouseRoom_Lance": "Ah... I have the day to myself.$5#$e#I trust you have farm work to do?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 12" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 13" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 15" },
+      "Entries": {
+      "spouseRoom_Lance": "*sigh* I destroyed expensive rare metals during a magical experiment.$2#$e#Such a terrible waste...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 19" },
+      "Entries": {
+      "spouseRoom_Lance": "Where do you think monsters come from, @?$0#$e#Legends say they come from dark ancient magic.$5#$e#I believe there's more than meets the eye.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 22" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 23" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Summer 27" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 1" },
+      "Entries": {
+      "spouseRoom_Lance": "Good morning. You're up bright and early today.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 4" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 6" },
+      "Entries": {
+      "spouseRoom_Lance": "Do you think the magical flames in here are too much?$0#$e#Hmm...$5",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 8" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 11" },
+      "Entries": {
+      "spouseRoom_Lance": "Ah... I have the day to myself.$5#$e#I trust you have farm work to do?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 12" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 13" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 15" },
+      "Entries": {
+      "spouseRoom_Lance": "*sigh* I destroyed expensive rare metals during a magical experiment.$2#$e#Such a terrible waste...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 19" },
+      "Entries": {
+      "spouseRoom_Lance": "Where do you think monsters come from, @?$0#$e#Legends say they come from dark ancient magic.$5#$e#I believe there's more than meets the eye.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 22" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 23" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Fall 27" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 1" },
+      "Entries": {
+      "spouseRoom_Lance": "Good morning. You're up bright and early today.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 4" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 6" },
+      "Entries": {
+      "spouseRoom_Lance": "Do you think the magical flames in here are too much?$0#$e#Hmm...$5",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 8" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 11" },
+      "Entries": {
+      "spouseRoom_Lance": "Ah... I have the day to myself.$5#$e#I trust you have farm work to do?$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 12" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 13" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 15" },
+      "Entries": {
+      "spouseRoom_Lance": "*sigh* I destroyed expensive rare metals during a magical experiment.$2#$e#Such a terrible waste...$2",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 19" },
+      "Entries": {
+      "spouseRoom_Lance": "Where do you think monsters come from, @?$0#$e#Legends say they come from dark ancient magic.$5#$e#I believe there's more than meets the eye.$0",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 22" },
+      "Entries": {
+      "spouseRoom_Lance": "Perhaps one day I'll show you what's under this room.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 23" },
+      "Entries": {
+      "spouseRoom_Lance": "I know my room isn't orthodox.$0#$e#I couldn't find a better spot for these statues and barrels of elixirs.$1",
+        }
+	},
+	
+	{
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLance",
+	  "When": { "Date": "Winter 27" },
+      "Entries": {
+      "spouseRoom_Lance": "Sorry if it smells like potent magic in here.$2#$e#I spilt an elixir all over the floor...$2",
+        }
+	},
+	
+	
+	
 	//LANCE DYNAMIC MARRIAGE DIALOGUES
 
 	{
@@ -39260,7 +41440,7 @@
 {    // Mr Qi. Event - adds SVE trailer soundtrack to jukebox
 	 "Action": "EditData",
 	 "Target": "data/events/farm",
-	 "When": { "HasFlag": "qiCave", "HasFlag": "galaxySword", "HasSeenEvent |contains=1925178": true, "HasSeenEvent |contains=980558": true },
+	 "When": { "HasFlag": "qiCave", "HasFlag": "galaxySword", "HasSeenEvent |contains=1925178": true, "HasSeenEvent |contains=980558": true },  //player completed qi skull cave quest, has galaxy sword, made it to treasure cave in the badlands, and unlocked the jukebox from Gus
 	 "Entries": {
      "6139583": "none/-500 -500/farmer -100 -100 2 MrQi -99 -99 0/pause 1250/playMusic StardewValleyExpandedTrailer/pause 10/stopMusic/emote farmer 16 true/pause 1000/speak MrQi \"ไง เจ้าหนู ฉันคอยจับตาดูเธออย่างใกล้ชิดอยู่นะ คอยดูว่าเธอมาได้ไกลขนาดไหนแล้ว...\"/pause 650/emote farmer 8 true/pause 1000/speak MrQi \"ให้ฉันเข้าประเด็นเลยแล้วกันนะ#$b#ฉันเพิ่มเพลงซาวด์แทร็ก ในตู้เพลงของเธอให้แล้ว ชื่อเพลงว่า 'Stardew Valley Expanded Trailer'#$b#คิดซะว่าเป็นรางวัล ที่มาได้ไกลขนาดนี้แล้วกันนะ: ดนตรีประกอบที่ยิ่งใหญ่ กับการตื่นรู้ตัวไงล่ะ\"/pause 800/screenFlash 1/playSound wand/warp MrQi -400 -400/pause 1250/end"
 	 },
