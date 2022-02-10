@@ -743,7 +743,7 @@
      "Action": "EditMap",
 	 "Target": "Maps/JojaMart",
 	 "FromFile": "Assets/MapPatches/PropertyDeedShop_Joja.tbin",
-	 "When": { "HasSeenEvent": "8033758", "HasSeenEvent": "6665293", "HasSeenEvent |contains=8033860": false, "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard" },
+	 "When": { "HasSeenEvent": "8033758", "HasSeenEvent |contains=191393": false, "HasSeenEvent |contains=8033860": false, "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard" },
 	 "ToArea": { "X": 25, "Y": 25, "Width": 1, "Height": 1 },
 	 "Update": "OnLocationChange"
 },
@@ -790,7 +790,7 @@
 {    //Morris special order event - part 2      --->9033859 tagged for framework
 	 "Action": "EditData",
 	 "Target": "data/events/JojaMart",
-	 "When": { "HasSeenEvent": "6665293" },
+	 //"When": { "HasSeenEvent": "6665293" },
 	 "Entries": {
 	 "9033859/e 8033758/H": "jaunty/-500 -500/farmer 18 20 1 MorrisTod 24 26 3 Martin 9 25 1 Sam 26 7 2 Shane_JojaMart 13 15 3 Andy 25 16 3 Pam 2 17 1 Jodi 9 8 0/animate Martin false true 1000 20 20 20 20 20 21 20 20 20 20 20 20 20 20 20 21 21/animate Sam false true 100 40 40 41 41 42 42 41 41/viewport 22 26 true/skippable/move farmer 3 0 2/move farmer 0 3 2/pause 800/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 600/speak MorrisTod \"อ่า ครับ? เชิญเข้ามาได้!$1\"/pause 1000/doAction 21 24/pause 1000/move farmer 0 3 1/move farmer 1 0 1/pause 800/emote farmer 40/pause 500/speak MorrisTod \"ว่าไง คุณตัดสินใจที่จะซื้อที่ดิน แล้วใช่มั้ย? ยอดเยี่ยมที่ได้ยินเช่นนี้$0#$b#ถ้ามีใครที่จะได้ใช้ประโยชน์ จากผืนดินนั้น ก็ต้องเป็นคุณล่ะนะ$1\"/pause 650/faceDirection MorrisTod 2 true/pause 300/faceDirection MorrisTod 1 true/pause 500/speak MorrisTod \"มีสมุดบัญชีอยู่ที่ชั้นหนังสือ ใช้มันในการซื้อโฉนดที่ดิน แล้วก็นำมันมา ให้ผมเซ็นต์รับรอง$0\"/pause 400/faceDirection MorrisTod 2 true/pause 300/faceDirection MorrisTod 3 true/pause 500/speak MorrisTod \"ผมจะคอยเฝ้าดู ว่าคุณจะทำอะไร กับที่ว่างตรงนั้น @$0#$b#เอาล่ะ เดี๋ยวผมต้องไปจัดการอะไรสักหน่อย ค่อยมาหาผมวันนี้อีกที พร้อมกับโฉนดที่ดิน ที่กรอกรายละเอียดแล้ว$0\"/pause 500/end dialogueWarpOut MorrisTod \"การพัฒนาที่ดิน น่าสนใจดีใช่มั้ยละ?$1\""
 	 },
