@@ -21,8 +21,8 @@
    {
       "ShopName": "BeachShop",
       "PortraitPath": "assets/snackvendor.png",
-	  "Quote": "Welcome! What can I get you ?",
-	  "ClosedMessage": "Sorry, we're closed. We are open from 10 am to 6 pm every day.",
+	  "Quote": "ยินดีต้อนรับ!  รับอะไรดีล่ะ?",
+	  "ClosedMessage": "ขออภัย ร้านปิดแล้ว เราเปิดตั้งแต่เวลา 10 am - 6 pm ทุกวัน",
 "LocalizedQuote": { 
 "zh": "欢迎，要买点什么？", 
 "ko": "어서오십쇼! 찾는 있으신가요?", 
@@ -106,9 +106,9 @@
 		},
    {
       "ShopName": "SubmarineShop",
-	  "Quote": "Ahoy! What are ye' lookin' for?",
+	  "Quote": "อะฮ้อย! มองหาอะไรอยู่งั้นรึ?",
 	  "PortraitPath": "assets/giftshopvendor.png",
-	  "ClosedMessage": "Sorry, the shop is not open yet. I'm usually open from 10 am to 9 pm.",
+	  "ClosedMessage": "โทษที ร้านยังไม่เปิด ปกติฉันจะเปิดร้านตอน 10 am - 9 pm",
 "LocalizedQuote": { 
 "zh": "欢迎，要买点什么？", "ko": "여어!  찾는 거라도 있슈?", 
 "ru": "Хей! Что-то нужно?", 
@@ -399,8 +399,8 @@
    },
       {
       "ShopName": "LiterallyAShopThatJUSTSellsIceCream",
-	  "Quote": "Ice! Come get your ice cream!",
-	  "ClosedMessage": "Sorry. I'm not selling ice cream right now. Come back between 9 am to 7 pm!",
+	  "Quote": "เย็นๆ! มาซื้อไอติมกันเร็ว!",
+	  "ClosedMessage": "โทษทีนะ ตอนนี้ฉันไม่ได้ขายไอติมแล้ว ไว้กลับมาใหม่ช่วง 9 am ถึง 7 pm!",
 "LocalizedQuote": { 
 "zh": "欢迎，要买点什么？", 
 "ko": "아이스크림! 아이스크림 드세요!", 

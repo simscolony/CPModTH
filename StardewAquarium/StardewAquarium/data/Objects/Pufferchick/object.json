@@ -1,6 +1,6 @@
 ﻿{
 	"Name": "Pufferchick",
-	"Description": "Half chicken, half pufferfish.",
+	"Description": "(ไก่ปักเป้า) ครึ่งหนึ่งป็นไก่ อีกครึ่งหนึ่งเป็นปักเป้า",
 	"Category": "Fish",
 	"Edibility": -200,
 	"EdibleIsDrink": false,

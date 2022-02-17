@@ -1,7 +1,7 @@
 ﻿{
 	"Name": "Stardew Aquarium Trophy",
 	"Price": 1,
-	"Description": "Rewarded for helping the Stardew Aquarium reach its full potential!",
+	"Description": "(ถ้วยรางวัล สตาร์ดิวอควาเรียม) รางวัลที่ได้รับ จากการช่วยเหลือ สตาร์ดิวอควาเรียม ให้ได้ไปถึง ศักยภาพขั้นสูงสุด!",
 	"ProvidesLight": false,
 	"NameLocalization": {
 		"ko": "별이슬 아쿠아리움 트로피",
