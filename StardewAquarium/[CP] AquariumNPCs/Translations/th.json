@@ -6,10 +6,10 @@
             "Target": "Data/NPCDispositions",
             "Fields": {
                 "Curator": {
-                    11: "Curator"
+                    11: "ภัณฑารักษ์"
                 },
                 "Goldie": {
-                    11: "Goldie"
+                    11: "เจ้าทอง"
                 }
             }
         },
