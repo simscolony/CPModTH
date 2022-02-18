@@ -1,0 +1,10 @@
+﻿{
+	"NotEnoughMoney": "คุณมีเงินไม่พอที่จะซื้อตั๋วไป {{DestinationName}}",
+	"MenuCancelOption": "ยกเลิก",
+	"NoDestinations": "ไม่พบสถานีปลายทาง",
+	"ChooseDestination": "เลือกสถานีปลายทางที่ต้องการจะไป",
+	"TrainStationDisplayName": "สถานีสตาร์ดิวแวลลี่",
+	"BoatStationDisplayName": "ร้านของวิลลี่",
+	"ArrivalMessage": "คุณได้มาถึง {{DestinationName}} แล้ว",
+	"GingerIsland":  "เกาะขิง"
+}
