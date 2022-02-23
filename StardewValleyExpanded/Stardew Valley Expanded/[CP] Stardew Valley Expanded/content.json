@@ -25265,7 +25265,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "HighlandsDwarf": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_HighlandsDwarf_WarpRoom 3 3/Dwarf",
+        "HighlandsDwarf": "Adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_HighlandsDwarf_WarpRoom 3 3/คนแคระ",
         }
     },
 
