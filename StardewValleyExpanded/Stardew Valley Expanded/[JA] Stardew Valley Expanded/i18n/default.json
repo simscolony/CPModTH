@@ -337,7 +337,7 @@
 	"object.monster-fruit.name": "Monster Fruit",
 	"object.monster-fruit.description": "(ผลสัตว์ประหลาด) มีรูปร่างเหมือนลูกนัยตา แต่มีรสชาติใกล้เคียง กับสตาร์ดรอปมากที่สุด เท่าที่ใครจะหาได้แล้ว",
 	"object.monster-mushroom.name": "Monster Mushroom",
-	"object.monster-mushroom.description": "(เห็ดสัตว์ประหลาด) อันใหญ่เบิ้ม มันจะเลื้อยกาะอยู่บนต้นไม่สูง เพื่อหลีกเลี่ยงตัวเอง จากนักล่าบนพื้นดิน",
+	"object.monster-mushroom.description": "(เห็ดสัตว์ประหลาด) อันใหญ่เบิ้ม มันจะเลื้อยเกาะอยู่บนต้นไม้สูง เพื่อหลีกเลี่ยงตัวเอง จากนักล่าบนพื้นดิน",
 	"object.ornate-treasure-chest.name": "Ornate Treasure Chest",
 	"object.ornate-treasure-chest.description": "(หีบสมบัติอย่างหรู) มันถูกเติมเต็มจนพูน ด้วยทองคำ และอัญมณี",
 	"object.property-deed.name": "Property Deed",
