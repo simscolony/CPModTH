@@ -1,5 +1,5 @@
 {
-    "Format": "1.24.0",
+    "Format": "1.25.0",
     "ConfigSchema": {
         "Billboard": {
             "AllowValues": "true, false",
@@ -60,9 +60,9 @@
                 "TranslatorArmy.ModTH": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
                     "ID": "TranslatorArmy.ModTH",
                     "LanguageCode": "th",
-                    "ButtonTexture": "Mods/TranslatorArmy.ModTH/Button",
+                    "ButtonTexture": "{{InternalAssetKey: assets/button_{{VisualStyle}}.png}}",
                     "UseLatinFont": false,
-                    "FontFile": "Fonts/Thai",
+                    "FontFile": "{{InternalAssetKey: assets/Content/Fonts/Thai.fnt}}",
                     "FontPixelZoom": 1,
                     "FontApplyYOffset": true,
                     "TimeFormat": "[HOURS_12]:[MINUTES] [AM_PM]",
@@ -72,19 +72,7 @@
             }
         },
 
-        // load button texture
-        {
-            "Action": "Load",
-            "Target": "Mods/TranslatorArmy.ModTH/Button",
-            "FromFile": "assets/button_{{VisualStyle}}.png"
-        },
-
-        // load font files
-        {
-            "Action": "Load",
-            "Target": "Fonts/Thai",
-            "FromFile": "assets/Content/{{Target}}.fnt"
-        },
+        // load font texture
         {
             "Action": "Load",
             "Target": "Fonts/Thai_0, Fonts/Thai_1",
