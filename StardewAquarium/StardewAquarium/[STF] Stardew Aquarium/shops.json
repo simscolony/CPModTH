@@ -33,8 +33,8 @@
 "es": "¡Bienvenido! ¿Qué puedo hacer por ti?",
 //"hu": "", *Hungarian
 //"it": "", *Italian
-//"ja": "", *Japanese
-//"tr": "", *Turkish
+"ja": "いらっしゃい！何にしますか？",
+"tr": "Hoşgeldiniz! Size ne verebilirim?"
 	},
 "LocalizedClosedMessage": { 
 "zh": "现在是歇业时间了，每天上午9点至下午7点开放。", 
@@ -46,8 +46,8 @@
 "es": "Lo siento, estamos cerrados. Abrimos de las 10 am hasta las 6 pm todos los días.",
 //"hu": "", *Hungarian
 //"it": "", *Italian
-//"ja": "", *Japanese
-//"tr": "", *Turkish
+"ja": "ごめんなさい、まだ閉店中です。営業時間は午前10時から午後6時です。",
+"tr": "Üzgünüm, şuanda kapalıyız. Her gün saat 10:00-18:00 arası açığız."
 	},
 	  "When": ["t 1000 1800"],
       "ItemStocks": [
@@ -118,8 +118,8 @@
 "es": "¡Ahoy! ¿Qué estás buscando?",
 //"hu": "", *Hungarian
 //"it": "", *Italian
-//"ja": "", *Japanese
-//"tr": "", *Turkish
+"ja": "アホイ！何をお求めですか？",
+"tr": "Selam! Ne arıyordun?"
 	},
 "LocalizedClosedMessage": { 
 "zh": "现在是歇业时间了，每天上午10点至下午9点开放。", 
@@ -131,12 +131,20 @@
 "es": "Lo siento, la tienda no está abierta aún. Abro desde las 10 am hasta las 9 pm.",
 //"hu": "", *Hungarian
 //"it": "", *Italian
-//"ja": "", *Japanese
-//"tr": "", *Turkish 
+"ja": "申し訳ありませんが、まだオープンしていません。午前10時から午後9時まで営業しています。",
+"tr": "Üzgünüm, dükkan henüz açık değil. Genellikle 10:00-21:00 arası açığım."
 	},
 	  "When": ["t 1000 2100"],
       "ItemStocks": [
       	{
+          "StockPrice": 5000,
+          "Stock": 10,
+          "ItemType": "Object",
+          "IsRecipe": true,
+          "ItemNames": ["Spicy Lava Eel"],          
+          "When": ["Hn AquariumFishDonated:LavaEel"]
+        },
+        {
           "StockPrice": 5000,
           "Stock": 10,
           "ItemType": "Object",
@@ -212,6 +220,13 @@
           "ItemType": "Clothing",
           "ItemNames": ["Pufferchick Shirt"],
           "When": ["Hn AquariumDonated:Pufferchick"]
+        },
+        {
+          "StockPrice": 200,
+          "Stock": 1,
+          "ItemType": "Hat",
+          "ItemNames": ["Sunglasses"],
+          "When": ["!z summer"]
         },
         {
           "StockPrice": 200,
@@ -411,8 +426,8 @@
 "es": "¡Hielo! ¡Ven a tomar tu helado!",
 //"hu": "", *Hungarian
 //"it": "", *Italian
-//"ja": "", *Japanese
-//"tr": "", *Turkish
+"ja": "アイス！冷たいアイスクリームを売ってるよー！",
+"tr": "Dondurma! Gelin dondurmanızı alın!"
 	},
 "LocalizedClosedMessage": { 
 "zh": "现在是歇业时间了，每天上午9点至下午7点开放。", 
@@ -424,8 +439,8 @@
 "es": "Lo siento, no estoy vendiendo helado ahora. ¡Vuelve entre las 9 am y las 7 pm!",
 //"hu": "", *Hungarian
 //"it": "", *Italian
-//"ja": "", *Japanese
-//"tr": "", *Turkish
+"ja": "ゴメンよ。アイスの販売はまだやってないんだ。午前9時から午後7時の間にまた来てくれよな！",
+"tr": "Üzgünüm. Şuanda dondurma satmıyorum. 09:00-19:00 arası geri gel!"
 	},
 	  "When": ["t 900 1900"],
       "ItemStocks": [

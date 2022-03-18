@@ -1,7 +1,7 @@
 {
   "TrainStops": [
     {
-      "TargetMapName": "ExteriorMuseum",
+      "TargetMapName": "Custom_ExteriorMuseum",
       "LocalizedDisplayName": {
         "en": "สตาร์ดิวอควาเรียม",
         "ko": "별이슬 아쿠아리움",
@@ -10,7 +10,8 @@
         "pt": "Stardew Aquarium",
 		    "fr": "L'Aquarium Stardew",
         "de": "Sternentau Aquarium",
-        "es": "El Acuario Stardew"
+        "es": "El Acuario Stardew",
+        "tr" : "Yıldızçiyi Akvaryumu"
       },
       "TargetX": 40,
       "TargetY": 1,
