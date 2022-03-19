@@ -1,127 +1,127 @@
 {
-	"Format": "1.10.0",
-	"Changes": [
+    "Format": "1.19.0",
+    "Changes": [
 
-//Animals
-		{
-				"Action": "EditImage",
-				"Target":  "Animals/BabyBlue Chicken, Animals/BabyBrown Chicken, Animals/BabyBrown Cow, Animals/BabyGoat, Animals/BabyGolden Chicken, Animals/BabyOstrich, Animals/BabyPig, Animals/BabyRabbit, Animals/BabySheep, Animals/BabyVoid Chicken, Animals/BabyWhite Chicken, Animals/BabyWhite Cow, Animals/Blue Chicken, Animals/Brown Chicken, Animals/Brown Cow, Animals/cat, Animals/cat1, Animals/cat2, Animals/Dinosaur, Animals/dog, Animals/dog1, Animals/dog2, Animals/Duck, Animals/Goat, Animals/Golden Chicken, Animals/horse, Animals/Ostrich, Animals/Pig, Animals/Rabbit, Animals/ShearedSheep, Animals/Sheep, Animals/Void Chicken, Animals/White Chicken, Animals/White Cow",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Animals
+        {
+            "Action": "EditImage",
+            "Target":  "Animals/BabyBlue Chicken, Animals/BabyBrown Chicken, Animals/BabyBrown Cow, Animals/BabyGoat, Animals/BabyGolden Chicken, Animals/BabyOstrich, Animals/BabyPig, Animals/BabyRabbit, Animals/BabySheep, Animals/BabyVoid Chicken, Animals/BabyWhite Chicken, Animals/BabyWhite Cow, Animals/Blue Chicken, Animals/Brown Chicken, Animals/Brown Cow, Animals/cat, Animals/cat1, Animals/cat2, Animals/Dinosaur, Animals/dog, Animals/dog1, Animals/dog2, Animals/Duck, Animals/Goat, Animals/Golden Chicken, Animals/horse, Animals/Ostrich, Animals/Pig, Animals/Rabbit, Animals/ShearedSheep, Animals/Sheep, Animals/Void Chicken, Animals/White Chicken, Animals/White Cow",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Buildings
-		{
-				"Action": "EditImage",
-				"Target":  "Buildings/Barn, Buildings/Big Barn, Buildings/Big Coop, Buildings/Big Shed, Buildings/Big Shed_PaintMask, Buildings/Coop, Buildings/Deluxe Barn, Buildings/Deluxe Barn_PaintMask, Buildings/Deluxe Coop, Buildings/Deluxe Coop_PaintMask, Buildings/Desert Obelisk, Buildings/Earth Obelisk, Buildings/Fish Pond, Buildings/Gold Clock, Buildings/Greenhouse, Buildings/houses, Buildings/houses_PaintMask, Buildings/Island Obelisk, Buildings/Junimo Hut, Buildings/Log Cabin, Buildings/Log Cabin_PaintMask, Buildings/Mill, Buildings/Plank Cabin, Buildings/Plank Cabin_PaintMask, Buildings/Shed, Buildings/Shipping Bin, Buildings/Silo, Buildings/Slime Hutch, Buildings/Stable, Buildings/Stable_PaintMask, Buildings/Stone Cabin, Buildings/Stone Cabin_PaintMask, Buildings/Water Obelisk, Buildings/Well",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Buildings
+        {
+            "Action": "EditImage",
+            "Target":  "Buildings/Barn, Buildings/Big Barn, Buildings/Big Coop, Buildings/Big Shed, Buildings/Big Shed_PaintMask, Buildings/Coop, Buildings/Deluxe Barn, Buildings/Deluxe Barn_PaintMask, Buildings/Deluxe Coop, Buildings/Deluxe Coop_PaintMask, Buildings/Desert Obelisk, Buildings/Earth Obelisk, Buildings/Fish Pond, Buildings/Gold Clock, Buildings/Greenhouse, Buildings/houses, Buildings/houses_PaintMask, Buildings/Island Obelisk, Buildings/Junimo Hut, Buildings/Log Cabin, Buildings/Log Cabin_PaintMask, Buildings/Mill, Buildings/Plank Cabin, Buildings/Plank Cabin_PaintMask, Buildings/Shed, Buildings/Shipping Bin, Buildings/Silo, Buildings/Slime Hutch, Buildings/Stable, Buildings/Stable_PaintMask, Buildings/Stone Cabin, Buildings/Stone Cabin_PaintMask, Buildings/Water Obelisk, Buildings/Well",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Main Characters 
-		 {
-				"Action": "EditImage",
-				"Target":  "Characters/Abigail, Characters/Abigail_Beach, Characters/Alex, Characters/Alex_Beach, Characters/Baby, Characters/Baby_dark, Characters/Bear, Characters/Birdie, Characters/Bouncer, Characters/Caroline, Characters/Caroline_Beach, Characters/Clint, Characters/Clint_Beach, Characters/ClothesTherapyCharacters, Characters/Dana, Characters/Demetrius, Characters/Demetrius_Beach, Characters/Dick, Characters/Dwarf, Characters/Elliott, Characters/Elliott_Beach, Characters/Emily, Characters/Emily_Beach, Characters/Evelyn, Characters/femaleRival, Characters/George, Characters/Gourmand, Characters/Governor, Characters/Grandpa, Characters/Gunther, Characters/Gus, Characters/Haley, Characters/Haley_Beach, Characters/Harvey, Characters/Harvey_Beach, Characters/Henchman, Characters/IslandParrot, Characters/Jas, Characters/Jodi, Characters/Jodi_Beach, Characters/Junimo, Characters/Kent, Characters/Krobus, Characters/Krobus_Trenchcoat, Characters/KrobusRaven, Characters/Leah, Characters/Leah_Beach, Characters/LeahExFemale, Characters/LeahExMale, Characters/Lewis, Characters/Lewis_Beach, Characters/Linus, Characters/maleRival, Characters/Marcello, Characters/Mariner, Characters/Marlon, Characters/Marnie, Characters/Marnie_Beach, Characters/Maru, Characters/Maru_Beach, Characters/Maru_Hospital, Characters/Morris, Characters/MrQi, Characters/Pam, Characters/Pam_Beach, Characters/ParrotBoy, Characters/Penny, Characters/Penny_Beach, Characters/Pierre, Characters/Pierre_Beach, Characters/Robin, Characters/Robin_Beach, Characters/robot, Characters/SafariGuy, Characters/Sam, Characters/Sam_Beach, Characters/Sandy, Characters/SeaMonsterKrobus, Characters/Sebastian, Characters/Sebastian_Beach, Characters/Shane, Characters/Shane_Beach, Characters/Shane_JojaMart, Characters/shirts, Characters/Toddler, Characters/Toddler_dark, Characters/Toddler_girl, Characters/Toddler_girl_dark, Characters/TrashBear, Characters/Vincent, Characters/WeddingOutfits, Characters/Willy, Characters/Wizard",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Main Characters
+        {
+            "Action": "EditImage",
+            "Target":  "Characters/Abigail, Characters/Abigail_Beach, Characters/Alex, Characters/Alex_Beach, Characters/Baby, Characters/Baby_dark, Characters/Bear, Characters/Birdie, Characters/Bouncer, Characters/Caroline, Characters/Caroline_Beach, Characters/Clint, Characters/Clint_Beach, Characters/ClothesTherapyCharacters, Characters/Dana, Characters/Demetrius, Characters/Demetrius_Beach, Characters/Dick, Characters/Dwarf, Characters/Elliott, Characters/Elliott_Beach, Characters/Emily, Characters/Emily_Beach, Characters/Evelyn, Characters/femaleRival, Characters/George, Characters/Gourmand, Characters/Governor, Characters/Grandpa, Characters/Gunther, Characters/Gus, Characters/Haley, Characters/Haley_Beach, Characters/Harvey, Characters/Harvey_Beach, Characters/Henchman, Characters/IslandParrot, Characters/Jas, Characters/Jodi, Characters/Jodi_Beach, Characters/Junimo, Characters/Kent, Characters/Krobus, Characters/Krobus_Trenchcoat, Characters/KrobusRaven, Characters/Leah, Characters/Leah_Beach, Characters/LeahExFemale, Characters/LeahExMale, Characters/Lewis, Characters/Lewis_Beach, Characters/Linus, Characters/maleRival, Characters/Marcello, Characters/Mariner, Characters/Marlon, Characters/Marnie, Characters/Marnie_Beach, Characters/Maru, Characters/Maru_Beach, Characters/Maru_Hospital, Characters/Morris, Characters/MrQi, Characters/Pam, Characters/Pam_Beach, Characters/ParrotBoy, Characters/Penny, Characters/Penny_Beach, Characters/Pierre, Characters/Pierre_Beach, Characters/Robin, Characters/Robin_Beach, Characters/robot, Characters/SafariGuy, Characters/Sam, Characters/Sam_Beach, Characters/Sandy, Characters/SeaMonsterKrobus, Characters/Sebastian, Characters/Sebastian_Beach, Characters/Shane, Characters/Shane_Beach, Characters/Shane_JojaMart, Characters/shirts, Characters/Toddler, Characters/Toddler_dark, Characters/Toddler_girl, Characters/Toddler_girl_dark, Characters/TrashBear, Characters/Vincent, Characters/WeddingOutfits, Characters/Willy, Characters/Wizard",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Characters - SVE v1.12
-		 {
-				"Action": "EditImage",
-				"Target":  "Characters/Alesia, Characters/Andy, Characters/Andy_Beach, Characters/Apples, Characters/ApplesSad, Characters/Camilla, Characters/Claire, Characters/Claire_Joja, Characters/Claire_Theater, Characters/Dusty, Characters/Gunther, Characters/Isaac, Characters/Lance, Characters/Lance_Beach, Characters/Magnus, Characters/Marlon, Characters/Martin, Characters/Martin_Joja, Characters/Martin_Theater, Characters/Morgan, Characters/Morris, Characters/Olivia, Characters/Olivia_Beach, Characters/Peaches, Characters/Scarlett, Characters/Sophia, Characters/Sophia_Beach, Characters/SophiaJPKsprite, Characters/Susan, Characters/Susan_Beach, Characters/Victor, Characters/Victor_Beach",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true,
-						  "HasMod:FlashShifter.StardewValleyExpandedCP" : true}
-		 },
+        // Characters - SVE v1.12
+        {
+            "Action": "EditImage",
+            "Target":  "Characters/Alesia, Characters/Andy, Characters/Andy_Beach, Characters/Apples, Characters/ApplesSad, Characters/Camilla, Characters/Claire, Characters/Claire_Joja, Characters/Claire_Theater, Characters/Dusty, Characters/Gunther, Characters/Isaac, Characters/Lance, Characters/Lance_Beach, Characters/Magnus, Characters/Marlon, Characters/Martin, Characters/Martin_Joja, Characters/Martin_Theater, Characters/Morgan, Characters/Morris, Characters/Olivia, Characters/Olivia_Beach, Characters/Peaches, Characters/Scarlett, Characters/Sophia, Characters/Sophia_Beach, Characters/SophiaJPKsprite, Characters/Susan, Characters/Susan_Beach, Characters/Victor, Characters/Victor_Beach",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true,
+            "HasMod:FlashShifter.StardewValleyExpandedCP" : true}
+        },
 
-//Characters/Farmer
-		 {
-				"Action": "EditImage",
-				"Target":  "Characters/Farmer/accessories, Characters/Farmer/farmer_base, Characters/Farmer/farmer_base_bald, Characters/Farmer/farmer_girl_base, Characters/Farmer/farmer_girl_base_bald, Characters/Farmer/hairstyles, Characters/Farmer/hairstyles2, Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Characters/Farmer/shoeColors, Characters/Farmer/skinColors",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Characters/Farmer
+        {
+            "Action": "EditImage",
+            "Target":  "Characters/Farmer/accessories, Characters/Farmer/farmer_base, Characters/Farmer/farmer_base_bald, Characters/Farmer/farmer_girl_base, Characters/Farmer/farmer_girl_base_bald, Characters/Farmer/hairstyles, Characters/Farmer/hairstyles2, Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Characters/Farmer/shoeColors, Characters/Farmer/skinColors",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Characters/Monsters
-		 {
-				"Action": "EditImage",
-				"Target":  "Characters/Monsters/Angry Roger, Characters/Monsters/Armored Bug, Characters/Monsters/Armored Bug_dangerous, Characters/Monsters/Bat, Characters/Monsters/Bat_dangerous, Characters/Monsters/Big Slime, Characters/Monsters/Blue Squid, Characters/Monsters/Bug, Characters/Monsters/Bug_dangerous, Characters/Monsters/Carbon Ghost, Characters/Monsters/Cat, Characters/Monsters/Crow, Characters/Monsters/Duggy, Characters/Monsters/Duggy_dangerous, Characters/Monsters/Dust Spirit, Characters/Monsters/Dust Spirit_dangerous, Characters/Monsters/Dwarvish Sentry, Characters/Monsters/False Magma Cap, Characters/Monsters/Fireball, Characters/Monsters/Fly, Characters/Monsters/Fly_dangerous, Characters/Monsters/Frog, Characters/Monsters/Frost Bat, Characters/Monsters/Frost Bat_dangerous, Characters/Monsters/Ghost, Characters/Monsters/Green Slime, Characters/Monsters/Green Slime_dangerous, Characters/Monsters/Grub, Characters/Monsters/Grub_dangerous, Characters/Monsters/Haunted Skull, Characters/Monsters/Haunted Skull_dangerous, Characters/Monsters/Hot Head, Characters/Monsters/Iridium Bat, Characters/Monsters/Iridium Crab, Characters/Monsters/Lava Bat, Characters/Monsters/Lava Crab, Characters/Monsters/Lava Crab_dangerous, Characters/Monsters/Lava Lurk, Characters/Monsters/Magma Duggy, Characters/Monsters/Magma Sparker, Characters/Monsters/Magma Sprite, Characters/Monsters/Metal Head, Characters/Monsters/Metal Head_dangerous, Characters/Monsters/Mummy, Characters/Monsters/Mummy_dangerous, Characters/Monsters/Pepper Rex, Characters/Monsters/Putrid Ghost, Characters/Monsters/Rock Crab, Characters/Monsters/Rock Crab_dangerous, Characters/Monsters/Royal Serpent, Characters/Monsters/Serpent, Characters/Monsters/Shadow Brute, Characters/Monsters/Shadow Brute_dangerous, Characters/Monsters/Shadow Girl, Characters/Monsters/Shadow Shaman, Characters/Monsters/Shadow Shaman_dangerous, Characters/Monsters/Shadow Sniper, Characters/Monsters/Skeleton Mage, Characters/Monsters/Skeleton Mage_dangerous, Characters/Monsters/Skeleton, Characters/Monsters/Skeleton_dangerous, Characters/Monsters/Spider, Characters/Monsters/Spiker, Characters/Monsters/Squid Kid, Characters/Monsters/Squid Kid_dangerous, Characters/Monsters/Stick Bug, Characters/Monsters/Stone Golem, Characters/Monsters/Stone Golem_dangerous, Characters/Monsters/Tiger Slime, Characters/Monsters/Wilderness Golem",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Characters/Monsters
+        {
+            "Action": "EditImage",
+            "Target":  "Characters/Monsters/Angry Roger, Characters/Monsters/Armored Bug, Characters/Monsters/Armored Bug_dangerous, Characters/Monsters/Bat, Characters/Monsters/Bat_dangerous, Characters/Monsters/Big Slime, Characters/Monsters/Blue Squid, Characters/Monsters/Bug, Characters/Monsters/Bug_dangerous, Characters/Monsters/Carbon Ghost, Characters/Monsters/Cat, Characters/Monsters/Crow, Characters/Monsters/Duggy, Characters/Monsters/Duggy_dangerous, Characters/Monsters/Dust Spirit, Characters/Monsters/Dust Spirit_dangerous, Characters/Monsters/Dwarvish Sentry, Characters/Monsters/False Magma Cap, Characters/Monsters/Fireball, Characters/Monsters/Fly, Characters/Monsters/Fly_dangerous, Characters/Monsters/Frog, Characters/Monsters/Frost Bat, Characters/Monsters/Frost Bat_dangerous, Characters/Monsters/Ghost, Characters/Monsters/Green Slime, Characters/Monsters/Green Slime_dangerous, Characters/Monsters/Grub, Characters/Monsters/Grub_dangerous, Characters/Monsters/Haunted Skull, Characters/Monsters/Haunted Skull_dangerous, Characters/Monsters/Hot Head, Characters/Monsters/Iridium Bat, Characters/Monsters/Iridium Crab, Characters/Monsters/Lava Bat, Characters/Monsters/Lava Crab, Characters/Monsters/Lava Crab_dangerous, Characters/Monsters/Lava Lurk, Characters/Monsters/Magma Duggy, Characters/Monsters/Magma Sparker, Characters/Monsters/Magma Sprite, Characters/Monsters/Metal Head, Characters/Monsters/Metal Head_dangerous, Characters/Monsters/Mummy, Characters/Monsters/Mummy_dangerous, Characters/Monsters/Pepper Rex, Characters/Monsters/Putrid Ghost, Characters/Monsters/Rock Crab, Characters/Monsters/Rock Crab_dangerous, Characters/Monsters/Royal Serpent, Characters/Monsters/Serpent, Characters/Monsters/Shadow Brute, Characters/Monsters/Shadow Brute_dangerous, Characters/Monsters/Shadow Girl, Characters/Monsters/Shadow Shaman, Characters/Monsters/Shadow Shaman_dangerous, Characters/Monsters/Shadow Sniper, Characters/Monsters/Skeleton Mage, Characters/Monsters/Skeleton Mage_dangerous, Characters/Monsters/Skeleton, Characters/Monsters/Skeleton_dangerous, Characters/Monsters/Spider, Characters/Monsters/Spiker, Characters/Monsters/Squid Kid, Characters/Monsters/Squid Kid_dangerous, Characters/Monsters/Stick Bug, Characters/Monsters/Stone Golem, Characters/Monsters/Stone Golem_dangerous, Characters/Monsters/Tiger Slime, Characters/Monsters/Wilderness Golem",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//LooseSprites - Eng Only
-		{
-				"Action": "EditImage",
-				"Target":  "LooseSprites/AquariumFish, LooseSprites/Bat, LooseSprites/Billboard, LooseSprites/birds, LooseSprites/boardGame, LooseSprites/boardGameBorder, LooseSprites/buildingPlacementTiles, LooseSprites/BundleSprites, LooseSprites/chatBox, LooseSprites/Cloudy_Ocean_BG, LooseSprites/Cloudy_Ocean_BG_Night, LooseSprites/Concessions, LooseSprites/ControllerMaps, LooseSprites/cowPhotos, LooseSprites/cowPhotosWinter, LooseSprites/CraneGame, LooseSprites/CraneGame_international, LooseSprites/Cursors, LooseSprites/Cursors2, LooseSprites/daybg, LooseSprites/DialogBoxGreen, LooseSprites/dye_bench, LooseSprites/emojis, LooseSprites/EmoteMenu, LooseSprites/Fence1, LooseSprites/Fence2, LooseSprites/Fence3, LooseSprites/Fence5, LooseSprites/FieldOfficeDonationMenu, LooseSprites/font_bold, LooseSprites/font_colored, LooseSprites/ForgeMenu, LooseSprites/GemBird, LooseSprites/Giftbox, LooseSprites/hoverBox, LooseSprites/JojaCDForm, LooseSprites/JunimoNote, LooseSprites/LanguageButtons, LooseSprites/letterBG, LooseSprites/LightRays, LooseSprites/logo, LooseSprites/map, LooseSprites/Movies, LooseSprites/mute_voice_icon, LooseSprites/nightbg, LooseSprites/ParrotPlatform, LooseSprites/parrots, LooseSprites/PlayerStatusList, LooseSprites/robinAtWork, LooseSprites/SandDuggy, LooseSprites/SeaMonster, LooseSprites/shadow, LooseSprites/skillTitles, LooseSprites/SpecialOrdersBoard, LooseSprites/stardewPanorama, LooseSprites/steamAnimation, LooseSprites/SuspensionBridge, LooseSprites/swimShadow, LooseSprites/tailoring, LooseSprites/temporary_sprites_1, LooseSprites/textBox, LooseSprites/WillysBoat, LooseSprites/yellowLettersLogo",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // LooseSprites - Eng Only
+        {
+            "Action": "EditImage",
+            "Target":  "LooseSprites/AquariumFish, LooseSprites/Bat, LooseSprites/Billboard, LooseSprites/birds, LooseSprites/boardGame, LooseSprites/boardGameBorder, LooseSprites/buildingPlacementTiles, LooseSprites/BundleSprites, LooseSprites/chatBox, LooseSprites/Cloudy_Ocean_BG, LooseSprites/Cloudy_Ocean_BG_Night, LooseSprites/Concessions, LooseSprites/ControllerMaps, LooseSprites/cowPhotos, LooseSprites/cowPhotosWinter, LooseSprites/CraneGame, LooseSprites/CraneGame_international, LooseSprites/Cursors, LooseSprites/Cursors2, LooseSprites/daybg, LooseSprites/DialogBoxGreen, LooseSprites/dye_bench, LooseSprites/emojis, LooseSprites/EmoteMenu, LooseSprites/Fence1, LooseSprites/Fence2, LooseSprites/Fence3, LooseSprites/Fence5, LooseSprites/FieldOfficeDonationMenu, LooseSprites/font_bold, LooseSprites/font_colored, LooseSprites/ForgeMenu, LooseSprites/GemBird, LooseSprites/Giftbox, LooseSprites/hoverBox, LooseSprites/JojaCDForm, LooseSprites/JunimoNote, LooseSprites/LanguageButtons, LooseSprites/letterBG, LooseSprites/LightRays, LooseSprites/logo, LooseSprites/map, LooseSprites/MobileAtlas_manually_made, LooseSprites/Movies, LooseSprites/mute_voice_icon, LooseSprites/nightbg, LooseSprites/ParrotPlatform, LooseSprites/parrots, LooseSprites/PlayerStatusList, LooseSprites/robinAtWork, LooseSprites/SandDuggy, LooseSprites/SeaMonster, LooseSprites/shadow, LooseSprites/skillTitles, LooseSprites/SpecialOrdersBoard, LooseSprites/stardewPanorama, LooseSprites/steamAnimation, LooseSprites/SuspensionBridge, LooseSprites/swimShadow, LooseSprites/tailoring, LooseSprites/temporary_sprites_1, LooseSprites/textBox, LooseSprites/WillysBoat, LooseSprites/yellowLettersLogo",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//LooseSprites/Lighting
-		{
-				"Action": "EditImage",
-				"Target":  "LooseSprites/Lighting/fishTankLight, LooseSprites/Lighting/greenLight, LooseSprites/Lighting/indoorWindowLight, LooseSprites/Lighting/lantern, LooseSprites/Lighting/projectorLight, LooseSprites/Lighting/sconceLight, LooseSprites/Lighting/windowLight",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // LooseSprites/Lighting
+        {
+            "Action": "EditImage",
+            "Target":  "LooseSprites/Lighting/fishTankLight, LooseSprites/Lighting/greenLight, LooseSprites/Lighting/indoorWindowLight, LooseSprites/Lighting/lantern, LooseSprites/Lighting/projectorLight, LooseSprites/Lighting/sconceLight, LooseSprites/Lighting/windowLight",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Maps - Eng Only
-		{
-				"Action": "EditImage",
-				"Target":  "Maps/AbandonedJojaMart, Maps/AdventureGuild, Maps/AnimalShop, Maps/ArchaeologyHouse, Maps/Backwoods, Maps/Backwoods_GraveSite, Maps/Backwoods_Staircase, Maps/Barn, Maps/Barn2, Maps/Barn3, Maps/BathHouse_Entry, Maps/BathHouse_MensLocker, Maps/BathHouse_Pool, Maps/bathhouse_tiles, Maps/BathHouse_WomensLocker, Maps/Beach, Maps/Beach-Jellies, Maps/Beach-Luau, Maps/Beach-NightMarket, Maps/Blacksmith, Maps/BoatTunnel, Maps/boatTunnelTiles, Maps/BugLand, Maps/bugLandTiles, Maps/Bus(people), Maps/busPeople, Maps/BusStop, Maps/Cabin, Maps/Cabin1, Maps/Cabin1_marriage, Maps/Cabin2, Maps/Cabin2_marriage, Maps/Caldera, Maps/CarolineGreenhouseTiles, Maps/CarolineGreenhouseTiles_rainy, Maps/cave, Maps/cavedarker, Maps/Cellar, Maps/characterSheet, Maps/Club, Maps/CommunityCenter_Joja, Maps/CommunityCenter_Refurbished, Maps/CommunityCenter_Ruins, Maps/Coop, Maps/Coop2, Maps/Coop3, Maps/coopTiles, Maps/Darkroom, Maps/darkroom_tiles, Maps/Desert, Maps/DesertTiles, Maps/DesertTiles_Extended, Maps/ElliottHouse, Maps/ElliottHouseTiles, Maps/ElliottSea, Maps/ElliottSeaTiles, Maps/EmilyDreamscape, Maps/EmilyDreamscapeTiles, Maps/fall_beach, Maps/fall_island_tilesheet_1, Maps/fall_monsterGraveTiles, Maps/fall_outdoorsTileSheet, Maps/fall_outdoorsTileSheet2, Maps/fall_town, Maps/Farm Obelisk, Maps/Farm, Maps/Farm_Combat, Maps/Farm_Fishing, Maps/Farm_Foraging, Maps/Farm_FourCorners, Maps/Farm_Greenhouse_Dirt, Maps/Farm_Greenhouse_Dirt_FourCorners, Maps/Farm_Island, Maps/Farm_Mining, Maps/FarmCave, Maps/FarmHouse, Maps/FarmHouse_Bedroom_Normal, Maps/FarmHouse_Bedroom_Open, Maps/FarmHouse_ChildBed_0, Maps/FarmHouse_ChildBed_1, Maps/FarmHouse_CornerRoom_Add, Maps/FarmHouse_CornerRoom_Remove, Maps/FarmHouse_Crib_0, Maps/FarmHouse_Crib_1, Maps/FarmHouse_SouthernRoom_Add, Maps/FarmHouse_SouthernRoom_Remove, Maps/farmhouse_tiles, Maps/FarmHouse1, Maps/FarmHouse1_marriage, Maps/FarmHouse2, Maps/FarmHouse2_marriage, Maps/FarmhouseTiles, Maps/Festivals, Maps/FishingGame, Maps/FishShop, Maps/Forest, Maps/Forest-FlowerFestival, Maps/Forest-IceFestival, Maps/Forest-SewerClean, Maps/Greenhouse, Maps/GreenHouseInterior, Maps/HaleyHouse, Maps/HarveyBalloon, Maps/HarveyBalloonTiles, Maps/HarveyRoom, Maps/Hospital, Maps/Island_Boulder_Removed, Maps/Island_Bridge_Broken, Maps/Island_Bridge_Repaired, Maps/Island_CaptainRoom, Maps/Island_E, Maps/Island_FarmCave, Maps/Island_FieldOffice, Maps/Island_FieldOffice_Tilesheet, Maps/Island_House_Bin, Maps/Island_House_Cave, Maps/Island_House_Restored, Maps/Island_Hut, Maps/Island_Hut_tilesheet, Maps/Island_N, Maps/Island_N_Trader, Maps/Island_Resort, Maps/Island_S, Maps/Island_SE, Maps/Island_Secret, Maps/Island_Shrine, Maps/island_tilesheet_1, Maps/island_tilesheet_2, Maps/Island_W, Maps/Island_W_Obelisk, Maps/IslandFarmHouse, Maps/IslandNorthCave1, Maps/IslandSouthEastCave, Maps/IslandSouthEastCave_pirates, Maps/IslandWestCave1, Maps/JojaMart, Maps/JojaRuins_TileSheet, Maps/JoshHouse, Maps/LeahHouse, Maps/LeoTreeHouse, Maps/LeoTreeHouse_Tilesheet, Maps/ManorHouse, Maps/MarnieBarn, Maps/MaruBasement, Maps/MenuTiles, Maps/MenuTilesUncolored, Maps/mermaid_house_tiles, Maps/MermaidHouse, Maps/Mine, Maps/Mountain, Maps/Mountain_Shortcuts, Maps/Mountain-BridgeFixed, Maps/MovieTheater, Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet, Maps/MovieTheaterJoja_TileSheet_international, Maps/MovieTheaterScreen, Maps/MovieTheaterScreen_TileSheet, Maps/night_market_tilesheet_objects, Maps/nightSceneMaru, Maps/NightSceneMaruMap, Maps/NightSceneMaruMap2, Maps/nightSceneMaruTrees, Maps/paths, Maps/pirates_tilesheet, Maps/QiNutRoom, Maps/qiNutRoom_tilesheet, Maps/qiNutRoom_tilesheet_0, Maps/Railroad, Maps/RefurbishedSaloonRoom, Maps/Saloon, Maps/SamHouse, Maps/SamShow, Maps/samshowtiles, Maps/SandyHouse, Maps/ScienceHouse, Maps/SebastianMountain, Maps/sebastianMountainTiles, Maps/SebastianRide, Maps/sebastianRideTiles, Maps/SebastianRoom, Maps/SeedShop, Maps/Sewer, Maps/SewerTiles, Maps/Shed, Maps/Shed2, Maps/SkullCave, Maps/SlimeHutch, Maps/spouseRooms, Maps/spring_beach, Maps/spring_BusStop, Maps/spring_island_tilesheet_1, Maps/spring_monsterGraveTiles, Maps/spring_outdoorsTileSheet, Maps/spring_outdoorsTileSheet2, Maps/spring_town, Maps/springobjects, Maps/Stadium, Maps/stadium_tiles, Maps/Submarine, Maps/submarine_tilesheet, Maps/summer_beach, Maps/summer_island_tilesheet_1, Maps/summer_monsterGraveTiles, Maps/summer_outdoorsTileSheet, Maps/summer_outdoorsTileSheet2, Maps/summer_town, Maps/Summit, Maps/Sunroom, Maps/TargetGame, Maps/Tent, Maps/Town, Maps/Town-Christmas, Maps/Town-DogHouse, Maps/Town-EggFestival, Maps/Town-Fair, Maps/Town-Halloween, Maps/TownIndoors, Maps/townInterior, Maps/townInterior_2, Maps/Town-Theater, Maps/Town-TheaterCC, Maps/Town-TrashGone, Maps/Trailer, Maps/Trailer_big, Maps/Tunnel, Maps/walls_and_floors, Maps/winter_beach, Maps/winter_island_tilesheet_1, Maps/winter_monsterGraveTiles, Maps/winter_outdoorsTileSheet, Maps/winter_outdoorsTileSheet2, Maps/winter_town, Maps/WitchHut, Maps/WitchHutTiles, Maps/WitchSwamp, Maps/witchSwampTiles, Maps/WitchWarpCave, Maps/WizardHouse, Maps/WizardHouseBasement, Maps/WizardHouseTiles, Maps/WoodBuildings, Maps/Woods",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Maps - Eng Only
+        {
+            "Action": "EditImage",
+            "Target":  "Maps/AbandonedJojaMart, Maps/AdventureGuild, Maps/AnimalShop, Maps/ArchaeologyHouse, Maps/Backwoods, Maps/Backwoods_GraveSite, Maps/Backwoods_Staircase, Maps/Barn, Maps/Barn2, Maps/Barn3, Maps/BathHouse_Entry, Maps/BathHouse_MensLocker, Maps/BathHouse_Pool, Maps/bathhouse_tiles, Maps/BathHouse_WomensLocker, Maps/Beach, Maps/Beach-Jellies, Maps/Beach-Luau, Maps/Beach-NightMarket, Maps/Blacksmith, Maps/BoatTunnel, Maps/boatTunnelTiles, Maps/BugLand, Maps/bugLandTiles, Maps/Bus(people), Maps/busPeople, Maps/BusStop, Maps/Cabin, Maps/Cabin1, Maps/Cabin1_marriage, Maps/Cabin2, Maps/Cabin2_marriage, Maps/Caldera, Maps/CarolineGreenhouseTiles, Maps/CarolineGreenhouseTiles_rainy, Maps/cave, Maps/cavedarker, Maps/Cellar, Maps/characterSheet, Maps/Club, Maps/CommunityCenter_Joja, Maps/CommunityCenter_Refurbished, Maps/CommunityCenter_Ruins, Maps/Coop, Maps/Coop2, Maps/Coop3, Maps/coopTiles, Maps/Darkroom, Maps/darkroom_tiles, Maps/Desert, Maps/DesertTiles, Maps/DesertTiles_Extended, Maps/ElliottHouse, Maps/ElliottHouseTiles, Maps/ElliottSea, Maps/ElliottSeaTiles, Maps/EmilyDreamscape, Maps/EmilyDreamscapeTiles, Maps/fall_beach, Maps/fall_island_tilesheet_1, Maps/fall_monsterGraveTiles, Maps/fall_outdoorsTileSheet, Maps/fall_outdoorsTileSheet2, Maps/fall_town, Maps/Farm Obelisk, Maps/Farm, Maps/Farm_Combat, Maps/Farm_Fishing, Maps/Farm_Foraging, Maps/Farm_FourCorners, Maps/Farm_Greenhouse_Dirt, Maps/Farm_Greenhouse_Dirt_FourCorners, Maps/Farm_Island, Maps/Farm_Mining, Maps/FarmCave, Maps/FarmHouse, Maps/FarmHouse_Bedroom_Normal, Maps/FarmHouse_Bedroom_Open, Maps/FarmHouse_ChildBed_0, Maps/FarmHouse_ChildBed_1, Maps/FarmHouse_CornerRoom_Add, Maps/FarmHouse_CornerRoom_Remove, Maps/FarmHouse_Crib_0, Maps/FarmHouse_Crib_1, Maps/FarmHouse_SouthernRoom_Add, Maps/FarmHouse_SouthernRoom_Remove, Maps/farmhouse_tiles, Maps/FarmHouse1, Maps/FarmHouse1_marriage, Maps/FarmHouse2, Maps/FarmHouse2_marriage, Maps/FarmhouseTiles, Maps/Festivals, Maps/FishingGame, Maps/FishShop, Maps/Forest, Maps/Forest-FlowerFestival, Maps/Forest-IceFestival, Maps/Forest-SewerClean, Maps/Greenhouse, Maps/GreenHouseInterior, Maps/HaleyHouse, Maps/HarveyBalloon, Maps/HarveyBalloonTiles, Maps/HarveyRoom, Maps/Hospital, Maps/Island_Boulder_Removed, Maps/Island_Bridge_Broken, Maps/Island_Bridge_Repaired, Maps/Island_CaptainRoom, Maps/Island_E, Maps/Island_FarmCave, Maps/Island_FieldOffice, Maps/Island_FieldOffice_Tilesheet, Maps/Island_House_Bin, Maps/Island_House_Cave, Maps/Island_House_Restored, Maps/Island_Hut, Maps/Island_Hut_tilesheet, Maps/Island_N, Maps/Island_N_Trader, Maps/Island_Resort, Maps/Island_S, Maps/Island_SE, Maps/Island_Secret, Maps/Island_Shrine, Maps/island_tilesheet_1, Maps/island_tilesheet_2, Maps/Island_W, Maps/Island_W_Obelisk, Maps/IslandFarmHouse, Maps/IslandNorthCave1, Maps/IslandSouthEastCave, Maps/IslandSouthEastCave_pirates, Maps/IslandWestCave1, Maps/JojaMart, Maps/JojaRuins_TileSheet, Maps/JoshHouse, Maps/LeahHouse, Maps/LeoTreeHouse, Maps/LeoTreeHouse_Tilesheet, Maps/ManorHouse, Maps/MarnieBarn, Maps/MaruBasement, Maps/MenuTiles, Maps/MenuTilesUncolored, Maps/mermaid_house_tiles, Maps/MermaidHouse, Maps/Mine, Maps/Mountain, Maps/Mountain_Shortcuts, Maps/Mountain-BridgeFixed, Maps/MovieTheater, Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet, Maps/MovieTheaterJoja_TileSheet_international, Maps/MovieTheaterScreen, Maps/MovieTheaterScreen_TileSheet, Maps/night_market_tilesheet_objects, Maps/nightSceneMaru, Maps/NightSceneMaruMap, Maps/NightSceneMaruMap2, Maps/nightSceneMaruTrees, Maps/paths, Maps/pirates_tilesheet, Maps/QiNutRoom, Maps/qiNutRoom_tilesheet, Maps/qiNutRoom_tilesheet_0, Maps/Railroad, Maps/RefurbishedSaloonRoom, Maps/Saloon, Maps/SamHouse, Maps/SamShow, Maps/samshowtiles, Maps/SandyHouse, Maps/ScienceHouse, Maps/SebastianMountain, Maps/sebastianMountainTiles, Maps/SebastianRide, Maps/sebastianRideTiles, Maps/SebastianRoom, Maps/SeedShop, Maps/Sewer, Maps/SewerTiles, Maps/Shed, Maps/Shed2, Maps/SkullCave, Maps/SlimeHutch, Maps/spouseRooms, Maps/spring_beach, Maps/spring_BusStop, Maps/spring_island_tilesheet_1, Maps/spring_monsterGraveTiles, Maps/spring_outdoorsTileSheet, Maps/spring_outdoorsTileSheet2, Maps/spring_town, Maps/springobjects, Maps/Stadium, Maps/stadium_tiles, Maps/Submarine, Maps/submarine_tilesheet, Maps/summer_beach, Maps/summer_island_tilesheet_1, Maps/summer_monsterGraveTiles, Maps/summer_outdoorsTileSheet, Maps/summer_outdoorsTileSheet2, Maps/summer_town, Maps/Summit, Maps/Sunroom, Maps/TargetGame, Maps/Tent, Maps/Town, Maps/Town-Christmas, Maps/Town-DogHouse, Maps/Town-EggFestival, Maps/Town-Fair, Maps/Town-Halloween, Maps/TownIndoors, Maps/townInterior, Maps/townInterior_2, Maps/Town-Theater, Maps/Town-TheaterCC, Maps/Town-TrashGone, Maps/Trailer, Maps/Trailer_big, Maps/Tunnel, Maps/walls_and_floors, Maps/winter_beach, Maps/winter_island_tilesheet_1, Maps/winter_monsterGraveTiles, Maps/winter_outdoorsTileSheet, Maps/winter_outdoorsTileSheet2, Maps/winter_town, Maps/WitchHut, Maps/WitchHutTiles, Maps/WitchSwamp, Maps/witchSwampTiles, Maps/WitchWarpCave, Maps/WizardHouse, Maps/WizardHouseBasement, Maps/WizardHouseTiles, Maps/WoodBuildings, Maps/Woods",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Minigames - Eng Only
-  		 {
-				"Action": "EditImage",
-				"Target":  "Minigames/boatJourneyMap, Minigames/Clouds, Minigames/Darts, Minigames/Intro, Minigames/jojacorps, Minigames/MaruComet, Minigames/MineCart, Minigames/TitleButtons",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Minigames - Eng Only
+        {
+            "Action": "EditImage",
+            "Target":  "Minigames/boatJourneyMap, Minigames/Clouds, Minigames/Darts, Minigames/Intro, Minigames/jojacorps, Minigames/MaruComet, Minigames/MineCart, Minigames/TitleButtons",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Portraits
-		 {
-				"Action": "EditImage",
-				"Target":  "Portraits/Abigail, Portraits/Abigail_Beach, Portraits/Alex, Portraits/Alex_Beach, Portraits/AnsweringMachine,  Portraits/Bear, Portraits/Birdie, Portraits/Bouncer, Portraits/Caroline, Portraits/Caroline_Beach, Portraits/Clint, Portraits/Clint_Beach, Portraits/Demetrius, Portraits/Dobson, Portraits/Dwarf, Portraits/Elliott, Portraits/Elliott_Beach, Portraits/Emily, Portraits/Emily_Beach, Portraits/Evelyn, Portraits/George, Portraits/Gil, Portraits/Governor, Portraits/Grandpa, Portraits/Gunther, Portraits/Gus, Portraits/Haley, Portraits/Haley_Beach, Portraits/Harvey, Portraits/Harvey_Beach, Portraits/Henchman, Portraits/Jas, Portraits/Jodi, Portraits/Jodi_Beach, Portraits/Kent, Portraits/Krobus, Portraits/Krobus_Trenchcoat, Portraits/Leah, Portraits/Leah_beach, Portraits/Lewis, Portraits/Linus, Portraits/Marlon, Portraits/Marnie, Portraits/Marnie_Beach, Portraits/Maru, Portraits/Maru_Beach, Portraits/Maru_Hospital, Portraits/Morris, Portraits/MrQi, Portraits/Pam, Portraits/Pam_Beach, Portraits/ParrotBoy, Portraits/Penny, Portraits/Penny_Beach, Portraits/Pierre, Portraits/Pierre_Beach, Portraits/Robin, Portraits/Robin_Beach, Portraits/SafariGuy, Portraits/Sam, Portraits/Sam_Beach, Portraits/Sandy, Portraits/Sebastian, Portraits/Sebastian_Beach, Portraits/Shane, Portraits/Shane_Beach, Portraits/Shane_JojaMart, Portraits/Vincent, Portraits/Willy, Portraits/Wizard",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // Portraits
+        {
+            "Action": "EditImage",
+            "Target":  "Portraits/Abigail, Portraits/Abigail_Beach, Portraits/Alex, Portraits/Alex_Beach, Portraits/AnsweringMachine,  Portraits/Bear, Portraits/Birdie, Portraits/Bouncer, Portraits/Caroline, Portraits/Caroline_Beach, Portraits/Clint, Portraits/Clint_Beach, Portraits/Demetrius, Portraits/Dobson, Portraits/Dwarf, Portraits/Elliott, Portraits/Elliott_Beach, Portraits/Emily, Portraits/Emily_Beach, Portraits/Evelyn, Portraits/George, Portraits/Gil, Portraits/Governor, Portraits/Grandpa, Portraits/Gunther, Portraits/Gus, Portraits/Haley, Portraits/Haley_Beach, Portraits/Harvey, Portraits/Harvey_Beach, Portraits/Henchman, Portraits/Jas, Portraits/Jodi, Portraits/Jodi_Beach, Portraits/Kent, Portraits/Krobus, Portraits/Krobus_Trenchcoat, Portraits/Leah, Portraits/Leah_beach, Portraits/Lewis, Portraits/Linus, Portraits/Marlon, Portraits/Marnie, Portraits/Marnie_Beach, Portraits/Maru, Portraits/Maru_Beach, Portraits/Maru_Hospital, Portraits/Morris, Portraits/MrQi, Portraits/Pam, Portraits/Pam_Beach, Portraits/ParrotBoy, Portraits/Penny, Portraits/Penny_Beach, Portraits/Pierre, Portraits/Pierre_Beach, Portraits/Robin, Portraits/Robin_Beach, Portraits/SafariGuy, Portraits/Sam, Portraits/Sam_Beach, Portraits/Sandy, Portraits/Sebastian, Portraits/Sebastian_Beach, Portraits/Shane, Portraits/Shane_Beach, Portraits/Shane_JojaMart, Portraits/Vincent, Portraits/Willy, Portraits/Wizard",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//Portraits - SVE v1.12
-		 {
-				"Action": "EditImage",
-				"Target":  "Portraits/Sandy, Portraits/Alesia, Portraits/Andy, Portraits/Andy_Beach, Portraits/Apples, Portraits/ApplesSad, Portraits/Axel, Portraits/Brooklyn, Portraits/Camilla, Portraits/Chloe, Portraits/Claire, Portraits/Claire_Joja, Portraits/Claire_Theater, Portraits/Dusty, Portraits/Gil, Portraits/Gunther, Portraits/Isaac, Portraits/Jace, Portraits/Lance, Portraits/Lance_Beach, Portraits/Magnus, Portraits/Marlon, Portraits/Morgan, Portraits/Martin, Portraits/Martin_Joja, Portraits/Martin_Theater, Portraits/Morris, Portraits/Olivia_Beach, Portraits/Olivia, Portraits/Peaches, Portraits/Sandy, Portraits/Scarlett, Portraits/Sophia, Portraits/Sophia_Beach, Portraits/Sophia_Older, Portraits/Sophia_Older_Makeup, Portraits/Sophia_Makeup, Portraits/Suki, Portraits/Suki_IceFestival, Portraits/Susan, Portraits/Susan_Beach, Portraits/Victor, Portraits/Victor_Beach, Portraits/Zoey",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true,
-						  "HasMod:FlashShifter.StardewValleyExpandedCP" : true}
-		 },
+        // Portraits - SVE v1.12
+        {
+            "Action": "EditImage",
+            "Target":  "Portraits/Sandy, Portraits/Alesia, Portraits/Andy, Portraits/Andy_Beach, Portraits/Apples, Portraits/ApplesSad, Portraits/Axel, Portraits/Brooklyn, Portraits/Camilla, Portraits/Chloe, Portraits/Claire, Portraits/Claire_Joja, Portraits/Claire_Theater, Portraits/Dusty, Portraits/Gil, Portraits/Gunther, Portraits/Isaac, Portraits/Jace, Portraits/Lance, Portraits/Lance_Beach, Portraits/Magnus, Portraits/Marlon, Portraits/Morgan, Portraits/Martin, Portraits/Martin_Joja, Portraits/Martin_Theater, Portraits/Morris, Portraits/Olivia_Beach, Portraits/Olivia, Portraits/Peaches, Portraits/Sandy, Portraits/Scarlett, Portraits/Sophia, Portraits/Sophia_Beach, Portraits/Sophia_Older, Portraits/Sophia_Older_Makeup, Portraits/Sophia_Makeup, Portraits/Suki, Portraits/Suki_IceFestival, Portraits/Susan, Portraits/Susan_Beach, Portraits/Victor, Portraits/Victor_Beach, Portraits/Zoey",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true,
+            "HasMod:FlashShifter.StardewValleyExpandedCP" : true}
+        },
 
-//TerrainFeatures
-  		 {
-				"Action": "EditImage",
-				"Target":  "TerrainFeatures/BuffsIcons, TerrainFeatures/DiggableWall_basic, TerrainFeatures/DiggableWall_basic_dark, TerrainFeatures/DiggableWall_frost, TerrainFeatures/DiggableWall_frost_dark, TerrainFeatures/DiggableWall_lava, TerrainFeatures/DiggableWall_lava_dark, TerrainFeatures/Flooring, TerrainFeatures/Flooring_winter, TerrainFeatures/grass, TerrainFeatures/hoeDirt, TerrainFeatures/hoeDirtDark, TerrainFeatures/hoeDirtSnow, TerrainFeatures/mushroom_tree, TerrainFeatures/Quartz, TerrainFeatures/Stalagmite, TerrainFeatures/Stalagmite_Frost, TerrainFeatures/Stalagmite_Lava, TerrainFeatures/tree_palm, TerrainFeatures/tree_palm2, TerrainFeatures/tree1_fall, TerrainFeatures/tree1_spring, TerrainFeatures/tree1_summer, TerrainFeatures/tree1_winter, TerrainFeatures/tree2_fall, TerrainFeatures/tree2_spring, TerrainFeatures/tree2_summer, TerrainFeatures/tree2_winter, TerrainFeatures/tree3_fall, TerrainFeatures/tree3_spring, TerrainFeatures/tree3_winter, TerrainFeatures/tree8_fall, TerrainFeatures/tree8_spring, TerrainFeatures/tree8_summer, TerrainFeatures/tree8_winter, TerrainFeatures/upperCavePlants",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // TerrainFeatures
+        {
+            "Action": "EditImage",
+            "Target":  "TerrainFeatures/BuffsIcons, TerrainFeatures/DiggableWall_basic, TerrainFeatures/DiggableWall_basic_dark, TerrainFeatures/DiggableWall_frost, TerrainFeatures/DiggableWall_frost_dark, TerrainFeatures/DiggableWall_lava, TerrainFeatures/DiggableWall_lava_dark, TerrainFeatures/Flooring, TerrainFeatures/Flooring_winter, TerrainFeatures/grass, TerrainFeatures/hoeDirt, TerrainFeatures/hoeDirtDark, TerrainFeatures/hoeDirtSnow, TerrainFeatures/mushroom_tree, TerrainFeatures/Quartz, TerrainFeatures/Stalagmite, TerrainFeatures/Stalagmite_Frost, TerrainFeatures/Stalagmite_Lava, TerrainFeatures/tree_palm, TerrainFeatures/tree_palm2, TerrainFeatures/tree1_fall, TerrainFeatures/tree1_spring, TerrainFeatures/tree1_summer, TerrainFeatures/tree1_winter, TerrainFeatures/tree2_fall, TerrainFeatures/tree2_spring, TerrainFeatures/tree2_summer, TerrainFeatures/tree2_winter, TerrainFeatures/tree3_fall, TerrainFeatures/tree3_spring, TerrainFeatures/tree3_winter, TerrainFeatures/tree8_fall, TerrainFeatures/tree8_spring, TerrainFeatures/tree8_summer, TerrainFeatures/tree8_winter, TerrainFeatures/upperCavePlants",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//TileSheets - Eng Only
-  		 {
-				"Action": "EditImage",
-				"Target":  "TileSheets/animations, TileSheets/BuffsIcons, TileSheets/bushes, TileSheets/ChairTiles, TileSheets/Craftables, TileSheets/critters, TileSheets/crops, TileSheets/debris, TileSheets/emotes, TileSheets/Fireball, TileSheets/Floors, TileSheets/fruitTrees, TileSheets/furniture, TileSheets/furnitureFront, TileSheets/Projectiles, TileSheets/rain, TileSheets/SecretNotesImages, TileSheets/tools, TileSheets/weapons",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
+        // TileSheets - Eng Only
+        {
+            "Action": "EditImage",
+            "Target":  "TileSheets/animations, TileSheets/BuffsIcons, TileSheets/bushes, TileSheets/ChairTiles, TileSheets/Craftables, TileSheets/critters, TileSheets/crops, TileSheets/debris, TileSheets/emotes, TileSheets/Fireball, TileSheets/Floors, TileSheets/fruitTrees, TileSheets/furniture, TileSheets/furnitureFront, TileSheets/Projectiles, TileSheets/rain, TileSheets/SecretNotesImages, TileSheets/tools, TileSheets/weapons",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        },
 
-//VolcanoLayouts add in 1.5
-		 {
-				"Action": "EditImage",
-				"Target":  "VolcanoLayouts/Layouts",
-				"FromFile": "assets/{{Target}}.png",
-				"When": { "HasFile:assets/{{Target}}.png": true }
-		 },
-]
+        // VolcanoLayouts add in 1.5
+        {
+            "Action": "EditImage",
+            "Target":  "VolcanoLayouts/Layouts",
+            "FromFile": "assets/{{Target}}.png",
+            "When": { "HasFile:assets/{{Target}}.png": true }
+        }
+    ]
 }

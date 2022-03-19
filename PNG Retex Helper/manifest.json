@@ -2,7 +2,7 @@
   "Name": "PNG Retex Helper",
    "Author": "SabiMiyato x 'ELL",
    "Description": "Help you put PNG files to SDV game, work with SDV v.1.5 ",
-   "Version": "1.2.0",
+   "Version": "1.2.1",
    "UniqueID": "SabiMiyato.PNGRetexHelper",
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
