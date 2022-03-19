@@ -32,7 +32,7 @@
             "Target":  "Characters/Alesia, Characters/Andy, Characters/Andy_Beach, Characters/Apples, Characters/ApplesSad, Characters/Camilla, Characters/Claire, Characters/Claire_Joja, Characters/Claire_Theater, Characters/Dusty, Characters/Gunther, Characters/Isaac, Characters/Lance, Characters/Lance_Beach, Characters/Magnus, Characters/Marlon, Characters/Martin, Characters/Martin_Joja, Characters/Martin_Theater, Characters/Morgan, Characters/Morris, Characters/Olivia, Characters/Olivia_Beach, Characters/Peaches, Characters/Scarlett, Characters/Sophia, Characters/Sophia_Beach, Characters/SophiaJPKsprite, Characters/Susan, Characters/Susan_Beach, Characters/Victor, Characters/Victor_Beach",
             "FromFile": "assets/{{Target}}.xnb",
             "When": { "HasFile:assets/{{Target}}.xnb": true,
-            "HasMod:FlashShifter.StardewValleyExpandedCP" : true}
+            "HasMod |contains=FlashShifter.StardewValleyExpandedCP" : true}
         },
 
         // Characters/Farmer
@@ -97,7 +97,7 @@
             "Target":  "Portraits/Sandy, Portraits/Alesia, Portraits/Andy, Portraits/Andy_Beach, Portraits/Apples, Portraits/ApplesSad, Portraits/Axel, Portraits/Brooklyn, Portraits/Camilla, Portraits/Chloe, Portraits/Claire, Portraits/Claire_Joja, Portraits/Claire_Theater, Portraits/Dusty, Portraits/Gil, Portraits/Gunther, Portraits/Isaac, Portraits/Jace, Portraits/Lance, Portraits/Lance_Beach, Portraits/Magnus, Portraits/Marlon, Portraits/Morgan, Portraits/Martin, Portraits/Martin_Joja, Portraits/Martin_Theater, Portraits/Morris, Portraits/Olivia_Beach, Portraits/Olivia, Portraits/Peaches, Portraits/Sandy, Portraits/Scarlett, Portraits/Sophia, Portraits/Sophia_Beach, Portraits/Sophia_Older, Portraits/Sophia_Older_Makeup, Portraits/Sophia_Makeup, Portraits/Suki, Portraits/Suki_IceFestival, Portraits/Susan, Portraits/Susan_Beach, Portraits/Victor, Portraits/Victor_Beach, Portraits/Zoey",
             "FromFile": "assets/{{Target}}.xnb",
             "When": { "HasFile:assets/{{Target}}.xnb": true,
-            "HasMod:FlashShifter.StardewValleyExpandedCP" : true}
+            "HasMod |contains=FlashShifter.StardewValleyExpandedCP" : true}
         },
 
         // TerrainFeatures
