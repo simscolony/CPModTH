@@ -407,7 +407,7 @@
 	//Special Order Strings
 	"SA.CrabPot.SOTitle": "เสบียงอควาเรียมขาดคราว",
 	"SA.ScorpionCarp.SOTitle": "โครงการขยายพันธุ์ปลา: ปลาคาร์ปแมงป่อง (Scorpion Carp)",
-	"SA.ScorpionCarp.SOTitle": "โครงการขยายพันธุ์ปลา: หมึกยักษ์ (Octopus)",
+	"SA.Octopus.SOTitle": "โครงการขยายพันธุ์ปลา: หมึกยักษ์ (Octopus)",
 	"SA.Stonefish.SOTitle": "โครงการขยายพันธุ์ปลา: ปลาหิน (Stonefish)",
 	"SA.IcePip.SOTitle": "โครงการขยายพันธุ์ปลา: ปลาไอซ์พิพ (Ice Pip)",
 	"SA.LavaEel.SOTitle": "โครงการขยายพันธุ์ปลา: ปลาไหลลาวา (Lava Eel)",
