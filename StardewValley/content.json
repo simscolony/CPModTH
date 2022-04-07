@@ -1,25 +1,26 @@
 {
-    "Format": "1.25.0",
+    "Format": "1.26.0",
     "ConfigSchema": {
+        // appearance section
         "Billboard": {
             "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "กระดานปิดประกาศหน้าร้านปิแอร์ (แปลไทย)"
+            "Default": true,
+            "Section": "Appearance"
         },
         "JojaCDForm": {
             "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "แบบฟอร์มการพัฒนาชุมชนโจจ้า (แปลไทย)"
+            "Default": true,
+            "Section": "Appearance"
         },
         "Intro": {
             "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "ป้ายบอกระยะทางในอีเว้นท์บทนำ (แปลไทย)"
+            "Default": true,
+            "Section": "Appearance"
         },
         "TitleButtons": {
             "AllowValues": "true, false",
-            "Default": "true",
-            "Description": "เมนูต่างๆ ในหน้าเริ่มเกม (แปลไทย)"
+            "Default": true,
+            "Section": "Appearance"
         }
     },
 
@@ -93,8 +94,8 @@
             "Target": "LooseSprites/Billboard",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "Billboard": true,
                 "Language": "th",
+                "Billboard": true,
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
             }
         },
@@ -105,8 +106,8 @@
             "Target": "LooseSprites/JojaCDForm",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "JojaCDForm": true,
                 "Language": "th",
+                "JojaCDForm": true,
                 "HasMod |contains=IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface": false
             }
         },
@@ -117,8 +118,8 @@
             "Target": "Minigames/Intro",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "Intro": true,
                 "Language": "th",
+                "Intro": true,
                 "HasMod |contains=Acerbicon.Recolor": false
             }
         },
@@ -129,8 +130,8 @@
             "Target": "Minigames/TitleButtons",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
-                "TitleButtons": true,
                 "Language": "th",
+                "TitleButtons": true,
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Mareigh.NickiTitle, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
             }
         },

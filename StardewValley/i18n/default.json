@@ -3,15 +3,15 @@
     ** Generic Mod Config Menu UI
     *********/
 
-    // LooseSprites
-    "config.Billboard.name": "Thai Billboard",
-    "config.Billboard.description": "Enable Thai Billboard",
-    "config.JojaCDForm.name": "Thai JojaCDForm",
-    "config.JojaCDForm.description": "Enable Thai JojaCDForm",
-
-    // Minigames
-    "config.Intro.name": "Thai Intro",
-    "config.Intro.description": "Enable Thai Intro",
-    "config.TitleButtons.name": "Thai TitleButtons",
-    "config.TitleButtons.description": "Enable Thai TitleButtons"
+    // Appearance
+    "config.section.Appearance.name": "Appearance",
+    "config.section.Appearance.description": "",
+    "config.Billboard.name": "Billboard",
+    "config.Billboard.description": "",
+    "config.JojaCDForm.name": "JojaCDForm",
+    "config.JojaCDForm.description": "",
+    "config.Intro.name": "Intro",
+    "config.Intro.description": "",
+    "config.TitleButtons.name": "TitleButtons",
+    "config.TitleButtons.description": ""
 }
