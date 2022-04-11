@@ -1,62 +1,62 @@
 ﻿[
   {
-    "Call": "My handsome farmer",
-    "Responders": "Farmer",
+    "Call": "หนุ่มชาวไร่รูปหล่อของฉัน",
+    "Responders": "ชาวไร่",
     "When": {
       "PlayerGender": "male"
     }
   },
   {
-    "Call": "My gorgeous farmer",
-    "Responders": "Farmer",
+    "Call": "สาวชาวไร่สุดสวยของฉัน",
+    "Responders": "ชาวไร่",
     "When": {
       "PlayerGender": "female"
     }
   },
   {
-    "Call": "So handsome <",
-    "Responders": "Farmer",
+    "Call": "หล่อมากกก <",
+    "Responders": "ชาวไร่",
     "When": {
       "PlayerGender": "male"
     }
   },
   {
-    "Call": "So pretty <",
-    "Responders": "Farmer",
+    "Call": "สวยจังงง <",
+    "Responders": "ชาวไร่",
     "When": {
       "PlayerGender": "female"
     }
   },
   {
-    "Call": "Nearly time to change crops",
+    "Call": "ใกล้ได้เวลาที่ต้องปลูกพืชผลใหม่แล้วซินะ",
     "When": {
       "Season": "Spring",
       "Day": "{{Range: 26, 28}}"
     }
   },
   {
-    "Call": "Thought about fall crops?",
+    "Call": "คิดยังไงเกี่ยวกับพืชผลของฤดูใบไม้ร่วง ?",
     "When": {
       "Season": "Summer",
       "Day": "{{Range: 26, 28}}"
     }
   },
   {
-    "Call": "Ready for winter?",
+    "Call": "พร้อมสำหรับฤดูหนาวหรือยัง ?",
     "When": {
       "Season": "Fall",
       "Day": "{{Range: 26, 28}}"
     }
   },
   {
-    "Call": "What are we planting next?",
+    "Call": "พวกเราจะปลูกอะไรต่อดี ?",
     "When": {
       "Season": "Winter",
       "Day": "{{Range: 26, 28}}"
     }
   },
   {
-    "Call": "Take care today babe!",
+    "Call": "วันนี้ก็ดูแลตัวเองด้วยนะที่รัก !",
     "Responders": "Farmer",
     "When": {
       "Query: {{DailyLuck}} < -0.07": true,
@@ -64,72 +64,72 @@
     }
   },
   {
-    "Call": "A house for Pam? So proud <",
-    "Responders": "Farmer",
+    "Call": "บ้านสำหรับแพม? ภูมิใจมากกก <",
+    "Responders": "ชาวไร่",
     "When": {
       "HasConversationTopic": "pamHouseUpgrade"
     }
   },
   {
-    "Call": "A house for Pam... was that you?",
-    "Responders": "Farmer",
+    "Call": "บ้านสำหรับแพม... นั้นคุณเหรอ?",
+    "Responders": "ชาวไร่",
     "When": {
       "HasConversationTopic": "pamHouseUpgradeAnonymous"
     }
   },
   {
-    "Call": "My brave warrior",
-    "Responders": "Farmer",
+    "Call": "นักรบผู้ห้าวหาญของฉัน",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Fighter, Scout"
     }
   },
   {
-    "Call": "Be brave, be careful!",
-    "Responders": "Farmer",
+    "Call": "กล้าหาญไว้ , ระวังด้วย !",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Fighter, Scout",
       "Time": "{{Range: 0600, 1200}}"
     }
   },
   {
-    "Call": "Catch us a big fish",
-    "Responders": "Farmer",
+    "Call": "จับปลาตัวใหญ่มาให้พวกเรา",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Fisher"
     }
   },
   {
-    "Call": "Catch us a big crab",
-    "Responders": "Farmer",
+    "Call": "จับปูตัวใหญ่มาให้พวกเรา",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Trapper"
     }
   },
   {
-    "Call": "Find me a sea treasure!",
-    "Responders": "Farmer",
+    "Call": "หาสมบัติจากทะเลมาให้พวกเรา!",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Pirate"
     }
   },
   {
-    "Call": "My strong lumberjack",
-    "Responders": "Farmer",
+    "Call": "คนตัดไม้ที่แข็งแรงของฉัน",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Forester"
     }
   },
   {
-    "Call": "My strong miner",
-    "Responders": "Farmer",
+    "Call": "คนขุดแร่ที่แข็งแรงของฉัน",
+    "Responders": "ชาวไร่",
     "When": {
       "HasProfession": "Miner, Geologist"
     }
   },
   {
-    "Call": "Foraging today?",
-    "Responders": "Farmer",
+    "Call": "การเก็บของป่าวันนี้?",
+    "Responders": "ชาวไร่",
     "When": {
       "Time": "{{Range: 0600, 1200}}",
       "HasProfession": "Gatherer"
