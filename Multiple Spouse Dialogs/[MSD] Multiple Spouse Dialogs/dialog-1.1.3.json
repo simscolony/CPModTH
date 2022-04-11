@@ -1,41 +1,41 @@
 ﻿[
   {
-    "Call": "Queen of Sauce is on!",
-    "Response": "TV and chill?",
+    "Call": "Queen of Sauce มาแล้ว!",
+    "Response": "ดูทีวีชิลๆ?",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "DayOfWeek": "Sunday"
+      "DayOfWeek": "วันอาทิตย์"
     }
   },
   {
-    "Call": "Queen of Sauce is on",
-    "Response": "Seen it",
+    "Call": "Queen of Sauce มาแล้ว",
+    "Response": "ดูแล้ว",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "DayOfWeek": "Wednesday"
+      "DayOfWeek": "วันพุธ"
     }
   },
   {
-    "Call": "Any fresh fruit?",
-    "Response": "Check the bat-cave",
+    "Call": "มีผลไม้สดไหม?",
+    "Response": "ลองดูที่ถ่ำค้างคาวซิ",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "FarmCave": "Bats"
+      "FarmCave": "ค้างคาว"
     }
   },
   {
-    "Call": "Any fresh mushrooms?",
-    "Response": "Check the cave",
+    "Call": "มีเห็ดสดไหม?",
+    "Response": "ลองดูที่ถ่ำซิ",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "FarmCave": "Mushrooms"
+      "FarmCave": "เห็ด"
     }
   },
   {
-    "Call": "Any day now <",
-    "Response": "So exciting!",
+    "Call": "เร็วๆนี้แหละ <",
+    "Response": "ตื่นเต้นจัง!",
     "When": {
-      "HavingChild": "{{spouse}}"
+      "HavingChild": "{{สามี ภรรยา}}"
     }
   },
   {
