@@ -16,8 +16,8 @@
     "config.MistEffects.description": "เพิ่มเอฟเฟกต์หมอกให้กับทางรถไฟ, ป่าดงดิบ, ภูเขา, ป่าซินเดอแซป, ป่าตะวันตก, กิลนักผจญภัย หากมีฝนหรือพายุ",
 
     // Maps & Craftables
-    "config.MountainMinecart.name": "รถรางไปเหมือง",
-    "config.MountainMinecart.description": "ช่วยให้ผู้เล่นไปถึงเหมืองได้เร็วขึ้น (ประมาณครึ่งชั่วโมงในเกม)",
+    "config.OriginalMinesEntrance.name": "ทางเข้าเหมืองดั้งเดิม",
+    "config.OriginalMinesEntrance.description": "ช่วยให้ผู้เล่นไปถึงเหมืองได้เร็วขึ้น (ประหยัดเวลาในเกมประมาณ 30 นาที)",
     "config.AlternativeCraftables.name": "ของคราฟ (ทางเลือก)",
     "config.AlternativeCraftables.description": "เปลี่ยนแปลงรูปร่างของคราฟบางอย่างในเกม",
     "config.RemoveObjectsFromGrandpasShed.name": "นำสิ่งของออกจากกระท่อมของคุณปู่",
@@ -40,12 +40,14 @@
     // Portraits
     "config.OlderSophiaPortraits.name": "รูป Portrait ของโซเฟีย",
     "config.OlderSophiaPortraits.description": "เปิดใช้งานรูป Portrait ของโซเฟียที่มีอายุมากขึ้น",
-    "config.VanillaSandyPortraits.name": "รูป Portrait ของแซนดี้",
-    "config.VanillaSandyPortraits.description": "เปิดใช้งานรูป Portrait เกมหลักของแซนดี้",
 
     // Dialogue
     "config.MatureEvents.name": "เหตุการณ์สำหรับผู้ใหญ่",
     "config.MatureEvents.description": "เพิ่มเหตุการณ์ที่มีเนื้อหาไม่เหมาะสมสำหรับเด็ก เช่น สงคราม, การสูญเสีย, การฆ่าตัวตาย, ฯลฯ",
+
+    // Shorter Path
+    "config.ShorterPathToBlueMoonVineyard.name": "เส้นทางที่สั้นกว่า สู่ไร่องุ่นบลูมูน",
+    "config.ShorterPathToBlueMoonVineyard.description": "เปิดใช้งานเส้นทางลัดไปสู่ไร่องุ่นบลูมูน",
 
     // User Interface
     "config.UseGaldoranThemeAllTimes.name": "ใช้ธีม Galdoran ตลอดเวลา",

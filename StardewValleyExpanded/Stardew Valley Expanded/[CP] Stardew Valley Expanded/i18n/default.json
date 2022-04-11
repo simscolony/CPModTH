@@ -16,8 +16,8 @@
     "config.MistEffects.description": "Adds mist effects to the railroad, backwoods, mountain, cindersap forest, forest west and adventurer summit when the weather's rain or storm.",
 
     // Maps & Craftables
-    "config.MountainMinecart.name": "Mountain Minecart",
-    "config.MountainMinecart.description": "Allows players to get to the mines faster (about half hour in-game).",
+    "config.OriginalMinesEntrance.name": "Original Mines Entrance",
+    "config.OriginalMinesEntrance.description": "Allows players to get to the mines faster (saves about 30 in-game minutes)",
     "config.AlternativeCraftables.name": "Alternative Craftables",
     "config.AlternativeCraftables.description": "",
     "config.RemoveObjectsFromGrandpasShed.name": "Remove Objects From Grandpa's Shed",
@@ -40,12 +40,14 @@
     // Portraits
     "config.OlderSophiaPortraits.name": "Older Sophia Portraits",
     "config.OlderSophiaPortraits.description": "",
-    "config.VanillaSandyPortraits.name": "Vanilla Sandy Portraits",
-    "config.VanillaSandyPortraits.description": "",
 
     // Dialogue
     "config.MatureEvents.name": "Mature Events",
     "config.MatureEvents.description": "",
+
+    // Shorter Path
+    "config.ShorterPathToBlueMoonVineyard.name": "Shorter Path To Blue Moon Vineyard",
+    "config.ShorterPathToBlueMoonVineyard.description": "",
 
     // User Interface
     "config.UseGaldoranThemeAllTimes.name": "Use Galdoran Theme All Times",
