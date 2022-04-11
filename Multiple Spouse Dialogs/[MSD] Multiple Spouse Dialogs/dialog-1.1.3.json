@@ -4,7 +4,7 @@
     "Response": "ดูทีวีชิลๆ?",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "DayOfWeek": "วันอาทิตย์"
+      "DayOfWeek": "Sunday"
     }
   },
   {
@@ -17,68 +17,68 @@
   },
   {
     "Call": "มีผลไม้สดไหม?",
-    "Response": "ลองดูที่ถ่ำค้างคาวซิ",
+    "Response": "ลองดูที่ถ้ำค้างคาวซิ",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "FarmCave": "ค้างคาว"
+      "FarmCave": "Bats"
     }
   },
   {
     "Call": "มีเห็ดสดไหม?",
-    "Response": "ลองดูที่ถ่ำซิ",
+    "Response": "ลองดูที่ถ้ำซิ",
     "When": {
       "Time": "{{Range: 1800, 2600}}",
-      "FarmCave": "เห็ด"
+      "FarmCave": "Mushrooms"
     }
   },
   {
     "Call": "เร็วๆนี้แหละ <",
     "Response": "ตื่นเต้นจัง!",
     "When": {
-      "HavingChild": "{{สามี ภรรยา}}"
+      "HavingChild": "{{spouse}}"
     }
   },
   {
-    "Call": "Another wonderful year <",
-    "Response": "With you <",
+    "Call": "เป็นอีกปีที่มหัศจรรย์ <",
+    "Response": "กับคุณ <",
     "When": {
       "Season": "Winter",
       "Day": "{{Range: 27, 28}}"
     }
   },
   {
-    "Call": "Wear a raincoat babe",
-    "Response": "So wet out there",
+    "Call": "ใส่ชุดกันฝนซิที่รัก",
+    "Response": "ข้างนอกมันเปียกนะ",
     "When": {
       "Weather": "Rain",
       "Time": "{{Range: 0600, 1200}}"
     }
   },
   {
-    "Call": "Come to bed babe <",
-    "Response": "Snuggle time!",
+    "Call": "นอนได้แล้วที่รัก <",
+    "Response": "ช่วงเวลาแห่งการคลอเคลีย!",
     "When": {
       "Time": "{{Range: 2100, 2600}}"
     }
   },
   {
-    "Call": "Movies tonight?",
-    "Response": "What's on?",
+    "Call": "ดูหนังไหมคืนนี้ ?",
+    "Response": "มีอะไรน่าดูบ้าง?",
     "When": {
       "Time": "{{Range: 0600, 1900}}",
       "HasFlag": "ccMovieTheater"
     }
   },
   {
-    "Call": "Seen the JojaMart?",
-    "Response": "Spooky",
+    "Call": "เห็น Joja Mart ไหม?",
+    "Response": "น่ากลัวจัง",
     "When": {
       "HasFlag": "abandonedJojaMartAccessible"
     }
   },
   {
-    "Call": "Gloomy day today",
-    "Response": "Resort trip?",
+    "Call": "วันนี้ เป็นวันที่หดหู่จัง",
+    "Response": "ไปเที่ยวรีสอร์ทไหม ?",
     "When": {
       "Weather": "Rain",
       "HasFlag": "Island_Resort",
@@ -86,59 +86,59 @@
     }
   },
   {
-    "Call": "Two farms! So proud",
-    "Response": "Doing so well",
+    "Call": "สองฟาร์มแล้ว ! ภูมิใจมากเลย",
+    "Response": "ทำได้ดีมากเลย",
     "When": {
       "HasFlag": "Island_Turtle"
     }
   },
   {
-    "Call": "Community Centre open again <",
-    "Response": "Amazing!",
+    "Call": "ศูนย์ชุมชน เปิดอีกครั้งแล้ว <",
+    "Response": ",มหัศจรรย์!",
     "When": {
       "HasConversationTopic": "cc_Complete"
     }
   },
   {
-    "Call": "There's movies now?",
-    "Response": "Date night <",
+    "Call": "ตอนนี้มีหนังฉายไหม?",
+    "Response": "ค่ำคืนการเดท <",
     "When": {
       "HasConversationTopic": "movieTheater"
     }
   },
   {
-    "Call": "The bus is back",
-    "Response": "Good news for Pam!",
+    "Call": "รถบัสกลับมาแล้ว",
+    "Response": "เป็นข่าวดีสำหรับแพม !",
     "When": {
       "HasConversationTopic": "cc_Bus"
     }
   },
   {
-    "Call": "Bus is going again",
+    "Call": "รถบัสกลับมาเดินทางอีกครัง",
     "Response": "Let's get starfruit!",
     "When": {
       "HasConversationTopic": "cc_Bus"
     }
   },
   {
-    "Call": "A house for Pam?",
-    "Response": "He's so generous <",
+    "Call": "บ้านสำหรับแพม ?",
+    "Response": "เขาช่างใจกว้างเหลือเกิน <",
     "When": {
       "HasConversationTopic": "pamHouseUpgrade",
       "PlayerGender": "male"
     }
   },
   {
-    "Call": "A house for Pam?",
-    "Response": "She's so generous <",
+    "Call": "บ้านสำหรับแพม ?",
+    "Response": "เธอช่างใจกว้างเหลือเกิน <",
     "When": {
       "HasConversationTopic": "pamHouseUpgrade",
       "PlayerGender": "female"
     }
   },
   {
-    "Call": "House for Pam... was that...?",
-    "Response": "Shhh",
+    "Call": "บ้านสำหรับแพม... นั้น คือ...?",
+    "Response": "ชู่วววว",
     "When": {
       "HasConversationTopic": "pamHouseUpgradeAnonymous"
     }
