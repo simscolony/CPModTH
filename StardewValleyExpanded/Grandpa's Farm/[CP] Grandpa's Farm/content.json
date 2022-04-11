@@ -364,7 +364,7 @@
         "Duration": "Month",
          "Repeatable": "False",
         "RequiredTags": "event_2554908, !event_2554909",
-        "OrderType": "",
+        "OrderType": "StardewValleyExpanded",
         "SpecialRule": "",
         "Text": "[Robin4_Text]",
         "ItemToRemoveOnEnd": null,
@@ -462,7 +462,7 @@
         "Duration": "Month",
         "Repeatable": "False",
         "RequiredTags": "event_2554910, !event_2554911",
-        "OrderType": "",
+        "OrderType": "StardewValleyExpanded",
         "SpecialRule": "",
         "Text": "[Clint3_Text]",
         "ItemToRemoveOnEnd": null,
@@ -580,7 +580,7 @@
     "Duration": "Month",
     "Repeatable": "False",
     "RequiredTags": "event_8033758, !event_6665293, !event_8033861",
-    "OrderType": "",
+    "OrderType": "StardewValleyExpanded",
     "SpecialRule": "",
     "Text": "[Lewis2_Text]",
     "ItemToRemoveOnEnd": null,
@@ -634,7 +634,7 @@
 	 "Target": "data/events/farmhouse",
 	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent |contains=6665293": false }, //= Summer 17th year 3 minimum, Grandpa's Farm is being played on
 	 "Entries": {
-	 "8033858/t 600 2200/j 268/w sunny/H": "continue/-500 -500/farmer 95 49 2 Lewis 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Lewis 10 -25/viewport 95 49 clamp true/pause 1000/speak Lewis \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ฉันขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ฉัน ต้องคุยกับเธอหน่อย!$0\"/pause 650/emote farmer 8 true/pause 1500/faceDirection Lewis 1 true/pause 500/speak Lewis \"ตามฉันไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection Lewis 3 true/warp farmer 120 57/warp Lewis 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump Lewis/pause 1000/speak Lewis \"ฉันไม่ได้ปีนรั้วแบบนี้ มาตั้งแต่สมัยที่เป็น วัยรุ่นแล้วนู้นนน!$1\"/pause 1200/faceDirection Lewis 2 true/pause 1000/faceDirection Lewis 3 true/pause 300/faceDirection Lewis 0 true/pause 1000/faceDirection Lewis 3 true/pause 400/speak Lewis \"เธอเองก็ทำฟาร์ม %farm นี้มาได้ 2 ปีกว่าแล้วนะ เธอคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวเนี้ยมีที่ดินดีๆ มากมาย ติดกับที่ดินของเธอ$0\"/pause 600/emote farmer 40/speak Lewis \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาฉันที่บ้านได้ ถ้าเธอตัดสินใจได้แล้ว @$1\"/pause 600/globalFade/viewport -1000 -1000/warp Lewis -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกเลวิสให้รู้ละกัน\"/pause 500/end dialogue Lewis \"อ่าา เธอไม่ต้องการ ขยายฟาร์มงั้นเหรอ? ขอบใจที่มาบอกให้ฉันรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
+	 "8033858/t 600 2200/j 268/w sunny/H": "continue/-500 -500/farmer 95 49 2 Lewis 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset Lewis 10 -25/viewport 95 49 clamp true/pause 1000/speak Lewis \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ฉันขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ฉัน ต้องคุยกับเธอหน่อย!$0\"/pause 650/emote farmer 8 true/pause 1500/faceDirection Lewis 1 true/pause 500/speak Lewis \"ตามฉันไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection Lewis 3 true/warp farmer 120 57/warp Lewis 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump Lewis/pause 1000/speak Lewis \"ฉันไม่ได้ปีนรั้วแบบนี้ มาตั้งแต่สมัยที่เป็น วัยรุ่นแล้วนู้นนน!$1\"/pause 1200/faceDirection Lewis 2 true/pause 1000/faceDirection Lewis 3 true/pause 300/faceDirection Lewis 0 true/pause 1000/faceDirection Lewis 3 true/pause 400/speak Lewis \"เธอเองก็ทำฟาร์ม %farm นี้มาได้สักพักแล้วนะ เธอคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวเนี้ยมีที่ดินดีๆ มากมาย ติดกับที่ดินของเธอ$0\"/pause 600/emote farmer 40/speak Lewis \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาฉันที่บ้านได้ ถ้าเธอตัดสินใจได้แล้ว @$1\"/pause 600/globalFade/viewport -1000 -1000/warp Lewis -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกเลวิสให้รู้ละกัน\"/pause 500/end dialogue Lewis \"อ่าา เธอไม่ต้องการ ขยายฟาร์มงั้นเหรอ? ขอบใจที่มาบอกให้ฉันรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
 
      },
 },
@@ -699,7 +699,7 @@
     "Duration": "Month",
     "Repeatable": "False",
     "RequiredTags": "event_8033758, event_6665293, !event_8033861",
-    "OrderType": "",
+    "OrderType": "StardewValleyExpanded",
     "SpecialRule": "",
     "Text": "[Morris_Text]",
     "ItemToRemoveOnEnd": null,
@@ -751,7 +751,7 @@
 {    //Morris special order event - part 1
 	 "Action": "EditData",
 	 "Target": "data/events/farmhouse",
-	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent": "6665293" }, //= Summer 17th year 3 minimum, Grandpa's Farm is being played on
+	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent |contains=6665293": true, "HasSeenEvent |contains=6663408": true }, //= Summer 17th year 3 minimum, Grandpa's Farm is being played on, player built Morris townhouse
 	 "Entries": {
 	 "8033858/t 600 2200/j 268/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset MorrisTod 10 -25/viewport 95 49 clamp true/pause 1000/speak MorrisTod \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ผมขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ผม ต้องคุยกับคุณหน่อย!$1\"/pause 650/emote farmer 8 true/pause 1500/faceDirection MorrisTod 1 true/pause 500/speak MorrisTod \"ตามผมไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection MorrisTod 3 true/warp farmer 120 57/warp MorrisTod 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump MorrisTod/pause 1000/speak MorrisTod \"หืมม...$0\"/pause 1200/faceDirection MorrisTod 2 true/pause 1000/faceDirection MorrisTod 3 true/pause 300/faceDirection MorrisTod 0 true/pause 1000/faceDirection MorrisTod 3 true/pause 400/speak MorrisTod \"คุณเองก็ทำฟาร์ม %farm นี้มาได้ 2 ปีกว่าแล้วนะ คุณคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวนี้มีที่ดินดีๆ มากมาย ติดกับที่ดินของคุณ$4\"/pause 600/emote farmer 40/speak MorrisTod \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาผมที่ร้านโจจ้าได้ ถ้าคุณตัดสินใจได้แล้ว @$4\"/pause 600/globalFade/viewport -1000 -1000/warp MorrisTod -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกมอร์ริสให้รู้ละกัน\"/pause 500/end dialogue MorrisTod \"อ่าา คุณไม่ต้องการ ขยายฟาร์มงั้นเหรอ? ขอบคุณที่มาบอกให้ผมรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
 
@@ -761,9 +761,9 @@
 {    //Morris special order event - part 1 (alternate)
 	 "Action": "EditData",
 	 "Target": "data/events/farmhouse",
-	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent |contains=191393": false, "HasSeenEvent |contains=502261": true, "HasFlag |contains=ccMovieTheaterJoja": true, "HasSeenEvent |contains=8050109": true, "HasFlag |contains=Island_Resort": true }, //=Player has completed joja dev form, theater, island resort, and cleared railroad boulder
+	 "When": { "HasMod": "flashshifter.GrandpasFarm", "FarmType": "Standard", "HasSeenEvent |contains=191393": false, "HasSeenEvent |contains=6663408": true, "HasSeenEvent |contains=502261": true, "HasFlag |contains=ccMovieTheaterJoja": true, "HasSeenEvent |contains=8050109": true, "HasFlag |contains=Island_Resort": true }, //=Player has completed joja dev form, theater, island resort, player built Morris townhouse, and cleared railroad boulder
 	 "Entries": {
-	 "8033858/t 600 2200/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset MorrisTod 10 -25/viewport 95 49 clamp true/pause 1000/speak MorrisTod \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ผมขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ผม ต้องคุยกับคุณหน่อย!$1\"/pause 650/emote farmer 8 true/pause 1500/faceDirection MorrisTod 1 true/pause 500/speak MorrisTod \"ตามผมไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection MorrisTod 3 true/warp farmer 120 57/warp MorrisTod 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump MorrisTod/pause 1000/speak MorrisTod \"หืมม...$0\"/pause 1200/faceDirection MorrisTod 2 true/pause 1000/faceDirection MorrisTod 3 true/pause 300/faceDirection MorrisTod 0 true/pause 1000/faceDirection MorrisTod 3 true/pause 400/speak MorrisTod \"คุณเองก็ทำฟาร์ม %farm นี้มาได้ 2 ปีกว่าแล้วนะ คุณคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวนี้มีที่ดินดีๆ มากมาย ติดกับที่ดินของคุณ$4\"/pause 600/emote farmer 40/speak MorrisTod \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาผมที่ร้านโจจ้าได้ ถ้าคุณตัดสินใจได้แล้ว @$4\"/pause 600/globalFade/viewport -1000 -1000/warp MorrisTod -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกมอร์ริสให้รู้ละกัน\"/pause 500/end dialogue MorrisTod \"อ่าา เธอไม่ต้องการ ขยายฟาร์มงั้นเหรอ? ขอบใจที่มาบอกให้ฉันรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
+	 "8033858/t 600 2200/w sunny/H": "continue/-500 -500/farmer 95 49 2 MorrisTod 95 51 0/pause 1000/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/playSound stoneStep/pause 300/pause 800/message \"มีใครบางคนกำลังเคาะประตู\"/changeLocation farm/pause 500/playSound doorOpen/pause 500/positionOffset farmer 0 -20/positionOffset MorrisTod 10 -25/viewport 95 49 clamp true/pause 1000/speak MorrisTod \"สวัสดี @ กำลังง่วนกับงานในฟาร์ม เหมือนเดิมเลยนะ$0#$b#ผมขอเวลาสักประเดี๋ยวนึงสิ? มีบางอย่างที่ผม ต้องคุยกับคุณหน่อย!$1\"/pause 650/emote farmer 8 true/pause 1500/faceDirection MorrisTod 1 true/pause 500/speak MorrisTod \"ตามผมไปที่นั่น หลังรั้วพวกนั้น$0\"/pause 600/faceDirection farmer 1 true/pause 500/globalFade/viewport -1000 -1000/faceDirection farmer 1 true/faceDirection MorrisTod 3 true/warp farmer 120 57/warp MorrisTod 122 57/pause 500/viewport 121 57 clamp true/pause 1400/jump MorrisTod/pause 1000/speak MorrisTod \"หืมม...$0\"/pause 1200/faceDirection MorrisTod 2 true/pause 1000/faceDirection MorrisTod 3 true/pause 300/faceDirection MorrisTod 0 true/pause 1000/faceDirection MorrisTod 3 true/pause 400/speak MorrisTod \"คุณเองก็ทำฟาร์ม %farm นี้มาได้สักพักแล้วนะ คุณคิดอยากจะขยับขยายพื้นที่ บ้างมั้ยล่ะ?$0#$b#แถวนี้มีที่ดินดีๆ มากมาย ติดกับที่ดินของคุณ$4\"/pause 600/emote farmer 40/speak MorrisTod \"นี่เป็นที่ดินขนาดประมาณ 1 เอเคอร์ ตีราคาประเมินทุกอย่างแล้ว น่าจะอยู่ที่ 250,000g$0#$b#แวะมาหาผมที่ร้านโจจ้าได้ ถ้าคุณตัดสินใจได้แล้ว @$4\"/pause 600/globalFade/viewport -1000 -1000/warp MorrisTod -50 -50/viewport 121 57 clamp true/pause 1700/faceDirection farmer 2 true/pause 1250/message \"ฉันจะขยายฟาร์มดีมั้ยนะ?\"/pause 800/question fork0 \"#ขยายฟาร์ม#ไม่ขยายฟาร์ม\"/fork 8033858_ExpandFarm/pause 750/message \"เอาล่ะ ฉันจะไม่ซื้อที่ดินเพิ่มหรอก ฉันจะไปบอกมอร์ริสให้รู้ละกัน\"/pause 500/end dialogue MorrisTod \"อ่าา เธอไม่ต้องการ ขยายฟาร์มงั้นเหรอ? ขอบใจที่มาบอกให้ฉันรู้นะ @$0#$e#พื้นที่บางส่วนของ สตาร์ดิวแวลลี่ คงต้องถูกปล่อยทิ้งไว้ แบบนั้นต่อไป...$0\"",
 
      },
 },
@@ -866,6 +866,7 @@
 {    "Action": "EditData", "Target": "Characters/Dialogue/Susan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
 {    "Action": "EditData", "Target": "Characters/Dialogue/Morgan", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
 {    "Action": "EditData", "Target": "Characters/Dialogue/Lance", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
+{    "Action": "EditData", "Target": "Characters/Dialogue/Scarlett", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
 {    "Action": "EditData", "Target": "Characters/Dialogue/Apples", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
 {    "Action": "EditData", "Target": "Characters/Dialogue/MarlonFay", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
 {    "Action": "EditData", "Target": "Characters/Dialogue/GuntherSilvian", "Entries": { "reject_{{spacechase0.JsonAssets/ObjectId:Property Deed}}": "%นี่เป็นของที่ต้องนำไปให้คนอื่น..." }},
@@ -986,6 +987,35 @@
 	  }
     },
 
+	//Marnie mentions farm animals can't leave fenced in areas (player has white egg in their inventory)
+    {
+      "Action": "EditData",
+      "Target": "data/events/farm",
+	  "When": { "FarmType": "Standard", "SandboxLayout": "false", "RemoveFences": "false" },
+      "Entries": {
+      "896152/i 176/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+	  }
+    },
+
+	//Marnie mentions farm animals can't leave fenced in areas (player has brown egg in their inventory)
+    {
+      "Action": "EditData",
+      "Target": "data/events/farm",
+	  "When": { "FarmType": "Standard", "SandboxLayout": "false", "RemoveFences": "false" },
+      "Entries": {
+      "896152/i 180/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+	  }
+    },
+
+	//Marnie mentions farm animals can't leave fenced in areas (player has milk in their inventory)
+    {
+      "Action": "EditData",
+      "Target": "data/events/farm",
+	  "When": { "FarmType": "Standard", "SandboxLayout": "false", "RemoveFences": "false" },
+      "Entries": {
+      "896152/i 184/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+	  }
+    },
 
   ]
 }
