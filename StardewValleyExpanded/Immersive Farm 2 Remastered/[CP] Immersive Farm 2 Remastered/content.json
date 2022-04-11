@@ -415,14 +415,6 @@
 	  "When": { "Remove_Cherry_Blossom_Tree_From_Southeast_Hill": "true", "FarmType": "Standard", "HasMod |contains=flashshifter.GrandpasFarm": false }
     },
 
-
-
-
-
-
-
-
-
 	{
       "Action": "EditMap",
       "Target": "Maps/Greenhouse,Maps",
@@ -541,6 +533,36 @@
       "Entries": {
       "65/m 25000/t 600 1200/H": "continue/64 15/farmer 64 16 2 Demetrius 64 18 0/pause 1200/speak Demetrius \"สวัสดี @! ผมมีข่าวดีจะมาบอกล่ะ เมื่อไม่กี่วันก่อน ผมได้ค้นคว้าวิจัยเกี่ยวกับ สภาพแวดล้อมในหุบเขา$h#$b#รายละเอียดมันน่าเบื่อน่ะ ผมจะไม่บอกคุณเกี่ยวกับ รายละเอียดทางเทคนิค แล้วเข้าประเด็นเลยก็แล้วกันนะ... คุณรู้ใช่ไหมว่ามันมีทำโล่งๆ อยู่ตรงนั้น เตรงทางเล็กๆ ทางตะวันออกเฉียงใต้น่ะ? คือแบบนี้นะ ผมมีวิธีที่จะเปลี่ยนมันเป็น อะไรบางอย่างที่มีประโยชน์... สำหรับเราทั้งคู่#$b#ผมอยากจะจัดถ้ำเพื่อดึงดูด พวกสิ่งมีชีวิตท้องถิ่นน่ะ ผมจะได้สังเกตการณ์พวกมัน ในสภาพแวดล้อมที่ ควบคุมได้มากขึ้น และคุณก็จะสามารถเก็บเกี่ยว ผลผลิตที่พวกมันผลิตได้#$b#ผมสามารถจัดถ้ำให้ดึงดูดเห็ด หรือค้างคาวผลไม้ก็ได้ พวกค้างคาวจะทิ้งผลไม้ไว้ ให้คุณก็บเป็นบางครั้ง\"/cave/speak Demetrius \"ได้เลยครับ! ผมจะไปจัดถ้ำให้คุณตอนนี้เลย! มันจะไม่เสียเวลา แม้แต่นิดเดียวเลยครับ$h#$b#ขอบคุณที่ยอมให้ผมทำมันนะ\"/end dialogue Demetrius \"ผมตื่นเต้นที่จะได้เห็นว่า จะมีอะไรเกิดขึ้นที่ถ้ำนั่นบ้างจัง คุณก็ด้วยใช่ไหมครับ?#$e#ผมหวังว่าคุณจะพอใจ กับงานที่ผมทำนะครับ\""
       }
+    },
+
+	//Marnie mentions farm animals can't leave fenced in area (player has white egg in their inventory)
+    {
+      "Action": "EditData",
+      "Target": "data/events/farm",
+	  "When": { "FarmType": "Standard", "Farm_Sandbox_Layout": "false", "Remove_Farm_Animal_Area_Fences": "false" },
+      "Entries": {
+      "896152/i 176/t 600 1800/y 1/z winter": "none/-1000 -1000/farmer 64 16 2 Marnie 64 18 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+	  }
+    },
+
+	//Marnie mentions farm animals can't leave fenced in area (player has white egg in their inventory)
+    {
+      "Action": "EditData",
+      "Target": "data/events/farm",
+	  "When": { "FarmType": "Standard", "Farm_Sandbox_Layout": "false", "Remove_Farm_Animal_Area_Fences": "false" },
+      "Entries": {
+      "896152/i 180/t 600 1800/y 1/z winter": "none/-1000 -1000/farmer 64 16 2 Marnie 64 18 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+	  }
+    },
+
+	//Marnie mentions farm animals can't leave fenced in area (player has milk in their inventory)
+    {
+      "Action": "EditData",
+      "Target": "data/events/farm",
+	  "When": { "FarmType": "Standard", "Farm_Sandbox_Layout": "false", "Remove_Farm_Animal_Area_Fences": "false" },
+      "Entries": {
+      "896152/i 184/t 600 1800/y 1/z winter": "none/-1000 -1000/farmer 64 16 2 Marnie 64 18 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+	  }
     },
 
     //Robin if2r event dialogue additions
