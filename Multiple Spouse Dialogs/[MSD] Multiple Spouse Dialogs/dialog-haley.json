@@ -1,87 +1,87 @@
 [
   {
-    "Call": "Baked something yum for you!",
-    "Response": "Mmm! *slurp*",
-    "Callers": "Haley"
+    "Call": "ฉันทำของอร่อยๆ มาให้คุณด้วยแหละ!",
+    "Response": "หืมมม ! *กิน*",
+    "Callers": "เฮลีย์"
   },
   {
-    "Call": "Let's hang out at the beach",
-    "Response": "Can we bring snacks?",
-    "Callers": "Haley",
+    "Call": "ไปสังสรรค์ที่ชายหาดกันนน",
+    "Response": "พวกเราเอาขนมไปด้วยได้ไหม?",
+    "Callers": "เฮลีย์",
     "When": {
       "Season": "Summer",
       "Weather": "Sun"
     }
   },
   {
-    "Call": "Today is so hot!",
-    "Response": "You're the hottest though!",
-    "Callers": "Haley",
+    "Call": "วันนี้ร้อนจังเลยนะ!",
+    "Response": "แต่ร้อนแรงที่สุด ก็คือ คุณ!",
+    "Callers": "เฮลีย์",
     "When": {
       "Season": "Summer",
       "Weather": "Sun"
     }
   },
   {
-    "Call": "Flowers are starting to bloom",
-    "Response": "Spring is so pretty",
-    "Callers": "Haley",
+    "Call": "เหล่าดอกไม้เริ่มต้นที่จะบานกันแล้วนะ",
+    "Response": "ฤดูใบไม้ผลิช่างสวยงาม",
+    "Callers": "เฮลีย์",
     "When": {
       "Season": "Spring",
     }
   },
   {
-    "Call": "I could really go for a cupcake",
-    "Response": "You're making me hungry!",
-    "Callers": "Haley"
+    "Call": "ฉันอยากกินคัพเค้กจัง",
+    "Response": "คุณกำลังทำให้ฉันหิวนะ!",
+    "Callers": "เฮลีย์"
   },
   {
-    "Call": "I've messed up the kitchen",
-    "Response": "You'll get the hang of it",
-    "Callers": "Haley"
+    "Call": "ฉันทำห้องครัวเละไปหมดเลย",
+    "Response": "เดี๋ยวคุณก็ทำมันได้",
+    "Callers": "เฮลีย์"
   },
   {
-    "Call": "Going to take pics of the farm today",
-    "Response": "Show me how they turn out",
-    "Callers": "Haley",
+    "Call": ";วันนี้ฉันจะไปถ่ายรูปฟาร์มซะหน่อย",
+    "Response": "ถ่ายเสร็จแล้วให้ฉันดูด้วยนะ",
+    "Callers": "เฮลีย์",
     "When": {
       "Weather": "Sun"
     }
   },
   {
-    "Call": "So hot today! I want ice cream",
-    "Response": "You could make some!",
-    "Callers": "Haley",
+    "Call": "วันนี้ร้อนเหลือเกิน ฉันอยากกินไอศรีมจัง",
+    "Response": "คุณจะเอาสักหนอยไหม!",
+    "Callers": "เฮลีย์",
     "When": {
       "Season": "Summer",
       "Weather": "Sun"
     }
   },
   {
-    "Call": "I was just thinking about you",
-    "Response": "Tell me more...",
-    "Callers": "Haley"
+    "Call": "ฉันกำลังคิดถึงคุณอยุ่เลย",
+    "Response": "พูดอีกซิ...",
+    "Callers": "เฮลีย์"
   },
   {
-    "Call": "I want to take pics but my fingers would freeze",
-    "Response": "What about gloves?",
-    "Callers": "Haley",
+    "Call": "ฉันอยากจะถ่ายรูป แต่มันหนาวจนนิ้วฉันแข็งไปหมด",
+    "Response": "เอาถุงมือไหม?",
+    "Callers": "เฮลีย์",
     "When": {
       "Weather": "Snow"
     }
   },
   {
-    "Call": "Good day to work on my tan",
-    "Response": "Looking great already <",
-    "Callers": "Haley",
+    "Call": "วันนี้เหมาะที่จะทำผิวสีแทน",
+    "Response": "คุณดูดีอยู่แล้ว <",
+    "Callers": "เฮลีย์",
     "When": {
       "Weather": "Sun"
     }
   },
   {
-    "Call": "Let's turn the lights down",
-    "Response": "Rowr!",
-    "Callers": "Haley",
+    "Call": "ปิดไฟกันเถอะ",
+    "Response": "โว้ววว!",
+    "Callers": "เฮลีย์",
     "When": {
       "Time": "{{Range: 1900, 2600}}"
     }
