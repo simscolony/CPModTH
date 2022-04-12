@@ -1,21 +1,21 @@
 ﻿[
   {
-    "Call": "I'm feeling good about today",
-    "Response": "Me too!",
+    "Call": "วันนี้ฉันรู้สึกดีจัง",
+    "Response": "ฉันก็เหมือนกัน !",
     "When": {
       "Query: {{DailyLuck}} > 0.02": true
     }
   },
   {
-    "Call": "It's your lucky day @",
-    "Response": "Is it? *smooch*",
+    "Call": "วันนี้เป็นวันของคุณจริงๆ @",
+    "Response": "จริงเหรอ ? *จูบ*",
     "When": {
       "Query: {{DailyLuck}} > 0.07": true
     }
   },
   {
-    "Call": "I want to hide under the covers!",
-    "Response": "Let's hide together~",
+    "Call": "ฉันอยากจะไปหลบอยู่ใต้ผ้าห่มจัง!",
+    "Response": "ไปหลบที่ใต้ผ้าห่มด้วยกันเถอะ~",
     "When": {
       "Query: {{DailyLuck}} < -0.07": true,
       "Time": "{{Range: 0600, 1200}}"
