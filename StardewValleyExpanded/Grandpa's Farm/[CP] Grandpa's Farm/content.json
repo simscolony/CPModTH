@@ -993,7 +993,7 @@
       "Target": "data/events/farm",
 	  "When": { "FarmType": "Standard", "SandboxLayout": "false", "RemoveFences": "false" },
       "Entries": {
-      "896152/i 176/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+      "896152/i 176/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"สวัสดีจ้ะ @! และแล้วตอนนี้เธอก็มี สัตว์เลี้ยงในฟาร์ม เป็นของตัวเองแล้วสินะ ฉันเลยคิดว่าจะบอกเคล็ดลับ ให้กับเธอนิดหน่อย$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"พวกมันจะไม่ออกไปนอกบริเวณ ที่ล้อมรั้วไว้ภายในฟาร์มของเธอ ดังนั้นเธอสบายใจได้เลย ที่จะปล่อยให้พวกมัน ออกมาเดินเล่น!$1\"/pause 250/emote farmer 32/pause 100/end"
 	  }
     },
 
@@ -1003,7 +1003,7 @@
       "Target": "data/events/farm",
 	  "When": { "FarmType": "Standard", "SandboxLayout": "false", "RemoveFences": "false" },
       "Entries": {
-      "896152/i 180/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+      "896152/i 180/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"สวัสดีจ้ะ @! และแล้วตอนนี้เธอก็มี สัตว์เลี้ยงในฟาร์ม เป็นของตัวเองแล้วสินะ ฉันเลยคิดว่าจะบอกเคล็ดลับ ให้กับเธอนิดหน่อย$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"พวกมันจะไม่ออกไปนอกบริเวณ ที่ล้อมรั้วไว้ภายในฟาร์มของเธอ ดังนั้นเธอสบายใจได้เลย ที่จะปล่อยให้พวกมัน ออกมาเดินเล่น!$1\"/pause 250/emote farmer 32/pause 100/end"
 	  }
     },
 
@@ -1013,7 +1013,7 @@
       "Target": "data/events/farm",
 	  "When": { "FarmType": "Standard", "SandboxLayout": "false", "RemoveFences": "false" },
       "Entries": {
-      "896152/i 184/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"Hi @! Now that you own farm animals, I thought I'd let you in on a little secret.$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"They won't wander out of the fenced areas on your farm, so you're free to leave them open!$1\"/pause 250/emote farmer 32/pause 100/end"
+      "896152/i 184/t 600 1800/y 1/z winter": "continue/-1000 -1000/farmer 95 49 2 Marnie 95 50 0/skippable/pause 1000/speak Marnie \"สวัสดีจ้ะ @! และแล้วตอนนี้เธอก็มี สัตว์เลี้ยงในฟาร์ม เป็นของตัวเองแล้วสินะ ฉันเลยคิดว่าจะบอกเคล็ดลับ ให้กับเธอนิดหน่อย$0\"/pause 400/emote farmer 8/pause 100/speak Marnie \"พวกมันจะไม่ออกไปนอกบริเวณ ที่ล้อมรั้วไว้ภายในฟาร์มของเธอ ดังนั้นเธอสบายใจได้เลย ที่จะปล่อยให้พวกมัน ออกมาเดินเล่น!$1\"/pause 250/emote farmer 32/pause 100/end"
 	  }
     },
 
