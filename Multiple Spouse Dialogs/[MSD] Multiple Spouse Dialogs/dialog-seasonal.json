@@ -1,67 +1,67 @@
 ﻿[
   {
-    "Call": "Let's make snow angels!",
-    "Response": "I'll get my gloves",
+    "Call": "มาปั้นตุ๊กตานางฟ้าหิมะกันเถอะ !",
+    "Response": "ฉันไปหยิบถุงมือก่อนนะ ",
     "When": {
       "Weather": "Snow"
     }
   },
   {
-    "Call": "Brr so cold",
-    "Response": "Let's grab a blanket",
+    "Call": "บรื้อออ~ หนาวเหลือเกินนน",
+    "Response": "ไปหยิบผ้าห่มกันเถอะ",
     "When": {
       "Season": "Winter"
     }
   },
   {
-    "Call": "Lovely weather",
-    "Response": "So many flowers",
+    "Call": "อากาศช่างดีเหลือเกิน",
+    "Response": "ดอกไม้เต็มไปหมดเลย",
     "When": {
       "Season": "Spring",
       "Weather": "Sun"
     }
   },
   {
-    "Call": "Love the sound of rain at night",
-    "Response": "Sleep well babe",
+    "Call": "ฉันรักเสียงของฝนที่ตกในยามค่ำคืนจริง ๆ",
+    "Response": "ฝันดีนะที่รัก",
     "When": {
       "Weather": "Rain",
       "Time": "{{Range: 2000, 2600}}"
     }
   },
   {
-    "Call": "So much pollen",
-    "Response": "*achoo* I know!",
+    "Call": "เกสรดอกไม้เต็มไปหมด",
+    "Response": "*ฮัดชิัววว* ฉันรู้แล้วหละ!",
     "When": {
       "Season": "Spring",
       "Weather": "Wind"
     }
   },
   {
-    "Call": "I'm getting sweaty",
-    "Response": "rowr!",
+    "Call": "ฉันเริ่มจะชุ่มไปด้วยเหงื่อละ",
+    "Response": "แหยะ !",
     "When": {
       "Season": "Summer"
     }
   },
   {
-    "Call": "Love this season",
-    "Response": "So crisp",
+    "Call": "รักฤดูกาลนี้จังง",
+    "Response": "มีชีวิตชีวาสุดๆเลย",
     "When": {
       "Season": "Fall"
     }
   },
   {
-    "Call": "Gotta rake leaves",
-    "Response": "Want help?",
+    "Call": "ฉันต้องกวาดใบไม้",
+    "Response": "ให้ช่วยไหม?",
     "When": {
       "Season": "Fall",
       "Weather": "Sun"
     }
   },
   {
-    "Call": "Is that lightning?",
-    "Response": "Yipes",
+    "Call": "นั้นใช่ฟ้าผ่าหรือเปล่า?",
+    "Response": "อะจึ๋ย",
     "When": {
       "Weather": "Storm"
     }
