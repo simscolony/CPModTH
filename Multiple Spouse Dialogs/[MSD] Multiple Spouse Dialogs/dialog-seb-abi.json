@@ -1,43 +1,43 @@
 ﻿[
   {
     "Call": "พร้อมสำหรับการซ้อมวงดนตรีหรือยัง?",
-    "Response": "คุณรู้อยู่แล้ว!",
-    "Callers": "อบิเกล เซบาสเตียน",
-    "Responders": "อบิเกล เซบาสเตียน"
+    "Response": "พร้อมแล้ว!",
+    "Callers": "Abigail Sebastian",
+    "Responders": "Abigail Sebastian"
   },
   {
-    "Call": "Have you seen the frog crickets?",
-    "Response": "Don't tell me they got out again",
+    "Call": "คุณเคยเห็นกบคริกเก็ตไหม?",
+    "Response": "อย่าบอกนะ ว่าพวกมันออกมากันอีกแล้ว",
     "Callers": "Abigail Sebastian",
     "Responders": "Abigail Sebastian"
   },
   {
     "Call": "When's our next Solarion game?",
-    "Response": "Dunno, I'll ask Sam",
+    "Response": "ไม่รู้ซิ เดี๋ยวจะถามแซมให้แล้วกัน",
     "Callers": "Abigail Sebastian",
     "Responders": "Abigail Sebastian"
   },
   {
-    "Call": "Thinking about wearing black today",
-    "Response": "Great, then we'll match!",
+    "Call": "กำลังคิดว่าวันนี้จะใส่สีดำ",
+    "Response": "เยี่ยมเลยย เราจะได้แต่งเหมือนกัน!",
     "Callers": "Abigail Sebastian",
     "Responders": "Abigail Sebastian"
   },
   {
-    "Call": "Your hair looks great today!",
-    "Response": "Thanks, yours too!",
+    "Call": "วันนี้ผมคุณดูดีจังเลยนะ!",
+    "Response": "ขอบใจนะ คุณก็ดูดีเหมือนกัน!",
     "Callers": "Abigail Sebastian",
     "Responders": "Abigail Sebastian"
   },
   {
-    "Call": "Was that a ghost?",
-    "Response": "Probably",
+    "Call": "นั้นผีหรอ?",
+    "Response": "ก็ เป็น ได้",
     "Callers": "Abigail Sebastian",
     "Responders": "Abigail Sebastian"
   },
   {
-    "Call": "Did we plant pumpkins?",
-    "Response": "Make mine a soup",
+    "Call": "พวกเราได้ปลูกฟักทองไหม?",
+    "Response": "ทำซุปให้ฉันด้วยนะ",
     "Callers": "Abigail",
     "Responders": "Sebastian",
     "When": {
@@ -45,8 +45,8 @@
     }
   },
   {
-    "Call": "Brr, it's cold",
-    "Response": "Just how I like it",
+    "Call": "บรืออออ หนาวเหลือเกินนน",
+    "Response": "เป็นแบบที่ฉันชอบเลย",
     "Callers": "Abigail",
     "Responders": "Sebastian",
     "When": {
@@ -63,8 +63,8 @@
     }
   },
   {
-    "Call": "It's a bit too chilly",
-    "Response": "I got a big blanket~",
+    "Call": "อากาศมันออกจะเย็นไปนิดนะ",
+    "Response": "ฉันมีผ้าห่มผืนใหญ่เลยยย~",
     "Callers": "Sebastian",
     "Responders": "Abigail",
     "When": {
