@@ -186,6 +186,9 @@
 	"settings.button.TrashRight": "ด้านขวาของถังขยะ",
 	"settings.button.TrashDown": "ใต้ถังขยะ",
 
+	"settings.unlimited": "Unlimited",
+	"settings.days": "{{count}} Days",
+
 	"settings.available": "ใช้งาน ปฎิทินประจำปี ได้เสมอ",
 	"settings.available-desc": "เมื่อเปิดใช้งานแล้ว ปฎิทินประจำปี จะพร้อมใช้งานเสมอ ไม่ว่าคุณ จะได้รับเล่มสำเนาหรือไม่",
 
@@ -194,6 +197,9 @@
 
 	"settings.magic": "ใช้งานหน้าเวทมนตร์ได้เสมอ",
 	"settings.magic-desc": "เมื่อเปิดใช้งานแล้ว หน้าเวทมนตร์ จะพร้อมใช้งานเสมอ และไม่จำเป็นต้อง เกิดเหตุการณ์กับพ่อมด",
+
+	"settings.forecast-length": "Forecast Length",
+	"settings.forecast-length.desc": "Forecast up to this many days into the future.",
 
 	"settings.weather.deterministic": "ใช้สภาพอากาศเชิงกำหนด",
 	"settings.weather.deterministic-desc": "เพื่อให้การพยากรณ์อากาศ ของปฎิทินประจำปีทำงาน เราจึงแทนที่ การคำนวณสภาพอากาศ ของวันพรุ่งนี้ ด้วยการคำนวณ ที่ใช้แหล่งข้อมูลการสุ่ม แบบคาดการณ์ได้ หากกระบวนการดังกล่าว ทำให้เกิดปัญหา คุณสามารถ ปิดอาการที่ว่าได้ที่นี่ แต่การทำเช่นนี้ จะเป็นการปิดการใช้งาน การพยากรณ์อากาศ extended",
