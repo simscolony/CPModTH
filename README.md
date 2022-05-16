@@ -44,6 +44,7 @@ Multiple Spouses                  | ❑                                         
 Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)
 NPC Map Locations                 | [✓](NPCMapLocations/i18n/th.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)
 SMAPI                             | [✓](smapi-internal/i18n/th.json)                               | [SMAPI.io](https://smapi.io/)
+Stardrop                          | [✓](Stardrop/i18n/th.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10455)
 Tractor Mod                       | [✓](TractorMod/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)
 UI Info Suite                     | [✓](UI%20Info%20Suite/i18n/th.json)                            | [↻](https://github.com/cdaragorn/Ui-Info-Suite/pull/79)
 UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)
