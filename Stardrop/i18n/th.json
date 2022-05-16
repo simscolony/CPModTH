@@ -1,0 +1,209 @@
+{
+  // Main Window - Menu Items
+  "ui.main_window.menu_items.add_mod": "เพิ่มม็อด",
+  "ui.main_window.menu_items.start_smapi": "เริ่ม SMAPI",
+  "ui.main_window.menu_items.exit": "ปิด",
+  "ui.main_window.menu_items.settings": "ตั้งค่า",
+  "ui.main_window.menu_items.stardrop_log_file": "ไฟล์บันทึก Stardrop",
+  "ui.main_window.menu_items.smapi_log_file": "ไฟล์บันทึก SMAPI",
+  "ui.main_window.menu_items.refresh_mod_list": "รีเฟรชรายการม็อด",
+  "ui.main_window.menu_items.check_for_mod_updates": "ตรวจสอบการอัปเดตม็อด",
+  "ui.main_window.menu_items.enable_all_mods": "เปิดใช้งานม็อดทั้งหมด",
+  "ui.main_window.menu_items.disable_all_mods": "ปิดการใช้งานม็อดทั้งหมด",
+  "ui.main_window.menu_items.check_for_stardrop_update": "ตรวจสอบการอัปเดต Stardrop",
+  "ui.main_window.menu_items.stardrop_repository": "Stardrop Repository", // TODO
+  "ui.main_window.menu_items.nexus_install_all": "Install All Updates", // TODO
+  "ui.main_window.menu_items.nexus_connection": "API Connection", // TODO
+  "ui.main_window.menu_items.check_for_SMAPI_update": "Check for SMAPI Update", // TODO
+
+  // Main Window - Menu Items - Context
+  "ui.main_window.menu_items.context.show_requirements": "แสดงความต้องการของม็อด",
+  "ui.main_window.menu_items.context.hide_requirements": "ซ่อนความต้องการของม็อด",
+  "ui.main_window.menu_items.context.cancel": "ยกเลิก",
+  "ui.main_window.menu_items.context.open_containing_folder": "เปิดโฟลเดอร์",
+  "ui.main_window.menu_items.context.open_mod_page": "เปิดหน้าเพจม็อด",
+  "ui.main_window.menu_items.context.delete": "ลบ",
+
+  // Main Window - Menu Headers
+  "ui.main_window.menu_headers.file": "ไฟล์",
+  "ui.main_window.menu_headers.view": "มุมมอง",
+  "ui.main_window.menu_headers.tools": "เครื่องมือ",
+  "ui.main_window.menu_headers.nexus": "Nexus Mods", // TODO
+
+  "ui.main_window.menu_headers.enabled": "เปิดใช้งาน",
+  "ui.main_window.menu_headers.mod_name": "ชื่อม็อด",
+  "ui.main_window.menu_headers.unique_id": "Unique ID", // TODO
+  "ui.main_window.menu_headers.author": "ผู้เขียน",
+  "ui.main_window.menu_headers.requirements": "ความต้องการ",
+  "ui.main_window.menu_headers.missing_requirements": "ม็อดที่ไม่ได้ติดตั้ง",
+  "ui.main_window.menu_headers.version": "เวอร์ชั่น",
+  "ui.main_window.menu_headers.configuration": "การกำหนดค่า",
+  "ui.main_window.menu_headers.status": "สถานะ",
+  "ui.main_window.menu_headers.endorsement": "Endorsement", // TODO
+  "ui.main_window.menu_headers.nexus_install": "Nexus Mods Updates", // TODO
+
+  // Main Window - Labels
+  "ui.main_window.labels.profile": "โปรไฟล์",
+  "ui.main_window.labels.enabled_mods": "ม็อดที่เปิดใช้งาน: ",
+  "ui.main_window.labels.total_mods": "ม็อดทั้งหมด: ",
+  "ui.main_window.labels.updatable_mods": "Mods Ready to Update: ", // TODO
+  "ui.main_window.labels.filter": "กรอง",
+  "ui.main_window.labels.unknown_SMAPI": "Unknown SMAPI version", // TODO
+
+  // Main Window - Hyperlinks
+  "ui.main_window.hyperlinks.click_to_open": "คลิกเพื่อเปิด",
+  "ui.main_window.hyperlinks.update_available": "มีการอัปเดต ({0})",
+  "ui.main_window.hyperlinks.unofficial_update_available": "มีการอัปเดตอย่างไม่เป็นทางการ ({0})",
+  "ui.main_window.hyperlinks.broken_compatibility_issue": "[ใช้งานไม่ได้] ปัญหาความเข้ากันได้",
+  "ui.main_window.hyperlinks.install_update": "Install Update", // TODO
+  "ui.main_window.hyperlinks.downloading": "Downloading...", // TODO
+  "ui.main_window.hyperlinks.installing": "Installing...", // TODO
+
+  // Main Window - Buttons
+  "ui.main_window.buttons.save_configs": "บันทึกการกำหนดค่า",
+  "ui.main_window.buttons.hide_disabled_mods": "ซ่อนม็อดที่ปิดใช้งาน",
+  "ui.main_window.buttons.show_updatable_mods": "แสดงม็อดที่อัปเดตได้",
+
+  // Main Window - Buttons - Update Status
+  "ui.main_window.button.update_status.generic": "ม็อดพร้อมที่จะอัปเดต: คลิกเพื่อรีเฟรช",
+  "ui.main_window.button.update_status.updating": "กำลังอัปเดต...",
+  "ui.main_window.button.update_status.list_available_updates": "ม็อดพร้อมที่จะอัปเดต: {0}",
+  "ui.main_window.button.update_status.failed": "ตรวจสอบการอัปเดตม็อดล้มเหลว",
+
+  // Main Window - ComboBox
+  "ui.main_window.combobox.show_all_mods": "แสดงม็อดทั้งหมด",
+  "ui.main_window.combobox.hide_enabled_mods": "ซ่อนม็อดที่เปิดใช้งาน",
+  "ui.main_window.combobox.mod_name": "ชื่อม็อด",
+  "ui.main_window.combobox.author": "ผู้เขียน",
+  "ui.main_window.combobox.requirements": "ความต้องการ",
+
+  // Settings Window - Labels
+  "ui.settings_window.labels.smapi_path": "เส้นทางของ SMAPI",
+  "ui.settings_window.labels.mod_path": "เส้นทางของโฟลเดอร์ม็อด",
+  "ui.settings_window.labels.mod_install": "เส้นทางม็อดที่ถูกติดตั้งผ่าน Stardrop",
+  "ui.settings_window.labels.themes": "ธีม",
+  "ui.settings_window.labels.languages": "ภาษา",
+  "ui.settings_window.labels.miscellaneous": "เบ็ดเตล็ด",
+  "ui.settings_window.labels.nexus": "Nexus Mods", // TODO
+  "ui.settings_window.labels.preferred_server": "Preferred Server:", // TODO
+
+  // Settings Window - Buttons
+  "ui.settings_window.buttons.ignore_hidden_folders": "ละเว้นโฟลเดอร์ที่ซ่อนอยู่",
+  "ui.settings_window.buttons.enable_profile_specific_mod_configs": "เปิดใช้งานการกำหนดค่าม็อดเฉพาะโปรไฟล์",
+  "ui.settings_window.buttons.always_ask_for_NXM_installs": "Always Ask Before Installing NXM Files", // TODO
+  "ui.settings_window.buttons.register_nxm_association": "Register NXM Association", // TODO
+
+  // Settings Window - Tooltips
+  "ui.settings_window.tooltips.smapi": "เส้นทางของไฟล์ StardewModdingAPI",
+  "ui.settings_window.tooltips.mod_folder_path": "เส้นทางของโฟลเดอร์ม็อด",
+  "ui.settings_window.tooltips.mod_install_path": "เส้นทางโฟลเดอร์ที่ Stardrop จะวางม็อดที่เพิ่งติดตั้งใหม่ ต้องอยู่ภายใต้โฟลเดอร์ที่ระบุใน \"เส้นทางของโฟลเดอร์ม็อด\"",
+  "ui.settings_window.tooltips.theme": "ธีมปัจจุบันของ Stardrop",
+  "ui.settings_window.tooltips.language": "ภาษาปัจจุบันของ Stardrop",
+  "ui.settings_window.tooltips.ignore_hidden_folders": "หากเลือกไว้ Stardrop จะไม่สนใจม็อดใดๆ ที่มีโฟลเดอร์หลักที่ขึ้นต้นด้วย \".\"",
+  "ui.settings_window.tooltips.nxm_file_association": "Registers NXM protocol to be associated with Stardrop, allowing for direct installs from www.nexusmods.com.", // TODO
+  "ui.settings_window.tooltips.always_ask_nxm_files": "If checked, Stardrop will always ask before installing a mod from www.nexusmods.com via NXM.", // TODO
+  "ui.settings_window.tooltips.enable_profile_specific_configs": "หากเลือกไว้ Stardrop จะบันทึกและกู้คืนไฟล์ config.json จากม็อดเมื่อสลับโปรไฟล์",
+  "ui.settings_window.tooltips.preferred_server": "Sets your preferred server to use when downloading from Nexus Mods.", // TODO
+  "ui.settings_window.tooltips.save_changes": "บันทึกการเปลี่ยนแปลง",
+  "ui.settings_window.tooltips.cancel_changes": "ยกเลิก",
+
+  // Nexus Login Window - Buttons
+  "ui.nexus_login.buttons.nexus": "Go to Nexus Mods", // TODO
+  "ui.nexus_login.buttons.disconnect": "Disconnect From Nexus", // TODO
+
+  // Nexus Login Window - Labels
+  "ui.nexus_login.labels.note": "Please Note", // TODO
+  "ui.nexus_login.labels.get_key": "Get your Personal API key from Nexus Mods", // TODO
+  "ui.nexus_login.labels.get_key_actual": "Get your Stardrop API key from Nexus Mods", // TODO
+  "ui.nexus_login.labels.paste": "Then paste the key below", // TODO
+  "ui.nexus_login.labels.share_warning": "Don't share your personal API key with others, doing so may result in actions against your Nexus account.", // TODO
+  "ui.nexus_login.labels.share_warning_actual": "Don't share your API key with others, doing so may result in actions against your Nexus account.", // TODO
+  "ui.nexus_login.labels.revoke": "You may reset / revoke your key at any time by going to My Nexus Account > API > Personal API Key.", // TODO
+  "ui.nexus_login.labels.revoke_actual": "You may reset / revoke your Stardrop API key at any time by going to My Nexus Account > API > Stardrop.", // TODO
+  "ui.nexus_login.labels.nexus_details": "Nexus Mods User Details", // TODO
+  "ui.nexus_login.labels.nexus_disconnect": "Click the button below to have Stardrop forget your personal key and disconnect from Nexus Mods.", // TODO
+  "ui.nexus_login.labels.nexus_disconnect_actual": "Click the button below to have Stardrop forget your Stardrop API key and disconnect from Nexus Mods.", // TODO
+  "ui.nexus_login.labels.username": "Username: {0}", // TODO
+  "ui.nexus_login.labels.is_premium": "Is Premium Member: {0}", // TODO
+
+  // Warnings
+  "ui.warning.unable_to_add_profile": "ไม่สามารถเพิ่ม {0} โปรไฟล์มีอยู่แล้วภายใต้ชื่อนั้น!",
+  "ui.warning.given_mod_folder_does_not_exist": "ไม่มีเส้นทางของโฟลเดอร์ม็อดที่ระบุ\n\nกำลังย้อนกลับไปยังเส้นทางก่อนหน้า",
+  "ui.warning.given_install_folder_not_exist": "ไม่มีเส้นทางโฟลเดอร์ม็อดที่ถูกติดตั้งผ่าน Stardrop ที่ระบุ\n\nกำลังเปลี่ยนกลับเป็นเส้นทางก่อนหน้า",
+  "ui.warning.given_install_folder_not_exist_default": "The given Stardrop installed mods folder path doesn't exist.\n\nReverting to default path.", // TODO
+  "ui.warning.given_install_folder_not_under_mod_folder": "เส้นทางโฟลเดอร์ม็อดที่ติดตั้งผ่าน Stardrop ที่ระบุ ไม่มีอยู่ใน {0}\n\nกำลังเปลี่ยนกลับเป็นเส้นทางก่อนหน้า",
+  "ui.warning.given_invalid_smapi_executable": "ไฟล์ที่ระบุไม่ใช่ {0}\n\nกำลังย้อนกลับไปยังเส้นทางก่อนหน้า",
+  "ui.warning.stardrop_locked": "Stardrop ถูกล็อคในขณะที่ SMAPI กำลังทำงาน การเปลี่ยนแปลงใดๆ ที่ทำขึ้นจะไม่มีผลจนกว่า SMAPI จะปิดลง",
+  "ui.warning.stardrop_downloading": "Downloading the latest version of Stardrop.", // TODO
+  "ui.warning.SMAPI_downloading": "Downloading the latest version of SMAPI from GitHub.", // TODO
+  "ui.warning.SMAPI_installing": "Updating SMAPI to the latest version.", // TODO
+  "ui.warning.mod_installing": "Installing {0}", // TODO
+  "ui.warning.mod_updating": "Updating {0}", // TODO
+
+  "ui.warning.unable_to_locate_smapi": "ไม่พบ StardewModdingAPI.exe\n\nโปรดตั้งค่าเส้นทางไฟล์ที่ถูกต้องใน\nมุมมอง > ตั้งค่า",
+  "ui.warning.mod_config_saved_but_not_enabled": "บันทึกการตั้งค่าการกำหนดค่าม็อดไปที่โปรไฟล์ {0} อย่างไรก็ตาม การกำหนดค่าม็อดเฉพาะโปรไฟล์ไม่ได้เปิดใช้งาน\n\nไปที่ มุมมอง > ตั้งค่า และตรวจสอบ \"เปิดใช้งานการกำหนดค่าม็อดเฉพาะโปรไฟล์\" เพื่อให้ Stardrop บันทึกและใช้การเปลี่ยนแปลงการกำหนดค่าม็อดโดยอัตโนมัติ",
+  "ui.warning.unable_to_determine_profile": "ไม่สามารถระบุโปรไฟล์ที่เลือกได้\n\nSMAPI จะไม่เริ่มทำงาน",
+  "ui.warning.stardrop_up_to_date": "Stardrop เป็นข้อมูลล่าสุด\n\n{0} เป็นเวอร์ชันล่าสุด",
+  "ui.warning.stardrop_unable_to_download_latest": "Unable to download the latest release for Stardrop.\n\nPlease download the latest version manually.", // TODO
+  "ui.warning.stardrop_unable_to_find_latest": "Unable to check Stardrop's GitHub repository for an update.\n\nPlease check GitHub for a possible update or try again later.", // TODO
+  "ui.warning.stardrop_update_downloaded": "Downloaded the latest version successfully.\n\nStardrop will now restart.", // TODO
+  "ui.warning.SMAPI_unable_to_download_latest": "Unable to download the latest release of SMAPI.\n\nPlease download the latest version manually.", // TODO
+  "ui.warning.SMAPI_unable_to_install_latest": "Unable to install the latest release of SMAPI.\n\nPlease download the latest version manually.", // TODO
+  "ui.warning.update_cooldown_minutes": "สามารถขออัพเดทได้ทุกๆ 5 นาทีเท่านั้น\n\nโปรดลองอีกครั้งใน {0} นาที",
+  "ui.warning.update_cooldown_seconds": "สามารถขออัพเดทได้ทุกๆ 5 นาทีเท่านั้น\n\nโปรดลองอีกครั้งใน {0} วินาที",
+  "ui.warning.unable_to_locate_log": "ไม่พบ SMAPI-latest.txt! จะต้องเปิดใช้งาน SMAPI อย่างน้อย 1 ครั้ง เพื่อให้ Stardrop ตรวจพบรายละเอียดของเกม",
+  "ui.warning.unable_to_read_log": "ไม่สามารถอ่านไฟล์บันทึกของ SMAPI เพื่อหาเวอร์ชันเกม\n\nม็อดจะไม่ถูกตรวจสอบการอัปเดต",
+  "ui.warning.no_manifest": "ไม่พบ manifest.json ใน \"{0}\"",
+  "ui.warning.unable_to_load_mod": "ไม่สามารถโหลดไฟล์ที่อยู่ใน \"{0}\"\n\nดูไฟล์บันทึกสำหรับข้อมูลเพิ่มเติม",
+  "ui.warning.unable_to_validate_nexus_key": "Unable to validate Nexus Mod API key.\n\nPlease verify the key is correct and try again.", // TODO
+  "ui.warning.download_without_premium": "You must have a premium Nexus Mods membership to download via Stardrop.", // TODO
+  "ui.warning.no_downloads_available": "There are currently no mods with updates available from Nexus Mods.", // TODO
+  "ui.warning.failed_nexus_install": "Failed to install the mod {0} due a connection issue with Nexus Mods.\n\nPlease try again.", // TODO
+  "ui.warning.unable_nexus_install": "Unable to install the mod {0}.", // TODO
+  "ui.warning.unable_to_endorse": "Unable to set the endorsement state:\n\n{0}", // TODO
+  "ui.warning.mod_owned": "You are the owner of this mod.", // TODO
+  "ui.warning.too_soon_after_download": "You must wait 15 minutes after downloading this mod.\n\nAttempting to endorse will reset this timer.", // TODO
+  "ui.warning.not_downloaded": "You must download this mod from Nexus Mods in order to endorse it.", // TODO
+  "ui.warning.failed_to_get_mod_details": "Failed to get the mod details from the NXM link: {0}", // TODO
+  "ui.warning.failed_to_get_download_link": "Failed to get the download url from Nexus Mods via the NXM link: {0}", // TODO
+  "ui.warning.failed_to_set_association": "Failed to register the NXM protocol with Stardrop.\n\nSee log for details.", // TODO
+  "ui.warning.already_associated": "Stardrop is already associated with the NXM protocol.", // TODO
+
+  // Messages
+  "ui.message.confirm_mod_deletion": "คุณแน่ใจหรือว่าต้องการลบ {0}? การดำเนินการนี้ไม่สามารถยกเลิกได้",
+  "ui.message.unsaved_config_changes": "ตรวจพบการเปลี่ยนแปลงการกำหนดค่าม็อด ที่ไม่ได้บันทึกสำหรับโปรไฟล์ {0}\n\nคุณต้องการบันทึกการเปลี่ยนแปลงหรือไม่?",
+  "ui.message.stardrop_update_available": "มีการอัปเดต (v{0}) สำหรับ Stardrop\n\nคุณต้องการดาวน์โหลดตอนนี้?",
+  "ui.message.SMAPI_update_available": "An update (v{0}) is available for SMAPI.\n\nWould you like to download it now?", // TODO
+  "ui.message.stardrop_update_complete": "Stardrop updated successfully.\n\nWould you like to see the release notes?", // TODO
+  "ui.message.SMAPI_update_complete": "SMAPI updated successfully.\n\nWould you like to see the release notes?", // TODO
+  "ui.message.confirm_bulk_change_mod_states_enable": "เปิดใช้งานม็อดทั้งหมด?\n\nหมายเหตุ: การดำเนินการนี้ไม่สามารถยกเลิกได้",
+  "ui.message.confirm_bulk_change_mod_states_disable": "ปิดการใช้งานม็อดทั้งหมด?\n\nหมายเหตุ: การดำเนินการนี้ไม่สามารถยกเลิกได้",
+  "ui.message.confirm_mod_update_method": "ตรวจพบ {0} เวอร์ชันก่อนหน้าแล้ว คุณต้องการล้างการติดตั้งก่อนหน้านี้หรือไม่?\n\nหมายเหตุ: โดยปกติแล้ว แนะนำให้ล้างเวอร์ชันก่อนหน้า อย่างไรก็ตาม ไฟล์ปรับแต่งใดๆ จะสูญหายไป",
+  "ui.message.confirm_mod_update_method_no_config": "A previous version of {0} has been detected. Would you like to clear the previous install?\n\nNote: Clearing previous versions is usually recommended.", // TODO
+  "ui.message.confirm_mod_update_method_preserved": "A previous version of {0} has been detected. Would you like to clear the previous install?\n\nNote: Clearing previous versions is usually recommended and your config files will be restored.", // TODO
+  "ui.message.confirm_nxm_association": "Would you like to associate the NXM protocol with Stardrop?\n\nThis will allow Stardrop to automatically install mods downloaded from Nexus Mods.", // TODO
+  "ui.message.confirm_nxm_install": "Would you like to install the following mod:\n\n{0}\n\nYou can disable this confirmation in the settings menu.", // TODO
+  "ui.message.require_nexus_login": "This action requires being signed into the Nexus Mods API.", // TODO
+  "ui.message.succeeded_nexus_install": "Successfully installed the following mod via Nexus Mods:\n\n{0}", // TODO
+
+  // Window Names
+  "ui.window.setting.name": "การตั้งค่า",
+  "ui.window.profiles.name": "โปรไฟล์",
+  "ui.window.profile_naming.name": "ชื่อโปรไฟล์",
+  "ui.window.nexus_login.name": "Nexus Mods Personal API Key", // TODO
+  "ui.window.nexus_login_actual.name": "Nexus Mods API Key", // TODO
+  "ui.window.nexus_user.name": "Nexus Mods User Details", // TODO
+
+  // Internals
+  "internal.connected": "Connected", // TODO
+  "internal.disconnected": "Disconnected", // TODO
+  "internal.unknown": "ไม่ทราบ",
+  "internal.enable": "เปิดใช้งาน",
+  "internal.disable": "ปิดการใช้งาน",
+  "internal.yes": "ใช่",
+  "internal.yes_all": "Yes to All", // TODO
+  "internal.no": "ไม่",
+  "internal.no_all": "No to All", // TODO
+  "internal.ok": "ตกลง",
+  "internal.unlock": "ปลดล็อค"
+}
