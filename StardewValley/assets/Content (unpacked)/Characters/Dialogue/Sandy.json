@@ -16,20 +16,20 @@
         }
     ],
     "content": {
-        "accept_866": "A Stardew Valley rose? That's so lovely! Thank you!$h#$b#Whenever I miss the valley, I'll smell this rose. Hehe.$h#$b#Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!",
-        "Mon": "Hello hello, sweetie!#$b#I'm so glad that the bus is back in service. It was starting to get lonely out here.#$e#...I almost went out of business.$s#$e#Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?$h",
-        "Tue": "You can find coconuts and cactus fruits outside. Feel free to take as many as you can find.#$e#They're oooh-yummy, too. Heeee!~$h",
-        "Wed": "Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'?#$e#Thanks!$h",
-        "Thu": "That shady-looking guy in the back? I'm not supposed to talk about it.#$e#Anyway... what's the weather like in the valley?",
-        "Fri": "You wouldn't have much luck farming out here, honey.#$e#Well, unless you were a cactus farmer.$h",
-        "Sat": "Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!#$e#*whisper* Did I sound professional?$h#$e#Make sure to check out our seasonal seed selection.#$e#You look really thirsty. Here, have a taste of this ice cold milk. [184]#$e#Tasty, huh?$h",
-        "Sun": "It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.$s",
-        "Thu2": "That shady-looking guy in the back? I'm really not supposed to talk about it.#$e#Anyway... what's the weather like in the valley",
-        "Thu4": "Hey... I think I can trust you. You can keep a secret, right?#$b#*whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions.#$e#SOOOOoo! How's that Stardew Valley weather right now?",
-        "Fri4": "My name's not really Sandy, you know. It's just good for business.#$e#But everyone calls me Sandy anyway, so I've just gotten used to it.",
-        "Wed8": "Isn't it expensive, coming to the desert so often like you do?#$e#You must really like to see me, huh? Hmmm... $h",
-        "Sun8": "Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm...#$e#Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him.",
-        "Wed10": "Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't get depressed.$h",
-        "Tue10": "Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?"
+        "accept_866": "กุหลาบจาก สตาร์ดิวแวลลี่เหรอ? น่ารักจัง ขอบคุณนะ!$h#$b#ถ้าเมื่อไหร่ ที่ฉันคิดถึงหุบเขา ฉันจะดมกุหลาบนี่แล้วกัน ฮิฮิ$h#$b#นี่เอาไปสิ มันอยู่บนชั้นมา 10 ปีแล้ว ไม่มีใครซื้อเลย เธอเอาไปได้นะ!",
+        "Mon": "หวัดดี โอ้ สวัสดีจ๊ะที่รัก!#$b#ฉันดีใจจริงๆ ที่รถบัสนั่น กลับมาใช้งานได้อีกครั้ง ที่นี่เริ่มไม่ค่อยมีคนแล้วล่ะ#$e#...ฉันเกือบจะขายกิจการ ที่นี่ทิ้งไปแล้ว$s#$e#แต่ดูสิ ตอนนี้เธอก็อยู่นี่แล้วไง เธอจะมาซื้อเมล็ดพันธุ์ของฉัน ยกแผงเลย... ใช่มั้ยจ๊ะที่รัก?$h",
+        "Tue": "เธอจะเจอมะพร้าว และผลกระบองเพชร ได้ที่ข้างนอกนะ เอาไปได้ตามต้องการเลย#$e#และพวกมันก็อร่อยมากด้วย ฮี่ๆ!~$h",
+        "Wed": "ไง สวัสดี! ถ้าเธอเจอเอมิลีเพื่อนของฉัน ฝากทักทายเธอแทนฉันด้วย ได้มั้ยจ๊ะ?#$e#ขอบคุณ!$h",
+        "Thu": "มีผู้ชายที่ดูน่าสงสัย ข้างหลังนั่นเหรอ? ฉันไม่สามารถพูดได้น่ะ#$e#ยังไงก็เถอะ... สภาพอากาศในหุบเขา เป็นยังไงบ้าง?",
+        "Fri": "โชคไม่ดีเลยนะจ๊ะ เธอจะมาทำฟาร์มแถวๆ นี้ ไม่ได้หรอกนะ ที่รัก#$e#ก็ ยกเว้นซะแต่ว่า เธอจะเป็น นักปลูกกระบองเพชร$h",
+        "Sat": "ดีจ้า! ยินดีต้อนรับท่านเข้าสู่ โอเอซิสของแซนดี้ จุดหมายปลายทางอันดับหนึ่ง ของทะเลทรายคาลิโก้!#$e#*กระซิบ* เป็นไง? ฉันดูเป็นมืออาชีพหรือเปล่า?$h#$e#อย่าลืมมาเลือกซื้อ เมล็ดพันธุ์ตามฤดูกาล ของเราด้วยนะ#$e#ดูเธอจะหิวน้ำนะ เอ้านี่ เอานมเย็นๆ ไปดื่ม [184]#$e#อร่อยไหม หือ?$h",
+        "Sun": "ที่นี่มีแดดออกตลอดทั้งปี นั่นแหละ แม้จะเป็นฤดูหนาวก็เถอะ!#$e#อันที่จริง มันออกจะร้อนนิดหน่อย สำหรับฉัน... ผิวของฉันมันไหม้เร็วมาก ถ้าอยู่กลางแดด$s",
+        "Thu2": "ผู้ชายหน้าโหดๆ ข้างหลังนั่นน่ะเหรอ? ฉันว่าอย่าไปพูดถึงเขา เลยดีกว่า#$e#เอ่อ... ว่าแต่ ตอนนี้ในหมู่บ้านอากาศ เป็นยังไงบ้างล่ะ",
+        "Thu4": "เฮ้... ฉันว่าฉันเชื่อใจเธอได้นะ เธอเก็บความลับได้ ใช่มั้ย?#$b#*กระซิบ* ผู้ชายที่อยู่ด้านหลัง... น่าจะเกี่ยวข้องกับคลับพิเศษ อะไรสักอย่าง ฉันไม่เคยเข้าไปเองหรอก แต่พวกเขาใจกว้างจ่ายเงิน ค่าเช่ารายเดือนก้อนโต ฉันก็เลยไม่ถามอะไรอีก#$e#แล้วววววว! อากาศในสตาร์ดิวแวลลี่ เป็นยังไงบ้างละจ๊ะตอนนี้?",
+        "Fri4": "จริงๆ แล้ว ชื่อของฉัน ไม่ใช่แซนดี้หรอกรู้มั้ย มันแค่ชื่อทางธุรกิจน่ะ#$e#แต่ก็นะ ใครๆ ก็เรียกชั้นว่าแซนดี้ กันทั้งนั้นแหละ ฉันก็เลยชิน กับชื่อนี้ไปซะแล้ว",
+        "Wed8": "เธอมาที่ทะเลทรายนี่บ่อยๆ ไม่เปลืองเงินค่ารถหรือไง?#$e#เธอต้องชอบมาหาฉันมากแน่ๆ ใช่มั้ย? หืมมม...$h",
+        "Sun8": "ไงจ๊ะที่รัก ใช่สิ ที่นี่ก็มีแต่ฉันนี่แหละ ในร้านเก่าๆ นี่ อืมมม...#$e#ก็แบบ ที่จริงก็มีอีกคนนะ ผู้ชายท่าทางน่ากลัวๆ ข้างหลังนั่นไง แต่เขาแทบจะไม่ขยับตัวด้วยซ้ำ ฉันก็เลยลืมเขาไปบ่อยๆ น่ะ",
+        "Wed10": "เฮ้ นี่มัน @! นี่นา ฉันดีใจที่ได้เจอเธอนะ ฉันเริ่มคิดว่า เธอจะไม่กลับมาแล้วรู้มั้ย!#$e#ถ้าไม่ติด ว่าฉันต้องมาเฝ้าร้านนี่ ฉันก็อยากจะกลับไป เยี่ยมหมู่บ้านพร้อมกับเธอ สักวันสองวันเหมือนกัน... แค่เธอกับฉัน ที่ฟาร์มเก่าๆ$s#$e#เธอต้องมาหาฉัน ให้บ่อยกว่านี้นะรู้มั้ย ฉันจะได้ไม่เหงาไง$h",
+        "Tue10": "ไงจ๊ะ~! เชิญตามสบายนะ#$e#เครื่องปรับอากาศเนี่ย ช่วยให้รู้สึกเยี่ยมไปเลย ใช่มั้ยล่ะ?"
     }
 }

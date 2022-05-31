@@ -53,17 +53,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Watching a movie with mom sure brings me back!"
+                            "Text": "ดูหนังกับแม่งั้นเหรอ เอาสิน่าสนุกจัง!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"(Pam and Penny are watching intently!)\"",
+                            "Script": "/message \"(แพมและเพนนี กำลังดูอย่างตั้งใจ!)\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It's great to be able to do things as a family again!"
+                            "Text": "ฉันว่ามันคือเรื่องที่ดีนะ ที่ได้ทำอะไรกับครอบครัว อีกรอบ!"
                         }
                     },
                     "ID": "reaction_0"
@@ -76,17 +76,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm looking forward to this! Jas and Vincent have been talking about it non-stop."
+                            "Text": "ฉันตั้งตารอ แจสและวินเซนท์ เอาแต่พูดถึงมัน"
                         },
                         "DuringMovie": {
                             "ResponsePoint": "sprout_leave",
-                            "Script": "/shake Penny 3000/pause 500/message \"Penny seems to be holding back some tears...\"",
-                            "Text": "Wow, it must be really hard leaving his family like that...$s"
+                            "Script": "/shake Penny 3000/pause 500/message \"ดูเหมือนเพนนีกำลัง กลั้นน้ำตาเอาไว้...\"",
+                            "Text": "ว้าว..มันคงยากมากแน่ๆ ที่จะอยู่ห่างจากครอบครัว เหมือนกับเขา...$s"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Thanks for taking me to this, I can't wait to tell the kids how good it was!"
+                            "Text": "ขอบคุณที่ชวนฉันมาที่นี่นะ ฉันแทบรอไม่ไหวที่จะบอกเด็กๆ ว่ามันดีแค่ไหน!"
                         }
                     },
                     "ID": "reaction_1"
@@ -106,17 +106,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Oh, '{0}'! This looks wholesome and fun!"
+                            "Text": "โอ้... '{0}'! มันดูดีต่อสุขภาพ และน่าสนใจ!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"(Penny is smiling)\"",
+                            "Script": "/message \"(เพนนีกำลังยิ้ม)\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I should totally bring the kids to see this sometime!"
+                            "Text": "ฉันว่าฉันควรพาเด็กๆ มาดูหนังเรื่องนี้นะ!"
                         }
                     },
                     "ID": "reaction_3"
@@ -129,17 +129,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm excited, I'm in the mood for a good laugh!"
+                            "Text": "ฉันตื่นเต้นจังเลย ฉันกลั้นขำเอาไว้ ไม่ไหวแล้ว!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Did they just...?! Hahahaha!"
+                            "Text": "นี่พวกเค้าพึ่ง...?! ฮ่าาาาา!"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Whew, I've got a cramp from all that laughing...!"
+                            "Text": "ว้าว... ฉันหัวเราะจน หายใจไม่ทันเลย ฮ่าฮ่าฮ่า...!"
                         }
                     },
                     "ID": "reaction_4"
@@ -152,17 +152,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm a little nervous... I don't usually watch scary movies.$s"
+                            "Text": "ฉันรู้สึกกังวลนิดหน่อย ปกติแล้วฉันไม่ดู หนังสยองขวัญหรอก$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "/shake Penny 3000/pause 500/emote Penny 28",
-                            "Text": "I can't look...$s"
+                            "Text": "ฉันไม่อยากดูเลย...$s"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I hope I don't have nightmares tonight!$s"
+                            "Text": "ฉันหวังว่า ฉันจะไม่ฝันร้ายนะคืนนี้!$s"
                         }
                     },
                     "ID": "reaction_5"
@@ -175,13 +175,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Oooh, I've been dying to see this!"
+                            "Text": "โอ้... ฉันอยากจะดูเรื่องนี้ อยู่พอดีเลย!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Amazing! I hope they make another one!"
+                            "Text": "ประทับใจจัง! ฉันหวังว่าหนังจะมีภาคต่อนะ!"
                         }
                     },
                     "ID": "reaction_6"
@@ -194,13 +194,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey, I've heard some good things about this one!"
+                            "Text": "เฮ้... ฉันได้ยินว่าเรื่องนี้ มันดีมากเลยละนะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was great! Thanks for seeing this with me!"
+                            "Text": "หนังดีมากเลย! ขอบคุณที่ชวนฉันมานะ!"
                         }
                     },
                     "ID": "reaction_7"
@@ -213,7 +213,7 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I can't say I would've picked this one myself, but I'll try to keep an open mind..."
+                            "Text": "ฉันว่าหนังเรื่องนี้ ไม่ใช่แนวฉันนะ แต่ว่าฉันจะลองดูละกัน..."
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
@@ -223,7 +223,7 @@
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Sorry if I ruined the movie for you, it just wasn't really my favorite..."
+                            "Text": "ขอโทษทีนะที่ฉันทำ ให้เธอดูหนังไม่สนุกน่ะ มันไม่ใช่แนวหนัง ที่ฉันชอบน่ะ..."
                         }
                     },
                     "ID": "reaction_8"
@@ -236,7 +236,7 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Ooh, '{0}'! I saw this one with {2}!"
+                            "Text": "โอ้ '{0}'! ฉันเคยดูหนังเรื่องนี้กับ {2} แล้วล่ะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": null
@@ -251,7 +251,7 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I saw this with {2}, it was pretty good!"
+                            "Text": "ฉันเคยดูเรื่องนี้กับ {2} แล้วล่ะมันสนุกดีนะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": null
@@ -266,7 +266,7 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hmm, I think {2} took me to see this..."
+                            "Text": "อืม ฉันจำได้ว่า {2} เคยพาฉันมาดูเรื่องนี้แล้ว..."
                         },
                         "DuringMovie": null,
                         "AfterMovie": null
@@ -286,13 +286,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey, kid. Thanks for inviting me."
+                            "Text": "เฮ้เจ้าหนู ขอบคุณที่ชวนฉันมาดูนะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Heh, that wasn't too bad!"
+                            "Text": "เฮ้ หนังมันก็สนุกดีนะ!"
                         }
                     },
                     "ID": "reaction_0"
@@ -310,17 +310,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Psst... Hey, it's me, Krobus. Could you recognize me?$8#$b#If anyone approaches us, you do the talking, okay?$8"
+                            "Text": "ชู่วววววว เฮ้ นี่ฉันเอง โครบัส นายจำฉันได้ไหม?$8#$b#ถ้ามีใครเข้าใกล้เรา นายก็เตือนฉันนะ?$8"
                         },
                         "DuringMovie": {
                             "ResponsePoint": "mysterium_shadow",
-                            "Script": "/message \"Krobus is stewing...\"",
-                            "Text": "Not all shadow people are like that!$8"
+                            "Script": "/message \"โครบัส กำลังบ่น...\"",
+                            "Text": "พวกเงาก็ไม่ได้เป็นแบบนั้น กันทั้งหมดนะ!$8"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm not used to wearing clothes... It's very uncomfortable!$8"
+                            "Text": "ฉันไม่ค่อยชินกับการใส่เสื้อผ้า... มันอึดอัดมาก!$8"
                         }
                     },
                     "ID": "reaction_0"
@@ -333,13 +333,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*ahem*... Hello! I am very excited to be at the visual entertainment center and to consume the popped corn... just like you!$8#$b#*whisper*... how am I doing?$8"
+                            "Text": "*อ่ะแฮ่ม*... สวัสดี! ฉันตื่นเต้นมากที่ได้มาอยู่ที่ ศูนย์รวมความบันเทิง ทางสายตาและกินป๊อปคอร์น... เช่นเดียวกับพวกคุณ!$8#$b#*กระซิบ*... ฉันเป็นยังไงบ้าง?$8"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "So, your species enjoys staring at flickering lights for hours on end? Very interesting...$8"
+                            "Text": "สายพันธุ์ของคุณสนุกกับ การจ้องมองไฟกะพริบ เป็นเวลาหลายชั่วโมงจนจบ น่าสนใจมาก...$8"
                         }
                     },
                     "ID": "reaction_1"
@@ -357,17 +357,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I sense an arcane power permeating this building tonight..."
+                            "Text": "ข้าสัมผัสได้ถึงพลังลึกลับ ที่แทรกแซงอาคารคืนนี้..."
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"There's a twinkle in Wizard's eye...\"",
-                            "Text": "And to think... the layman has no idea that this is all raw, real footage!"
+                            "Script": "/message \"ดวงตาของพ่อมดเป็นประกาย...\"",
+                            "Text": "และลองนึกดูสิ... พวกคนธรรมดา ไม่อาจรู้ได้เลยว่า ภาพเคลื่อนไหวพวกนี้ มันเป็นของจริง ถ่ายสดๆ เลยน่ะ!"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "For those aware of the esoteric mysteries, that had deep significance..."
+                            "Text": "สำหรับผู้ที่ตระหนัก ถึงความลึกลับ ที่ไม่ค่อยมีใครรู้น่ะนะ นั่นมันมีคุณค่าลึกซึ้งเลย..."
                         }
                     },
                     "ID": "reaction_1"
@@ -386,7 +386,7 @@
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "You pulled me from my studies for *this*?"
+                            "Text": "เจ้าลากข้าออกจาก ห้องทำงานเพื่อ *สิ่งนี้* น่ะนะ?"
                         }
                     },
                     "ID": "reaction_0"
@@ -425,13 +425,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "The newspaper gave this one '5 stars', so I'm willing to give it a go."
+                            "Text": "หนังสือพิมพ์ ให้หนังเรื่องนี้ '5 ดาว' อย่างนั้นฉันก็เต็มใจจะ ลองดูน่ะนะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Heh! That was actually pretty good! Thanks for inviting me."
+                            "Text": "เฮ้! หนังนั่นมันเยี่ยมมาก ขอบคุณที่เชิญฉันมา"
                         }
                     },
                     "ID": "reaction_3"
@@ -444,13 +444,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hmph... Theaters aren't like they used to be... But the picture might be good enough."
+                            "Text": "ฮึ่ม... โรงหนังไม่เหมือนที่เคยเป็น.. แต่มันอาจดีนะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Heh. Compared to most movies these days, it wasn't bad.$h"
+                            "Text": "เฮ้ เมื่อเทียบกับหนังส่วนใหญ่ เรื่องนี้มันก็ไม่ได้เลวร้ายนะ$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -463,13 +463,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hmph... I'll take a nap during this one."
+                            "Text": "ฮึ่ม... ตอนนี้ฉันจะงีบสักหน่อย"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Shameful! The trash they pass for 'movies' these days... "
+                            "Text": "น่าอับอาย! ทุกวันนี้เหมือนพวกเขา ทำหนังห่วยๆมาให้ดูเลย... "
                         }
                     },
                     "ID": "reaction_5"
@@ -501,13 +501,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This one's supposed to be pretty funny, I'm looking forward to it."
+                            "Text": "มันน่าจะสนุกมาก ผมจะตั้งตารอมัน"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hah! I really liked it. But I dunno if I could survive on gluten pucks like that."
+                            "Text": "เฮ้! ผมชอบมันจริงๆ แต่ผมไม่รู้ว่า ผมจะสามารถอยู่รอดได้ เหมือนในหนังรึเปล่า"
                         }
                     },
                     "ID": "reaction_2"
@@ -520,13 +520,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I've been wanting to see this one for a while. Thanks for the ticket, @!"
+                            "Text": "ผมอยากดูเรื่องนี้ มานานแล้ว ขอบคุณที่เชิญผมนะ @!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was great! My legs are still tingling with the excitement."
+                            "Text": "หนังมันเร้าใจมากเลย! ผมยังไม่หาย ขนลุกเลยนะเนี่ย"
                         }
                     },
                     "ID": "reaction_3"
@@ -539,13 +539,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey, I'm pretty excited to see a movie! I'm gonna need a snack, though..."
+                            "Text": "เฮ้ ผมตื่นเต้นมากที่ได้ดูหนัง! แต่กินขนมไปด้วย ดูหนังไปด้วย ผมว่ามันคงจะดีนะ..."
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey, that was pretty good. Thanks for inviting me to this, @."
+                            "Text": "เฮ้ หนังเรื่องนี้สนุกมากเลยนะ ขอบคุณที่เชิญผมมา @"
                         }
                     },
                     "ID": "reaction_4"
@@ -558,13 +558,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This movie seems kind of nerdy, but I'll give it a shot."
+                            "Text": "หนังเรื่องนี้ดูน่าเบื่อนะผมว่า แต่ผมจะลองดูละกัน"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I can't tell if that was boring, or if I'm just not smart enough to understand it...$s"
+                            "Text": "ผมบอกไม่ได้ว่า หนังมันน่าเบื่อรึเปล่า หรือผมฉลาดไม่พอ ที่เข้าใจหนังกันนะ...$s"
                         }
                     },
                     "ID": "reaction_5"
@@ -596,13 +596,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Before this theater came to town, I hadn't seen a movie in twenty years!$h"
+                            "Text": "ก่อนที่เมืองนี้จะมีโรงหนัง ยายก็ไม่ได้ดูหนังมา จะยี่สิบปีแล้ว!$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I loved it... now you know why '{0}' is considered a classic."
+                            "Text": "ยายชอบมันนะ... ตอนนี้เธอรู้แล้วว่าทำไม '{0}' ถึงเป็นที่ยอมรับว่า เป็นหนังคลาสสิก"
                         }
                     },
                     "ID": "reaction_2"
@@ -615,13 +615,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It's very kind of you to invite an old lady to the movies.$h"
+                            "Text": "เธอใจดีมากเลยนะ ที่ชวนหญิงชราอย่างยาย มาดูหนังเนี่ย$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm glad they're still making decent movies... I had a lot of fun!"
+                            "Text": "ยายดีใจที่พวกเขายังคง ทำหนังดีๆออกมา... ยายสนุกมาก!"
                         }
                     },
                     "ID": "reaction_3"
@@ -634,17 +634,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I've never been a fan of scary movies, but I'll try to keep an open mind."
+                            "Text": "ยายไม่เคยชอบ หนังสยองขวัญเลย แต่ยายจะพยายาม เปิดใจดูละกัน"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/shake Evelyn 3000/pause 500/message \"Evelyn is covering her eyes.\"",
-                            "Text": "Is it over yet?$s"
+                            "Script": "/shake Evelyn 3000/pause 500/message \"เอวาลินกำลังปิดตาอยู่!\"",
+                            "Text": "หนัง..จบแล้วหรือยัง?$s"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I had to close my eyes during most of it...$s"
+                            "Text": "ยายไม่ได้ดูหนังเลย ทั้งเรื่องยายเอาแต่ ปิดตาอย่างเดียว...$s"
                         }
                     },
                     "ID": "reaction_4"
@@ -669,13 +669,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I grew up watching old sci-fi flicks, so I'm interested to see a modern take on the genre."
+                            "Text": "ฉันดูหนัง ไซ-ไฟ มาตั้งแต่เด็กๆอะนะ ฉันเลยตื่นเต้น ที่จะดูหนังเรื่องนี้ จนจะทนไม่ไหวแล้ว"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hah! It wasn't what I expected, but I ended up really liking it! I really identified with Wumbus.$h"
+                            "Text": "อาห้ะ! มันไม่ได้จบเหมือนกับ ที่ฉันคิดเอาไว้ แต่ว่าตอนจบ มันโดนใจฉันมากเลยล่ะ! ฉันชอบหนังเรื่องนี้จริงๆ$h"
                         }
                     },
                     "ID": "reaction_1"
@@ -688,13 +688,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm usually working all the time, so it's really nice to do something like this."
+                            "Text": "ฉันทำงานมาตลอด เลยไม่ค่อยมีเวลา ฉันว่ามันดีนะ ที่ได้มาพักผ่อนสักหน่อย หลังจากทำงานมานาน"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Not bad! I wonder if they have any merchandise I could stock..."
+                            "Text": "ไม่เลวเลย! ฉันอยากรู้จังว่าที่นี่มีของ ให้ฉันเอาไปขายได้รึเปล่า..."
                         }
                     },
                     "ID": "reaction_2"
@@ -726,17 +726,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I can't believe they made a Prairie King movie... I hope it's good!"
+                            "Text": "ฉันไม่อยากจะเชื่อเลย เค้าทำหนังของเกม บันทึกการผจญภัย เจ้าชายแห่งทะเลทราย... มันต้องดีแน่ๆ เลย!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Listen... it's got that old familiar music.$h"
+                            "Text": "ฟังสิ... ฉันจำเสียงเพลงนั้นได้$h"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Well the acting was awful, but I still had a great time.$h"
+                            "Text": "บางทีในฉากมันก็แปลกๆ นะ โดยรวมมันก็สนุกแหละนะ$h"
                         }
                     },
                     "ID": "reaction_2"
@@ -749,17 +749,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm excited to 'explore our vibrant world'... aren't you?$h"
+                            "Text": "ฉันตื่นเต้นจังที่จะไป 'สำรวจโลก'... ใช่มั้ย?$h"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I didn't know that!"
+                            "Text": "ก็ฉันไม่รู้นี่นา!"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was really interesting. I liked the raccoons the best... they're so cute!$h"
+                            "Text": "มันก็น่าสนใจดีนะ ฉันชอบแร็คคูนที่สุดแล้ว... พวกมันน่ารักอะ!$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -772,17 +772,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I love horror movies... I hope it's scary!$h"
+                            "Text": "ฉันชอบหนังสยองขวัญนะ... ฉันหวังว่ามันจะน่ากลัว!$h"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/shake Abigail 3000/pause 500/message \"Abigail is giggling!\"",
-                            "Text": "Haha! It's not scary, but I love it.$h"
+                            "Script": "/shake Abigail 3000/pause 500/message \"อบิเกลกำลังหัวเราะ!\"",
+                            "Text": "ฮ่าฮ่า! มันไม่ค่อยน่ากลัวเลย แต่ฉันชอบนะ$h"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was pretty campy, but I liked it.$h"
+                            "Text": "ถึงหนังเรื่องนี้ มันจะดูเชยก็เถอะ แต่ฉันก็ชอบมันนะ$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -795,13 +795,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey! Thanks for inviting me, I love going to the movies.$h"
+                            "Text": "เฮ้! ขอบคุณที่ชวนฉันนะ ฉันชอบไปดูหนังที่สุดเลย$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was interesting... I wonder what I would've done in the same situation?"
+                            "Text": "มันน่าสนใจมากเลยนะ หนังเนี่ย... ถ้าฉันไปอยู่ใน สถานการณ์แบบในหนัง ฉันจะทำแบบไหนกันะ?"
                         }
                     },
                     "ID": "reaction_5"
@@ -814,17 +814,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "From seeing the trailer, this one looks like a real snoozefest...$6"
+                            "Text": "ดูจากตัวอย่างหนังแล้วนะ มันน่านอนหลับคาโรงจริงๆ ถ้าได้ดู...$6"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Wake me up if anything interesting happens.$6"
+                            "Text": "ปลุกฉันด้วยนะ ถ้าหนังมันมีอะไรน่าสนใจ$6"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*yawn*... that was pretty boring, wasn't it?$6"
+                            "Text": "*หาว*... มันน่าเบื่อมากๆ เลยนะ ว่ามั้ย?$6"
                         }
                     },
                     "ID": "reaction_6"
@@ -856,13 +856,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I've always loved movies about the wild west, so I'm really excited to see this!"
+                            "Text": "ฉันเป็นแฟนหนังแนวคาวบอย ฉันตื่นเต้นจังเลย ที่จะได้ดูหนังเรื่องนี้!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was great! It really felt authentic, with the costumes and everything."
+                            "Text": "หนังสุดยอดมากเลย! เค้าทำเหมือนในยุคนั้นจริงๆ ทั้งชุดที่พวกเค้าใส่ และก็หลายอย่างด้วย"
                         }
                     },
                     "ID": "reaction_2"
@@ -875,17 +875,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This movie looks so cute, I was really hoping someone would invite me!"
+                            "Text": "หนังเรื่องนี้ดูออกแนวน่ารักๆ นะ ฉันหวังมาตลอดว่าจะมีใคร มาชวนฉันมาดูเรื่องนี้!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I hope the poor little guy will be okay...$s"
+                            "Text": "ฉันหวังว่าเจ้าหนูนั้น จะไม่เป็นอะไรนะ...$s"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was adorable. Thanks so much for inviting me to this!"
+                            "Text": "ขอบคุณนะ ที่ชวนฉันมาดูหนัง ฉันสนุกมากเลย!"
                         }
                     },
                     "ID": "reaction_3"
@@ -898,13 +898,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "'{0}'... I have no idea what this is about! I hope it's not violent."
+                            "Text": "'{0}'... ฉันไม่ได้ดูตัวอย่าง หนังเรื่องนี้มาก่อนเลย! หวังว่า จะไม่มีฉากทำร้ายกันนะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That wasn't bad! I'll have to ask Abigail about it when I'm home, I'm sure she's seen it.$h"
+                            "Text": "ไม่เลวเลย! ฉันต้องรีบกลับบ้านไปคุย เรื่องหนังกับอบิเกลซะแล้ว เธอต้องดูเรื่องนี้แล้วแน่ๆ$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -917,13 +917,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I have a feeling this one's going to be a let-down... But I'm still interested to give it a try."
+                            "Text": "ฉันรู้สึกว่า เรื่องนี้จะต้องไม่สนุกแน่ๆ... แต่ฉันจะลองดูละกัน"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was silly... I bet Pierre would like it.$s"
+                            "Text": "ทำไมมันจบแบบนั้นล่ะ!... ฉันว่าปีแอร์ต้องชอบ หนังแนวนี้แน่นอน$s"
                         }
                     },
                     "ID": "reaction_5"
@@ -941,17 +941,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm nervous about this one... *gulp*"
+                            "Text": "ฉันไม่ค่อยอยากเข้าไปดูเลย... *อึก*"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/shake Harvey 3000/pause 500/message \"Harvey is shaking!\"",
-                            "Text": "I'm scared!$8"
+                            "Script": "/shake Harvey 3000/pause 500/message \"ฮาร์วีย์กำลังตัวสั่น!\"",
+                            "Text": "ฉันกลัว!$8"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I have a fear of heights, so those soaring aerial shots really got to me... Still, I had a good time overall.$h"
+                            "Text": "ฉันกลัวความสูงน่ะ ฉากในหนังมันก็ เข้าจุดฉันเลยล่ะ... แต่ฉันก็สนุกนะ$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -985,17 +985,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I read a glowing review of this movie in the Zuzu City Times..."
+                            "Text": "ฉันเคยอ่านรีวิวเรื่องนี้ มาแล้วนะ..."
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It really makes you think, doesn't it?"
+                            "Text": "คุณคิดอะไรกับเรื่องนี้มั้ย?"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was outstanding! I'm really glad that you brought me out for this, @.$h"
+                            "Text": "นั้นดีมากเลยนะ ผมดีใจนะที่ @ ชวนผมมาดูหนัง$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -1008,13 +1008,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I don't watch a lot of movies, but this one's been well-received, right?"
+                            "Text": "ปกติฉันไม่ค่อยชอบดูหนัง แต่เรื่องนี้มันสมควรดู ถูกมั้ย?"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was interesting! I'm going to be thinking about {0} one for a while."
+                            "Text": "หนังมันติดตามากเลย! ฉันว่าฉันคงคิดถึง {0} นานเลยละ"
                         }
                     },
                     "ID": "reaction_5"
@@ -1027,17 +1027,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This movie seems a little intense for me...$s"
+                            "Text": "เรื่องนี้มันดูไม่ใช่แนวฉันน่ะ...$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/shake Harvey 3000/pause 500/message \"Harvey's blood pressure is skyrocketing!\"",
-                            "Text": "I feel faint...$8"
+                            "Script": "/shake Harvey 3000/pause 500/message \"ความดันของฮาร์วีย์เริ่มสูงขึ้น!\"",
+                            "Text": "ฉันรู้สึกไม่ค่อยดี...$8"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "My body feels inflamed after that movie...$s"
+                            "Text": "ฉันขนลุกไปหมดเลย...$s"
                         }
                     },
                     "ID": "reaction_6"
@@ -1055,13 +1055,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I saw a commercial for this on the TV. It looks really funny!"
+                            "Text": "ฉันเคยเห็น ตัวอย่างหนังเรื่องนี้ ในโทรทัศน์มันดูน่าสนุกนะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "As an amateur connoisseur, the weird obsession with gluten-based food was hilarious.$h"
+                            "Text": "จากการที่ เป็นพ่อครัวมานาน การทำอาหารแบบนั้น มันก็ดูมีระดับนะ$h"
                         }
                     },
                     "ID": "reaction_0"
@@ -1074,13 +1074,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It doesn't feel like the holidays until you've seen '{0}'!"
+                            "Text": "ตอนที่ฉันได้ดูหนังเรื่อง '{0}' ก็เหมือนเป็นวันหยุด ไปเลย!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was heartwarming... and somehow they make that fabled fruit seem so delicious. I'd love to taste it one day."
+                            "Text": "อบอุ่นหัวใจจัง... แต่ฉันอยากจะ ลองชิมผลไม้นั่นสักครั้งนะ"
                         }
                     },
                     "ID": "reaction_1"
@@ -1093,13 +1093,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "They say this movie is 'unconventional'... does that mean it's bad?$s"
+                            "Text": "เค้าบอกกันว่าหนังเรื่องนี้มัน 'แหวกแนว'... มันหมายความว่ามันแย่เหรอ?$s"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "What was the point of that one? I don't get it. Maybe I'm too old.$s"
+                            "Text": "เรื่องนี้จะสื่ออะไรเนี่ย? ดูไม่ค่อยรู้เรื่องเลย บางทีฉันอาจแก่เกิน หนังเรื่องนี้แล้วก็ได้$s"
                         }
                     },
                     "ID": "reaction_3"
@@ -1112,13 +1112,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*sniff* *sniff* ... I smell something delicious..."
+                            "Text": "*ฟุด* *ฟิด* ... ฉันได้กลิ่นความอร่อย..."
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Not bad at all. I'm really glad I came!"
+                            "Text": "ไม่เลวเลย ฉันโชคดีที่ได้มาดูหนังเรื่องนี้!"
                         }
                     },
                     "ID": "reaction_2"
@@ -1136,17 +1136,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I watched cowboy movies when I was a kid... I'm glad to see the art is still alive!"
+                            "Text": "ฉันเคยดูหนังคาวบอย ตอนฉันเป็นเด็ก... ฉันดีใจที่หนังยังคง เป็นเหมือนเมื่อก่อน!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": "PK_villain",
-                            "Script": "/message \"Mayor Lewis seems deep in thought...\"",
-                            "Text": "(I wonder what kind of moustache wax he uses?)"
+                            "Script": "/message \"ดูเหมือนนายกเทศมนตรีเลวิส กำลังจมอยู่ในความคิด...\"",
+                            "Text": "(ฉันล่ะอยากจะรู้จริงๆ ว่าเขาใช้ขี้ผึ้ง สำหรับแต่งทรงหนวด ยี่ห้ออะไร?)"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Heh, that was great! Really brought me back...$h"
+                            "Text": "เฮ้ นั่นมันเยี่ยมไปเลย! ทำให้ฉันนึกถึงอดีตขึ้นมาจริงๆ เลยล่ะ...$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -1159,13 +1159,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "The governor himself recommended this movie to me!"
+                            "Text": "ท่านผู้ว่าการรัฐ แนะนำภาพยนตร์เรื่องนี้ ให้กับผมด้วย ตัวท่านเองเลยนะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Fantastic! They really made Stardew Valley look beautiful, didn't they? If only they had featured Pelican Town itself...$h"
+                            "Text": "มหัศจรรย์มาก! พวกเขาทำให้สตาร์ดิวแวลลี่ ดูสวยงามมากจริงๆ ใช่ไหมล่ะ? คงจะดีถ้าเขาทำให้ เมืองเพลิแกน เด่นขึ้นมาอีกนิด...$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -1199,13 +1199,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "As mayor, I need to know what kinds of movies are being shown in our community. We have the tender minds of the next generation to worry about!"
+                            "Text": "ในฐานะที่ผมเป็นนายกเทศมนตรี ผมจำเป็นจะต้องทราบว่า ภาพยนตร์ประเภทไหน ที่กำลังเข้าฉายอยู่ใน ชุมชนของพวกเรา พวกเรามีจิตใจที่ใสสะอาด ของชนรุ่นหลังที่ต้อง คำนึงถึง!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hah! That wasn't bad at all... I'd say this one's 'Mayor Approved'.$h"
+                            "Text": "ฮ่าห์! มันไม่เลวเลย... ผมจะพูดว่าภาพยนตร์เรื่องนี้ 'ผ่านการรับรอง โดยนายกเทศมนตรี' แล้ว$h"
                         }
                     },
                     "ID": "reaction_5"
@@ -1218,13 +1218,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hmm... I guess it will be interesting to see what the young people are watching these days..."
+                            "Text": "อืม... ผมรู้สึกว่ามันน่าสนใจที่ได้เห็นว่า ทุกวันนี้คนหนุ่มสาว ดูภาพยนตร์แบบไหน..."
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Huh... I wonder if the messages in this movie are good for our community?"
+                            "Text": "เหอ... ผมสงสัยจังว่าข้อความที่ ภาพยนตร์เรื่องนี้สื่อออกมา มันดีต่อชุมชนของเรารึเปล่า?"
                         }
                     },
                     "ID": "reaction_6"
@@ -1249,13 +1249,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I saw this movie once, a long time ago. It's very romantic!"
+                            "Text": "ฉันเคยดูเรื่องนี้ มาแล้วครั้งหนึ่ง เมื่อนานมาแล้ว มันโรแมนติกมาก!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was lovely... The theme of the movie really resonated with me. Thanks for bringing me!"
+                            "Text": "นั่นมันดีมากเลย... แก่นของภาพยนตร์เรื่องนี้ มันสอดคล้องกับชีวิตของฉัน ขอบคุณที่พาฉันมาดูนะ!"
                         }
                     },
                     "ID": "reaction_1"
@@ -1268,13 +1268,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I hope the seats are plush, I've been on my feet all day!"
+                            "Text": "ฉันหวังว่าเก้าอี้จะนั่งสบายนะ วันนี้ฉันยืนมาตลอดทั้งวันเลย!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm not much of a movie buff... but I had a good time! Thanks, @."
+                            "Text": "ฉันไม่ใช่พวก คลั่งภาพยนตร์หรอกนะ... แต่ฉันก็ได้มีช่วงเวลาที่ดีมาก! ขอบใจนะ @"
                         }
                     },
                     "ID": "reaction_2"
@@ -1292,17 +1292,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Oh man, I'm so excited for this! I heard it has a great soundtrack."
+                            "Text": "โอ้ววว ฉันล่ะตื่นเต้นกับเจ้านี่จริงๆ! ฉันได้ยินมาว่ามันมีดนตรี ประกอบภาพยนตร์ที่เยี่ยมยอด"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/playSound reward/emote Sam 32/message Sam \"Sam can't contain his laughter!\"",
-                            "Text": "This movie's hilarious! How do they come up with this stuff?$h"
+                            "Script": "/playSound reward/emote Sam 32/message Sam \"แซมกลั้นขำเอาไว้ไม่อยู่แล้ว!\"",
+                            "Text": "ภาพยนตร์เรื่องนี้ มันตลกมาก! เขาเอาไอเดียพวกนี้ มาจากไหนกันนะ?$h"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*psst*... Don't tell anyone, but I wear the same type of socks as Wumbus."
+                            "Text": "*ชู่ววว*... อย่าไปบอกใครนะ ว่าผมใส่ถุงเท้า แบบเดียวกันกับวัมบัสเลย"
                         }
                     },
                     "ID": "reaction_1"
@@ -1322,13 +1322,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "So you like scary movies, huh? I'm a little surprised!"
+                            "Text": "คุณชอบหนังสยองขวัญเหรอ? ผมรู้สึกประหลาดใจนิดหน่อย!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was pretty good! I'm usually not scared by movies, but that one got to me a little... I don't think I'll take Vincent to see this."
+                            "Text": "นั่นมันค่อนข้างจะ เยี่ยมเลยแหละ! โดยปกติแล้วภาพยนตร์ ทำให้ผมรู้สึกกลัว ไม่ได้หรอกนะ แต่เรื่องนี้ทำให้ผม รู้สึกได้นิดหน่อย... ผมไม่คิดว่าจะพา วินเซนท์มาดูหรอกนะ"
                         }
                     },
                     "ID": "reaction_2"
@@ -1341,13 +1341,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey, thanks for inviting me, @... It's really great that we have a movie theater in town now."
+                            "Text": "เฮ้ ขอบคุณที่เชิญผมมานะ @... มันเยี่ยมจริงๆที่ตอนนี้ เมืองของเรามีโรงหนังแล้ว"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That wasn't bad! I might have to take Vincent to see this."
+                            "Text": "นั่นมันไม่เลวเลย! ผมน่าจะพาวินเซนท์มาดู"
                         }
                     },
                     "ID": "reaction_3"
@@ -1360,17 +1360,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It's an old movie with lots of talking, right? Hmm... $s"
+                            "Text": "มันเป็นหนังเก่าๆ ที่มีแต่บทสนทนา เต็มไปหมด ใช่มั้ย? อืม...$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message Sam \"Sam is playing his handheld video game system.\"",
-                            "Text": "Huh? Oh! Yeah... The movie's... interesting...$10"
+                            "Script": "/message Sam \"แซมกำลังเล่นเครื่องเล่น วิดีโอเกมส์แบบพกพา ของเขาอยู่\"",
+                            "Text": "หื้ม? โอ้! ใช่... ภาพยนตร์... น่าสนใจดี...$10"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Yeah... Uh... That one character was interesting... And, um... heh...$10"
+                            "Text": "ช่ายย... เอ้อ... ตัวละครตัวนั้นน่าสนใจดี... และ อืม... เฮ่...$10"
                         }
                     },
                     "ID": "reaction_4"
@@ -1416,17 +1416,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm so excited! My mom said I can have candy, too!$h"
+                            "Text": "ผมตื่นเต้นสุดๆ ไปเลย! แม่อนุญาตให้ผม อมลูกอมได้ด้วย!$h"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/jump Vincent/pause 400/playSound reward/message \"Vincent is having a blast!\"",
+                            "Script": "/jump Vincent/pause 400/playSound reward/message \"วินเซนท์ กำลังมีความสุขสุดๆ !\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was so fun! I wanna go see it again!$h"
+                            "Text": "หนังสนุกมากเลยล่ะ ฉันจะต้องดูมันอีกแน่นอน!$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -1439,17 +1439,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "B... But... This movie is for grown-ups, isn't it?$s"
+                            "Text": "ต... แต่... หนังเรื่องนี้ เป็นหนังสำหรับ คนที่โตแล้วไม่ใช่เหรอ?$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"Vincent is fidgeting in his seat.\"",
+                            "Script": "/shake Vincent 250/pause 500/shake Vincent 250/pause 500/emote Vincent 28/message \"วินเซนท์กำลังหงุดหงิด อยู่บนที่นั่งของเขา\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was boring... I didn't understand anything.$s"
+                            "Text": "นั่นมันน่าเบื่อจัง... ผมไม่เข้าใจอะไรเลย$s"
                         }
                     },
                     "ID": "reaction_5"
@@ -1474,17 +1474,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Thanks for inviting me to the movies, @. It's not easy to adjust back into the civilian lifestyle, but you've helped me feel really welcome."
+                            "Text": "ขอบคุณที่เชิญผมมาดูหนังนะ @ มันไม่ง่ายเลยที่จะ ปรับตัวกลับมาใช้ ชีวิตแบบคนในเมืองได้ แต่คุณช่วยให้ผมรู้สึกว่า ผมเป็นที่ต้อนรับจริงๆ"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Kent 32/message \"Kent has a rare smile on his face.\"",
-                            "Text": "This is great... it reminds me of simpler times...$h"
+                            "Script": "/emote Kent 32/message \"รอยยิ้มที่หาได้ยากของเคนท์ ปรากฏขึ้นบนใบหน้าของเขา\"",
+                            "Text": "นี่มันเยี่ยมไปเลย... มันทำให้ผมนึกถึง ช่วงเวลาที่เรียบง่าย...$h"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was fun. When you're engrossed in a movie, all your cares and worries disappear."
+                            "Text": "นั่นมันสนุกดีนะ เมื่อคุณจดจ่ออยู่กับหนัง ทุกความกังวลในใจ มันหายไปหมดเลย"
                         }
                     },
                     "ID": "reaction_1"
@@ -1497,17 +1497,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm not sure about this movie..."
+                            "Text": "ผมไม่ค่อยแน่ใจ เกี่ยวกับหนังเรื่องนี้นะ..."
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Kent 28/message \"Kent is breaking out into a cold sweat...\"",
+                            "Script": "/emote Kent 28/message \"เหงื่อเย็นๆ ไหลซึมออกมา จากตัวของเคนท์...\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was challenging for me. Still, I appreciate you inviting me to this."
+                            "Text": "นั่นมันคือ ความท้าทายสำหรับผม แต่ผมก็ยังรู้สึกซาบซึ้ง ที่คุณเชิญผมมาอยู่ดี"
                         }
                     },
                     "ID": "reaction_2"
@@ -1525,17 +1525,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This movie's supposed to be a romance, right? *sigh*$s"
+                            "Text": "หนังเรื่องนี้ มันควรจะโรแมนติก ใช่มั้ย? *ถอนหายใจ*$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": "guyEnters",
-                            "Script": "/emote Clint 12/message \"Clint is scowling.\"",
-                            "Text": "Why would she like THAT guy? Totally unrealistic if you ask me...$3"
+                            "Script": "/emote Clint 12/message \"คลินท์กำลังทำหน้าบึ้ง\"",
+                            "Text": "ทำไมเธอถึงชอบ ผู้ชายคนนั้น? ถ้าคุณถามผม ผมคิดว่าคนแบบนั้น ไม่มีทางมีอยู่จริงหรอก...$3"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That movie was depressing...$s"
+                            "Text": "หนังเรื่องนี้ทำให้ผมผิดหวัง...$s"
                         }
                     },
                     "ID": "reaction_1"
@@ -1548,17 +1548,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I guess it's 'guys night', huh? Does that mean I have to buy my own snacks?^Oh... A... Are we on a date, then?$4"
+                            "Text": "ผมคิดว่ามันคือ 'ค่ำคืนของหนุ่มๆ' ใช่มั้ย? นั่นมันหมายความว่า ผมต้องซื้อของกินเล่นเอง รึเปล่า?^โอ้... นี่... นี่พวกเรากำลังเดตกันหรอ?$4"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"Clint is taking sips from an unmarked flask.\"",
-                            "Text": "It's just... *hic*... Joja Cola.$h^*whispers*...If you're, um... tired... you can put your head on my... my shoulder. Heh... or not!$4"
+                            "Script": "/message \"คลินท์กำลังจิบเครื่องดื่ม จากขวดแก้ว ที่ไม่ได้ระบุไว้ว่า บรรจุอะไรไว้ข้างใน\"",
+                            "Text": "มันก็แค่... *อึ๊ก*... โจจ้าโคล่า$h^*กระซิบ*...ถ้าคุณ อืม... รู้สึกเหนื่อย... คุณสามารถวางศีรษะลงบน... ลงบนไหล่ของผมก็ได้นะ แหะๆ... หรือจะไม่ก็ได้!$4"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey... that was kind of fun... right?$h"
+                            "Text": "เฮ้... นั่นมันก็สนุกอยู่นะ... ใช่มั้ย?$h"
                         }
                     },
                     "ID": "reaction_0"
@@ -1590,13 +1590,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I ate a handful of nuts to prepare for this movie... brain food!"
+                            "Text": "ฉันเตรียมตัวสำหรับ หนังเรื่องนี้ด้วยการ กินถั่วไปหนึ่งกำมือ... เป็นอาหารสมองยังไงล่ะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I feel a little bit smarter than I was before... don't you?"
+                            "Text": "ฉันรู้สึกว่าตัวเองฉลาดกว่า ก่อนหน้านี้นิดหน่อย... คุณก็รู้สึกใช่มั้ย?"
                         }
                     },
                     "ID": "reaction_3"
@@ -1609,13 +1609,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "When I saw the movie poster for this one, I felt a very positive sensation in the top of my head.$h"
+                            "Text": "ตอนที่ฉันเห็นโปสเตอร์ ของหนังเรื่องนี้ ฉันรู้สึกได้ถึงพลังงานบวก ในหัวของฉันเลยล่ะ$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That movie felt very spiritual, in a way... don't you agree? I loved it!$h"
+                            "Text": "หนังเรื่องนั้นมันดู มีจิตวิญญาณมากๆเลย คุณเห็นด้วยรึเปล่า? ฉันรักมัน!$h"
                         }
                     },
                     "ID": "reaction_2"
@@ -1628,13 +1628,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm happy to see a movie with you! I tend to get totally lost in the screen."
+                            "Text": "ฉันมีความสุข ที่ได้ดูหนังกับคุณ! ฉันเกือบจะสนุกไปกับหนัง จนไม่รู้สึกถึงสิ่งรอบตัวแล้ว"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I feel positive after that one... that means it was a good movie!$h"
+                            "Text": "ฉันรู้สึกดีกับหนังเรื่องนี้นะ.. หมายถึงว่ามันเป็นหนังที่ดี!$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -1647,17 +1647,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I usually go to more positive movies, so this will be interesting."
+                            "Text": "ปกติแล้วฉันจะดูหนัง ที่ทำให้รู้สึก ถึงพลังบวก มากกว่านี้น่ะนะ หนังเรื่องนี้ก็เลยน่าสนใจ"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"Emily is whispering to herself...\"",
-                            "Text": "Yoba, please protect me from the dark energy of this movie.$7"
+                            "Script": "/message \"เอมิลี่กระซิบกับตัวเอง...\"",
+                            "Text": "โยบะ ได้โปรดคุ้มครองฉัน จากพลังงานด้านลบ ของหนังเรื่องนี้ด้วย$7"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "My energy levels are low after that one...$3"
+                            "Text": "ระดับพลังงานของฉัน เหลือน้อยมาก หลังจากที่ดูหนังเรื่องนี้...$3"
                         }
                     },
                     "ID": "reaction_5"
@@ -1675,13 +1675,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Mmm... It's nice and warm in here. Winter is my favorite time to go to the movies.$h"
+                            "Text": "อืม... ที่นี่ทั้งสวยงามและอบอุ่น ฤดูหนาวเป็นช่วงที่ฉันชอบไป ดูหนังมากที่สุด$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was very romantic."
+                            "Text": "มันโรแมนติกมากๆ เลยล่ะ"
                         }
                     },
                     "ID": "reaction_3"
@@ -1694,13 +1694,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Mmm... It's nice and warm in here. Winter is my favorite time to go to the movies.$h"
+                            "Text": "อืม... ที่นี่ทั้งสวยงามและอบอุ่น ฤดูหนาวเป็นช่วงที่ฉันชอบไป ดูหนังมากที่สุด$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm glad there was a good ending!"
+                            "Text": "ฉันดีใจที่มันมีตอนจบที่ดี!"
                         }
                     },
                     "ID": "reaction_4"
@@ -1734,13 +1734,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Oh, is this one of those 'fantasy' movies?$7"
+                            "Text": "โอ้ นี่ก็คือหนึ่งในหนัง 'แฟนตาซี' พวกนั้นเหรอ?$7"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*yawn*... What? Oh... what was that movie about, again?$7"
+                            "Text": "*หาว*... อะไร? โอ้... ขอถามอีกที หนังเรื่องนี้มันเกี่ยวกับ อะไรนะ?$7"
                         }
                     },
                     "ID": "reaction_5"
@@ -1753,13 +1753,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Everyone's talking about this movie, so I've been wanting to see it."
+                            "Text": "ทุกคนพูดถึงหนังเรื่องนี้ ฉันก็เลยตั้งตารอ ที่จะมาดูบ้าง"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That last scene... what did they mean by that?"
+                            "Text": "ฉากสุดท้ายนั่น... มันหมายถึงอะไรอ่ะ?"
                         }
                     },
                     "ID": "reaction_6"
@@ -1777,17 +1777,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey, @! I'm looking forward to this one... I hope we learn a lot!$h"
+                            "Text": "เฮ้ @! ฉันตั้งตาคอยที่จะ ดูเรื่องนี้เลยแหละ... ฉันหวังว่าเราจะได้เรียนรู้ อะไรหลายๆ อย่าง จากภาพยนตร์เรื่องนี้นะ!$h"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Maru 32/playSound reward/message \"Maru's taking notes!\"",
-                            "Text": "Ah, I see... that's very interesting!"
+                            "Script": "/emote Maru 32/playSound reward/message \"มารุกำลังจดโน้ตของเธออยู่!\"",
+                            "Text": "อา ฉันเข้าใจล่ะ... นั่นมันน่าสนใจมากเลย!"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was really interesting! I had no idea that so much life could be found in the big city."
+                            "Text": "นั่นมันน่าสนใจมากเลย! ฉันไม่เคยคิดมาก่อนเลยว่า จะมีคนอาศัยอยู่ในเมืองใหญ่ มากขนาดนั้น"
                         }
                     },
                     "ID": "reaction_2"
@@ -1800,13 +1800,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It's a sci-fi movie, right? One of the things I like about sci-fi is seeing all the weird technologies they come up with."
+                            "Text": "มันเป็นภาพยนตร์ แนวไซ-ไฟใช่ไหม? อย่างนึงที่ฉันชอบ เกี่ยวกับภาพยนตร์ไซ-ไฟ ก็คือการได้เห็นเทคโนโลยี ที่แปลกประหลาด"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Well, I've never seen anything like *that* through my telescope... but it was really great!$h"
+                            "Text": "เอาล่ะ ฉันไม่เคยเห็นอะไร *อย่างนั้น* ผ่านกล้องโทรทรรศน์ ของฉันมาก่อนเลย... แต่นั่นมันเยี่ยมมาก!$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -1819,13 +1819,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I really like going to the theater, even if the movie's bad!$h"
+                            "Text": "ฉันชอบไปโรงภาพยนตร์ มากเลยล่ะ ถึงแม้ว่า ภาพยนตร์จะแย่ก็ตาม!$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was an interesting choice, for the final scene. What do you think they meant by that?"
+                            "Text": "นั่นเป็นตัวเลือกที่น่าสนใจมาก สำหรับฉากสุดท้าย เธอคิดว่าฉากนั้น มันหมายความว่ายังไง?"
                         }
                     },
                     "ID": "reaction_4"
@@ -1864,17 +1864,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hey. I heard this movie is pretty grim... I'm looking forward to it.$h"
+                            "Text": "เฮ้ ฉันได้ยินมาว่าหนังเรื่องนี้ ค่อนข้างที่จะแจ๋วเลย... ฉันตั้งตาคอยที่จะไปดูมันนะ$h"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Sebastian 32/message \"Sebastian has a grin on his face.\"",
-                            "Text": "This cinematography is next-level."
+                            "Script": "/emote Sebastian 32/message \"เซบาสเตียนกำลังยิ้มจนเห็นฟัน\"",
+                            "Text": "ศิลปะการถ่ายทำ ภาพยนตร์เรื่องนี้ มันเป็นอีกระดับนึงเลย"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Best movie I've seen in a while... I wonder how they did some of those special effects?$h"
+                            "Text": "หนังที่ดีที่สุดที่ฉันดูในช่วงนี้... ฉันสงสัยจังว่าพวกเขาทำ เทคนิคพิเศษพวกนั้นยังไงs?$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -1887,13 +1887,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*shrugs*... The movie poster looked pretty cool, so I'm in."
+                            "Text": "*ยักไหล่*... โปสเตอร์หนังดูเจ๋งดี เพราะงั้นฉันก็เลย มาดูด้วย"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It wasn't the best ever, but I had a pretty good time... thanks for inviting me."
+                            "Text": "มันไม่ใช่หนังที่ดีที่สุด แต่ฉันก็มีช่วงเวลาที่ดีเลยล่ะ ขอบคุณที่ชวนมานะ"
                         }
                     },
                     "ID": "reaction_4"
@@ -1906,13 +1906,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I hope it's short..."
+                            "Text": "ฉันหวังว่าหนังจะจบเร็วๆ นี้นะ..."
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It's probably a fine movie for the target audience, but it's just not for me."
+                            "Text": "มันเป็นหนังที่ดีสำหรับผู้ชม ที่เป็นกลุ่มเป้าหมายนะ แต่ไม่ใช่สำหรับผม"
                         }
                     },
                     "ID": "reaction_5"
@@ -1937,13 +1937,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I've been feeling kind of dull lately, so an action-packed movie is exactly what I need."
+                            "Text": "ช่วงนี้ฉันรู้สึกเบื่อๆ ดังนั้นหนังที่เต็มไปด้วย การเคลื่อนไหว ก็เลยเป็นอะไรที่ ตรงกับความต้องการ ของฉันสุดๆ เลยล่ะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm all fired up, now! That was great.$h"
+                            "Text": "ตอนนี้ฉันรู้สึกมีไฟสุดๆ ไปเลย! นั่นมันเยี่ยมจริงๆ$h"
                         }
                     },
                     "ID": "reaction_1"
@@ -1956,13 +1956,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm not sure what this movie's about, but I don't really care! It's just good to get out of the house."
+                            "Text": "ฉันไม่ค่อยแน่ใจว่า หนังเรื่องนี้มันเกี่ยวกับอะไร แต่ฉันก็ไม่ค่อยจะ ใส่ใจเท่าไหร่! ฉันก็แค่รู้สึกดี ที่ได้ออกมานอกบ้าน"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was a lot of fun, @. I'm glad we did this."
+                            "Text": "นั่นมันสนุกมากเลย @ ฉันดีใจที่พวกเรา มาดูหนังกันนะ"
                         }
                     },
                     "ID": "reaction_2"
@@ -1980,17 +1980,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "A short jaunt in the snow really gets the blood flowing."
+                            "Text": "การเดินท่ามกลางหิมะ ในระยะเวลาสั้นๆ ทำให้เหลือดไหลเวียน ได้ดีจริงๆ"
                         },
                         "DuringMovie": {
                             "ResponsePoint": "zuzucityexpress_mind_heart",
-                            "Script": "/message \"Demetrius is furrowing his brow.\"",
-                            "Text": "Longings of the heart...? Oh! You mean 'elevated levels of oxytocin in the limbic system'."
+                            "Script": "/message \"ดิมีเทรียสกำลังขมวดคิ้ว\"",
+                            "Text": "ความปราถนาของหัวใจ...? โอ้! คุณหมายถึง 'การเพิ่มขึ้นของระดับ ออกซิโทซินในระบบลิมบิก'"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "The art of film has come a long way since those times, hasn't it?"
+                            "Text": "ศิลปะของภาพยนตร์เรื่องนี้ ก้าวหน้าไปมาก ตั้งแต่ช่วงเวลานั้น ใช่มั้ย?"
                         }
                     },
                     "ID": "reaction_0"
@@ -2003,13 +2003,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This movie supposedly takes place in a 'futuristic' society... it will be interesting to see what that looks like!"
+                            "Text": "ภาพยนตร์เรื่องนี้ ควรจะถ่ายทำในสถานที่ ที่ดูเป็นเมืองใน 'อนาคต' มากกว่านี้... มันน่าสนใจมากที่จะดู ว่ามันจะออกมาเป็นยังไง!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Great movie... but I wonder if there really is life beyond this planet?"
+                            "Text": "เป็นหนังที่ยอด... แต่ผมสงสัยว่ามันมีสิ่งมีชีวิต บนดาวแบบนี้จริงๆ เหรอ?"
                         }
                     },
                     "ID": "reaction_1"
@@ -2022,17 +2022,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This one's right up my alley... you know I'm gonna love this.$h"
+                            "Text": "ภาพยนตร์เรื่องนี้ เหมาะสมกับผมมาก... คุณรู้ว่าผมจะต้องชอบมันแน่ๆ$h"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Demetrius 8/message Demetrius \"Demetrius is scratching his chin...\"",
-                            "Text": "Technically, that's not correct...$3"
+                            "Script": "/emote Demetrius 8/message Demetrius \"ดิมีเทรียสกำลังกำคางของเขา...\"",
+                            "Text": "โดยเทคนิคแล้ว นั่นมันไม่ถูกต้องนะ...$3"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Well, they definitely embellished some things, but it was still mostly correct! Anyway, I had a good time."
+                            "Text": "คือแบบนี้นะ พวกเขาเสริม อะไรบางอย่างลงไป แต่เนื้อหาส่วนใหญ่ ก็ยังถูกต้องอยู่! ยังไงก็ตาม ผมมีช่วงเวลาที่ดีนะ"
                         }
                     },
                     "ID": "reaction_2"
@@ -2045,13 +2045,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I read about this one in the paper... didn't seem like the thing for me. But I'll give it a shot."
+                            "Text": "ผมได้อ่านเกี่ยวกับ ภาพยนตร์เรื่องนี้ ในหนังสือพิมพ์... ดูเหมือนว่า มันไม่เหมาะกับผมนะ แต่ผมจะลองดูแล้วกัน"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Nonsense! That was totally unscientific!$4"
+                            "Text": "ไร้สาระ! นั่นมันไม่เป็นวิทยาศาสตร์ เลยสักนิด!$4"
                         }
                     },
                     "ID": "reaction_4"
@@ -2064,13 +2064,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Even if a movie is bad, it's interesting to analyze."
+                            "Text": "ถึงแม้ว่า ภาพยนตร์เรื่องนี้มันจะไม่ดี แต่การลองวิเคราะห์ ภาพยนตร์เรื่องนี้ ก็น่าสนใจอยู่นะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hmm... I wonder what aspect of human motivation is satisfied by the narrative of this film?$3"
+                            "Text": "อืม... ผมสงสัยว่าภาพยนตร์เรื่องนี้ ทำให้มนุษย์พึงพอใจ ในแง่มุมไหน?$3"
                         }
                     },
                     "ID": "reaction_3"
@@ -2088,17 +2088,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I feel out of place here... I hope I'm not bothering anyone.$s"
+                            "Text": "ผมรู้สึกว่าผมไม่มีที่ยืนที่นั่น... หวังว่าผมจะไม่ได้ รบกวนใครนะ$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Linus 28/message \"Linus is looking at the floor...\"",
+                            "Script": "/emote Linus 28/message \"ลีนัสกำลังมองพื้น...\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Why stare at a screen when you could experience these things yourself?$s"
+                            "Text": "ทำไมถึงเอาแต่จ้องมอง จอภาพยนตร์ล่ะ ในเมื่อคุณสามารถ สัมผัสประสงการณ์ต่างๆ ได้ด้วยตัวเอง?$s"
                         }
                     },
                     "ID": "reaction_1"
@@ -2118,17 +2118,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I feel out of place here... I hope I'm not bothering anyone.$s"
+                            "Text": "ผมรู้สึกว่า ผมไม่มีที่ยืนที่นั่น... หวังว่าผมจะไม่ได้ รบกวนใครนะ$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Linus 28/message \"Linus is looking at the floor...\"",
+                            "Script": "/emote Linus 28/message \"ลีนัสกำลังมองพื้น...\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm not used to that much stimulation... sorry if I was a disappointing guest, @. I still appreciate your inviting me!"
+                            "Text": "ผมไม่คุ้นเคยกับการกระตุ้น ที่มากขนาดนั้น... ขอโทษนะ ถ้าผมทำให้แขกคนอื่นๆ รู้สึกผิดหวังๆ @ แต่ผมก็ยังซาบซึ้งมาก ที่คุณชวนผมมา!"
                         }
                     },
                     "ID": "reaction_2"
@@ -2153,17 +2153,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Oh, wow! A palace constructed for the sole purpose of entertainment!"
+                            "Text": "โอ้ ว้าว! ปราสาทที่สร้างขึ้นมา เพื่อความบันเทิง เพียงอย่างเดียว!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"Dwarf seems to be in a deep trance...\"",
+                            "Script": "/message \"ดูเหมือนคนแคระ จะตกอยู่ในภวังค์ลึก...\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I didn't understand a thing, but the flashing lights were mesmerizing!"
+                            "Text": "ฉันไม่เข้าใจอะไร สักอย่างเลย แต่แสงวูบวาบพวกนั้น มันช่างน่าให้หลงใหลจริงๆ!"
                         }
                     },
                     "ID": "reaction_1"
@@ -2188,13 +2188,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I know I'm going to love this movie! It was really nice of you to invite me, @.$h"
+                            "Text": "ฉันรู้ว่า ฉันจะหลงรักหนังเรื่องนี้! เธอช่างมีน้ำใจเหลือเกิน ที่ชวนฉันมาดูหนังเรื่องนี้ @$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Oh, I'm so glad the family was alright in the end. And the cows, too!$h"
+                            "Text": "โอ้ ฉันดีใจมากที่ครอบครัวนั้น ไม่เป็นอะไรในตอนจบ แล้วก็พวกวัวด้วย!$h"
                         }
                     },
                     "ID": "reaction_1"
@@ -2207,13 +2207,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm pretty easy-going when it comes to movies... I like just about everything!"
+                            "Text": "พอเป็นเรื่องของภาพยนตร์ ฉันค่อนข้างจะ ใจง่ายเลยแหละ... ก็ฉันน่ะชอบทุกอย่าง ที่เกี่ยวกับภาพยนตร์ เลยนี่นา!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I had a great time, @! Thanks for thinking of me."
+                            "Text": "มันเป็นเวลาที่ดีมากๆเลย @! ขอบคุณที่ชวนฉันมานะ"
                         }
                     },
                     "ID": "reaction_2"
@@ -2231,17 +2231,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Buh... Yeah, I guess this might be okay. *sniff* *sniff* ... a snack might help."
+                            "Text": "อือ... ใช่ ผมหวังว่านี่จะโอเคนะ *ฟุดฟิด* *ฟุดฟิด* ... ขนมคบเคี้ยวน่าจะช่วยได้นะ"
                         },
                         "DuringMovie": {
                             "ResponsePoint": "PK_villain",
                             "Script": "",
-                            "Text": "I'm rooting for the villain... *urp*"
+                            "Text": "ผมเป็นแฟนของพวกตัวร้าย... *เอิ๊ก*"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Okay, I'll admit... I thought it was pretty good."
+                            "Text": "โอเค ผมยอมรับ... ผมคิดว่ามันค่อนข้าง ดีเลยแหละ"
                         }
                     },
                     "ID": "reaction_4"
@@ -2282,17 +2282,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Heh. I'm actually interested in seeing this one..."
+                            "Text": "ฮึ ฉันว่าฉันอยากจะดูเรื่องนี้นะ..."
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"Shane's trying not to smile.\"",
-                            "Text": "Okay, this is good...$h"
+                            "Script": "/message \"เชนพยายามที่จะกลั้นยิ้ม\"",
+                            "Text": "โอเค นี่มันดีจัง...$h"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "When you're watching a good movie, you can forget about everything else... That's a gift."
+                            "Text": "เวลาที่พวกเรากำลังดูหนังดีๆ คุณจะลืมทุกสิ่งทุกอย่าง ไปเลย... มันคือของขวัญจากพระเจ้า"
                         }
                     },
                     "ID": "reaction_5"
@@ -2305,13 +2305,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Buh... Yeah, I guess this might be okay. *sniff* *sniff* ... a snack might help."
+                            "Text": "อือ... ใช่ ผมหวังว่านี่จะโอเคนะ *ฟุดฟิด* *ฟุดฟิด* ... ขนมคบเคี้ยวน่าจะช่วยได้นะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Okay, I'll admit... I thought it was pretty good."
+                            "Text": "โอเค ผมยอมรับ... ผมคิดว่า มันค่อนข้างดีเลยแหละ"
                         }
                     },
                     "ID": "reaction_6"
@@ -2324,17 +2324,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Ugh... this is going to be painful."
+                            "Text": "อ่าห์... มันคงจะเจ็บปวดมากแน่เลย"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/emote Shane 28/message \"Shane's slumped over...\"",
+                            "Script": "/emote Shane 28/message \"เชนดูจะห่อเหี่ยวมาก...\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I feel depressed...$s"
+                            "Text": "ฉันรู้สึกหดหู่มากเลยอะ...$s"
                         }
                     },
                     "ID": "reaction_7"
@@ -2373,17 +2373,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm really happy to see a movie!"
+                            "Text": "หนูมีความสุขมากที่ได้ดูหนัง!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/jump Jas/pause 400/playSound reward/message \"Jas is ecstatic!\"",
+                            "Script": "/jump Jas/pause 400/playSound reward/message \"แจสมีความสุขมาก!\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was so much fun! Thanks for bringing me!$h"
+                            "Text": "หนังสนุกมากเลยล่ะ! ขอบคุณที่ พาหนูมาดูด้วยนะคะ!$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -2396,17 +2396,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "This is a grown-up movie, right? I'll be okay!"
+                            "Text": "นี่เป็นหนังสำหรับคนที่โตแล้ว ใช่มั้ยคะ? ไม่ต้องห่วงค่ะ หนูโอเค!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/message \"Jas is nodding and glancing sideways.\"",
+                            "Script": "/message \"แจสกำลังผงกศีรษะ และเหลือบมองข้างๆ\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I thought it was good! It had... um... good 'die-a-log'! ...right?"
+                            "Text": "หนูคิดว่ามันดีนะ! มันมี... อืม... 'บด-โสน-ทะ-นา' ที่ดี! ...ใช่มั้ยคะ?"
                         }
                     },
                     "ID": "reaction_4"
@@ -2419,17 +2419,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I... I'm not sure I'm allowed to see this...$s"
+                            "Text": "หนู... หนูไม่แน่ใจว่า หนูได้รับอนุญาตให้ดู หนังเรื่องนี้นะคะ...$s"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/shake Jas 250/pause 500/shake Jas 250/pause 500/emote Jas 28/message \"Jas is trembling.\"",
-                            "Text": "I'm scared...$s"
+                            "Script": "/shake Jas 250/pause 500/shake Jas 250/pause 500/emote Jas 28/message \"แจสกำลังตัวสั่น\"",
+                            "Text": "หนูกลัว...$s"
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "*sniff*...$s"
+                            "Text": "*สูดน้ำมูก*...$s"
                         }
                     },
                     "ID": "reaction_5"
@@ -2447,13 +2447,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I've heard there's some really beautiful nature footage in this one... I'm really looking forward to it!$h"
+                            "Text": "ฉันได้ยินมาว่ามันมีฉากของ ธรรมชาติที่สวยงามมากๆ ในหนังเรื่องนี้... ฉันจะตั้งตาคอยมัน ด้วยความตื่นเต้นเลยล่ะ!$h"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was great. I'm pretty sure I even saw my cabin in one of those Stardew Valley aerial shots!$h"
+                            "Text": "นั่นมันเยี่ยมมาก ฉันค่อนข้างมั่นใจเลยล่ะ ว่าฉันเห็นกระท่อมของฉัน ในฉากที่เป็นสตาร์ดิวแวลลี่!$h"
                         }
                     },
                     "ID": "reaction_4"
@@ -2494,13 +2494,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm really intrigued by this movie... I'm a sucker for the mysterious."
+                            "Text": "หนังเรื่องนี้ทำให้ฉันทึ่งจริงๆ... ฉันเป็นพวก คลั่งเรื่องลี้ลับน่ะ"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was great! The narrative was very loose, but I think it was intended to speak to the emotions, not the intellect."
+                            "Text": "นั่นมันเยี่ยมไปเลย! วิธีการเล่าเรื่องยังไม่ค่อย กระชับเท่าไหร่ แต่ฉันคิดว่ามันตั้งใจจะ เล่นกับสภาวะอารมณ์น่ะ ไม่ใช่ตรรกะความคิด"
                         }
                     },
                     "ID": "reaction_5"
@@ -2513,13 +2513,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm not sure what to expect with this movie, but I'm going to keep an open mind!"
+                            "Text": "ฉันไม่แน่ใจว่า ควรจะคาดหวังอะไร จากหนังเรื่องนี้ แต่ฉันจะเปิดใจเข้าไว้นะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was simple, but good... It's like the comfort food of cinema."
+                            "Text": "นั่นมันเป็นหนังที่ ธรรมดามากแต่ก็ดีนะ... มันเหมือนกับ อาหารที่กินแล้ว อิ่มอกอิ่มใจของโรงหนังน่ะ"
                         }
                     },
                     "ID": "reaction_6"
@@ -2532,13 +2532,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "From the movie poster, this one looks pretty cheesy."
+                            "Text": "จากโปสเตอร์หนังนะ นี่มันดูจะเลี่ยนมากเลย"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was kind of lowbrow, wasn't it?"
+                            "Text": "มันเป็นหนังใต้ดินใช่มั้ย?"
                         }
                     },
                     "ID": "reaction_7"
@@ -2563,13 +2563,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm so happy to have an excuse to come to Pelican Town!"
+                            "Text": "ฉันมีความสุขมาก ที่มีข้ออ้างที่จะมา เมืองเพลิแกน!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was a lot of fun, thanks for inviting me! I'd better head home soon..."
+                            "Text": "นั่นมันสนุกมากเลย ขอบคุณที่ชวนฉันมานะ! อีกแปปนึงฉันควรจะ กลับบ้านได้แล้ว..."
                         }
                     },
                     "ID": "reaction_1"
@@ -2608,13 +2608,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I foresee this to be an exquisite night!"
+                            "Text": "ฉันทำนายได้เลยว่า มันจะเป็นค่ำคืนที่งดงาม!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I feel as if my spirit is charged... as if the energy of the film was transfered to me. Incredible!"
+                            "Text": "ฉันรู้สึกได้เลยว่า จิตวิญญาณของฉัน ได้รับการเติมพลังงาน.. ราวกับว่า พลังงานในภาพยนตร์ ถูกย้ายมาสู่ตัวฉัน ไม่น่าเชื่อเลย!"
                         }
                     },
                     "ID": "reaction_3"
@@ -2627,13 +2627,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I've avoided all information about this film... I like to go in completely 'blind'!"
+                            "Text": "ฉันพยายามหลีกเลี่ยงข้อมูล เกี่ยวกับหนังเรื่องนี้มาตลอด... ฉันอยากจะ 'ตาบอด' โดยสมบูรณ์!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Very interesting... I'll be pondering that one for a while."
+                            "Text": "น่าสนใจมาก... ฉันคงจะไตร่ตรองเกี่ยวกับ หนังเรื่องนี้ไปอีกสักพัก"
                         }
                     },
                     "ID": "reaction_4"
@@ -2646,13 +2646,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "It would be a lie to say I'm looking forward to this one...$s"
+                            "Text": "มันจะเป็นการโกหก ถ้าฉันบอกว่า ฉันตั้งตาคอยหนังเรื่องนี้...$s"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "That was very mundane, don't you think?"
+                            "Text": "นั่นมันธรรมดามาก คุณไม่คิดเหมือนฉันเหรอ?"
                         }
                     },
                     "ID": "reaction_5"
@@ -2670,13 +2670,13 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Hehe... I'd never turn down a free movie!"
+                            "Text": "ฮี่ๆ ... ฉันไม่เคยปฏิเสธ หนังฟรีหรอกนะ!"
                         },
                         "DuringMovie": null,
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Ah, that reminds me of a story me ol' Pops used to tell..."
+                            "Text": "อา มันทำให้ฉันนึกถึงเรื่อง ที่พ่อของฉันเคยเล่าให้ฟัง..."
                         }
                     },
                     "ID": "reaction_0"
@@ -2708,17 +2708,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm excited to see this one... I want to learn everything about the world!"
+                            "Text": "ผมตื่นเต้นอ่ะ... ผมอยากจะรู้ทุกสิ่งทุกอย่าง เกี่ยวกับโลกใบนี้!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/jump Leo/pause 400/playSound reward/message \"Leo is glued to the screen!\"",
+                            "Script": "/jump Leo/pause 400/playSound reward/message \"ลีโอติดหนึบกับจอไปแล้ว!\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Did you see that? They showed the fern islands... that's where I'm from!$h"
+                            "Text": "คุณเห็นนั่นรึเปล่า? เค้าถ่ายเกาะเฟิร์นด้วย... ผมมาจากที่นั่นอ่ะ!$h"
                         }
                     },
                     "ID": "reaction_3"
@@ -2731,17 +2731,17 @@
                         "BeforeMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "I'm really happy to be here. This is all so interesting!"
+                            "Text": "ผมดีใจมากเลยที่ได้มาที่นี่ มันน่าสนใจไปหมดเลย!"
                         },
                         "DuringMovie": {
                             "ResponsePoint": null,
-                            "Script": "/pause 500/emote Leo 32/message \"Leo seems very interested in the movie.\"",
+                            "Script": "/pause 500/emote Leo 32/message \"ดูเหมือนว่าลีโอจะสนใจหนังเรื่องนี้เอามากๆ\"",
                             "Text": ""
                         },
                         "AfterMovie": {
                             "ResponsePoint": null,
                             "Script": "",
-                            "Text": "Wow... it was like magic!"
+                            "Text": "ว้าว... นั่นมันเหมือนเวทมนตร์เลย!"
                         }
                     },
                     "ID": "reaction_4"

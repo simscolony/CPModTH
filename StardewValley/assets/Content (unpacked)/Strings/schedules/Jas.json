@@ -16,11 +16,11 @@
         }
     ],
     "content": {
-        "winter_18.000": "I have to visit the doctor today, but I'm not afraid!",
-        "winter_15.001": "I wish I was old enough to see the mermaid show...$s",
-        "winter_18.001": "Can you show me how this tool works, Doctor Harvey?",
-        "summer.000": "1... 2... 3... 4... Here comes a wave! *giggle*$h",
-        "winter_15.000": "1... 2... 3... 4... Oh no! I messed up again.",
-        "spring.000": "1... 2... 3... 4... Oh no! I messed up again."
+        "winter_18.000": "วันนี้หนูต้องไป หาคุณหมอด้วยล่ะ แต่บอกไว้เลยว่า หนูไม่กลัวหรอก!",
+        "winter_15.001": "หนูหวังว่าหนูโตพอที่จะได้ดู โชว์คุณนางเงือกสักที...$s",
+        "winter_18.001": "คุณหมอฮาร์วีย์คะ ใช้อันนี้ให้หนูดูหน่อย ได้ไหมคะ?",
+        "summer.000": "1... 2... 3... 4... คลื่นทะเลมาแล้ว! *คิกคัก*$h",
+        "winter_15.000": "1... 2... 3... 4... ไม่นะ! หนูทำพลาดอีกแล้ว",
+        "spring.000": "1... 2... 3... 4... ไม่นะ! หนูทำพลาดอีกแล้ว"
     }
 }

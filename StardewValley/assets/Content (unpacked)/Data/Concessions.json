@@ -32,7 +32,7 @@
             "ID": 0,
             "Name": "Cotton Candy",
             "DisplayName": "Cotton Candy",
-            "Description": "A large pink cloud of spun sugar.",
+            "Description": "(สายไหม) ก้อนเมฆสีชมพูกลุ่มใหญ่ทำจากน้ำตาลปั่น",
             "Price": 50,
             "ItemTags": [
                 "Sweet",
@@ -43,7 +43,7 @@
             "ID": 1,
             "Name": "Jasmine Tea",
             "DisplayName": "Jasmine Tea",
-            "Description": "Green tea flavored with aromatic jasmine flowers.",
+            "Description": "(ชามะลิ) ชาเขียวที่มีกลิ่นหอมของมะลิ",
             "Price": 50,
             "ItemTags": [
                 "Drink",
@@ -55,7 +55,7 @@
             "ID": 2,
             "Name": "Joja Cola",
             "DisplayName": "Joja Cola",
-            "Description": "An extra-large cup of Joja's flagship soda.",
+            "Description": "(โจจ้าโคล่า) น้ำอัดลมโจจ้าแก้วใหญ่พิเศษ",
             "Price": 40,
             "ItemTags": [
                 "Drink",
@@ -67,7 +67,7 @@
             "ID": 3,
             "Name": "Sour Slimes",
             "DisplayName": "Sour Slimes",
-            "Description": "Tiny gummy slimes of assorted colors. They're sprinkled with an extremely sour powder.",
+            "Description": "(สไลม์เปรี้ยว) เยลลี่เคี้ยวหนึบรูปสไลม์หลากสี พวกมันถูกโรยด้วยผงที่มีรสเปรี้ยวสุดๆ",
             "Price": 80,
             "ItemTags": [
                 "Sour",
@@ -78,7 +78,7 @@
             "ID": 4,
             "Name": "Personal Pizza",
             "DisplayName": "Personal Pizza",
-            "Description": "A pizza small enough to enjoy as a snack.",
+            "Description": "(พิซซ่าสำหรับทานคนเดียว) พิซซ่าที่มีขนาดเล็กจนสามารถรับประทานเป็นอาหารว่างได้",
             "Price": 150,
             "ItemTags": [
                 "Hot",
@@ -89,7 +89,7 @@
             "ID": 5,
             "Name": "Nachos",
             "DisplayName": "Nachos",
-            "Description": "Gooey, spicy cheese on top of freshly fried tortilla chips.",
+            "Description": "(นาโช่ส์) แผ่นแป้งตอร์ตีย่าทอดสดใหม่ราดด้วยชีสที่เหนียวหนืดรสเผ็ด",
             "Price": 100,
             "ItemTags": [
                 "Hot",
@@ -101,7 +101,7 @@
             "ID": 6,
             "Name": "Salmon Burger",
             "DisplayName": "Salmon Burger",
-            "Description": "A thick slab of salmon on a lightly toasted sesame seed bun.",
+            "Description": "(เบอร์เกอร์แซลม่อน) แซลม่อนชิ้นหนาบนขนมปังงาที่ถูกปิ้งจนเกรียมเล็กน้อย",
             "Price": 150,
             "ItemTags": [
                 "Sandwich",
@@ -112,7 +112,7 @@
             "ID": 7,
             "Name": "Ice Cream Sandwich",
             "DisplayName": "Ice Cream Sandwich",
-            "Description": "Vanilla ice cream sandwiched between two chocolate cookies.",
+            "Description": "(ไอศกรีมแซนด์วิช) ไอศกรีมวานิลลาที่ถูกประกบด้วยคุกกี้ช็อกโกแลตสองชิ้น",
             "Price": 150,
             "ItemTags": [
                 "Sandwich",
@@ -124,7 +124,7 @@
             "ID": 8,
             "Name": "Popcorn",
             "DisplayName": "Popcorn",
-            "Description": "Popped kernels of corn, dusted lightly with salt and drizzled with butter.",
+            "Description": "(ป๊อปคอร์น) เมล็ดข้าวโพดที่ถูกคั่วจนพอง เพิ่มรสชาติด้วยเนยและโรยเกลือนิดหน่อย",
             "Price": 120,
             "ItemTags": [
                 "Hot",
@@ -135,7 +135,7 @@
             "ID": 9,
             "Name": "Fries",
             "DisplayName": "Fries",
-            "Description": "Thin slices of potato, deep fried and then lightly salted.",
+            "Description": "(มันฝรั่งทอด) มันฝรั่งฝานบางๆ ทอดกรอบแล้วโรยเกลือเล็กน้อย",
             "Price": 100,
             "ItemTags": [
                 "Hot",
@@ -147,7 +147,7 @@
             "ID": 10,
             "Name": "Chocolate Popcorn",
             "DisplayName": "Chocolate Popcorn",
-            "Description": "It's normal popcorn... but with a chocolate coating.",
+            "Description": "(ป๊อปคอร์นรสช็อกโกแลต) มันก็คือป๊อปคอร์นธรรมดา... แต่ถูกเคลือบด้วยช็อกโกแลต",
             "Price": 130,
             "ItemTags": [
                 "Hot",
@@ -158,7 +158,7 @@
             "ID": 11,
             "Name": "Black Licorice",
             "DisplayName": "Black Licorice",
-            "Description": "A chewy candy with an intense, pungent flavor.",
+            "Description": "(ลูกอมรสชะเอมเทศดำ) ลูกอบเคี้ยวหนึบ รสชาติเข้มข้นและมีกลิ่นฉุน",
             "Price": 25,
             "ItemTags": null
         },
@@ -166,7 +166,7 @@
             "ID": 12,
             "Name": "Star Cookie",
             "DisplayName": "Star Cookie",
-            "Description": "A star-shaped shortbread cookie with rainbow sprinkles.",
+            "Description": "(คุกกี้ดวงดาว) คุกกี้ชอร์ทเบรดรูปดาวที่โรยด้วยน้ำตาลสีรุ้ง",
             "Price": 150,
             "ItemTags": [
                 "Sweet"
@@ -176,7 +176,7 @@
             "ID": 13,
             "Name": "Jawbreaker",
             "DisplayName": "Jawbreaker",
-            "Description": "It's a big, hard candy that lasts the whole movie!",
+            "Description": "(นักทำลายขากรรไกร) ลูกอมที่ทั้งใหญ่และแข็ง ดูหนังจบหนึ่งเรื่องแล้วก็ยังละลายไม่หมด!",
             "Price": 250,
             "ItemTags": [
                 "Sweet",
@@ -187,7 +187,7 @@
             "ID": 14,
             "Name": "Salted Peanuts",
             "DisplayName": "Salted Peanuts",
-            "Description": "A classic salty treat.",
+            "Description": "(ถั่วโรยเกลือ) ขนมรสเค็มสุดคลาสสสิก",
             "Price": 120,
             "ItemTags": [
                 "Salty"
@@ -197,7 +197,7 @@
             "ID": 15,
             "Name": "Hummus Snack Pack",
             "DisplayName": "Hummus Snack Pack",
-            "Description": "It's crunchy and healthy.",
+            "Description": "(เซตอาหารว่างฮัมมัส) มันกรุบกรอบและดีต่อสุขภาพ",
             "Price": 90,
             "ItemTags": [
                 "Healthy"
@@ -207,7 +207,7 @@
             "ID": 16,
             "Name": "Kale Smoothie",
             "DisplayName": "Kale Smoothie",
-            "Description": "It's loaded with vitamins and fiber.",
+            "Description": "(เคลปั่น) มันอุดมไปด้วยเส้นใยและวิตามิน",
             "Price": 120,
             "ItemTags": [
                 "Drink",
@@ -218,7 +218,7 @@
             "ID": 17,
             "Name": "Apple Slices",
             "DisplayName": "Apple Slices",
-            "Description": "Crunchy and sweet little slices.",
+            "Description": "(แอปเปิลหั่นชิ้น) แอปเปิลหั่นเป็นชิ้นเล็กๆ ที่ทั้งหวานและกรุบกรอบ",
             "Price": 100,
             "ItemTags": [
                 "Sweet",
@@ -229,7 +229,7 @@
             "ID": 18,
             "Name": "Panzanella Salad",
             "DisplayName": "Panzanella Salad",
-            "Description": "A summer salad of bread and tomatoes.",
+            "Description": "(สลัดแพนนาเซลลา) สลัดแห่งฤดูร้อน ประกอบไปด้วยขนมปังและมะเขือเทศ",
             "Price": 200,
             "ItemTags": [
                 "Gourmet",
@@ -240,7 +240,7 @@
             "ID": 19,
             "Name": "Truffle Popcorn",
             "DisplayName": "Truffle Popcorn",
-            "Description": "Heirloom popcorn sprinkled with truffle salt.",
+            "Description": "(ป๊อปคอร์นรสเห็ดทรัฟเฟิล) ป๊อปคอร์นสูตรโบราณที่โรยด้วยเกลือเห็ดทรัฟเฟิล",
             "Price": 180,
             "ItemTags": [
                 "Gourmet",
@@ -251,7 +251,7 @@
             "ID": 20,
             "Name": "Cappuccino Mousse Cake",
             "DisplayName": "Cappuccino Mousse Cake",
-            "Description": "A small chocolate cake glazed with a cappuccinio mousse.",
+            "Description": "(คาปูชิโน่มูสเค้ก) เค้กช็อกโกแลตก้อนเล็กที่เคลือบด้วยมูสคาปูชิโน่",
             "Price": 220,
             "ItemTags": [
                 "Sweet",
@@ -262,7 +262,7 @@
             "ID": 21,
             "Name": "JojaCorn",
             "DisplayName": "JojaCorn",
-            "Description": "Joja's patented corn food, slathered in plenty of \"b'utter sauce\".",
+            "Description": "(ข้าวโพดโจจ้า) ข้าวโพดสูตรเฉพาะของโจจ้า ทา\"ซอสเนยไม่อั้น\"",
             "Price": 10,
             "ItemTags": [
                 "Joja"
@@ -272,7 +272,7 @@
             "ID": 22,
             "Name": "Stardrop Sorbet",
             "DisplayName": "Stardrop Sorbet",
-            "Description": "A single drop of stardrop essence tranforms this sorbet into an extraordinary treat.",
+            "Description": "(ไอศกรีมซอร์เบทรสสตาร์ดรอป) สารสกัดสตาร์ดรอป (Stardrop) 1 หยด เปลี่ยนซอร์เบทนี้ให้กลายเป็นของหวานที่ไม่ธรรมดา",
             "Price": 1250,
             "ItemTags": [
                 "Sweet",
@@ -283,7 +283,7 @@
             "ID": 23,
             "Name": "Rock Candy",
             "DisplayName": "Rock Candy",
-            "Description": "Flavored sugar crystals attached to a convenient stick.",
+            "Description": "(ลูกอมหิน) ผลึกน้ำตาลแต่งรสเสียบไม้พร้อมรับประทาน",
             "Price": 90,
             "ItemTags": [
                 "Sweet",
