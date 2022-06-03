@@ -1,139 +1,93 @@
 {
     "Format": "1.19.0",
+    "ConfigSchema": {
+        "UI theme Color": {
+            "AllowValues": "Pink, Choco, Paddlepop",
+            "Default": "Pink"
+        }
+    },
 
-	"ConfigSchema": {
-		"UI theme Color": {
-			"AllowValues": "Pink, Choco, Paddlepop" , "Default": "Pink"
-			}
-	},
-	"DynamicTokens": [
-		{
-         "Name": "Theme",
-         "Value": "Pink",
-		 "When": {
-            "UI theme Color": "Pink"
-			}
-		},
-		{
-         "Name": "Theme",
-         "Value": "Brown",
-		 "When": {
-            "UI theme Color": "Choco"
-			}
-		},
-		{
-         "Name": "Theme",
-         "Value": "Paddlepop",
-		 "When": {
-            "UI theme Color": "Paddlepop"
-			}
-		}
-	],
-	"Changes": [
+    "DynamicTokens": [
+        {
+            "Name": "VisualStyle",
+            "Value": "EN"
+        },
+        {
+            "Name": "VisualStyle",
+            "Value": "TH",
+            "When": {
+                "HasMod": "TranslatorArmy.ModTH"
+            }
+        },
+        {
+            "Name": "Theme",
+            "Value": "Pink",
+            "When": {
+                "UI theme Color": "Pink"
+            }
+        },
+        {
+            "Name": "Theme",
+            "Value": "Brown",
+            "When": {
+                "UI theme Color": "Choco"
+            }
+        },
+        {
+            "Name": "Theme",
+            "Value": "Paddlepop",
+            "When": {
+                "UI theme Color": "Paddlepop"
+            }
+        }
+    ],
 
-////For English ////
-
+    "Changes": [
         // LooseSprites replacements
-
         {
             "Action": "EditImage",
             "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/letterBG, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
-            "FromFile": "assets/EN/{{Theme}}/{{Target}}.png"
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png"
         },
         {
             "Action": "EditImage",
             "Target": "Maps/MenuTiles",
-            "FromFile": "assets/EN/{{Theme}}/{{Target}}.png"
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png"
         },
 
         // Minigames replacements
-
         {
             "Action": "EditImage",
             "Target": "Minigames/TitleButtons",
-            "FromFile": "assets/EN/{{Theme}}/{{Target}}.png"
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png"
         },
 
         // Begin cursors edits
-
         {
             "LogName": "Cursors",
             "Action": "EditImage",
             "Target": "LooseSprites/Cursors, LooseSprites/Cursors2",
-            "FromFile": "assets/EN/{{Theme}}/{{Target}}.png",
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png",
             "PatchMode": "Overlay"
         },
-		// mouse edits
-		{
-			"LogName": "Mouse",
-			"Action": "EditImage",
-			"Target": "LooseSprites/Cursors",
-			"FromFile": "assets/EN/LooseSprites/mouse.png",
-			"FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-			"When": {
-			    "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
-			},
-		},
-    // for Android User
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/MobileAtlas_manually_made",
-			"FromFile": "assets/EN/{{Theme}}/{{Target}}.png"
-		},
-////For THAI ////
-
-        // LooseSprites replacements
-
+        // mouse edits
         {
+            "LogName": "Mouse",
             "Action": "EditImage",
-            "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/letterBG, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
-            "FromFile": "assets/TH/{{Theme}}/{{Target}}.png",
-			"When": { "HasMod:TranslatorArmy.ModTH": true }
-        },
-        {
-            "Action": "EditImage",
-            "Target": "Maps/MenuTiles",
-            "FromFile": "assets/TH/{{Theme}}/{{Target}}.png",
-			"When": { "HasMod:TranslatorArmy.ModTH": true }
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/{{VisualStyle}}/LooseSprites/mouse.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+            "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+            "When": {
+                "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
+            },
         },
 
-        // Minigames replacements
-
+        // for Android User
         {
             "Action": "EditImage",
-            "Target": "Minigames/TitleButtons",
-            "FromFile": "assets/TH/{{Theme}}/{{Target}}.png",
-			"When": {"HasMod:TranslatorArmy.ModTH": true }
-        },
-
-        // Begin cursors edits
-
-        {
-            "LogName": "Cursors",
-            "Action": "EditImage",
-            "Target": "LooseSprites/Cursors, LooseSprites/Cursors2",
-            "FromFile": "assets/TH/{{Theme}}/{{Target}}.png",
-            "PatchMode": "Overlay",
-			"When": {"HasMod:TranslatorArmy.ModTH": true }
-        },
-		// mouse edits
-		{
-			"LogName": "Mouse",
-			"Action": "EditImage",
-			"Target": "LooseSprites/Cursors",
-			"FromFile": "assets/TH/LooseSprites/mouse.png",
-			"FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-			"When": {
-			    "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
-			},
-		},
-		// for Android User
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/MobileAtlas_manually_made",
-			"FromFile": "assets/TH/{{Theme}}/{{Target}}.png"
-		},
+            "Target": "LooseSprites/MobileAtlas_manually_made",
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png"
+        }
     ]
 }

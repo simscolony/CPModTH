@@ -1,62 +1,62 @@
 {
-  "Format": "1.13.0",
-  "Changes": [
-    {
-      "Action": "EditImage",
-      "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
-      "FromFile": "assets/{{Target}}.png"
-    },
-    //Letter change - support for PC and Android
-    {
-      "Action": "EditImage",
-      "Target": "LooseSprites/letterBG",
-      "FromFile": "assets/LooseSprites/letterBG_for_Android.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 960, "Height": 204 },
-      "ToArea": { "X": 0, "Y": 0, "Width": 960, "Height": 204 },
-      "PatchMode": "Overlay"
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/MenuTiles",
-      "FromFile": "assets/{{Target}}.png"
-    },
-    // Minigames replacements
-    {
-      "Action": "EditImage",
-      "Target": "Minigames/TitleButtons",
-      "FromFile": "assets/{{Target}}.png"
-    },
-    // for Android User
-    {
-      "Action": "EditImage",
-      "Target": "LooseSprites/MobileAtlas_manually_made",
-      "FromFile": "assets/{{Target}}.png"
-    },
-    // Begin cursors edits
-    {
-      "LogName": "Cursors",
-      "Action": "EditImage",
-      "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_no_mouse.png",
-      "PatchMode": "Overlay"
-    },
-    {
-      "LogName": "Mouse",
-      "Action": "EditImage",
-      "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/mouse.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-      "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-      "When": {
-        "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
-      }
-    },
-    {
-      "LogName": "Cursors",
-      "Action": "EditImage",
-      "Target": "LooseSprites/Cursors2",
-      "FromFile": "assets/{{Target}}.png",
-      "PatchMode": "Overlay"
-    }
-  ]
+    "Format": "1.19.0",
+    "Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        // Letter change - support for PC and Android
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/letterBG",
+            "FromFile": "assets/LooseSprites/letterBG_for_Android.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 960, "Height": 204 },
+            "ToArea": { "X": 0, "Y": 0, "Width": 960, "Height": 204 },
+            "PatchMode": "Overlay"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/MenuTiles",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        // Minigames replacements
+        {
+            "Action": "EditImage",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        // for Android User
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/MobileAtlas_manually_made",
+            "FromFile": "assets/{{Target}}.png"
+        },
+        // Begin cursors edits
+        {
+            "LogName": "Cursors",
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/LooseSprites/Cursors_no_mouse.png",
+            "PatchMode": "Overlay"
+        },
+        {
+            "LogName": "Mouse",
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/LooseSprites/mouse.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+            "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+            "When": {
+                "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
+            }
+        },
+        {
+            "LogName": "Cursors",
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors2",
+            "FromFile": "assets/{{Target}}.png",
+            "PatchMode": "Overlay"
+        }
+    ]
 }
