@@ -96,7 +96,7 @@
             "When": {
                 "Language": "th",
                 "Billboard": true,
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
             }
         },
 
@@ -132,7 +132,7 @@
             "When": {
                 "Language": "th",
                 "TitleButtons": true,
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Mareigh.NickiTitle, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Mareigh.NickiTitle, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
             }
         },
 
