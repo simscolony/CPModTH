@@ -46,8 +46,17 @@
         // LooseSprites replacements
         {
             "Action": "EditImage",
-            "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/letterBG, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
+            "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
             "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png"
+        },
+        // Letter change - support for PC and Android
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/letterBG",
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{Target}}.png",
+            "FromArea": { "X": 0, "Y": 0, "Width": 960, "Height": 204 },
+            "ToArea": { "X": 0, "Y": 0, "Width": 960, "Height": 204 },
+            "PatchMode": "Overlay"
         },
         {
             "Action": "EditImage",
@@ -75,7 +84,7 @@
             "LogName": "Mouse",
             "Action": "EditImage",
             "Target": "LooseSprites/Cursors",
-            "FromFile": "assets/{{VisualStyle}}/LooseSprites/mouse.png",
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/LooseSprites/mouse.png",
             "FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
             "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
             "When": {
