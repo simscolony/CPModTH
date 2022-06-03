@@ -1,9 +1,9 @@
 {
     "Format": "1.19.0",
-	
+
 	"ConfigSchema": {
 		"UI theme Color": {
-			"AllowValues": "Pink, Choco, Paddlepop" , "Default": "Pink"  
+			"AllowValues": "Pink, Choco, Paddlepop" , "Default": "Pink"
 			}
 	},
 	"DynamicTokens": [
@@ -46,14 +46,14 @@
             "FromFile": "assets/EN/{{Theme}}/{{Target}}.png"
         },
 
-        // Minigames replacements 
+        // Minigames replacements
 
         {
             "Action": "EditImage",
             "Target": "Minigames/TitleButtons",
             "FromFile": "assets/EN/{{Theme}}/{{Target}}.png"
         },
-		
+
         // Begin cursors edits
 
         {
@@ -70,7 +70,10 @@
 			"Target": "LooseSprites/Cursors",
 			"FromFile": "assets/EN/LooseSprites/mouse.png",
 			"FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 }
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+			"When": {
+			    "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
+			},
 		},
     // for Android User
 		{
@@ -95,7 +98,7 @@
 			"When": { "HasMod:TranslatorArmy.ModTH": true }
         },
 
-        // Minigames replacements 
+        // Minigames replacements
 
         {
             "Action": "EditImage",
@@ -103,7 +106,7 @@
             "FromFile": "assets/TH/{{Theme}}/{{Target}}.png",
 			"When": {"HasMod:TranslatorArmy.ModTH": true }
         },
-		
+
         // Begin cursors edits
 
         {
@@ -121,7 +124,10 @@
 			"Target": "LooseSprites/Cursors",
 			"FromFile": "assets/TH/LooseSprites/mouse.png",
 			"FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 }
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+			"When": {
+			    "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
+			},
 		},
 		// for Android User
 		{

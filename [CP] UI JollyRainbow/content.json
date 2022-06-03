@@ -20,7 +20,7 @@
       "Target": "Maps/MenuTiles",
       "FromFile": "assets/{{Target}}.png"
     },
-    // Minigames replacements 
+    // Minigames replacements
     {
       "Action": "EditImage",
       "Target": "Minigames/TitleButtons",
@@ -46,7 +46,10 @@
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/mouse.png",
       "FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
-      "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 }
+      "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
+      "When": {
+        "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
+      }
     },
     {
       "LogName": "Cursors",
