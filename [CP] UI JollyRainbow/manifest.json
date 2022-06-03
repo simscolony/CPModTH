@@ -1,0 +1,12 @@
+{
+   "Name": "UI JollyRainbow",
+   "Author": "SabiMiyato",
+   "Version": "1.0.0",
+   "Description": "special UI for Jolly Rainbow Fanpage",
+	"UniqueID": "SabiMiyato.UIJollyRainbow",
+	"MinimumApiVersion": "3.7.0",
+	"ContentPackFor": {
+	"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"UpdateKeys": null
+}
