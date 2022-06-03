@@ -84,7 +84,7 @@
             "LogName": "Mouse",
             "Action": "EditImage",
             "Target": "LooseSprites/Cursors",
-            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/LooseSprites/mouse.png",
+            "FromFile": "assets/{{VisualStyle}}/{{Theme}}/{{TargetPathOnly}}/mouse.png",
             "FromArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
             "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
             "When": {
