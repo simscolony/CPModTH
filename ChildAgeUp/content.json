@@ -1,30 +1,30 @@
 {
-	//If you do not have knowledge in this field Please do not fix anything.
-	"Format": "1.13.0",
+	// If you do not have knowledge in this field Please do not fix anything.
+	"Format": "1.19.0",
 	"ConfigSchema": {
 		"Auto": {
-			"AllowValues": "True, False",
-			"Default": "True"
+			"AllowValues": "true, false",
+			"Default": true
 		},
 		"FirstChildParent": {
 			"AllowValues": "default, abigail, alesia, alex, elliott, emily, haley, harvey, john, leah, lyell, maru, olivia, penny, raphtalia, sam, sandy, sebastian, shane, sophia, sorren, victor, wizard",
 			"Default": "default"
 		},
 		"FirstChildApron": {
-			"AllowValues": "True, False",
-			"Default": "False"
+			"AllowValues": "true, false",
+			"Default": false
 		},
 		"SecondChildParent": {
 			"AllowValues": "default, abigail, alesia, alex, elliott, emily, haley, harvey, john, leah, lyell, maru, olivia, penny, raphtalia, sam, sandy, sebastian, shane, sophia, sorren, victor, wizard",
 			"Default": "default"
 		},
 		"SecondChildApron": {
-			"AllowValues": "True, False",
-			"Default": "True"
+			"AllowValues": "true, false",
+			"Default": true
 		},
 		"SeasonalSet": {
-			"AllowValues": "True, False",
-			"Default": "True"
+			"AllowValues": "true, false",
+			"Default": true
 		},
 		"MaleCoatColor": {
 			"AllowValues": "black, blue, bluesky, brown, green, magenta, pink, purple, red, white, yellow",
@@ -34,22 +34,20 @@
 			"AllowValues": "black, blue, bluesky, brown, green, magenta, pink, purple, red, white, yellow",
 			"Default": "white"
 		}
-
 	},
-
 
 	"Changes": [
 
-		//Have Spouse
-		//FirstChild Portraits
+		// Have Spouse
+		// FirstChild Portraits
 		{
 			"LogName": "FirstChild m Portraits Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Male/Portraits/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -60,8 +58,8 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Male/Portraits/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -72,8 +70,8 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Male/Portraits/Apron/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "True",
+				"Auto": "false",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male"
 			}
 		},
@@ -83,22 +81,22 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Male/Portraits/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "False",
+				"Auto": "false",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male"
 			}
 		},
-		//female
+		// female
 		{
 			"LogName": "FirstChild f Portraits Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Portraits/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -108,10 +106,10 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Portraits/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -121,10 +119,10 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Portraits/Apron/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "True",
+				"Auto": "false",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 		{
@@ -133,25 +131,25 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Portraits/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "False",
+				"Auto": "false",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 
-		//od
+		// od
 		{
 			"LogName": "FirstChild Female Portraits Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Portraits/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -161,11 +159,11 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Portraits/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -175,11 +173,11 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Portraits/Apron/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "True",
+				"Auto": "false",
+				"FirstChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -188,23 +186,23 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Portraits/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "False",
+				"Auto": "false",
+				"FirstChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 
-		//FirstChild Characters
+		// FirstChild Characters
 		{
 			"LogName": "FirstChild m Characters Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/male/Characters/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -215,8 +213,8 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/male/Characters/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -227,8 +225,8 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/male/Characters/Apron/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "True",
+				"Auto": "false",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male"
 			}
 		},
@@ -238,22 +236,22 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/male/Characters/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "False",
+				"Auto": "false",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male"
 			}
 		},
-		//female
+		// female
 		{
 			"LogName": "FirstChild f Characters Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Characters/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -263,10 +261,10 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Characters/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -276,10 +274,10 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Characters/Apron/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "True",
+				"Auto": "false",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 		{
@@ -288,25 +286,25 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/female/Characters/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "False",
+				"Auto": "false",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 
-		//od
+		// od
 		{
 			"LogName": "FirstChild Female Characters Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Characters/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -316,11 +314,11 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Characters/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -330,11 +328,11 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Characters/Apron/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "True",
+				"Auto": "false",
+				"FirstChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -343,23 +341,23 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
 			"FromFile": "assets/Female/Characters/{{FirstChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"FirstChildApron": "False",
+				"Auto": "false",
+				"FirstChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 
-		//SecondChild Portraits
+		// SecondChild Portraits
 		{
 			"LogName": "SecondChild m Portraits Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Portraits/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -370,8 +368,8 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Portraits/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -382,8 +380,8 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Portraits/Apron/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "True",
+				"Auto": "false",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male"
 			}
 		},
@@ -393,22 +391,22 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Portraits/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "False",
+				"Auto": "false",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male"
 			}
 		},
-		//female
+		// female
 		{
 			"LogName": "SecondChild f Portraits Normally Auto Apron",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Portraits/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -418,10 +416,10 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Portraits/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -431,10 +429,10 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Portraits/Apron/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "True",
+				"Auto": "false",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 		{
@@ -443,24 +441,24 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Portraits/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "False",
+				"Auto": "false",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
-		//od
+		// od
 		{
 			"LogName": "SecondChild Female Portraits Auto Apron",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Portraits/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -470,11 +468,11 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Portraits/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -484,11 +482,11 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Portraits/Apron/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "True",
+				"Auto": "false",
+				"SecondChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -497,23 +495,23 @@
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Portraits/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "False",
+				"Auto": "false",
+				"SecondChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 
-		//SecondChild Characters
+		// SecondChild Characters
 		{
 			"LogName": "SecondChild Characters Auto Apron",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Characters/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -524,8 +522,8 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Characters/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "true"
 			}
@@ -536,8 +534,8 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Characters/Apron/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "True",
+				"Auto": "false",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male"
 			}
 		},
@@ -547,22 +545,22 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/male/Characters/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "False",
+				"Auto": "false",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male"
 			}
 		},
-		//female
+		// female
 		{
 			"LogName": "SecondChild f Characters Auto Apron",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Characters/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -572,10 +570,10 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Characters/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -585,10 +583,10 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Characters/Apron/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "True",
+				"Auto": "false",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 		{
@@ -597,25 +595,25 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/female/Characters/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "False",
+				"Auto": "false",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind"
+				"Weather": "sun, snow, wind"
 			}
 		},
 
-		//od
+		// od
 		{
 			"LogName": "SecondChild Female Characters Auto Apron",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Characters/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -625,11 +623,11 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Characters/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -639,11 +637,11 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Characters/Apron/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "True",
+				"Auto": "false",
+				"SecondChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -652,23 +650,23 @@
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
 			"FromFile": "assets/Female/Characters/{{SecondChildParent}}.png",
 			"When": {
-				"Auto": "False",
-				"SecondChildApron": "False",
+				"Auto": "false",
+				"SecondChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 
-		//No Have Spouse
+		// No Have Spouse
 		{
 			"LogName": "FirstChild m Portraits Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/male/Portraits/Apron/Default.png",
+			"FromFile": "assets/male/Portraits/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -677,10 +675,10 @@
 			"LogName": "FirstChild m Portraits Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/male/Portraits/Default.png",
+			"FromFile": "assets/male/Portraits/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -689,12 +687,12 @@
 			"LogName": "FirstChild f Portraits Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/female/Portraits/Apron/Default.png",
+			"FromFile": "assets/female/Portraits/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -702,28 +700,28 @@
 			"LogName": "FirstChild f Portraits Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/female/Portraits/Default.png",
+			"FromFile": "assets/female/Portraits/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//od
+		// od
 		{
 			"LogName": "FirstChild Female Portraits Normally Auto Apron nsp od",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/Female/Portraits/Apron/Default.png",
+			"FromFile": "assets/Female/Portraits/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -731,26 +729,26 @@
 			"LogName": "FirstChild Female Portraits Normally Auto NoApron nsp od",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/Female/Portraits/Default.png",
+			"FromFile": "assets/Female/Portraits/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//FirstChild Characters
+		// FirstChild Characters
 		{
 			"LogName": "FirstChild m Characters Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/male/Characters/Apron/Default.png",
+			"FromFile": "assets/male/Characters/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -759,10 +757,10 @@
 			"LogName": "FirstChild m mCharacters Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/male/Characters/Default.png",
+			"FromFile": "assets/male/Characters/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -771,12 +769,12 @@
 			"LogName": "FirstChild f Characters Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/female/Characters/Apron/Default.png",
+			"FromFile": "assets/female/Characters/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -784,28 +782,28 @@
 			"LogName": "FirstChild f Characters Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/female/Characters/Default.png",
+			"FromFile": "assets/female/Characters/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//od
+		// od
 		{
 			"LogName": "FirstChild Female Characters Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/Female/Characters/Apron/Default.png",
+			"FromFile": "assets/Female/Characters/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "True",
+				"Auto": "true",
+				"FirstChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -813,26 +811,26 @@
 			"LogName": "FirstChild Female Characters Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/Female/Characters/Default.png",
+			"FromFile": "assets/Female/Characters/default.png",
 			"When": {
-				"Auto": "True",
-				"FirstChildApron": "False",
+				"Auto": "true",
+				"FirstChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//SecondChild Portraits
+		// SecondChild Portraits
 		{
 			"LogName": "SecondChild m Portraits Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/male/Portraits/Apron/Default.png",
+			"FromFile": "assets/male/Portraits/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -841,10 +839,10 @@
 			"LogName": "SecondChild m Portraits Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/male/Portraits/Default.png",
+			"FromFile": "assets/male/Portraits/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -853,12 +851,12 @@
 			"LogName": "SecondChild f Portraits Normally Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/female/Portraits/Apron/Default.png",
+			"FromFile": "assets/female/Portraits/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -866,28 +864,28 @@
 			"LogName": "SecondChild f Portraits Normally Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/female/Portraits/Default.png",
+			"FromFile": "assets/female/Portraits/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//od
+		// od
 		{
 			"LogName": "SecondChild Female Portraits Auto Apron nsp od",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/Female/Portraits/Apron/Default.png",
+			"FromFile": "assets/Female/Portraits/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -895,26 +893,26 @@
 			"LogName": "SecondChild Female Portraits Auto NoApron nsp od",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/Female/Portraits/Default.png",
+			"FromFile": "assets/Female/Portraits/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//SecondChild Characters
+		// SecondChild Characters
 		{
 			"LogName": "SecondChild m Characters Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/male/Characters/Apron/Default.png",
+			"FromFile": "assets/male/Characters/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -923,10 +921,10 @@
 			"LogName": "SecondChild m Characters Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/male/Characters/Default.png",
+			"FromFile": "assets/male/Characters/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"HasValue:{{spouse}}": "false"
 			}
@@ -935,12 +933,12 @@
 			"LogName": "SecondChild f Characters Auto Apron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/female/Characters/Apron/Default.png",
+			"FromFile": "assets/female/Characters/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -948,27 +946,27 @@
 			"LogName": "SecondChild f Characters Auto NoApron nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/female/Characters/Default.png",
+			"FromFile": "assets/female/Characters/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Sun, Snow, Wind",
+				"Weather": "sun, snow, wind",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
-		//od
+		// od
 		{
 			"LogName": "SecondChild Female Characters Auto Apron nsp od",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/Female/Characters/Apron/Default.png",
+			"FromFile": "assets/Female/Characters/Apron/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "True",
+				"Auto": "true",
+				"SecondChildApron": "true",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -976,19 +974,19 @@
 			"LogName": "SecondChild Female Characters Auto NoApron nsp od",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/Female/Characters/Default.png",
+			"FromFile": "assets/Female/Characters/default.png",
 			"When": {
-				"Auto": "True",
-				"SecondChildApron": "False",
+				"Auto": "true",
+				"SecondChildApron": "false",
 				"IsOutdoors": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
 
-		//FirstChild
-		//LoadBaseFirstChild
+		// FirstChild
+		// LoadBaseFirstChild
 
 		{
 			"LogName": "FirstChild Dialogue",
@@ -1030,7 +1028,7 @@
 		},
 
 
-		//EditFirstChildDialogue
+		// EditFirstChildDialogue
 
 		{
 			"LogName": "FirstChild Dialogue 3 16",
@@ -1093,7 +1091,7 @@
 			"Entries": {
 				"{{Loe2run.ChildToNPC/FirstChildName}}": "I like the rain.$h#$b#{{Random:But I don't like strom.$u, Because the weather is cool.$0, We had a lot of heavy rain this morning.$0}}#$e#...$u"
 			},
-			"When": { "Weather": "Rain, Storm" }
+			"When": { "Weather": "rain, storm" }
 		},
 		{
 			"LogName": "FirstChild Dialogue Name",
@@ -1124,7 +1122,7 @@
 		},
 
 
-		//EditFirstChild Schedule
+		// EditFirstChild Schedule
 
 		{
 			"LogName": "FirstChild Penny",
@@ -1167,7 +1165,7 @@
 		},
 
 
-		//EditFirstChildStrings schedules
+		// EditFirstChildStrings schedules
 		{
 			"LogName": "FirstChild Strings schedules",
 			"Action": "EditData",
@@ -1187,7 +1185,7 @@
 		},
 
 
-		//EditFirstChildSchool
+		// EditFirstChildSchool
 		{
 			"LogName": "Edit FirstChild School Male",
 			"Action": "EditData",
@@ -1225,8 +1223,8 @@
 
 
 
-		//Second Child
-		//LoadBaseSecondChild
+		// Second Child
+		// LoadBaseSecondChild
 
 		{
 			"LogName": "SecondChild Dialogue",
@@ -1268,7 +1266,7 @@
 		},
 
 
-		//EditSecondChildDialogue
+		// EditSecondChildDialogue
 
 
 		{
@@ -1278,7 +1276,7 @@
 			"Entries": {
 				"{{Loe2run.ChildToNPC/SecondChildName}}": "{{Random:I don't like strom.$u, I’m really bored with all this rain.$u, I hope the weather will be fine tomorrow. Because I want to play outside with {{Loe2run.ChildToNPC/FirstChildName}}.$0}}#$e#...$0"
 			},
-			"When": { "Weather": "Rain, Storm" }
+			"When": { "Weather": "rain, storm" }
 		},
 		{
 			"LogName": "SecondChild Dialogue 3 16",
@@ -1352,7 +1350,7 @@
 		},
 
 
-		//EditSecondChild Schedule
+		// EditSecondChild Schedule
 
 		{
 			"LogName": "SecondChild Penny",
@@ -1396,7 +1394,7 @@
 
 
 
-		//EditSecondChildStrings schedules
+		// EditSecondChildStrings schedules
 
 		{
 			"LogName": "SecondChild Strings schedules",
@@ -1421,7 +1419,7 @@
 
 
 
-		//EditSecondChildSchool
+		// EditSecondChildSchool
 
 		{
 			"LogName": "Edit SecondChild Male School",
@@ -1458,7 +1456,7 @@
 			"When": { "Loe2run.ChildToNPC/FirstChildGender": "female" }
 		},
 
-		//Animations
+		// Animations
 
 		{
 			"LogName": "Child Animations",
@@ -1473,11 +1471,11 @@
 		},
 
 
-		//Season Clothes
+		// Season Clothes
 
-		//Summer
-		//Male
-		//Characters
+		// Summer
+		// Male
+		// Characters
 		{
 			"Logname": "FirstChild Male Characters Summer Hat Auto",
 			"Action": "EditImage",
@@ -1485,11 +1483,11 @@
 			"FromFile": "assets/Male/Characters/Summer/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1499,11 +1497,11 @@
 			"FromFile": "assets/Male/Characters/Summer/{{FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1513,11 +1511,11 @@
 			"FromFile": "assets/Male/Characters/Summer/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1527,14 +1525,14 @@
 			"FromFile": "assets/Male/Characters/Summer/{{SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
-		//Portraits
+		// Portraits
 		{
 			"Logname": "FirstChild Male Portraits Summer Hat Auto",
 			"Action": "EditImage",
@@ -1542,11 +1540,11 @@
 			"FromFile": "assets/Male/Portraits/Summer/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1556,11 +1554,11 @@
 			"FromFile": "assets/Male/Portraits/Summer/{{FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1570,11 +1568,11 @@
 			"FromFile": "assets/Male/Portraits/Summer/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1584,15 +1582,15 @@
 			"FromFile": "assets/Male/Portraits/Summer/{{SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
-		//FemaleSummer
-		//Character
+		// FemaleSummer
+		// Character
 		{
 			"Logname": "FirstChild Female Characters Summer Hat",
 			"Action": "EditImage",
@@ -1601,9 +1599,9 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1614,12 +1612,12 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
-		//FemalePortraitsSummer
+		// FemalePortraitsSummer
 		{
 			"Logname": "FirstChild Female Portraits Summer Hat",
 			"Action": "EditImage",
@@ -1628,9 +1626,9 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1641,13 +1639,13 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Summer",
+				"Season": "summer",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
-		//Fall
-		//MaleCharacters
+		// Fall
+		// MaleCharacters
 		{
 			"Logname": "FirstChild Male Characters Fall",
 			"Action": "EditImage",
@@ -1656,8 +1654,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1668,11 +1666,11 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
-		//MaleFallPortraits
+		// MaleFallPortraits
 		{
 			"Logname": "FirstChild Male Portraits Fall",
 			"Action": "EditImage",
@@ -1681,8 +1679,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1693,11 +1691,11 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
-		//FemaleCharactersFall
+		// FemaleCharactersFall
 		{
 			"Logname": "FirstChild Female Characters Fall",
 			"Action": "EditImage",
@@ -1706,8 +1704,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1718,11 +1716,11 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
-		//FemaleFallPortraits
+		// FemaleFallPortraits
 		{
 			"Logname": "FirstChild Female Portraits Fall",
 			"Action": "EditImage",
@@ -1731,8 +1729,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1743,13 +1741,13 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Fall",
-				"SeasonalSet": "True"
+				"Season": "fall",
+				"SeasonalSet": "true"
 			}
 		},
-		//Winter
-		//Male
-		//Characters
+		// Winter
+		// Male
+		// Characters
 		{
 			"Logname": "FirstChild Male Characters Winter",
 			"Action": "EditImage",
@@ -1758,8 +1756,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1770,9 +1768,9 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Winter",
+				"Season": "winter",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1783,8 +1781,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1795,12 +1793,12 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Winter",
+				"Season": "winter",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
-		//MalePortraitsWinter
+		// MalePortraitsWinter
 		{
 			"Logname": "FirstChild Male Portraits Winter",
 			"Action": "EditImage",
@@ -1809,8 +1807,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1821,9 +1819,9 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
-				"Season": "Winter",
+				"Season": "winter",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1834,8 +1832,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1847,12 +1845,12 @@
 			"When": {
 				"IsOutdoors": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
-		//FemaleWinter
-		//Characters
+		// FemaleWinter
+		// Characters
 		{
 			"Logname": "FirstChild Female Characters Winter",
 			"Action": "EditImage",
@@ -1861,8 +1859,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1873,9 +1871,9 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Winter",
+				"Season": "winter",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1886,8 +1884,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1898,12 +1896,12 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Winter",
+				"Season": "winter",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
-		//PortraitsFemaleWinter
+		// PortraitsFemaleWinter
 		{
 			"Logname": "FirstChild Female Portraits Winter",
 			"Action": "EditImage",
@@ -1912,8 +1910,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1924,9 +1922,9 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
-				"Season": "Winter",
+				"Season": "winter",
 				"IsOutdoors": "true",
-				"SeasonalSet": "True"
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1937,8 +1935,8 @@
 			"PatchMode": "Overlay",
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 		{
@@ -1950,13 +1948,13 @@
 			"When": {
 				"IsOutdoors": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
-				"Season": "Winter",
-				"SeasonalSet": "True"
+				"Season": "winter",
+				"SeasonalSet": "true"
 			}
 		},
 
-		//Raincoat
-		//MaleCharacters
+		// Raincoat
+		// MaleCharacters
 		{
 			"Logname": "FirstChild Male Characters Raincoat",
 			"Action": "EditImage",
@@ -1966,7 +1964,7 @@
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -1978,10 +1976,10 @@
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
-		//MalePortraitsRain
+		// MalePortraitsRain
 		{
 			"Logname": "FirstChild Male Portraits Raincoat",
 			"Action": "EditImage",
@@ -1991,7 +1989,7 @@
 			"When": {
 				"Loe2run.ChildToNPC/FirstChildGender": "male",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -2003,11 +2001,11 @@
 			"When": {
 				"Loe2run.ChildToNPC/SecondChildGender": "male",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
-		//Female Rain
-		//Characters
+		// Female Rain
+		// Characters
 		{
 			"Logname": "FirstChild Female Characters Raincoat Auto",
 			"Action": "Load",
@@ -2015,10 +2013,10 @@
 			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -2026,13 +2024,13 @@
 			"Logname": "FirstChild Female Characters Raincoat Auto nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/Female/Characters/Costumes/Raincoats/Default.png",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/default.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -2043,10 +2041,10 @@
 			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -2056,10 +2054,10 @@
 			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -2067,13 +2065,13 @@
 			"Logname": "SecondChild Female Characters Raincoat Auto nsp",
 			"Action": "Load",
 			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/Female/Characters/Costumes/Raincoats/Default.png",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/default.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -2084,13 +2082,13 @@
 			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
-		//PortraitsFemale rain
+		// PortraitsFemale rain
 		{
 			"Logname": "FirstChild Female Portraits Raincoat Auto",
 			"Action": "Load",
@@ -2098,10 +2096,10 @@
 			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -2109,13 +2107,13 @@
 			"Logname": "FirstChild Female Portraits Raincoat Auto nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
-			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/Default.png",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/default.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -2126,10 +2124,10 @@
 			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{FirstChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/FirstChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		},
 		{
@@ -2139,10 +2137,10 @@
 			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "true"
 			}
 		},
@@ -2150,13 +2148,13 @@
 			"Logname": "SecondChild Female Portraits Raincoat Auto nsp",
 			"Action": "Load",
 			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
-			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/Default.png",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/default.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "True",
+				"Auto": "true",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm",
+				"Weather": "rain, storm",
 				"HasValue:{{spouse}}": "false"
 			}
 		},
@@ -2167,12 +2165,11 @@
 			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{SecondChildParent}}.png",
 			"PatchMode": "Overlay",
 			"When": {
-				"Auto": "False",
+				"Auto": "false",
 				"Loe2run.ChildToNPC/SecondChildGender": "female",
 				"IsOutdoors": "true",
-				"Weather": "Rain, Storm"
+				"Weather": "rain, storm"
 			}
 		}
-
 	]
 }
