@@ -1,10 +1,24 @@
 {
     "Format": "1.19.0",
+    "DynamicTokens": [
+        {
+            "Name": "VisualStyle",
+            "Value": "default"
+        },
+        {
+            "Name": "VisualStyle",
+            "Value": "thai",
+            "When": {
+                "HasMod": "TranslatorArmy.ModTH"
+            }
+        }
+    ],
+
     "Changes": [
         // LooseSprites replacements
         {
             "Action": "EditImage",
-            "Target": "LooseSprites/Billboard, LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
+            "Target": "LooseSprites/chatbox, LooseSprites/DialogBoxGreen, LooseSprites/JunimoNote, LooseSprites/textBox, LooseSprites/daybg, LooseSprites/nightbg",
             "FromFile": "assets/{{Target}}.png"
         },
         // Letter change - support for PC and Android
@@ -22,11 +36,11 @@
             "FromFile": "assets/{{Target}}.png"
         },
 
-        // Minigames replacements
+        // Visual Style
         {
             "Action": "EditImage",
-            "Target": "Minigames/TitleButtons",
-            "FromFile": "assets/{{Target}}.png"
+            "Target": "LooseSprites/Billboard, Minigames/TitleButtons",
+            "FromFile": "assets/{{Target}}_{{VisualStyle}}.png"
         },
 
         // Begin cursors edits
