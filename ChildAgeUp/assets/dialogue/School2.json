@@ -1,11 +1,11 @@
 { //SecondChildSchool
-	"spring.001": "These cows are so cute!$h#$b#Daddy, I think we should raise a lot of them.^Mommy, I think we should raise a lot of them.$h",
-	"spring.000": "%kid1 told me, Alex told a dog is name Dusty.$0 #$b#I never seen Dusty.$s",
-	"summer.000": "Icecream is the best in the summer, I like it.$h",
-	"fall.000": "%kid1 told me, This place allowed only for children.$u",
-	"winter.000": "Vincent told me, Have monster in down.$u#$b#..But%kid1 want to go down to see it.$s",
-	"rain.000": "%Your child is reading a book.",
-	"rain.001": "There are a lot of colors here!$h#$b#Daddy, What color do you like?^Mommy, What color do you like?$0",
-	"spring.002": "Daddy, I'm studying.^Mommy, I'm studying.$u",
-	"spring.003": "Hi daddy.^Hi mommy.$0#$b#The weather is nice today.$0#$b#Where should I play?$h"
+    "spring.001": "These cows are so cute!$h#$b#Daddy, I think we should raise a lot of them.^Mommy, I think we should raise a lot of them.$h",
+    "spring.000": "%kid1 told me, Alex told a dog is name Dusty.$0 #$b#I never seen Dusty.$s",
+    "summer.000": "Icecream is the best in the summer, I like it.$h",
+    "fall.000": "%kid1 told me, This place allowed only for children.$u",
+    "winter.000": "Vincent told me, Have monster in down.$u#$b#..But%kid1 want to go down to see it.$s",
+    "rain.000": "%Your child is reading a book.",
+    "rain.001": "There are a lot of colors here!$h#$b#Daddy, What color do you like?^Mommy, What color do you like?$0",
+    "spring.002": "Daddy, I'm studying.^Mommy, I'm studying.$u",
+    "spring.003": "Hi daddy.^Hi mommy.$0#$b#The weather is nice today.$0#$b#Where should I play?$h"
 }
