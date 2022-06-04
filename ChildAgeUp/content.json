@@ -1,0 +1,2178 @@
+{
+	//If you do not have knowledge in this field Please do not fix anything.
+	"Format": "1.13.0",
+	"ConfigSchema": {
+		"Auto": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"FirstChildParent": {
+			"AllowValues": "default, abigail, alesia, alex, elliott, emily, haley, harvey, john, leah, lyell, maru, olivia, penny, raphtalia, sam, sandy, sebastian, shane, sophia, sorren, victor, wizard",
+			"Default": "default"
+		},
+		"FirstChildApron": {
+			"AllowValues": "True, False",
+			"Default": "False"
+		},
+		"SecondChildParent": {
+			"AllowValues": "default, abigail, alesia, alex, elliott, emily, haley, harvey, john, leah, lyell, maru, olivia, penny, raphtalia, sam, sandy, sebastian, shane, sophia, sorren, victor, wizard",
+			"Default": "default"
+		},
+		"SecondChildApron": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"SeasonalSet": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"MaleCoatColor": {
+			"AllowValues": "black, blue, bluesky, brown, green, magenta, pink, purple, red, white, yellow",
+			"Default": "black"
+		},
+		"FemaleCoatColor": {
+			"AllowValues": "black, blue, bluesky, brown, green, magenta, pink, purple, red, white, yellow",
+			"Default": "white"
+		}
+
+	},
+
+
+	"Changes": [
+
+		//Have Spouse
+		//FirstChild Portraits
+		{
+			"LogName": "FirstChild m Portraits Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild m Portraits Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild m Portraits Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Apron/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male"
+			}
+		},
+		{
+			"LogName": "FirstChild m Portraits Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male"
+			}
+		},
+		//female
+		{
+			"LogName": "FirstChild f Portraits Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Portraits/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild f Portraits Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Portraits/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild f Portraits Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Portraits/Apron/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+		{
+			"LogName": "FirstChild f Portraits Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Portraits/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+
+		//od
+		{
+			"LogName": "FirstChild Female Portraits Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Portraits Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Portraits Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Apron/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Portraits Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+
+		//FirstChild Characters
+		{
+			"LogName": "FirstChild m Characters Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Characters/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild m Characters Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Characters/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild m Characters Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Characters/Apron/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male"
+			}
+		},
+		{
+			"LogName": "FirstChild m Characters Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Characters/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male"
+			}
+		},
+		//female
+		{
+			"LogName": "FirstChild f Characters Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Characters/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild f Characters Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Characters/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild f Characters Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Characters/Apron/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+		{
+			"LogName": "FirstChild f Characters Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Characters/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+
+		//od
+		{
+			"LogName": "FirstChild Female Characters Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Apron/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Characters Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Characters Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Apron/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Characters Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/{{FirstChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"FirstChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+
+		//SecondChild Portraits
+		{
+			"LogName": "SecondChild m Portraits Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Portraits/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild m Portraits Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Portraits/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild m Portraits Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Portraits/Apron/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male"
+			}
+		},
+		{
+			"LogName": "SecondChild m Portraits Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Portraits/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male"
+			}
+		},
+		//female
+		{
+			"LogName": "SecondChild f Portraits Normally Auto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Portraits/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild f Portraits Normally Auto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Portraits/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild f Portraits Normally NoAuto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Portraits/Apron/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+		{
+			"LogName": "SecondChild f Portraits Normally NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Portraits/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+		//od
+		{
+			"LogName": "SecondChild Female Portraits Auto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Portraits Auto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Portraits NoAuto Apron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Apron/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Portraits NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+
+		//SecondChild Characters
+		{
+			"LogName": "SecondChild Characters Auto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Characters/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild Characters Auto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Characters/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild Characters NoAuto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Characters/Apron/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male"
+			}
+		},
+		{
+			"LogName": "SecondChild Characters NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Characters/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male"
+			}
+		},
+		//female
+		{
+			"LogName": "SecondChild f Characters Auto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Characters/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild f Characters Auto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Characters/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild f Characters NoAuto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Characters/Apron/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+		{
+			"LogName": "SecondChild f Characters NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Characters/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind"
+			}
+		},
+
+		//od
+		{
+			"LogName": "SecondChild Female Characters Auto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Apron/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Characters Auto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Characters NoAuto Apron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Apron/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Characters NoAuto NoApron",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/{{SecondChildParent}}.png",
+			"When": {
+				"Auto": "False",
+				"SecondChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm"
+			}
+		},
+
+		//No Have Spouse
+		{
+			"LogName": "FirstChild m Portraits Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Portraits/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild m Portraits Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Portraits/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild f Portraits Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Portraits/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild f Portraits Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Portraits/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//od
+		{
+			"LogName": "FirstChild Female Portraits Normally Auto Apron nsp od",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Portraits Normally Auto NoApron nsp od",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//FirstChild Characters
+		{
+			"LogName": "FirstChild m Characters Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Characters/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild m mCharacters Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/male/Characters/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild f Characters Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Characters/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild f Characters Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/female/Characters/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//od
+		{
+			"LogName": "FirstChild Female Characters Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "FirstChild Female Characters Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Default.png",
+			"When": {
+				"Auto": "True",
+				"FirstChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//SecondChild Portraits
+		{
+			"LogName": "SecondChild m Portraits Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Portraits/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild m Portraits Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Portraits/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild f Portraits Normally Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Portraits/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild f Portraits Normally Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Portraits/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//od
+		{
+			"LogName": "SecondChild Female Portraits Auto Apron nsp od",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Portraits Auto NoApron nsp od",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//SecondChild Characters
+		{
+			"LogName": "SecondChild m Characters Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Characters/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild m Characters Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/male/Characters/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild f Characters Auto Apron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Characters/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild f Characters Auto NoApron nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/female/Characters/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Sun, Snow, Wind",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		//od
+		{
+			"LogName": "SecondChild Female Characters Auto Apron nsp od",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Apron/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "True",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"LogName": "SecondChild Female Characters Auto NoApron nsp od",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Default.png",
+			"When": {
+				"Auto": "True",
+				"SecondChildApron": "False",
+				"IsOutdoors": "false",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+
+		//FirstChild
+		//LoadBaseFirstChild
+
+		{
+			"LogName": "FirstChild Dialogue",
+			"Action": "Load",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/dialogue/dialogue1.json"
+		},
+		{
+			"LogName": "FirstChild Schedule",
+			"Action": "Load",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/schedules/FirstChild{{Loe2run.ChildToNPC/FirstChildGender}}.json"
+		},
+		{
+			"LogName": "FirstChild School",
+			"Action": "Load",
+			"Target": "Strings/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/dialogue/School1.json"
+
+		},
+		{
+			"LogName": "FirstChildDispositions",
+			"Action": "EditData",
+			"Target": "Data/NPCDispositions",
+			"Entries": {
+				"{{Loe2run.ChildToNPC/FirstChildName}}": "child/neutral/outgoing/neutral/{{Loe2run.ChildToNPC/FirstChildGender}}/non-datable/null/Town/{{Loe2run.ChildToNPC/FirstChildBirthday}}/Jas 'friend' Vincent 'friend'/{{Loe2run.ChildToNPC/FirstChildBed}}/{{Loe2run.ChildToNPC/FirstChildName}}"
+			},
+			"When": {
+				"Loe2run.ChildToNPC/NumberTotalChildren": "1, 2, 3, 4"
+			}
+		},
+		{
+			"LogName": "FirstChildGiftTastes",
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"Entries": {
+				"{{Loe2run.ChildToNPC/FirstChildName}}": "Wow! How do you know? I love it!/107 184 206 220 221 223 233 373 394 434 575/Thanks! I like it!/88 350 376 424 440 591 -7 -2/...Huh?/-12 -15 -16 -8 -19 -22 -74 -28/No! I hate it..!!/-21 -20 -81/Thanks!/-14 -75 -79 -80 -2 -4 -5 -6 -25 -26 -27/"
+			}
+		},
+
+
+		//EditFirstChildDialogue
+
+		{
+			"LogName": "FirstChild Dialogue 3 16",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"3_2": "Daddy, Tomorrow Teacher Penny will teach me about {{Random:plant, grammar, universe, insect cycle, math|Subject1}}.^Mommy, Tomorrow Miss Penny will teach me about {{Random:plant, grammar, universe, insect cycle, math | Subject1}}.$0#$b#I think it's {{Random:interesting$h, maybe interesting$0}}.",
+				"16_2": "Daddy, Tomorrow Teacher Penny will teach me about {{Random:animals, body, colors and art, water cycle, under the sea|Subject2}}.^Mommy, Tomorrow Miss Penny will teach me about {{Random:animals, body, colors and art, water cycle, under the sea | Subject2}}.$0#$b#I hope it's {{Random:fun$u, not difficult$0}}."
+			}
+		},
+		{
+			"LogName": "FirstChild Dialogue Mon",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"Mon": "Last night, I had a good dream.$0#$b#I went into the {{Random:candy, dessert, chocolate, marshmallow}} world.$h#$e#...$0"
+			},
+			"When": { "DayOfWeek": "Monday" }
+		},
+		{
+			"LogName": "FirstChild Dialogue Wed",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"Wed": "%{{Loe2run.ChildToNPC/FirstChildName}}, How was your school to day?#$b#{{Random:It was hard...$s, It was fun.$h, So so.$u, That's good$0.}}"
+			},
+			"When": { "DayOfWeek": "Wednesday" }
+		},
+		{
+			"LogName": "FirstChild Dialogue Thu",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"Thu": "Have you ever seen a {{Random:rainbow, ladybug, squirrel, frog, swarm of bees}}?$0#$b#I saw it yesterday.$0#$e#...$0"
+			},
+			"When": { "DayOfWeek": "Thursday" }
+		},
+		{
+			"LogName": "FirstChild Dialogue Fri",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"Fri": "I want {{Random:spaghetti, baked fish, crispy bass, hashbrowns, salmon dinner, sashimi}} for dinner tonight.$h"
+			},
+			"When": { "DayOfWeek": "Friday" }
+		},
+		{
+			"LogName": "FirstChild Dialogue Sun",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"Sun": "Do you know {{Random:legendary fish, prismatic shard, galaxy sword}}?$u#$b#Because I want to see it.$0#$e#...$0"
+			},
+			"When": { "DayOfWeek": "Sunday" }
+		},
+		{
+			"LogName": "FirstChild Rainy",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/rainy",
+			"Entries": {
+				"{{Loe2run.ChildToNPC/FirstChildName}}": "I like the rain.$h#$b#{{Random:But I don't like strom.$u, Because the weather is cool.$0, We had a lot of heavy rain this morning.$0}}#$e#...$u"
+			},
+			"When": { "Weather": "Rain, Storm" }
+		},
+		{
+			"LogName": "FirstChild Dialogue Name",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"Tue": "Why did you name me {{Loe2run.ChildToNPC/FirstChildName}}?$u#$e#I don't know why, but I loved it.$h"
+			}
+		},
+		{
+			"LogName": "FirstChild Dialogue penny married",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"3_2": "Daddy, Tomorrow Mommy will teach me about {{Random:plant, grammar, universe, insect cycle, math|Subject1}}.^Mommy, Tomorrow Mommy will teach me about {{Random:plant, grammar, universe, insect cycle, math | Subject1}}.$0#$b#I think it's {{Random:interesting$h, maybe interesting$0}}.",
+				"16_2": "Daddy, Tomorrow Mommy will teach me about {{Random:animals, body, colors and art, water cycle, under the sea|Subject2}}.^Mommy, Tomorrow Mommy will teach me about {{Random:animals, body, colors and art, water cycle, under the sea | Subject2}}.$0#$b#I hope it's {{Random:fun$u, not difficult$0}}."
+			},
+			"When": { "Relationship:Penny": "Married" }
+		},
+		{
+			"LogName": "FirstChild Dialogue sam married",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"SamHouse_3_5": "Grandma Jody is very kind.$0#$b#And Vincent looks very similar to Grandma Jody too.$h"
+			},
+			"When": { "Relationship:Sam": "Married" }
+		},
+
+
+		//EditFirstChild Schedule
+
+		{
+			"LogName": "FirstChild Penny",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"9": "GOTO {{season}}",
+				"23": "GOTO {{season}}"
+			},
+			"When": {
+				"Hearts:Penny": "{{Range: 0, 5}}",
+				"Day": "9, 23"
+			}
+		},
+		{
+			"LogName": "FirstChild Sam",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"9": "GOTO {{season}}",
+				"23": "GOTO {{season}}"
+			},
+			"When": {
+				"Hearts:Sam": "{{Range: 0, 5}}",
+				"Day": "9, 23"
+			}
+		},
+		{
+			"LogName": "FirstChild School",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"9": "GOTO Tue",
+				"23": "GOTO Tue"
+			},
+			"When": {
+				"Hearts:Penny": "{{Range: 6, 14}}",
+				"Hearts:Sam": "{{Range: 6, 14}}"
+			}
+		},
+
+
+		//EditFirstChildStrings schedules
+		{
+			"LogName": "FirstChild Strings schedules",
+			"Action": "EditData",
+			"Target": "Strings/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"rain.000": "%{{Loe2run.ChildToNPC/FirstChildName}} is reading a book."
+			}
+		},
+		{
+			"LogName": "FirstChild Strings schedules alex married",
+			"Action": "EditData",
+			"Target": "Strings/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"spring.000": "Daddy told me, A dog is name Dusty.$0 #$b#I have seen Dusty onec time.$s"
+			},
+			"When": { "Relationship:Alex": "Married" }
+		},
+
+
+		//EditFirstChildSchool
+		{
+			"LogName": "Edit FirstChild School Male",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"spring_1": "800 Town 30 67 3 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.003\"/1100 Town 54 71 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.000\"/1220 Forest 97 23 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.001\"/1500 Town 26 21 Child_read",
+				"rain": "900 CommunityCenter 26 17 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"/1140 CommunityCenter 8 5 0/1200 CommunityCenter 4 7 2/1300 CommunityCenter 33 11 0/1500 CommunityCenter 39 10 0/1510 CommunityCenter 42 10 0/1530 CommunityCenter 23 9 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"",
+				"rain2": "900 CommunityCenter 16 19 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.001\"/1140 CommunityCenter 8 5 0/1200 CommunityCenter 4 7 2/1300 CommunityCenter 25 17 Child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"/1500 CommunityCenter 33 11 0/1630 CommunityCenter 23 9 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"",
+				"Tue": "800 ArchaeologyHouse 18 12 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.002\"/1400 Town 83 98 3/1620 Town 16 89 2/1740 SamHouse 3 5 2",
+				"Sat": "800 Town 32 91 0/1200 Town 13 11 child_yoyo/1700 Town 28 92 0",
+				"spring": "800 Town 10 94 2/1000 SeedShop 11 20 0/1040 SeedShop 15 20 0/1100 SeedShop 4 19 0/1130 Town 50 67 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.000\"/1210 Town 43 77 2/1400 Town 14 71 child_read/1630 AnimalShop 14 16 child_read",
+				"summer": "800 SeedShop 11 20 0/1010 SeedShop 15 20 0/1030 SeedShop 4 19 0/1050 Beach 44 25 1/1300 Town 88 93 0/1400 Town 78 95 2 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:summer.000\"/1700 Town 27 67 1",
+				"fall": "800 SeedShop 11 20 0/1010 SeedShop 4 19 0/1030 Town 63 15 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:fall.000\"/1500 Town 50 69 1/1700 Town 27 67 1",
+				"winter": "800 Town 30 67 3 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.003\"/1100 Town 36 96 3 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:winter.000\"/1500 Forest 106 36 2/1700 Town 10 94 2"
+			},
+			"When": { "Loe2run.ChildToNPC/FirstChildGender": "male" }
+		},
+		{
+			"LogName": "Edit FirstChild School Female",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"Entries": {
+				"spring_1": "800 Town 30 67 3 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.003\"/1100 Town 54 71 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.000\"/1220 Forest 97 23 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.001\"/1500 Town 26 21 Child_read",
+				"rain": "900 CommunityCenter 26 17 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"/1140 CommunityCenter 8 5 0/1200 CommunityCenter 4 7 2/1300 CommunityCenter 33 11 0/1500 CommunityCenter 39 10 0/1510 CommunityCenter 42 10 0/1530 CommunityCenter 23 9 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"",
+				"rain2": "900 CommunityCenter 16 19 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.001\"/1140 CommunityCenter 8 5 0/1200 CommunityCenter 4 7 2/1300 CommunityCenter 25 17 Child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"/1500 CommunityCenter 33 11 0/1630 CommunityCenter 23 9 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:rain.000\"",
+				"Tue": "800 ArchaeologyHouse 18 12 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.002\"/1400 Town 83 98 3/1620 Town 16 89 2/1740 SamHouse 3 5 2",
+				"Sat": "800 Town 32 91 0/12 Town 13 11 child_sit/1700 Town 28 92 0",
+				"spring": "800 Town 10 94 2/1000 SeedShop 11 20 0/1040 SeedShop 15 20 0/1100 SeedShop 4 19 0/1130 Town 50 67 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.000\"/1210 Town 43 77 2/1400 Town 14 71 child_read/1630 AnimalShop 14 16 child_read",
+				"summer": "800 SeedShop 11 20 0/1010 SeedShop 15 20 0/1030 SeedShop 4 19 0/1050 Beach 44 25 1/1300 Town 88 93 0/1400 Town 78 95 2 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:summer.000\"/1700 Town 27 67 1",
+				"fall": "800 SeedShop 11 20 0/1010 SeedShop 4 19 0/1030 Town 63 15 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:fall.000\"/1500 Town 50 69 1/1700 Town 27 67 1",
+				"winter": "800 Town 30 67 3 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:spring.003\"/1100 Town 36 96 3 \"Strings\\schedules\\{{Loe2run.ChildToNPC/FirstChildName}}:winter.000\"/1500 Forest 106 36 2/1700 Town 10 94 2"
+			},
+			"When": { "Loe2run.ChildToNPC/FirstChildGender": "female" }
+		},
+
+
+
+		//Second Child
+		//LoadBaseSecondChild
+
+		{
+			"LogName": "SecondChild Dialogue",
+			"Action": "Load",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/dialogue/Dialogue2.json"
+		},
+		{
+			"LogName": "SecondChild Schedule",
+			"Action": "Load",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/schedules/SecondChild{{Loe2run.ChildToNPC/SecondChildGender}}.json"
+		},
+		{
+			"LogName": "SecondChild School",
+			"Action": "Load",
+			"Target": "Strings/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/dialogue/School2.json"
+
+		},
+		{
+			"LogName": "SecondChildDispositions",
+			"Action": "EditData",
+			"Target": "Data/NPCDispositions",
+			"Entries": {
+				"{{Loe2run.ChildToNPC/SecondChildName}}": "Secondchild/neutral/outgoing/neutral/{{Loe2run.ChildToNPC/SecondChildGender}}/non-datable/null/Town/{{Loe2run.ChildToNPC/SecondChildBirthday}}/Jas 'friend' Vincent 'friend'/{{Loe2run.ChildToNPC/SecondChildBed}}/{{Loe2run.ChildToNPC/SecondChildName}}"
+			},
+			"When": {
+				"Loe2run.ChildToNPC/NumberTotalChildren": "1, 2, 3, 4"
+			}
+		},
+		{
+			"LogName": "SecondChildGiftTastes",
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"Entries": {
+				"{{Loe2run.ChildToNPC/SecondChildName}}": "Daddy! I love it!^Mommy! I love it!/107 184 206 220 221 223 233 373 394 434 575/Thanks! I like it!/88 350 376 424 440 591 -7 -2/...?/-12 -15 -16 -8 -19 -22 -74 -28/No.. I don't want it../-21 -20 -81/Thanks! Daddy.^Thanks! Mommy./-14 -75 -79 -80 -2 -4 -5 -6 -25 -26 -27/"
+			}
+		},
+
+
+		//EditSecondChildDialogue
+
+
+		{
+			"LogName": "SecondChild Rainy",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/rainy",
+			"Entries": {
+				"{{Loe2run.ChildToNPC/SecondChildName}}": "{{Random:I don't like strom.$u, I’m really bored with all this rain.$u, I hope the weather will be fine tomorrow. Because I want to play outside with {{Loe2run.ChildToNPC/FirstChildName}}.$0}}#$e#...$0"
+			},
+			"When": { "Weather": "Rain, Storm" }
+		},
+		{
+			"LogName": "SecondChild Dialogue 3 16",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"3_2": "Daddy, Tomorrow Teacher Penny will teach me about {{Random:plant, grammar, universe, insect cycle, math | Subject1}}.^Mommy, Tomorrow Miss Penny will teach me about {{Random:plant, grammar, universe, insect cycle, math|Subject1}}.$0#$b#...But I want to learn something else.$h#$e#...$0",
+				"16_2": "Daddy, Tomorrow Teacher Penny will teach me about {{Random:animals, body, colors and art, water cycle, under the sea | Subject2}}.^Mommy, Tomorrow Miss Penny will teach me about {{Random:animals, body, colors and art, water cycle, under the sea|Subject2}}.$0#$b#I'm so {{Random:excited$h, worry$s, lazy$u, happy$h}}."
+			}
+		},
+		{
+			"LogName": "SecondChild Dialogue Mon",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"Mon": "Have you ever seen {{Random:butterfly, ladybug, heart shaped clouds, frog, bear}}?$0#$b#I saw it yesterday.$h#$e#...$u"
+			},
+			"When": { "DayOfWeek": "Monday" }
+		},
+		{
+			"LogName": "SecondChild Dialogue Tue",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"Tue": "I want {{Random:omelet, cheese cauliflower, carp surprise, fried calamari, ice cream, hashbrowns}} for dinner to night.$h"
+			},
+			"When": { "DayOfWeek": "Tuesday" }
+		},
+		{
+			"LogName": "SecondChild Dialogue Wed",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"Wed": "%{{Loe2run.ChildToNPC/SecondChildName}}, What did you learn to day?#$b#{{Random:Hmmm.... many things$h, Um ... I can't remember.$s, I don't know but it's very difficult.$s, Learn what I like very much.$h}}#$e#...$u"
+			},
+			"When": {
+				"DayOfWeek": "Wednesday"
+			}
+		},
+		{
+			"LogName": "SecondChild Dialogue Name",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"summer_1_2": "Today, {{Loe2run.ChildToNPC/FirstChildName}} will buy ice cream for me.$h#$b#I hope it's true$0",
+				"Fri": "Why did you name me {{Loe2run.ChildToNPC/SecondChildName}}?$u#$b#I don't know why, but I think I loved it.$h",
+				"Sat": "{{Loe2run.ChildToNPC/FirstChildName}} told you right?, We go to play with Jas and Vincent.$h#$b#...But you don't worry, Miss Penny will take care us.$0",
+				"Town_45_57": "Hi daddy.^Hi mommy.$h#$b#I'm waiting for {{Loe2run.ChildToNPC/FirstChildName}} out of the store.$0"
+			}
+		},
+		{
+			"LogName": "SecondChild Dialogue penny married",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"3_2": "Daddy, Tomorrow Mommy will teach me about {{Random:plant, grammar, universe, insect cycle, math | Subject1}}.^Mommy, Tomorrow Mommy will teach me about {{Random:plant, grammar, universe, insect cycle, math|Subject1}}.$0#$b#...But I want to learn something else.$h#$e#...$0",
+				"16_2": "Daddy, Tomorrow Mommy will teach me about {{Random:animals, body, colors and art, water cycle, under the sea | Subject2}}.^Mommy, Tomorrow Mommy will teach me about {{Random:animals, body, colors and art, water cycle, under the sea|Subject2}}.$0#$b#I'm so {{Random:excited$h, worry$s, lazy$u, happy$h}}.",
+				"Sat": "{{Loe2run.ChildToNPC/FirstChildName}} told you right?, We go to play with Jas and Vincent.$h#$b#...But you don't worry, Mommy will take care us.$0",
+				"Town_17_14": "Don't worry, Mommy taking care of us."
+			},
+			"When": { "Relationship:Penny": "Married" }
+		},
+		{
+			"LogName": "SecondChild Dialogue sam married",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"SamHouse_2_5": "Granma Jodi invited us to eat here.$0#$b#...We agree And the food is very delicious.$h"
+			},
+			"When": { "Relationship:Sam": "Married" }
+		},
+
+
+		//EditSecondChild Schedule
+
+		{
+			"LogName": "SecondChild Penny",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"9": "GOTO {{season}}",
+				"23": "GOTO {{season}}"
+			},
+			"When": {
+				"Hearts:Penny": "{{Range: 0, 5}}",
+				"Day": "9, 23"
+			}
+		},
+		{
+			"LogName": "SecondChild Sam",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"9": "GOTO {{season}}",
+				"23": "GOTO {{season}}"
+			},
+			"When": {
+				"Hearts:Sam": "{{Range: 0, 5}}",
+				"Day": "9, 23"
+			}
+		},
+		{
+			"LogName": "SecondChild9 23",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"9": "GOTO Tue",
+				"23": "GOTO Tue"
+			},
+			"When": {
+				"Hearts:Penny": "{{Range: 6, 14}}",
+				"Hearts:Sam": "{{Range: 6, 14}}"
+			}
+		},
+
+
+
+		//EditSecondChildStrings schedules
+
+		{
+			"LogName": "SecondChild Strings schedules",
+			"Action": "EditData",
+			"Target": "Strings/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"spring.000": "{{Loe2run.ChildToNPC/FirstChildName}} told me, Alex told a dog is name Dusty.$0 #$b#I never seen Dusty.$s",
+				"fall.000": "{{Loe2run.ChildToNPC/FirstChildName}} told me, This place allowed only for children.$u",
+				"winter.000": "Vincent told me, Have monster in down.$u#$b#..But {{Loe2run.ChildToNPC/FirstChildName}} want to go down to see it.$s",
+				"rain.000": "%{{Loe2run.ChildToNPC/SecondChildName}} is reading a book."
+			}
+		},
+		{
+			"LogName": "SecondChild Strings schedules alex married",
+			"Action": "EditData",
+			"Target": "Strings/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"spring.000": "{{Loe2run.ChildToNPC/FirstChildName}} told me, Daddy told a dog is name Dusty.$0 #$b#I never seen Dusty.$s"
+			},
+			"When": { "Relationship:Alex": "Married" }
+		},
+
+
+
+		//EditSecondChildSchool
+
+		{
+			"LogName": "Edit SecondChild Male School",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"spring_1": "800 Town 27 67 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.003\"/1100 Town 52 71 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:summer.000\"/1220 Forest 99 23 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.001\"/1500 Town 25 21 Child_read",
+				"rain": "900 CommunityCenter 23 17 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"/1140 CommunityCenter 6 7 2/1310 CommunityCenter 32 11 0/1500 CommunityCenter 38 10 0/1510 CommunityCenter 41 10 0/1530 CommunityCenter 27 10 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"",
+				"rain2": "900 CommunityCenter 18 20 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.001\"/1140 CommunityCenter 6 7 2/1300 CommunityCenter 23 17 Child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"/1500 CommunityCenter 32 11 0/1630 CommunityCenter 27 10 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"",
+				"Tue": "800 ArchaeologyHouse 17 12 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.002\"/1400 Town 87 103 2/1620 Town 18 90 3/1740 SamHouse 2 5 2",
+				"Sat": "800 Town 32 88 2/1200 Town 17 14 child_yoyo/1700 Town 29 89 2",
+				"spring": "800 Town 12 94 2/1000 Town 45 57 2/1140 Town 50 69 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.000\"/1210 Town 44 77 2/1400 Town 16 72 child_read/1630 AnimalShop 16 13 child_read",
+				"summer": "800 Town 45 57 2/1100 Beach 46 25 3/1300 Town 87 93 0/1400 Town 79 95 2 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:summer.000\"/1700 Town 30 67 3",
+				"fall": "800 Town 45 57 2/1040 Town 62 16 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:fall.000\"/1500 Town 52 71 0/1700 Town 30 67 3",
+				"winter": "800 Town 27 67 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.003\"/1100 Town 33 96 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:winter.000\"/1500 Forest 104 36 2/1700 Town 12 94 2"
+			},
+			"When": { "Loe2run.ChildToNPC/FirstChildGender": "male" }
+		},
+		{
+			"LogName": "Edit SecondChild Female School",
+			"Action": "EditData",
+			"Target": "Characters/schedules/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"Entries": {
+				"spring_1": "800 Town 27 67 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.003\"/1100 Town 52 71 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:summer.000\"/1220 Forest 99 23 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.001\"/1500 Town 25 21 Child_read",
+				"rain": "900 CommunityCenter 23 17 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"/1140 CommunityCenter 6 7 2/1310 CommunityCenter 32 11 0/1500 CommunityCenter 38 10 0/1510 CommunityCenter 41 10 0/1530 CommunityCenter 27 10 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"",
+				"rain2": "900 CommunityCenter 18 20 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.001\"/1140 Community center 6 7 2/1300 CommunityCenter 23 17 Child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"/1500 CommunityCenter 32 11 0/1630 CommunityCenter 27 10 child_read \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:rain.000\"",
+				"Tue": "800 ArchaeologyHouse 17 12 0 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.002\"/1400 Town 87 103 2/1620 Town 18 90 3/1740 SamHouse 2 5 2",
+				"Sat": "800 Town 32 88 2/12 Town 17 14 child_sit/1700 Town 29 89 2",
+				"spring": "800 Town 12 94 2/1000 Town 45 57 2/1140 Town 50 69 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.000\"/1210 Town 44 77 2/1400 Town 16 72 child_read/1630 AnimalShop 16 13 child_read",
+				"summer": "800 Town 45 57 2/1100 Beach 46 25 3/1300 Town 87 93 0/1400 Town 79 95 2 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:summer.000\"/1700 Town 30 67 3",
+				"fall": "800 Town 45 57 2/1040 Town 62 16 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:fall.000\"/1500 Town 52 71 0/1700 Town 30 67 3",
+				"winter": "800 Town 27 67 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:spring.003\"/1100 Town 33 96 1 \"Strings\\schedules\\{{Loe2run.ChildToNPC/SecondChildName}}:winter.000\"/1500 Forest 104 36 2/1700 Town 12 94 2"
+			},
+			"When": { "Loe2run.ChildToNPC/FirstChildGender": "female" }
+		},
+
+		//Animations
+
+		{
+			"LogName": "Child Animations",
+			"Action": "EditData",
+			"Target": "Data/animationdescriptions",
+			"Entries": {
+				"child_read": "16/16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 16 16 16 16 16 16 16 16 16 16 16 16 16 16/16",
+				"child_sit": "20/20 21 21 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 21 21 20/20",
+				"child_sleep": "23/23 23/23",
+				"child_yoyo": "20/20 20 21 21 21 21 21 21 21 22 22 22 22 21 21 21 21 21 21 22/20"
+			}
+		},
+
+
+		//Season Clothes
+
+		//Summer
+		//Male
+		//Characters
+		{
+			"Logname": "FirstChild Male Characters Summer Hat Auto",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Characters/Summer/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "FirstChild Male Characters Summer Hat NoAuto",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Characters/Summer/{{FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Summer Hat Auto",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Characters/Summer/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Summer Hat NoAuto",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Characters/Summer/{{SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		//Portraits
+		{
+			"Logname": "FirstChild Male Portraits Summer Hat Auto",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Summer/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "FirstChild Male Portraits Summer Hat NoAuto",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Summer/{{FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Portraits Summer Hat Auto",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Portraits/Summer/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Portraits Summer Hat NoAuto",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Portraits/Summer/{{SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		//FemaleSummer
+		//Character
+		{
+			"Logname": "FirstChild Female Characters Summer Hat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/SummerHats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Summer Hat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/SummerHats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		//FemalePortraitsSummer
+		{
+			"Logname": "FirstChild Female Portraits Summer Hat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/SummerHats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Summer Hat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/SummerHats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Summer",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		//Fall
+		//MaleCharacters
+		{
+			"Logname": "FirstChild Male Characters Fall",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Characters/Fall/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Fall",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Characters/Fall/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		//MaleFallPortraits
+		{
+			"Logname": "FirstChild Male Portraits Fall",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Fall/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Portraits Fall",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Portraits/Fall/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		//FemaleCharactersFall
+		{
+			"Logname": "FirstChild Female Characters Fall",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Fall/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Fall",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Fall/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		//FemaleFallPortraits
+		{
+			"Logname": "FirstChild Female Portraits Fall",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Fall/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Fall",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Fall/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Fall",
+				"SeasonalSet": "True"
+			}
+		},
+		//Winter
+		//Male
+		//Characters
+		{
+			"Logname": "FirstChild Male Characters Winter",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Characters/Winter/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "FirstChild Male Characters Winter Hat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Characters/Winter/Hats/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Winter",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Winter",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Characters/Winter/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Winter Hat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Characters/Winter/Hats/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Winter",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		//MalePortraitsWinter
+		{
+			"Logname": "FirstChild Male Portraits Winter",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Winter/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "FirstChild Male Portraits Winter Hat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Winter/Hats/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"Season": "Winter",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Portraits Winter",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Portraits/Winter/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Portraits Winter Hat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Portraits/Winter/Hats/{{MaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"IsOutdoors": "true",
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		//FemaleWinter
+		//Characters
+		{
+			"Logname": "FirstChild Female Characters Winter",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Winter/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "FirstChild Female Characters Winter Hat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Winter/Hats/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Winter",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Winter",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Winter/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Winter Hat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Winter/Hats/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Winter",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		//PortraitsFemaleWinter
+		{
+			"Logname": "FirstChild Female Portraits Winter",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Winter/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "FirstChild Female Portraits Winter Hat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Winter/Hats/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"Season": "Winter",
+				"IsOutdoors": "true",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Winter",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Winter/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Winter Hat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Winter/Hats/{{FemaleCoatColor}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"IsOutdoors": "true",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"Season": "Winter",
+				"SeasonalSet": "True"
+			}
+		},
+
+		//Raincoat
+		//MaleCharacters
+		{
+			"Logname": "FirstChild Male Characters Raincoat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Characters/Costumes/Raincoats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Raincoat",
+			"Action": "EditImage",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Characters/Costumes/Raincoats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		//MalePortraitsRain
+		{
+			"Logname": "FirstChild Male Portraits Raincoat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Male/Portraits/Costumes/Raincoats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/FirstChildGender": "male",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"Logname": "SecondChild Male Characters Raincoat",
+			"Action": "EditImage",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Male/Portraits/Costumes/Raincoats.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Loe2run.ChildToNPC/SecondChildGender": "male",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		//Female Rain
+		//Characters
+		{
+			"Logname": "FirstChild Female Characters Raincoat Auto",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"Logname": "FirstChild Female Characters Raincoat Auto nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/Default.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"Logname": "FirstChild Female Characters Raincoat NoAuto",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Raincoat Auto",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Raincoat Auto nsp",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/Default.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Characters Raincoat NoAuto",
+			"Action": "Load",
+			"Target": "Characters/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Characters/Costumes/Raincoats/{{SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		//PortraitsFemale rain
+		{
+			"Logname": "FirstChild Female Portraits Raincoat Auto",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{Loe2run.ChildToNPC/FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"Logname": "FirstChild Female Portraits Raincoat Auto nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/Default.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"Logname": "FirstChild Female Portraits Raincoat NoAuto",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/FirstChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{FirstChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/FirstChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Raincoat Auto",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{Loe2run.ChildToNPC/SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "true"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Raincoat Auto nsp",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/Default.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "True",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm",
+				"HasValue:{{spouse}}": "false"
+			}
+		},
+		{
+			"Logname": "SecondChild Female Portraits Raincoat NoAuto",
+			"Action": "Load",
+			"Target": "Portraits/{{Loe2run.ChildToNPC/SecondChildName}}",
+			"FromFile": "assets/Female/Portraits/Costumes/Raincoats/{{SecondChildParent}}.png",
+			"PatchMode": "Overlay",
+			"When": {
+				"Auto": "False",
+				"Loe2run.ChildToNPC/SecondChildGender": "female",
+				"IsOutdoors": "true",
+				"Weather": "Rain, Storm"
+			}
+		}
+
+	]
+}

@@ -1,0 +1,17 @@
+{ //ScheduleFemaleFirstChild
+	"spring_1": "800 Town 30 67 3/1100 Town 54 71 3/1220 Forest 97 23 0/1500 Town 26 21 Child_read",
+	"summer_1": "GOTO spring_1",
+	"fall_1": "GOTO spring_1",
+	"9": "NOT friendship Sam 6 Penny 6/GOTO spring",
+	"23": "NOT friendship Sam 6 Penny 6/GOTO spring",
+	"rain": "900 CommunityCenter 26 17 child_read/1140 CommunityCenter 8 5 0/1200 CommunityCenter 3 7 2/1300 CommunityCenter 33 11 0/1500 CommunityCenter 39 10 0/1510 CommunityCenter 42 10 0/1530 CommunityCenter 23 9 child_read",
+	"rain2": "900 CommunityCenter 16 19 0/1140 CommunityCenter 8 5 0/1200 CommunityCenter 3 7 2/1300 CommunityCenter 25 17 Child_read/1500 CommunityCenter 33 11 0/1630 CommunityCenter 23 9 child_read",
+	"Tue": "800 ArchaeologyHouse 18 12 0/1400 Town 83 98 3/1620 Town 16 89 2/1740 SamHouse 3 5 2",
+	"Wed": "GOTO Tue",
+	"Fri": "GOTO Tue",
+	"Sat": "800 Town 32 91 0/12 Town 13 11 child_sit/1700 Town 28 92 0",
+	"spring": "800 Town 10 94 2/1000 SeedShop 11 20 0/1040 SeedShop 15 20 0/1100 SeedShop 4 19 0/1110 Town 50 67 1/1210 Town 41 78 child_sit/1400 Town 14 71 child_read/1630 AnimalShop 14 16 child_read",
+	"summer": "800 SeedShop 11 20 0/1010 SeedShop 15 20 0/1030 SeedShop 4 19 0/1050 Beach 47 20 1/1200 Town 88 93 0/1300 Town 78 95 2/1700 Town 27 67 1",
+	"fall": "800 SeedShop 11 20 0/1010 SeedShop 4 19 0/1030 Town 63 15 0/1500 Town 50 69 1/1700 Town 27 67 1",
+	"winter": "800 Town 30 67 3/1100 Town 36 96 3/1500 Forest 106 36 2/1700 Town 10 94 2"
+}
