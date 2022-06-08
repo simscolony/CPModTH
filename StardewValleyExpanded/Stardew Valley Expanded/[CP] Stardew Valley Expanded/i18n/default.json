@@ -40,6 +40,8 @@
     // Portraits
     "config.OlderSophiaPortraits.name": "Older Sophia Portraits",
     "config.OlderSophiaPortraits.description": "",
+    "config.VanillaSandyPortraits.name": "Vanilla Sandy Portraits",
+    "config.VanillaSandyPortraits.description": "",
 
     // Dialogue
     "config.MatureEvents.name": "Mature Events",
