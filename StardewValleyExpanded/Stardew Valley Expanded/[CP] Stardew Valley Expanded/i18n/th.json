@@ -40,6 +40,8 @@
     // Portraits
     "config.OlderSophiaPortraits.name": "รูป Portrait ของโซเฟีย",
     "config.OlderSophiaPortraits.description": "เปิดใช้งานรูป Portrait ของโซเฟียที่มีอายุมากขึ้น",
+    "config.VanillaSandyPortraits.name": "รูป Portrait ของแซนดี้",
+    "config.VanillaSandyPortraits.description": "เปิดใช้งานรูป Portrait เกมหลักของแซนดี้",
 
     // Dialogue
     "config.MatureEvents.name": "เหตุการณ์สำหรับผู้ใหญ่",
