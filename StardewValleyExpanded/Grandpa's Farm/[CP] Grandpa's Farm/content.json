@@ -245,8 +245,8 @@
     {
       "Action": "EditMap",
       "Target": "Maps/Woods",
-      "FromFile": "assets/MapPatches/GrandpasFarm_WoodsWarps.tbin",
-      "ToArea": { "X": 44, "Y": 0, "Width": 6, "Height": 7 },
+      "FromFile": "assets/MapPatches/GrandpasFarm_WoodsWarps.tmx",
+      "ToArea": { "X": 64, "Y": 0, "Width": 8, "Height": 7 },
       "When": { "FarmType": "Standard" }
     },
 

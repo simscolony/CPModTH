@@ -1,8 +1,8 @@
 {
   "Name": "Grandpa's Farm - THAI",
   "Author": "FlashShifter",
-  "Version": "1.14.10",
-  "Description": "A small immersive farm map meant for single player gameplay.",
+  "Version": "1.14.12",
+  "Description": "The recommended farm map for Stardew Valley Expanded.",
   "UniqueID": "flashshifter.GrandpasFarm",
   "MinimumApiVersion": "3.0",
   "UpdateKeys": [ "Nexus:7255@GrandpasFarm" ],
