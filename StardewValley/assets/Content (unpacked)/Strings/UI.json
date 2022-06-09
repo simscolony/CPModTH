@@ -497,7 +497,7 @@
         "Profile_Gift_Neutral": "ของที่เฉยๆ",
         "Profile_Gift_Disliked": "ของที่ไม่ชอบ",
         "Profile_Gift_Hated": "ของที่เกลียด",
-        "Profile_Gift_Category_LikedGifts": "ของโปรดของ{0}",
+        "Profile_Gift_Category_LikedGifts": "ของโปรดของ {0}",
         "Profile_Gift_Category_FruitsAndVegetables": "ผักและผลไม้",
         "Profile_Gift_Category_AnimalProduce": "ผลิตภัณฑ์จากสัตว์",
         "Profile_Gift_Category_ArtisanItems": "ของแปรรูป",
