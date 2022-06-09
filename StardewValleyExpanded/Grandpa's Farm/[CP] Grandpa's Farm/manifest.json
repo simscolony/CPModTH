@@ -1,11 +1,11 @@
 {
   "Name": "Grandpa's Farm - THAI",
   "Author": "FlashShifter",
-  "Version": "1.14.12",
+  "Version": "1.14.13",
   "Description": "The recommended farm map for Stardew Valley Expanded.",
   "UniqueID": "flashshifter.GrandpasFarm",
   "MinimumApiVersion": "3.0",
-  "UpdateKeys": [ "Nexus:7255@GrandpasFarm" ],
+  "UpdateKeys": [ "Nexus:7255@@GF" ],
   "ContentPackFor": {
   "UniqueID": "Pathoschild.ContentPatcher",
    },

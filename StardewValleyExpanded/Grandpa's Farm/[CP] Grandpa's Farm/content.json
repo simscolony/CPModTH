@@ -38,6 +38,11 @@
       "Default": "false"
    },
 
+     "LargerBridgeToGrandpasShed": {
+      "AllowValues": "true, false",
+      "Default": "false"
+   },
+
       "LargerGreenhouse": {
       "AllowValues": "true, false",
       "Default": "false"
@@ -445,8 +450,17 @@
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_Bridge.tbin",
-	 "When": { "BridgeComplete": "true", "FarmType": "Standard" },
+	 "When": { "BridgeComplete": "true", "FarmType": "Standard", "LargerBridgeToGrandpasShed": "false" },
      "ToArea": { "X": 31, "Y": 32, "Width": 4, "Height": 5 }
+    },
+
+	//Patches bridge (config)
+	{
+     "Action": "EditMap",
+     "Target": "Maps/Farm,Maps",
+     "FromFile": "Assets/MapPatches/GrandpasFarm_Bridge2.tbin",
+	 "When": { "BridgeComplete": "true", "FarmType": "Standard", "LargerBridgeToGrandpasShed": "true" },
+     "ToArea": { "X": 31, "Y": 31, "Width": 4, "Height": 6 }
     },
 
 
