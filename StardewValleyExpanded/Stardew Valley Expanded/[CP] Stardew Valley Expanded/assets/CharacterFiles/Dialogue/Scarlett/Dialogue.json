@@ -60,11 +60,11 @@
 "scarlett_event10": "ช่ายยย ฉันก็เป็นแบบนั้นเหมือนกัน ฉันไม่รู้ว่าฉันจะต้องทำยังไง ถ้าเกิดมันไม่มีอะไรให้ฉันทำขึ้นมา$0",
 
 //Resort Dialogue
-"Resort_Entering": "I can't wait to stretch out my toes on the warm sand.$0",
-"Resort_Leaving": "It's a long way back home. I had fun today though.$1",
-"Resort_Shore": "What's up with the wrecked pirate ship?$0",
-"Resort_Chair": "You don't get weather like this in Grampleton!$1",
-"Resort_Bar": "Do all the drinks come with those small umbrellas?$0",
-"Resort": "The coral reefs are pretty.$0",
+"Resort_Entering": "ฉันรอแทบไม่ไหวแล้ว ที่จะได้เหยียดนิ้วเท้าของฉัน ลงบนทรายอุ่นๆ$0",
+"Resort_Leaving": "เป็นการเดินทางกลับบ้าน ที่ไกลเลยล่ะ แต่ยังไงวันนี้ฉันก็สนุกมาก$1",
+"Resort_Shore": "เกิดอะไรขึ้นกับ เรือโจรสลัดที่อับปางนะ?$0",
+"Resort_Chair": "เธอจะไม่มีทาง ได้สัมผัสอากาศแบบนี้ ที่แกรมเพิลตันหรอก!$1",
+"Resort_Bar": "เครื่องดื่มพวกนี้ทั้งหมด จะมาพร้อมกับ ร่มจิ๋วพวกนั้นเหรอ?$0",
+"Resort": "แนวปะการังสวยจังเลย$0",
 
 }
