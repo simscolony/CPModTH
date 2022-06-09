@@ -5,7 +5,7 @@
   "Description": "The recommended farm map for Stardew Valley Expanded.",
   "UniqueID": "flashshifter.GrandpasFarm",
   "MinimumApiVersion": "3.0",
-  "UpdateKeys": [ "Nexus:7255@@GF" ],
+  "UpdateKeys": [ "Nexus:7255@GF" ],
   "ContentPackFor": {
   "UniqueID": "Pathoschild.ContentPatcher",
    },
