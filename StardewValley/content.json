@@ -217,6 +217,15 @@
             "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
+        },
+
+        // ADD MAIL
+        {
+            "Action": "EditData",
+            "Target": "Data/mail",
+            "Entries": {
+                "spring_1_1": " =ยินดีต้อนรับสู่ Stardew Valley Mod ภาษาไทย^  ใช้กับ Stardew Valley 1.6 เท่านั้น!!^   --Mod update&Status--^  -Dialogue NPC -100%^  -Mail Box -100%^  -NPCGiftTastes -100%^  -Marriage Dialogue -100%^  -Dialogue ทั่วไป -100%^  -Festivals -100%^  -Events -100%^  -Extra Dialogue -100%^^  +จัดทำและแปลโดย Translator Army^  Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.^^  <รายชื่อผู้โดเนทแอปขึ้น Play Store^  'ELL, Krit, Memee Thechoco, นิรนาม.^^  =CODER & MODDER^  'ELL, SabiMiyato.^^  <ตัดต่อวิดีโอ & กราฟิก^  Shibosan, ปูชิว.^^  =ผู้จัดทำเวอร์ชัน 1.0-1.8.8^  SORNZiLLATE, NoTSoXDream, JASON.^^  <ทำเนียบนักแปล^  Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.^^  =ขอบคุณทีมงานเดิม^  Artdekdok, cybertorns, MiXEL.SC, NoTSoXDream, Pigter, sornzilla, superogira.^^  <Chief Beta Tester^  Grace Manassanan.^^  =Beta tester^  Alice, Agist, Anel, BirdBBK, Kazuma, PadalPrussus, TaNGGoDZeeD, wa.%item money 500 501 %%[letterbg 2][textcolor cyan][#]จดหมายจากทีมแปล"
+            }
         }
     ]
 }
