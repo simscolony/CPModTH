@@ -408,7 +408,7 @@
      "Action": "EditData",
      "Target": "Strings/SpecialOrderStrings",
      "Entries": {
-     "Robin4_Name": "Stone Bridge",
+     "Robin4_Name": "สะพานหิน",
      "Robin4_Text": "โรบินต้องการหิน 900 ก้อน เพื่อสร้างสะพานบนที่ดินของคุณ มันจะทำให้การไปที่กระท่อม ง่ายขึ้นทีเดียว!",
      "Robin4_Objective_1_Text": "นำหินไปไปวางไว้ ในหีบของโรบิน ที่ร้านของเธอ",
 	    }
@@ -515,7 +515,7 @@
      "Action": "EditData",
      "Target": "Strings/SpecialOrderStrings",
      "Entries": {
-     "Clint3_Name": "A Strange Commission",
+     "Clint3_Name": "ภารกิจสุดแปลก",
      "Clint3_Text": "คลินท์ต้องการทองคำ 30 แท่งในการทำโครงการบางอย่าง แลกกับการที่เขา จะจัดการพวกพุ่มไม้หนารอบๆ กระท่อมของคุณ เขาบอกว่ามีอะไรบางอย่าง ที่พิเศษอยู่ที่นั่น!",
 	 "Clint3_Objective_1_Text": "นำท่องทองคำไปไว้ ในตู้เก็บแร่ของคลินท์",
 	    }
@@ -628,7 +628,7 @@
     "Target": "Strings/SpecialOrderStrings",
 	"When": { "HasSeenEvent |contains=6665293": false },
     "Entries": {
-       "Lewis2_Name": "Expanding My Farmland",
+       "Lewis2_Name": "ขยายพื้นที่เพาะปลูกของฉัน",
        "Lewis2_Text": "ลงทะเบียนใบโฉนดที่ดิน และจ่ายค่าธรรมเนียม 250,000g ได้โดยตรงในสมุดบัญชีสีแดง",
        "Lewis2_Objective_1_Text": "ส่งโฉนดที่ดินให้เลวิส",
 	}
@@ -747,7 +747,7 @@
     "Target": "Strings/SpecialOrderStrings",
 	"When": { "HasSeenEvent": "6665293" },
     "Entries": {
-       "Morris_Name": "Expanding My Farmland",
+       "Morris_Name": "ขยายพื้นที่เพาะปลูกของฉัน",
        "Morris_Text": "ลงทะเบียนใบโฉนดที่ดิน และจ่ายค่าธรรมเนียม 250,000g ได้โดยตรง ที่ชั้นหนังสือในออฟฟิศของฉัน",
        "Morris_Objective_1_Text": "ส่งโฉนดที่ดินให้มอร์ริส",
 	}
