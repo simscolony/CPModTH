@@ -9,48 +9,87 @@
 
 (❑ = ยังไม่ได้แปล, ↻ = แปลบางส่วน, ✓ = แปลเสร็จแล้ว)
 
-&nbsp;                            | สถานะการแปล                                                    | ลิงก์ดาวน์โหลด                                                                | รายชื่อผู้แปล
---------------------------------- | :------------------------------------------------------------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------:
-Alternative Textures              | [✓](AlternativeTextures/i18n/th.json)                          | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9246)                 | [![@ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/ellipszist)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Stardew Valley                    | [✓](StardewValley/)                                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7052)                 | [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)
-Stardew Valley Expanded           | [✓](StardewValleyExpanded/Stardew%20Valley%20Expanded/)        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7255)                 | [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)
-Grandpa's Farm (SVE)              | [✓](StardewValleyExpanded/Grandpa's%20Farm/)                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7255)                 | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Immersive Farm 2 Remastered (SVE) | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7255)                 | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Life Cycle                        | [✓](Life%20Cycle/)                                             | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9584)                 | [![@Perrywinkle](https://avatars.githubusercontent.com/u/94427504?s=36)](https://github.com/xPerrywinkle)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Looking for Love                  | [✓]([CP]%20Looking%20for%20Love/)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10206)                | [![@Daitsuku](https://avatars.githubusercontent.com/u/65522118?s=36)](https://github.com/Daitsuku)  [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@piyalucktm](https://avatars.githubusercontent.com/u/62783503?s=36)](https://github.com/piyalucktm)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Almanac                           | [✓](Almanac/i18n/th.json)                                      | [Nexus](https://www.nexusmods.com/stardewvalley/mods/11022)                | [![@wwwarmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
-Ridgeside Village                 | [↻](Ridgeside%20Village/)                                      |                                                                            | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Raised Garden Beds                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7052)                 | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Platonic Partners and Friendships | [↻]([CP]%20Platonic%20Partners%20and%20Friendships/)           |                                                                            | [![@Fairy78](https://via.placeholder.com/36x36.png?text=Fairy78)](https://github.com/Fairy78)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@piyalucktm](https://avatars.githubusercontent.com/u/62783503?s=36)](https://github.com/piyalucktm)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)  [![@warmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
-ATM                               | [✓](ATM/i18n/th.json)                                          | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3135)                 | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Better Junimos                    | [✓](BetterJunimos/i18n/th.json)                                | [↻](https://github.com/hawkfalcon/Stardew-Mods/pull/12)                   | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Chests Anywhere                   | [✓](ChestsAnywhere/i18n/th.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/518)                  | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-CJB Cheats Menu                   | [✓](CJBCheatsMenu/i18n/th.json)                                | [Nexus](https://www.nexusmods.com/stardewvalley/mods/4/)                   |
-CJB Cheats Menu (Grandpa's Farm)  | [✓](CJBCheatsMenu_GrandpasFarm/i18n/th.json)                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7255)                 |
-CJB Cheats Menu (IF2R)            | [✓](CJBCheatsMenu_IF2R/i18n/th.json)                           | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7255)                 |
-CJB Cheats Menu (SVE)             | [✓](CJBCheatsMenu_SVE/i18n/th.json)                            | [Nexus](https://www.nexusmods.com/stardewvalley/mods/7255)                 |
-CJB Item Spawner                  | [✓](CJBItemSpawner/i18n/th.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/93)
-CJB Show Item Sell Price          | [✓](CJBShowItemSellPrice/i18n/th.json)                         | [Nexus](https://www.nexusmods.com/stardewvalley/mods/5)
-Community Center Helper           | [✓](CommunityCenterHelper/i18n/th.json)                        | [Nexus](https://www.nexusmods.com/stardewvalley/mods/6893)
-Data Layers                       | [✓](DataLayers/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1691)
-Debug Mode                        | [✓](DebugMode/i18n/th.json)                                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/679)
-Error Handler                     | [✓](ErrorHandler/i18n/th.json)                                 | [SMAPI.io](https://smapi.io/)
-Fashion Sense                     | [✓](FashionSense/i18n/th.json)                                 | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9969)
-Gift Taste Helper                 | [✓](GiftTasteHelper/i18n/th.json)                              | [↻](https://github.com/tstaples/GiftTasteHelper/pull/24)
-Junimo Dialog                     | [✓](JunimoDialog/i18n/th.json)                                 | [Nexus](https://www.nexusmods.com/stardewvalley/mods/8937)                 | [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)
-Loan Mod                          | [✓](LoanMod/i18n/th.json)                                      | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3882)                 | [![@wwwarmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
-Lookup Anything                   | [✓](LookupAnything/i18n/th.json)                               | [Nexus](https://www.nexusmods.com/stardewvalley/mods/541)
-Love of Cooking                   | [✓](LoveOfCooking/i18n/th.json)                                | [↻](https://github.com/b-b-blueberry/CooksAssistant/pull/4)
-Multiple Spouse Dialogs           | ❑                                                              |
-Multiple Spouses                  | ❑                                                              |
-Noclip Mode                       | [✓](NoclipMode/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/3900)
-NPC Map Locations                 | [✓](NPCMapLocations/i18n/th.json)                              | [Nexus](https://www.nexusmods.com/stardewvalley/mods/239)
-SMAPI                             | [✓](smapi-internal/i18n/th.json)                               | [SMAPI.io](https://smapi.io/)
-Reset Terrain Features For .NET 5 | [✓](ResetTerrainFeatures_NET5/i18n/th.json)                    | [Nexus](https://www.nexusmods.com/stardewvalley/mods/9350)                 | [![@ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/ellipszist)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-Stardrop                          | [✓](Stardrop/i18n/th.json)                                     | [Nexus](https://www.nexusmods.com/stardewvalley/mods/10455)
-Tractor Mod                       | [✓](TractorMod/i18n/th.json)                                   | [Nexus](https://www.nexusmods.com/stardewvalley/mods/1401)
-UI Info Suite                     | [✓](UI%20Info%20Suite/i18n/th.json)                            | [↻](https://github.com/cdaragorn/Ui-Info-Suite/pull/79)
-UI Info Suite 2                   | [✓](UIInfoSuite2/i18n/th.json)                                 | [Github](https://github.com/Annosz/UIInfoSuite2/releases)
+&nbsp;                              | สถานะการแปล                                                    | รายชื่อผู้แปล
+----------------------------------- | :------------------------------------------------------------: | :-----------------------------------------------------------------------:
+[Alternative Textures]              | [✓](AlternativeTextures/i18n/th.json)                          | [![@ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/ellipszist)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Stardew Valley]                    | [✓](StardewValley/)                                            | [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)
+[Stardew Valley Expanded]           | [✓](StardewValleyExpanded/Stardew%20Valley%20Expanded/)        | [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)
+[Grandpa's Farm (SVE)]              | [✓](StardewValleyExpanded/Grandpa's%20Farm/)                   | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Immersive Farm 2 Remastered (SVE)] | [✓](StardewValleyExpanded/Immersive%20Farm%202%20Remastered/)  | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Life Cycle]                        | [✓](Life%20Cycle/)                                             | [![@Perrywinkle](https://avatars.githubusercontent.com/u/94427504?s=36)](https://github.com/xPerrywinkle)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Looking for Love]                  | [✓]([CP]%20Looking%20for%20Love/)                              | [![@Daitsuku](https://avatars.githubusercontent.com/u/65522118?s=36)](https://github.com/Daitsuku)  [![@MemeeThechoco](https://avatars.githubusercontent.com/u/61545047?s=36)](https://github.com/MemeeThechoco)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@piyalucktm](https://avatars.githubusercontent.com/u/62783503?s=36)](https://github.com/piyalucktm)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Almanac]                           | [✓](Almanac/i18n/th.json)                                      | [![@wwwarmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
+[Ridgeside Village]                 | [↻](Ridgeside%20Village/)                                      | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Raised Garden Beds]                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Platonic Partners and Friendships] | [↻]([CP]%20Platonic%20Partners%20and%20Friendships/)           | [![@Fairy78](https://via.placeholder.com/36x36.png?text=Fairy78)](https://github.com/Fairy78)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@piyalucktm](https://avatars.githubusercontent.com/u/62783503?s=36)](https://github.com/piyalucktm)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)  [![@warmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
+[ATM]                               | [✓](ATM/i18n/th.json)                                          | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Better Junimos]                    | [✓](BetterJunimos/i18n/th.json)                                | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Chests Anywhere]                   | [✓](ChestsAnywhere/i18n/th.json)                               | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[CJB Cheats Menu]                   | [✓](CJBCheatsMenu/i18n/th.json)                                |
+[CJB Cheats Menu (Grandpa's Farm)]  | [✓](CJBCheatsMenu_GrandpasFarm/i18n/th.json)                   |
+[CJB Cheats Menu (IF2R)]            | [✓](CJBCheatsMenu_IF2R/i18n/th.json)                           |
+[CJB Cheats Menu (SVE)]             | [✓](CJBCheatsMenu_SVE/i18n/th.json)                            |
+[CJB Item Spawner]                  | [✓](CJBItemSpawner/i18n/th.json)                               |
+[CJB Show Item Sell Price]          | [✓](CJBShowItemSellPrice/i18n/th.json)                         |
+[Community Center Helper]           | [✓](CommunityCenterHelper/i18n/th.json)                        |
+[Data Layers]                       | [✓](DataLayers/i18n/th.json)                                   |
+[Debug Mode]                        | [✓](DebugMode/i18n/th.json)                                    |
+[Error Handler]                     | [✓](ErrorHandler/i18n/th.json)                                 |
+[Fashion Sense]                     | [✓](FashionSense/i18n/th.json)                                 |
+[Gift Taste Helper]                 | [✓](GiftTasteHelper/i18n/th.json)                              |
+[Junimo Dialog]                     | [✓](JunimoDialog/i18n/th.json)                                 | [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)
+[Loan Mod]                          | [✓](LoanMod/i18n/th.json)                                      | [![@wwwarmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
+[Lookup Anything]                   | [✓](LookupAnything/i18n/th.json)                               |
+[Love of Cooking ↻]                 | [✓](LoveOfCooking/i18n/th.json)                                |
+Multiple Spouse Dialogs             | ❑                                                              |
+Multiple Spouses                    | ❑                                                              |
+[Noclip Mode]                       | [✓](NoclipMode/i18n/th.json)                                   |
+[NPC Map Locations]                 | [✓](NPCMapLocations/i18n/th.json)                              |
+[SMAPI]                             | [✓](smapi-internal/i18n/th.json)                               |
+[Reset Terrain Features For .NET 5] | [✓](ResetTerrainFeatures_NET5/i18n/th.json)                    | [![@ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/ellipszist)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
+[Stardrop]                          | [✓](Stardrop/i18n/th.json)                                     |
+[Tractor Mod]                       | [✓](TractorMod/i18n/th.json)                                   |
+[UI Info Suite ↻]                   | [✓](UI%20Info%20Suite/i18n/th.json)                            |
+[UI Info Suite 2]                   | [✓](UIInfoSuite2/i18n/th.json)                                 |
+
+[Alternative Textures]: https://www.nexusmods.com/stardewvalley/mods/9246
+[Stardew Valley]: https://www.nexusmods.com/stardewvalley/mods/7052
+[Stardew Valley Expanded]: https://www.nexusmods.com/stardewvalley/mods/7255
+[Grandpa's Farm (SVE)]: https://www.nexusmods.com/stardewvalley/mods/7255
+[Immersive Farm 2 Remastered (SVE)]: https://www.nexusmods.com/stardewvalley/mods/7255
+[Life Cycle]: https://www.nexusmods.com/stardewvalley/mods/9584
+[Looking for Love]: https://www.nexusmods.com/stardewvalley/mods/10206
+[Almanac]: https://www.nexusmods.com/stardewvalley/mods/11022
+[Ridgeside Village]: https://www.nexusmods.com/stardewvalley/mods/7286
+[Raised Garden Beds]: https://www.nexusmods.com/stardewvalley/mods/7052
+[Platonic Partners and Friendships]: https://www.nexusmods.com/stardewvalley/mods/8146
+[ATM]: https://www.nexusmods.com/stardewvalley/mods/3135
+[Better Junimos]: https://www.nexusmods.com/stardewvalley/mods/2221
+[Chests Anywhere]: https://www.nexusmods.com/stardewvalley/mods/518
+[CJB Cheats Menu]: https://www.nexusmods.com/stardewvalley/mods/4
+[CJB Cheats Menu (Grandpa's Farm)]: https://www.nexusmods.com/stardewvalley/mods/7255
+[CJB Cheats Menu (IF2R)]: https://www.nexusmods.com/stardewvalley/mods/7255
+[CJB Cheats Menu (SVE)]: https://www.nexusmods.com/stardewvalley/mods/7255
+[CJB Item Spawner]: https://www.nexusmods.com/stardewvalley/mods/93
+[CJB Show Item Sell Price]: https://www.nexusmods.com/stardewvalley/mods/5
+[Community Center Helper]: https://www.nexusmods.com/stardewvalley/mods/6893
+[Data Layers]: https://www.nexusmods.com/stardewvalley/mods/1691
+[Debug Mode]: https://www.nexusmods.com/stardewvalley/mods/679
+[Error Handler]: https://smapi.io/
+[Fashion Sense]: https://www.nexusmods.com/stardewvalley/mods/9969
+[Gift Taste Helper]: https://www.nexusmods.com/stardewvalley/mods/229
+[Junimo Dialog]: https://www.nexusmods.com/stardewvalley/mods/8937
+[Loan Mod]: https://www.nexusmods.com/stardewvalley/mods/3882
+[Lookup Anything]: https://www.nexusmods.com/stardewvalley/mods/541
+[Love of Cooking ↻]: https://github.com/b-b-blueberry/CooksAssistant/pull/4
+[Noclip Mode]: https://www.nexusmods.com/stardewvalley/mods/3900
+[NPC Map Locations]: https://www.nexusmods.com/stardewvalley/mods/239
+[SMAPI]: https://smapi.io/
+[Reset Terrain Features For .NET 5]: https://www.nexusmods.com/stardewvalley/mods/9350
+[Stardrop]: https://www.nexusmods.com/stardewvalley/mods/10455
+[Tractor Mod]: https://www.nexusmods.com/stardewvalley/mods/1401
+[UI Info Suite ↻]: https://github.com/cdaragorn/Ui-Info-Suite/pull/79
+[UI Info Suite 2]: https://github.com/Annosz/UIInfoSuite2/releases
 
 ## อยากจะช่วยแปลต้องทำยังไง?
 
