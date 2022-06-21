@@ -149,8 +149,8 @@
   "ui.warning.stardrop_update_downloaded": "Downloaded the latest version successfully.\n\nStardrop will now restart.", // TODO
   "ui.warning.SMAPI_unable_to_download_latest": "Unable to download the latest release of SMAPI.\n\nPlease download the latest version manually.", // TODO
   "ui.warning.SMAPI_unable_to_install_latest": "Unable to install the latest release of SMAPI.\n\nPlease download the latest version manually.", // TODO
-  "ui.warning.update_cooldown_minutes": "สามารถขออัพเดทได้ทุกๆ 5 นาทีเท่านั้น\n\nโปรดลองอีกครั้งใน {0} นาที",
-  "ui.warning.update_cooldown_seconds": "สามารถขออัพเดทได้ทุกๆ 5 นาทีเท่านั้น\n\nโปรดลองอีกครั้งใน {0} วินาที",
+  "ui.warning.update_cooldown_minutes": "สามารถขออัปเดตได้ทุกๆ 5 นาทีเท่านั้น\n\nโปรดลองอีกครั้งใน {0} นาที",
+  "ui.warning.update_cooldown_seconds": "สามารถขออัปเดตได้ทุกๆ 5 นาทีเท่านั้น\n\nโปรดลองอีกครั้งใน {0} วินาที",
   "ui.warning.unable_to_locate_log": "ไม่พบ SMAPI-latest.txt! จะต้องเปิดใช้งาน SMAPI อย่างน้อย 1 ครั้ง เพื่อให้ Stardrop ตรวจพบรายละเอียดของเกม",
   "ui.warning.unable_to_read_log": "ไม่สามารถอ่านไฟล์บันทึกของ SMAPI เพื่อหาเวอร์ชันเกม\n\nม็อดจะไม่ถูกตรวจสอบการอัปเดต",
   "ui.warning.no_manifest": "ไม่พบ manifest.json ใน \"{0}\"",
