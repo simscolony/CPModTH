@@ -25,7 +25,7 @@
     "config.RemoveSouthernCactusesFromDesert.name": "นำกระบองเพชรทางใต้ออกจากทะเลทราย",
     "config.RemoveSouthernCactusesFromDesert.description": "ทำให้ผู้เล่นวางสิ่งของต่างๆ เช่น kegs และ barrels ได้ง่ายขึ้น",
     "config.DisableSVEJojaMartShop.name": "ปิดการใช้งานร้านโจจ้ามาร์ท",
-    "config.DisableSVEJojaMartShop.description": "ปิดการใช้งานร้านโจจ้ามาร์ท เวอร์ชั่น SVE",
+    "config.DisableSVEJojaMartShop.description": "ปิดการใช้งานร้านโจจ้ามาร์ท เวอร์ชัน SVE",
 
     // Items & Monsters
     "config.LowerProfitMargins.name": "อัตรากำไรต่ำ",
