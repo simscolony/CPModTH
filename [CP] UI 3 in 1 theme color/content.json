@@ -94,7 +94,7 @@
             "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 32 },
             "When": {
                 "Cursor Toggle": "enabled",
-                "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors": false
+                "HasMod |contains=wee.baby, TheMadCharles.ColoredCursors, Warilized.DrexomXander_PSCursor, Amaryn.OvergrownFloweryCursors, Vanguard3000.ContextSensitiveGiftCursor, HilariousWolf97.CatCursor, PeasantUnit.SmallerCursors, h4man.SimpleCursor, Data_.HandCursor, catmao.LollipopCursor, Eyeyumi.SakuraCursors, Dynw.CuteBunnyCursors, NoFogBob.AnimatedGoldCursor, KittyKat038.CuteCatCursor, yoomiiii12323.bellasbettercursor, fabin.ModernishCursor, GalaxyRobot.SeasonalCursors, catmao.DarksweetCursor, Expl0.MushroomCursors": false
             }
         },
 
