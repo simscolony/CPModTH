@@ -21,7 +21,7 @@
 [Almanac]                           | [✓](Almanac/i18n/th.json)                                      | [![@wwwarmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
 [Ridgeside Village]                 | [↻](Ridgeside%20Village/)                                      | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
 [Raised Garden Beds]                | [✓]([CP]%20RaisedGardenBeds%20-%20THAI/)                       | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
-[Platonic Partners and Friendships] | [↻]([CP]%20Platonic%20Partners%20and%20Friendships/)           | [![@Fairy78](https://via.placeholder.com/36x36.png?text=Fairy78)](https://github.com/Fairy78)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@piyalucktm](https://avatars.githubusercontent.com/u/62783503?s=36)](https://github.com/piyalucktm)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)  [![@warmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
+Platonic Partners and Friendships   | [↻]([CP]%20Platonic%20Partners%20and%20Friendships/)           | [![@Fairy78](https://via.placeholder.com/36x36.png?text=Fairy78)](https://github.com/Fairy78)  [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)  [![@piyalucktm](https://avatars.githubusercontent.com/u/62783503?s=36)](https://github.com/piyalucktm)  [![@Pookhao23](https://avatars.githubusercontent.com/u/61622581?s=36)](https://github.com/Poopoo2002)  [![@RushingOn](https://avatars.githubusercontent.com/u/61596911?s=36)](https://github.com/RushingOn)  [![@Tomyamkung](https://avatars.githubusercontent.com/u/61552106?s=36)](https://github.com/Hipster1707)  [![@warmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
 [ATM]                               | [✓](ATM/i18n/th.json)                                          | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
 [Better Junimos]                    | [✓](BetterJunimos/i18n/th.json)                                | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
 [Chests Anywhere]                   | [✓](ChestsAnywhere/i18n/th.json)                               | [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
@@ -40,7 +40,7 @@
 [Junimo Dialog]                     | [✓](JunimoDialog/i18n/th.json)                                 | [![@MemoLiza](https://avatars.githubusercontent.com/u/61897755?s=36)](https://github.com/MemoLiza)
 [Loan Mod]                          | [✓](LoanMod/i18n/th.json)                                      | [![@wwwarmblanket](https://avatars.githubusercontent.com/u/89137206?s=36)](https://github.com/wwwarmblanket)
 [Lookup Anything]                   | [✓](LookupAnything/i18n/th.json)                               |
-[Love of Cooking ↻]                 | [✓](LoveOfCooking/i18n/th.json)                                |
+Love of Cooking[^1]                 | [✓](LoveOfCooking/i18n/th.json)                                |
 Multiple Spouse Dialogs             | ❑                                                              |
 Multiple Spouses                    | ❑                                                              |
 [Noclip Mode]                       | [✓](NoclipMode/i18n/th.json)                                   |
@@ -49,7 +49,7 @@ Multiple Spouses                    | ❑                                       
 [Reset Terrain Features For .NET 5] | [✓](ResetTerrainFeatures_NET5/i18n/th.json)                    | [![@ellipszist](https://avatars.githubusercontent.com/u/43781364?s=36)](https://github.com/ellipszist)  [![@SabiMiyato](https://avatars.githubusercontent.com/u/62402134?s=36)](https://github.com/SabiMiyato)
 [Stardrop]                          | [✓](Stardrop/i18n/th.json)                                     |
 [Tractor Mod]                       | [✓](TractorMod/i18n/th.json)                                   |
-[UI Info Suite ↻]                   | [✓](UI%20Info%20Suite/i18n/th.json)                            |
+UI Info Suite[^2]                   | [✓](UI%20Info%20Suite/i18n/th.json)                            |
 [UI Info Suite 2]                   | [✓](UIInfoSuite2/i18n/th.json)                                 |
 
 [Alternative Textures]: https://www.nexusmods.com/stardewvalley/mods/9246
@@ -62,7 +62,6 @@ Multiple Spouses                    | ❑                                       
 [Almanac]: https://www.nexusmods.com/stardewvalley/mods/11022
 [Ridgeside Village]: https://www.nexusmods.com/stardewvalley/mods/7286
 [Raised Garden Beds]: https://www.nexusmods.com/stardewvalley/mods/7052
-[Platonic Partners and Friendships]: https://www.nexusmods.com/stardewvalley/mods/8146
 [ATM]: https://www.nexusmods.com/stardewvalley/mods/3135
 [Better Junimos]: https://www.nexusmods.com/stardewvalley/mods/2221
 [Chests Anywhere]: https://www.nexusmods.com/stardewvalley/mods/518
@@ -81,15 +80,15 @@ Multiple Spouses                    | ❑                                       
 [Junimo Dialog]: https://www.nexusmods.com/stardewvalley/mods/8937
 [Loan Mod]: https://www.nexusmods.com/stardewvalley/mods/3882
 [Lookup Anything]: https://www.nexusmods.com/stardewvalley/mods/541
-[Love of Cooking ↻]: https://github.com/b-b-blueberry/CooksAssistant/pull/4
 [Noclip Mode]: https://www.nexusmods.com/stardewvalley/mods/3900
 [NPC Map Locations]: https://www.nexusmods.com/stardewvalley/mods/239
 [SMAPI]: https://smapi.io/
 [Reset Terrain Features For .NET 5]: https://www.nexusmods.com/stardewvalley/mods/9350
 [Stardrop]: https://www.nexusmods.com/stardewvalley/mods/10455
 [Tractor Mod]: https://www.nexusmods.com/stardewvalley/mods/1401
-[UI Info Suite ↻]: https://github.com/cdaragorn/Ui-Info-Suite/pull/79
 [UI Info Suite 2]: https://github.com/Annosz/UIInfoSuite2/releases
+[^1]: https://github.com/b-b-blueberry/CooksAssistant/pull/4
+[^2]: https://github.com/cdaragorn/Ui-Info-Suite/pull/79
 
 ## อยากจะช่วยแปลต้องทำยังไง?
 
