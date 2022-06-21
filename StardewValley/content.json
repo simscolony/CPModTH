@@ -90,7 +90,7 @@
 
       // Billboard
        {
-            "Action": "EditImage",
+            "Action": "Load",
             "Target": "LooseSprites/Billboard",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
@@ -102,7 +102,7 @@
 
         // JojaCDForm
         {
-            "Action": "EditImage",
+            "Action": "Load",
             "Target": "LooseSprites/JojaCDForm",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
@@ -114,7 +114,7 @@
 
         // Intro
         {
-            "Action": "EditImage",
+            "Action": "Load",
             "Target": "Minigames/Intro",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
@@ -126,7 +126,7 @@
 
         // TitleButtons
         {
-            "Action": "EditImage",
+            "Action": "Load",
             "Target": "Minigames/TitleButtons",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
