@@ -2,26 +2,40 @@
     "Format": "1.26.0",
     "ConfigSchema": {
         // appearance section
-        "Billboard": {
+        "Enable Thai Interface": {
             "AllowValues": "true, false",
             "Default": true,
             "Section": "Appearance"
         },
-        "JojaCDForm": {
-            "AllowValues": "true, false",
-            "Default": true,
-            "Section": "Appearance"
-        },
-        "Intro": {
-            "AllowValues": "true, false",
-            "Default": true,
-            "Section": "Appearance"
-        },
-        "TitleButtons": {
-            "AllowValues": "true, false",
-            "Default": true,
-            "Section": "Appearance"
-        }
+        // interface section
+        "LooseSprites": {
+            "AllowValues": "Billboard, ControllerMaps, Cursors, JojaCDForm, JunimoNote",
+            "AllowMultiple": true,
+            "AllowBlank": true,
+            "Default": "Billboard, ControllerMaps, Cursors, JojaCDForm, JunimoNote",
+            "Section": "Interface"
+		},
+        "Maps": {
+            "AllowValues": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
+            "AllowMultiple": true,
+            "AllowBlank": true,
+            "Default": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
+            "Section": "Interface"
+		},
+        "Minigames": {
+            "AllowValues": "Intro, jojacorps, TitleButtons",
+            "AllowMultiple": true,
+            "AllowBlank": true,
+            "Default": "Intro, jojacorps, TitleButtons",
+            "Section": "Interface"
+		},
+        "TileSheets": {
+            "AllowValues": "furniture",
+            "AllowMultiple": true,
+            "AllowBlank": true,
+            "Default": "furniture",
+            "Section": "Interface"
+		}
     },
 
     "DynamicTokens": [
@@ -88,74 +102,10 @@
             "When": { "Language": "th" }
         },
 
-      // Billboard
-       {
-            "Action": "Load",
-            "Target": "LooseSprites/Billboard",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": {
-                "Language": "th",
-                "Billboard": true,
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
-            }
-        },
-
-        // JojaCDForm
-        {
-            "Action": "Load",
-            "Target": "LooseSprites/JojaCDForm",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": {
-                "Language": "th",
-                "JojaCDForm": true,
-                "HasMod |contains=IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface": false
-            }
-        },
-
-        // Intro
-        {
-            "Action": "Load",
-            "Target": "Minigames/Intro",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": {
-                "Language": "th",
-                "Intro": true,
-                "HasMod |contains=Acerbicon.Recolor": false
-            }
-        },
-
-        // TitleButtons
-        {
-            "Action": "Load",
-            "Target": "Minigames/TitleButtons",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": {
-                "Language": "th",
-                "TitleButtons": true,
-                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Mareigh.NickiTitle, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
-            }
-        },
-
         // Dialogue
         {
             "Action": "Load",
-            "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": { "Language": "th" }
-        },
-
-        // Rainy
-        {
-            "Action": "Load",
-            "Target": "Characters/Dialogue/rainy",
-            "FromFile": "assets/Content/{{Target}}.xnb",
-            "When": { "Language": "th" }
-        },
-
-        // Marriage
-        {
-            "Action": "Load",
-            "Target": "Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane",
+            "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
@@ -186,21 +136,307 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
-
-        // Festivals
         {
             "Action": "Load",
             "Target": "Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
-
-        // TV
         {
             "Action": "Load",
             "Target": "Data/TV/CookingChannel, Data/TV/InterviewShow, Data/TV/TipChannel",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
+        },
+
+      // LooseSprites
+       {
+            "Action": "Load",
+            "Target": "LooseSprites/Billboard",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "LooseSprites |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/ControllerMaps",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "LooseSprites |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "LooseSprites |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/JojaCDForm",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "LooseSprites |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface": false
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "LooseSprites/JunimoNote",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "LooseSprites |contains={{TargetWithoutPath}}": true
+            }
+        },
+
+        // Maps
+        {
+            "Action": "Load",
+            "Target": "Maps/bathhouse_tiles",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/coopTiles",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/DesertTiles",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_beach",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_outdoorsTileSheet",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_town",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/Festivals",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/samshowtiles",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_beach",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_outdoorsTileSheet",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_town",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_beach",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_outdoorsTileSheet",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_town",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/TownIndoors",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_beach",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_outdoorsTileSheet",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_town",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Maps |contains={{TargetWithoutPath}}": true
+            }
+        },
+
+        // Minigames
+        {
+            "Action": "Load",
+            "Target": "Minigames/Intro",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Minigames |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Acerbicon.Recolor": false
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/jojacorps",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Minigames |contains={{TargetWithoutPath}}": true
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Minigames/TitleButtons",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "Minigames |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Mareigh.NickiTitle, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
+            }
         },
 
         // Strings
@@ -210,13 +446,23 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
-
-        // Schedules
         {
             "Action": "Load",
             "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
+        },
+
+        // TileSheets
+        {
+            "Action": "Load",
+            "Target": "TileSheets/furniture",
+            "FromFile": "assets/Content/{{Target}}.xnb",
+            "When": {
+                "Language": "th",
+                "Enable Thai Interface": true,
+                "TileSheets |contains={{TargetWithoutPath}}": true
+            }
         },
 
         // Letter from the translation team
