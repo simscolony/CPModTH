@@ -119,7 +119,7 @@ Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
 'ELL, SabiMiyato.
 
 #### ตัดต่อวิดีโอ & กราฟิก
-Shibosan, Pu_Chew.
+RushingOn, SabiMiyato, Shibosan, Pu_Chew.
 
 #### ผู้จัดทำเวอร์ชั่น 1.0-1.8.8
 SORNZiLLATE, NoTSoXDream, JASON.
