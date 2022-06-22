@@ -244,7 +244,7 @@
         "LevelUp_ProfessionName_Geologist": "นักธรณีวิทยา\n(Geologist)",
         "LevelUp_ProfessionDescription_Geologist": "มีโอกาสได้อัญมณี 2 ชิ้นจากหิน 1 ก้อน",
         "LevelUp_ProfessionName_Blacksmith": "ช่างตีเหล็ก\n(Blacksmith)",
-        "LevelUp_ProfessionDescription_Blacksmith": "แท่งเหล็ก (Metal bars) มีราคาเพิ่มขึ้น50%",
+        "LevelUp_ProfessionDescription_Blacksmith": "แท่งโลหะมีราคาเพิ่มขึ้น 50%",
         "LevelUp_ProfessionName_Prospector": "นักสำรวจแร่\n(Prospector)",
         "LevelUp_ProfessionDescription_Prospector": "มีโอกาสเจอถ่านหิน (coal) เพิ่มสองเท่า",
         "LevelUp_ProfessionName_Excavator": "นักสกัดแร่\n(Excavator)",
