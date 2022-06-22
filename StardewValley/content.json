@@ -161,7 +161,7 @@
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
             }
         },
-        {
+        /*{
             "Action": "Load",
             "Target": "LooseSprites/ControllerMaps",
             "FromFile": "assets/Content/{{Target}}.xnb",
@@ -180,7 +180,7 @@
                 "Enable Thai Interface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true
             }
-        },
+        },*/
         {
             "Action": "Load",
             "Target": "LooseSprites/JojaCDForm",
@@ -314,7 +314,7 @@
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
-        {
+        /*{
             "Action": "Load",
             "Target": "Maps/springobjects",
             "FromFile": "assets/Content/{{Target}}.xnb",
@@ -323,7 +323,7 @@
                 "Enable Thai Interface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
-        },
+        },*/
         {
             "Action": "Load",
             "Target": "Maps/summer_beach",
