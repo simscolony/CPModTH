@@ -19,28 +19,28 @@
             "AllowBlank": true,
             "Default": "Billboard, ControllerMaps, Cursors, JojaCDForm, JunimoNote",
             "Section": "Interface"
-		},
+        },
         "Maps": {
             "AllowValues": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
             "Section": "Interface"
-		},
+        },
         "Minigames": {
             "AllowValues": "Intro, jojacorps, TitleButtons",
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "Intro, jojacorps, TitleButtons",
             "Section": "Interface"
-		},
+        },
         "TileSheets": {
             "AllowValues": "furniture",
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "furniture",
             "Section": "Interface"
-		}
+        }
     },
 
     "DynamicTokens": [
