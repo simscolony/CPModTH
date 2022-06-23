@@ -113,22 +113,22 @@ UI Info Suite[^2]                   | [✓](UI%20Info%20Suite/i18n/th.json)     
 Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.
 
 #### รายชื่อผู้โดเนทแอปขึ้น Play Store
-'ELL, Krit, Memee Thechoco, นิรนาม.
+'ELL, Anonymous, Krit, Memee Thechoco.
 
 #### CODER & MODDER
 'ELL, SabiMiyato.
 
 #### ตัดต่อวิดีโอ & กราฟิก
-RushingOn, SabiMiyato, Shibosan, Pu_Chew.
+'ELL, RushingOn, SabiMiyato, Shibosan, PuChew.
 
 #### ผู้จัดทำเวอร์ชั่น 1.0-1.8.8
 SORNZiLLATE, NoTSoXDream, JASON.
 
-#### ทําเนียบนักแปล
-Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.
-
 #### ขอบคุณทีมงานเดิม
 Artdekdok, cybertorns, MiXEL.SC, NoTSoXDream, Pigter, sornzilla, superogira.
+
+#### ทําเนียบนักแปล
+Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.
 
 #### Chief Beta Tester
 Grace Manassanan.
