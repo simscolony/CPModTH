@@ -2,11 +2,6 @@
     "Format": "1.26.0",
     "ConfigSchema": {
         // appearance section
-        "Game Version": {
-            "AllowValues": "1.6.0, 1.5.6",
-            "Default": "1.5.6", // public release
-            "Section": "Appearance"
-        },
         "Thai Interface": {
             "AllowValues": "true, false",
             "Default": true,
@@ -70,20 +65,10 @@
                 "HasMod": "ManaKirel.VintageInterface2"
             }
         },
-        // compatibility
+        // Branch: Content = 1.6.0, Compatibility = 1.5.6
         {
-            "Name": "Compatibility",
-            "Value": "",
-            "When": {
-                "Game Version": "1.6.0"
-            }
-        },
-        {
-            "Name": "Compatibility",
-            "Value": "_{{Game Version}}",
-            "When": {
-                "Compatibility |contains=null": true
-            }
+            "Name": "Branch",
+            "Value": "Compatibility"
         }
     ],
 
@@ -153,7 +138,7 @@
         // Events
         {
             "Action": "Load",
-            "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_big, Data/Events/WizardHouse, Data/Events/Woods",
+            "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_big, Data/Events/WizardHouse, Data/Events/Woods",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
@@ -489,8 +474,8 @@
         // The latest version of the game
         {
             "Action": "Load",
-            "Target": "Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Events/IslandSouth, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Fish, Data/Furniture, Data/hats, Data/ObjectInformation, Data/weapons",
-            "FromFile": "assets/Content{{Compatibility}}/{{Target}}.xnb",
+            "Target": "Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Fish, Data/Furniture, Data/hats, Data/ObjectInformation, Data/weapons",
+            "FromFile": "assets/{{Branch}}/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
 
@@ -499,7 +484,7 @@
             "Action": "EditData",
             "Target": "Data/mail",
             "Entries": {
-                "spring_1_1": " =ยินดีต้อนรับสู่ Stardew Valley ภาษาไทย^  ใช้กับ Stardew Valley เวอร์ชัน {{Game Version}} เท่านั้น!!^^   –– รายละเอียดการแปล ––^  เนื้อหา:^  – บทสนทนาของชาวเมือง   100%^  – จดหมาย & ไอเทมต่างๆ   100%^  – รสนิยมการรับของขวัญ   100%^  – บทสนทนาหลังแต่งงาน   100%^  – บทสนทนาทั่วไป   100%^  – งานเทศกาล   100%^  – เหตุการณ์ต่างๆ   100%^  – บทสนทนาพิเศษ   100%^^  รูปภาพ:^  – ข้อความภายในเกมที่เป็นรูปภาพ   90%^    (บางส่วนแปลไม่ได้เนื่องจากข้อความเล็กเกินไป)^^  +จัดทำและแปลโดย Translator Army^  Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.^^  <รายชื่อผู้โดเนทแอปขึ้น Play Store^  'ELL, Anonymous, Krit, Memee Thechoco.^^  =CODER & MODDER^  'ELL, SabiMiyato.^^  <ตัดต่อวิดีโอ & กราฟิก^  'ELL, RushingOn, SabiMiyato, Shibosan, PuChew.^^  =ผู้จัดทำเวอร์ชัน 1.0 – 1.8.8^  SORNZiLLATE, NoTSoXDream, JASON.^^  =ขอบคุณทีมงานเดิม^  Artdekdok, cybertorns, MiXEL.SC, NoTSoXDream, Pigter, sornzilla, superogira.^^  <ทำเนียบนักแปล^  Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.^^  <Chief Beta Tester^  Grace Manassanan.^^  =Beta tester^  Aek, Agist, Alice, Anel, BirdBBK, Kazuma, Mark, PadalPrussus, POo7x, TaNGGoDZeeD, The-Little-G, Venice, wa, zalxXxlaz.%item money 500 501 %%[letterbg 2][textcolor cyan][#]จดหมายจากทีมแปล"
+                "spring_1_1": " =ยินดีต้อนรับสู่ Stardew Valley ภาษาไทย^  ใช้กับ Stardew Valley เวอร์ชัน 1.5.6 เท่านั้น!!^^   –– รายละเอียดการแปล ––^  เนื้อหา:^  – บทสนทนาของชาวเมือง   100%^  – จดหมาย & ไอเทมต่างๆ   100%^  – รสนิยมการรับของขวัญ   100%^  – บทสนทนาหลังแต่งงาน   100%^  – บทสนทนาทั่วไป   100%^  – งานเทศกาล   100%^  – เหตุการณ์ต่างๆ   100%^  – บทสนทนาพิเศษ   100%^^  รูปภาพ:^  – ข้อความภายในเกมที่เป็นรูปภาพ   90%^    (บางส่วนแปลไม่ได้เนื่องจากข้อความเล็กเกินไป)^^  +จัดทำและแปลโดย Translator Army^  Memee Thechoco, MemoLiza, Pookhao23, RushingOn, SabiMiyato, Tomyamkung.^^  <รายชื่อผู้โดเนทแอปขึ้น Play Store^  'ELL, Anonymous, Krit, Memee Thechoco.^^  =CODER & MODDER^  'ELL, SabiMiyato.^^  <ตัดต่อวิดีโอ & กราฟิก^  'ELL, RushingOn, SabiMiyato, Shibosan, PuChew.^^  =ผู้จัดทำเวอร์ชัน 1.0 – 1.8.8^  SORNZiLLATE, NoTSoXDream, JASON.^^  =ขอบคุณทีมงานเดิม^  Artdekdok, cybertorns, MiXEL.SC, NoTSoXDream, Pigter, sornzilla, superogira.^^  <ทำเนียบนักแปล^  Davykun, iParnRequiem, PangInFN, ProfessorHydra, Tawan, unknownwmz.^^  <Chief Beta Tester^  Grace Manassanan.^^  =Beta tester^  Aek, Agist, Alice, Anel, BirdBBK, Kazuma, Mark, PadalPrussus, POo7x, TaNGGoDZeeD, The-Little-G, Venice, wa, zalxXxlaz.%item money 500 501 %%[letterbg 2][textcolor cyan][#]จดหมายจากทีมแปล"
             },
             "When": {
                 "Language": "th"
