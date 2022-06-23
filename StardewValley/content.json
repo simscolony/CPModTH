@@ -70,17 +70,17 @@
             }
         },
         {
-            "Name": "getGameVersion",
+            "Name": "Compatibility",
             "Value": "",
             "When": {
                 "Game Version": "1.6.0"
             }
         },
         {
-            "Name": "getGameVersion",
+            "Name": "Compatibility",
             "Value": "_{{Game Version}}",
             "When": {
-                "getGameVersion |contains=null": true
+                "Compatibility |contains=null": true
             }
         }
     ],
@@ -488,7 +488,7 @@
         {
             "Action": "Load",
             "Target": "Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Events/IslandSouth, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Fish, Data/Furniture, Data/hats, Data/ObjectInformation, Data/weapons",
-            "FromFile": "assets/Content{{getGameVersion}}/{{Target}}.xnb",
+            "FromFile": "assets/Content{{Compatibility}}/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
 
