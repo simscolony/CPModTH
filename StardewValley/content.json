@@ -4,7 +4,7 @@
         // appearance section
         "Game Version": {
             "AllowValues": "1.6.0, 1.5.6",
-            "Default": "1.5.6",
+            "Default": "1.5.6", // public release
             "Section": "Appearance"
         },
         "Thai Interface": {
@@ -44,6 +44,7 @@
     },
 
     "DynamicTokens": [
+        // visual style
         {
             "Name": "VisualStyle",
             "Value": "default"
@@ -69,6 +70,7 @@
                 "HasMod": "ManaKirel.VintageInterface2"
             }
         },
+        // compatibility
         {
             "Name": "Compatibility",
             "Value": "",
