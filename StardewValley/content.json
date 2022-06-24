@@ -65,7 +65,7 @@
                 "HasMod": "ManaKirel.VintageInterface2"
             }
         },
-        // Branch: Content = 1.6.0, Compatibility = 1.5.6
+        // branch: Content = 1.6.0, Compatibility = 1.5.6
         {
             "Name": "Branch",
             "Value": "Compatibility"
@@ -81,9 +81,9 @@
                 "TranslatorArmy.ModTH": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
                     "ID": "TranslatorArmy.ModTH",
                     "LanguageCode": "th",
-                    "ButtonTexture": "{{InternalAssetKey: assets/button_{{VisualStyle}}.png}}",
+                    "ButtonTexture": "{{InternalAssetKey: assets/button_{{VisualStyle}}.png}}", // load button texture
                     "UseLatinFont": false,
-                    "FontFile": "{{InternalAssetKey: assets/Content/Fonts/Thai.fnt}}",
+                    "FontFile": "{{InternalAssetKey: assets/Content/Fonts/Thai.fnt}}", // load font data file
                     "FontPixelZoom": 1,
                     "FontApplyYOffset": true,
                     "TimeFormat": "[HOURS_12]:[MINUTES] [AM_PM]",
@@ -93,14 +93,12 @@
             }
         },
 
-        // load font texture
+        // load font files
         {
             "Action": "Load",
             "Target": "Fonts/Thai_0, Fonts/Thai_1",
             "FromFile": "assets/Content/{{Target}}.png"
         },
-
-        // Fonts
         {
             "Action": "Load",
             "Target": "Fonts/SmallFont, Fonts/SpriteFont1",
@@ -108,7 +106,7 @@
             "When": { "Language": "th" }
         },
 
-        // Dialogue
+        // load dialogue
         {
             "Action": "Load",
             "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
@@ -116,7 +114,7 @@
             "When": { "Language": "th" }
         },
 
-        // Data
+        // load data
         {
             "Action": "Load",
             "Target": "Data/Achievements, Data/Blueprints, Data/Concessions, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/PaintData, Data/Quests, Data/SecretNotes",
@@ -135,7 +133,7 @@
             }
         },
 
-        // Events
+        // load events
         {
             "Action": "Load",
             "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_big, Data/Events/WizardHouse, Data/Events/Woods",
@@ -155,8 +153,8 @@
             "When": { "Language": "th" }
         },
 
-      // LooseSprites
-       {
+        // load loose sprites
+        {
             "Action": "Load",
             "Target": "LooseSprites/Billboard",
             "FromFile": "assets/Content/{{Target}}.xnb",
@@ -209,7 +207,7 @@
             }
         },
 
-        // Maps
+        // load maps
         {
             "Action": "Load",
             "Target": "Maps/bathhouse_tiles",
@@ -411,7 +409,7 @@
             }
         },
 
-        // Minigames
+        // load minigames
         {
             "Action": "Load",
             "Target": "Minigames/Intro",
@@ -445,7 +443,7 @@
             }
         },
 
-        // Strings
+        // load strings
         {
             "Action": "Load",
             "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/credits, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
@@ -459,7 +457,7 @@
             "When": { "Language": "th" }
         },
 
-        // TileSheets
+        // load tile sheets
         {
             "Action": "Load",
             "Target": "TileSheets/furniture",
@@ -471,7 +469,7 @@
             }
         },
 
-        // The latest version of the game
+        // load XNB impact
         {
             "Action": "Load",
             "Target": "Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Fish, Data/Furniture, Data/hats, Data/ObjectInformation, Data/weapons",
@@ -479,7 +477,7 @@
             "When": { "Language": "th" }
         },
 
-        // Letter from the translation team
+        // add letter from the translation team
         {
             "Action": "EditData",
             "Target": "Data/mail",
@@ -491,7 +489,7 @@
             }
         },
 
-        // Android UI translation
+        // add Android UI translation
         {
             "Action": "EditData",
             "Target": "Strings/UI",
