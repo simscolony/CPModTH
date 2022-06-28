@@ -2,7 +2,7 @@
     "Format": "1.27.0",
     "ConfigSchema": {
         // appearance section
-        "Thai Interface": {
+        "ThaiInterface": {
             "AllowValues": "true, false",
             "Default": true,
             "Section": "Appearance"
@@ -13,28 +13,28 @@
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "Billboard, ControllerMaps, Cursors, JojaCDForm, JunimoNote",
-            "Section": "Interface"
+            "Section": "Details"
         },
         "Maps": {
             "AllowValues": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "bathhouse_tiles, coopTiles, DesertTiles, fall_beach, fall_outdoorsTileSheet, fall_town, Festivals, samshowtiles, spring_beach, spring_outdoorsTileSheet, spring_town, springobjects, summer_beach, summer_outdoorsTileSheet, summer_town, TownIndoors, townInterior, winter_beach, winter_outdoorsTileSheet, winter_town",
-            "Section": "Interface"
+            "Section": "Details"
         },
         "Minigames": {
             "AllowValues": "Intro, jojacorps, TitleButtons",
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "Intro, jojacorps, TitleButtons",
-            "Section": "Interface"
+            "Section": "Details"
         },
         "TileSheets": {
             "AllowValues": "furniture",
             "AllowMultiple": true,
             "AllowBlank": true,
             "Default": "furniture",
-            "Section": "Interface"
+            "Section": "Details"
         }
     },
 
@@ -160,7 +160,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true,
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, Maraluna.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, vamoosi.RosierColoredGlasses, zazizu.darkUICP": false
             }
@@ -171,7 +171,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true
             }
         },
@@ -181,7 +181,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true
             }
         },*/
@@ -191,7 +191,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true,
                 "HasMod |contains=IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface": false
             }
@@ -202,7 +202,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true
             }
         },
@@ -214,7 +214,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -224,7 +224,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -234,7 +234,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -244,7 +244,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -254,7 +254,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -264,7 +264,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -274,7 +274,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -284,7 +284,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -294,7 +294,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -304,7 +304,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -314,7 +314,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -324,7 +324,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },*/
@@ -334,7 +334,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -344,7 +344,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -354,7 +354,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -364,7 +364,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -374,7 +374,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -384,7 +384,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -394,7 +394,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -404,7 +404,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Maps |contains={{TargetWithoutPath}}": true
             }
         },
@@ -416,7 +416,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Minigames |contains={{TargetWithoutPath}}": true,
                 "HasMod |contains=Acerbicon.Recolor": false
             }
@@ -427,7 +427,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Minigames |contains={{TargetWithoutPath}}": true
             }
         },
@@ -437,7 +437,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "Minigames |contains={{TargetWithoutPath}}": true,
                 "HasMod |contains=Amaryn.OvergrownFloweryInterface, Maraluna.OvergrownFloweryInterface, BeneathThePlass.StarrySkyInterfaceCP, ChaseXavier.transparentinterface-black, Eyeyumi.SakuraInterface, hopewashere.transparentinterface-darkbrown, IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley, ManaKirel.VintageInterface2, ManaKirel.VMI, Mareigh.NickiTitle, Maythorn.VintageInterfaceMultipack, megmom84.darkwoodinterface, ninthalley.CitrusInterface, ninthalley.TransparentBlueInterface, SabiMiyato.JollyRainbowInterface, SabiMiyato.UIJollyRainbow, SabiMiyato.UImodTH, TrixxedHeart.OmoValley": false
             }
@@ -464,7 +464,7 @@
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": {
                 "Language": "th",
-                "Thai Interface": true,
+                "ThaiInterface": true,
                 "TileSheets |contains={{TargetWithoutPath}}": true
             }
         },
