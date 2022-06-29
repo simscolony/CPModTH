@@ -203,7 +203,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "LooseSprites |contains={{TargetWithoutPath}}": true
+                "LooseSprites |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Lita.StarblueValley": false
             }
         },
 
