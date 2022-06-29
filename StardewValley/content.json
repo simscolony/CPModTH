@@ -246,7 +246,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -256,7 +257,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -266,7 +268,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -296,7 +299,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -306,7 +310,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -316,7 +321,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         /*{
@@ -336,7 +342,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -346,7 +353,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -356,7 +364,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -386,7 +395,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -396,7 +406,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
         {
@@ -406,7 +417,8 @@
             "When": {
                 "Language": "th",
                 "ThaiInterface": true,
-                "Maps |contains={{TargetWithoutPath}}": true
+                "Maps |contains={{TargetWithoutPath}}": true,
+                "HasMod |contains=Narianka.YetAnotherRecolour": false
             }
         },
 
