@@ -477,6 +477,20 @@
             "When": { "Language": "th" }
         },
 
+        // Fix Pierre's Map Tooltip
+        // Pierre stays closed on Wednesday unless all of the Community Center bundles are finished, and then Pierre's General Store will be open 7 days a week.
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromCSFiles",
+            "Entries": {
+                "MapPage.cs.11080": "เปิด 9:00 AM ถึง 5:00 PM"
+            },
+            "When": {
+                "IsCommunityCenterComplete": true,
+                "HasSeenEvent": "191393"
+            }
+        },
+
         // add letter from the translation team
         {
             "Action": "EditData",
