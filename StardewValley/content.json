@@ -472,7 +472,7 @@
         // load XNB impact
         {
             "Action": "Load",
-            "Target": "Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Fish, Data/Furniture, Data/hats, Data/ObjectInformation, Data/weapons",
+            "Target": "Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Fish, Data/Furniture, Data/hats, Data/ObjectInformation, Data/weapons",
             "FromFile": "assets/{{Branch}}/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
