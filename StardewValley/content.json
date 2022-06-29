@@ -486,8 +486,9 @@
                 "MapPage.cs.11080": "เปิด 9:00 AM ถึง 5:00 PM"
             },
             "When": {
-                "IsCommunityCenterComplete": true,
-                "HasSeenEvent": "191393"
+                "Language": "th",
+                "HasSeenEvent": "191393",
+                "IsCommunityCenterComplete": true
             }
         },
 
