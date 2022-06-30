@@ -504,6 +504,18 @@
                 "IsCommunityCenterComplete": true
             }
         },
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "Town.2": "ร้านขายของทั่วไป เปิด 9:00 AM ถึง 5:00 PM"
+            },
+            "When": {
+                "Language": "th",
+                "HasSeenEvent": "191393",
+                "IsCommunityCenterComplete": true
+            }
+        },
 
         // add letter from the translation team
         {
