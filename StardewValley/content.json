@@ -204,7 +204,7 @@
                 "Language": "th",
                 "ThaiInterface": true,
                 "LooseSprites |contains={{TargetWithoutPath}}": true,
-                "HasMod |contains=Lita.StarblueValley": false
+                "HasMod |contains=IYAHO.PinkBlueInterface, IYAHO.PinkDustInterface, Lita.StarblueValley": false
             }
         },
 
