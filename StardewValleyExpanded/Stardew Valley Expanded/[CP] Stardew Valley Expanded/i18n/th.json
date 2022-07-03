@@ -1,0 +1,59 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+
+    // Seasonal & Effects
+    "config.SeasonalEdits.name": "แก้ไขสิ่งต่างๆ ตามฤดูกาล",
+    "config.SeasonalEdits.description": "แก้ไขสิ่งต่างๆ ตามฤดูกาล ให้ดูสมเหตุสมผลมากขึ้น",
+    "config.ReplaceDefaultFences.name": "เปลี่ยนแปลงรั้วไม้",
+    "config.ReplaceDefaultFences.description": "แก้ไขรั้วไม้ในฤดูกาลต่างๆ ของเกม",
+    "config.ReplaceHardwoodFences.name": "เปลี่ยนแปลงรั้วไม้เนื้อแข็ง",
+    "config.ReplaceHardwoodFences.description": "แก้ไขรั้วไม้เนื้อแข็งในฤดูกาลต่างๆ ของเกม",
+    "config.ImmersiveShadows.name": "เงาที่สมจริง",
+    "config.ImmersiveShadows.description": "เงาด้านนอกของอาคารจะสว่างขึ้นในช่วงฤดูหนาว",
+    "config.MistEffects.name": "เอฟเฟกต์หมอก",
+    "config.MistEffects.description": "เพิ่มเอฟเฟกต์หมอกให้กับทางรถไฟ, ป่าดงดิบ, ภูเขา, ป่าซินเดอแซป, ป่าตะวันตก, กิลนักผจญภัย หากมีฝนหรือพายุ",
+
+    // Maps & Craftables
+    "config.OriginalMinesEntrance.name": "ทางเข้าเหมืองดั้งเดิม",
+    "config.OriginalMinesEntrance.description": "ช่วยให้ผู้เล่นไปถึงเหมืองได้เร็วขึ้น (ประหยัดเวลาในเกมประมาณ 30 นาที)",
+    "config.AlternativeCraftables.name": "ของคราฟ (ทางเลือก)",
+    "config.AlternativeCraftables.description": "เปลี่ยนแปลงรูปร่างของคราฟบางอย่างในเกม",
+    "config.RemoveObjectsFromGrandpasShed.name": "นำสิ่งของออกจากกระท่อมของคุณปู่",
+    "config.RemoveObjectsFromGrandpasShed.description": "นำถังบ่ม, โต๊ะทำงาน, กล่อง, ฯลฯ ออกจากกระท่อมของคุณปู่",
+    "config.RemoveSouthernCactusesFromDesert.name": "นำกระบองเพชรทางใต้ออกจากทะเลทราย",
+    "config.RemoveSouthernCactusesFromDesert.description": "ทำให้ผู้เล่นวางสิ่งของต่างๆ เช่น kegs และ barrels ได้ง่ายขึ้น",
+    "config.DisableSVEJojaMartShop.name": "ปิดการใช้งานร้านโจจ้ามาร์ท",
+    "config.DisableSVEJojaMartShop.description": "ปิดการใช้งานร้านโจจ้ามาร์ท เวอร์ชัน SVE",
+
+    // Items & Monsters
+    "config.LowerProfitMargins.name": "อัตรากำไรต่ำ",
+    "config.LowerProfitMargins.description": "ปรับราคาของไอเทม (บางอย่าง) ให้สูงกว่าเกมหลักเล็กน้อย",
+    "config.BalancedCrafting.name": "งานประดิษฐ์ที่สมดุล",
+    "config.BalancedCrafting.description": "เพิ่มจำนวนของที่จะใช้ในการคราฟไอเทม ให้ดูสมเหตุสมผลมากขึ้น",
+    "config.HarderBuildingConstruction.name": "การก่อสร้างอาคารที่ยากขึ้น",
+    "config.HarderBuildingConstruction.description": "เพิ่มจำนวนของที่จะใช้ในการก่อสร้างอาคาร ให้ดูสมเหตุสมผลมากขึ้น",
+    "config.StrongerMonsters.name": "มอนสเตอร์แข็งแกร่งขึ้น",
+    "config.StrongerMonsters.description": "ปรับให้มอนสเตอร์มีความแข็งแกร่งเพิ่มมากขึ้น",
+
+    // Portraits
+    "config.OlderSophiaPortraits.name": "รูป Portrait ของโซเฟีย",
+    "config.OlderSophiaPortraits.description": "เปิดใช้งานรูป Portrait ของโซเฟียที่มีอายุมากขึ้น",
+    "config.VanillaSandyPortraits.name": "รูป Portrait ของแซนดี้",
+    "config.VanillaSandyPortraits.description": "เปิดใช้งานรูป Portrait เกมหลักของแซนดี้",
+
+    // Dialogue
+    "config.MatureEvents.name": "เหตุการณ์สำหรับผู้ใหญ่",
+    "config.MatureEvents.description": "เพิ่มเหตุการณ์ที่มีเนื้อหาไม่เหมาะสมสำหรับเด็ก เช่น สงคราม, การสูญเสีย, การฆ่าตัวตาย, ฯลฯ",
+
+    // Shorter Path
+    "config.ShorterPathToBlueMoonVineyard.name": "เส้นทางที่สั้นกว่า สู่ไร่องุ่นบลูมูน",
+    "config.ShorterPathToBlueMoonVineyard.description": "เปิดใช้งานเส้นทางลัดไปสู่ไร่องุ่นบลูมูน",
+
+    // User Interface
+    "config.UseGaldoranThemeAllTimes.name": "ใช้ธีม Galdoran ตลอดเวลา",
+    "config.UseGaldoranThemeAllTimes.description": "เปิดใช้งานธีม Galdoran ตลอดเวลา",
+    "config.DisableGaldoranTheme.name": "ปิดการใช้งานธีม Galdoran",
+    "config.DisableGaldoranTheme.description": "ปิดการใช้งานธีม Galdoran (โดยปกติ UI จะถูกเปลี่ยนเมื่อผู้เล่นอยู่ใน Galdora เท่านั้น)"
+}
