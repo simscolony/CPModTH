@@ -27,12 +27,12 @@
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "RemoveLandExpansionPond": {
       "AllowValues": "true, false",
       "Default": "false"
    },
-   
+
       "GrassCropField": {
       "AllowValues": "true, false",
       "Default": "false"
@@ -834,7 +834,7 @@
      "ToArea": { "X": 110, "Y": 33, "Width": 26, "Height": 42 }
 },
 
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_ExtraLand_GrassField.tbin",
@@ -842,7 +842,7 @@
      "ToArea": { "X": 110, "Y": 33, "Width": 26, "Height": 42 }
 },
 
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_ExtraLand_NoPond.tbin",
@@ -850,7 +850,7 @@
      "ToArea": { "X": 110, "Y": 33, "Width": 26, "Height": 42 }
 },
 
-{ 
+{
      "Action": "EditMap",
      "Target": "Maps/Farm,Maps",
      "FromFile": "Assets/MapPatches/GrandpasFarm_ExtraLand_GrassField_NoPond.tbin",
