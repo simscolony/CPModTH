@@ -1,0 +1,8 @@
+﻿{
+    "config.section.Appearance.name": "สิ่งที่ปรากฎ",
+    "config.section.Appearance.description": "สิ่งที่ปรากฎในเกม",
+    "config.ThaiInterface.name": "อินเตอร์เฟซภาษาไทย",
+    "config.ThaiInterface.description": "แสดงป้ายร้านค้าและข้อความต่างๆ ภายในเกมเป็นภาษาไทย",
+    "config.section.Details.name": "รายละเอียด",
+    "config.section.Details.description": "รายละเอียดต่างๆ ของอินเตอร์เฟซที่เปิดใช้งาน"
+}
