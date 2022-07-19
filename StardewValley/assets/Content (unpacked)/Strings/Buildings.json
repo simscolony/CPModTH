@@ -30,6 +30,7 @@
         "NoFish": "สามารถเลี้ยงปลาในบ่อนี้ได้",
         "PondFull": "บ่อนี้เต็มแล้ว",
         "Paint_Region_Roof": "หลังคา",
-        "Paint_Region_Building": "หลังคา"
+        "Paint_Region_Building": "อาคาร",
+        "Paint_Region_Trim": "ขอบและประตู"
     }
 }
