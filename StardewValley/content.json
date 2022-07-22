@@ -117,7 +117,7 @@
         // load data
         {
             "Action": "Load",
-            "Target": "Data/Achievements, Data/Blueprints, Data/Concessions, Data/CookingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/Quests, Data/SecretNotes",
+            "Target": "Data/Achievements, Data/Blueprints, Data/Concessions, Data/CookingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/PaintData, Data/Quests, Data/SecretNotes",
             "FromFile": "assets/Content/{{Target}}.xnb",
             "When": { "Language": "th" }
         },
