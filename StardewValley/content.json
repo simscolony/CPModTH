@@ -53,6 +53,13 @@
         },
         {
             "Name": "VisualStyle",
+            "Value": "sni",
+            "When": {
+                "HasMod": "SprngTHZ_Starry_Night_Interface"
+            }
+        },
+        {
+            "Name": "VisualStyle",
             "Value": "vi1",
             "When": {
                 "HasMod": "ManaKirel.VMI"
