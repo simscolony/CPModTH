@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(รักหนักหน่วง) ค้อนสงคราม อาวุธหนักที่อัดแน่นไปด้วย พลังทำลายล้างเมื่อฟาด และมีปลายเป็นหอก เพื่อเพิ่มความเสียหายอีกรูปแบบ ซึ่งนักผจญภัยบางคนบอกว่า มันค่อนข้างโหดเกินไป",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

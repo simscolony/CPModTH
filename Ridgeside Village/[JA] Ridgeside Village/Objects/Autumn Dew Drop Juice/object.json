@@ -45,7 +45,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -61,7 +61,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -71,6 +71,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(หยดน้ำค้างในฤดูใบไม้ร่วง) น้ำผลไม้ที่ทำให้คุณลิ้มรสำ ไปกับรสชาติแห่งภูเขา ได้ในหนึ่งแก้ว!",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

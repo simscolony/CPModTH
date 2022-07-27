@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -39,6 +39,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(สเตอร์เจียนหางดาบ) เป็นปลาที่อันตรายสุดๆ หางของมันคมดั่งใบมีด การล่าพวกมันมากเกิน ไปทำให้จำนวนประชากร ของสายพันธุ์นี้ลดน้อยลง หางของพวกมัน เคยเป็นหัวลูกศร ในสมัยโบราณ",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

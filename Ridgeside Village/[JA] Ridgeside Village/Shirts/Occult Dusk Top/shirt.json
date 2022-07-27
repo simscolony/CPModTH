@@ -6,7 +6,7 @@
 "Dyable":true,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -22,7 +22,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -32,6 +32,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ยามย่ำค่ำที่ถูกลงอาคม) เพราะเรื่องลับๆ เป็นเรื่องสำคัญ ที่เติมเต็มความพึงพอใจ ให้กับหญิงสาว...",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

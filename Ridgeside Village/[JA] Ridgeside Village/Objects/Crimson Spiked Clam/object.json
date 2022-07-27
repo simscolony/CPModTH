@@ -14,7 +14,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -40,6 +40,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(หอยหนามแดง) เป็นหอยที่ใกล้สูญพันธุ์ มันถูกปกคลุม ด้วยหนามแหลมสีแดง ได้ราคาสูงลิ่บลิ่ว เพราะให้ไข่มุก ที่มีลักษณะคล้ายทับทิม",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

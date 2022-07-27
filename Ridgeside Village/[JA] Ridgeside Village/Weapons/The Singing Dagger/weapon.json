@@ -16,7 +16,7 @@
 	"CritMultiplier": 3,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(กริชลำนำ) ใบมีดรูปทรงแปลกๆ ที่สร้างเสียงเหมือนเสียงผิวปาก ทุกครั้งที่กวัดแกว่ง แทบจะเป็นไปไม่ได้เลย ที่จะใช้มันในการลอบสังหาร และมันยังสามารถใช้เป็นขลุ่ยได้ด้วย แต่ก็ระวังหน่อยล่ะ",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

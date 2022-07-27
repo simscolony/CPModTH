@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ขยี้หัวใจ) สนับมือทองเหลือง ปลายหนาม มีพลังทำลายล้างสูง ชื่อนี้ได้มาจาก การใช้มันจัดการศัตรู ที่ถูกชกด้วยเจ้านี่",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

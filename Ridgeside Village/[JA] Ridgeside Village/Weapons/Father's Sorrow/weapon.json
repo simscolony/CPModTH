@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ความเศร้าโศกของผู้เป็นพ่อ) ใบมีดปริศนา ที่ทำให้เกิดความเจ็บปวด อย่างแสนสาหัส จากรอยเฉือนเล็กๆ ที่เหยื่อได้รับ... บางครั้งก็เกิดกับผู้ใช้มันเช่นกัน เชื่อกันว่ามันต้องคำสาป",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

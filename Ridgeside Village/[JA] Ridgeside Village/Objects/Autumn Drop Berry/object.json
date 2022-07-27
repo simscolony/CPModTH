@@ -13,7 +13,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -39,6 +39,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(เบอรี่หยาด แห่งฤดูใบไม้ร่วง) รสชาติที่เปรียบได้ดั่ง หยาดฝนในคืนฤดูใบไม้ร่วง พบได้ทั่วไปใกล้กับแนวสันเขา ให้ความรู้สึกเหมือนถั่ว แต่มีรสหวาน",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

@@ -16,7 +16,7 @@
 	"CritMultiplier": 3,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ดาบแห่งผู้เป็นเยี่ยงอย่าง) ดาบโบราณที่เชื่อว่า ถูกส่งต่อกันมาจากรุ่นสู่รุ่น ของบรรดาวีรบุรุษ หรือเหล่าผู้นำ ต้องดูแลมันเป็นอย่างดี",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

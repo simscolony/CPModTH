@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -39,6 +39,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(กระพรุนห้องหัวใจ) นี่คือสิ่งมหัศจรรย์ ทางชีววิทยาอย่างแท้จริง มีความคล้ายคลึงกับ ลักษณะผนังกั้นห้องหัวใจ และหัวใจห้องล่าง ที่ถูกเชื่อมติดกัน อย่างไม่น่าเชื่อ แม้จะมีพิษ แต่ก็ใกล้สูญพันธุ์ เพราะเคลื่อนที่ไม่ค่อยได้",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

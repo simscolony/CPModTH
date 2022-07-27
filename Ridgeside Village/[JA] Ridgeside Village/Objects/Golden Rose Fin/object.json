@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -39,6 +39,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ครีบกุหลาบสีทอง) เจ้าปลาตัวน้อย ที่มีครีบใหญ่แต่บาง ขณะที่มันว่ายน้ำ การเคลื่อนไหวของครีบที่ใหญ่ และยาวของมัน ทำให้ดูเหมือนว่า มันกำลังเต้นรำ หมุนตัว และเคลื่อนที่ไปพร้อมกัน",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

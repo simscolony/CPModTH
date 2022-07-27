@@ -16,7 +16,7 @@
 	"CritMultiplier": 1,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(แส้พิโรธ) แส้ขึ้นชื่อที่มีหนามแหลม ต้องใช้ความชำนาญในการควง ตัวแส้ทำมาจากวัสดุยืดหยุ่น ที่หลอมด้วยอิริเดียมเล็กน้อย",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

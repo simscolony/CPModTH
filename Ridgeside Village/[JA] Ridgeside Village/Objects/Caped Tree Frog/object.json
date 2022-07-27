@@ -13,7 +13,7 @@
 	},
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -39,6 +39,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(เขียดผ้าคลุม) ลวดลายสีแดงที่คอและหลัง มองดูคล้ายผ้าคลุมไหล่ มันจะหดแขนข้างหนึ่ง และเหยียดแขนอีกข้างหนึ่ง ทุกครั้งที่กระโดด ความหายากของมัน ทำให้มันกลายเป็นสัตว์เลี้ยงที่มีค่า ในหมู่นักสะสม",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

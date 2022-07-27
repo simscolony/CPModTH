@@ -13,7 +13,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -29,7 +29,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -39,6 +39,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(เบอร์รี่ก้อนน้ำแข็ง) เบอร์รี่แปลกๆ ที่ดูเหมือนว่ามันจะสุก ต่อเมื่อถูกหิมะปกคลุมเท่านั้น รสชาติคล้ายองุ่น แต่ก็เหมือนเมล่อนนิดๆ",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

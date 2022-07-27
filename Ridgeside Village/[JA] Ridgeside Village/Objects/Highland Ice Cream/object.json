@@ -41,7 +41,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -57,7 +57,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -67,6 +67,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ไอติมภูเขา) ไอศกรีมพิเศษ ที่ทำในหมู่บ้านริดจ์ไซด์ เอร็ดอร่อยได้ ไปพร้อมกับวิวภูเขา",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

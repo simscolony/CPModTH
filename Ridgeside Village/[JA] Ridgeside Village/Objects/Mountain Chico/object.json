@@ -14,7 +14,7 @@
   },
 
       "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -30,7 +30,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -40,6 +40,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ชิโคภูเขา) ผลไม้แปลกๆ ที่ต่างไปสายพันธุ์อื่น ในตระกูลของมัน ให้ผลจากต้นที่มีลักษณะ เป็นพุ่มไม้ป่า แทนที่จะเป็นไม้ยืนต้น",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

@@ -45,7 +45,7 @@
     },
 
     "NameLocalization":
-    { 
+    {
       //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -61,7 +61,7 @@
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
+      //remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -71,6 +71,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ริดจ์ไซด์ เชคตินี่) ความพิเศษของ ริดจ์ไซด์วิลเลจ เลยล่ะ",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(ดาบคงกระพัน) ดาบโบราณ ที่ถูกตั้งชื่อตามตำนาน เล่าขานของมัน ว่าเป็นดาบที่ถูกใช้ โดยผู้ถือครองมากว่า 1000 คน และมันไม่เคยบกพร่องในหน้าที่ ทำมาจากวัสดุแปลกๆ ที่ไม่มีวันแตกหักได้ ลือกันว่า น่าจะมีความเกี่ยวข้อง กับชนเผ่าคนแคระโบราณด้วย",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

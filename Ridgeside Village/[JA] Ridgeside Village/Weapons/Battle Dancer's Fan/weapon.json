@@ -16,7 +16,7 @@
 	"CritMultiplier": 2,
 
     "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -42,6 +42,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(พัดระบำศึก) พัดที่ใบมีดสีทองคมกริบ ตำนานเล่าว่าอาวุธนี้ ถูกใช้โดยนางรำทรงเสน่ห์ แต่โหดเหี้ยม เมื่อในอดีต",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }

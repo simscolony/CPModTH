@@ -10,7 +10,7 @@
 	"IsColored": false,
 
 	    "NameLocalization":
-    { 
+    {
     	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
@@ -26,7 +26,7 @@
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
+    	//remove the "//" from your language
         //"es": "PLACEHOLDER",
         //"ko": "PLACEHOLDER",
         //"de": "PLACEHOLDER",
@@ -36,6 +36,7 @@
         //"ja": "PLACEHOLDER",
         //"pt": "PLACEHOLDER",
         //"ru": "PLACEHOLDER",
+        "th": "(แก่นวิญญาณ) หนึ่งในพวก ก้อนกรวดปริศนา มีแสงเรืองสลัวๆ",
         //"tr": "PLACEHOLDER",
         //"zh": "PLACEHOLDER",
     }
