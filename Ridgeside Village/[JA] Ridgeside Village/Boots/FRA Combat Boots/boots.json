@@ -1,7 +1,7 @@
 {
 	"Name": "FRA Combat Boots",
   "Price": 500,
-	"Description": "Standard issue combat boots for troops in the Ferngill Republic Army.",
+	"Description": "(บูตประจันบาน FRA) รองเท้าบูตมาตรฐาน ที่ใช้ในกองทหาร แห่งสาธารณรัฐเฟิร์นกิลล์",
 	"Defense": 7,
 	"Immunity": 7,
 	"PurchaseFrom": "",

@@ -2,7 +2,7 @@
   "Name": "Cherry Pluot Tree",
   "Product": "Cherry Pluot",
   "SaplingName": "Cherry Pluot Sapling",
-  "SaplingDescription": "Takes 28 days to produce a mature Cherry Pluot tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.",
+  "SaplingDescription": "(ต้นกล้าพลูอ็อตเชอร์รี) ใช้เวลา 28 วันในการเจริญเติบโต เป็นต้นพลูอ็อตเชอร์รี ออกผลในฤดูใบไม้ผลิ และจะเติบโตได้ ต่อเมื่อมีพื้นที่ว่างเปล่า 8 ช่องรอบๆ ลำต้นเท่านั้น",
   "Season": "spring",
   "SaplingPurchasePrice": 1200,
   "SaplingPurchaseFrom": "null",

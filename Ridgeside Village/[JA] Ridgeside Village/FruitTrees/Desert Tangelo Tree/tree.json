@@ -2,7 +2,7 @@
   "Name": "Desert Tangelo Tree",
   "Product": "Desert Tangelo",
   "SaplingName": "Desert Tangelo Sapling",
-  "SaplingDescription": "Takes 28 days to produce a mature Desert Tangelo tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.",
+  "SaplingDescription": "(ต้นกล้าส้มแทนเจโลทะเลทราย) ใช้เวลา 28 วันในการเจริญเติบโต เป็นต้นส้มแทนเจโลทะเลทราย ออกผลในฤดูร้อน และจะเติบโตได้ ต่อเมื่อมีพื้นที่ว่างเปล่า 8 ช่องรอบๆ ลำต้นเท่านั้น",
   "Season": "summer",
   "SaplingPurchasePrice": 1200,
   "SaplingPurchaseFrom": "null",

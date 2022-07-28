@@ -2,7 +2,7 @@
   "Name": "Ember Blood Lime Tree",
   "Product": "Ember Blood Lime",
   "SaplingName": "Ember Blood Lime Sapling",
-  "SaplingDescription": "Takes 28 days to produce a mature Ember Blood Lime tree. Ready to harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
+  "SaplingDescription": "(ต้นกล้ามะนาวเพลิงโลหิต)  ใช้เวลา 28 วันในการเจริญเติบโต เป็นต้นมะนาวเพลิงโลหิต ออกผลในฤดูใบไม้ร่วง และจะเติบโตได้ ต่อเมื่อมีพื้นที่ว่างเปล่า 8 ช่องรอบๆ ลำต้นเท่านั้น",
   "Season": "fall",
   "SaplingPurchasePrice": 1200,
   "SaplingPurchaseFrom": "null",
